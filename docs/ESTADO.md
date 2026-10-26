@@ -4,7 +4,7 @@ La obra tiene 13 capítulos originales. El desglose inicial es una estimación e
 
 | Capítulo | Título | Páginas previstas | Ilustradas |
 | --- | --- | ---: | ---: |
-| 1 | ¿Cómo qué bebés? | 18 | 3 |
+| 1 | ¿Cómo qué bebés? | 18 | 5 |
 | 2 | Noticias Inesperadas | 33 | 0 |
 | 3 | La serpiente y el tejón inflable. | 9 | 0 |
 | 4 | Operación Maternidad | 23 | 0 |
