@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102e29">
+  <meta name="description" content="Lee Dos Parkinson y Medio, una adaptación ilustrada no oficial del fanfic de Nicole_Winkel. Un proyecto de paternidad y demasiado caos en Hogwarts.">
+  <title>Dos Parkinson y Medio · Cómic</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#principal">Saltar al contenido</a>
+  <header class="masthead">
+    <a href="#" class="brand" aria-label="Dos Parkinson y Medio, inicio"><span class="brand-seal" aria-hidden="true">2½</span><span>EL ARCHIVO <small>HISTORIAS ILUSTRADAS</small></span></a>
+    <nav aria-label="Navegación principal"><a href="#capitulos">Capítulos</a><a href="https://archiveofourown.org/works/54184711" target="_blank" rel="noopener noreferrer">Obra original <span aria-hidden="true">↗</span></a></nav>
+  </header>
+  <main id="principal">
+    <section id="biblioteca" aria-labelledby="book-title">
+      <div class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span aria-hidden="true">✦</span> COMEDIA MÁGICA · FAN CÓMIC</p>
+          <h1 id="book-title">Dos Parkinson<br><em>y Medio.</em></h1>
+          <p class="byline">Una historia de <strong>Nicole_Winkel</strong></p>
+          <p class="synopsis">Un proyecto de paternidad en Hogwarts. Dos personalidades que no podrían ser más distintas. Y un pequeño detalle que lo cambiará todo.</p>
+          <div class="hero-actions"><button id="empezar" class="button primary" disabled>Preparando las primeras páginas</button><a class="button quiet" href="#capitulos">Explorar capítulos <span aria-hidden="true">↓</span></a></div>
+          <p id="progreso-global" class="publication" role="status">Cargando la biblioteca…</p>
+          <div class="book-details"><span>13 <small>CAPÍTULOS ORIGINALES</small></span><span>ES <small>EN ESPAÑOL</small></span><span>2½ <small>MUCHO POR DESCUBRIR</small></span></div>
+        </div>
+        <div class="cover-stage"><span class="orbit orbit-one" aria-hidden="true"></span><span class="orbit orbit-two" aria-hidden="true"></span><div class="cover-book"><img src="assets/portada.webp" alt="Hermione y Pansy miran con sorpresa una cuna mágica en el Gran Comedor de Hogwarts" width="1024" height="1536" fetchpriority="high"></div><span class="cover-note">UNA NUEVA FORMA DE LEER LA HISTORIA</span></div>
+      </div>
+      <section class="chapters-section" id="capitulos" aria-labelledby="chapters-title">
+        <div class="section-heading"><div><p class="eyebrow">ELIGE POR DÓNDE EMPEZAR</p><h2 id="chapters-title">Entre magia y pañales</h2></div><p>La historia, viñeta a viñeta.<br><span>Los capítulos se publican por entregas.</span></p></div>
+        <div id="chapter-list" class="chapter-list" aria-live="polite"></div>
+      </section>
+      <aside class="editorial-note"><span class="note-star" aria-hidden="true">✧</span><div><h2>Sobre esta edición</h2><p>Adaptación ilustrada no oficial de <em>Dos Parkinson y Medio</em>, de Nicole_Winkel. Conserva la trama y el humor, con elipsis en las escenas íntimas. Las ilustraciones se crean con IA y se revisan antes de publicarse. Los capítulos pendientes todavía no están dibujados.</p><a href="https://archiveofourown.org/works/54184711" target="_blank" rel="noopener noreferrer">Visitar la historia original <span aria-hidden="true">↗</span></a></div></aside>
+    </section>
+    <section id="lector" hidden aria-labelledby="reader-title">
+      <div class="reader-toolbar"><button id="volver" class="text-button">← Biblioteca</button><div class="reader-label"><small id="reader-chapter"></small><h1 id="reader-title"></h1></div><button id="indice" class="icon-button" aria-label="Abrir índice de capítulos">☰</button></div>
+      <div class="reader-options"><label class="chapter-picker">Capítulo <select id="chapter-select" aria-label="Elegir capítulo"></select></label><div class="view-switch" role="group" aria-label="Modo de lectura"><button id="modo-pagina" aria-pressed="true">Página a página</button><button id="modo-vertical" aria-pressed="false">Vertical</button></div><button id="compartir" class="text-button">Compartir ↗</button></div>
+      <div id="reading-progress" class="reading-progress" aria-hidden="true"><span></span></div>
+      <p class="reader-hint">Toca una página para ampliarla. Tu punto de lectura se guarda en este dispositivo.</p>
+      <div id="pages" class="pages"></div>
+      <div id="page-navigation" class="page-navigation"><button id="anterior" class="button secondary">← Anterior</button><label>Página <select id="page-select" aria-label="Ir a una página"></select> <span id="page-total"></span></label><button id="siguiente" class="button primary">Siguiente →</button></div>
+      <div id="chapter-end" class="chapter-end" hidden><span aria-hidden="true">✦</span><h2>La magia continúa…</h2><p id="chapter-end-text"></p><button class="button secondary" id="end-library">Volver al índice</button></div>
+      <p id="reader-status" class="reader-status" role="status"></p>
+    </section>
+    <div id="load-error" class="load-error" hidden role="alert"><h2>No pudimos cargar el índice</h2><p>Comprueba tu conexión y vuelve a intentarlo.</p><button id="reintentar" class="button primary">Reintentar</button></div>
+  </main>
+  <footer><span class="footer-title">Dos Parkinson y Medio</span><p>Historia original: Nicole_Winkel · Universo de Harry Potter: J. K. Rowling<br>Fan cómic no oficial, sin afiliación con las titulares de la obra.</p><a href="https://github.com/OscarD0823/dos-parkinson-y-medio" target="_blank" rel="noopener noreferrer">Proyecto en GitHub ↗</a></footer>
+  <dialog id="zoom-dialog" aria-labelledby="zoom-title"><div class="zoom-toolbar"><span id="zoom-title">Ampliar página</span><div><button id="zoom-less" class="icon-button" aria-label="Reducir ampliación">−</button><output id="zoom-level">100 %</output><button id="zoom-more" class="icon-button" aria-label="Aumentar ampliación">+</button><button id="zoom-close" class="text-button">Cerrar ×</button></div></div><div class="zoom-content"><img id="zoom-image" alt=""></div></dialog>
+  <noscript><p class="no-js">Activa JavaScript para usar el lector. También puedes leer las páginas desde el <a href="https://github.com/OscarD0823/dos-parkinson-y-medio/tree/main/dist/paginas">repositorio de GitHub</a>.</p></noscript>
+</body>
+</html>

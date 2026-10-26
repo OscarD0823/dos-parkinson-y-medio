@@ -1,0 +1,6 @@
+.local/
+tmp/
+node_modules/
+*.pdf
+*.log
+__pycache__/

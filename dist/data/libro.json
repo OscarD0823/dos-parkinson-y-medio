@@ -1,0 +1,160 @@
+{
+  "title": "Dos Parkinson y Medio",
+  "author": "Nicole_Winkel",
+  "originalUrl": "https://archiveofourown.org/works/54184711",
+  "adaptation": "Adaptación ilustrada no oficial. Escenas íntimas con elipsis.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "¿Cómo qué bebés?",
+      "sourcePages": [
+        3,
+        21
+      ],
+      "words": 6170,
+      "plannedPages": 18,
+      "pages": [
+        {
+          "number": 1,
+          "image": "paginas/c01-p001.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 1 del cómic.",
+          "transcript": "Una lectura demasiado interesante… y Hermione volvía a perder la noción del tiempo.\nHermione: ¡Voy tarde!\nSophie: ¡Hermione! Hola.\nHermione: Hola, Sophie. ¿Aún no ha llegado el profesor?\nSophie: Las clases fueron suspendidas. Tenemos que ir al Gran Comedor.\nHermione: ¿Suspendidas? ¿Por qué?\nSophie: No lo sé. Quise esperarte para que no fueras sola.\nHermione: Muchas gracias. No tenías que hacerlo.\nSophie: Me gusta pasar tiempo contigo.\nSophie habló de sus clases y de un trabajo pendiente de Herbología.\nHermione piensa: Nunca suspenden las clases sin una razón importante… ¿Habrá algún peligro?\nSophie: ¿Hermione? ¿Sigues conmigo?\nHermione: Lo siento. Me perdí en mis pensamientos.\nSophie: No te preocupes. ¿Te veo después?\nHermione: Seguro. Gracias por acompañarme.\nDentro, todos parecían hacerse la misma pregunta."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Noticias Inesperadas",
+      "sourcePages": [
+        22,
+        61
+      ],
+      "words": 12497,
+      "plannedPages": 33,
+      "pages": []
+    },
+    {
+      "number": 3,
+      "title": "La serpiente y el tejón inflable.",
+      "sourcePages": [
+        62,
+        70
+      ],
+      "words": 3420,
+      "plannedPages": 9,
+      "pages": []
+    },
+    {
+      "number": 4,
+      "title": "Operación Maternidad",
+      "sourcePages": [
+        71,
+        92
+      ],
+      "words": 8481,
+      "plannedPages": 23,
+      "pages": []
+    },
+    {
+      "number": 5,
+      "title": "Sentimientos",
+      "sourcePages": [
+        93,
+        112
+      ],
+      "words": 7279,
+      "plannedPages": 19,
+      "pages": []
+    },
+    {
+      "number": 6,
+      "title": "Patatas fritas y malteada de fresa.",
+      "sourcePages": [
+        113,
+        141
+      ],
+      "words": 11376,
+      "plannedPages": 28,
+      "pages": []
+    },
+    {
+      "number": 7,
+      "title": "¡Ha nacido un Parkinson!",
+      "sourcePages": [
+        142,
+        161
+      ],
+      "words": 7710,
+      "plannedPages": 21,
+      "pages": []
+    },
+    {
+      "number": 8,
+      "title": "La Familia Parkinson",
+      "sourcePages": [
+        162,
+        191
+      ],
+      "words": 14818,
+      "plannedPages": 33,
+      "pages": []
+    },
+    {
+      "number": 9,
+      "title": "Esmoquin, pañales y alta sociedad",
+      "sourcePages": [
+        192,
+        246
+      ],
+      "words": 20838,
+      "plannedPages": 55,
+      "pages": []
+    },
+    {
+      "number": 10,
+      "title": "Rivales",
+      "sourcePages": [
+        247,
+        309
+      ],
+      "words": 26166,
+      "plannedPages": 64,
+      "pages": []
+    },
+    {
+      "number": 11,
+      "title": "Anatomía de un Rumor",
+      "sourcePages": [
+        310,
+        393
+      ],
+      "words": 36806,
+      "plannedPages": 85,
+      "pages": []
+    },
+    {
+      "number": 12,
+      "title": "Parkinson's Christmas",
+      "sourcePages": [
+        394,
+        571
+      ],
+      "words": 64382,
+      "plannedPages": 178,
+      "pages": []
+    },
+    {
+      "number": 13,
+      "title": "La Dolce Vita",
+      "sourcePages": [
+        572,
+        744
+      ],
+      "words": 63406,
+      "plannedPages": 173,
+      "pages": []
+    }
+  ]
+}
