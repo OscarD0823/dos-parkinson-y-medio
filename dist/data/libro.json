@@ -169,7 +169,24 @@
       ],
       "words": 12497,
       "plannedPages": 33,
-      "pages": []
+      "pages": [
+        {
+          "number": 1,
+          "image": "paginas/c02-p001.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 2: Noticias Inesperadas. Página 1 del cómic.",
+          "transcript": "La semana había llegado a su fin.\nAviso: Pareja registrada. Anthony Goldstein y Romilda Vane.\nOtras elecciones también habían sorprendido al colegio.\nLista: 2. Draco Malfoy y Astoria Greengrass.\nTheodore Nott y Luna Lovegood se registraron el jueves.\nOtros confiaron la elección a sus profesores.\nHermione piensa: Como el cáliz de fuego… pero ahora importa la personalidad, no el coraje.\nLas asignaciones se anunciarían después de la cena.\nEn su rincón favorito, Hermione podía olvidarse del mundo.\nPasos entre las estanterías: tap, tap.\nSophie aparece en el pasillo de la biblioteca."
+        },
+        {
+          "number": 2,
+          "image": "paginas/c02-p002.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 2: Noticias Inesperadas. Página 2 del cómic.",
+          "transcript": "Hermione: ¡Sophie! Hola.\nSophie: Hola, Hermione. Espero no interrumpir.\nHermione: Para nada. Me sorprendió verte aquí; pocas personas conocen este rincón.\nSophie: Ginny me dijo dónde encontrarte. Fui yo quien insistió.\nHermione: No es ningún secreto. ¿Querías hablar de algo?\nSophie: ¡Sí! Si te parece bien…\nSophie: Ya lo había practicado… No debería ser tan difícil.\nHermione: Está bien…\nSophie: Hermione, ¿quieres ser mi pareja para el proyecto de los bebés? Me encantaría que fueras la otra mamá.\nNo había contemplado hacer el proyecto con una chica. Pero no le parecía una mala idea.\nSophie: No tienes que aceptar. Me gustas mucho y quería intentarlo. Pero aunque digas que no, nuestra amistad seguirá igual.\nSophie: Quiero seguir compartiendo momentos contigo.\nDe pronto, tenía mil pensamientos y ninguna respuesta."
+        }
+      ]
     },
     {
       "number": 3,
