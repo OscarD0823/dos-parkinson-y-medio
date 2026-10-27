@@ -1,8 +1,8 @@
 'use strict';
 (() => {
   const $ = id => document.getElementById(id);
-  const ui = Object.fromEntries(['biblioteca','lector','load-error','chapter-list','progreso-global','empezar','reader-title','reader-chapter','chapter-select','pages','page-select','page-total','anterior','siguiente','chapter-end','chapter-end-text','modo-pagina','modo-vertical','reading-progress','reader-status','zoom-dialog','zoom-image','zoom-level','zoom-title'].map(id => [id,$(id)]));
-  let book, chapter, pageIndex = 0, mode = 'pagina', observer, zoom = 100;
+  const ui = Object.fromEntries(['biblioteca','lector','load-error','chapter-list','progreso-global','empezar','reader-title','reader-chapter','chapter-select','pages','page-select','page-total','anterior','siguiente','chapter-end','chapter-end-text','modo-pagina','modo-vertical','reading-progress','reader-status','zoom-dialog','zoom-image','zoom-level','zoom-title','zoom-previous','zoom-next'].map(id => [id,$(id)]));
+  let book, chapter, pageIndex = 0, zoomPageIndex = 0, mode = 'pagina', observer, zoom = 100;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
   let activeTurn, gesture, suppressTouchClickUntil = 0;
   const storageKey = 'dos-parkinson-y-medio:lectura:v1';
@@ -13,7 +13,7 @@
   const route = (number,index=0,newMode=mode,replace=false) => {
     const hash=`#capitulo=${number}&pagina=${index+1}&modo=${newMode}`;
     if(replace){history.replaceState(null,'',hash);readRoute();}
-    else if(location.hash===hash)readRoute();else location.hash=hash;
+    else if(location.hash===hash)readRoute();else{history.pushState(history.state,'',hash);readRoute();}
   };
   const message = text => {ui['reader-status'].textContent=text;};
   function renderLibrary(){
@@ -47,10 +47,27 @@
     ui['reading-progress'].firstElementChild.style.width=`${(pageIndex+1)/chapter.pages.length*100}%`;
     ui['page-select'].value=String(pageIndex);save();
   }
-  function openZoom(p){
-    zoom=100;ui['zoom-image'].src=p.image;ui['zoom-image'].alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;
+  function showZoomPage(index,resetZoom=false){
+    const p=chapter.pages[index];if(!p)return;
+    zoomPageIndex=index;if(resetZoom)zoom=100;
+    ui['zoom-image'].src=p.image;ui['zoom-image'].alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;
     ui['zoom-title'].textContent=`Capítulo ${chapter.number} · Página ${p.number}`;
-    applyZoom();ui['zoom-dialog'].showModal();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
+    ui['zoom-previous'].disabled=index===0;ui['zoom-next'].disabled=index===chapter.pages.length-1;
+    ui['zoom-previous'].setAttribute('aria-label',`Página anterior${index?`, página ${index}`:''}`);
+    ui['zoom-next'].setAttribute('aria-label',`Página siguiente${index+1<chapter.pages.length?`, página ${index+2}`:''}`);
+    applyZoom();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
+  }
+  function openZoom(p){
+    const index=chapter.pages.indexOf(p);showZoomPage(index>=0?index:pageIndex,true);
+    ui['zoom-dialog'].showModal();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
+  }
+  function turnZoomPage(direction){
+    const next=zoomPageIndex+direction;if(next<0||next>=chapter.pages.length)return;
+    showZoomPage(next);route(chapter.number,next,mode);
+    if(!reducedMotion.matches)ui['zoom-image'].animate([
+      {opacity:.55,transform:`translateX(${direction>0?'20px':'-20px'}) scale(.99)`},
+      {opacity:1,transform:'translateX(0) scale(1)'}
+    ],{duration:260,easing:'cubic-bezier(.2,.7,.2,1)'});
   }
   function applyZoom(){ui['zoom-image'].style.width=`${zoom}%`;ui['zoom-level'].textContent=`${zoom} %`;$('zoom-less').disabled=zoom===100;$('zoom-more').disabled=zoom===250;}
   function cancelPageTurn(){
@@ -119,9 +136,9 @@
     if(p.transcript){const details=element('details');details.append(element('summary','','Leer transcripción'),element('p','',p.transcript));figure.append(details);}
     return figure;
   }
-  function renderReader(){
+  function renderReader({preservePagePosition=false}={}){
     ui.pages.dataset.mode=mode;
-    document.querySelector('.reader-hint').textContent=mode==='pagina'?'Desliza a los lados para pasar la hoja. Toca una página para ampliarla. Tu lectura se guarda.':'Desplázate hacia abajo para leer. Toca una página para ampliarla. Tu lectura se guarda.';
+    document.querySelector('.reader-hint').textContent=mode==='pagina'?'Desliza para pasar la hoja. Amplía una página y toca sus bordes para cambiar de página. Tu lectura se guarda.':'Desplázate hacia abajo para leer. En la ampliación, toca los bordes para cambiar de página.';
     observer?.disconnect();ui.biblioteca.hidden=true;ui.lector.hidden=false;document.body.classList.add('reader-active');
     document.title=`${chapter.title} · Dos Parkinson y Medio`;
     ui['reader-title'].textContent=chapter.title;ui['reader-chapter'].textContent=`CAPÍTULO ${String(chapter.number).padStart(2,'0')}`;
@@ -146,7 +163,7 @@
       ui.pages.querySelectorAll('figure').forEach(e=>observer.observe(e));
       requestAnimationFrame(()=>$(`pagina-${chapter.pages[pageIndex].number}`).scrollIntoView({behavior:'instant',block:'start'}));
     }else{
-      window.scrollTo({top:ui.lector.offsetTop,behavior:'instant'});
+      if(!preservePagePosition)window.scrollTo({top:ui.lector.offsetTop,behavior:'instant'});
       for(const index of [pageIndex-1,pageIndex+1])if(chapter.pages[index]){const preload=new Image();preload.src=chapter.pages[index].image;}
     }
   }
@@ -161,7 +178,7 @@
     const turn=!ui.lector.hidden&&chapter===found&&mode==='pagina'&&nextMode==='pagina'&&nextIndex!==pageIndex;
     const oldImage=turn&&!reducedMotion.matches?ui.pages.querySelector('.comic-image-button img')?.cloneNode():null;
     const direction=Math.sign(nextIndex-pageIndex);
-    chapter=found;pageIndex=nextIndex;mode=nextMode;renderReader();
+    chapter=found;pageIndex=nextIndex;mode=nextMode;renderReader({preservePagePosition:turn});
     animatePageTurn(oldImage,direction);
   }
   async function load(){
@@ -179,8 +196,15 @@
   ui['chapter-select'].onchange=e=>route(Number(e.target.value));ui['page-select'].onchange=e=>route(chapter.number,Number(e.target.value));
   ui['modo-pagina'].onclick=()=>route(chapter.number,pageIndex,'pagina');ui['modo-vertical'].onclick=()=>route(chapter.number,pageIndex,'vertical');
   $('zoom-more').onclick=()=>{zoom=Math.min(250,zoom+25);applyZoom();};$('zoom-less').onclick=()=>{zoom=Math.max(100,zoom-25);applyZoom();};
+  ui['zoom-previous'].onclick=()=>turnZoomPage(-1);ui['zoom-next'].onclick=()=>turnZoomPage(1);
   $('zoom-close').onclick=()=>ui['zoom-dialog'].close();
   ui['zoom-dialog'].addEventListener('click',e=>{if(e.target===ui['zoom-dialog'])ui['zoom-dialog'].close();});
+  ui['zoom-dialog'].addEventListener('close',()=>ui.pages.querySelector(`[data-index="${zoomPageIndex}"] .comic-image-button`)?.focus({preventScroll:true}));
+  ui['zoom-dialog'].addEventListener('keydown',e=>{
+    if(e.altKey||e.ctrlKey||e.metaKey)return;
+    if(e.key==='ArrowLeft'&&!ui['zoom-previous'].disabled){e.preventDefault();turnZoomPage(-1);}
+    if(e.key==='ArrowRight'&&!ui['zoom-next'].disabled){e.preventDefault();turnZoomPage(1);}
+  });
   $('compartir').onclick=async()=>{
     const data={title:`Dos Parkinson y Medio · Capítulo ${chapter.number}`,url:location.href};
     try{if(navigator.share)await navigator.share(data);else if(navigator.clipboard){await navigator.clipboard.writeText(location.href);message('Enlace copiado.');}else message(`Enlace: ${location.href}`);}catch(error){if(error.name!=='AbortError')message('Puedes compartir el enlace de la barra de direcciones.');}

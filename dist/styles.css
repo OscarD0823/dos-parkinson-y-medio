@@ -11,3 +11,13 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}.page-turn-sheet{display:none}}
 
 .hero{overflow:clip;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}.hero-copy{min-width:0}
+.zoom-page-zone{position:absolute;z-index:3;top:60px;bottom:0;width:clamp(64px,10vw,96px);display:grid;place-items:center;padding:0;border:0;background:transparent;color:#f3dca8;font:52px/1 Georgia,serif;text-shadow:0 2px 14px #000b;opacity:.4;cursor:pointer;touch-action:manipulation;transition:opacity .18s}
+.zoom-page-previous{left:0;background:linear-gradient(90deg,#0b1511e0,#0b151155 48%,transparent)}
+.zoom-page-next{right:0;background:linear-gradient(270deg,#0b1511e0,#0b151155 48%,transparent)}
+.zoom-page-zone:hover,.zoom-page-zone:focus-visible{opacity:.95}
+.zoom-page-zone::before{content:'';position:absolute;width:42px;height:62px;border:1px solid #d3b879aa;border-radius:24px;background:#13271fe8;box-shadow:0 4px 20px #0009;backdrop-filter:blur(6px);pointer-events:none}
+.zoom-page-zone>span{position:relative;z-index:1;color:#f8e5bb;font-size:34px;line-height:1}
+.zoom-page-zone:disabled{opacity:0;pointer-events:none}
+.zoom-page-zone:focus-visible{outline:3px solid #e1c58b;outline-offset:-5px}
+@media(hover:hover){.zoom-page-zone{opacity:.12}.zoom-page-zone:hover,.zoom-page-zone:focus-visible{opacity:.9}}
+@media(max-width:640px){.zoom-page-zone{width:66px;font-size:40px;opacity:.86}.zoom-page-zone:disabled{opacity:0}}
