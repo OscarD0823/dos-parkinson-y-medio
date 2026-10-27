@@ -63,32 +63,50 @@
   }
   function turnZoomPage(direction){
     const next=zoomPageIndex+direction;if(next<0||next>=chapter.pages.length)return;
+    const oldImage=ui['zoom-image'].cloneNode(true);
     showZoomPage(next);route(chapter.number,next,mode);
-    if(!reducedMotion.matches)ui['zoom-image'].animate([
-      {opacity:.55,transform:`translateX(${direction>0?'20px':'-20px'}) scale(.99)`},
-      {opacity:1,transform:'translateX(0) scale(1)'}
-    ],{duration:260,easing:'cubic-bezier(.2,.7,.2,1)'});
+    animatePageTurn(oldImage,direction,ui['zoom-image'],ui['zoom-dialog'],true);
   }
   function applyZoom(){ui['zoom-image'].style.width=`${zoom}%`;ui['zoom-level'].textContent=`${zoom} %`;$('zoom-less').disabled=zoom===100;$('zoom-more').disabled=zoom===250;}
   function cancelPageTurn(){
-    if(activeTurn){activeTurn.animation.cancel();activeTurn.sheet.remove();activeTurn=null;}
+    if(activeTurn){activeTurn.animations.forEach(animation=>animation.cancel());activeTurn.sheet.remove();activeTurn=null;}
   }
-  function animatePageTurn(image,direction){
-    if(!image||reducedMotion.matches)return;
-    const target=ui.pages.querySelector('.comic-image-button');
+  function animatePageTurn(image,direction,target=ui.pages.querySelector('.comic-image-button'),host=target?.closest('.comic-page'),fixed=false){
+    if(!image||reducedMotion.matches||!target||!host)return;
+    cancelPageTurn();
     const sheet=element('div',`page-turn-sheet ${direction>0?'turn-forward':'turn-back'}`);
     sheet.setAttribute('aria-hidden','true');
-    const bounds=target.getBoundingClientRect(),container=ui.pages.getBoundingClientRect();
-    sheet.style.left=`${bounds.left-container.left}px`;sheet.style.top=`${bounds.top-container.top}px`;
-    sheet.style.width=`${target.offsetWidth}px`;sheet.style.height=`${target.offsetHeight}px`;
-    sheet.append(image);ui.pages.append(sheet);
-    const animation=sheet.animate([
-      {transform:'rotateY(0deg)',opacity:1},
-      {transform:`rotateY(${direction>0?-65:65}deg)`,opacity:.9,offset:.65},
-      {transform:`rotateY(${direction>0?-105:105}deg)`,opacity:0}
-    ],{duration:480,easing:'cubic-bezier(.22,.65,.3,1)',fill:'forwards'});
-    activeTurn={sheet,animation};
-    animation.finished.catch(()=>{}).finally(()=>{sheet.remove();if(activeTurn?.sheet===sheet)activeTurn=null;});
+    const bounds=target.getBoundingClientRect();
+    const source=(image.currentSrc||image.src).replace(/["\\]/g,'\\$&');
+    if(fixed){
+      sheet.classList.add('page-turn-fixed');sheet.style.left=`${bounds.left}px`;sheet.style.top=`${bounds.top}px`;
+      sheet.style.width=`${bounds.width}px`;sheet.style.height=`${bounds.height}px`;host.append(sheet);
+    }else{
+      const box=host.getBoundingClientRect();sheet.style.left=`${bounds.left-box.left}px`;sheet.style.top=`${bounds.top-box.top}px`;
+      sheet.style.width=`${bounds.width}px`;sheet.style.height=`${bounds.height}px`;host.append(sheet);
+    }
+    const sign=direction>0?-1:1;
+    const count=12,sliceWidth=bounds.width/count,animations=[];
+    for(let i=0;i<count;i++){
+      const slice=element('div','page-turn-slice');slice.style.left=`${i*sliceWidth}px`;slice.style.width=`${sliceWidth+.4}px`;
+      const front=element('div','page-turn-slice-face page-turn-slice-front');
+      const back=element('div','page-turn-slice-face page-turn-slice-back');
+      const position=`${i/(count-1)*100}% 0`;
+      front.style.backgroundImage=`url("${source}")`;front.style.backgroundSize=`${count*100}% 100%`;front.style.backgroundPosition=position;
+      back.style.backgroundImage=`linear-gradient(rgba(235,223,199,.82),rgba(235,223,199,.82)),url("${source}")`;
+      back.style.backgroundSize=`100% 100%,${count*100}% 100%`;back.style.backgroundPosition=`0 0,${position}`;
+      slice.append(front,back);sheet.append(slice);
+      const delay=(direction>0?count-1-i:i)*7;
+      animations.push(slice.animate([
+        {transform:'rotateY(0deg) translateZ(0)',offset:0},
+        {transform:`rotateY(${sign*34}deg) translateZ(8px)`,offset:.24},
+        {transform:`rotateY(${sign*92}deg) translateZ(22px)`,offset:.54},
+        {transform:`rotateY(${sign*154}deg) translateZ(10px)`,offset:.83},
+        {transform:`rotateY(${sign*180}deg) translateZ(0)`,offset:1}
+      ],{duration:610,delay,easing:'cubic-bezier(.4,0,.2,1)',fill:'forwards'}));
+    }
+    activeTurn={sheet,animations};
+    Promise.all(animations.map(animation=>animation.finished.catch(()=>{}))).finally(()=>{sheet.remove();if(activeTurn?.sheet===sheet)activeTurn=null;});
   }
   reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches)cancelPageTurn();});
   const canSwipe = () => mode==='pagina'&&!ui.lector.hidden&&!ui['zoom-dialog'].open&&(!window.visualViewport||window.visualViewport.scale<=1.01);
@@ -175,10 +193,11 @@
     if(!found){showLibrary();return;}
     const nextIndex=Math.min(Math.max(0,Math.floor(Number(params.get('pagina'))||1)-1),found.pages.length-1);
     const nextMode=params.get('modo')==='vertical'?'vertical':'pagina';
-    const turn=!ui.lector.hidden&&chapter===found&&mode==='pagina'&&nextMode==='pagina'&&nextIndex!==pageIndex;
+    const preservePagePosition=!ui.lector.hidden&&chapter===found&&mode==='pagina'&&nextMode==='pagina'&&nextIndex!==pageIndex;
+    const turn=preservePagePosition&&!ui['zoom-dialog'].open;
     const oldImage=turn&&!reducedMotion.matches?ui.pages.querySelector('.comic-image-button img')?.cloneNode():null;
     const direction=Math.sign(nextIndex-pageIndex);
-    chapter=found;pageIndex=nextIndex;mode=nextMode;renderReader({preservePagePosition:turn});
+    chapter=found;pageIndex=nextIndex;mode=nextMode;renderReader({preservePagePosition});
     animatePageTurn(oldImage,direction);
   }
   async function load(){
