@@ -1,6 +1,6 @@
 # Estado de la adaptación
 
-La obra tiene 13 capítulos originales. El desglose inicial es una estimación editorial. Las páginas pendientes todavía requieren guion y revisión antes de ilustrarse.
+La obra tiene 13 capítulos originales. Las páginas previstas son una estimación que se ajusta tras la revisión editorial. Solo se cuentan como ilustradas las imágenes revisadas e incorporadas al lector.
 
 | Capítulo | Título | Páginas previstas | Ilustradas |
 | --- | --- | ---: | ---: |
@@ -8,7 +8,7 @@ La obra tiene 13 capítulos originales. El desglose inicial es una estimación e
 | 2 | Noticias Inesperadas | 33 | 33 |
 | 3 | La serpiente y el tejón inflable. | 9 | 9 |
 | 4 | Operación Maternidad | 23 | 6 |
-| 5 | Sentimientos | 19 | 0 |
+| 5 | Sentimientos | 16 | 0 |
 | 6 | Patatas fritas y malteada de fresa. | 28 | 0 |
 | 7 | ¡Ha nacido un Parkinson! | 21 | 0 |
 | 8 | La Familia Parkinson | 33 | 0 |

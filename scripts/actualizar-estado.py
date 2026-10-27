@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 book = json.loads((ROOT / 'dist/data/libro.json').read_text(encoding='utf-8'))
 lines = [
     '# Estado de la adaptación', '',
-    'La obra tiene 13 capítulos originales. El desglose inicial es una estimación editorial. Las páginas pendientes todavía requieren guion y revisión antes de ilustrarse.', '',
+    'La obra tiene 13 capítulos originales. Las páginas previstas son una estimación que se ajusta tras la revisión editorial. Solo se cuentan como ilustradas las imágenes revisadas e incorporadas al lector.', '',
     '| Capítulo | Título | Páginas previstas | Ilustradas |',
     '| --- | --- | ---: | ---: |',
 ]
