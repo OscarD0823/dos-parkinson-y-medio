@@ -7,7 +7,7 @@ La obra tiene 13 capítulos originales. El desglose inicial es una estimación e
 | 1 | ¿Cómo qué bebés? | 18 | 18 |
 | 2 | Noticias Inesperadas | 33 | 33 |
 | 3 | La serpiente y el tejón inflable. | 9 | 9 |
-| 4 | Operación Maternidad | 23 | 5 |
+| 4 | Operación Maternidad | 23 | 6 |
 | 5 | Sentimientos | 19 | 0 |
 | 6 | Patatas fritas y malteada de fresa. | 28 | 0 |
 | 7 | ¡Ha nacido un Parkinson! | 21 | 0 |
