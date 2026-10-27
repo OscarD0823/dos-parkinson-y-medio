@@ -725,7 +725,40 @@
       ],
       "words": 7279,
       "plannedPages": 16,
-      "pages": []
+      "pages": [
+        {
+          "number": 1,
+          "image": "paginas/c05-p001.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 5: Sentimientos. Página 1 del cómic.",
+          "transcript": "Capítulo 5 · 01\nSentimientos\n\nPansy baja las escaleras hacia las mazmorras. En el aula de Pociones hay lámparas cálidas, armarios cerrados y calderos nuevos de cobre.\nHermione ya está leyendo en su mesa. Pansy deja sus libros al lado.\nPansy: «Granger.»\nHermione: «Pans… Parkinson, hola.»\nHermione disimula con una pequeña tos.\nPansy: «¿Sabes por qué cambiaron la iluminación?»\nHermione: «No. Pero los calderos también son distintos.»\nAmbas miran el nuevo caldero de cobre."
+        },
+        {
+          "number": 2,
+          "image": "paginas/c05-p002.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 5: Sentimientos. Página 2 del cómic.",
+          "transcript": "Capítulo 5 · 02\n\nSnape entra en el aula acompañado de Elsie Tanner. Hermione y Pansy la reconocen.\nSnape: «Hoy tendrán una clase inusual. Por petición del director prepararán un brebaje indispensable para el proyecto. Nos acompaña una especialista.»\nElsie: «Soy Elsie Tanner. Evaluaré su trabajo. Hoy prepararemos una de las mezclas más complejas y peligrosas del mundo mágico…»\nElsie: «Fórmula para bebé.»\nLavender y Parvati intercambian una mirada divertida.\nRon, con una pelota de goma: «¿Fórmula para bebé? ¿Qué tan complicado puede ser?»\nHarry y otros alumnos se ríen con él.\nNarración: «Sus compañeras eran de otro curso. No compartían esta clase, pero las notas del proyecto seguían siendo responsabilidad de cada pareja.»\nElsie mira a Ron: «Si está tan seguro, señor Weasley, espero resultados excepcionales.»\nLos Slytherin se ríen. Ron se ruboriza y Snape reclama silencio con un gesto."
+        },
+        {
+          "number": 3,
+          "image": "paginas/c05-p003.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 5: Sentimientos. Página 3 del cómic.",
+          "transcript": "Capítulo 5 · 03\n\nSnape reclama silencio. Elsie señala una pizarra con diagramas mágicos.\nElsie: «Esta fórmula alimentará a los muñecos del proyecto. Deben medir con cuidado. Un ingrediente de más puede arruinarla.»\nHarry: «¿Por qué no podemos comprarla?»\nElsie: «¿Dónde? ¿Planea salir del castillo a medianoche?»\nHarry: «No… para nada.»\nElsie: «Los muñecos comerán con frecuencia. Comprar todo resultaría costoso. El colegio no les pedirá ese gasto cuando pueden prepararlo aquí.»\nDraco: «Tal vez Potter pueda gastar sus galeones. Dudo que Weasley prepare una mezcla que funcione.»\nHarry: «Cállate, Malfoy.»\nElsie: «Contaré con la invaluable ayuda del profesor Snape.»\nSnape mira a Elsie, sin entusiasmo.\nElsie: «Tienen las indicaciones en la pizarra. Presten atención: después deberán hacerlo sin ayuda.»\nCon su varita, Elsie distribuye materiales mágicos entre los estudiantes."
+        },
+        {
+          "number": 4,
+          "image": "paginas/c05-p004.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 5: Sentimientos. Página 4 del cómic.",
+          "transcript": "Capítulo 5 · 04\n\nElsie: «Estaremos disponibles si tienen dudas. Pueden empezar.»\nHermione organiza el material. Pansy examina dos biberones de práctica.\nPansy: «¿Por qué tenemos dos en lugar de uno?»\nHermione: «Debe haber una variación, pero aún no entiendo cuál.»\nPansy prepara una pequeña llama mágica bajo el caldero: «Los ingredientes son muy específicos.»\nNarración: «Trabajar con Pansy era sorprendentemente fácil. No tenía que guiar cada movimiento, como con Harry y Ron.»\nPansy manipula el material con precisión y extiende la mano.\nPansy: «Me pasas las cápsulas, Granger?»\nUn halo dorado envuelve su caldero.\nHermione: «¿Qué fue eso?»\nPansy: «Un hechizo potenciador. Acelera el hervor y…»\nDesde otra mesa, Ron llama con el uniforme manchado de pasta blanca.\nRon: «¡Hermione! Necesitamos ayuda. Nuestra mezcla no se vuelve líquida.»"
+        }
+      ]
     },
     {
       "number": 6,
