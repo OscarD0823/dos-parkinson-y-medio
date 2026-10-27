@@ -6,7 +6,7 @@ Lector público de la adaptación ilustrada no oficial del fanfic de **Nicole_Wi
 
 La adaptación de los trece capítulos se publica por entregas. El índice indica cuántas páginas están realmente ilustradas; los capítulos pendientes no se presentan como terminados.
 
-El lector incluye lectura vertical y página a página, ampliación hasta 250 %, transcripción de diálogos, enlaces para compartir y guardado del punto de lectura en el navegador. Funciona en computador y celular, sin cuenta.
+El lector incluye lectura vertical y página a página, ampliación hasta 250 %, transcripción de diálogos, enlaces para compartir y guardado del punto de lectura en el navegador. En pantallas táctiles puedes deslizar a los lados para pasar la hoja con una animación de libro. Conserva el desplazamiento vertical y el zoom con dos dedos; respeta la preferencia de movimiento reducido. Funciona en computador y celular, sin cuenta.
 
 ## Publicación
 
