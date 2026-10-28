@@ -4,6 +4,7 @@
   const ui = Object.fromEntries(['biblioteca','lector','load-error','chapter-list','progreso-global','empezar','reader-title','reader-chapter','chapter-select','pages','page-select','page-total','anterior','siguiente','chapter-end','chapter-end-text','modo-pagina','modo-vertical','reading-progress','reader-status','zoom-dialog','zoom-image','zoom-level','zoom-title','zoom-previous','zoom-next'].map(id => [id,$(id)]));
   let book, chapter, pageIndex = 0, zoomPageIndex = 0, mode = 'pagina', observer, zoom = 100;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const pageTurn = window.ComicPageTurn;
   let activeTurn, gesture, suppressTouchClickUntil = 0;
   const storageKey = 'dos-parkinson-y-medio:lectura:v1';
   const available = () => book.chapters.filter(c => c.pages.length);
@@ -50,6 +51,7 @@
   function showZoomPage(index,resetZoom=false){
     const p=chapter.pages[index];if(!p)return;
     zoomPageIndex=index;if(resetZoom)zoom=100;
+    ui['zoom-image'].width=p.width||1024;ui['zoom-image'].height=p.height||1536;
     ui['zoom-image'].src=p.image;ui['zoom-image'].alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;
     ui['zoom-title'].textContent=`Capítulo ${chapter.number} · Página ${p.number}`;
     ui['zoom-previous'].disabled=index===0;ui['zoom-next'].disabled=index===chapter.pages.length-1;
@@ -58,60 +60,32 @@
     applyZoom();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
   }
   function openZoom(p){
+    cancelPageTurn();
     const index=chapter.pages.indexOf(p);showZoomPage(index>=0?index:pageIndex,true);
     ui['zoom-dialog'].showModal();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
   }
   function turnZoomPage(direction){
+    if(activeTurn)return;
     const next=zoomPageIndex+direction;if(next<0||next>=chapter.pages.length)return;
-    const oldImage=ui['zoom-image'].cloneNode(true);
+    const oldImage=!reducedMotion.matches?pageTurn?.capture(ui['zoom-image']):null;
     showZoomPage(next);route(chapter.number,next,mode);
-    animatePageTurn(oldImage,direction,ui['zoom-image'],ui['zoom-dialog'],true);
+    animatePageTurn(oldImage,direction,ui['zoom-image'],ui['zoom-image'].parentElement);
   }
   function applyZoom(){ui['zoom-image'].style.width=`${zoom}%`;ui['zoom-level'].textContent=`${zoom} %`;$('zoom-less').disabled=zoom===100;$('zoom-more').disabled=zoom===250;}
   function cancelPageTurn(){
-    if(activeTurn){activeTurn.animations.forEach(animation=>animation.cancel());activeTurn.sheet.remove();activeTurn=null;}
+    if(activeTurn){activeTurn.cancel();activeTurn=null;}
   }
-  function animatePageTurn(image,direction,target=ui.pages.querySelector('.comic-image-button'),host=target?.closest('.comic-page'),fixed=false){
-    if(!image||reducedMotion.matches||!target||!host)return;
+  function animatePageTurn(image,direction,target=ui.pages.querySelector('.comic-image-button'),host=target?.closest('.comic-page')){
+    if(!image||reducedMotion.matches||!target||!host||!pageTurn)return;
     cancelPageTurn();
-    const sheet=element('div',`page-turn-sheet ${direction>0?'turn-forward':'turn-back'}`);
-    sheet.setAttribute('aria-hidden','true');
-    const bounds=target.getBoundingClientRect();
-    const source=(image.currentSrc||image.src).replace(/["\\]/g,'\\$&');
-    if(fixed){
-      sheet.classList.add('page-turn-fixed');sheet.style.left=`${bounds.left}px`;sheet.style.top=`${bounds.top}px`;
-      sheet.style.width=`${bounds.width}px`;sheet.style.height=`${bounds.height}px`;host.append(sheet);
-    }else{
-      const box=host.getBoundingClientRect();sheet.style.left=`${bounds.left-box.left}px`;sheet.style.top=`${bounds.top-box.top}px`;
-      sheet.style.width=`${bounds.width}px`;sheet.style.height=`${bounds.height}px`;host.append(sheet);
-    }
-    const sign=direction>0?-1:1;
-    const count=12,sliceWidth=bounds.width/count,animations=[];
-    for(let i=0;i<count;i++){
-      const slice=element('div','page-turn-slice');slice.style.left=`${i*sliceWidth}px`;slice.style.width=`${sliceWidth+.4}px`;
-      const front=element('div','page-turn-slice-face page-turn-slice-front');
-      const back=element('div','page-turn-slice-face page-turn-slice-back');
-      const position=`${i/(count-1)*100}% 0`;
-      front.style.backgroundImage=`url("${source}")`;front.style.backgroundSize=`${count*100}% 100%`;front.style.backgroundPosition=position;
-      back.style.backgroundImage=`linear-gradient(rgba(235,223,199,.82),rgba(235,223,199,.82)),url("${source}")`;
-      back.style.backgroundSize=`100% 100%,${count*100}% 100%`;back.style.backgroundPosition=`0 0,${position}`;
-      slice.append(front,back);sheet.append(slice);
-      const delay=(direction>0?count-1-i:i)*7;
-      animations.push(slice.animate([
-        {transform:'rotateY(0deg) translateZ(0)',offset:0},
-        {transform:`rotateY(${sign*34}deg) translateZ(8px)`,offset:.24},
-        {transform:`rotateY(${sign*92}deg) translateZ(22px)`,offset:.54},
-        {transform:`rotateY(${sign*154}deg) translateZ(10px)`,offset:.83},
-        {transform:`rotateY(${sign*180}deg) translateZ(0)`,offset:1}
-      ],{duration:610,delay,easing:'cubic-bezier(.4,0,.2,1)',fill:'forwards'}));
-    }
-    activeTurn={sheet,animations};
-    Promise.all(animations.map(animation=>animation.finished.catch(()=>{}))).finally(()=>{sheet.remove();if(activeTurn?.sheet===sheet)activeTurn=null;});
+    const turn=pageTurn.animate({source:image,target,host,direction});
+    activeTurn=turn;
+    turn?.finished.then(()=>{if(activeTurn===turn)activeTurn=null;});
   }
   reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches)cancelPageTurn();});
-  const canSwipe = () => mode==='pagina'&&!ui.lector.hidden&&!ui['zoom-dialog'].open&&(!window.visualViewport||window.visualViewport.scale<=1.01);
+  const canSwipe = () => !activeTurn&&mode==='pagina'&&!ui.lector.hidden&&!ui['zoom-dialog'].open&&(!window.visualViewport||window.visualViewport.scale<=1.01);
   document.addEventListener('touchstart',e=>{
-    if(e.touches.length>1){gesture=null;suppressTouchClickUntil=performance.now()+900;}
+    if(e.touches.length>1){cancelPageTurn();gesture=null;suppressTouchClickUntil=performance.now()+900;}
   },{passive:true,capture:true});
   ui.pages.addEventListener('touchstart',e=>{
     if(!canSwipe()||e.touches.length!==1||!e.target.closest('.comic-image-button'))return;
@@ -195,7 +169,7 @@
     const nextMode=params.get('modo')==='vertical'?'vertical':'pagina';
     const preservePagePosition=!ui.lector.hidden&&chapter===found&&mode==='pagina'&&nextMode==='pagina'&&nextIndex!==pageIndex;
     const turn=preservePagePosition&&!ui['zoom-dialog'].open;
-    const oldImage=turn&&!reducedMotion.matches?ui.pages.querySelector('.comic-image-button img')?.cloneNode():null;
+    const oldImage=turn&&!reducedMotion.matches?pageTurn?.capture(ui.pages.querySelector('.comic-image-button img')):null;
     const direction=Math.sign(nextIndex-pageIndex);
     chapter=found;pageIndex=nextIndex;mode=nextMode;renderReader({preservePagePosition});
     animatePageTurn(oldImage,direction);
@@ -210,15 +184,15 @@
   }
   $('volver').onclick=()=>{location.hash='';window.scrollTo(0,0);};
   $('indice').onclick=$('end-library').onclick=()=>{location.hash='capitulos';};
-  ui.anterior.onclick=()=>{if(pageIndex>0)route(chapter.number,pageIndex-1);};
-  ui.siguiente.onclick=()=>{if(pageIndex+1<chapter.pages.length)route(chapter.number,pageIndex+1);};
+  ui.anterior.onclick=()=>{if(!activeTurn&&pageIndex>0)route(chapter.number,pageIndex-1);};
+  ui.siguiente.onclick=()=>{if(!activeTurn&&pageIndex+1<chapter.pages.length)route(chapter.number,pageIndex+1);};
   ui['chapter-select'].onchange=e=>route(Number(e.target.value));ui['page-select'].onchange=e=>route(chapter.number,Number(e.target.value));
   ui['modo-pagina'].onclick=()=>route(chapter.number,pageIndex,'pagina');ui['modo-vertical'].onclick=()=>route(chapter.number,pageIndex,'vertical');
-  $('zoom-more').onclick=()=>{zoom=Math.min(250,zoom+25);applyZoom();};$('zoom-less').onclick=()=>{zoom=Math.max(100,zoom-25);applyZoom();};
+  $('zoom-more').onclick=()=>{cancelPageTurn();zoom=Math.min(250,zoom+25);applyZoom();};$('zoom-less').onclick=()=>{cancelPageTurn();zoom=Math.max(100,zoom-25);applyZoom();};
   ui['zoom-previous'].onclick=()=>turnZoomPage(-1);ui['zoom-next'].onclick=()=>turnZoomPage(1);
   $('zoom-close').onclick=()=>ui['zoom-dialog'].close();
   ui['zoom-dialog'].addEventListener('click',e=>{if(e.target===ui['zoom-dialog'])ui['zoom-dialog'].close();});
-  ui['zoom-dialog'].addEventListener('close',()=>ui.pages.querySelector(`[data-index="${zoomPageIndex}"] .comic-image-button`)?.focus({preventScroll:true}));
+  ui['zoom-dialog'].addEventListener('close',()=>{cancelPageTurn();ui.pages.querySelector(`[data-index="${zoomPageIndex}"] .comic-image-button`)?.focus({preventScroll:true});});
   ui['zoom-dialog'].addEventListener('keydown',e=>{
     if(e.altKey||e.ctrlKey||e.metaKey)return;
     if(e.key==='ArrowLeft'&&!ui['zoom-previous'].disabled){e.preventDefault();turnZoomPage(-1);}
