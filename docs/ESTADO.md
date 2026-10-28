@@ -11,7 +11,7 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 5 | Sentimientos | 16 | 16 |
 | 6 | Patatas fritas y malteada de fresa. | 28 | 28 |
 | 7 | ¡Ha nacido un Parkinson! | 18 | 18 |
-| 8 | La Familia Parkinson | 33 | 14 |
+| 8 | La Familia Parkinson | 33 | 16 |
 | 9 | Esmoquin, pañales y alta sociedad | 37 | 0 |
 | 10 | Rivales | 44 | 0 |
 | 11 | Anatomía de un Rumor | 44 | 0 |
