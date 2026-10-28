@@ -10,7 +10,7 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 4 | Operación Maternidad | 23 | 23 |
 | 5 | Sentimientos | 16 | 16 |
 | 6 | Patatas fritas y malteada de fresa. | 28 | 28 |
-| 7 | ¡Ha nacido un Parkinson! | 18 | 0 |
+| 7 | ¡Ha nacido un Parkinson! | 18 | 3 |
 | 8 | La Familia Parkinson | 33 | 0 |
 | 9 | Esmoquin, pañales y alta sociedad | 55 | 0 |
 | 10 | Rivales | 64 | 0 |

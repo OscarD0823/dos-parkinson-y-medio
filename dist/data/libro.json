@@ -1101,7 +1101,32 @@
       ],
       "words": 7710,
       "plannedPages": 18,
-      "pages": []
+      "pages": [
+        {
+          "number": 1,
+          "image": "paginas/c07-p001.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 1 del cómic.",
+          "transcript": "Capítulo 7 · 01\n¡Ha nacido un Parkinson!\n\nEn el aula de prácticas, Blair sostiene un muñeco de plástico vestido y cubierto con una manta. Las mesas tienen telas y otros materiales del proyecto escolar. El alumnado lleva sus sudaderas negras con ribetes de sus casas y pantalones largos.\nBlair: Faltan diez minutos. Quienes no hayan terminado, levanten la mano para que revise su trabajo.\nHermione y Pansy trabajan con las cintas de una prenda sobre el muñeco de práctica cubierto.\nHermione: ¡Pansy, eso no va ahí! Y ese frasco no se abre así…\nEl tapón salta y un pequeño soplo de polvo blanco deja el flequillo de Pansy blanquecino. Hermione contiene la risa.\nPansy: ¡Granger, esto es imposible! Tú hiciste que pareciera fácil.\nHermione: Ya casi lo tienes. Solo van por delante.\nPansy: Faltan dos días y todavía no consigo hacerlo bien.\nHermione: No tenemos que aprenderlo todo a la primera. Vas mejorando.\nBlair se acerca y revisa la mesa. Pansy presta mucha atención.\nNarración: Unos consejos después, el nuevo enemigo de Pansy parecía menos invencible."
+        },
+        {
+          "number": 2,
+          "image": "paginas/c07-p002.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 2 del cómic.",
+          "transcript": "Capítulo 7 · 02\n\nPlanos tranquilos de los corredores y el Gran Comedor, con las voces fuera de campo rotuladas en cartelas.\nNarración: Era hora de cenar. Hermione se sentía cansada después de las clases.\nHermione: ¿Has hablado con Daphne?\nPansy: Le escribí hoy, pero no ha respondido.\nHermione: Espero que esté mejor. Podríamos llevarle la cena.\nNarración: Daphne descansaba desde la mañana.\nPansy: Blaise está con ella. Seguro que se encargará de llevarle algo.\nLas mesas de Gryffindor y Slytherin están preparadas para la cena bajo las velas flotantes.\nNarración: Desde el partido no habían hablado. Los extrañaba, pero necesitaba que respetaran sus decisiones.\nNarración: Esta vez esperaba que sus amigos dieran el primer paso."
+        },
+        {
+          "number": 3,
+          "image": "paginas/c07-p003.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 3 del cómic.",
+          "transcript": "Capítulo 7 · 03\n\nTheo cena en la mesa de Slytherin. Luna, con su uniforme azul y bronce, construye un pequeño castillo con verduras. Pansy y Hermione se sientan junto a ellos y Millicent.\nPansy: ¿Qué te apetece?\nHermione: Pasta, pollo y un poco de verduras.\nPansy: Yo quizá elegiría ternera con puré y salsa… si no fuera a comer pollo.\nHermione contiene la risa. Luego intercambian sus platos.\nNarración: A Hermione siempre le apetecía más lo que veía en el plato de Pansy. Habían encontrado su propio sistema.\nMillicent: ¿Alguna vez van a dejar de hacer eso?\nLuna: Yo creo que son adorables.\nMillicent: Tú crees que una acromántula es adorable.\nLuna: Son criaturas incomprendidas.\nLos demás intercambian miradas divertidas y resignadas mientras Luna sigue con su castillo de verduras."
+        }
+      ]
     },
     {
       "number": 8,
