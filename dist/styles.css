@@ -18,3 +18,12 @@
 .zoom-page-zone:focus-visible{outline:3px solid #e1c58b;outline-offset:-5px}
 @media(hover:hover){.zoom-page-zone{opacity:.12}.zoom-page-zone:hover,.zoom-page-zone:focus-visible{opacity:.9}}
 @media(max-width:640px){.zoom-page-zone{width:66px;font-size:40px;opacity:.86}.zoom-page-zone:disabled{opacity:0}}
+
+.comic-image-button,.cover-book,.zoom-sheet{position:relative;container-type:inline-size}
+.comic-watermark{position:absolute;right:1.2%;bottom:.8%;z-index:4;padding:.6cqw;background:rgba(255,252,242,.84);color:#415343;font:500 12px/1 Arial,Helvetica,sans-serif;font-size:clamp(8px,1.6cqw,18px);white-space:nowrap;pointer-events:none;user-select:none}
+.zoom-sheet{width:100%;margin:auto;max-width:none}
+.reader-credit{text-align:center;margin:-8px 15px 15px}.reader-credit .text-button{font-size:11px;padding:0;white-space:normal}
+.author-panel{max-width:1160px;width:90%;margin:36px auto;padding:34px 20px;text-align:center;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.author-panel .eyebrow{margin-bottom:10px}.author-panel h2{font:32px/1.2 var(--serif);font-weight:normal;margin:0 0 12px}.author-panel>p:not(.eyebrow){font-size:13px;color:var(--muted);margin-bottom:20px}
+.author-socials{display:flex;justify-content:center;flex-wrap:wrap;gap:10px}.author-socials a{display:inline-flex;align-items:center;min-height:40px;padding:8px 15px;border:1px solid #46604b;border-radius:30px;color:var(--gold);font-size:12px}.author-socials a:hover{background:#1d3c32;border-color:var(--gold)}
+@media(max-width:640px){.author-panel{padding:28px 12px;margin:26px auto}.author-panel h2{font-size:29px}.author-socials{gap:8px}.author-socials a{font-size:11px;padding:8px 12px}.reader-credit .text-button{font-size:10px}}

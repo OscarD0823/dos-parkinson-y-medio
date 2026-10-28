@@ -5,6 +5,7 @@
   let book, chapter, pageIndex = 0, zoomPageIndex = 0, mode = 'pagina', observer, zoom = 100;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
   const pageTurn = window.ComicPageTurn;
+  const credits = window.ComicCredits;
   let activeTurn, gesture, suppressTouchClickUntil = 0;
   const storageKey = 'dos-parkinson-y-medio:lectura:v1';
   const available = () => book.chapters.filter(c => c.pages.length);
@@ -89,7 +90,7 @@
     route(destination.chapter.number,destination.index,mode,false,direction);showZoomPage(destination.index);
     animatePageTurn(oldImage,direction,ui['zoom-image'],ui['zoom-image'].parentElement);
   }
-  function applyZoom(){ui['zoom-image'].style.width=`${zoom}%`;ui['zoom-level'].textContent=`${zoom} %`;$('zoom-less').disabled=zoom===100;$('zoom-more').disabled=zoom===250;}
+  function applyZoom(){$('zoom-sheet').style.width=`${zoom}%`;ui['zoom-level'].textContent=`${zoom} %`;$('zoom-less').disabled=zoom===100;$('zoom-more').disabled=zoom===250;}
   function cancelPageTurn(){
     if(activeTurn){activeTurn.cancel();activeTurn=null;}
   }
@@ -138,9 +139,17 @@
     const button=element('button','comic-image-button');button.setAttribute('aria-label',`Ampliar página ${p.number}`);
     const img=element('img');img.draggable=false;img.src=p.image;img.width=p.width||1024;img.height=p.height||1536;img.alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;img.loading=(index===pageIndex?'eager':'lazy');img.decoding='async';
     img.addEventListener('error',()=>{message(`No se pudo cargar la página ${p.number}. Comprueba tu conexión.`);});
-    button.append(img);button.addEventListener('click',()=>openZoom(p));
+    const watermark=element('span','comic-watermark',credits.text);watermark.setAttribute('aria-hidden','true');
+    button.append(img,watermark);button.addEventListener('click',()=>openZoom(p));
     const caption=element('figcaption');caption.append(element('span','',`CAPÍTULO ${chapter.number} · PÁGINA ${String(p.number).padStart(2,'0')}`));
-    const download=element('a','', 'Guardar imagen ↓');download.href=p.image;download.download=p.image.split('/').pop();caption.append(download);
+    const download=element('a','', 'Guardar imagen ↓');download.href=p.image;download.download=p.image.split('/').pop();
+    download.addEventListener('click',async e=>{
+      e.preventDefault();if(download.dataset.busy)return;
+      download.dataset.busy='true';download.textContent='Preparando imagen…';
+      try{await credits.download(p.image,p.image.split('/').pop());}
+      catch{message('No se pudo guardar la imagen. Vuelve a intentarlo.');}
+      finally{delete download.dataset.busy;download.textContent='Guardar imagen ↓';}
+    });caption.append(download);
     figure.append(button,caption);
     if(p.transcript){const details=element('details');details.append(element('summary','','Leer transcripción'),element('p','',p.transcript));figure.append(details);}
     return figure;
@@ -205,6 +214,7 @@
     }catch(error){ui['progreso-global'].textContent='El índice no está disponible en este momento.';ui['load-error'].hidden=false;}
   }
   $('volver').onclick=()=>{location.hash='';window.scrollTo(0,0);};
+  $('ver-autora').onclick=()=>$('autora').scrollIntoView({behavior:reducedMotion.matches?'instant':'smooth',block:'start'});
   $('indice').onclick=$('end-library').onclick=()=>{location.hash='capitulos';};
   ui.anterior.onclick=()=>stepReader(-1);
   ui.siguiente.onclick=()=>stepReader(1);

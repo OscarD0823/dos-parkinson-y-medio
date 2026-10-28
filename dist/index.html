@@ -7,9 +7,10 @@
   <meta name="description" content="Lee Dos Parkinson y Medio, una adaptación ilustrada no oficial del fanfic de Nicole_Winkel. Un proyecto de paternidad y demasiado caos en Hogwarts.">
   <title>Dos Parkinson y Medio · Cómic</title>
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20261027-continuidad">
-  <script src="page-turn.js?v=20261027-continuidad" defer></script>
-  <script src="app.js?v=20261027-continuidad" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20261028-creditos">
+  <script src="credits.js?v=20261028-creditos" defer></script>
+  <script src="page-turn.js?v=20261028-creditos" defer></script>
+  <script src="app.js?v=20261028-creditos" defer></script>
 </head>
 <body>
   <a class="skip" href="#principal">Saltar al contenido</a>
@@ -29,7 +30,7 @@
           <p id="progreso-global" class="publication" role="status">Cargando la biblioteca…</p>
           <div class="book-details"><span>13 <small>CAPÍTULOS ORIGINALES</small></span><span>ES <small>EN ESPAÑOL</small></span><span>2½ <small>MUCHO POR DESCUBRIR</small></span></div>
         </div>
-        <div class="cover-stage"><span class="orbit orbit-one" aria-hidden="true"></span><span class="orbit orbit-two" aria-hidden="true"></span><div class="cover-book"><img src="assets/portada.webp" alt="Hermione y Pansy miran con sorpresa una cuna mágica en el Gran Comedor de Hogwarts" width="1024" height="1536" fetchpriority="high"></div><span class="cover-note">UNA NUEVA FORMA DE LEER LA HISTORIA</span></div>
+        <div class="cover-stage"><span class="orbit orbit-one" aria-hidden="true"></span><span class="orbit orbit-two" aria-hidden="true"></span><div class="cover-book"><img src="assets/portada.webp" alt="Hermione y Pansy miran con sorpresa una cuna mágica en el Gran Comedor de Hogwarts" width="1024" height="1536" fetchpriority="high"><span class="comic-watermark" aria-hidden="true">Fanfic: Nicole_Winkel</span></div><span class="cover-note">UNA NUEVA FORMA DE LEER LA HISTORIA</span></div>
       </div>
       <section class="chapters-section" id="capitulos" aria-labelledby="chapters-title">
         <div class="section-heading"><div><p class="eyebrow">ELIGE POR DÓNDE EMPEZAR</p><h2 id="chapters-title">Entre magia y pañales</h2></div><p>La historia, viñeta a viñeta.<br><span>Los capítulos se publican por entregas.</span></p></div>
@@ -42,6 +43,7 @@
       <div class="reader-options"><label class="chapter-picker">Capítulo <select id="chapter-select" aria-label="Elegir capítulo"></select></label><div class="view-switch" role="group" aria-label="Modo de lectura"><button id="modo-pagina" aria-pressed="true">Página a página</button><button id="modo-vertical" aria-pressed="false">Vertical</button></div><button id="compartir" class="text-button">Compartir ↗</button></div>
       <div id="reading-progress" class="reading-progress" aria-hidden="true"><span></span></div>
       <p class="reader-hint">Toca una página para ampliarla. Tu punto de lectura se guarda en este dispositivo.</p>
+      <p class="reader-credit"><button id="ver-autora" class="text-button" type="button">Fanfic de Nicole_Winkel · Redes de la autora ↗</button></p>
       <div id="pages" class="pages"></div>
       <div id="page-navigation" class="page-navigation"><button id="anterior" class="button secondary">← Anterior</button><label>Página <select id="page-select" aria-label="Ir a una página"></select> <span id="page-total"></span></label><button id="siguiente" class="button primary">Siguiente →</button></div>
       <div id="chapter-end" class="chapter-end" hidden><span aria-hidden="true">✦</span><h2>La magia continúa…</h2><p id="chapter-end-text"></p><button class="button primary" id="end-next" hidden>Seguir con el siguiente capítulo →</button><button class="button secondary" id="end-library">Volver al índice</button></div>
@@ -49,8 +51,20 @@
     </section>
     <div id="load-error" class="load-error" hidden role="alert"><h2>No pudimos cargar el índice</h2><p>Comprueba tu conexión y vuelve a intentarlo.</p><button id="reintentar" class="button primary">Reintentar</button></div>
   </main>
+  <aside id="autora" class="author-panel" aria-labelledby="author-title">
+    <p class="eyebrow">LA AUTORA DEL FANFIC</p>
+    <h2 id="author-title">Nicole_Winkel</h2>
+    <p>Encuéntrala y apoya su trabajo.</p>
+    <nav class="author-socials" aria-label="Redes de Nicole_Winkel">
+      <a href="https://www.tiktok.com/@nicole.winkel" target="_blank" rel="noopener noreferrer">TikTok ↗</a>
+      <a href="https://www.wattpad.com/user/Nicole_Winkle" target="_blank" rel="noopener noreferrer">Wattpad ↗</a>
+      <a href="https://www.patreon.com/cw/nicolewinkel" target="_blank" rel="noopener noreferrer">Patreon ↗</a>
+      <a href="https://archiveofourown.org/users/Nicole_Winkel/pseuds/Nicole_Winkel" target="_blank" rel="noopener noreferrer">Archive of Our Own ↗</a>
+      <a href="https://www.instagram.com/nicole_winkell?exln=MWt5ZWl0bWp3bGI3MQ==" target="_blank" rel="noopener noreferrer">Instagram ↗</a>
+    </nav>
+  </aside>
   <footer><span class="footer-title">Dos Parkinson y Medio</span><p>Historia original: Nicole_Winkel · Universo de Harry Potter: J. K. Rowling<br>Fan cómic no oficial, sin afiliación con las titulares de la obra.</p><a href="https://github.com/OscarD0823/dos-parkinson-y-medio" target="_blank" rel="noopener noreferrer">Proyecto en GitHub ↗</a></footer>
-  <dialog id="zoom-dialog" aria-labelledby="zoom-title"><div class="zoom-toolbar"><span id="zoom-title">Ampliar página</span><div><button id="zoom-less" class="icon-button" aria-label="Reducir ampliación">−</button><output id="zoom-level">100 %</output><button id="zoom-more" class="icon-button" aria-label="Aumentar ampliación">+</button><button id="zoom-close" class="text-button">Cerrar ×</button></div></div><div class="zoom-content"><img id="zoom-image" alt=""></div><button id="zoom-previous" class="zoom-page-zone zoom-page-previous" type="button" aria-label="Página anterior"><span aria-hidden="true">‹</span></button><button id="zoom-next" class="zoom-page-zone zoom-page-next" type="button" aria-label="Página siguiente"><span aria-hidden="true">›</span></button></dialog>
+  <dialog id="zoom-dialog" aria-labelledby="zoom-title"><div class="zoom-toolbar"><span id="zoom-title">Ampliar página</span><div><button id="zoom-less" class="icon-button" aria-label="Reducir ampliación">−</button><output id="zoom-level">100 %</output><button id="zoom-more" class="icon-button" aria-label="Aumentar ampliación">+</button><button id="zoom-close" class="text-button">Cerrar ×</button></div></div><div class="zoom-content"><div id="zoom-sheet" class="zoom-sheet"><img id="zoom-image" alt=""><span class="comic-watermark" aria-hidden="true">Fanfic: Nicole_Winkel</span></div></div><button id="zoom-previous" class="zoom-page-zone zoom-page-previous" type="button" aria-label="Página anterior"><span aria-hidden="true">‹</span></button><button id="zoom-next" class="zoom-page-zone zoom-page-next" type="button" aria-label="Página siguiente"><span aria-hidden="true">›</span></button></dialog>
   <noscript><p class="no-js">Activa JavaScript para usar el lector. También puedes leer las páginas desde el <a href="https://github.com/OscarD0823/dos-parkinson-y-medio/tree/main/dist/paginas">repositorio de GitHub</a>.</p></noscript>
 </body>
 </html>
