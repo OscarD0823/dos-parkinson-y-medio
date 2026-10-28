@@ -96,8 +96,8 @@
     }
   }
 
-  function animate({source, target, host, direction}) {
-    const bounds = target.getBoundingClientRect(), box = host.getBoundingClientRect();
+  function animate({source, target, host, direction, bounds: capturedBounds}) {
+    const bounds = capturedBounds || target.getBoundingClientRect(), box = host.getBoundingClientRect();
     if (!bounds.width || !bounds.height) return null;
     const sheet = document.createElement('canvas');
     sheet.className = 'page-turn-sheet'; sheet.setAttribute('aria-hidden', 'true');

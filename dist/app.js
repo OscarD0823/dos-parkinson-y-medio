@@ -11,11 +11,28 @@
   const saved = () => { try { return JSON.parse(localStorage.getItem(storageKey) || 'null'); } catch { return null; } };
   const save = () => { try { localStorage.setItem(storageKey,JSON.stringify({chapter:chapter.number,page:pageIndex+1,mode})); } catch {} };
   const element = (tag, className, text) => { const e=document.createElement(tag); if(className)e.className=className;if(text!==undefined)e.textContent=text;return e; };
-  const route = (number,index=0,newMode=mode,replace=false) => {
+  const route = (number,index=0,newMode=mode,replace=false,turnDirection=0) => {
     const hash=`#capitulo=${number}&pagina=${index+1}&modo=${newMode}`;
-    if(replace){history.replaceState(null,'',hash);readRoute();}
-    else if(location.hash===hash)readRoute();else{history.pushState(history.state,'',hash);readRoute();}
+    if(replace){history.replaceState(null,'',hash);readRoute(turnDirection);}
+    else if(location.hash===hash)readRoute(turnDirection);else{history.pushState(history.state,'',hash);readRoute(turnDirection);}
   };
+  function adjacentChapter(direction){
+    if(direction>0&&chapter.pages.length<chapter.plannedPages)return null;
+    const chapters=[...book.chapters].sort((a,b)=>a.number-b.number);
+    const candidate=chapters[chapters.indexOf(chapter)+direction];
+    return candidate?.pages.length?candidate:null;
+  }
+  function pageDestination(direction,index=pageIndex){
+    const next=index+direction;
+    if(next>=0&&next<chapter.pages.length)return {chapter,index:next};
+    const candidate=adjacentChapter(direction);
+    return candidate?{chapter:candidate,index:direction>0?0:candidate.pages.length-1}:null;
+  }
+  function stepReader(direction){
+    if(activeTurn)return;
+    const destination=pageDestination(direction);
+    if(destination)route(destination.chapter.number,destination.index,mode,false,direction);
+  }
   const message = text => {ui['reader-status'].textContent=text;};
   function renderLibrary(){
     const total=book.chapters.reduce((sum,c)=>sum+c.pages.length,0);
@@ -54,9 +71,10 @@
     ui['zoom-image'].width=p.width||1024;ui['zoom-image'].height=p.height||1536;
     ui['zoom-image'].src=p.image;ui['zoom-image'].alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;
     ui['zoom-title'].textContent=`Capítulo ${chapter.number} · Página ${p.number}`;
-    ui['zoom-previous'].disabled=index===0;ui['zoom-next'].disabled=index===chapter.pages.length-1;
-    ui['zoom-previous'].setAttribute('aria-label',`Página anterior${index?`, página ${index}`:''}`);
-    ui['zoom-next'].setAttribute('aria-label',`Página siguiente${index+1<chapter.pages.length?`, página ${index+2}`:''}`);
+    for(const [id,direction] of [['zoom-previous',-1],['zoom-next',1]]){
+      const destination=pageDestination(direction,index);ui[id].disabled=!destination;
+      ui[id].setAttribute('aria-label',destination?.chapter!==chapter&&destination?`${direction>0?'Siguiente capítulo':'Capítulo anterior'}: ${destination.chapter.title}`:`Página ${direction>0?'siguiente':'anterior'}${destination?`, página ${destination.index+1}`:''}`);
+    }
     applyZoom();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
   }
   function openZoom(p){
@@ -66,9 +84,9 @@
   }
   function turnZoomPage(direction){
     if(activeTurn)return;
-    const next=zoomPageIndex+direction;if(next<0||next>=chapter.pages.length)return;
+    const destination=pageDestination(direction,zoomPageIndex);if(!destination)return;
     const oldImage=!reducedMotion.matches?pageTurn?.capture(ui['zoom-image']):null;
-    showZoomPage(next);route(chapter.number,next,mode);
+    route(destination.chapter.number,destination.index,mode,false,direction);showZoomPage(destination.index);
     animatePageTurn(oldImage,direction,ui['zoom-image'],ui['zoom-image'].parentElement);
   }
   function applyZoom(){ui['zoom-image'].style.width=`${zoom}%`;ui['zoom-level'].textContent=`${zoom} %`;$('zoom-less').disabled=zoom===100;$('zoom-more').disabled=zoom===250;}
@@ -109,8 +127,7 @@
     const dx=touch.clientX-start.x,dy=touch.clientY-start.y;
     if(Math.max(Math.abs(dx),Math.abs(dy))>12)suppressTouchClickUntil=performance.now()+700;
     if(start.axis==='vertical'||Math.abs(dx)<50||Math.abs(dx)<Math.abs(dy)*1.5||performance.now()-start.time>900)return;
-    const next=pageIndex+(dx<0?1:-1);
-    if(next>=0&&next<chapter.pages.length)route(chapter.number,next);
+    stepReader(dx<0?1:-1);
   },{passive:true});
   ui.pages.addEventListener('touchcancel',()=>{gesture=null;suppressTouchClickUntil=performance.now()+700;},{passive:true});
   ui.pages.addEventListener('click',e=>{
@@ -141,11 +158,15 @@
     ui['page-select'].replaceChildren();for(let i=0;i<chapter.pages.length;i++){const option=element('option','',String(i+1));option.value=i;ui['page-select'].append(option);}
     ui['page-total'].textContent=`de ${chapter.pages.length}`;
     ui.pages.replaceChildren(...(mode==='vertical'?chapter.pages.map((p,i)=>makePage(p,i)):[makePage(chapter.pages[pageIndex],pageIndex)]));
-    $('page-navigation').hidden=mode==='vertical';ui.anterior.disabled=pageIndex===0;
-    ui.siguiente.disabled=pageIndex===chapter.pages.length-1;
+    $('page-navigation').hidden=mode==='vertical';
+    const previous=pageDestination(-1),nextPage=pageDestination(1),nextChapter=adjacentChapter(1);
+    ui.anterior.disabled=!previous;ui.siguiente.disabled=!nextPage;
+    ui.anterior.textContent=previous&&previous.chapter!==chapter?`← Capítulo ${previous.chapter.number}`:'← Anterior';
+    ui.siguiente.textContent=nextPage&&nextPage.chapter!==chapter?`Capítulo ${nextPage.chapter.number} →`:'Siguiente →';
     const atEnd=mode==='vertical'||pageIndex===chapter.pages.length-1;
     ui['chapter-end'].hidden=!atEnd;
-    ui['chapter-end-text'].textContent=chapter.pages.length<chapter.plannedPages ? `Has llegado a la última página publicada de este capítulo. Las siguientes están en preparación (${chapter.pages.length} de ${chapter.plannedPages}).` : 'Has terminado este capítulo. Vuelve al índice para continuar con las entregas disponibles.';
+    ui['chapter-end-text'].textContent=chapter.pages.length<chapter.plannedPages ? `Has llegado a la última página publicada de este capítulo. Las siguientes están en preparación (${chapter.pages.length} de ${chapter.plannedPages}).` : nextChapter?`Desliza hacia la izquierda para seguir con el capítulo ${nextChapter.number}: ${nextChapter.title}.`:'Has terminado el último capítulo disponible.';
+    $('end-next').hidden=!nextChapter;$('end-next').textContent=nextChapter?`Seguir con el capítulo ${nextChapter.number} →`:'';
     message('');setProgress();
     if(mode==='vertical'){
       observer=new IntersectionObserver(entries=>{
@@ -156,10 +177,11 @@
       requestAnimationFrame(()=>$(`pagina-${chapter.pages[pageIndex].number}`).scrollIntoView({behavior:'instant',block:'start'}));
     }else{
       if(!preservePagePosition)window.scrollTo({top:ui.lector.offsetTop,behavior:'instant'});
-      for(const index of [pageIndex-1,pageIndex+1])if(chapter.pages[index]){const preload=new Image();preload.src=chapter.pages[index].image;}
+      for(const direction of [-1,1]){const destination=pageDestination(direction);if(destination){const preload=new Image();preload.src=destination.chapter.pages[destination.index].image;}}
     }
   }
-  function readRoute(){
+  function readRoute(turnDirection=0){
+    if(typeof turnDirection!=='number')turnDirection=0;
     if(!book)return;
     cancelPageTurn();gesture=null;
     const params=new URLSearchParams(location.hash.slice(1));const number=Number(params.get('capitulo'));
@@ -167,10 +189,10 @@
     if(!found){showLibrary();return;}
     const nextIndex=Math.min(Math.max(0,Math.floor(Number(params.get('pagina'))||1)-1),found.pages.length-1);
     const nextMode=params.get('modo')==='vertical'?'vertical':'pagina';
-    const preservePagePosition=!ui.lector.hidden&&chapter===found&&mode==='pagina'&&nextMode==='pagina'&&nextIndex!==pageIndex;
+    const preservePagePosition=!ui.lector.hidden&&mode==='pagina'&&nextMode==='pagina'&&((chapter===found&&nextIndex!==pageIndex)||(chapter!==found&&turnDirection!==0));
     const turn=preservePagePosition&&!ui['zoom-dialog'].open;
     const oldImage=turn&&!reducedMotion.matches?pageTurn?.capture(ui.pages.querySelector('.comic-image-button img')):null;
-    const direction=Math.sign(nextIndex-pageIndex);
+    const direction=turnDirection||Math.sign(nextIndex-pageIndex);
     chapter=found;pageIndex=nextIndex;mode=nextMode;renderReader({preservePagePosition});
     animatePageTurn(oldImage,direction);
   }
@@ -184,8 +206,9 @@
   }
   $('volver').onclick=()=>{location.hash='';window.scrollTo(0,0);};
   $('indice').onclick=$('end-library').onclick=()=>{location.hash='capitulos';};
-  ui.anterior.onclick=()=>{if(!activeTurn&&pageIndex>0)route(chapter.number,pageIndex-1);};
-  ui.siguiente.onclick=()=>{if(!activeTurn&&pageIndex+1<chapter.pages.length)route(chapter.number,pageIndex+1);};
+  ui.anterior.onclick=()=>stepReader(-1);
+  ui.siguiente.onclick=()=>stepReader(1);
+  $('end-next').onclick=()=>{const next=adjacentChapter(1);if(next&&!activeTurn)route(next.number,0,mode,false,1);};
   ui['chapter-select'].onchange=e=>route(Number(e.target.value));ui['page-select'].onchange=e=>route(chapter.number,Number(e.target.value));
   ui['modo-pagina'].onclick=()=>route(chapter.number,pageIndex,'pagina');ui['modo-vertical'].onclick=()=>route(chapter.number,pageIndex,'vertical');
   $('zoom-more').onclick=()=>{cancelPageTurn();zoom=Math.min(250,zoom+25);applyZoom();};$('zoom-less').onclick=()=>{cancelPageTurn();zoom=Math.max(100,zoom-25);applyZoom();};
