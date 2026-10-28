@@ -12,7 +12,7 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 6 | Patatas fritas y malteada de fresa. | 28 | 28 |
 | 7 | ¡Ha nacido un Parkinson! | 18 | 3 |
 | 8 | La Familia Parkinson | 33 | 0 |
-| 9 | Esmoquin, pañales y alta sociedad | 55 | 0 |
+| 9 | Esmoquin, pañales y alta sociedad | 37 | 0 |
 | 10 | Rivales | 64 | 0 |
 | 11 | Anatomía de un Rumor | 85 | 0 |
 | 12 | Parkinson's Christmas | 178 | 0 |
