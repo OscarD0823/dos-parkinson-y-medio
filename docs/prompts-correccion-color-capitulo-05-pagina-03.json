@@ -1,0 +1,16 @@
+{
+  "chapter": 5,
+  "page": 3,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-82a9e580-379f-4fbf-8b19-747a3d583e7e.png",
+  "versionedImage": "paginas/c05-p003-color-v2.webp",
+  "originalPreserved": "paginas/c05-p003.webp",
+  "originalSha256": "ff377f2267f0c1fa6b1fd401c9cafe8cfdda54b99ffd8f9b1f21d623a14e8bc7",
+  "promptFile": "c05-p003-color-v2-prompt.txt",
+  "prompt": "Use case: lighting-weather / style-transfer. EDIT Image1, the published chapter5page3. Preserve all EIGHT panels, every exact Spanish word/balloon/tail/header \"Capítulo 5 · 03\", each figure's established identity/iris/hair/uniform/expression/pose, all props and their positions. Color/contrast correction ONLY in this pass. Image2 is approved neutralized color of preceding page2; Image3 is early chapter1 drawing reference. Do not copy text or scenes from references.\n\nRestore continuity: NEUTRAL GRAY stone walls, true neutralBLACK Snape/student robes, NAVY Elsie robe, natural pale/peach/brown skin, Hermione BROWN curls, Harry BLACK hair, Ron naturally GINGER-RED (not brown), Draco PLATINUM hair. Preserve Gryffindor BURGUNDY-GOLD and Slytherin GREEN-SILVER. Confine warm AMBER to the lanterns and LOCAL reflections on COPPER cauldrons. Reduce global orange/yellow tint, oversaturated gold rim light, crushed black shadows and harsh specular contrast. Neutral subtle ambient fill, no new windows. Keep early ink-and-paint finish and depth, not flat/desaturated.\n\nLock ELSIE TANNER gray wavy lowbun/oval glasses/NAVY highcollar long-sleeve robe/sapphire eagle pendant, SNAPE pale angular adult/BLACK long hair/BLACK highcollar robe. Blackboard remains ABSTRACT UNREADABLE MAGIC SWIRLS, without new recipe/numbers/legible instructions. Sealed fantastical glowing BLUE/PURPLE/GREEN/AMBER bottles stay exactly as target, no added actions or real substances. Keep all characters and text exactly. No new signature/painted watermark; reader adds credit. Return complete corrected portrait page. Human proportions will remain a separately recorded review criterion, do not claim this color pass completes that review.\n",
+  "review": "All8panels/exactdialogue/speakers/iris/hairstyles/housecolors/clothes/props preserved; neutralGRAY stone/trueBLACK/NAVY/natural skin-BROWN hair/localAMBERandCOPPER. Abstract magic diagrams preserved as unreadable fantasy, no new instructions. Original transcript identical.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false
+}
