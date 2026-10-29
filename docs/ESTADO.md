@@ -16,6 +16,6 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 10 | Rivales | 44 | 0 |
 | 11 | Anatomía de un Rumor | 44 | 0 |
 | 12 | Parkinson's Christmas | 95 | 0 |
-| 13 | La Dolce Vita | 173 | 0 |
+| 13 | La Dolce Vita | 88 | 0 |
 
 Herramienta: ImageGen integrada. Las imágenes publicadas se revisan antes de incorporarlas. La portada no cuenta como página de capítulo.
