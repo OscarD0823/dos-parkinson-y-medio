@@ -8,4 +8,6 @@ Para los Malfoy se consultaron las fotografías publicadas en la [presentación 
 
 Eirena, Markus, Chiara, Lissandra y Quirinus siguen sus descripciones y diseños editoriales del fanfic. No se les atribuye un actor o una estatura canónica inexistente. Sus primeras imágenes revisadas fijan la continuidad para los capítulos posteriores.
 
+Para la revisión de estudiantes se consultó también el fotograma de Harry, Hermione y Ron caminando por Hogsmeade en *El misterio del príncipe*, incluido en [este artículo oficial](https://www.harrypotter.com/features/harry-ron-hermione-who-was-the-better-friend). Sirve para comparar anatomía y proporciones de alumnos mayores; no reemplaza las identidades, colores de ojos, uniformes ni acabado dibujado del cómic. La perspectiva del fotograma no se usa para calcular centímetros.
+
 El orden de trabajo acordado es terminar el capítulo 9, revisar y corregir las páginas desde el 5 —color, contraste, encabezados, proporciones y tamaños— y después continuar con el capítulo 10. La revisión se realiza página por página, conservando historia y diálogos.
