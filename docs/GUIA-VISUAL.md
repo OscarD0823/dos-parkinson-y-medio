@@ -13,10 +13,13 @@ El usuario señaló una pérdida de continuidad de color y de presentación a pa
 
 La revisión solicitada también incluye el tamaño de los personajes. La saga de películas de Harry Potter sirve como referencia visual para la edad aparente, las proporciones humanas y las alturas relativas de los personajes conocidos. No se asignan centímetros inventados ni se afirma una estatura canónica para personajes originales del fanfic.
 
+Esta referencia de proporciones no sustituye los colores de ojos, el vestuario ni los rasgos del fanfic ya aprobados. La procedencia de las referencias se documenta en [Referencias de personajes](REFERENCIAS-PERSONAJES.md).
+
 - Alumnos con proporciones de adolescentes mayores o adultos jóvenes: evitar cuerpos de niño pequeño, piernas demasiado cortas y cabezas u ojos que aumentan progresivamente.
 - Conservar diferencias de estatura y complexión entre personajes, y mantenerlas al compartir suelo y plano. La perspectiva y los primeros planos no deben convertirse en cambios de talla.
 - Adultos con anatomía y rostro maduros; personajes originales como Eirena y Markus conservan su diseño aprobado y proporciones adultas coherentes.
 - Muñecos con escala estable respecto a brazos, cunas y cochecitos; no convertir un cambio de encuadre en crecimiento accidental.
+- Elfos domésticos claramente menores que los humanos. La referencia de esta adaptación muestra al mayordomo con aproximadamente la mitad de su altura, cabeza a la altura de cadera o cintura baja y ambos de cuerpo entero sobre el mismo suelo. No resolverlo solo alejando al elfo ni haciéndolo agacharse. Nodky conserva esa escala pequeña con rasgos de elfo adulto joven distintos del mayordomo mayor.
 
 Estos ajustes se revisan junto con color, contraste y encabezados después de cerrar el capítulo 9 y antes de comenzar el 10, según la prioridad expresa del usuario.
 

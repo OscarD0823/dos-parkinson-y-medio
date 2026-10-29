@@ -1,0 +1,40 @@
+{
+  "request": "Usuario: el elfo sigue muy grande. Corregir las dos apariciones del mayordomo y fijar escala futura.",
+  "status": "approved-visual-correction",
+  "pages": [
+    {
+      "page": 18,
+      "master": "exec-e1d05cae-966f-4c7a-b929-eb492ebad0c5.png",
+      "image": "paginas/c09-p018-elfo-escala-v2.webp",
+      "sha256": "5d48d751dddc440161e46d39dcc3319c8c535d9309a899ab4e3d422227e9319d",
+      "originalPreserved": true,
+      "prompts": [
+        {
+          "file": "c09-p018-correccion-escala-elfo.txt",
+          "prompt": "Use case: precise-object-edit. Correct ONLY the elderly ELF BUTLER'S SIZE in the LAST PANEL, the lower-right arrival panel. All other panels and exact Spanish dialogue remain unchanged.\n\nThe butler is a SMALL HOUSE-ELF, not human-sized. Recompose ONLY that last panel to show the trio and the butler standing on the SAME marble floor, with enough lower-body view to read the scale correctly. Hermione and Pansy retain normal late-adolescent human proportions and their established relative heights. The ELF, standing naturally upright before a modest bow, is approximately HALF their standing height: the top of his head should be around their HIP/LOWER WAIST level, clearly far below their shoulders. He is naturally small, not a human crouching or standing farther away. Show his small full figure near the human figures' legs so scale is unmistakable.\n\nPreserve the same mature ELF identity: fine wrinkles, sparse GRAY hair at temples, large pointed ears, BROWN eyes, BLACK TAILCOAT/WHITE SHIRT/BLACK BOW TIE/WHITE GLOVES, friendly polite expression. Shrink body/head together coherently, not a gigantic head on a tiny body. Keep him on the same floor plane as the humans, no pedestal, no raised platform, no forced-perspective trick.\n\nHumans keep their exact faces/hair/eyes and visit clothes: Hermione BROWN curls/BROWN eyes/OLIVE closed sweater and long trousers supporting ONE Robin; Pansy BLACK bob/GREEN eyes/CREAM blazer-trousers over BLACK sweater. Robin's own established cloth-doll scale, SAND sweater/TERRACOTTA trousers/green eyes and supported position stay unchanged. Preserve the WHITE-GRAY marble/PALE BLUE curtains/subtle gold manor design and empty background corridor. The change in camera framing may reveal lower bodies only to establish the elf scale.\n\nAll FIRST FIVE PANELS including dialogue order, green light ellipsis, empty floating pram with no wheels and arrival remain pixel-faithful. No new words, people, signature or painted watermark. Return the complete finished portrait comic page.\n"
+        },
+        {
+          "file": "c09-p018-correccion-escala-elfo-v2.txt",
+          "prompt": "Use case: precise-object-edit. FIRST IMAGE is the EDIT TARGET: chapter9 page18. SECOND IMAGE is a SCALE REFERENCE ONLY: use its FIRST WIDE PANEL showing full-body Hermione/Pansy and the small elf on one floor baseline.\nReplace ONLY the LAST PANEL of Image1 (lower-right arrival/butler panel) with a WIDE FULL-BODY THREE-QUARTER FRONTAL view of Hermione LEFT, Pansy CENTER and the elderly elf RIGHT. Show BOTH HUMAN FIGURES FROM HEAD TO SHOES, the small elf FULL BODY, standing SIDE BY SIDE at the SAME DEPTH with all feet on the SAME HORIZONTAL MARBLE FLOOR BASELINE. No cropped foreground backs/shoulders, no distant elf or overhead angle. This is a clear height comparison like the reference2 first panel. The ELF is approximately HALF human standing height, top of his head at their HIP/LOWER WAIST. Same mature fine-wrinkled face/sparseGRAY hair/pointedears/BROWN eyes/BLACK tailcoat/WHITE shirt-BLACKbowtie-WHITEgloves, natural small adult house-elf body rather than a human crouching.\nHermione BROWN CURLS/BROWN eyes/OLIVE closed sweater and WIDE LONG TROUSERS supports ONE Robin cloth toy (GREEN eyes/BROWNtuft/SANDsweater/TERRACOTTAtrousers/CREAMsnitchsocks). Pansy BLACKbob/GREENeyes/CREAMblazer-LONGTROUSERS/CLOSEDBLACKsweater carries DARKGREEN R.P.bag/SILVERletters. Preserve their faces, clothes and current natural human proportions. Robin retains his established small toy scale. The last panel's background remains the same luminous marble manor/PALEBLUEcurtains/subtleGOLD trim, empty except these three figures and the one doll.\nALL FIRST FIVE PANELS of Image1 remain unchanged: all exact Spanish dialogue/tails, common room, green-light ellipsis, arrival and empty floating pram without wheels. No parents from reference2 in this page, no other people or copied text. No new words, signature or painted watermark. Return the complete portrait comic page."
+        }
+      ],
+      "review": "Aprobada visualmente: figuras enteras mismo suelo, elfo claramente menor (~mitad), identidad/ropa/textos y escalaRobin preservados."
+    },
+    {
+      "page": 19,
+      "master": "exec-cab8f640-980f-46a0-aa2e-864bc29bc52e.png",
+      "image": "paginas/c09-p019-elfo-escala-v1.webp",
+      "sha256": "a25360fc5b21e946dc8864d04e9fa2e06bac9b8b20c6b511a8c2252c11d8743a",
+      "originalPreserved": true,
+      "prompts": [
+        {
+          "file": "c09-p019-correccion-escala-elfo.txt",
+          "prompt": "Use case: precise-object-edit. Correct ONLY the elderly ELF BUTLER'S SIZE in the FIRST WIDE PANEL. The user flagged that he is too large. Keep the other FOUR PANELS, newly established parents, all dialogue/balloon attribution and everything else unchanged.\n\nRecompose the first wide panel so Hermione, Pansy and the SAME elderly butler stand on the SAME marble floor and their relative heights are visible. Hermione and Pansy are normal human late-adolescents. This is a SMALL HOUSE-ELF: approximately HALF their standing height, top of his head near their HIP/LOWER WAIST, clearly below their shoulders. Show the elf's small full standing figure near their legs; do not merely make him crouch, move him far away, or shrink only his head. The framing may widen/reveal more of the humans' lower bodies as needed. No pedestal/platform or perspective trick.\n\nELF identity must stay exactly the same: mature fine wrinkles, sparse GRAY hair/large pointed ears/BROWN eyes, BLACK TAILCOAT/WHITE SHIRT/BLACK BOW TIE/WHITE GLOVES, friendly and courteous. Scale entire body/head coherently.\n\nPreserve Hermione BROWN CURLS/BROWN eyes/OLIVE closed sweater-LONG TROUSERS supporting the ONE dressed cloth Robin (SAND/TERRACOTTA/green eyes/brown tuft), Pansy BLACK bob/GREEN eyes/CREAM suit-BLACK sweater/SILVER R.P.bag, and luminous marble manor/PALE BLUE curtains/gold accents. Robin keeps his established smaller cloth-toy scale, not enlarged to compensate for the elf change.\n\nKeep the butler's EXACT greeting: \"Bienvenidos a Parkinson Manor. La joven Pansy, la señorita Granger… y el pequeño Robin.\" Reposition its balloon/tail only as necessary to point clearly to the NOW SMALL ELF. No other text or layout changes. All lower panels and parents' GREEN eyes/goatee/blue dress/last Hermione reply tail remain unchanged. Complete portrait page, no extra words/signature/watermark.\n\nSCALE CHECK REQUIRED: in the first panel show Hermione and Pansy FULL BODY from head to shoes, the elf FULL BODY, all three standing SIDE BY SIDE at the SAME DEPTH with feet on the SAME HORIZONTAL FLOOR BASELINE. Hermione LEFT, Pansy CENTER, small elf RIGHT. Human heights about twice elf height; elf head at their hips. No foreground cropped humans, no overhead view or distant tiny elf. The wide first panel has space for this clear full-figure comparison. Greeting balloon in upper-right, tail to small elf below it. Only first panel recomposed, all lower panels unchanged.\n"
+        }
+      ],
+      "review": "Aprobada visualmente: figuras enteras mismo suelo, elfo claramente menor (~mitad), identidad/ropa/textos y escalaRobin preservados."
+    }
+  ],
+  "illustratedPagesUnchanged": 198,
+  "referenceRule": "Proporcionartistica:elfoaproxmitaddehumano/cabezaacaderacinturabaja,suelocompartido/figurasenteras;sincentimetroscanonafirmados. Nodkyyotrosfuturosigualescalaespecie, adultos no niñoshumanos."
+}
