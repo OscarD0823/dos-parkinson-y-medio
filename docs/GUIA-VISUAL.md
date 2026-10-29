@@ -9,6 +9,17 @@ El usuario señaló una pérdida de continuidad de color y de presentación a pa
 - Conservar la tinta y el acabado pictórico de los capítulos iniciales, las proporciones de los personajes y los rostros aprobados. No aumentar progresivamente el tamaño de ojos y cabeza ni infantilizar las siluetas.
 - Los colores de ojos, casas, uniformes, muñecos y objetos siguen sus continuidades narrativas. Un cambio de paleta no autoriza cambiarlos.
 
+## Proporciones y estaturas
+
+La revisión solicitada también incluye el tamaño de los personajes. La saga de películas de Harry Potter sirve como referencia visual para la edad aparente, las proporciones humanas y las alturas relativas de los personajes conocidos. No se asignan centímetros inventados ni se afirma una estatura canónica para personajes originales del fanfic.
+
+- Alumnos con proporciones de adolescentes mayores o adultos jóvenes: evitar cuerpos de niño pequeño, piernas demasiado cortas y cabezas u ojos que aumentan progresivamente.
+- Conservar diferencias de estatura y complexión entre personajes, y mantenerlas al compartir suelo y plano. La perspectiva y los primeros planos no deben convertirse en cambios de talla.
+- Adultos con anatomía y rostro maduros; personajes originales como Eirena y Markus conservan su diseño aprobado y proporciones adultas coherentes.
+- Muñecos con escala estable respecto a brazos, cunas y cochecitos; no convertir un cambio de encuadre en crecimiento accidental.
+
+Estos ajustes se revisan junto con color, contraste y encabezados después de cerrar el capítulo 9 y antes de comenzar el 10, según la prioridad expresa del usuario.
+
 ## Presentación de capítulos y páginas
 
 - Encabezado pequeño y discreto: `Capítulo N · PP`, en negro y situado a la izquierda.
