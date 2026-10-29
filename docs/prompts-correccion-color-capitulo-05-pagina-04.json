@@ -1,0 +1,22 @@
+{
+  "chapter": 5,
+  "page": 4,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-0e534d9b-7e60-40f4-8ee8-31a6113c4cb2.png",
+  "versionedImage": "paginas/c05-p004-color-v2.webp",
+  "originalPreserved": "paginas/c05-p004.webp",
+  "originalSha256": "a68bb66c6d63add627f4287f2be3047e6f1e0e2c9e603852c6122f2279f77230",
+  "promptFile": "c05-p004-color-v2-prompt.txt",
+  "prompt": "Use case: lighting-weather / style-transfer. EDIT Image1, the published chapter5page4, COLOR AND CONTRAST ONLY. Preserve ALL EIGHT PANELS/order/story, every exact Spanish word/balloon/tail/caption and upper-left header \"Capítulo 5 · 04\"; all established faces/iris/hair/uniforms/poses/props and locations. Image2 approved corrected color from previous page3, Image3 early comic finish from chapter1. Do not copy reference scenes or dialogue.\n\nNeutralize current strong GLOBAL ORANGE/YELLOW cast: NEUTRAL GRAY classroom stone, trueBLACK robes, natural pale/peach/brown skin and natural BROWN Hermione curls, BLACK Pansy and Harry hair, natural GINGER-RED Ron hair. Keep Hermione BROWN eyes/GryffindorBURDEOS-GOLD, Pansy GREEN eyes/SlytherinGREEN-SILVER; other eyes unchanged. ELSIE GRAY lowbun/OVAL glasses/NAVY highcollar robe/SAPPHIREpendant remains. Preserve AMBER lanterns and COPPER cauldrons with soft LOCAL warm highlights, BLUE/PURPLE/GREEN bottle glow and GOLD magical swirl local to its cauldron. Subtle neutral/cool shadow fill, gentler saturation/rimlight and highlight contrast, retain painterly inked depth and readability, not flatgray. No new window or additional source of light.\n\nLOCK all objects/actions: BLUE and PINK capped project prop bottles in first two panels, books/abstract magic blackboard diagrams, small fantasycolored glowing vials/gems/capsules, COPPER cauldrons. Last panel Harry/Ron startled beside failed fictional mixture, existing WHITE FOAM on Ron's CLOTHES and rim of metal pot unchanged; no new spill or action. Keep every printed sentence and punctuation EXACTLY, no legible new recipe/instruction or substance. Same early ink-and-paint comic style and original anatomy in this color pass; proportions remain a separately open audit criterion. No new figure/signature/painted watermark. Return complete corrected page.\n",
+  "review": "All8panels/exactdialogue/speakers/iris/hairstyles/housecolors/clothes/props preserved; neutralGRAY stone/trueBLACK/NAVY/natural skin-BROWN hair/localAMBERandCOPPER. Abstract magic diagrams preserved as unreadable fantasy, no new instructions. Original transcript identical.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [
+    {
+      "file": "c05-p004-color-v3-cabello.txt",
+      "prompt": "Use case: precise-object-edit. Target already has the approved neutralGRAY stone/NAVY/BLACK/localAMBER color balance. Correct ONLY PANSY'S HAIR COLOR in every panel where she appears. Pansy is the GREEN-EYED student with CHIN-LENGTH BOB/SlytherinGREEN-SILVER uniform. Her hair must be naturally BLACK with soft subtle neutral-gray sheen, same as approved reference Image2. Remove the accidental vivid RED/MAGENTA/PURPLE streaks/ends, especially third-row closeups and last-row-left. Keep exact bob shape/strand positions/face/iris/expression/pose/uniform unchanged. Fine warm lamp edge reflection may stay restrained, but her actual hair remains BLACK, never dyed colored ends.\n\nDo NOT change RON'S GINGER-RED hair or HERMIONE'S BROWN curls, and do not change any other character or object. Keep all EIGHT panels/order/words/guillemets/accents/balloons/tails/captions/header, stone/lamps/copper/colored props/white foam, every other pixel as closely as possible. No anatomy edit in this pass. Return full page, no signature/watermark.\n"
+    }
+  ]
+}
