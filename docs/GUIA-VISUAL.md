@@ -27,4 +27,4 @@ Las nuevas generaciones deben incluir una referencia de los capítulos iniciales
 
 La marca **Fanfic: Nicole_Winkel** sigue aplicándose desde el lector, la ampliación, la animación y la descarga. No dibujar una segunda marca dentro de las ilustraciones. Conservar las redes de la autora y los controles de lectura publicados.
 
-Esta guía documenta la corrección pendiente; su existencia no significa que las imágenes publicadas ya hayan sido modificadas.
+La apertura del capítulo 5 se ha revisado con estas referencias: título integrado y colores naturales, con ámbar localizado en lámparas y cobre. La versión corregida usa un archivo distinto para evitar la caché de la imagen anterior. Las demás páginas siguen sujetas a comparación individual; esta entrega no implica que todas hayan sido modificadas.
