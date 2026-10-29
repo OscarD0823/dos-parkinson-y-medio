@@ -1,0 +1,30 @@
+# Continuidad visual del cómic
+
+El usuario señaló una pérdida de continuidad de color y de presentación a partir del capítulo 5. Las referencias de estilo vuelven a ser las páginas iniciales, con **c01-p001** para el dibujo y **c04-p001** para la apertura de capítulo. Las imágenes recientes sirven para conservar personajes, objetos y vestuario, pero no deben sustituir esas referencias de estilo.
+
+## Color y dibujo
+
+- Luz cálida suave, piel natural, cabello castaño y negros con detalle. La iluminación ámbar del aula de Pociones se conserva como parte de la escena; se evita convertir toda la página en naranja intenso.
+- Mantener el equilibrio entre crema, madera, piedra, burdeos, verdes y azules. Las escenas nocturnas conservan sus tonos fríos y las diurnas su luz natural.
+- Conservar la tinta y el acabado pictórico de los capítulos iniciales, las proporciones de los personajes y los rostros aprobados. No aumentar progresivamente el tamaño de ojos y cabeza ni infantilizar las siluetas.
+- Los colores de ojos, casas, uniformes, muñecos y objetos siguen sus continuidades narrativas. Un cambio de paleta no autoriza cambiarlos.
+
+## Presentación de capítulos y páginas
+
+- Encabezado pequeño y discreto: `Capítulo N · PP`, en negro y situado a la izquierda.
+- Título del capítulo una sola vez, integrado en una cartela de la escena de apertura, tomando el capítulo 4 como referencia. No añadir una gran segunda cabecera exterior ni adornos rojos en el margen.
+- Márgenes y separaciones en crema claro; marcos negros limpios y de grosor coherente.
+- Narración en cartelas crema; diálogo en globos blancos legibles, con atribución clara. Mantener palabras, acentos y orden de lectura.
+- La cantidad y disposición de viñetas se adapta a la acción. No imponer una cuadrícula que obligue a omitir o inventar momentos.
+
+## Correcciones y producción siguiente
+
+La primera corrección preparada es **capítulo 5, página 1**. Se revisará como una edición de estilo: conservará las seis viñetas, escenas, personajes, ropa y diálogo. Los originales se guardan antes de incorporar una versión corregida.
+
+Las demás páginas desde el capítulo 5 requieren comparación visual individual; no se consideran todas defectuosas ni se regeneran en bloque. Toda corrección debe comprobar textos, rostros, iris, colores de casa y continuidad antes de publicarse.
+
+Las nuevas generaciones deben incluir una referencia de los capítulos iniciales además de las referencias necesarias de personajes y escenario. Usar únicamente la página generada inmediatamente anterior como referencia de estilo puede acumular desviaciones.
+
+La marca **Fanfic: Nicole_Winkel** sigue aplicándose desde el lector, la ampliación, la animación y la descarga. No dibujar una segunda marca dentro de las ilustraciones. Conservar las redes de la autora y los controles de lectura publicados.
+
+Esta guía documenta la corrección pendiente; su existencia no significa que las imágenes publicadas ya hayan sido modificadas.
