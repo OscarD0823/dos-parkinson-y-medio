@@ -4,6 +4,7 @@
   const ui = Object.fromEntries(['biblioteca','lector','load-error','chapter-list','progreso-global','empezar','reader-title','reader-chapter','chapter-select','pages','page-select','page-total','anterior','siguiente','chapter-end','chapter-end-text','modo-pagina','modo-vertical','reading-progress','reader-status','zoom-dialog','zoom-image','zoom-level','zoom-title','zoom-previous','zoom-next'].map(id => [id,$(id)]));
   let book, chapter, pageIndex = 0, zoomPageIndex = 0, mode = 'pagina', observer, zoom = 100;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const desktopReading = matchMedia('(min-width: 641px)');
   const pageTurn = window.ComicPageTurn;
   const credits = window.ComicCredits;
   let activeTurn, gesture, suppressTouchClickUntil = 0;
@@ -102,12 +103,20 @@
     turn?.finished.then(()=>{if(activeTurn===turn)activeTurn=null;});
   }
   reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches)cancelPageTurn();});
+  function updateReaderHint(){
+    document.querySelector('.reader-hint').textContent=mode==='vertical'
+      ?'Desplázate hacia abajo para leer. Toca una página o «Ampliar» para verla más grande.'
+      :desktopReading.matches
+        ?'Haz clic en los laterales para pasar de página. Usa el centro o «Ampliar» para el zoom. Tu lectura se guarda.'
+        :'Desliza para pasar la hoja. Toca la página o «Ampliar» para verla más grande. Tu lectura se guarda.';
+  }
+  desktopReading.addEventListener('change',updateReaderHint);
   const canSwipe = () => !activeTurn&&mode==='pagina'&&!ui.lector.hidden&&!ui['zoom-dialog'].open&&(!window.visualViewport||window.visualViewport.scale<=1.01);
   document.addEventListener('touchstart',e=>{
     if(e.touches.length>1){cancelPageTurn();gesture=null;suppressTouchClickUntil=performance.now()+900;}
   },{passive:true,capture:true});
   ui.pages.addEventListener('touchstart',e=>{
-    if(!canSwipe()||e.touches.length!==1||!e.target.closest('.comic-image-button'))return;
+    if(!canSwipe()||e.touches.length!==1||!e.target.closest('.comic-image-frame'))return;
     const touch=e.touches[0];
     gesture={id:touch.identifier,x:touch.clientX,y:touch.clientY,time:performance.now(),axis:null};
   },{passive:true});
@@ -136,12 +145,29 @@
   },true);
   function makePage(p,index){
     const figure=element('figure','comic-page');figure.dataset.index=index;figure.id=`pagina-${p.number}`;
+    const frame=element('div','comic-image-frame');
     const button=element('button','comic-image-button');button.setAttribute('aria-label',`Ampliar página ${p.number}`);
     const img=element('img');img.draggable=false;img.src=p.image;img.width=p.width||1024;img.height=p.height||1536;img.alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;img.loading=(index===pageIndex?'eager':'lazy');img.decoding='async';
     img.addEventListener('error',()=>{message(`No se pudo cargar la página ${p.number}. Comprueba tu conexión.`);});
     const watermark=element('span','comic-watermark',credits.text);watermark.setAttribute('aria-hidden','true');
     button.append(img,watermark);button.addEventListener('click',()=>openZoom(p));
+    frame.append(button);
+    if(mode==='pagina')for(const direction of [-1,1]){
+      const destination=pageDestination(direction,index);
+      const zone=element('button',`reader-page-zone reader-page-${direction<0?'previous':'next'}`);
+      zone.type='button';zone.disabled=!destination;
+      zone.setAttribute('aria-label',destination&&destination.chapter!==chapter
+        ?`${direction>0?'Siguiente capítulo':'Capítulo anterior'}: ${destination.chapter.title}`
+        :`Página ${direction>0?'siguiente':'anterior'}${destination?`, página ${destination.index+1}`:''}`);
+      const arrow=element('span','',direction<0?'‹':'›');arrow.setAttribute('aria-hidden','true');zone.append(arrow);
+      zone.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();stepReader(direction);});
+      frame.append(zone);
+    }
     const caption=element('figcaption');caption.append(element('span','',`CAPÍTULO ${chapter.number} · PÁGINA ${String(p.number).padStart(2,'0')}`));
+    const actions=element('span','page-caption-actions');
+    const enlarge=element('button','page-zoom-trigger','Ampliar ⤢');enlarge.type='button';
+    enlarge.setAttribute('aria-label',`Ampliar página ${p.number}`);enlarge.addEventListener('click',()=>openZoom(p));
+    actions.append(enlarge);
     const download=element('a','', 'Guardar imagen ↓');download.href=p.image;download.download=p.image.split('/').pop();
     download.addEventListener('click',async e=>{
       e.preventDefault();if(download.dataset.busy)return;
@@ -149,14 +175,14 @@
       try{await credits.download(p.image,p.image.split('/').pop());}
       catch{message('No se pudo guardar la imagen. Vuelve a intentarlo.');}
       finally{delete download.dataset.busy;download.textContent='Guardar imagen ↓';}
-    });caption.append(download);
-    figure.append(button,caption);
+    });actions.append(download);caption.append(actions);
+    figure.append(frame,caption);
     if(p.transcript){const details=element('details');details.append(element('summary','','Leer transcripción'),element('p','',p.transcript));figure.append(details);}
     return figure;
   }
   function renderReader({preservePagePosition=false}={}){
     ui.pages.dataset.mode=mode;
-    document.querySelector('.reader-hint').textContent=mode==='pagina'?'Desliza para pasar la hoja. Amplía una página y toca sus bordes para cambiar de página. Tu lectura se guarda.':'Desplázate hacia abajo para leer. En la ampliación, toca los bordes para cambiar de página.';
+    updateReaderHint();
     observer?.disconnect();ui.biblioteca.hidden=true;ui.lector.hidden=false;document.body.classList.add('reader-active');
     document.title=`${chapter.title} · Dos Parkinson y Medio`;
     ui['reader-title'].textContent=chapter.title;ui['reader-chapter'].textContent=`CAPÍTULO ${String(chapter.number).padStart(2,'0')}`;
