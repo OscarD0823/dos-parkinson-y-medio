@@ -14,7 +14,7 @@
 .reader-page-zone:disabled{opacity:1;cursor:default;pointer-events:auto}.reader-page-zone:disabled>span{opacity:0}
 .page-caption-actions{display:flex;align-items:center;justify-content:flex-end;gap:16px;flex-wrap:wrap}
 .page-zoom-trigger{padding:0;border:0;background:none;color:var(--gold);font:inherit;white-space:nowrap}
-@media(min-width:641px){.pages[data-mode=pagina] .reader-page-zone{display:block}}
+@media(min-width:641px),(hover:hover) and (pointer:fine){.pages[data-mode=pagina] .reader-page-zone{display:block}}
 .page-turn-sheet{position:absolute;z-index:2;display:block;pointer-events:none;max-width:none;border-radius:3px}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}.page-turn-sheet{display:none}}
 

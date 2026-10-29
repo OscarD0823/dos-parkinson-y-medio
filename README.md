@@ -8,7 +8,7 @@ La adaptación de los trece capítulos se publica por entregas. El índice indic
 
 El lector incluye lectura vertical y página a página, ampliación hasta 250 %, transcripción de diálogos, enlaces para compartir y guardado del punto de lectura en el navegador. En pantallas táctiles puedes deslizar a los lados para pasar la hoja con una animación de libro. Al terminar un capítulo completo, el mismo gesto continúa en el siguiente; al retroceder desde la primera página, vuelve al anterior. La ampliación y los botones laterales siguen la misma secuencia. Los capítulos incompletos o sin páginas publicadas detienen el avance. Conserva el desplazamiento vertical y el zoom con dos dedos; respeta la preferencia de movimiento reducido. Funciona en computador y celular, sin cuenta.
 
-En la vista página a página de PC, haz clic en el lateral izquierdo o derecho para retroceder o avanzar. El centro de la imagen y el botón «Ampliar» abren el zoom.
+En la vista página a página de PC, haz clic en el lateral izquierdo o derecho para retroceder o avanzar. También funciona con ratón en ventanas estrechas, como el panel del navegador integrado. El centro de la imagen y el botón «Ampliar» abren el zoom.
 
 ## Publicación
 

@@ -4,7 +4,8 @@
   const ui = Object.fromEntries(['biblioteca','lector','load-error','chapter-list','progreso-global','empezar','reader-title','reader-chapter','chapter-select','pages','page-select','page-total','anterior','siguiente','chapter-end','chapter-end-text','modo-pagina','modo-vertical','reading-progress','reader-status','zoom-dialog','zoom-image','zoom-level','zoom-title','zoom-previous','zoom-next'].map(id => [id,$(id)]));
   let book, chapter, pageIndex = 0, zoomPageIndex = 0, mode = 'pagina', observer, zoom = 100;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
-  const desktopReading = matchMedia('(min-width: 641px)');
+  // Un panel de PC puede ser estrecho y seguir usando ratón.
+  const desktopReading = matchMedia('(min-width: 641px), (hover: hover) and (pointer: fine)');
   const pageTurn = window.ComicPageTurn;
   const credits = window.ComicCredits;
   let activeTurn, gesture, suppressTouchClickUntil = 0;
