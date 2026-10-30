@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 7,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-c9c4d20e-7b7f-4afa-8888-c0c49b8de345.png",
+  "versionedImage": "paginas/c07-p007-color-v2.webp",
+  "originalPreserved": "paginas/c07-p007.webp",
+  "originalSha256": "d2d38ad9ff696d710e887d5220780005c745b13ec3abe1d38ea8dbb5aae13177",
+  "promptFile": "c07-p007-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página7 capítulo7 del cómic español. Conservar CINCO viñetas, distribución, reflexión tranquila, palabras EXACTAS y objetos. Ambiente de descanso bajo el lago, DOS CAMAS INDIVIDUALES SEPARADAS y una cuna VACÍA entre ellas; Hermione despierta en su propia cama izquierda y Pansy dormida en su propia cama derecha, vestidas con pijamas largos cerrados y cubiertas con mantas VERDES.\n\nRecuperar cabello CASTAÑO natural y color/contraste moderado de la SEGUNDA referencia c06-p027-color-v2 corregida. La TERCERA c04-p012 orienta noche fría con luces ÁMBAR LOCALES, la CUARTA c01-p001 tinta/pintura suave iniciales. Reducir naranja muy saturado en rizos de Hermione y brillos amarillos globales; mantener piedra GRIS, madera CASTAÑA OSCURA, dormitorio VERDE, ventana/techo de lago AZUL-TURQUESA con peces/algas y luz tenue de lámparas. Conservar oro localizado de luna/estrellas de la cuna y detalles de muebles.\n\nHermione conserva pecas, CAFÉS, rostro/rizos CASTAÑOS, pijama BURDEOS de manga/pantalón largos y ribetes ORO, manta sobre piernas. Pansy conserva bob NEGRO/rostro propio/ojos CERRADOS dormida/pijama NEGRO largo de cuello cerrado/manta VERDE. Mantener escalas de muebles y siluetas humanas coherentes, sin convertir los primeros planos en cambios de talla. La cuna única es madera OSCURA con luna/estrellas DORADAS y colchón CREMA, VACÍA en todos sus planos. No añadir muñecos o personas.\n\nEscritorio, apuntes, libros, tintero, pluma y silla conservados. Conservar EXACTOS encabezado pequeño arriba izquierda «Capítulo 7 · 07», cartela «Más tarde.», reflexión de dos semanas, pensamiento «¿Seguiremos llevándonos así cuando termine el proyecto?», cartela «Hermione: ¿Lo hace solo para no tener problemas… o algo ha cambiado?» y «¿Qué somos ahora?». Mismas palabras/acentos/signos y globos/cartelas. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN Hermione curls/neutral BLACK/GRAY/BROWN wood, BLUE-TURQUOISE lake/local AMBER, moderated contrast.",
+    "continuity": "Five panels, two separate single beds and ONE EMPTY moon-star cot; closed long pyjamas/green covers, Hermione awake on own bed/Pansy asleep on other bed, original thoughts and desk props retained."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:11:26.344436+00:00"
+}

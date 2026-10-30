@@ -1104,7 +1104,7 @@
       "pages": [
         {
           "number": 1,
-          "image": "paginas/c07-p001.webp",
+          "image": "paginas/c07-p001-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 1 del cómic.",
@@ -1112,7 +1112,7 @@
         },
         {
           "number": 2,
-          "image": "paginas/c07-p002.webp",
+          "image": "paginas/c07-p002-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 2 del cómic.",
@@ -1120,7 +1120,7 @@
         },
         {
           "number": 3,
-          "image": "paginas/c07-p003.webp",
+          "image": "paginas/c07-p003-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 3 del cómic.",
@@ -1128,7 +1128,7 @@
         },
         {
           "number": 4,
-          "image": "paginas/c07-p004.webp",
+          "image": "paginas/c07-p004-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 4 del cómic.",
@@ -1136,7 +1136,7 @@
         },
         {
           "number": 5,
-          "image": "paginas/c07-p005.webp",
+          "image": "paginas/c07-p005-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 5 del cómic.",
@@ -1144,7 +1144,7 @@
         },
         {
           "number": 6,
-          "image": "paginas/c07-p006.webp",
+          "image": "paginas/c07-p006-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 6 del cómic.",
@@ -1152,7 +1152,7 @@
         },
         {
           "number": 7,
-          "image": "paginas/c07-p007.webp",
+          "image": "paginas/c07-p007-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 7 del cómic.",

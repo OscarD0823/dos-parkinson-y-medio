@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 3,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-52eef674-7ce4-46d0-8d9f-a99f3890d2a9.png",
+  "versionedImage": "paginas/c07-p003-color-v2.webp",
+  "originalPreserved": "paginas/c07-p003.webp",
+  "originalSha256": "bc7db4e041e6b6d4c4661d2a6f35fcba667efb28e93dc67e7f8f1d227c324c4b",
+  "promptFile": "c07-p003-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página3 del capítulo7 del cómic español. Conservar OCHO viñetas, orden, cenas y TODOS los textos/globos/cartelas/hablantes EXACTOS. Conservar intercambio de platos, castillo de VERDURAS de Luna, vajilla, alimentos, objetos y gestos cotidianos, sin cambiar la historia.\n\nRecuperar color natural y pintura suave inicial: reducir naranja/amarillo global y contraste excesivo; piedra GRIS, uniformes NEGRO neutro con detalle, blancos/CREMA claros y cabello CASTAÑO natural. Mantener velas ÁMBAR localizadas, madera CASTAÑA, mantel VERDE, BURDEOS-ORO, VERDE-PLATA y AZUL-BRONCE propios de casas. La SEGUNDA referencia c01-p001 aporta tinta y dibujo inicial; TERCERA c06-p026 corregida aporta negro detallado/castaño natural/grises, sin copiar escenas o ropa.\n\nHermione conserva rizos CASTAÑOS voluminosos, pecas, CAFÉS, uniforme Gryffindor BURDEOS-ORO. Pansy bob NEGRO liso/VERDES/orejas HUMANAS/Slytherin VERDE-PLATA. Theo cabello corto CASTAÑO/VERDES/rostro anguloso/sin gafas/Slytherin. Luna RUBIA muy clara de cabello largo/AZULES/Ravenclaw AZUL-BRONCE. Millicent ROBUSTA/rostro REDONDO/rizos CASTAÑO OSCURO MEDIO RECOGIDOS/CAFÉS/Slytherin: distinta de Hermione, conservar complexión, peinado y cara. Mantener facciones, expresiones, hombros/torso y siluetas de alumnos mayores; no aumentar cabezas u ojos ni cambiar estaturas por un primer plano.\n\nEncabezado pequeño negro arriba izquierda «Capítulo 7 · 03», márgenes CREMA y marcos negros del mismo grosor. Todos los textos EXACTOS desde target, incluidos preferencias de comida, cartela del intercambio, preguntas de Millicent, respuestas de Luna y «Son criaturas incomprendidas.». Mantener la conversación solo entre esos cinco personajes y el castillo hecho de verduras. El lector aplica el crédito de autora automáticamente.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN/dark CHESTNUT hair, neutral BLACK/gray/cream and localized AMBER candles; global orange/contrast softened.",
+    "continuity": "Eight dinner panels/exact dish exchange/vegetable castle; five approved identities, houses, Millicent robust/round/half-up dark curls and Luna Ravenclaw preserved."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:55:58.885769+00:00"
+}

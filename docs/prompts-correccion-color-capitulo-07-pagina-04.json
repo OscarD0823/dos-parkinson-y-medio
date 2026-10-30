@@ -1,0 +1,27 @@
+{
+  "chapter": 7,
+  "page": 4,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-77dd520b-a387-4f5c-a58b-ee342cc99600.png",
+  "versionedImage": "paginas/c07-p004-color-v2.webp",
+  "originalPreserved": "paginas/c07-p004.webp",
+  "originalSha256": "3b21e05ebda70a0a75e05ecc837b45037a0c478c28b8b3f328faefcf963d7bea",
+  "promptFile": "c07-p004-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página4 del capítulo7 del cómic español. Conservar sus CINCO viñetas, orden, encuadres, personajes, pergamino, alimentos, palabras EXACTAS y atribución de globos. Es una conversación cotidiana en la mesa durante la cena sobre un listado escolar. El pergamino es un objeto mágico de papel, como en el original.\n\nCorregir SOLO el color/contraste global: reducir naranja y amarillo intensos generalizados; piedra GRIS, madera CASTAÑA, uniformes NEGRO neutro con detalle, blancos/CREMA naturales, piel sin filtro naranja, cabello CASTAÑO natural de Hermione. Mantener velas ÁMBAR localizadas, resplandor DORADO LOCAL del pergamino mágico y colores de casas. SEGUNDA referencia c01-p001 solo dibujo/tinta inicial, TERCERA c06-p026 corregida negros/grises/castaños naturales. Mantener facciones y proporciones ya aprobadas, sin aumentar cabeza/ojos ni copiar otra escena.\n\nHermione mantiene iris CAFÉS en TODAS sus apariciones, pecas/rizos CASTAÑOS/BURDEOS-ORO (Gryffindor). Pansy bob NEGRO/VERDES/orejas HUMANAS/VERDE-PLATA. Astoria pelo largo LISO CASTAÑO OSCURO e iris GRIS-AZUL en todas sus apariciones; Draco PLATINO corto/GRIS-AZUL; ambos Slytherin VERDE-PLATA. Luna RUBIO muy claro/AZULES/AZUL-BRONCE. Millicent ROBUSTA/rostro REDONDO/CASTAÑO OSCURO MEDIO RECOGIDO/CAFÉS/VERDE-PLATA. Conservar ropa completa, gestos, hombros/torso, caras y manos con el pergamino.\n\nHeader pequeño arriba izquierda «Capítulo 7 · 04». Conservar EXACTOS todos los textos del target, incluidos «Gossip Witch», «Harry Potter y Ginny Weasley: puesto 8», noticia de Daphne/Blaise primeros y Katie Brennan/Diane Westmeath segundas, cartelas narrativas y «¿Pansy y yo estamos en el tercer puesto?». No cambiar posiciones del ranking o nombres. Título del pergamino y sus filigranas permanecen en papel. El lector añade crédito de autora automáticamente.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/yellow glare reduced; localized magic parchment/candles preserved, natural BROWN hair/BLACK/gray/cream.",
+    "continuity": "SIX actual target panels retained; Hermione BROWN irises, Astoria GRAY-BLUE and all approved faces/house colours retained; PAPER scroll/ranking/exact names and dialogue unchanged."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:00:34.348695+00:00",
+  "actualPanelCount": 6,
+  "promptCountReviewNote": "Saved raw prompt erroneously said five. The target and approved output both retain SIX actual panels (1+1+2+2), including the two separate bottom panels; no panel or dialogue omitted. Raw prompt preserved exactly as used."
+}

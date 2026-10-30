@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 5,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-2264ee33-ded8-4da4-9120-426443d81df2.png",
+  "versionedImage": "paginas/c07-p005-color-v2.webp",
+  "originalPreserved": "paginas/c07-p005.webp",
+  "originalSha256": "b45ec9deb1bb62f83e250e4a674c4c3da38ea641b9b6d5a66d15f9d825bc6bbb",
+  "promptFile": "c07-p005-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página5 capítulo7 del cómic español. Conservar CINCO viñetas AMBIENTALES, encuadres, objetos, historia y TODAS las palabras EXACTAS de pergaminos y cartelas con voces identificadas. Mantener la página sin figuras ni retratos, como el target.\n\nSuavizar dominante naranja/amarilla global y contraste intenso: pergamino CREMA natural, madera CASTAÑA con detalle, piedra GRIS, mantel VERDE y plata, estandartes con sus colores propios, cielos azul/violeta del anochecer. Conservar velas ÁMBAR como luces LOCALES y reflejos cálidos de los metales y comida. La SEGUNDA referencia c01-p001 aporta acabado inicial de tinta/pintura suave; TERCERA c04-p012 orienta equilibrio entre colores propios, sombras detalladas y ámbar localizado. No copiar escenas o personas.\n\nConservar EXACTOS título «Las 10 parejas más aclamadas de Hogwarts» y CUATRO filas: «1. Blaise Zabini y Daphne Greengrass», «2. Katie Brennan y Diane Westmeath», «3. Pansy Parkinson y Hermione Granger», «4. Draco Malfoy y Astoria Greengrass». Mantener todo el texto pequeño del mismo pergamino en la tercera viñeta, mismo orden y nombres. Preservar pluma, copa/escudo serpiente, vajilla, alimentos, cortinas, ventanas y velas flotantes.\n\nCartela sobre cuarto/quinto lugar EXACTA y voces EXACTAS identificadas «Astoria: ¿Soy la única que piensa que se ven tan lindas juntas?», «Draco: ¿Y ustedes qué opinan?» y «Hermione: ¡No empiecen!». Mantener encabezado pequeño arriba izquierda «Capítulo 7 · 05», márgenes y cartelas CREMA, marcos negros limpios. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural CREAM parchment/GRAY stone/BROWN wood/green textiles, local candle AMBER and dusk blue-violet instead of global orange/high contrast.",
+    "continuity": "Five environmental panels only; exact title/four ranking rows/named voice captions and objects retained."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:04:10.827089+00:00"
+}

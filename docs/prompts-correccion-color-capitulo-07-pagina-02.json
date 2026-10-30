@@ -1,0 +1,26 @@
+{
+  "chapter": 7,
+  "page": 2,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-8b17fded-53e6-46d1-92f5-c552faed678f.png",
+  "versionedImage": "paginas/c07-p002-color-v2.webp",
+  "originalPreserved": "paginas/c07-p002.webp",
+  "originalSha256": "e3ed1d0dfdb5a8c02722d2787621c740e713fae96d872c371a24ca4d2a0faee8",
+  "promptFile": "c07-p002-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página2 del capítulo7 del cómic español. Conservar sus SEIS viñetas AMBIENTALES, absolutamente todos los objetos, encuadres, distribución y palabras EXACTAS en cartelas con hablantes rotulados. Son pasillos, bolsas, libros, pergamino y mesas preparadas para cenar, sin personas en primer plano.\n\nÚNICA corrección principal: mover el encabezado negro pequeño «Capítulo 7 · 02» desde el CENTRO superior hasta ARRIBA A LA IZQUIERDA, en el mismo margen CREMA, coherente con la SEGUNDA referencia c01-p001. Conservar idéntico tamaño discreto y no añadir títulos o letras nuevas. No cambiar las posiciones o texto de las cartelas de narración y voces.\n\nLa paleta original ya diferencia piedra GRIS, NEGROS, madera CASTAÑA, verdes y BURDEOS; mantenerla. Conservar reflejos cálidos locales del atardecer y de las velas, cielo claro, plantas verdes, vajilla plateada/dorada, alimentos y estandartes. La TERCERA referencia c04-p012 solo confirma la relación entre grises, negros y luz cálida localizada; no copiar la noche ni sus personajes. Conservar las seis escenas ambientales vacías tal cual y todos los diálogos de cuidado/amistad con nombres EXACTOS. El crédito de autora se aplica automáticamente en el lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "header": "Small Capítulo7·02 moved from centered to upper left in original cream margin.",
+    "palette": "Original balanced natural stone/wood/green/burgundy and localized warm sunset/candlelight retained.",
+    "continuity": "Six environmental panels only, named off-screen voice captions and all props retained; no foreground anatomy to rescale."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:52:38.311734+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "chapter": 7,
+  "page": 6,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-43719d9f-ad54-4ac3-a32c-4d4068d32e9b.png",
+  "versionedImage": "paginas/c07-p006-color-v2.webp",
+  "originalPreserved": "paginas/c07-p006.webp",
+  "originalSha256": "7f9ff5c2a980cff63f5d40f1039aa1cf2d0f403162cf9f1daa604b03489ec878",
+  "promptFile": "c07-p006-color-iris-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página6 capítulo7 del cómic español. Conservar SEIS viñetas, encuadres, poses, todos los personajes/objetos y CADA palabra/globo/hablante EXACTOS. Es una conversación cotidiana durante la cena sobre amistad y una encuesta escolar, con uniformes completos y pergamino de papel.\n\nRecuperar colores naturales y contraste moderado como la SEGUNDA referencia c07-p004-color-v2 corregida, manteniendo tinta y pintura suave inicial de la TERCERA c01-p001. Reducir filtro naranja/amarillo global; cabello de Hermione CASTAÑO natural, piedra GRIS, ropa NEGRO neutro con detalle, blancos/CREMA naturales, pieles sin dominante naranja. Conservar luces ÁMBAR LOCAL de velas y brillo DORADO LOCAL del pergamino.\n\nASTORIA: iris GRIS FRÍO/GRIS-AZUL en TODAS sus apariciones, no azul turquesa intenso; conservar cara aprobada, cabello largo LISO CASTAÑO OSCURO y uniforme Slytherin VERDE-PLATA. La segunda referencia aporta su identidad y tono de iris. Draco PLATINO/GRIS-AZUL/VERDE-PLATA. Hermione rizos CASTAÑOS/pecas/CAFÉS/BURDEOS-ORO, Pansy bob NEGRO/VERDES/orejas HUMANAS/VERDE-PLATA, Luna RUBIO muy claro/AZULES/AZUL-BRONCE, Theo corto CASTAÑO/VERDES/VERDE-PLATA. Mantener caras, manos, hombros/torso y siluetas de alumnos mayores, sin aumentar cabezas/ojos ni alterar complexión.\n\nConservar EXACTAS todas las frases de la primera imagen, incluyendo reconocimiento de cuidados de Luna, «No hace falta que nos recuerdes lo adorables que son.», «No hablaba de ellas.», «Nosotras no somos pareja. Solo somos…», «¿Amigas?», «¿Compañeras para el aniversario?», «¡Está bien, ya basta!» y «Tranquila, solo estamos jugando.». Mantener TODAS las colas hacia sus hablantes originales. Encabezado pequeño arriba izquierda «Capítulo 7 · 06». Conservar mantel verde/plata, platos, cubiertos, alimentos y vela del primer plano. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [
+    {
+      "file": "c07-p006-correccion-iris-astoria.txt",
+      "prompt": "Editar la PRIMERA imagen, candidato página6 capítulo7. La corrección de color general ya está bien. Cambiar ÚNICAMENTE los IRIS de ASTORIA en sus TRES apariciones: primera viñeta ARRIBA IZQUIERDA, última fila IZQUIERDA a la derecha de Draco, y última fila DERECHA en el extremo derecho del grupo. Astoria es la chica de pelo CASTAÑO OSCURO LARGO LISO/Slytherin VERDE-PLATA.\n\nSus iris deben ser GRIS PLATA FRÍO con solo un sutil matiz AZUL-GRIS, claramente GRIS y de saturación baja. Ahora se ven azul turquesa intenso. Mantener tamaño/forma de ojos, pupilas oscuras, brillos blancos, párpados, cejas, cara, peinado, expresiones y uniforme. La SEGUNDA referencia c07-p004 corregida identifica a Astoria y su tono frío GRIS-AZUL; no copiar escenas o poses.\n\nTodo lo demás de la primera imagen permanece EXACTAMENTE: SEIS viñetas, cada palabra/globo/hablante, encabezado, dibujos y paleta corregida, papel mágico/objetos/alimentos. Hermione CAFÉS, Pansy VERDES, Luna AZULES, Theo VERDES y Draco GRIS-AZUL conservan sus iris propios. Mantener pieles naturales/rizos CASTAÑOS/negros detallados y ámbar solo local, sin otra corrección de color. Crédito automático del lector.\n"
+    }
+  ],
+  "additionalCorrections": {
+    "palette": "Natural BROWN hair/neutral BLACK/GRAY/CREAM with local candle/parchment glow, moderated global contrast.",
+    "Astoria": "Cool GRAY/GRAY-BLUE irises in every appearance, approved long straight DARK CHESTNUT identity preserved.",
+    "continuity": "Six dinner panels, exact dialogue/speakers/ranking context, complete uniforms and other identities unchanged."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:08:56.313240+00:00"
+}

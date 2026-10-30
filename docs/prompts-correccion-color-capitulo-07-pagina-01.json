@@ -1,0 +1,26 @@
+{
+  "chapter": 7,
+  "page": 1,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-b4df7478-8e79-4b23-81f1-1a5c1a42112b.png",
+  "versionedImage": "paginas/c07-p001-color-v2.webp",
+  "originalPreserved": "paginas/c07-p001.webp",
+  "originalSha256": "b562c73f32fe60e5392ea60479070fb05f851bbd729299bc8a4e33a75ddaaf37",
+  "promptFile": "c07-p001-color-apertura-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página1 del capítulo7 del cómic español. Conservar sus OCHO viñetas, orden, historia, posiciones, objetos, palabras EXACTAS y atribución de cada globo. Es una clase cotidiana de un proyecto escolar con MUÑECOS DE PLÁSTICO vestidos y completamente cubiertos por mantas estampadas CREMA, como en la primera imagen. Mantener las telas, cintas, lazos y soplo blanco de humor de dibujo animado del original, sin cambiar las acciones ni añadir demostraciones.\n\nRecuperar pintura suave y color natural de los capítulos iniciales: reducir la dominante naranja/amarilla global y contraste excesivo; paredes y piedra GRIS cálido suave, madera CASTAÑA, telas CREMA claras, uniformes NEGRO neutro con detalle, piel natural, rizos CASTAÑOS de Hermione. Mantener luz diurna suave de ventanas, verde de plantas/pizarra/cojines y toques cálidos locales. La SEGUNDA referencia c04-p001 orienta solo la presentación inicial y el aula; la TERCERA c01-p001 el dibujo/tinta inicial; la CUARTA c06-p026 corregida aporta negros detallados y cabello CASTAÑO natural. No copiar sus escenas, ropa u objetos.\n\nHermione conserva rostro, pecas, iris CAFÉS y rizos CASTAÑOS voluminosos; Pansy bob NEGRO, VERDES, orejas HUMANAS redondeadas y polvo blanco existente en flequillo. Sudaderas NEGRAS HOLGADAS de manga larga y pantalones NEGROS largos de ambas, H con ribetes BURDEOS-ORO/escudo león y P con VERDE-PLATA/serpiente. Blair conserva identidad de adulta, coleta baja CASTAÑA, iris AZULES, jersey NAVY de cuello alto/manga larga y pantalón NAVY largo. Mantener sus proporciones adultas y las siluetas de alumnas mayores; no agrandar cabezas u ojos. Escala estable de muñecos respecto a mesa/manos; conservar cada muñeco vestido y envuelto.\n\nHeader pequeño negro arriba IZQUIERDA «Capítulo 7 · 01». Título EXACTO «¡Ha nacido un Parkinson!» UNA sola vez en cartela CREMA integrada dentro de la primera viñeta, siguiendo el formato de apertura de la segunda referencia; no segunda cabecera exterior. Conservar sus palabras y la legibilidad de todos los textos del target. Mantener EXACTOS, con acentos/signos/colas: aviso de diez minutos de Blair; «¡Pansy, eso no va ahí! Y ese frasco no se abre así…»; «¡Granger, esto es imposible! Tú hiciste que pareciera fácil.»; «Ya casi lo tienes. Solo van por delante.»; «Faltan dos días y todavía no consigo hacerlo bien.»; «No tenemos que aprenderlo todo a la primera. Vas mejorando.»; cartela «Unos consejos después, el nuevo enemigo de Pansy parecía menos invencible.». El lector añade el crédito de autora automáticamente.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN Hermione curls, detailed neutral BLACK, soft gray/cream/daylight instead of global orange/high contrast.",
+    "opening": "Original small upper-left header and single title inside first-panel cream cartouche retained.",
+    "continuity": "Blair adult/BLUE/low CHESTNUT ponytail/NAVY, Pansy BLACK/GREEN, Hermione BROWN/BROWN, closed black house-trim sportswear, covered dressed plastic practice dolls; eight panels preserved."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:50:17.887303+00:00"
+}
