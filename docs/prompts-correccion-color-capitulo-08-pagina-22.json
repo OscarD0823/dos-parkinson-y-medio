@@ -1,0 +1,35 @@
+{
+  "chapter": 8,
+  "page": 22,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-8777b807-e38c-4fda-a573-1aee39852c34.png",
+  "versionedImage": "paginas/c08-p022-color-v2.webp",
+  "originalPreserved": "paginas/c08-p022.webp",
+  "originalSha256": "f1aed9c2e36ba237792431bce21f144d170ff820dc551c6094d54bf1cad5533d",
+  "promptFile": "c08-p022-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página22 capítulo8 del cómic español. Mantener TODAS las viñetas reales/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Solo realizar el pase de color/contraste/encabezado y continuidad indicados. SEGUNDA referencia c01-p001 orienta tinta y dibujo inicial, TERCERA c04-p012 orienta luz nocturna azul con ámbar LOCAL, CUARTA c08-p016 corregida orienta solo rostro/pijama NEGRO dePansy y estilo del dormitorio; conservar elenco EXACTO del target. No copiar otras escenas.\n\nRecuperar color natural: rizos de Hermione CASTAÑOS, pieles naturales, NEGROS neutros detallados, grises/cremas/blancos y maderaCASTAÑA; contraste moderado. ÁMBAR localizado en lámparas/chimenea/reflejos metálicos, colores naranja de Halloween solo en HOJAS/CALABAZAS. Ventanales de lago AZUL-TURQUESA y verdes de mantas/cortinas conservados. Anatomía de estudiantes mayores, cabeza equilibrada respecto a hombros/torso, miembros y alturas relativas coherentes con referencias iniciales; rostros reconocibles y muñecos de escala estable respecto a brazos/portadores/cunas. No inventar centímetros. Conservar caras/iris/identidad del fanfic. Mover único header pequeño negro «Capítulo 8 · 22» a ARRIBA IZQUIERDA, margenCREMA discreto, retirar solo adornos rojos exteriores. Todos los pequeños son MUÑECOS ENCANTADOS escolares de TELA, vestidos/cubiertos/apoyados, únicos y en espacios propios. Crédito automático del lector.\n\nSIETE viñetas reales (1+2+1+1+1+1). Elenco EXACTO: PANSY, DAPHNE, BLAISE y únicaMUÑECA TELA ARIANNA; no otras personas añadidas. Pansy bobNEGRO NEUTRO detallado/VERDE BOSQUE/pijamaNEGRO-ribetesORO manga y pantalónLARGOS/cuello normal, entra porpuerta y despuésSILLÓN INDIVIDUAL VERDE OSCURO. Daphne RUBIA LARGA/AZULES/pijamaLARGO BEIGE-ribetesCREMA y libro «Proyecto escolar» sobre sofáBEIGE. Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS/pijamaLARGO VERDE BOSQUE OSCURO-ribetesPLATEADOS. Arianna MUÑECA TELA dormida/vestida y cubiertaBEIGE-gorroBEIGE cabello totalmenteOCULTO, propia cunaMADERA OSCURA/forroCREMA/finialesORO sencilla, distinta luna-estrellas deRobin. Dos camasINDIVIDUALES BEIGE yVERDE OSCURO al fondo, arcos-lagoAZUL/anaqueles/chimenea/alfombra/localámbar exactos. Mantener TODAS las palabras, confesión SOLO VERBAL tal como target y cada gesto/atribución, mismos tamaños de muñeca respecto a cuna/manos; no escenas nuevas.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [
+    {
+      "file": "c08-p022-correccion-daphne-rubia.txt",
+      "prompt": "Editar SOLO el color del CABELLO de DAPHNE en la PRIMERA página8p22. DAPHNE es la alumna de ojosAZULES/pijamaLARGO BEIGE-ribetesCREMA que sostiene el libro y se sienta aIZQUIERDA. Aparece CINCO veces: viñeta superiorizquierda, segunda fila izquierda, tercera franja izquierda, quinta franja izquierda y última franja izquierda. En las CINCO, su pelo LARGO y ONDULADO debe ser RUBIO CLARO DORADO PÁLIDO #E7C78A, con lucesCREMA y sombrasOCRE SUAVE, igual a DAPHNE de la SEGUNDA referencia (alumna rubia junto aBlaiseBEIGE). Conservar forma/longitud/rizos de su cabello y cara/ojosAZULES. Mantener todas las demás partes EXACTAS de la PRIMERA página: Pansy bobNEGRO/VERDES/NEGRO-ORO, Blaise pielNEGRA/rizosNEGROS/CAFÉS/VERDE OSCURO, Arianna dormida vestida/cubiertaBEIGE en propia cuna, siete viñetas/cada palabra/globo/hablante/orden, cuerpos/pijamas/muebles/objetos/luz moderada/headerizquierdo. Cambiar SOLO el cabello de Daphne a RUBIO CLARO DORADO en todas sus apariciones."
+    }
+  ],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SIETE viñetas reales (1+2+1+1+1+1). Elenco EXACTO: PANSY, DAPHNE, BLAISE y únicaMUÑECA TELA ARIANNA; no otras personas añadidas. Pansy bobNEGRO NEUTRO detallado/VERDE BOSQUE/pijamaNEGRO-ribetesORO manga y pantalónLARGOS/cuello normal, entra porpuerta y despuésSILLÓN INDIVIDUAL VERDE OSCURO. Daphne RUBIA LARGA/AZULES/pijamaLARGO BEIGE-ribetesCREMA y libro «Proyecto escolar» sobre sofáBEIGE. Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS/pijamaLARGO VERDE BOSQUE OSCURO-ribetesPLATEADOS. Arianna MUÑECA TELA dormida/vestida y cubiertaBEIGE-gorroBEIGE cabello totalmenteOCULTO, propia cunaMADERA OSCURA/forroCREMA/finialesORO sencilla, distinta luna-estrellas deRobin. Dos camasINDIVIDUALES BEIGE yVERDE OSCURO al fondo, arcos-lagoAZUL/anaqueles/chimenea/alfombra/localámbar exactos. Mantener TODAS las palabras, confesión SOLO VERBAL tal como target y cada gesto/atribución, mismos tamaños de muñeca respecto a cuna/manos; no escenas nuevas.",
+    "continuityDetails": "Neutral BLACK Pansy hair instead of red/magenta; BLUE night/local AMBER; original complete long pyjamas and separate spaces preserved.",
+    "DaphneBlaiseArianna": "Daphne LIGHT GOLD BLONDE/BLUE/BEIGE, Blaise BLACK/BROWN/DARK GREEN-SILVER, Arianna BEIGE/cap covers hair/BLUE when awake; own dark wood/CREMA cot without Robin moon-stars, empty whenever in arms.",
+    "hairRefinement": "Final8777b807 restores LIGHT BLONDE in five Daphne appearances; a6f857ff too dark/brown kept as unapproved variant."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T23:39:46.108704+00:00",
+  "actualPanelCount": 7
+}

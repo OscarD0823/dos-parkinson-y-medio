@@ -1,0 +1,28 @@
+{
+  "chapter": 8,
+  "page": 21,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-055d645f-28e8-4b1e-8f20-ec31c724afca.png",
+  "versionedImage": "paginas/c08-p021-color-v2.webp",
+  "originalPreserved": "paginas/c08-p021.webp",
+  "originalSha256": "3ee91e3f3b4b45eaa91b7811d8f6818f277980af9960217c2fccb834bdbe1c39",
+  "promptFile": "c08-p021-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página21 capítulo8 del cómic español. Mantener TODAS las viñetas reales/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Solo realizar el pase de color/contraste/encabezado y continuidad indicados. SEGUNDA referencia c01-p001 orienta tinta y dibujo inicial, TERCERA c04-p012 orienta luz nocturna azul con ámbar LOCAL, CUARTA c08-p016 corregida orienta solo rostro/pijama NEGRO dePansy y estilo del dormitorio; conservar elenco EXACTO del target. No copiar otras escenas.\n\nRecuperar color natural: rizos de Hermione CASTAÑOS, pieles naturales, NEGROS neutros detallados, grises/cremas/blancos y maderaCASTAÑA; contraste moderado. ÁMBAR localizado en lámparas/chimenea/reflejos metálicos, colores naranja de Halloween solo en HOJAS/CALABAZAS. Ventanales de lago AZUL-TURQUESA y verdes de mantas/cortinas conservados. Anatomía de estudiantes mayores, cabeza equilibrada respecto a hombros/torso, miembros y alturas relativas coherentes con referencias iniciales; rostros reconocibles y muñecos de escala estable respecto a brazos/portadores/cunas. No inventar centímetros. Conservar caras/iris/identidad del fanfic. Mover único header pequeño negro «Capítulo 8 · 21» a ARRIBA IZQUIERDA, margenCREMA discreto, retirar solo adornos rojos exteriores. Todos los pequeños son MUÑECOS ENCANTADOS escolares de TELA, vestidos/cubiertos/apoyados, únicos y en espacios propios. Crédito automático del lector.\n\nSIETE viñetas reales (1+2+1+1+1+1). Misma charla verbal/salida/confesión emocional cotidiana del target. Conservar cada palabra/globo/cartela/hablante y TODAS viñetas EXACTOS, incluida «Me gusta Pansy Parkinson.» y las dos cartelas completas. Hermione rizosCASTAÑOS/CAFÉS/pijamaBURDEOS-ORO largo en propia camaIZQUIERDA/mantaVERDE y pergaminoPAPEL/plumaNEGRA. Pansy bobNEGRO NEUTRO con detalle y reflejos ÁMBAR suaves/irisVERDE BOSQUE/pijamaNEGRO-ORO largo, inicialmente en SILLA SEPARADA, recoge varita y sale por puerta como target; sillaVACÍA después. Robin únicoMUÑECO TELA dormido/CASTAÑO/enteroCREMA-DRAGONES VERDES/mantaCREMA-ESTRELLASORO en propia cunaMADERA OSCURA-LUNA/ESTRELLAS entreDOS camasINDIVIDUALES SEPARADAS. Mantener SOLO personas ya presentes en cada cuadro, distancia normal y rostros/gestos originales. EspejoOVALADO ORO/reflejos coherentes/tocador-estucheVERDE-pinceles-libros/puerta/chimenea/lagoAZUL-TURQUESA conservados. Piel natural/rizosCASTAÑOS en lugar de naranja, luz cálida LOCAL.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SIETE viñetas reales (1+2+1+1+1+1). Misma charla verbal/salida/confesión emocional cotidiana del target. Conservar cada palabra/globo/cartela/hablante y TODAS viñetas EXACTOS, incluida «Me gusta Pansy Parkinson.» y las dos cartelas completas. Hermione rizosCASTAÑOS/CAFÉS/pijamaBURDEOS-ORO largo en propia camaIZQUIERDA/mantaVERDE y pergaminoPAPEL/plumaNEGRA. Pansy bobNEGRO NEUTRO con detalle y reflejos ÁMBAR suaves/irisVERDE BOSQUE/pijamaNEGRO-ORO largo, inicialmente en SILLA SEPARADA, recoge varita y sale por puerta como target; sillaVACÍA después. Robin únicoMUÑECO TELA dormido/CASTAÑO/enteroCREMA-DRAGONES VERDES/mantaCREMA-ESTRELLASORO en propia cunaMADERA OSCURA-LUNA/ESTRELLAS entreDOS camasINDIVIDUALES SEPARADAS. Mantener SOLO personas ya presentes en cada cuadro, distancia normal y rostros/gestos originales. EspejoOVALADO ORO/reflejos coherentes/tocador-estucheVERDE-pinceles-libros/puerta/chimenea/lagoAZUL-TURQUESA conservados. Piel natural/rizosCASTAÑOS en lugar de naranja, luz cálida LOCAL.",
+    "continuityDetails": "Neutral BLACK Pansy hair instead of red/magenta; BLUE night/local AMBER; original complete long pyjamas and separate spaces preserved."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T23:33:55.848149+00:00",
+  "actualPanelCount": 7
+}
