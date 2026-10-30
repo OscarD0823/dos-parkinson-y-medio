@@ -1,0 +1,18 @@
+{
+  "chapter": 5,
+  "page": 15,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-ba59426f-0eb3-44d9-88a1-8ae6f6cdab6b.png",
+  "versionedImage": "paginas/c05-p015-color-v2.webp",
+  "originalPreserved": "paginas/c05-p015.webp",
+  "originalSha256": "a9d4a929bd606712dec342b67a141fe6b24d7e0b40baa73d6a18ff195c7d805e",
+  "promptFile": "c05-p015-color-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página15 capítulo5 del cómic. Mantener EXACTAMENTE las OCHO viñetas, orden, marcos, posiciones de personajes y todas las palabras/globos/cartelas. Solo corrección de paleta/contraste y continuidad natural del dibujo. La SEGUNDA imagen es la página14 ya corregida, mismas Hermione y Daphne con identidad/iris/uniformes. La TERCERA es el dibujo inicial del cómic: acabado pictórico de tinta suave y proporciones humanas expresivas ya establecidas. No copiar escenas o letras de referencias.\n\nEsta escena es la llegada de Hermione y Daphne, de pie y con uniformes completos, a la sala común de Slytherin bajo el lago. Conservar ambiente subacuático AZUL-VERDOSO, ventanas acuáticas, peces, sofás VERDE OSCURO, madera CASTAÑA, piedra GRIS VERDOSA, chimenea, serpientes ornamentales y puertas. Es importante CONSERVAR estos colores fríos del lugar. Reducir solamente el naranja global sobre cabello/piel y el contraste duro; mantener ÁMBAR LOCAL en lámparas/chimenea, luz azul-verde de ventanas y sombras legibles. No convertir toda la escena en gris ni en naranja.\n\nHermione: rizos CASTAÑOS voluminosos, pecas, ojos CAFÉS, uniforme Gryffindor BURDEOS-ORO, túnica NEGRA/suéter GRIS/camisa BLANCA/falda oscura/mochila. Daphne: largo cabello RUBIO ondulado, ojos AZULES constantes, uniforme Slytherin VERDE-PLATA, túnica NEGRA/suéter GRIS/camisa BLANCA/falda oscura/mochila. Conservar rostros, anatomía y alturas relativas existentes de adolescentes mayores; no aumentar cabezas/ojos ni encoger cuerpos. Todas las poses y manos siguen como en la imagen1.\n\nEncabezado pequeño arriba izquierda «Capítulo 5 · 15». Mantener EXACTAMENTE textos y atribución originales: Hermione «Es la sala común de Slytherin. ¿Qué hacemos aquí?»; Daphne «No van a salir veinte serpientes a morderte. Eres parte de nuestro círculo. Confía en nosotros.»; cartela «En los últimos días había descubierto una lealtad y una empatía que no esperaba. Aun así, años de enemistad no desaparecían de golpe.»; Hermione «Si me incomodo o hacen un comentario hiriente, me voy.»; Daphne «No esperaría menos. Entremos.»; Hermione «Wow.»; Daphne «Llevo siete años aquí y todavía me impresiona.»; Hermione «Perdona… ¿Qué hacemos aquí?»; Daphne «Ven. ¿Lista?»; Hermione «¿Lista para qué?». No añadir texto o firma. Conservar margen limpio para crédito automático.\n",
+  "review": "Exact panel count, words and speaker attribution compared with original; identity, school houses, clothing, props, poses and relative silhouettes checked. Brown hair/natural skin and gentler contrast restored, with local amber sources and underwater blue-green preserved as appropriate. Original transcript identical. Broader 132-page audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 8
+}

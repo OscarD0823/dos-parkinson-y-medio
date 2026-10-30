@@ -1,0 +1,21 @@
+{
+  "chapter": 5,
+  "page": 14,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast plus canonical Daphne BLUE iris restoration. No new page count. Broader audit remains open.",
+  "master": "exec-dfb06734-a3fb-4978-9cdd-cbe7b94a858e.png",
+  "versionedImage": "paginas/c05-p014-color-v2.webp",
+  "originalPreserved": "paginas/c05-p014.webp",
+  "originalSha256": "ec50dadbb441d6ad31c2bf3f041f3f4c859bf710be978228b9bf7c39efccd47a",
+  "promptFile": "c05-p014-color-iris-v2-prompt.txt",
+  "prompt": "EDITAR la PRIMERA imagen: página 14 capítulo 5 del cómic español. Mantener EXACTAMENTE las SEIS viñetas, encuadres, historia, posiciones, alturas relativas, expresiones y todos los textos/globos/cartelas originales. Corrección de color y un detalle canónico de iris, sin añadir escenas.\n\nLa SEGUNDA imagen, página 10 ya corregida, aporta la paleta natural del pasillo y la identidad de Daphne, la chica rubia de Slytherin. La TERCERA imagen aporta el dibujo inicial del cómic: tinta limpia/pintura suave, piel natural y piedra gris. Aplicar esa continuidad sin copiar escenas o letras de referencias. Conservar las proporciones de adolescentes mayores existentes, sin agrandar ojos o cabeza ni reducir el cuerpo. La escena sigue siendo una conversación cotidiana de pie, con uniformes completos y mochilas.\n\nNeutralizar la dominante NARANJA y el contraste duro global. Hermione: rizos CASTAÑOS, pecas, iris CAFÉS, uniforme GRYFFINDOR BURDEOS-ORO, túnica NEGRA/suéter GRIS/camisa BLANCA/falda oscura. Daphne: cabello RUBIO largo ondulado, iris AZULES en TODAS las viñetas (restaurar los que en el original se volvieron cafés), uniforme SLYTHERIN VERDE-PLATA, túnica NEGRA/suéter GRIS/camisa BLANCA/falda oscura. Mantener sus rostros y peinados aprobados.\n\nPiedra GRIS NEUTRA, madera CASTAÑA, luz diurna azul-blanca de ventanas. Lámparas ÁMBAR y el resplandor DORADO de los libros flotantes permanecen cálidos SOLO localmente. Preservar el número y orden de los libros, su levitación mágica, la varita y trazos de luz de Daphne, mochilas, corredores y objetos. Marcos negros limpios y márgenes crema claro.\n\nEncabezado pequeño arriba izquierda EXACTO «Capítulo 5 · 14». Conservar palabra por palabra y sus hablantes: Daphne «¡Te busqué por todas partes!»; Hermione «Hola, Daphne.»; Daphne «Déjame ayudarte.»; Hermione «¡Mis libros! ¿Qué…?»; Daphne «Los envié a un lugar seguro. Los recuperarás más tarde.»; Hermione «¿Por qué no ahora?»; Daphne «Porque ya nos esperan.»; Hermione «¿Quiénes?»; Daphne «Espera y verás.». No cambiar atribución ni añadir diálogo, títulos o firma. Margen limpio para crédito automático del lector.\n",
+  "review": "Exact panel count, words and speaker attribution compared with original; identity, school houses, clothing, props, poses and relative silhouettes checked. Brown hair/natural skin and gentler contrast restored, with local amber sources and underwater blue-green preserved as appropriate. Original transcript identical. Broader 132-page audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 6,
+  "additionalCorrections": {
+    "DaphneIris": "Consistent BLUE irises restored in all panels where original drifted brown."
+  }
+}

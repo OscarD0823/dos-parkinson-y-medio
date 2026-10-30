@@ -1,0 +1,18 @@
+{
+  "chapter": 5,
+  "page": 13,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-7622bb54-2738-4763-a8fa-5555ad01b6a3.png",
+  "versionedImage": "paginas/c05-p013-color-v2.webp",
+  "originalPreserved": "paginas/c05-p013.webp",
+  "originalSha256": "7b075f7160072389019eed9d0afc2acf6598d134c0fd7fdd316428aebd827bcf",
+  "promptFile": "c05-p013-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 13 del capítulo 5 de un cómic en español, conservando exactamente sus SIETE viñetas, encuadres, orden, personajes, poses de pie, palabras, globos y cartelas. Es una corrección de color y continuidad de estilo, sin nueva historia ni nuevas acciones.\n\nLa SEGUNDA imagen es la página 12 ya corregida: seguir su luz diurna natural, piedra gris neutra, vegetación verde, madera castaña, piel natural y negros con detalle. La TERCERA imagen es el estilo de dibujo de los capítulos iniciales: tinta limpia y acabado pictórico suave. Mantener el dibujo expresivo y la edad aparente existente; las alumnas son adolescentes mayores con siluetas humanas proporcionadas y la profesora una mujer adulta. Conservar sus alturas relativas, cuerpos y composición; no aumentar ojos ni cabezas.\n\nReducir la dominante global naranja y el contraste intenso de la primera imagen. El aula iluminada por ventanas conserva algunos reflejos cálidos suaves y localizados, sin bañar piel, pelo, ropa y piedra en naranja. Mantener las zonas claras legibles, las sombras suaves y el equilibrio de verdes, azules, gris, crema y madera. Marcos negros limpios y márgenes crema claro.\n\nIdentidades y ropa EXACTAS: Hermione tiene rizos CASTAÑOS voluminosos, pecas, ojos CAFÉS y conjunto deportivo NEGRO opaco de manga larga y pantalón largo, ribetes BURDEOS-ORO. Pansy tiene bob NEGRO, ojos VERDES y conjunto deportivo NEGRO opaco largo con ribetes VERDE-PLATA; orejas humanas redondeadas. Blair es una mujer ADULTA de cabello CASTAÑO en coleta baja, ojos AZULES y jersey de cuello alto/pantalón largo AZUL MARINO. Conservar las mochilas, libros verdes y azules, cojines, plantas, estanterías, puerta y objetos en su lugar.\n\nConservar encabezado pequeño superior izquierdo EXACTO «Capítulo 5 · 13». Mantener todos los textos EXACTAMENTE como en la primera imagen, con sus mismos hablantes: «¿Nosotras?» dos veces; «Hermione, Pansy, ¿pueden ayudarnos?»; «El taller continuó. Entre indicaciones y silencios, ambas fueron más conscientes de lo mucho que había cambiado su relación.»; «Gracias por participar. Recuerden escucharse y respetar los límites de su pareja.»; «Todavía les quedaba aprender a compartir mucho más que un proyecto.». La viñeta ambiental sigue siendo solo el aula vacía. Las dos últimas viñetas conservan recogida de libros y salida tranquila de pie. No añadir títulos ni letras adicionales. El crédito de autora lo aplica automáticamente el lector: conservar el margen limpio.\n",
+  "review": "Exact panel count, words and speaker attribution compared with original; identity, school houses, clothing, props, poses and relative silhouettes checked. Brown hair/natural skin and gentler contrast restored, with local amber sources and underwater blue-green preserved as appropriate. Original transcript identical. Broader 132-page audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7
+}
