@@ -1,0 +1,28 @@
+{
+  "chapter": 6,
+  "page": 20,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual revision: only recorded colour/iris/scale details; exact story/dialogue/wardrobe/objects preserved. No new page count.",
+  "master": "exec-b7743299-64a9-4ee6-a152-6f13b8fe8a63.png",
+  "versionedImage": "paginas/c06-p020-color-v2.webp",
+  "originalPreserved": "paginas/c06-p020.webp",
+  "originalSha256": "496bf4806f8d069ac534ffcc3efe00eea0d5135b6b01181c660dbb5ae4284293",
+  "promptFile": "c06-p020-detalles-local-v2-prompt.txt",
+  "prompt": "EDITAR PRIMERA imagen, página20 capítulo6 del cómic español. Solo correcciones LOCALES de continuidad, conservar paleta exterior actual, NUEVE viñetas, todos los encuadres/poses/jugadas/celebraciones/uniformes/objetos y CADA palabra/cartela/globo/hablante. No filtro global ni nueva historia.\n\n1. HERMIONE en SEXTA FILA ancha, corriendo delante de Daphne/Astoria: rizos CASTAÑOS naturales, no naranja saturado, suavizar solo halo amarillo junto a rizos. Conservar cara/pecas/iris CAFÉS/expresión y SUDADERA GRIS MANGA LARGA/parche GRANDE VERDE serpiente/camiseta NEGRA y pantalón oscuro largo. SEGUNDA referencia c06-p018 corregida aporta su pelo/sudadera, no copiar escenas.\n2. THEO NOTT en ÚLTIMA FILA IZQUIERDA, abrazo amistoso con Pansy y globo «¡Eso fue impresionante!»: pelo CASTAÑO natural, no rojo/cobrizo; misma cara/expresión/cuerpo/ropa deportiva verde-negra/protectores. Mantener a Pansy bob NEGRO/VERDES y su respuesta completa «¡Basta, Theo! Ve a abrazar a tu novia.». No cambiar a Ron o Ginny en otros lugares. La segunda referencia también aporta Theo CASTAÑO.\n3. ASTORIA, chica de cabello largo LISO CASTAÑO OSCURO a la DERECHA de la SEXTA FILA ancha: iris GRIS FRÍO/GRIS-AZUL, no cafés. Conservar cara/pelo/uniforme Slytherin VERDE-PLATA. Su misma identidad se conserva junto a Draco en último cuadro, con gesto/ojos cerrados como original. No cambiar a Daphne RUBIA/AZULES.\n4. CARTER McGRATH ÚNICAMENTE en CABINA de CUARTA FILA IZQUIERDA, pelo NEGRO/ojos AZULES/Hufflepuff AMARILLO-NEGRO/camisa BLANCA/jersey GRIS/megáfono DORADO: igualar relación cabeza-cuello-hombros-torso de alumno mayor a la TERCERA referencia c06-p017 corregida (cabina de su segunda fila izquierda), cabeza discretamente menor respecto a hombros/torso. Mantener sus facciones/iris/expresión/manos/megáfono/globo y el público de fondo. Las demás voces en cartelas siguen FUERA de cuadro; no añadir Carter a otras viñetas.\n\nCUARTA referencia c01-p001 solo estilo inicial tinta limpia/pintura suave, sin copiar ropa/actores/escenas/letras. Todo lo demás de imagen1 se conserva: Harry NEGRO despeinado/GAFAS REDONDAS/VERDES (ya correctos)/BURDEOS-ORO, Draco PLATINO/GRIS-AZUL/VERDE-NEGRO, Snitch DORADA con alas existentes, Bludger NEGRA, escobas, campo VERDE/cielo AZUL/banderas, cada jugador con equipo COMPLETO largo y protectores, público y abrazos de felicitación del original. Conservar gestos finales cotidianos y todos los rostros/proporciones atléticas existentes.\n\nHeader pequeño «Capítulo 6 · 20». TODOS los textos EXACTOS desde target, con mismos signos/acentos/colas: «No tan rápido, Potter.»; narración de atrapar Snitch sin remontar/Harry quiere terminar partido; Carter «¡Harry Potter atrapa la Snitch! ¡Ciento cincuenta puntos para Gryffindor… pero no bastan! ¡Slytherin gana!»; «¡Hermione, espéranos!»; diálogo final de Theo y Pansy completo. No cambiar ganador/resultado ni inventar otro marcador. Sin firma/título/marca pintada, crédito automático del lector.\n",
+  "review": "Reviewed generated image against target: panel count/order/words/balloon attribution/approved identities/iris/house colours/clothing/props retained except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "Hermione": "Natural BROWN curls/GRAY sweatshirt; face/freckles/BROWN eyes retained.",
+    "Theo": "CHESTNUT hair in final friendly hug.",
+    "Astoria": "Cool GRAY/GRAY-BLUE in spectator departure; last eyes-closed gesture retained.",
+    "Carter": "Cabin only head/shoulders consistent with approved17; no duplicate actors under off-screen narration.",
+    "Harry": "GREEN eyes/round glasses/BLACK hair retained; capture and Slytherin win unchanged."
+  },
+  "visibleProportionsCheck": "Visible silhouettes/head-shoulder balance/age cues checked against initial drawing and official film reference; no invented centimetres or absolute heights from cropped figures. This page only; entire 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T18:50:42.310972+00:00"
+}

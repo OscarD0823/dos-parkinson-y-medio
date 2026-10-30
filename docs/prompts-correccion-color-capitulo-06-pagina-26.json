@@ -1,0 +1,25 @@
+{
+  "chapter": 6,
+  "page": 26,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual revision: only recorded colour/iris/scale details; exact story/dialogue/wardrobe/objects preserved. No new page count.",
+  "master": "exec-db7c8fef-920f-480c-9e73-86f08a90b255.png",
+  "versionedImage": "paginas/c06-p026-color-v2.webp",
+  "originalPreserved": "paginas/c06-p026.webp",
+  "originalSha256": "918d52f4c3b70f68f58bb8e540bdd9df75558264e44452b983ef9e533c550ee1",
+  "promptFile": "c06-p026-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 26 del capítulo 6 del cómic español. Conservar las ONCE viñetas, orden y todos los textos EXACTOS, personajes, objetos, posiciones y atribuciones. Visita a cocina, despedida y conversación cotidiana desde asientos separados en el dormitorio bajo el lago.\n\nEquilibrar color y contraste con la SEGUNDA referencia c06-p006-color-v2, la TERCERA c04-p012 y el dibujo inicial de la CUARTA c01-p001. Suavizar dominante naranja y amarillos intensos globales: piedra GRIS, blancos CREMA, piel natural, madera CASTAÑA, capa y bob de Pansy NEGRO neutro con detalle. Conservar antorchas, fuego y lámparas ÁMBAR LOCAL y cobre de cocina. El dormitorio mantiene la noche AZUL-TURQUESA del lago, cortinas/colchas VERDES, madera OSCURA y luna/estrellas DORADAS en la cuna. Mantener la malteada ROSA y la cesta de patatas DORADAS con sus formas originales.\n\nHermione conserva rizos CASTAÑOS naturales, ojos CAFÉS, pecas y pijama BURDEOS largo cerrado con ribetes ORO. Pansy conserva bob NEGRO/VERDES, pijama NEGRO largo/cuello alto y capa opaca. Blaise conserva piel NEGRA, rizos NEGROS/CAFÉS, pijama NAVY muy oscuro largo y capa oscura. Wibpey continúa elfa ANCIANA PEQUEÑA, moño GRIS, arrugas, grandes orejas, ojos CAFÉS, túnica/delantal BLANCOS: conservar su pequeña silueta en la despedida y la escala de los cocineros del fondo. Los dos estudiantes de la entrada siguen Hufflepuff AMARILLO-NEGRO con su pergamino; no intercambiar personajes.\n\nMantener las DOS CAMAS INDIVIDUALES separadas, Hermione sentada en SU cama izquierda, Pansy en SILLA de madera a la derecha y UNA cuna VACÍA de madera oscura/luna-estrellas doradas/colchón CREMA entre camas. Conservar muebles a su escala y posturas propias de alumnos mayores; no añadir muñecos ni personas. Mantener las manos, comida y bolsa existentes. Encabezado pequeño arriba izquierda «Capítulo 6 · 26». Todos los diálogos y signos idénticos al target, incluidos «Hola.», «¡Lo conseguiste!», «No tienes idea.», «¡Tienes que probar estas patatas!», «¿Pansy?» y «¿Mmm?». El crédito de autora se añade automáticamente en el lector.\n",
+  "review": "Reviewed generated image against target: panel count/order/words/balloon attribution/approved identities/iris/house colours/clothing/props retained except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Kitchen local amber/copper; underwater bedroom BLUE-TURQUOISE/green/neutral black; BROWN Hermione curls.",
+    "continuity": "Two separate beds, own chair, ONE EMPTY moon-star cot; Wibpey elderly small/white preserved."
+  },
+  "visibleProportionsCheck": "Visible silhouettes/head-shoulder balance/age cues checked against initial drawing and official film reference; no invented centimetres or absolute heights from cropped figures. This page only; entire 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:17:59.152957+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": 6,
+  "page": 23,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual revision: only recorded colour/iris/scale details; exact story/dialogue/wardrobe/objects preserved. No new page count.",
+  "master": "exec-b0b29bea-165c-49e9-b00e-efd70bc5dfed.png",
+  "versionedImage": "paginas/c06-p023-color-v2.webp",
+  "originalPreserved": "paginas/c06-p023.webp",
+  "originalSha256": "7fadbfbca6125401c5bd63eb60865587863e47c47639f9c44c9e2f3862329188",
+  "promptFile": "c06-p023-detalles-local-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 23 del capítulo 6 del cómic español. Conservar sus OCHO viñetas, orden, escenas, ropa completa, rostros, expresiones y CADA palabra/globo/cartela/hablante. Es una conversación verbal en el campo, seguida por una transición AMBIENTAL independiente al pasillo nocturno vacío.\n\nEn las cinco viñetas diurnas superiores, Hermione conserva rizos CASTAÑOS naturales, ojos CAFÉS, pecas y sudadera GRIS con parche VERDE de serpiente. Igualar solo su cabello a la SEGUNDA referencia c06-p018-color-v2: bajar el naranja muy saturado y el halo amarillo junto al cabello manteniendo volumen, dibujo y reflejos suaves. Harry mantiene cabello NEGRO despeinado, gafas REDONDAS e iris VERDES en AMBAS apariciones, incluida la viñeta donde Ginny se aleja. Ginny mantiene pelo ROJO largo/AZULES y Ron pelo ROJO corto/pecas/AZULES. Los tres deportistas conservan equipo BURDEOS-ORO completo, mangas/pantalones largos y protectores. Todas las personas siguen ilesas y con gestos/posiciones del original.\n\nConservar el cielo AZUL y colores naturales del estadio. Las TRES viñetas inferiores continúan VACÍAS de personas: puerta de madera, piedra gris, ventanas AZUL NOCTURNO, antorchas ÁMBAR localizadas y luz mágica clara final. La TERCERA referencia c04-p012 orienta el equilibrio frío/cálido nocturno, sin copiar su habitación o personas. CUARTA referencia c01-p001 solo tinta y pintura suave iniciales. No convertir las ventanas nocturnas en un filtro naranja.\n\nEncabezado pequeño arriba izquierda «Capítulo 6 · 23». Conservar EXACTOS todos los signos, acentos y atribuciones del target: reproches verbales, respuesta de Ginny, «Ginny, yo…», «Y por cierto, Ronald… eres un idiota.», narraciones nocturnas y «Pansy: ¡Lumos!». Conservar cartelas crema y globos blancos legibles. El crédito de autora se aplica automáticamente en el lector.\n",
+  "review": "Reviewed generated image against target: panel count/order/words/balloon attribution/approved identities/iris/house colours/clothing/props retained except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "Hermione": "Natural BROWN curls/GRAY sweatshirt/freckles/BROWN eyes.",
+    "Harry": "GREEN eyes consistently in both appearances.",
+    "nightTransition": "Three empty environmental panels/cold BLUE windows/local AMBER retained."
+  },
+  "visibleProportionsCheck": "Visible silhouettes/head-shoulder balance/age cues checked against initial drawing and official film reference; no invented centimetres or absolute heights from cropped figures. This page only; entire 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:00:13.728937+00:00"
+}

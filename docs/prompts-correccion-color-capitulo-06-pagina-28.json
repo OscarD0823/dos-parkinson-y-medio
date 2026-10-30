@@ -1,0 +1,25 @@
+{
+  "chapter": 6,
+  "page": 28,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual revision: only recorded colour/iris/scale details; exact story/dialogue/wardrobe/objects preserved. No new page count.",
+  "master": "exec-b06d7bda-cbe7-4a7f-bb54-482f1486e042.png",
+  "versionedImage": "paginas/c06-p028-color-v2.webp",
+  "originalPreserved": "paginas/c06-p028.webp",
+  "originalSha256": "afe577cf1d31961e8b4c4f5301c4f8ef2eba5189a6b361bb7f4973e891e1b11c",
+  "promptFile": "c06-p028-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 28 y cierre del capítulo 6 del cómic español. Conservar NUEVE viñetas, orden, gestos cotidianos, risas, patata lanzada suavemente, cartela de pensamiento y CADA palabra/globo/hablante. Hermione sigue en su propia cama y Pansy en silla separada; no cambiar la historia o su cierre.\n\nIgualar la pintura suave, negros detallados y contraste moderado a la SEGUNDA referencia c06-p006-color-v2, noche fría con ámbar LOCAL de la TERCERA c04-p012 y dibujo inicial de la CUARTA c01-p001. Mantener rizos CASTAÑOS naturales de Hermione y bob NEGRO neutro de Pansy, pieles naturales y piedra GRIS. Rebajar dominante naranja, brillos amarillos intensos y contraste global; conservar la ventana AZUL-TURQUESA del lago, peces/algas, cortinas/colchas VERDES, madera CASTAÑA OSCURA y luces ÁMBAR solo en lámparas/velas.\n\nHermione: CAFÉS, pecas, rizos y rostro propios, pijama BURDEOS cerrado/manga larga/ribetes ORO, manta VERDE. Pansy: VERDES, bob NEGRO, rostro propio, pijama NEGRO de cuello alto/manga larga y capa opaca. Mantener siluetas de alumnos mayores y facciones aprobadas sin agrandar cabezas u ojos. Conservar manos y todas las expresiones originales. Malteada ROSA, cesta y patatas DORADAS, libro, silla y detalles de la habitación conservados.\n\nDOS CAMAS INDIVIDUALES separadas: Hermione en izquierda y Pansy en SILLA a la derecha. Segunda cama y cuna VACÍAS. Cuna única madera OSCURA/luna-estrellas DORADAS/colchón CREMA. Mantener las escalas de los muebles y las distancias. Encabezado discreto arriba izquierda «Capítulo 6 · 28». Textos EXACTOS del target, incluyendo relato del abuelo, broma del apellido Parkinson, cartela del muñeco, pensamiento «Ojalá tenga esos ojos verdes.» y «Fin del capítulo 6» UNA sola vez. El lector añade el crédito de autora automáticamente.\n",
+  "review": "Reviewed generated image against target: panel count/order/words/balloon attribution/approved identities/iris/house colours/clothing/props retained except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN curls/neutral BLACK/cool BLUE-TURQUOISE room/local AMBER, softened contrast.",
+    "continuity": "Separate seats/two single beds/ONE EMPTY cot, original thought and unique chapter-end caption."
+  },
+  "visibleProportionsCheck": "Visible silhouettes/head-shoulder balance/age cues checked against initial drawing and official film reference; no invented centimetres or absolute heights from cropped figures. This page only; entire 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:23:22.917626+00:00"
+}

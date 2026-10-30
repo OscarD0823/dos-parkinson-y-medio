@@ -1,0 +1,25 @@
+{
+  "chapter": 6,
+  "page": 27,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual revision: only recorded colour/iris/scale details; exact story/dialogue/wardrobe/objects preserved. No new page count.",
+  "master": "exec-2b2eda88-db35-46c4-b522-40d82d9e13a2.png",
+  "versionedImage": "paginas/c06-p027-color-v2.webp",
+  "originalPreserved": "paginas/c06-p027.webp",
+  "originalSha256": "d6782989a10b6df9e67f427f405ee52a73af1b5c74ac1b6cada54a23877bcdd1",
+  "promptFile": "c06-p027-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 27 del capítulo 6 del cómic español. Mantener OCHO viñetas, orden, conversación, poses, objetos y CADA palabra/globo/hablante. Es una charla cotidiana sobre el nombre del MUÑECO escolar y la historia de Robin Hood, con Hermione en su cama y Pansy en silla separada.\n\nRecuperar pintura suave y contraste moderado de la SEGUNDA referencia c06-p006-color-v2, equilibrio nocturno de la TERCERA c04-p012 y tinta inicial de la CUARTA c01-p001. Rizos de Hermione CASTAÑOS naturales, no naranja intenso; bob de Pansy NEGRO neutro con detalle. Pieles naturales, piedra GRIS, madera CASTAÑA OSCURA, colchas/cortinas VERDES. Mantener ventanas AZUL-TURQUESA del lago con peces y algas; lámparas y velas ÁMBAR solo como iluminación localizada. Rebajar brillos amarillos globales y contraste agresivo manteniendo la noche y las formas existentes.\n\nHermione conserva CAFÉS/pecas/rizos/cara propia y pijama BURDEOS CERRADO de manga larga/ribetes ORO, con manta VERDE sobre piernas. Pansy conserva VERDES/bob NEGRO/cara propia, pijama NEGRO CERRADO de manga larga/cuello alto y capa NEGRA opaca. Conservar siluetas de alumnos mayores coherentes con referencias, sin alterar facciones o agrandar cabezas/ojos. La malteada sigue ROSA, patatas DORADAS, libro y cesta permanecen en sus sitios.\n\nDOS CAMAS INDIVIDUALES SEPARADAS; Hermione izquierda sobre su propia cama, Pansy derecha en SILLA de madera; segunda cama y cuna VACÍAS. Cuna única madera OSCURA/luna-estrellas DORADAS/colchón CREMA. Mantener distancias y escala de muebles, manos y comida. Encabezado pequeño arriba izquierda «Capítulo 6 · 27». Conservar todos los textos EXACTOS del target, incluidos Theo/Luna/gemelos, relato del arquero y «¿Robin Hood?». El lector añade el crédito de autora automáticamente.\n",
+  "review": "Reviewed generated image against target: panel count/order/words/balloon attribution/approved identities/iris/house colours/clothing/props retained except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN curls/neutral BLACK/cool BLUE-TURQUOISE room/local AMBER, softened contrast.",
+    "continuity": "Separate seats/two single beds/ONE EMPTY cot, full closed pyjamas and original Robin Hood discussion."
+  },
+  "visibleProportionsCheck": "Visible silhouettes/head-shoulder balance/age cues checked against initial drawing and official film reference; no invented centimetres or absolute heights from cropped figures. This page only; entire 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T19:20:26.448406+00:00"
+}
