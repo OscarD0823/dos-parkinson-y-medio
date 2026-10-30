@@ -1,0 +1,26 @@
+{
+  "chapter": 6,
+  "page": 8,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast and consistent Daphne BLUE irises. No added page count; overall audit incomplete.",
+  "master": "exec-6d08b8ab-79d3-449a-982e-093e032fc6ae.png",
+  "versionedImage": "paginas/c06-p008-color-v2.webp",
+  "originalPreserved": "paginas/c06-p008.webp",
+  "originalSha256": "f5e4e259d1cbb8fdc416f465315f8eda655f00e943a650cbf6188ddd07485b2d",
+  "promptFile": "c06-p008-color-iris-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página8 capítulo6 del cómic español. Conservar EXACTAMENTE SIETE viñetas, orden/encuadres, todas las palabras/globos y hablantes, poses/gestos/identidades/objetos. Solo color/contraste y continuidad canónica de iris, sin nueva historia. SEGUNDA imagen c06-p007 corregida: mismo dormitorio, mismos cuatro personajes y vestido. TERCERA c01-p001: tinta limpia/pintura suave inicial, piel y cabello naturales. No copiar escenas o textos de referencias.\n\nMantener proporciones de adolescentes mayores, cuerpos y alturas relativas de encuadres existentes, sin agrandar ojos/cabezas ni acortar cuerpos. Todos conservan sus uniformes COMPLETOS: Hermione rizos CASTAÑOS/pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO; Pansy bob NEGRO/ojos VERDES/orejas HUMANAS/Slytherin VERDE-PLATA; Daphne largo RUBIO ondulado/ojos AZULES constantes (restaurar iris que se vieran demasiado verdes)/Slytherin VERDE-PLATA; Blaise piel NEGRA/rizos NEGROS cortos/ojos CAFÉS/Slytherin VERDE-PLATA. Túnicas NEGRAS con detalle, suéteres GRISES, camisas BLANCAS.\n\nNeutralizar dominante global NARANJA y contraste duro sobre rostros/pelo/ropa. Conservar luz acuática AZUL-TURQUESA, peces/algas de ventanas, mantas/cortinas VERDES, madera CASTAÑA OSCURA, piedra gris-verdosa, piel natural y cabellos naturales. Lámparas ÁMBAR solo localmente. El vestido sigue como OBJETO AZUL MARINO largo/bordados PLATEADOS de hojas-estrellas/mangas cortas abullonadas SOBRE LA CAMA DERECHA, nadie se cambia ni lo lleva puesto. Conservar caja NEGRA/lazo DORADO, cojín VERDE/serpiente PLATEADA que Pansy lanza en broma hacia Blaise en la primera viñeta, trazos de movimiento, manos y expresiones sonrientes. Mantener DOS camas individuales separadas y UNA cuna VACÍA de madera oscura/LUNA-ESTRELLAS DORADAS/colchón CREMA. Sin nuevos personajes o muñecos.\n\nHeader pequeño izquierda «Capítulo 6 · 08». Copiar TODOS los textos EXACTOS del target sin abreviar y con los mismos hablantes: Pansy «¡Yo también participo en este proyecto! El muñeco será responsabilidad de las dos.»; Daphne «Lo sé, Pans. Pero Hermione es quien está soportando los efectos de la poción. Tú intentaste evitar tomarla, ¿recuerdas?»; Hermione «Creo que hace un excelente trabajo. Se ha esforzado en acompañarme, se preocupa por mí y siempre está pendiente de lo que necesito.»; Hermione «No me molestaría que se lo quedara ella. Creo que le quedaría muy bien.»; Daphne «Este fue diseñado para ti. El de Pansy llegará la semana que viene, junto con los trajes de gala.»; Pansy «¡No me dijiste que también me enviarían uno!»; Daphne «Porque no preguntaste. Mi madre jamás los dejaría a ti y a Blaise sin una pieza de su colección.»; Daphne «Mucho menos para un evento tan importante.»; Hermione «¿Cuál evento?». Mantener signos/acento/orden, sin nuevas palabras/firma o crédito pintado; margen limpio para marca del lector.\n",
+  "review": "Exact words/speakers and panel order checked; hair/iris/school houses/uniforms/props kept. Natural brown hair/skin and softer contrast restored; underwater blue-turquoise and local amber preserved in bedroom pages. Original transcript identical. No added illustrated pages.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "additionalCorrections": {
+    "DaphneIris": "BLUE irises consistent with established identity; green cast in original reduced.",
+    "giftDress": "NAVY/SILVER dress remains an object shown above/on right bed, not worn."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible head/torso/shoulder relations and relative silhouettes compared with initial drawn style; page6 actual geometry correction detailed separately. No numerical height inferred from crops/perspective. Broader audit incomplete."
+  }
+}

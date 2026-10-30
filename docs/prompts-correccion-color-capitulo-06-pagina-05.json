@@ -1,0 +1,22 @@
+{
+  "chapter": 6,
+  "page": 5,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-273850ea-bc5a-48b8-93b9-7196bdf69baf.png",
+  "versionedImage": "paginas/c06-p005-color-v2.webp",
+  "originalPreserved": "paginas/c06-p005.webp",
+  "originalSha256": "5a38b2d00603bee3708de6d866b06c5644d39329bf41fc862396c249c66d4db1",
+  "promptFile": "c06-p005-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página5 capítulo6 del cómic español. Conservar exactamente SIETE viñetas físicas, encuadres/orden, todos los textos/globos/cartelas, rostros/iris, gestos, uniformes y objetos. No añadir escenas ni acciones. La conversación sigue siendo la misma broma escolar acerca de reflejos de Quidditch y una salida tranquila al pasillo.\n\nSEGUNDA imagen c06-p004 ya corregida, mismas Hermione/Pansy y mismo escenario, aporta balance natural. TERCERA c01-p001, aporta dibujo inicial de tinta limpia y pintura suave. Mantener proporciones expresivas de adolescentes mayores y las siluetas/alturas relativas ya establecidas, sin aumentar ojos/cabezas ni acortar cuerpos. Conservar perspectiva de las dos figuras anónimas de fondo y posiciones, sin convertirlas en nuevos protagonistas.\n\nNeutralizar dominante NARANJA global y contraste fuerte: piedra GRIS NEUTRA/madera CASTAÑA/cabello CASTAÑO de Hermione y NEGRO de Pansy/piel natural/túnicas NEGRO con detalle/suéter GRIS/camisas BLANCAS. Ventanas azul-blancas y lámparas ÁMBAR solo localmente; grifos LATÓN y mochilas CASTAÑAS/BURDEOS como original. Mantener colores de casa y sombras legibles sin desaturar todo.\n\nHermione: rizos CASTAÑOS voluminosos, pecas, ojos CAFÉS, uniforme Gryffindor BURDEOS-ORO. Pansy: bob NEGRO, ojos VERDES, orejas HUMANAS redondeadas, uniforme Slytherin VERDE-PLATA. Conservar rostros, expresiones, posturas de pie con uniformes escolares COMPLETOS, manos, mochilas/libros/puerta/lavabos. Las dos figuras pequeñas de fondo conservan sus identidades/posición y ropa de escuela.\n\nEncabezado pequeño arriba izquierda «Capítulo 6 · 05». Mantener EXACTAMENTE palabras/hablantes desde imagen1: Pansy «Retira lo que acabas de decir.»; Hermione «¿O si no qué?»; Pansy «Te demostraré lo veloz que puedo ser.»; Hermione «Pruébalo.»; pensamiento de Pansy «¿Y ahora cómo lo demuestro?»; cartela «Por un instante, ninguna supo qué decir.» compartida entre los dos primeros planos ya existentes; pensamiento de Hermione «¿Qué había sido eso?». Última salida silenciosa como original. Sin nuevos títulos, firma o crédito pintado, margen limpio para marca automática del lector.\n",
+  "review": "Exact words/speakers and panel order checked; hair/iris/school houses/uniforms/props kept. Natural brown hair/skin and softer contrast restored; underwater blue-turquoise and local amber preserved in bedroom pages. Original transcript identical. No added illustrated pages.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible head/torso/shoulder relations and relative silhouettes compared with initial drawn style; page6 actual geometry correction detailed separately. No numerical height inferred from crops/perspective. Broader audit incomplete."
+  }
+}

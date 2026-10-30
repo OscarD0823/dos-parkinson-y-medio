@@ -1,0 +1,26 @@
+{
+  "chapter": 6,
+  "page": 7,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast and consistent Daphne BLUE irises. No added page count; overall audit incomplete.",
+  "master": "exec-4cb5537b-bec6-4464-a9e5-4ad0c6a33a1f.png",
+  "versionedImage": "paginas/c06-p007-color-v2.webp",
+  "originalPreserved": "paginas/c06-p007.webp",
+  "originalSha256": "940641c9277c1700a5be355a50e904f3a49b27ab60fc13712c4bbdfd614b1389",
+  "promptFile": "c06-p007-color-iris-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página7 capítulo6 del cómic español, conservando exactamente SIETE viñetas, encuadres/orden, poses/gestos, todos los textos/globos, identidades/vestuario/objetos. Corrección de color/contraste y continuidad de iris, sin nueva historia. SEGUNDA imagen c06-p006 corregida: mismo dormitorio y personajes/escala. TERCERA imagen c01-p001: dibujo inicial tinta limpia/pintura suave, piel y castaños naturales. No copiar escenas o palabras de referencias.\n\nMantener dormitorio subacuático AZUL-TURQUESA, verdes de mantas/cortinas/lámparas, madera oscura y piedra gris-verdosa. Reducir naranja global en piel/pelo y contraste de halos amarillos. Lámparas mantienen ÁMBAR solo local, ventanas frías, piel natural. Ropas NEGRAS con detalle/suéter GRIS/camisa BLANCA, cabellos castaños naturales, marco negro/márgenes crema claro. Conservar profundidad y riqueza de color del vestido.\n\nHERMIONE rizos CASTAÑOS/pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO. PANSY bob NEGRO/ojos VERDES/orejas HUMANAS/Slytherin VERDE-PLATA. DAPHNE cabello RUBIO largo ondulado/ojos AZULES EN TODOS los cuadros (restaurar los iris demasiado verdes)/Slytherin VERDE-PLATA. BLAISE piel NEGRA/rizos NEGROS cortos/ojos CAFÉS/Slytherin VERDE-PLATA. Mantener rostros/peinados/cuerpos y alturas relativas de adolescentes mayores, uniformes completos y expresiones originales; no agrandar ojos/cabezas ni encoger cuerpos.\n\nObjetos: DOS camas INDIVIDUALES separadas/mantas VERDES y UNA cuna VACÍA de madera oscura/LUNA-ESTRELLAS DORADAS/colchón CREMA. El vestido de regalo sigue siendo un OBJETO AZUL MARINO largo con bordado PLATEADO de hojas/estrellas y mangas cortas abullonadas: se muestra por magia SOBRE LA CAMA DERECHA y después extendido sobre ella, nadie lo lleva puesto. Conservar caja de regalo NEGRA/lazo DORADO, varita de Daphne, brillo mágico AZUL, mochilas, muebles y ropa que todos ya llevan. Ningún nuevo muñeco o personaje.\n\nHeader pequeño superior izquierdo «Capítulo 6 · 07». Copiar TODOS los textos EXACTOS con mismos hablantes del target: Hermione «Creo que me gustará estar aquí.»; Daphne «¡No puedo creerlo! Mamá nos ha enviado regalos para animarnos con la simulación.»; Daphne «Disculpa, esta es de Hermione.»; Hermione «¿Para mí?»; Daphne «De la nueva colección de mi familia. ¡En cuanto lo vi, supe que te quedaría perfecto!»; Pansy «¡Es hermoso! Tu madre es asombrosa. ¿Cuándo llegó?»; Daphne «Esta mañana, en tren. No iban a enviarlo por lechuza.»; Pansy «¿Hay más? Dime que Lissandra envió uno para mí.»; Daphne «En realidad… no.»; Blaise «Este envío era para quienes tomaron la poción.». Mantener acentos/puntuación como imagen1, sin nuevos títulos/firma/crédito pintado.\n",
+  "review": "Exact words/speakers and panel order checked; hair/iris/school houses/uniforms/props kept. Natural brown hair/skin and softer contrast restored; underwater blue-turquoise and local amber preserved in bedroom pages. Original transcript identical. No added illustrated pages.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "additionalCorrections": {
+    "DaphneIris": "BLUE irises consistent with established identity; green cast in original reduced.",
+    "giftDress": "NAVY/SILVER dress remains an object shown above/on right bed, not worn."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible head/torso/shoulder relations and relative silhouettes compared with initial drawn style; page6 actual geometry correction detailed separately. No numerical height inferred from crops/perspective. Broader audit incomplete."
+  }
+}

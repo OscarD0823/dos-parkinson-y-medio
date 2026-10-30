@@ -1,0 +1,28 @@
+{
+  "chapter": 6,
+  "page": 6,
+  "tool": "ImageGen integrada",
+  "scope": "Color and visible human proportions in first standing Pansy and rear-view figures; room/cradle/beds/words preserved. Whole132-page audit remains incomplete.",
+  "master": "exec-0b841c3a-2393-4bda-8baf-59ab08701cc3.png",
+  "versionedImage": "paginas/c06-p006-color-v2.webp",
+  "originalPreserved": "paginas/c06-p006.webp",
+  "originalSha256": "1afaf4b242a305b5f99722ec7613b98d0430f843839ff66c70b4d28788879da8",
+  "promptFile": "c06-p006-color-proporciones-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página6 capítulo6 del cómic español. Conservar las SEIS viñetas, orden, historia, todas las palabras/globos/cartelas, identidades, iris, peinados, uniformes y objetos. Corrección de COLOR y de PROPORCIONES HUMANAS visibles, especialmente Pansy de pie en la primera viñeta. No añadir nuevas escenas o acciones.\n\nSEGUNDA imagen c01-p001: dibujo inicial de tinta limpia y pintura suave. TERCERA imagen: fotograma oficial de los alumnos mayores en la sexta película, referencia SOLO de relación cabeza/cuello/hombros/torso/extremidades y edad aparente de alumnos de cursos superiores. Mantener el medio dibujado y los rostros/iris/uniformes aprobados del cómic; no copiar el fondo, actores fotográficos o ropa de invierno del fotograma.\n\nPROPORCIONES: Pansy de pie a la derecha de la PRIMERA viñeta tiene la cabeza demasiado grande respecto al cuerpo. Ajustarla a una silueta de alumna mayor, con cabeza discretamente menor respecto a hombros y torso, cuello/hombros naturales y extremidades de longitud coherente; conservar facciones reconocibles, su misma pose erguida y las DOS mochilas. Hacer un ajuste compatible de silueta en las dos figuras vistas de espalda en la QUINTA viñeta, manteniendo las alturas relativas próximas de Hermione y Pansy sobre el mismo suelo. Hermione sigue sentada en cama izquierda en la primera viñeta, no usar esa pose sentada para igualar alturas. Conservar identidades/expresiones; nada de gigantes, cuerpos infantiles, perspectiva forzada o muebles encogidos. Ajustar cuerpos dentro de los encuadres existentes, sin agrandar cabezas/ojos. Conservar expresividad de tinta inicial.\n\nCOLOR: neutralizar el naranja global y el contraste intenso en piel/pelo/ropa. Hermione rizos CASTAÑOS/pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO; Pansy bob NEGRO/ojos VERDES/orejas HUMANAS/Slytherin VERDE-PLATA. Uniformes completos iguales: túnicas NEGRAS/suéter GRIS/camisa BLANCA/falda oscura. Piedra GRIS VERDOSA, agua de ventana AZUL-TURQUESA con peces y algas, mantas y cojines VERDES, madera CASTAÑA OSCURA, piel natural. Lámparas cálidas ÁMBAR solo localmente. No eliminar la luz azul-verde propia del dormitorio bajo el lago.\n\nOBJETOS exactos: DOS camas INDIVIDUALES separadas, Hermione izquierda/Pansy derecha, mantas verdes. UNA cuna VACÍA entre ellas, madera oscura con LUNA y ESTRELLAS DORADAS/perillas doradas/colchón CREMA. Conservar tamaño/ubicación de la cuna y camas; el futuro muñeco aún no llegó. Dos mochilas marrones, puertas, lámparas verdes, mesillas, alfombra serpiente y ventana acuática como original. Sin personas u objetos adicionales.\n\nHeader pequeño arriba izquierda «Capítulo 6 · 06». Textos EXACTOS y mismos hablantes/ubicaciones de imagen1: «Más tarde, en su nueva habitación.»; «Los equipos tendrían su propio espacio para que el futuro muñeco pudiera descansar sin molestar a los demás alumnos.»; Pansy «¡Así que esto escondían debajo de la sala común! Es mucho mejor que la habitación de arriba.»; Hermione «Es asombroso.»; Hermione «Nunca imaginé que podría ver esto en Hogwarts.»; Pansy «Es que nunca habías estado en nuestra zona de dormitorios… Quiero decir, aquí, en Slytherin. Ya me entiendes.». Mantener puntuación y acentos del target. Marcos negros limpios/márgenes crema claro, sin firma o crédito pintado: el lector aplica la marca automáticamente.\n",
+  "review": "Exact words/speakers and panel order checked; hair/iris/school houses/uniforms/props kept. Natural brown hair/skin and softer contrast restored; underwater blue-turquoise and local amber preserved in bedroom pages. Original transcript identical. No added illustrated pages.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 6,
+  "additionalCorrections": {
+    "PansyProportions": "First-panel standing figure has head scaled down relative to shoulders/torso/limbs, preserving approved face/green irises/black bob/uniform/two bags. Rear-view Hermione/Pansy retain coherent older-student silhouettes and close relative heights. Furniture not shrunk.",
+    "officialReference": "Local trio-hogsmeade-f6.jpg from official Harry Potter website, anatomy/age silhouette only, not wardrobe or photo-real faces.",
+    "objects": "One EMPTY crescent-and-stars wooden cradle and two separate green beds retained."
+  },
+  "pageProportionCheckComplete": true,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible head/torso/shoulder relations and relative silhouettes compared with initial drawn style; page6 actual geometry correction detailed separately. No numerical height inferred from crops/perspective. Broader audit incomplete."
+  }
+}
