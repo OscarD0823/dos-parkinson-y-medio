@@ -1,0 +1,27 @@
+{
+  "chapter": 8,
+  "page": 10,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-2e45ffde-cb05-4328-aec0-14f30f7084a1.png",
+  "versionedImage": "paginas/c08-p010-color-v2.webp",
+  "originalPreserved": "paginas/c08-p010.webp",
+  "originalSha256": "192bfd4494b97689d70a7b61b60e374c12c02eba1f05ed5cd8e34e532015a7d1",
+  "promptFile": "c08-p010-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página10 capítulo8 del cómic español. Conservar todas las viñetas REALES, disposición/encuadres/marcos/gestos/escenas/historia, rostros reconocibles, cada palabra/globo/cartela/letrero y atribución de hablante EXACTOS. Es la continuación cotidiana del proyecto escolar de MUÑECOS ENCANTADOS de TELA, vestidos/cubiertos/apoyados y únicos.\n\nSEGUNDA imagen c01-p001 orienta dibujo de los capítulos iniciales, TERCERA c04-p001 orienta equilibrio de luz/color y encabezado inicial, CUARTA c08-p005 corregida fija solo identidad/ropa e iris GRIS-AZUL de Astoria; no copiar escenas de esas referencias. Recuperar tinta/acabado pictórico inicial, colores naturales y contraste moderado. Bajar dominante naranja/amarilla global y resplandores intensos sobre piel/cabello/ropa. Rizos de Hermione CASTAÑOS naturales; Ginny conserva ROJO si aparece. Negros neutros con detalle, grises/cremas/blancos naturales, madera CASTAÑA/piedraGRIS, verdes y azules originales; luzÁMBAR LOCAL en lámparas/chimenea y reflejos metálicos. Naranja de Halloween localizado en HOJAS/CALABAZAS, no filtro sobre toda la página.\n\nMantener proporciones de estudiantes mayores del dibujo inicial: equilibrio cabeza/hombros/torso/miembros y alturas relativas coherentes al compartir plano; identidades aprobadas y escala de muñecos respecto a brazos/portadores conservadas. No inferir centímetros ni cambiar anatomía por primeros planos. Mover único encabezado pequeño negro «Capítulo 8 · 10» del centro a ARRIBA IZQUIERDA, margen CREMA discreto, retirando solo adornos rojos exteriores. Crédito automático aplicado por el lector.\n\nDOCE viñetas reales, disposición1+2+1+2+3+3. Mantener TODAS las palabras/globos/hablantes y breve saludo amistoso original tal cual. Ginny ROJO LARGO/AZULES/NAVY-BURDEOS, Hermione CASTAÑO/CAFÉS/BURDEOS-CREMA, Pansy NEGRO/VERDES/NEGRO-VERDE. James MUÑECO TELA dormido/ropaCREMA/mantaCOBALTO/mechónNEGRO REVUELTO, sostenido y apoyado por Ginny incluso en saludo, sin duplicados. Robin único dormido/CREMA/mechónCASTAÑO/mantaQUIDDITCH en su propio cochecito ARENA flotante/sin ruedas, portavasosLATÓN exterior y maletaVERDE OSCURO/R.P.PLATEADO. Conservar siluetas de estudiantes mayores, equilibrio cabeza-hombros del dibujo inicial y alturas relativas/rostros originales; no cambiar escala entre encuadres. Calle natural con piedraGRIS/maderaCASTAÑA/azul-gris exterior y ÁMBAR LOCAL, naranja solo HOJAS/CALABAZAS. Todo diálogo exactamente del target, incluido «No las retengo más. Tenemos que ocuparnos de un cambio de pañal.» como frase verbal, despedidas y respuestas finales, sin añadir escenas.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "DOCE viñetas reales, disposición1+2+1+2+3+3. Mantener TODAS las palabras/globos/hablantes y breve saludo amistoso original tal cual. Ginny ROJO LARGO/AZULES/NAVY-BURDEOS, Hermione CASTAÑO/CAFÉS/BURDEOS-CREMA, Pansy NEGRO/VERDES/NEGRO-VERDE. James MUÑECO TELA dormido/ropaCREMA/mantaCOBALTO/mechónNEGRO REVUELTO, sostenido y apoyado por Ginny incluso en saludo, sin duplicados. Robin único dormido/CREMA/mechónCASTAÑO/mantaQUIDDITCH en su propio cochecito ARENA flotante/sin ruedas, portavasosLATÓN exterior y maletaVERDE OSCURO/R.P.PLATEADO. Conservar siluetas de estudiantes mayores, equilibrio cabeza-hombros del dibujo inicial y alturas relativas/rostros originales; no cambiar escala entre encuadres. Calle natural con piedraGRIS/maderaCASTAÑA/azul-gris exterior y ÁMBAR LOCAL, naranja solo HOJAS/CALABAZAS. Todo diálogo exactamente del target, incluido «No las retengo más. Tenemos que ocuparnos de un cambio de pañal.» como frase verbal, despedidas y respuestas finales, sin añadir escenas."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T22:33:18.546090+00:00",
+  "actualPanelCount": 12
+}
