@@ -1,0 +1,25 @@
+{
+  "chapter": 6,
+  "page": 15,
+  "tool": "ImageGen integrada",
+  "scope": "LOCAL Hermione hair recoloring to natural BROWN and excessive adjacent yellow rim softened in three spectator panels. Outdoor daylight/field/sky/clothes and other people retained; no global color pass.",
+  "master": "exec-34e58364-d00f-4501-a14b-23242fd97177.png",
+  "versionedImage": "paginas/c06-p015-color-v2.webp",
+  "originalPreserved": "paginas/c06-p015.webp",
+  "originalSha256": "fc947edfd0ac4499913a2d4d9f9700d834f0f1d90c502b0f235b7c7e792b75da",
+  "promptFile": "c06-p015-cabello-local-v2-prompt.txt",
+  "prompt": "EDITAR PRIMERA imagen, página15 capítulo6 de cómic español. Edición LOCAL de color del cabello de HERMIONE en sus TRES apariciones de espectadora (cuarta viñeta central con Daphne/Luna y las dos viñetas inferiores). Su cabello está demasiado ROJO-NARANJA: restaurar rizos CASTAÑOS naturales voluminosos, con reflejos cálidos suaves y sin halos naranja intenso. Mantener cada rizo/silueta/facciones/pecas/iris CAFÉS y todas sus poses/expresiones. Reducir solo el exceso amarillo que ese halo proyecta sobre el borde de su sudadera GRIS. No un filtro global.\n\nSEGUNDA imagen c06-p012 corregida sirve SOLO para cabello CASTAÑO/identidad de Hermione y reconocer Luna/serpiente de peluche. TERCERA c01-p001 es estilo de dibujo inicial de tinta limpia/acabado pictórico suave. No copiar sus escenarios/textos ni cambiar la ropa actual. Conservar todo el resto de imagen1, incluidos SIETE viñetas físicas, encuadres/orden, rostros/iris/proporciones de alumnos mayores, todo el texto y las acciones de Quidditch.\n\nLa luz exterior, cielo AZUL con nubes BLANCAS, césped VERDE, piedra de estadio y follaje otoñal siguen como original. Pansy bob NEGRO/iris VERDES/orejas HUMANAS, Blaise NEGRO/rizos NEGROS y compañeros mantienen equipo deportivo VERDE OSCURO/NEGRO largo con protecciones, guantes/escobas y su vuelo fantástico del original. No modificar alturas/cuerpos/maqueta de estadio ni añadir jugadores o balones. Las figuras de la primera viñeta siguen del tamaño y posición originales en perspectiva.\n\nHermione conserva SUDADERA GRIS HOLGADA DE MANGA LARGA con parche GRANDE VERDE/SERPIENTE, cuello redondo y camiseta NEGRA bajo, pantalón largo oscuro; sigue siendo Gryffindor apoyando amigas. Daphne RUBIA ondulada/AZULES/uniforme Slytherin VERDE-PLATA y banderita VERDE/serpiente. Luna RUBIO PÁLIDO LARGO/AZULES/uniforme Ravenclaw AZUL-BRONCE y bufanda SERPIENTE DE PELUCHE VERDE patchwork/costuras negras/lengua roja. Mantener sus rostros, pelo, colores, manos y posiciones sin cambios. La bufanda no se convierte en animal real ni sombrero.\n\nHeader pequeño izquierda «Capítulo 6 · 15». TODOS los diálogos/cartelas EXACTOS/hablantes/signos de imagen1 quedan iguales: cartela de Pansy que esperaba ver a Hermione junto al sombrero de león de Luna (es solo narración existente, no dibujar ese sombrero); Blaise «Pans, creo que tienes una nueva admiradora.» y «Pans, cierra la boca.»; cartela «Nunca había entendido la emoción del Quidditch. Ahora empezaba a sospechar que podía gustarle.»; Daphne «Te dije que le gustaría. Deberías quedarte con la sudadera.». Ninguna palabra nueva/suprimida, ninguna firma/crédito pintado. Mantener fondo y colores exteriores; solo cabello de Hermione/halo adyacente corregidos.\n",
+  "review": "Original panel count/order, exact words/speakers, eyes, hair, house/sport uniforms, props and actions checked. Transcript identical. No added pages. Chapter5-9 whole visual audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "additionalCorrections": {
+    "HermioneHair": "Three spectator appearances keep BROWN curls, GRAY sweatshirt/GREEN snake patch, existing faces/poses and brown eyes."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible upper-year silhouettes and relative head/shoulder/torso relations compared with initial drawing style and official older-student reference. Carter local refinement in16 detailed separately. No numeric height inferred from flight/perspective/crops."
+  }
+}

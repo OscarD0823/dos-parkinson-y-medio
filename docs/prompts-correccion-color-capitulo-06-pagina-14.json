@@ -1,0 +1,26 @@
+{
+  "chapter": 6,
+  "page": 14,
+  "tool": "ImageGen integrada",
+  "scope": "Natural color/softer contrast plus canonical hair/iris continuity in ordinary corridor and Quidditch planning scenes.",
+  "master": "exec-11b9cb41-497e-408d-8af7-a2224064d141.png",
+  "versionedImage": "paginas/c06-p014-color-v2.webp",
+  "originalPreserved": "paginas/c06-p014.webp",
+  "originalSha256": "ce3f17fdf7183a703fab485e0855cc82ed66c2cb3b888454675885f979262514",
+  "promptFile": "c06-p014-color-identidades-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página14 capítulo6 del cómic español. Conservar SIETE viñetas, tamaños/orden/encuadres, TODOS los textos/globos/hablantes, cada jugador/pose/objeto. Solo corrección de color/contraste y continuidad de cabello/iris. SEGUNDA imagen c06-p013 corregida: misma sala de planificación, Pansy/Theo y maqueta. TERCERA c01-p001: dibujo inicial tinta limpia/acabado pictórico suave. No copiar escenas o letras de referencias.\n\nReducir dominante NARANJA global/contraste duro/halos amarillos. Piedra GRIS NEUTRA, madera CASTAÑA, piel natural, objetos negros con detalle. Lámparas ÁMBAR solo localmente, mantener verde deportivo y riqueza de color sin desaturar todo. Túneles/armarios/escobas/banderas/mesa conservan ubicación y forma.\n\nEQUIPO SLYTHERIN: todos ya llevan MISMA camiseta VERDE OSCURO con serpiente, cuello alto/MANGA LARGA/PANTALÓN LARGO, hombreras/coderas/guantes/cinturón/botas NEGROS como imagen1, no túnicas o corbatas añadidas. Proporciones deportivas de alumnos mayores y alturas relativas existentes, rostros reconocibles; no agrandar cabezas/ojos ni encoger cuerpos. Conservar complexiones diferentes.\n\nIdentidades EXACTAS, no intercambiar: PANSY bob NEGRO NEUTRO/iris VERDES/orejas HUMANAS (quitar solo reflejos magenta/rojos del pelo). BLAISE piel NEGRA natural/rizos NEGROS cortos/CAFÉS. THEO pelo CASTAÑO corto/iris VERDES/rostro anguloso/sin gafas, distinto de Bastian. DRACO pelo RUBIO PLATINO/iris GRIS-AZULADOS claros. MILLICENT robusta/rostro redondo/rizos CASTAÑO OSCURO voluminosos semirrecogidos, en primer cuadro izquierda y junto equipo; no convertirla en Hermione. MATILDA KAVANAGH rostro anguloso/ojos CAFÉS/COLETA CASTAÑA media, conserva el bate de madera del original. BASTIAN GAGE pelo COBRIZO corto/ojos CAFÉS/mandíbula cuadrada; su cobre natural queda distinto del castaño de Theo y no es Ron. Mantener caras/peinados y gestos del target.\n\nMaqueta sigue en la misma mesa: césped VERDE/líneas BLANCAS/aros DORADOS/jugadores MINIATURA VERDES y BURDEOS sobre escobas en sus soportes. Mantener mismas piezas/posiciones/movimiento mágico señalado en target; no personas nuevas ni jugadores reales en miniatura. Conservar guantes/manos sobre maqueta como original.\n\nHeader pequeño izquierda «Capítulo 6 · 14». Copiar TODOS los textos EXACTOS desde imagen1 con cada hablante/acentos/signos: «Siempre estamos listos.»; advertencia de Blaise sobre Potter/equipo y Ginny/Snitch; Draco «Yo me encargo de Potter.»; Pansy «Necesitamos que tú también te concentres, Draco.»; Matilda sobre Weasley concentrado; indicaciones de Pansy a Matilda/Millicent; Pansy a Bastian/Draco; Blaise «Nosotros nos encargamos de lo demás. ¡Vamos a ganarles a esos gatitos!»; Draco «Hagámoslo.». Lo anterior identifica globos: copiar completo desde target sin resumir o añadir. Marcos negros/márgenes crema claro, sin firma o crédito pintado.\n",
+  "review": "Original panel count/order, exact words/speakers, eyes, hair, house/sport uniforms, props and actions checked. Transcript identical. No added pages. Chapter5-9 whole visual audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "additionalCorrections": {
+    "hairAndIris": "Pansy BLACK bob, Hermione/Millicent/Matilda/Theo natural respective chestnut tones, Bastian COPPER retained distinct, Theo GREEN irises; no identity swap.",
+    "props": "Existing plush snake and planning miniatures retained in relevant panels; no new people."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible upper-year silhouettes and relative head/shoulder/torso relations compared with initial drawing style and official older-student reference. Carter local refinement in16 detailed separately. No numeric height inferred from flight/perspective/crops."
+  }
+}

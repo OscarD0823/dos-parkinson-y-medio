@@ -1,0 +1,28 @@
+{
+  "chapter": 6,
+  "page": 16,
+  "tool": "ImageGen integrada",
+  "scope": "LOCAL Matilda BROWN iris restoration, Millicent DARK CHESTNUT hair and Carter head/shoulder balance refinement. Outdoor palette and eleven-panel Quidditch action retained.",
+  "master": "exec-22e618bd-52e7-4ce7-9d01-5ca3d394a5bd.png",
+  "versionedImage": "paginas/c06-p016-color-v2.webp",
+  "originalPreserved": "paginas/c06-p016.webp",
+  "originalSha256": "bd6b1c056e53bcc409abbe450ad558c7cdbea732a084157177ee9d7f7e05c1b0",
+  "promptFile": "c06-p016-detalles-proporciones-v2-prompt.txt",
+  "prompt": "EDITAR PRIMERA imagen, página16 capítulo6 de cómic español. Conservar EXACTAMENTE sus ONCE viñetas físicas, encuadres/orden, TODOS los textos/globos y atribuciones, jugadas y objetos. Edición LOCAL de continuidad de personajes y proporción del comentarista; el exterior ya tiene buen balance de luz y sus colores deben conservarse. No filtro global ni nueva historia.\n\nSEGUNDA imagen c06-p014 corregida: solo identidades del equipo Slytherin. TERCERA c01-p001: dibujo inicial tinta limpia/pintura suave. CUARTA fotografía oficial del trío de la sexta película: SOLO anatomía/edad aparente de alumnos mayores y relación cabeza/cuello/hombros, sin copiar actores fotográficos/ropa de invierno/fondo. Mantener cómic dibujado y las identidades aprobadas.\n\nDETALLES LOCALES:\n1. MATILDA KAVANAGH, chica atlética de COLETA CASTAÑA en fila Slytherin primera viñeta y en la segunda viñeta izquierda donde choca suavemente los guantes con Millicent: restaurar iris CAFÉS, pues en target se ven azules/verdosos. Conservar rostro ANGULOSO/peinado/piel/ropa/gesto.\n2. MILLICENT, chica robusta de rostro redondo y rizos voluminosos SEMIRRECOGIDOS, primera viñeta a la izquierda y segundo cuadro izquierda: cabello CASTAÑO OSCURO natural, no naranja brillante. Conservar su misma complexión y ojos existentes. Mantener ese castaño en las vistas lejanas identificables de ella, sin recolorear a otros jugadores.\n3. CARTER McGRATH en su pequeño panel de cabina, pelo NEGRO corto/ojos AZULES/uniforme Hufflepuff AMARILLO-NEGRO/camisa BLANCA/jersey GRIS y megáfono DORADO. Ajustar solo su relación cabeza/cuello/hombros/torso a un alumno mayor como referencia anatómica, cabeza discretamente menor y hombros/torso más proporcionados dentro de MISMO encuadre, conservando facciones/iris/cabello/expresión/manos/megáfono/texto. No cabeza infantil sobredimensionada; no convertirlo en un profesor, actor fotográfico o personaje diferente. Resto de siluetas deportivas actuales se conservan.\n\nIMPORTANTE conservar OTROS COLORES: Ginny ojos AZULES/pelo ROJO largo en coleta y uniforme deportivo BURDEOS-ORO largo protector; Ron pelo ROJO corto/pecas y equipo BURDEOS-ORO de GUARDIÁN; cazador anónimo CASTAÑO no es Ron. Bastian Gage pelo COBRIZO corto/CAFÉS/mandíbula cuadrada/kit verde, distinto de Theo CASTAÑO/VERDES y de Ron. Pansy bob NEGRO/VERDES/Slytherin VERDE-PLATA. Blaise piel NEGRA/rizos NEGROS/CAFÉS. Madame Hooch ADULTA pelo GRIS corto puntiagudo/ojos ÁMBAR/túnica NEGRA cuello alto/silbato, mismo rostro y figura. No alterar estos colores ni acciones.\n\nTodos los jugadores mantienen su misma ropa deportiva COMPLETA MANGA LARGA/PANTALÓN LARGO con protectores/guantes y sus escobas. Misma cancha VERDE/cielo AZUL/nubes BLANCAS/piedra natural/aros DORADOS/banderas verdes y burdeos. Preservar Quaffle ROJA grande, exactamente DOS Bludgers NEGRAS que salen del baúl y Snitch DORADA pequeña/alitas. Misma acción fantástica deportiva sin añadir golpes/personajes/lesiones o nuevos movimientos.\n\nHeader pequeño izquierda «Capítulo 6 · 16». TODAS las palabras, signos, acentos y colas de globo EXACTOS desde target, incluidos Hooch «Quiero un partido limpio. Cualquier falta grave supondrá la expulsión. ¡A sus posiciones!» y «¡Que comience el juego!», comentarista «¡Gryffindor obtiene la Quaffle! ¡Ginny Weasley se dirige hacia el centro!». Mantener las demás viñetas silenciosas. No añadir títulos/firma/crédito pintado, el lector aplica la marca automáticamente.\n",
+  "review": "Original panel count/order, exact words/speakers, eyes, hair, house/sport uniforms, props and actions checked. Transcript identical. No added pages. Chapter5-9 whole visual audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 11,
+  "additionalCorrections": {
+    "Matilda": "BROWN irises restored in lineup/glove-greeting panel; chestnut ponytail and angular face unchanged.",
+    "Millicent": "DARK CHESTNUT half-up curls restored without recoloring Ginny/Ron RED or Bastian COPPER.",
+    "CarterProportions": "Commentator head reduced relative to clothed shoulders/torso, face/BLACK hair/BLUE irises/Hufflepuff outfit/golden megaphone retained. Older-student reference used for anatomy only, no actor identity or centimeter height claim.",
+    "sportsProps": "RED Quaffle, TWO BLACK Bludgers, GOLD Snitch and game actions preserved."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible upper-year silhouettes and relative head/shoulder/torso relations compared with initial drawing style and official older-student reference. Carter local refinement in16 detailed separately. No numeric height inferred from flight/perspective/crops."
+  }
+}

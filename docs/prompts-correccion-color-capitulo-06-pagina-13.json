@@ -1,0 +1,26 @@
+{
+  "chapter": 6,
+  "page": 13,
+  "tool": "ImageGen integrada",
+  "scope": "Natural color/softer contrast plus canonical hair/iris continuity in ordinary corridor and Quidditch planning scenes.",
+  "master": "exec-d4cd73c0-7498-4cef-b4ec-94969646a906.png",
+  "versionedImage": "paginas/c06-p013-color-v2.webp",
+  "originalPreserved": "paginas/c06-p013.webp",
+  "originalSha256": "dae94183d4002b9e254a2e092769b5eba2b302f1cd28bc662aac97ee6b59c140",
+  "promptFile": "c06-p013-color-cabello-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página13 capítulo6 de cómic español. Conservar exactamente SIETE viñetas/encuadres/orden, TODOS los textos/globos/cartelas, identidades/iris/poses/ropa/objetos. Corrección de color/contraste y cabello canónico, sin nueva historia. SEGUNDA imagen c06-p012 corregida, mismas Hermione/Luna en pasillo, aporta paleta/identidad. TERCERA c01-p001, dibujo inicial de tinta limpia/pintura suave. No copiar escenas ni textos de referencias.\n\nReducir NARANJA global/contraste duro y halos amarillos: piel natural, piedra GRIS NEUTRA, madera CASTAÑA, túnicas NEGRO con detalle, luz diurna azul-blanca/ÁMBAR local solo en lámparas. Hermione rizos CASTAÑOS naturales/pecas/CAFÉS/Gryffindor BURDEOS-ORO completo, no rojo saturado. Luna largo RUBIO PÁLIDO/AZULES/Ravenclaw AZUL-BRONCE completo y bufanda SERPIENTE DE PELUCHE verde claro/oscuro PATCHWORK/costuras NEGRAS/ojos de fieltro NEGRO/lengua ROJA. Mantener libros/mochilas/banderas/mesas/personas anónimas del fondo.\n\nÚltimas DOS viñetas: Pansy y Theo ya visten equipo deportivo Slytherin COMPLETO VERDE OSCURO/NEGRO, cuello alto, MANGA LARGA/PANTALÓN LARGO, hombreras/coderas/guantes/cinturón NEGROS. Pansy bob NEGRO NEUTRO (restaurar los reflejos rojos/magenta a negro), iris VERDES, orejas HUMANAS redondeadas. Theo pelo CASTAÑO corto/iris VERDES/rostro anguloso/sin gafas. Conservar rostros/constitución y siluetas atléticas de alumnos mayores, sin agrandar ojos/cabezas ni acortar torsos/extremidades. Mismas poses sobre mesa de planificación, manos sobre las mismas figuritas, ningún cambio de ropa en escena.\n\nMantener MAQUETA de Quidditch sobre mesa: césped VERDE/líneas BLANCAS/aros DORADOS y jugadores MINIATURA de juguete con uniformes VERDES y BURDEOS. Mismas piezas/posiciones/escobas/armarios/banderas Slytherin, sin convertir miniaturas en personas de tamaño real. No nuevos personajes, texto o sucesos.\n\nHeader pequeño superior izquierda «Capítulo 6 · 13». Copiar TODOS los textos EXACTOS de imagen1 con mismos hablantes y signos: Luna habla de Theo/Pansy/Blaise/Millicent/entrenamientos; Hermione pregunta si va a entrenamientos; Luna explica que lo acompaña y escucha historias de Quidditch; Hermione «Pero siempre has apoyado a Gryffindor.»; Luna dice que ahora apoya personas que le importan y Theo le importa; cartelas «Nunca había considerado ir a los entrenamientos de Pansy.» y «Todavía estaba a tiempo.»; Theo «Creo que estamos listos.». Lo anterior identifica globos, copiar completo palabra por palabra desde target, no usar resúmenes. Marcos negros/márgenes crema claro, sin firma/título/crédito pintado.\n",
+  "review": "Original panel count/order, exact words/speakers, eyes, hair, house/sport uniforms, props and actions checked. Transcript identical. No added pages. Chapter5-9 whole visual audit remains incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "additionalCorrections": {
+    "hairAndIris": "Pansy BLACK bob, Hermione natural BROWN curls, Theo CHESTNUT/GREEN irises; existing Luna identity retained.",
+    "props": "Luna plush snake and existing Quidditch planning miniatures retained; no new people."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible upper-year silhouettes and relative head/shoulder/torso relations compared with initial drawing style and official older-student reference. Carter local refinement in16 detailed separately. No numeric height inferred from flight/perspective/crops."
+  }
+}
