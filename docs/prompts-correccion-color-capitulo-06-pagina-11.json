@@ -1,0 +1,21 @@
+{
+  "chapter": 6,
+  "page": 11,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast plus Pansy BLACK hair restoration where original highlights were red/magenta. No story change or added pages.",
+  "master": "exec-4d87ad98-a72f-49d1-ae9f-378a8a79d422.png",
+  "versionedImage": "paginas/c06-p011-color-v2.webp",
+  "originalPreserved": "paginas/c06-p011.webp",
+  "originalSha256": "80bc8d182aecb25d614cde60f083b2011a5425866e56c01be9f3e73747d5e311",
+  "promptFile": "c06-p011-color-cabello-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página11 capítulo6 del cómic español. Conservar exactamente NUEVE viñetas, encuadres/orden, todos los textos/globos/atribuciones, identidades, iris, poses, uniformes y objetos. Corrección de color/contraste y cabello canónico, sin nueva historia o acciones. SEGUNDA imagen c06-p009 corregida, misma habitación/cuatro personajes/paleta natural. TERCERA c01-p001, tinta limpia/acabado pictórico suave inicial. No copiar escenas ni letras de referencias.\n\nReducir dominante NARANJA y contraste duro de toda la página. Hermione: rizos CASTAÑOS voluminosos naturales, pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO; su pelo no rojo-naranja brillante. Pansy: bob NEGRO completo/ojos VERDES/orejas HUMANAS/Slytherin VERDE-PLATA; restaurar NEGRO NEUTRO en los mechones que se ven magenta/rojo por la iluminación original. Daphne: largo RUBIO ondulado/ojos AZULES/Slytherin VERDE-PLATA. Blaise: piel NEGRA natural/rizos NEGROS cortos/CAFÉS/Slytherin VERDE-PLATA. Todos con el MISMO uniforme escolar completo: túnicas NEGRAS con detalle/suéter GRIS/camisa BLANCA. Conservar caras/expresiones/cuerpos y alturas relativas de adolescentes mayores, sin agrandar ojos/cabezas ni acortar cuerpos.\n\nConservar frío AZUL-TURQUESA del lago en ventanas con peces/algas, cortinas y mantas VERDES, madera CASTAÑA OSCURA/piedra gris-verdosa. Lámparas mantienen ÁMBAR solo localmente sin bañar todo el pelo/ropa de naranja. Sombras suaves legibles, riqueza de color sin desaturar. Mantener DOS camas individuales separadas, UNA cuna VACÍA madera oscura/LUNA-ESTRELLAS DORADAS/colchón CREMA y caja regalo NEGRA/lazo DORADO. Conservar posiciones de todos, manos, sillones, libros y demás objetos, sin nuevos muñecos/personajes.\n\nHeader pequeño arriba izquierda «Capítulo 6 · 11». TODOS los diálogos EXACTOS desde target, con mismos hablantes y acentos, sin resumir: Hermione habla de dos semanas/recibir muñeco/exámenes y familia; pregunta cómo salir de Hogwarts; Blaise «Por la Red Flu, por supuesto.»; Daphne «Como cada año.»; Pansy «Sin romper ninguna regla.»; Hermione pregunta por un fin de semana completo; Daphne explica salida de mañana/regreso siguiente día y donaciones; Hermione «Eso es muy injusto.»; Daphne replica con las reglas de cinco años/criaturas/expulsión; Hermione «Dicho así, suena mal.»; Daphne «No te juzgo. Algunas de esas cosas nos parecen impresionantes.» y «Solo te pido que tampoco nos juzgues sin conocer todo el contexto.». Lo anterior identifica globos: copiar palabra por palabra de imagen1, no sustituir por resumen. Marcos negros limpios/márgenes crema claro, sin nuevo título/firma/crédito pintado.\n",
+  "review": "Exact words/speakers and panel order checked against original; hair/iris/houses/full uniforms/props retained. Natural brown hair/skin and gentler contrast restored; underwater blue-turquoise and local amber retained. Page12 corridor transition keeps neutral stone/daylight and Luna Ravenclaw/plush snake. Original transcript identical. No new page count; whole132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 9,
+  "additionalCorrections": {
+    "PansyHair": "BLACK bob restored with neutral highlights, no red/magenta tips; green irises and house uniform retained."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "chapter": 6,
+  "page": 9,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-3c5bcb21-fea2-44ea-9208-74fe1d8fe65f.png",
+  "versionedImage": "paginas/c06-p009-color-v2.webp",
+  "originalPreserved": "paginas/c06-p009.webp",
+  "originalSha256": "80596ff2135f49fa2421ab7c3aa47cf6c1ede6ab1f51e15bcf4a834ef71f9ace",
+  "promptFile": "c06-p009-color-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página9 capítulo6 del cómic español. Mantener EXACTAMENTE SIETE viñetas, encuadres/orden, todas las palabras/globos y sus hablantes, rostros/iris/poses/uniformes/objetos. Corrección de color/contraste y continuidad del dibujo, sin añadir escenas. SEGUNDA imagen c06-p008 corregida: misma habitación, cuatro personajes y objetos. TERCERA c01-p001: tinta limpia/pintura suave inicial, piel y cabello naturales. No copiar escenas o letras de referencias.\n\nMantener proporciones expresivas de adolescentes mayores y alturas relativas/cuerpos de la imagen1; no agrandar ojos/cabezas ni acortar cuerpos. Hermione rizos CASTAÑOS/pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO. Pansy bob NEGRO/VERDES/orejas HUMANAS/Slytherin VERDE-PLATA. Daphne largo RUBIO ondulado/AZULES/Slytherin VERDE-PLATA. Blaise piel NEGRA/rizos NEGROS cortos/CAFÉS/Slytherin VERDE-PLATA. Todos con uniformes escolares COMPLETOS como original, túnicas NEGRAS con detalle/suéter GRIS/camisa BLANCA.\n\nSuavizar contraste duro y neutralizar el NARANJA GLOBAL de piel/cabello/ropa. Piel natural, cabello Hermione CASTAÑO en vez de rojo-naranja saturado, Daphne rubio natural, Blaise tonos de piel naturales. Mantener AZUL-TURQUESA del lago con peces/algas, verdes de mantas/cortinas/lámparas, madera oscura y piedra gris-verdosa. Lámparas ÁMBAR solo localmente. Marcos negros limpios/márgenes crema claro.\n\nConservar DOS camas INDIVIDUALES separadas y UNA cuna VACÍA de madera oscura/LUNA-ESTRELLAS DORADAS/colchón CREMA entre ellas, sin nuevos muñecos. Daphne guarda el vestido OBJETO AZUL MARINO/BORDADOS PLATEADOS en la caja NEGRA/lazo DORADO en primera viñeta; nadie cambia de ropa ni lo lleva puesto. Mantener manos, sillas, muebles y posiciones. Último cuadro Daphne sentada en silla como original.\n\nHeader pequeño arriba izquierda «Capítulo 6 · 09». Copiar todos los textos EXACTOS del target y hablantes: Daphne «¡El aniversario de los padres de Pansy! Eirena y Markus estarán encantados de conocerte.»; Hermione «¿El aniversario de tus padres?»; Pansy «Cada año celebran una velada bastante privada en la mansión…»; Blaise «¿Privada? Es uno de los grandes eventos del año.» y «Se reúne buena parte del mundo mágico británico. Eirena siempre se supera con la decoración.»; Hermione «Espera. ¿Quieres que conozca a tus padres el día de su aniversario?»; Pansy «Me habría gustado contártelo de otra forma. Con todo lo del proyecto lo había olvidado.» y «No voy a obligarte. Pero para entonces ya tendremos al muñeco y no quiero dejarte sola con toda la responsabilidad.»; Hermione «¿Iremos con él a la celebración? ¿Tus padres saben lo del proyecto?»; Daphne «Lo saben. Todos llevaremos a nuestros nuevos integrantes.». Conservar signos/acentos del target sin abreviar. Sin nuevos títulos/firma/crédito pintado: marca automática del lector.\n",
+  "review": "Exact words/speakers and panel order checked against original; hair/iris/houses/full uniforms/props retained. Natural brown hair/skin and gentler contrast restored; underwater blue-turquoise and local amber retained. Page12 corridor transition keeps neutral stone/daylight and Luna Ravenclaw/plush snake. Original transcript identical. No new page count; whole132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Visible silhouettes and head/shoulder/torso relations compared with early drawn style. No additional material geometry error identified in existing crops. No centimeter claim."
+  }
+}

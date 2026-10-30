@@ -1,0 +1,21 @@
+{
+  "chapter": 6,
+  "page": 12,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast plus Pansy BLACK hair restoration where original highlights were red/magenta. No story change or added pages.",
+  "master": "exec-d4f67562-9a24-4a60-a02e-557c5e36d408.png",
+  "versionedImage": "paginas/c06-p012-color-v2.webp",
+  "originalPreserved": "paginas/c06-p012.webp",
+  "originalSha256": "486a318637ea450e997bcaedc32887f8df0b97fc89f9891353a5dc4a0b844da0",
+  "promptFile": "c06-p012-color-cabello-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página12 capítulo6 del cómic español. Conservar exactamente OCHO viñetas, tamaños/orden/encuadres, todos los textos/globos/cartelas, identidades/iris/gestos/uniformes/objetos. Corrección de color/contraste y cabello canónico. Sin nueva historia ni escenas. SEGUNDA imagen c06-p009 corregida: dormitorio/identidades/paleta. TERCERA c01-p001: tinta limpia/pintura suave inicial, luz natural del pasillo. No copiar escenas o palabras de referencias.\n\nNeutralizar NARANJA/AMARILLO global y contraste intenso de piel/cabello/piedra/ropa. Hermione rizos CASTAÑOS naturales/pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO; no pelo rojo-naranja brillante. Pansy bob NEGRO COMPLETO/ojos VERDES/orejas HUMANAS/Slytherin VERDE-PLATA: restaurar reflejos magenta/rojos del original a NEGRO NEUTRO con detalle. Daphne largo RUBIO ondulado/AZULES/Slytherin VERDE-PLATA. Blaise piel NEGRA natural/rizos NEGROS cortos/CAFÉS/Slytherin VERDE-PLATA. LUNA de la transición final: cabello RUBIO PÁLIDO LARGO/ojos AZULES/uniforme Ravenclaw AZUL-BRONCE, distinta de Daphne. Todos con uniformes escolares COMPLETOS ya puestos como imagen1, túnicas NEGRAS/suéter GRIS/camisa BLANCA. Conservar caras, proporciones de adolescentes mayores y alturas relativas sin agrandar ojos/cabezas ni acortar cuerpos.\n\nPrimeras CUATRO viñetas en dormitorio: luz AZUL-TURQUESA del lago con peces/algas, mantas/cortinas/lámparas VERDES, madera CASTAÑA OSCURA/piedra gris-verdosa, fuentes ÁMBAR solo localmente. Conservar DOS camas individuales separadas, UNA cuna VACÍA madera oscura/LUNA-ESTRELLAS DORADAS/colchón CREMA y caja NEGRA/lazo DORADO. La tercera viñeta mantiene el abrazo amistoso cotidiano de Daphne/Hermione tal como original, sin nuevos contactos.\n\nÚltimas CUATRO viñetas: OTRO DÍA en escaleras/pasillo con piedra GRIS NEUTRA, luz diurna azul-blanca y lámparas ÁMBAR localizadas. Mantener banderas de las casas, personas anónimas de fondo, libros y mochilas. LUNA lleva una SERPIENTE DE PELUCHE VERDE CLARO/VERDE OSCURO tipo patchwork al cuello, costuras NEGRAS visibles, ojos de fieltro NEGRO y lengua ROJA, como original. Es una bufanda de juguete, no un animal real, y sigue igual de grande/colocada. Preservar manos y expresiones.\n\nHeader pequeño superior izquierdo «Capítulo 6 · 12». Copiar TODOS los diálogos/cartelas EXACTOS desde target, con mismos hablantes/signos/acentos: Blaise «No somos perfectos, Hermione, pero tampoco villanos. Intentamos cuidarnos entre nosotros.»; Pansy «Entonces… ¿estás de acuerdo?»; Hermione «Estoy de acuerdo.»; Daphne «¡Excelente! Después del partido te probaremos el vestido. Te verás espectacular. ¿Cierto, Pansy?»; Pansy «Por supuesto. Ella es espectacular.»; cartelas «El día del partido.» y narración de habitación tranquila/cama/entrenamiento Blaise-Draco; Luna «Hola, Hermione.»; Hermione «Hola, Luna. ¿Qué es eso?»; Luna «Mi atuendo para el partido. ¡Espero que gane Slytherin!»; Hermione «¿Apoyas a Slytherin? ¿Contra Gryffindor?». No resumir cartelas: copiar completo de imagen1. Marcos negros/márgenes crema claro, sin nueva firma/título/marca pintada, crédito del lector.\n",
+  "review": "Exact words/speakers and panel order checked against original; hair/iris/houses/full uniforms/props retained. Natural brown hair/skin and gentler contrast restored; underwater blue-turquoise and local amber retained. Page12 corridor transition keeps neutral stone/daylight and Luna Ravenclaw/plush snake. Original transcript identical. No new page count; whole132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 8,
+  "additionalCorrections": {
+    "PansyHair": "BLACK bob restored with neutral highlights, no red/magenta tips; green irises and house uniform retained."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "chapter": 6,
+  "page": 10,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast of seven environmental panels; exact attributed voice captions retained. No human figures or anatomy edited.",
+  "master": "exec-041c9b68-0c84-4de0-88cd-4f39f9c39ae6.png",
+  "versionedImage": "paginas/c06-p010-color-v2.webp",
+  "originalPreserved": "paginas/c06-p010.webp",
+  "originalSha256": "c5ddc55b0dc1c5baabb56c1a3b40d3900ac40b00075e09c67c8239fdfb7d10d4",
+  "promptFile": "c06-p010-color-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página10 capítulo6 del cómic español: página AMBIENTAL SIN FIGURAS de personas. Mantener sus SIETE viñetas horizontales, encuadres/orden, TODOS los textos y atribuciones de voz en las cartelas, muebles y objetos. Solo corrección de color/contraste y continuidad de tinta/pintura del inicio. No dibujar personajes ni cambiar la composición ambiental aprobada.\n\nSEGUNDA imagen c06-p006 corregida: referencia del mismo dormitorio subacuático, paleta y objetos. TERCERA c01-p001: referencia de dibujo inicial, tinta limpia/acabado pictórico suave; no copiar escenas, personas ni palabras de referencias.\n\nReducir el NARANJA/AMARILLO global y contraste duro. Madera CASTAÑA OSCURA natural sin todo brillar naranja, caja NEGRA con luna/estrellas y lazo DORADOS, libros VERDES/castaños, piedra GRIS VERDOSA. Mantener AZUL-TURQUESA del agua por las ventanas, peces/algas, mantas/cojines/cortinas VERDES. Lámparas y velas conservan ÁMBAR LOCAL y objetos dorados/latón sus detalles sin irradiar naranja por toda la página. Sombras legibles y negros con detalle, no imagen gris plana.\n\nConservar caja NEGRA/LUNA-ESTRELLAS DORADAS/lazo DORADO en mesa, armilares/libros, lámparas VERDES, puerta de madera, mochilas con insignias existentes, cojín de serpiente, sillas, dos camas separadas y cuna VACÍA de madera con luna/estrellas doradas y colchón CREMA. No nuevos muñecos/objetos, no personas, no reordenar habitación.\n\nHeader pequeño arriba izquierda EXACTO «Capítulo 6 · 10». TODAS las cartelas CREMA conservan exactamente letras/palabras/signos/colores de nombres y atribución actuales: Hermione pregunta si padres saben que es pareja de proyecto y están de acuerdo; narración de su inquietud ante familias de sangre pura; Pansy responde que están de acuerdo y elogia a Hermione; Pansy dice que su familia está ilusionada por conocerla; Hermione pregunta si habló de ella; Pansy menciona a Daph y su madre; elogio de Pansy a Hermione; broma de Blaise y respuesta de Daphne; Hermione pregunta cuándo; Pansy «En dos semanas.». Copiar palabra por palabra cada cartela del target, sin resumir, añadir o cambiar sus nombres. El texto es EXACTAMENTE el de imagen1, lo anterior solo identifica las cartelas. Mantener marcos negros/márgenes crema claro. Sin título, firma ni marca pintada: crédito automático del lector.\n",
+  "review": "Exact words/speakers and panel order checked against original; hair/iris/houses/full uniforms/props retained. Natural brown hair/skin and gentler contrast restored; underwater blue-turquoise and local amber retained. Page12 corridor transition keeps neutral stone/daylight and Luna Ravenclaw/plush snake. Original transcript identical. No new page count; whole132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Human/species anatomy not applicable: approved environmental composition has no figures. Furniture/empty cradle/room scale kept, no added people."
+  }
+}
