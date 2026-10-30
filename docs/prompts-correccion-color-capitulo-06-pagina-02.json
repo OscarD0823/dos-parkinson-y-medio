@@ -1,0 +1,23 @@
+{
+  "chapter": 6,
+  "page": 2,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-bd71f39c-128c-4778-9dfd-453b9b9061b2.png",
+  "versionedImage": "paginas/c06-p002-color-v2.webp",
+  "originalPreserved": "paginas/c06-p002.webp",
+  "originalSha256": "96dc84a66dc8ed58a0f619a56f0118520ca6a479f827224fd93fb1703d0d955b",
+  "promptFile": "c06-p002-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página2 capítulo6 de cómic español. Conservar EXACTAMENTE las OCHO viñetas, encuadres/orden, cada palabra de globos y cartelas, posiciones/gestos/rostros/iris/uniformes/objetos. Solo corrección de color y contraste; no añadir escenas ni cambiar historia.\n\nSEGUNDA imagen: apertura6 ya corregida, paleta del mismo pasillo/piedra gris/luz natural/negros con detalle. TERCERA: estilo inicial c01-p001, tinta limpia y pintura suave. Seguir estas referencias de dibujo manteniendo proporciones expresivas de adolescentes mayores y las siluetas/alturas relativas del target. No aumentar ojos o cabezas, no acortar cuerpos. Conservar todos los encuadres y manos.\n\nLa escena sigue siendo cotidiana y escolar: puerta de madera, zona de lavabos de piedra, ambas con uniformes completos, una toalla blanca limpia y dos mochilas marrones. Neutralizar el NARANJA global en piedra, cabello y piel, suavizar contraste. Piedra GRIS NEUTRA, madera CASTAÑA, cabello CASTAÑO de Hermione y NEGRO de Pansy, túnicas NEGRO con detalle, suéter GRIS, camisas BLANCAS, piel natural. Luz diurna azul-blanca por ventanas, lámparas ÁMBAR solo localmente. Mantener profundidad y dibujo, no desaturar toda la página.\n\nHERMIONE rizos CASTAÑOS voluminosos/pecas/ojos CAFÉS/uniforme Gryffindor BURDEOS-ORO. PANSY bob NEGRO a la barbilla/ojos VERDES/orejas HUMANAS redondeadas/uniforme Slytherin VERDE-PLATA. Mantener peinados y expresiones. Conservar toalla BLANCA, DOS mochilas CASTAÑAS con insignias/verdes existentes, estuche estampado, termo VERDE, grifos LATÓN, puerta/tiradores y libros como original. No añadir ni intercambiar objetos.\n\nEncabezado pequeño arriba izquierda «Capítulo 6 · 02». Conservar todos los textos EXACTOS de imagen1 y cada hablante, incluidos «Una bomba fétida de Ernie había desencadenado las náuseas. Hermione apenas llegó a tiempo.», «¿Dónde estás?», la conversación completa de Pansy frente a la puerta, respuesta fuera de cuadro «Je…», cartela de la semana de simulación, «Lo siento. Cada vez me cuesta más soportarlo.», «No es culpa tuya.», «Quiero que esto termine.», «Faltan unos días. Cuando recibamos al muñeco, la simulación acabará.» y la cartela final de la habitación de Slytherin. Copiar palabra por palabra desde target, sin abreviar o completar frases. No añadir nombres, títulos, firma o crédito pintado; el lector lo aplica automáticamente.\n",
+  "review": "Original panel count, exact words/speakers, eyes, hair, full school uniforms, props and gestures checked against original. Neutral stone and brown hair/natural skin restored; local amber lamps and brass retained. Text transcript identical. No new page count. Broader visual audit remains open.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 8,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "reference": "Initial drawn chapters1-4; established Hermione/Pansy identity and upper-year silhouettes",
+    "finding": "Visible head/shoulder/torso relations compared. Dynamic running pose in1 and differing foreground/background positions in4 retained; no new material distortion identified. No height in centimeters inferred from crops/perspective. All132-page review remains incomplete."
+  }
+}

@@ -868,7 +868,7 @@
       "pages": [
         {
           "number": 1,
-          "image": "paginas/c06-p001.webp",
+          "image": "paginas/c06-p001-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 1 del cómic.",
@@ -876,7 +876,7 @@
         },
         {
           "number": 2,
-          "image": "paginas/c06-p002.webp",
+          "image": "paginas/c06-p002-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 2 del cómic.",
@@ -884,7 +884,7 @@
         },
         {
           "number": 3,
-          "image": "paginas/c06-p003.webp",
+          "image": "paginas/c06-p003-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 3 del cómic.",
@@ -892,7 +892,7 @@
         },
         {
           "number": 4,
-          "image": "paginas/c06-p004.webp",
+          "image": "paginas/c06-p004-color-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 4 del cómic.",

@@ -1,0 +1,23 @@
+{
+  "chapter": 6,
+  "page": 4,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-6bc6d769-d1e3-4542-980c-064e9c3f074f.png",
+  "versionedImage": "paginas/c06-p004-color-v2.webp",
+  "originalPreserved": "paginas/c06-p004.webp",
+  "originalSha256": "ec3d80657aecb439fb5230af429badb4754afd5ca66ee532604f63af654f7860",
+  "promptFile": "c06-p004-color-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página4 capítulo6 de cómic español. Mantener EXACTAMENTE OCHO viñetas, encuadres/orden, todos los diálogos/globos y atribución, poses/gestos/objetos/uniformes. Solo color/contraste y continuidad del dibujo. SEGUNDA imagen c06-p003 ya corregida: mismas identidades y paleta del mismo lugar. TERCERA c01-p001: tinta limpia/acabado pictórico suave inicial. No copiar escenas/textos de referencias.\n\nLas dos alumnas llevan uniformes escolares completos como el original. Mantener proporciones de adolescentes mayores, siluetas/altura relativa y profundidad de encuadres existentes. No aumentar ojos/cabezas ni acortar cuerpos. Hermione rizos CASTAÑOS/pecas/ojos CAFÉS/Gryffindor BURDEOS-ORO; Pansy bob NEGRO/ojos VERDES/orejas HUMANAS redondeadas/Slytherin VERDE-PLATA. Túnicas NEGRO con detalle, suéter GRIS, camisa BLANCA, faldas oscuras y mochilas CASTAÑAS. Conservar rostros y expresiones juguetonas.\n\nNeutralizar dominante global NARANJA y contraste duro. Piedra GRIS NEUTRA, madera CASTAÑA, cabello castaño natural, piel natural, ventana azul-blanca. Lámparas ÁMBAR y grifos LATÓN cálidos solo localmente. Mantener color de casas, profundidad y sombras suaves, sin volver toda la página gris. Marcos negros/márgenes crema claro.\n\nPreservar la broma cotidiana tal como se ve: una toalla BLANCA lanzada hacia arriba con líneas de movimiento; Hermione sostiene la misma varita y unas pocas gotas AZULES alcanzan el rostro de Pansy, que luego se seca con la toalla. Todas siguen tranquilas e ilesas con su misma ropa completa. Conservar manos, varita, gotas, reloj, lavabos y mochilas en los mismos cuadros, sin nuevos efectos/acciones/contactos.\n\nHeader pequeño arriba izquierda EXACTO «Capítulo 6 · 04». Todos los textos deben copiarse palabra por palabra desde imagen1 sin añadir o omitir: conversación del muñeco dentro de una semana/preguntas; «Ya te preocupas por las dos.»; entrenamiento/partido en dos días/gatitos llorones; «Hablas de mi casa.»; «Desde primero sabía que eras uno.»; «¡No soy un gatito llorón!»; reflejos de cazadora; «¿Me mojaste?»; respuesta de Hermione «Por llamarme gatito llorón. Creí que la veloz cazadora saldría ilesa.»; «¡Me tomaste por sorpresa!»; «Los cazadores deben estar preparados para todo.»; «¡En el campo de Quidditch, no en el baño!»; «Supéralo. Tal vez no eres tan buena como crees, Parkinson.». Mantener puntuación/acentos/orden/hablantes del target. No añadir texto, título, firma o marca pintada: crédito automático del lector.\n",
+  "review": "Original panel count, exact words/speakers, eyes, hair, full school uniforms, props and gestures checked against original. Neutral stone and brown hair/natural skin restored; local amber lamps and brass retained. Text transcript identical. No new page count. Broader visual audit remains open.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 8,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "reference": "Initial drawn chapters1-4; established Hermione/Pansy identity and upper-year silhouettes",
+    "finding": "Visible head/shoulder/torso relations compared. Dynamic running pose in1 and differing foreground/background positions in4 retained; no new material distortion identified. No height in centimeters inferred from crops/perspective. All132-page review remains incomplete."
+  }
+}

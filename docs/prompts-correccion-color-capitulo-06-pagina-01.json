@@ -1,0 +1,26 @@
+{
+  "chapter": 6,
+  "page": 1,
+  "tool": "ImageGen integrada",
+  "scope": "Color/contrast and chapter-opening title layout restoration; body poses and four panels retained. No new page count.",
+  "master": "exec-2e0e2f9f-8025-4e8e-860e-d725646234b4.png",
+  "versionedImage": "paginas/c06-p001-color-v2.webp",
+  "originalPreserved": "paginas/c06-p001.webp",
+  "originalSha256": "79e1486932d814f66cd3b252271b8830e6a38fcab02a840a21a4f978c8810254",
+  "promptFile": "c06-p001-color-apertura-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, apertura del capítulo6 del cómic español, conservando sus CUATRO viñetas, escenas/poses/encuadres/orden/objetos/personajes y las mismas palabras. Es una corrección visual de color/contraste y PRESENTACIÓN DEL TÍTULO con las referencias iniciales.\n\nLa SEGUNDA imagen, apertura del capítulo4, muestra el FORMATO: encabezado pequeño arriba izquierda, y el título de capítulo UNA SOLA VEZ dentro de una cartela crema integrada en la primera viñeta. Aplicar ese formato a la imagen1. Mantener «Capítulo 6 · 01» pequeño arriba izquierda. Mover «Patatas fritas y malteada de fresa» desde el margen exterior superior derecho a UNA cartela CREMA pequeña en la zona libre izquierda de la primera viñeta, sin cubrir a Hermione. Eliminar el título anterior del margen exterior para no duplicarlo. No copiar el texto o escenas del capítulo4.\n\nLa TERCERA imagen es c01-p001: estilo inicial de tinta limpia/pintura suave, piel natural, piedra gris y pelo castaño. Neutralizar el NARANJA global y el contraste duro de la imagen1. Conservar luz diurna de ventanas azul-blanca, piedra GRIS NEUTRA, puerta MADERA CASTAÑA, túnicas NEGRAS con detalle, suéteres GRISES/camisas BLANCAS. Lámparas ÁMBAR quedan cálidas solo localmente; evitar halos naranjas globales sobre cabello/piel/ropa.\n\nHermione rizos CASTAÑOS voluminosos, pecas, iris CAFÉS y uniforme Gryffindor BURDEOS-ORO completo como original. Pansy bob NEGRO hasta barbilla, iris VERDES, orejas humanas redondeadas y uniforme Slytherin VERDE-PLATA completo como original. Mantener proporciones de adolescentes mayores, alturas relativas y cuerpos tal como están dibujados; no aumentar ojos/cabezas ni encoger piernas. Conservar poses de movimiento del pasillo sin agregar contacto o acciones.\n\nLas cuatro viñetas son las del original: Hermione recorre el pasillo con mano ante la boca; primer plano con la cartela «Tenía que llegar. Cada segundo parecía eterno.»; Pansy la sigue llevando las DOS mochilas y dice «¡Hermione! ¡Espera!»; Hermione llega a la puerta exterior de madera con letrero «BAÑO». Conservar exactamente esa puerta, letrero, mochilas y escudos. Mantener toda la escena en el PASILLO y los mismos encuadres. No inventar nuevas viñetas ni diálogos. Marcos negros limpios/márgenes crema claro y margen libre para crédito automático del lector.\n",
+  "review": "Original panel count, exact words/speakers, eyes, hair, full school uniforms, props and gestures checked against original. Neutral stone and brown hair/natural skin restored; local amber lamps and brass retained. Text transcript identical. No new page count. Broader visual audit remains open.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 4,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "reference": "Initial drawn chapters1-4; established Hermione/Pansy identity and upper-year silhouettes",
+    "finding": "Visible head/shoulder/torso relations compared. Dynamic running pose in1 and differing foreground/background positions in4 retained; no new material distortion identified. No height in centimeters inferred from crops/perspective. All132-page review remains incomplete."
+  },
+  "additionalCorrections": {
+    "chapterTitleLayout": "Patatas fritas y malteada de fresa moved from outer upper-right margin to a single cream cartouche inside first panel. Small header remains upper-left. Same words, no duplicate title."
+  }
+}

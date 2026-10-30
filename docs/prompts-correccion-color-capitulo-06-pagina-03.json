@@ -1,0 +1,23 @@
+{
+  "chapter": 6,
+  "page": 3,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-08d48162-9810-4356-bcbd-87ef9c299e98.png",
+  "versionedImage": "paginas/c06-p003-color-v2.webp",
+  "originalPreserved": "paginas/c06-p003.webp",
+  "originalSha256": "c364e21056dd68f707ca94e86540a0478dea9ae0a8537b8c5e4bfe1cd500a355",
+  "promptFile": "c06-p003-color-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página3 capítulo6 de cómic español. Conservar exactamente sus SIETE viñetas, encuadres, todas las palabras/cartelas/globos, gestos de conversación, uniformes, objetos y orden. Corrección de color/contraste con el dibujo inicial, sin añadir escenas ni acciones.\n\nSEGUNDA imagen c06-p002 ya corregida: mismo lugar, Hermione/Pansy, paleta natural. TERCERA c01-p001: dibujo inicial de tinta limpia y acabado pictórico suave. Mantener proporciones humanas de adolescentes mayores ya establecidas, siluetas/alturas relativas y rostros, sin aumentar ojos/cabezas ni encoger cuerpos. Son dos alumnas completamente uniformadas conversando junto al mostrador de lavabos de la escuela, como el original.\n\nNeutralizar NARANJA global y contraste intenso: piedra GRIS NEUTRA, marcos/madera CASTAÑA, cabellos naturales CASTAÑO y NEGRO, túnicas NEGRO con detalle/suéter GRIS/camisa BLANCA, piel natural. ÁMBAR de lámparas y LATÓN de grifos permanecen cálidos solo localmente; ventana azul-blanca, sombras suaves legibles. No volver toda la imagen gris; conservar colores de casa.\n\nHERMIONE rizos CASTAÑOS voluminosos/pecas/ojos CAFÉS constantes/uniforme Gryffindor BURDEOS-ORO/mochila marrón. PANSY bob NEGRO/ojos VERDES/orejas HUMANAS redondeadas/uniforme Slytherin VERDE-PLATA/mochila marrón. Conservar manos, libro, reloj en muñeca de Pansy, grifos, lavabos, espejos, lámparas, mochilas y distancias tal como están.\n\nEncabezado pequeño arriba izquierda EXACTO «Capítulo 6 · 03». Copiar todos los textos EXACTAMENTE de imagen1, con cada mismo hablante: cartela de la broma inofensiva para Ernie; Pansy «Seré la primera en reírme, lo prometo.»; Hermione «Estoy mejor. Gracias.»; Pansy «Bien. Ya vamos tarde.»; Hermione «Preferiría no entrar a clase.»; Pansy «¡Hermione Granger quiere saltarse una clase! ¿Qué sigue?»; Hermione «Qué graciosa. La Ventisca de Jabón de 1378 no es lo más emocionante de Historia de la Magia.»; Pansy «Pocas cosas lo son cuando enseña Binns.»; Hermione «Eso no es cierto. Además, debemos seguir el cuestionario de McGonagall.»; Pansy «Eres la única que se salta una clase para hacer tareas. Eres todo un caso, Granger.». Conservar acentos y puntuación exacta del target. No añadir título, firma o crédito pintado.\n",
+  "review": "Original panel count, exact words/speakers, eyes, hair, full school uniforms, props and gestures checked against original. Neutral stone and brown hair/natural skin restored; local amber lamps and brass retained. Text transcript identical. No new page count. Broader visual audit remains open.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 7,
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "reference": "Initial drawn chapters1-4; established Hermione/Pansy identity and upper-year silhouettes",
+    "finding": "Visible head/shoulder/torso relations compared. Dynamic running pose in1 and differing foreground/background positions in4 retained; no new material distortion identified. No height in centimeters inferred from crops/perspective. All132-page review remains incomplete."
+  }
+}
