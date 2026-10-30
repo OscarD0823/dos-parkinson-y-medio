@@ -1,0 +1,27 @@
+{
+  "chapter": 5,
+  "page": 8,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast plus specified local continuity correction; broader human-proportion audit remains open. No new page count.",
+  "master": "exec-4210de25-5f07-4c49-8255-b39115bcabdc.png",
+  "versionedImage": "paginas/c05-p008-color-v2.webp",
+  "originalPreserved": "paginas/c05-p008.webp",
+  "originalSha256": "f4be23497826068812fa3d485a8f835e658de11f0ea8ae24c4144d10ffa71790",
+  "promptFile": "c05-p008-color-oreja-v2-prompt.txt",
+  "prompt": "Use case: style-transfer / precise-object-edit. EDIT Image1, published chapter5page8. Preserve ALL NINE panels/story/order, every exact Spanish word/balloon/tail/caption/header \"Capítulo 5 · 08\", identities/iris/hairstyles/house uniforms/poses/props. Correct COLOR/CONTRAST and ONE anatomical continuity error: PANSY'S EAR.\n\nImage1 exact edit target/story/text. Image2 corrected previouspage7 palette/BLACK Pansy hair/GREEN eyes and HUMAN ear shape. Image3 earlychapter1 HOGWARTS HALL ink-and-paint style/light/proportions. Keep target's daytime windows/lamp placement, no new scene.\n\nGLOBAL COLOR: neutralGRAY castle stone/trueBLACK robes/natural skin/BROWN Hermione curls/BROWN eyes, BURDEOS-GOLD Gryffindor and GREEN-SILVER Slytherin. Pansy chinlength bob naturallyBLACK with soft neutralgray sheen, remove dyed-looking RED/PURPLE/MAGENTA ends. Ginny LONG NATURAL RED hair/BLUE eyes remains RED, Ron naturallyGINGER-RED and HarryBLACK/ROUNDglasses/established iris color unchanged. Lavender BLONDE CURLS/BURDEOS bow/Gryffindor unchanged. Keep MC GONAGALL mature GRAYhair/GREEN pointed HAT/GREEN robe. Dean BLACK skin/BLACKcurls/GRYFFINDOR with Seamus BROWNhair/Gryffindor. Preserve GOLD/AMBER only locally in existing lamps and desk reflections, gentler contrast/saturation/rimlights, cool WHITE-BLUE daylight through existing windows; no global orange skin/hair. Early drawn finish, not flatgray or photorealistic.\n\nUPPER-RIGHT SECOND PANEL ONLY: PANSY (BLACK bob/GREEN eyes/Slytherin, holding paper beside Hermione/McGonagall) is HUMAN, but the visible right-side ear is accidentally long and pointed. Restore a SMALL NATURALLY ROUNDED HUMAN EAR tucked beneath the same BLACK bob. No point/tip extending outward. Keep ear location, face/jaw/eyes/hair silhouette/expression exactly otherwise, matching approved human Pansy in Image2. Do not turn her into an elf or change any other character's ears. Other human anatomy remains target in this pass.\n\nLOCK NINEPANELS: Lavender writing with \"Gossip Witch\" paper; McGonagall congratulates H/P with parchment; Harry/Ron walking away; Ginny/Hermione hall conversation; farewell FRIENDLY hug; Hermione at workshop door. Every gesture/bag/book/housecrest remains. All Spanish captions/dialogue EXACTLY, \"Gossip Witch\" unchanged and door sign EXACT \"TALLER DEL PROYECTO QUINTO PISO\". No new words, recipes, props/signature/painted watermark. Return complete corrected page. Color plus local ear correction only, broad proportion audit remains separately recorded.\n",
+  "review": "Panelcount andorder/exactdialogue/speakers/iris/hairstyles/housecolors/clothes/props preserved; neutralGRAY stone/trueBLACK/NAVY/natural skin-BROWN hair/localAMBERandCOPPER. Existing magic marks remain fantasy, no new instructions. Original transcript identical. Pansy human ear/black hair and first-panel Seamus chestnut hair restored; Ron and Ginny keep RED hair.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [
+    {
+      "file": "c05-p008-correccion-seamus.txt",
+      "prompt": "Use case: precise-object-edit. ONE hair-color continuity fix ONLY. In FIRST PANEL, background at UPPER RIGHT behind blonde Lavender, the shorter boy walking with BLACK DEAN is SEAMUS FINNIGAN. His short tousled hair is CHESTNUT BROWN, not Ron's vivid orange-red. Restore natural CHESTNUT BROWN hair with restrained warm highlights, exactly like SEAMUS in Image2 LAST PANEL beside DEAN. Preserve his exact hair shape/face/expression/uniform/body/pose.\n\nDo NOT change RON in the SECOND ROW WIDE PANEL: Ron on right there stays GINGER-RED. Do NOT change red-haired Ginny, brown-haired Hermione, blonde Lavender or any other figure. PANSY'S rounded HUMAN EAR and BLACK bob in upper-right SECOND PANEL are already correct and stay unchanged. All NINE panels, every exact word/balloon/tail/caption/header/sign, natural corrected palette/lighting, every identity/iris/costume/prop/action otherwise EXACTLY preserved. Return full page, no new mark or watermark.\n"
+    }
+  ],
+  "additionalCorrections": {
+    "PansyEar": "Upper-right second-panel pointed ear restored to naturally rounded HUMAN ear under BLACK bob.",
+    "SeamusHair": "First-panel boy with Dean restored CHESTNUT distinct from RED-haired Ron in second row.",
+    "unapprovedVariantPreserved": "exec-ee35be4c-a264-43d9-aca3-5f0a42974ebd.png"
+  }
+}

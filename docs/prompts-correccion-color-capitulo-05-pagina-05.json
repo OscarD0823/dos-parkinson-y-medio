@@ -1,0 +1,17 @@
+{
+  "chapter": 5,
+  "page": 5,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast correction only; human proportions remain under separate review. No new page count.",
+  "master": "exec-f8de413f-2913-41e0-808f-ed14bcdf47f5.png",
+  "versionedImage": "paginas/c05-p005-color-v2.webp",
+  "originalPreserved": "paginas/c05-p005.webp",
+  "originalSha256": "51434f98e1a6de9e92622b075b0efd76b212ce12ea0143268b772cded01c329f",
+  "promptFile": "c05-p005-color-v2-prompt.txt",
+  "prompt": "Use case: lighting-weather / style-transfer. EDIT Image1, the published chapter5page5. COLOR AND CONTRAST ONLY. Preserve ALL NINE PANELS/order/story/actions, every exact Spanish word/balloon/tail/caption and upper-left header \"Capítulo 5 · 05\", all established faces/iris/hair/uniforms/poses/objects. Image2 approved corrected precedingpage4 palette, Image3 early chapter1 ink-and-paint finish only. Do not copy scenes or dialogue from references.\n\nRestore continuity: NEUTRAL GRAY stone, true neutralBLACK robes, NAVY Elsie robe, natural pale/peach/brown skin, Hermione natural BROWN curls/BROWN eyes/GryffindorBURDEOS-GOLD, Pansy natural BLACK bob/GREEN eyes/SlytherinGREEN-SILVER. Remove accidental RED/PURPLE dyed-looking streaks/ends from PANSY ONLY while preserving her exact bob; restrained lamp-edge reflection only. Ron stays naturally GINGER-RED, Harry BLACK with ROUND glasses and established iris color. All housecolor identities unchanged.\n\nReduce GLOBAL ORANGE/YELLOW cast, oversaturated gold rims, harsh contrast/crushed shadows; retain depth/readable inked finish. AMBER stays LOCAL to existing lanterns and COPPER cauldron reflections, subtle neutral/cool ambient fill, no new window. Existing WHITE FOAM and soft WHITE magical cloud stay WHITE, colored magic wandlight stays as target. No added spill, sparks or figures. The protective interaction/other original poses stay exactly, all clothes fully preserved. Snape angular PALE adult/BLACK shoulderlength hair/BLACK highcollar, Elsie GRAY lowbun/OVALglasses/NAVY professional robe/SAPPHIREpendant. All narrative gestures and expressions remain.\n\nKeep every printed sentence and punctuation EXACTLY, including final cream caption \"Pansy Parkinson la había protegido.\" and \"¡Deletrius!\" spell text as target, no new diagrams/recipe/instruction/words. Original anatomy stays unchanged in this color pass; proportions remain separately open in the audit. No signature or painted watermark. Return complete corrected portrait page.\n",
+  "review": "Panelcount andorder/exactdialogue/speakers/iris/hairstyles/housecolors/clothes/props preserved; neutralGRAY stone/trueBLACK/NAVY/natural skin-BROWN hair/localAMBERandCOPPER. Existing magic marks remain fantasy, no new instructions. Original transcript identical.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": []
+}
