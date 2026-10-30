@@ -1,0 +1,27 @@
+{
+  "chapter": 6,
+  "page": 18,
+  "tool": "ImageGen integrada",
+  "scope": "LOCAL Theo CHESTNUT hair and Hermione BROWN curls in two spectator appearances, adjacent excessive yellow rim softened. Field palette and game actions preserved.",
+  "master": "exec-b99254ba-fc35-4af1-ba43-ead3ea37976c.png",
+  "versionedImage": "paginas/c06-p018-color-v2.webp",
+  "originalPreserved": "paginas/c06-p018.webp",
+  "originalSha256": "4a9507e3e4e6041bd505baa1da224a9cab5860f6f1a5f4fd5bc446835de7523f",
+  "promptFile": "c06-p018-cabellos-local-v2-prompt.txt",
+  "prompt": "EDITAR PRIMERA imagen, página18 capítulo6 del cómic español. Solo correcciones LOCALES de cabello, sin filtro global. Conservar OCHO viñetas, todos los encuadres/jugadas/poses/objetos, palabras/globos/cartelas y colores del exterior. No nueva historia ni cambios de proporciones atléticas.\n\n1. THEO NOTT, cazador de Slytherin que lleva la Quaffle ROJA en la SEGUNDA FILA y esquiva la Bludger en la QUINTA FILA cuando Millicent dice «¡Theo, cuidado!»: restaurar pelo CASTAÑO natural, no PELIRROJO/COBRIZO. Conservar rostro anguloso, iris VERDES, cuerpo y uniforme deportivo VERDE OSCURO/NEGRO largo/protecciones/guantes, sin gafas. SEGUNDA referencia c06-p013 corregida aporta identidad/pelo de Theo en últimos dos cuadros. No es Bastian ni Ron.\n2. HERMIONE en sus DOS apariciones de espectadora (TERCERA fila central con Daphne/Luna y CUARTA fila izquierda diciendo «Acábalos.»): restaurar rizos CASTAÑOS naturales en vez de rojo-naranja y suavizar solo halo amarillo excesivo junto a esos rizos. Mantener exactamente facciones/pecas/iris CAFÉS/expresiones y SUDADERA GRIS larga con parche VERDE/serpiente. TERCERA referencia c06-p015 corregida aporta ese cabello y esa sudadera, sin copiar sus escenas.\nCUARTA referencia c01-p001: solo dibujo inicial de tinta limpia/pintura suave, no copiar ropa/escenas/letras.\n\nTodo lo demás conserva colores y formas: Ginny pelo ROJO LARGO/AZULES/kit BURDEOS-ORO; Pansy bob NEGRO/VERDES/kit VERDE-NEGRO; Blaise NEGRO/rizos NEGROS/CAFÉS; Millicent rizada robusta y Matilda de coleta mantienen sus diseños y ropa. Daphne RUBIA/AZULES/uniforme Slytherin y bandera; Luna RUBIO PÁLIDO/AZULES/Ravenclaw AZUL-BRONCE/bufanda SERPIENTE DE PELUCHE verde patchwork/costuras negras/lengua roja y trompeta DORADA. Conservar manos, guantes, escobas, Quaffle ROJA, Bludger NEGRA, césped VERDE/cielo AZUL/nubes BLANCAS/aros DORADOS y público/banderas.\n\nMARCADOR Y TEXTO INALTERADOS: «SLYTHERIN 210» y «GRYFFINDOR 60», en el mismo tablero, no cambiar ningún dígito/etiqueta. Cartela «Carter: ¡Otra anotación! Slytherin, 210. Gryffindor, 60.»; Hermione «Acábalos.»; Millicent «¡Theo, cuidado!». Header pequeño «Capítulo 6 · 18». Copiar exactamente cada letra/acento/signo/cola de globo del target. Mantener acción deportiva fantástica y todas las demás viñetas sin nuevo texto. Sin título/firma/marca pintada, el lector aplica crédito.\n",
+  "review": "Exact words, attribution, panel count/order, poses, uniforms, identities, sports actions and props checked against original. Existing outdoor palette retained; only documented local features changed. Original transcript identical; no added illustrated pages. Overall132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 8,
+  "additionalCorrections": {
+    "Theo": "CHESTNUT in second/fifth-row chaser panels, GREEN irises/green kit retained; distinct from Bastian COPPER and Ron RED.",
+    "Hermione": "BROWN curls/GRAY sweatshirt/GREEN patch retained in two spectator panels.",
+    "scoreboard": "Exact SLYTHERIN210 / GRYFFINDOR60 and matching narration preserved."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Existing athletic silhouettes/relative scales preserved; Carter cabin refinement17/19 matched approved older-student drawn design. No numeric height claims from flight/perspective."
+  }
+}

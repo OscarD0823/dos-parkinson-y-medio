@@ -1,0 +1,33 @@
+{
+  "chapter": 6,
+  "page": 17,
+  "tool": "ImageGen integrada",
+  "scope": "LOCAL Harry GREEN iris restoration and Carter cabin head/shoulder balance. Ron goalkeeper restored after unapproved candidate identity error; original game story unchanged.",
+  "master": "exec-8dd1fb97-5eca-43e1-92d6-a1995935f942.png",
+  "versionedImage": "paginas/c06-p017-color-v2.webp",
+  "originalPreserved": "paginas/c06-p017.webp",
+  "originalSha256": "c99b3759fa334ffcb22048e16bc3a7e9c14e78653c9df72286e839383bab2869",
+  "promptFile": "c06-p017-iris-carter-v2-prompt.txt",
+  "prompt": "EDITAR PRIMERA imagen, cómic español Capítulo6 página17. Solo DOS correcciones LOCALES; conservar la paleta exterior actual, las DIEZ viñetas físicas/encuadres, todas las jugadas/poses/objetos y CADA palabra/cartela/globo/hablante.\n\n1. HARRY en el pequeño recuadro inferior, pelo NEGRO despeinado/GAFAS REDONDAS/uniforme deportivo BURDEOS-ORO: restaurar iris VERDES del canon de este cómic en vez del azul del target. Conservar cara/ojos/expresión/gafas/cabello/cuerpo y ropa, sin otros cambios a Harry.\n2. CARTER McGRATH en el panel de cabina con MEGÁFONO DORADO, pelo NEGRO corto/ojos AZULES/Hufflepuff AMARILLO-NEGRO/camisa BLANCA/jersey GRIS: igualar el balance cabeza-cuello-hombros-torso de alumno mayor de su versión corregida en la SEGUNDA imagen (c06-p016, pequeño panel derecho del comentarista). Cabeza discretamente menor respecto a hombros/torso, cuello y hombros naturales dentro del MISMO encuadre de cabina; mantener sus facciones/BLUE iris/peinado/expresión/manos/megáfono/globo. No actor fotográfico, no profesor ni cambio de identidad. La TERCERA imagen c01-p001 es solo estilo inicial de tinta limpia/pintura suave.\n\nTodo el RESTO se conserva: Ginny ROJO largo en coleta/AZULES, Ron ROJO corto/pecas/AZULES, Pansy bob NEGRO/VERDES, Blaise piel NEGRA/rizos NEGROS/CAFÉS, Theo CASTAÑO/VERDES, Bastian COBRIZO/CAFÉS, equipos VERDE-NEGRO y BURDEOS-ORO completos largos/protecciones/guantes, escobas, Quaffle ROJA, aros DORADOS, banderas, público, campo VERDE/cielo AZUL. No filtro de color ni nuevas acciones/personajes/balones. Conservar tamaños de cuerpos y demás proporciones atléticas existentes.\n\nEncabezado pequeño «Capítulo 6 · 17». Copiar exactamente TODOS los textos del target, incluidos primera anotación Gryffindor/Ginny, charla Pansy-Ginny, control de Slytherin antes de diez minutos, gol de Pansy, narración de juego en equipo Parkinson-Zabini-Nott y cartela final de Gryffindor. Mantener cada signo/acento/cola de globo/nombre sin resumir ni añadir. Sin nueva firma/título/crédito pintado; el lector aplica marca automática.\n",
+  "review": "Exact words, attribution, panel count/order, poses, uniforms, identities, sports actions and props checked against original. Existing outdoor palette retained; only documented local features changed. Original transcript identical; no added illustrated pages. Overall132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [
+    {
+      "file": "c06-p017-correccion-portero.txt",
+      "prompt": "Editar SOLO UN CUADRO de la PRIMERA imagen candidata, página17 capítulo6. La SEGUNDA imagen es la página17 original y referencia exacta del cuadro que debe restaurarse. El resto de la primera imagen se conserva, incluidos Harry con iris VERDES y Carter correctamente proporcionado en su cabina del SEGUNDO NIVEL de la página.\n\nCUADRO A CORREGIR: QUINTA FILA, MITAD DERECHA, inmediatamente a la derecha del disparo de Pansy al aro. Lleva cartela «Carter: ¡Slytherin responde! ¡Gran gol de Pansy Parkinson!». Esa cartela es voz de narrador FUERA DE CUADRO. La persona que DEBE aparecer debajo es RON WEASLEY GUARDIÁN de Gryffindor, tal como la imagen2, no el comentarista ni un megáfono.\n\nRestaurar RON: cabello ROJO corto, pecas, ojos AZULES, mismo rostro sorprendido y cuerpo atlético de alumno mayor del original; uniforme deportivo BURDEOS-ORO largo con protecciones y guantes NEGROS. Ron va en su escoba, brazo izquierdo extendido hacia el balón que pasó por el aro, con su MISMA pose/encuadre/dirección del original. Mantener banderas y estadio detrás, trazos de velocidad, cartela y cada letra exacta. Eliminar de este ÚNICO cuadro al comentarista de pelo NEGRO y el megáfono DORADO erróneamente añadidos; aquí solo va Ron. Su piel es la de Ron del original, no cambiar ninguna otra persona.\n\nCARTER de pelo NEGRO/ojos AZULES/Hufflepuff AMARILLO-NEGRO/megáfono DORADO sigue ÚNICAMENTE en su cabina correcta en la SEGUNDA FILA IZQUIERDA. Ese cuadro ya corregido NO se cambia. HARRY inferior mantiene VERDES y gafas redondas, Ron inferior y todas las demás viñetas siguen intactos. No copiar los iris azules antiguos de Harry de la referencia2.\n\nConservar DIEZ viñetas, todos los textos/globos/atribuciones, color exterior, jugadas, tamaños, poses, ropas y demás objetos de la primera imagen. Edición local del portero en un cuadro solamente, sin nuevas palabras, títulos, firmas o marcas.\n"
+    }
+  ],
+  "panelCount": 10,
+  "additionalCorrections": {
+    "HarryIris": "GREEN in lower portrait, round glasses/BLACK hair unchanged.",
+    "CarterProportions": "Corrected only in actual cabin, older-student head/neck/shoulder relation, BLACK hair/BLUE eyes/Hufflepuff/gold megaphone retained.",
+    "goalkeeperPreserved": "Ron RED/BLUE/Gryffindor goalkeeper in fifth-row right restored to original, not Carter. Off-panel Carter caption preserved.",
+    "unapprovedVariantPreserved": "exec-9c6ace59-b6f4-46fc-84f4-b7eb778c4eae.png"
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Existing athletic silhouettes/relative scales preserved; Carter cabin refinement17/19 matched approved older-student drawn design. No numeric height claims from flight/perspective."
+  }
+}

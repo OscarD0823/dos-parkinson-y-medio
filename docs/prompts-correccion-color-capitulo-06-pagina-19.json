@@ -1,0 +1,29 @@
+{
+  "chapter": 6,
+  "page": 19,
+  "tool": "ImageGen integrada",
+  "scope": "LOCAL missing page header, Harry GREEN irises, Matilda BROWN irises, Theo CHESTNUT hair and Carter cabin head/shoulder balance. Outdoor palette/game actions preserved.",
+  "master": "exec-72661f14-b64e-40d1-818e-55081f3bb4bc.png",
+  "versionedImage": "paginas/c06-p019-color-v2.webp",
+  "originalPreserved": "paginas/c06-p019.webp",
+  "originalSha256": "77fde0ad7e081557698a446310d78d1f0001498050ff2cb1694b078f671df0d6",
+  "promptFile": "c06-p019-detalles-cabecera-v2-prompt.txt",
+  "prompt": "Editar PRIMERA imagen, página19 capítulo6 del cómic español. Conservar ONCE viñetas físicas, encuadres/orden, acciones deportivas/poses y TODOS los textos/globos/hablantes. La paleta exterior campoVERDE/cieloAZUL/estadio/banderas ya está equilibrada: mantenerla, no filtro global. Solo siguientes correcciones LOCALES:\n\n1. Añadir encabezado pequeño NEGRO «Capítulo 6 · 19» arriba IZQUIERDA en el margen crema superior existente, coherente con capítulos iniciales. No un gran título, no cubrir dibujo ni cortar viñetas.\n2. HARRY en las DOS viñetas INFERIORES que persigue Snitch con Draco: iris VERDES, pelo NEGRO despeinado/GAFAS REDONDAS/kit BURDEOS-ORO largo protector/guantes rojos existentes, misma identidad/expresión/pose. SEGUNDA referencia c06-p017 corregida aporta Harry verde en recuadro inferior. No alterar Draco PLATINO/GRIS-AZUL/kit VERDE-NEGRO.\n3. MATILDA KAVANAGH, chica de COLETA CASTAÑA que usa bate sobre Bludger NEGRA en TERCERA FILA ancha: ojos CAFÉS, no azules. Misma cara angulosa/peinado/ropa/complexión/pose/bate.\n4. THEO NOTT en CUARTA FILA DERECHA (junto a Ron en los aros) y SEXTA FILA DERECHA (celebración con Pansy/Blaise): pelo CASTAÑO natural, no rojo/cobrizo; iris VERDES, mismo rostro/kit VERDE OSCURO-NEGRO y cuerpo atlético. TERCERA referencia c06-p013 corregida aporta solo identidad de Theo en últimas dos viñetas. No cambiar a Ron ROJO/pecas/kit BURDEOS-ORO, ni Ginny ROJO LARGO/AZULES.\n5. CARTER únicamente en cabina SEXTA FILA IZQUIERDA, pelo NEGRO/AZULES/Hufflepuff AMARILLO-NEGRO/megáfono DORADO: igualar balance cabeza-cuello-hombros-torso de alumno mayor a su versión corregida de la SEGUNDA referencia, cabeza discretamente menor y hombros/torso proporcionados dentro del mismo recorte. Conservar facciones/iris/expresión/manos/megáfono/globo. NO añadir Carter a otras viñetas: las cartelas con su nombre son voz fuera de cuadro, y la persecución inferior sigue solo Draco/Harry.\n\nCUARTA referencia c01-p001 solo estilo inicial tinta limpia/pintura suave, no copiar actores/ropa/escenas/textos. Mantener todos los demás rostros/proporciones/uniformes completos/guantes/escobas/poses: Pansy bob NEGRO/VERDES, Blaise piel NEGRA/rizos NEGROS/CAFÉS, Ginny y Ron ROJOS originales. Todas las jugadas siguen iguales, Quaffle ROJA/Bludger NEGRA/Snitch DORADA alas PLATEADAS, aros DORADOS, público y trayectorias.\n\nCopiar palabra por palabra TODOS los textos de imagen1, incluidos «¡Parkinson!», «Por un segundo, el estadio contuvo el aliento.», comentario de gol de Pansy, «¡Draco!» y cartela final de Snitch/Malfoy-Potter cerca del suelo. Ningún diálogo nuevo o suprimido, mismas voces/acentos/signos. Sin firma ni crédito pintado, margen crema con header discreto y crédito automático del lector.\n",
+  "review": "Exact words, attribution, panel count/order, poses, uniforms, identities, sports actions and props checked against original. Existing outdoor palette retained; only documented local features changed. Original transcript identical; no added illustrated pages. Overall132-page audit incomplete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "panelCount": 11,
+  "additionalCorrections": {
+    "header": "Small upper-left Capítulo6·19 restored in original cream margin.",
+    "Harry": "GREEN in two lower chase panels, BLACK hair/round glasses/kit unchanged.",
+    "Matilda": "BROWN irises in ponytail beater panel.",
+    "Theo": "CHESTNUT/GREEN in pass and group-celebration panels.",
+    "Carter": "Cabin only: proportions consistent with approved17, no duplicate commentator added under off-panel narration."
+  },
+  "visibleProportionsCheck": {
+    "reviewed": true,
+    "finding": "Existing athletic silhouettes/relative scales preserved; Carter cabin refinement17/19 matched approved older-student drawn design. No numeric height claims from flight/perspective."
+  }
+}
