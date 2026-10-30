@@ -1,0 +1,21 @@
+{
+  "chapter": 5,
+  "page": 11,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast and documented local continuity corrections; broader human-proportion audit remains open. No new page count.",
+  "master": "exec-714afd7f-cbe6-4a82-87f1-529846f0a9ec.png",
+  "versionedImage": "paginas/c05-p011-color-v2.webp",
+  "originalPreserved": "paginas/c05-p011.webp",
+  "originalSha256": "fdd24a34632792302ef9db50d06cf2313fc9585256fe5c3f7ae8d920db7291b5",
+  "promptFile": "c05-p011-color-equipos-v2-prompt.txt",
+  "prompt": "Use case: style-transfer / precise-object-edit. EDIT Image1, published chapter5page11. Preserve ALL EIGHT panels/story/every exact Spanish word/balloon/tail/caption/header \"Capítulo 5 · 11\", faces/iris/hair/ordinary standing poses/props. Correct color and TWO continuity issues: Daphne's house piping and final-panel project groups. Image2 chapter4page1 is the SAME workshop/Blair and early ink-and-paint COLOR reference only; do not copy its title/text. Image3 corrected recent natural palette reference, not its corridor scene.\n\nWorkshop DAYLIGHT, GRAY stone/WOOD shelves/CREAM cushions/WHITE-BLUE windows/natural GREEN ivy, natural skin/BROWN hair, soft LOCAL warm lamps/sun patches, no global orange/yellow cast or hardgold rims. Restore trueBLACK tracksuits/NAVY teacher, gentle contrast, natural painterly depth. All students ALREADY wear the same loose opaque BLACK LONG-SLEEVE high-neck SWEATSHIRTS and LONG BLACK PANTS, narrow house piping/crest; same outfits/poses, no changes in scene. Blair ADULT instructor BLUE eyes/CHESTNUT LOW PONYTAIL/NAVY TURTLENECK/LONG NAVY TROUSERS, same approved face. Hermione BROWN curls/freckles/BROWN eyes/BURDEOS-GOLD piping; Pansy BLACK bob/GREEN eyes/GREEN-SILVER piping/human ears, no dyed-looking red-purple ends. Blaise BLACK skin/shortBLACKcurls/BROWN eyes/GREEN-SILVER. Theo short CHESTNUT hair/GREEN eyes/no glasses/GREEN-SILVER. Luna LONG PALEBLONDE/BLUE eyes/BLUE-BRONZE. Daphne LONG WAVY BLONDE/BLUE eyes/GREEN-SILVER.\n\nHOUSE CORRECTION: in FIRST WIDE PANEL the long wavyBLONDE girl immediately RIGHT OF HERMIONE is DAPHNE, a SLYTHERIN, NOT Sophie. Change the accidentally YELLOW piping of HER tracksuit to GREEN with thin SILVER accent, matching Blaise/Pansy/Theo. Same correction for Daphne in LAST PANEL. Keep Luna's BLUE-BRONZE and Hermione's BURDEOS-GOLD distinct. No Sophie/Mandy/Lavender added to this page.\n\nLAST SILENT PANEL ONLY: keep EXACT SIX STUDENTS standing in their existing three spaced project groups, ordinary upright poses/hands to themselves and original human sizes. Correct team continuity by exchanging ONLY the positions of the two BLONDE girls: HERMIONE with PANSY LEFT (unchanged), BLAISE with DAPHNE CENTER, THEO with LUNA RIGHT. Daphne is LONG WAVY BLONDE/BLUE eyes/GREEN-SILVER; Luna LONG PALEBLONDE/BLUE eyes/BLUE-BRONZE. The boys/H/P keep their positions. No new contact/exercise/action/words, same loose complete tracksuits and personal space. Other panels' positions unchanged because they are still forming a circle.\n\nPreserve all exact eight-panel dialogue including yogurt joke, Blair's instructions and first caption. No new movement demonstration or new text/title/signature/painted watermark. Return complete page. Human drawing anatomy elsewhere is unchanged, broader proportion review separate; this edit changes color and final group placement only.\n",
+  "review": "Original panel count/order, exact words and speech attribution checked against original transcript. Natural color balance and initial-chapter style retained. Canonical iris/house/identity fixes listed separately. Original transcript identical. No claim that the 132-page proportion audit is complete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "DaphneHousePiping": "GREEN-SILVER Slytherin instead of yellow in first-wide and final panels.",
+    "finalProjectPairs": "Only blonde partners exchanged in final silent panel to restore Blaise/Daphne and Theo/Luna; Hermione/Pansy unchanged."
+  }
+}

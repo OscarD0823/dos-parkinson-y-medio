@@ -1,0 +1,20 @@
+{
+  "chapter": 5,
+  "page": 10,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast and documented local continuity corrections; broader human-proportion audit remains open. No new page count.",
+  "master": "exec-04bd8a8c-339c-432f-8428-739771c0addc.png",
+  "versionedImage": "paginas/c05-p010-color-v2.webp",
+  "originalPreserved": "paginas/c05-p010.webp",
+  "originalSha256": "48e59f2c6ada7ce001e2270a29701685f87533da274969aed889b17b112d4366",
+  "promptFile": "c05-p010-color-iris-v2-prompt.txt",
+  "prompt": "Use case: style-transfer / precise-object-edit. EDIT Image1, published chapter5page10. Preserve ALL NINE panels/story/order/every exact Spanish word/balloon/tail/header \"Capítulo 5 · 10\", established faces/hairstyles/uniforms/poses/backpacks/props. Correct global COLOR/CONTRAST and restore established IRIS colors where target drifted. Image2 previouspage9 corrected palette/identities Hermione-Sophie/hall. Image3 PANSY BLACK bob/GREEN eyes/human ear identity only. Image4 EARLY chapter1 ink-and-paint style. Do not copy reference scenes or words.\n\nNATURAL DAYLIGHT HALL: NEUTRALGRAY stone/trueBLACK robes/GRAY sweaters/WHITE collars/BLUE-WHITE windows/natural pale-peach skin. HERMIONE naturalBROWN curls/freckles/BROWN eyes/GryffindorBURDEOS-GOLD. SOPHIE HONEYBLONDE shoulderlength loose waves/BROWN eyes/HufflepuffYELLOW-BLACK/NO bow. PANSY naturalBLACK chinlength bob/GREEN eyes/SlytherinGREEN-SILVER, naturally rounded HUMAN ears. DAPHNE LONG WAVY BLONDE/BLUE eyes/Slytherin. ASTORIA STRAIGHT LONG DARK-CHESTNUT hair/COOL GRAY irises with subtle gray-blue tone/Slytherin; NOT BROWN irises. Keep these exact iris colors in EVERY panel: restore GREEN irises on Pansy particularly her second-row-wide closeup, COOL GRAY on Astoria especially right-side and final panels. Same eyeshape/expression/face, iris-color correction only, never swap identities. Keep Ron/Ginny absent as target, no new person.\n\nRemove GLOBAL ORANGE/YELLOW cast and dyed-looking RED/MAGENTA/PURPLE tips from PANSY'S BLACK hair. H brown curls/Sophieblonde/Astoria darkchestnut remain distinct natural colors. AMBER/GOLD local to lamps and existing wood reflections, bright cool daylight through existing windows, gentler contrast/saturation/rimglow but preserve painterly depth. No new window or scene. Body proportions/poses unchanged in this pass.\n\nSame ordinary fully uniformed group discussion at normal distance, all9panels and gestures preserved. Workshop door sign copies target EXACT \"Taller de Proyectos\", not another page's sign. Small toy unicorn/shelf props unchanged. Every printed sentence and accent EXACT, no additional words/caption/diagram/signature/watermark. Return full corrected portrait page, color plus canonical iris restoration only.\n",
+  "review": "Original panel count/order, exact words and speech attribution checked against original transcript. Natural color balance and initial-chapter style retained. Canonical iris/house/identity fixes listed separately. Original transcript identical. No claim that the 132-page proportion audit is complete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "canonicalIrisRestoration": "Pansy GREEN and Astoria cool GRAY/GRAY-BLUE restored where original drifted brown. Hermione BROWN, Sophie BROWN and Daphne BLUE preserved."
+  }
+}

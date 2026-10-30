@@ -1,0 +1,20 @@
+{
+  "chapter": 5,
+  "page": 9,
+  "tool": "ImageGen integrada",
+  "scope": "Reviewed color/contrast and documented local continuity corrections; broader human-proportion audit remains open. No new page count.",
+  "master": "exec-8d56e631-ef88-4f0f-bf9d-81b7806a370b.png",
+  "versionedImage": "paginas/c05-p009-color-v2.webp",
+  "originalPreserved": "paginas/c05-p009.webp",
+  "originalSha256": "4acc6c694742290bb2d3297ecee3216a55f215af7c97f6699c9d01c49a6b893d",
+  "promptFile": "c05-p009-color-v2-prompt.txt",
+  "prompt": "Use case: lighting-weather / style-transfer. EDIT Image1, published chapter5page9. COLOR AND CONTRAST ONLY. Preserve ALL EIGHT panels/story/order/every exact Spanish sentence/balloon/tail/header \"Capítulo 5 · 09\", faces/iris/hair/house uniforms/poses/backpacks and corridor objects. Image2 corrected previouspage8 palette; Image3 EARLY chapter1 scene of the SAME Hermione/Sophie and Hogwarts hallway, supplies natural daylight/ink-and-paint finish/identity. Do not copy reference text/scenes.\n\nHERMIONE BROWN voluminous curls/FRECKLES/BROWN eyes/GryffindorBURDEOS-GOLD, SOPHIE shoulderlength HONEYBLONDE loose waves/BROWN eyes/HufflepuffYELLOW-BLACK, no bow. Keep identities/age appearance/drawn proportions exactly, matching early reference. Natural BROWN hair and BLONDE stay distinct, not saturated orange. Stone walls NEUTRAL GRAY, robes trueBLACK, sweaters GRAY, collarsWHITE, natural pale/peach skin. Existing daylight through BLUE-WHITE leaded windows stays bright/cool; AMBER/GOLD is local to lamps, no global orange/yellow cast or strong gold rims. Gentler saturation/contrast while keeping depth/readable painterly ink lines, no new window or object.\n\nSame ordinary corridor conversation at normal distance, all fully uniformed, no flashback/extra scene/contact or new action. Preserve every exact line and accent from image target, each speaker/tail and expressions, all 8 panel sizes/composition/header. No added words/caption/signature or painted watermark. Return complete corrected page; broader proportion checks are separate from this color pass.\n",
+  "review": "Original panel count/order, exact words and speech attribution checked against original transcript. Natural color balance and initial-chapter style retained. Canonical iris/house/identity fixes listed separately. Original transcript identical. No claim that the 132-page proportion audit is complete.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "color": "Neutral corridor stone, softer contrast, natural skin and brown hair, original house colors; no geometry or identity change."
+  }
+}
