@@ -1,0 +1,26 @@
+{
+  "chapter": 7,
+  "page": 17,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-b55d2cdc-08ae-4319-943e-b56aa98edd6a.png",
+  "versionedImage": "paginas/c07-p017-color-v2.webp",
+  "originalPreserved": "paginas/c07-p017.webp",
+  "originalSha256": "8c70dddf98a06cf5bd2e54d045003237d7041844b572c64ba29b366fd518d585",
+  "promptFile": "c07-p017-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página17 capítulo7 del cómic español. Conservar TODAS las viñetas y recuadro pequeño de reacción, marcos, distribución, orden, objetos, palabras EXACTAS y atribución de globos/cartelas. Escena fantástica cotidiana del proyecto mágico escolar en la oficina de Elsie, con uniformes completos y cuna con velo BLANCO; respetar cada acción original sin añadir explicaciones.\n\nReducir naranja/amarillo global y contraste excesivo; rizos CASTAÑOS naturales de Hermione, NEGROS con detalle, BLANCOS/CREMA claros, piedra GRIS, piel natural y madera CASTAÑA. Mantener cortinas/ventanas AZULES, ropa NAVY de Elsie, plantas VERDES, reflejos ÁMBAR LOCALES de lámparas y frasco fantástico ÁMBAR, metales dorados propios. SEGUNDA referencia c07-p004-color-v2 aporta caras/negros/castaños del alumnado; TERCERA c01-p001 dibujo inicial y CUARTA c04-p012 equilibrio nocturno entre frío y luz cálida local. No copiar otras escenas o ropa.\n\nHermione conserva CAFÉS/pecas/rizos CASTAÑOS/Gryffindor BURDEOS-ORO, Pansy bob NEGRO/VERDES/orejas HUMANAS/Slytherin VERDE-PLATA. Elsie conserva rostro ADULTO ANCIANO propio, pelo GRIS recogido/rizos, gafas OVALADAS, túnica NAVY cerrada y colgante de águila con piedra AZUL. Mantener proporciones, manos, siluetas, gestos y expresiones originales; no agrandar cabezas/ojos o variar estaturas por primeros planos. Conservar velo/manta/cuna y mano pequeña del MUÑECO cubierto que aparece al final, sin anticipar su cara.\n\nMantener EXACTOS todos los textos de la primera imagen: pregunta inicial de Elsie, pregunta/respuesta sobre si ya está ahí, fin de la simulación MÁGICA FICTICIA, cartela de sensación reconfortante, «¿Cómo te sientes?», «Diferente. Es una sensación extraña.», explicación de descanso, «Creo que alguien está listo para conocerlas.», «¿Listo?» y «Pueden acercarse.». Misma ortografía/signos/colas; no añadir instrucciones, ingredientes, cantidades o datos nuevos.\n\nMover header pequeño «Capítulo 7 · 17» del CENTRO a ARRIBA IZQUIERDA, quitar solo sus adornos exteriores y conservar margen CREMA. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN/BLACK/GRAY/cream/blue/NAVY with localized amber lamps/fantasy potion, moderated contrast.",
+    "header": "Small upper-left header replaces centered decorated header.",
+    "continuity": "All original panels/inset/exact dialogue/full uniforms/Elsie elderly identity/covered toy hand behind veil retained; no premature face or new instructions."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T21:14:46.622166+00:00"
+}

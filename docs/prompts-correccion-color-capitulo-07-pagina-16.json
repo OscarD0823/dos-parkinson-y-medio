@@ -1,0 +1,26 @@
+{
+  "chapter": 7,
+  "page": 16,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-7b34381e-78b0-4a99-97be-7e8c05e26e59.png",
+  "versionedImage": "paginas/c07-p016-color-v2.webp",
+  "originalPreserved": "paginas/c07-p016.webp",
+  "originalSha256": "1398a4f25f6ca7a1d03bd1e832f4647f2dfd2a465ae4b2c8d9134ee7f17a42ca",
+  "promptFile": "c07-p016-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página16 capítulo7 del cómic español. Mantener TODAS las viñetas AMBIENTALES y marcos/distribución, sin personas ni retratos, así como TODOS los textos EXACTOS con voces identificadas. Es una entrega de MUÑECOS ENCANTADOS escolares, representada con puertas, equipaje y portadores.\n\nSuavizar naranja/amarillo global y contraste; piedra GRIS, madera CASTAÑA, bolsas NEGRO neutro con detalle, papeles/velos CREMA-BLANCO. Mantener ventanas/cortinas AZULES, vegetación VERDE, antorchas y lámparas ÁMBAR LOCAL, metales DORADOS propios y detalles del mobiliario. SEGUNDA referencia c04-p012 orienta relación de colores fríos/local ámbar; TERCERA c01-p001 tinta/pintura inicial. No copiar escenas o personas.\n\nPreservar portabebés DOBLE AZUL/LUNAS Y ESTRELLAS DORADAS con DOS asientos CREMA y UN muñeco completamente cubierto en CADA asiento, sin caras. Maletas VERDE PÁLIDO/LAVANDA; canastas cubiertas, bolsas oscuras y sus escudos del target. Oficina final AZUL con plantas/botánica, cuna de cortina BLANCA completamente CERRADA, sin mostrar a Robin. Mantener escalas coherentes de bolsas/muebles/canastas y sus posiciones.\n\nTodos los textos EXACTOS, incluidos «Millicent y Bastian fueron los primeros del grupo en salir.», «Bastian: ¡Es una niña!», llanto encantado detrás de puertas, «Luna y Theo salieron con dos muñecos.», «Astoria: Scorpius.», felicitación Daphne/Blaise, «Elsie: ¡Pansy y Hermione Parkinson!», «Pansy: ¿Lista?» y «Hermione: Hagamos esto.». No añadir nombres o voces.\n\nMover header pequeño negro «Capítulo 7 · 16» del CENTRO a ARRIBA IZQUIERDA y quitar solo sus adornos exteriores. Mantener margen CREMA, marcos y cartelas. El crédito de autora se aplica automáticamente en el lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural GRAY/BLACK/wood/cream/blue with local amber/gold, moderated global orange/contrast.",
+    "header": "Small upper-left header replaces centered decorated header.",
+    "continuity": "Environmental composition/named voices/exact words retained. Double BLUE/GOLD carrier has two covered dolls/no faces; pale GREEN/LAVENDER cases; office cot WHITE curtain closed; no people added."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T21:12:02.471432+00:00"
+}

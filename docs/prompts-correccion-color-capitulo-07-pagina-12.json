@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 12,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-cdb85209-f6ea-47d9-aa1a-676c369d56e4.png",
+  "versionedImage": "paginas/c07-p012-color-v2.webp",
+  "originalPreserved": "paginas/c07-p012.webp",
+  "originalSha256": "986f75859bb0e753ffcdef9620f51d4dd63ac92cff964d368edf9024f76bee42",
+  "promptFile": "c07-p012-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página12 capítulo7 del cómic español. Conservar SIETE viñetas, orden, conversación tranquila, breve gesto de manos del original, despedida AMBIENTAL sin figuras de sexta viñeta, y gesto final de Sophie alejándose. Mantener TODOS los textos, globos, cartelas y hablantes EXACTOS.\n\nRecuperar color natural/pintura suave inicial: reducir naranja/amarillo global y contraste excesivo. Hermione conserva rizos CASTAÑOS naturales/CAFÉS/pecas/uniforme completo Gryffindor NEGRO-BURDEOS-ORO/camisa BLANCA/jersey GRIS/libro VERDE con ORO. Sophie conserva pelo RUBIO MIEL ondulado hasta hombros/CAFÉS/uniforme completo Hufflepuff NEGRO-AMARILLO/camisa BLANCA/jersey GRIS/bolso MARRÓN, sin lazo. La SEGUNDA referencia c01-p001 aporta sus identidades y dibujo inicial; TERCERA c07-p003 corregida orienta cabello CASTAÑO/negros detallados. No cambiar caras, rasgos, iris, expresión, manos, ropa o siluetas de alumnas mayores.\n\nBiblioteca con madera CASTAÑA natural, libros de colores propios, piedra GRIS y ventanas de luz diurna suave. Conservar velas ÁMBAR solo como luces LOCALIZADAS. Mantener distancia/perspectiva de Sophie al fondo y Hermione delante en la última viñeta; no convertir esa perspectiva en un cambio de altura real. Todas las figuras siguen DE PIE con uniformes completos.\n\nConservar EXACTAS todas las palabras del target: propuesta de repetir cita, respuesta completa de Hermione sobre exámenes/proyecto, agradecimiento/propuesta de tiempo de Sophie, «Sí, me gustaría mucho.», «Mientras tanto, ¿nos escribimos? Solo hablar, como antes.», «Eso me encantaría.», cartela «Sophie: Hasta entonces, Hermione.» y «Sentía una extraña mezcla de ilusión y culpa.». No añadir escenas ni resolver decisiones todavía. Encabezado pequeño arriba izquierda «Capítulo 7 · 12», marcos negros/márgenes CREMA. Crédito automático en el lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN Hermione/HONEY BLONDE Sophie, neutral BLACK/GRAY/white/wood, localized warm light and soft daylight instead of global orange/contrast.",
+    "continuity": "Seven library panels, exact conversation/brief original hand gesture/environmental goodbye/final perspective, full Gryffindor/Hufflepuff uniforms and approved faces preserved."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:57:14.345882+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 10,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-609b273c-c006-45cd-8c73-37aa0714aec6.png",
+  "versionedImage": "paginas/c07-p010-color-v2.webp",
+  "originalPreserved": "paginas/c07-p010.webp",
+  "originalSha256": "fee2f2b7c22a20a0416f9f6a601293372e00fe72fda8329472af9fd54e7d5433",
+  "promptFile": "c07-p010-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página10 capítulo7 del cómic español. Conservar SIETE viñetas, orden, personajes, poses, libro, cojines, sillones, gestos y CADA palabra/globo/hablante EXACTOS. Es una conversación de apoyo entre Theo, Pansy y Blaise en la sala común de Slytherin, con uniformes completos.\n\nRecuperar color natural y pintura suave inicial: reducir naranja/amarillo global y contraste agresivo. Piedra GRIS, uniformes NEGRO neutro con detalle, camisas BLANCAS, jerseys GRISES, ribetes/corbatas VERDE-PLATA, sillones VERDE OSCURO, madera CASTAÑA. Conservar fuego de chimenea y lámparas ÁMBAR LOCAL, reflejos cálidos puntuales y detalles dorados. La SEGUNDA referencia c07-p003 corregida aporta identidades/castaños/negros naturales; TERCERA c01-p001 tinta/pintura inicial; CUARTA c04-p012 solo equilibrio entre sombras/colores propios y ámbar localizado. No copiar escenas, ropa diferente o muebles.\n\nTheo conserva pelo corto CASTAÑO natural, iris VERDES, rostro anguloso y proporciones de alumno mayor; Blaise piel NEGRA natural/rizos cortos NEGROS/iris CAFÉS; Pansy bob NEGRO liso/iris VERDES/orejas HUMANAS. Mantener expresiones, caras, manos, cabeza-cuello-hombros-torso y complexiones del target. Libro VERDE con filigranas, cojín VERDE y movimiento suave del cojín preservados.\n\nTodos los textos EXACTOS de la primera imagen: pregunta de Blaise, consejos completos de Theo sobre Daphne/Hermione, «Y no, ella tampoco va a cambiarte por el muñeco.», «Las dos son increíbles y, por alguna razón, se conformaron con ustedes.», «Estoy bromeando.», consejo final y «Está bien. Pero falta resolver una cosa.». No omitir frases ni cambiar atribuciones. Encabezado pequeño arriba izquierda «Capítulo 7 · 10», márgenes/cartelas CREMA y marcos negros limpios. El crédito de autora lo añade automáticamente el lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural CHESTNUT Theo/neutral BLACK/GRAY/white/green with local AMBER fire and lamps, softened global orange/contrast.",
+    "continuity": "Seven common-room panels, exact support conversation/attributions/book/soft cushion motion, complete Slytherin uniforms and approved identities preserved."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:52:00.419423+00:00"
+}

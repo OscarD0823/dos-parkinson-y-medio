@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 9,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-022012ab-814d-419a-a1ad-9b4c94c346c3.png",
+  "versionedImage": "paginas/c07-p009-color-v2.webp",
+  "originalPreserved": "paginas/c07-p009.webp",
+  "originalSha256": "1bd8bd3f8558f6f680e4b6a48d46ac6ad38efb95ad550ad8c917897d348b1f26",
+  "promptFile": "c07-p009-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página9 capítulo7 del cómic español. Conservar SIETE viñetas, orden, encuadres, gestos cotidianos, objetos, CADA palabra y atribución de globos/cartelas. Primera parte: dormitorio de noche con DOS CAMAS INDIVIDUALES SEPARADAS y UNA cuna VACÍA entre ellas. Segunda parte: conversación de Pansy, Blaise y Theo uniformados en la sala común.\n\nReducir dominante naranja/amarilla global y contraste intenso. Hermione conserva rizos CASTAÑOS naturales, CAFÉS, pecas, pijama BURDEOS largo cerrado/ribetes ORO y manta VERDE. Pansy conserva bob NEGRO/VERDES y su pijama NEGRO largo cerrado/manta VERDE en su propia cama. Mantener ventana AZUL-TURQUESA del lago, cortinas/colchas VERDES, madera CASTAÑA OSCURA y cuna VACÍA con luna/estrellas DORADAS/colchón CREMA. La SEGUNDA referencia c07-p007 corregida orienta su paleta nocturna y apariencia; no cambiar los gestos o encuadres de la primera imagen.\n\nEn la sala común: piedra GRIS natural, sillones VERDE OSCURO, uniformes NEGRO neutro con detalle/VERDE-PLATA/camisas BLANCAS/jerseys GRISES. Conservar chimenea y lámparas ÁMBAR como luz LOCAL y detalles dorados, sin teñir toda la piedra/piel de naranja. Blaise piel NEGRA natural/rizos cortos NEGROS/CAFÉS; Theo corto CASTAÑO/VERDES/rostro anguloso/sin gafas; Pansy bob NEGRO/VERDES/orejas HUMANAS. La TERCERA referencia c07-p003 corregida orienta cabello/iris/ropa de esos personajes, no copiar comida o mesa. CUARTA c01-p001 solo acabado inicial de tinta/pintura suave. Mantener caras, manos, hombros/torso y siluetas de alumnos mayores; no agrandar cabezas/ojos ni redimensionar muebles.\n\nTextos EXACTOS del target: «Pero no se lo digas a Pansy. Se volvería insoportable.»; «Gracias por escucharme, Robin. Es hora de dormir.»; «Ahora deseaba que llegara el viernes.»; «La víspera de la entrega.»; «¡Es mañana, Pans! ¡Es mañana!»; «Te escuchamos desde la primera vez.»; «Encontraremos la forma de organizarnos.»; «¡No hemos comprado ropa y ya se me olvidó cómo cambiar un pañal!»; «¿Y si Daphne deja de quererme?». Conservar libro, cojines y posiciones. Robin se menciona pero la cuna sigue VACÍA, no añadir muñecos. Header pequeño arriba izquierda «Capítulo 7 · 09». Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN curls/neutral BLACK/GRAY/white, cool lake and green textiles/chairs, local AMBER lamps/fire instead of global orange/high contrast.",
+    "continuity": "Seven panels, two separate beds/ONE EMPTY cot before delivery, independent transition to uniformed Pansy/Blaise/Theo; exact dialogue/book/props preserved."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:48:47.392231+00:00"
+}

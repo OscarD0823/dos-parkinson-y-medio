@@ -1,0 +1,26 @@
+{
+  "chapter": 7,
+  "page": 18,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-c361401d-dbf3-4823-8e99-1e27f605bdfe.png",
+  "versionedImage": "paginas/c07-p018-color-v2.webp",
+  "originalPreserved": "paginas/c07-p018.webp",
+  "originalSha256": "71fac1b436c7b494ed685164d997079e04ecf809c1f57632d361978d5fea9617",
+  "promptFile": "c07-p018-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página18 y cierre del capítulo7 del cómic español. Conservar TODAS las viñetas, marcos/distribución/orden, gestos, historia, TODOS los textos EXACTOS y atribución de globos. Es la primera presentación del MUÑECO DE TELA ENCANTADO Robin, vestido/cubierto/apoyado y único, con su diseño ya aprobado en el target.\n\nRecuperar color natural y contraste moderado: rizos CASTAÑOS de Hermione, NEGRO neutro con detalle, pieles naturales, telas CREMA-BLANCO claras, piedra GRIS y madera CASTAÑA. Conservar ventanas/cortinas AZULES, lámparas ÁMBAR LOCAL, metales DORADOS propios, ropa NAVY de Elsie y colores de casas. SEGUNDA referencia c07-p004-color-v2 orienta pelo/negros/ropa natural de Hermione y Pansy; TERCERA c01-p001 dibujo inicial; CUARTA c04-p012 solo relación entre frío y luz cálida localizada. No copiar escenas, objetos o nuevas personas.\n\nRobin conserva EXACTA cara de muñeco de TELA del target, iris VERDES, pequeño mechón CASTAÑO, mejillas rosadas, ropa OPACA CREMA y manta CREMA. Misma escala pequeña en cuna/brazos/manos humanas, una sola unidad, cuerpo y cabeza apoyados al pasar a Hermione. No cambiar rasgos, iris, vestuario, tamaño o quién lo sostiene. Hermione CAFÉS/rizos CASTAÑOS/pecas/Gryffindor BURDEOS-ORO, Pansy bob NEGRO/VERDES/orejas HUMANAS/Slytherin VERDE-PLATA. Elsie ANCIANA/GRIS/gafas OVALADAS/NAVY/colgante águila-piedra AZUL. Mantener caras, manos y proporciones adultas/alumnas mayores; no aumentar cabezas/ojos ni cambiar gestos.\n\nTextos EXACTOS del target: «Es perfecto.» de PANSY, «Hola.» de HERMIONE, cartela del proyecto que se vuelve más importante, pregunta del nombre de Elsie, «Aún no…» de Hermione, «Sí.» de Pansy y «Elsie, te presento a Robin Parkinson.» de Pansy. Misma atribución y colas. Mantener «Fin del capítulo 7» UNA sola vez abajo con letra negra discreta, quitando solo los pequeños adornos exteriores de esa leyenda.\n\nMover header pequeño «Capítulo 7 · 18» del CENTRO a ARRIBA IZQUIERDA y quitar solo sus adornos exteriores; margen CREMA. Conservar todos los demás dibujos y marcos. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN/BLACK/GRAY/CREAM/blue/NAVY/local amber, moderated global orange/contrast.",
+    "header": "Small upper-left header and single discreet black chapter-end caption; exterior ornaments removed.",
+    "continuity": "All original panels/words/speakers preserved, Pansy says Es perfecto; Robin unique cloth toy/GREEN/small CHESTNUT curl/CREAM dressed and wrapped/supported, original holders/scale/approved faces retained."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T21:17:58.627292+00:00"
+}

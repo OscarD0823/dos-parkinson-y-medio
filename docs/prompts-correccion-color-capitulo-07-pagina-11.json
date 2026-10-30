@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "page": 11,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-1976074d-92a6-4655-8d8b-9f376329ef40.png",
+  "versionedImage": "paginas/c07-p011-color-v2.webp",
+  "originalPreserved": "paginas/c07-p011.webp",
+  "originalSha256": "a59400af222e3638a19e4d523ace35063d1afc54f06f82f7d4e245789450ba4e",
+  "promptFile": "c07-p011-color-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página11 capítulo7 del cómic español. Conservar SIETE viñetas, orden, palabras EXACTAS, atribución de globos, encuadres, poses y objetos. Primeras DOS viñetas: Pansy, Blaise y Theo organizan materiales en la sala común. Otras CINCO: Hermione y Sophie conversan en la biblioteca; el libro levita como en el target.\n\nReducir dominante naranja/amarilla y contraste excesivos. Recuperar piedra GRIS, madera CASTAÑA, uniformes NEGRO neutro con detalle, camisas BLANCAS/jerseys GRISES, piel natural y rizos CASTAÑOS de Hermione. Mantener lámparas/velas ÁMBAR LOCALES y resplandor mágico DORADO LOCAL del libro, luz diurna suave en ventanas, colores propios de libros/tapizados. La SEGUNDA referencia c01-p001 fija dibujo inicial y las identidades de Hermione y Sophie; la TERCERA c07-p003 corregida aporta negros/castaños/colores de casa del grupo. No copiar sus escenas u objetos.\n\nHermione: rizos CASTAÑOS muy voluminosos/pecas/CAFÉS/Gryffindor BURDEOS-ORO, libro VERDE de filigranas ORO. Sophie: pelo RUBIO MIEL ondulado hasta hombros/iris CAFÉS/Hufflepuff AMARILLO-NEGRO, sin lazo. Conservar rostros propios y no confundirlas con Lavender. Pansy bob NEGRO/VERDES, Blaise piel NEGRA/rizos NEGROS/CAFÉS, Theo CASTAÑO corto/VERDES/anguloso/sin gafas, todos Slytherin VERDE-PLATA y completamente uniformados. Mantener manos, expresiones y siluetas de alumnos mayores; no agrandar cabezas/ojos ni alterar tallas a partir de primeros planos.\n\nConservar EXACTOS todos los textos del target: lista de Pansy, respuesta de Blaise, «¿Necesitas ayuda?», «Sophie.», disculpa de Sophie, «Entiendo que estabas mal, aunque tu actitud me dolió.», explicación completa de Sophie y «Me estaba divirtiendo contigo. Ojalá aquel día hubiera terminado de otra forma.». Misma ortografía/acentos/signos/colas. Mantener encabezado pequeño arriba izquierda «Capítulo 7 · 11», marcos y márgenes. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN Hermione/HONEY BLONDE Sophie, neutral BLACK/GRAY/white/wood; local AMBER lamps and book magic, softened contrast.",
+    "continuity": "Seven panels (two common room/five library), exact dialogue/identities/house colours/levitating book and full uniforms preserved."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T20:54:31.357325+00:00"
+}

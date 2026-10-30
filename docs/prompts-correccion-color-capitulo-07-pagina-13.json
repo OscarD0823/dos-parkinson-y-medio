@@ -1,0 +1,26 @@
+{
+  "chapter": 7,
+  "page": 13,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and recorded colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-f5dfc857-a1f1-498f-bfd1-4e47ac6f288d.png",
+  "versionedImage": "paginas/c07-p013-color-v2.webp",
+  "originalPreserved": "paginas/c07-p013.webp",
+  "originalSha256": "bb2b798987b63386e0e0461bfabfc27ebeb4f5d0c741481ab4b6078f087881e8",
+  "promptFile": "c07-p013-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página13 capítulo7 del cómic español. Conservar TODAS las viñetas originales, marcos, encuadres, orden, gestos, personajes, objetos y CADA palabra/globo/cartela/hablante EXACTOS. Es el anuncio del director sobre la entrega de MUÑECOS ENCANTADOS del proyecto escolar y la espera posterior en el corredor.\n\nReducir naranja/amarillo global y contraste intenso. Recuperar piedra GRIS, madera CASTAÑA, uniformes NEGRO neutro con detalle, BLANCOS/GRISES naturales, pieles naturales y rizos CASTAÑOS de Hermione. Conservar luz ÁMBAR LOCAL de velas/antorchas, oro del atril de búho y bordados, MORADO del director, VERDE de McGonagall y casas. SEGUNDA referencia c07-p004-color-v2 orienta colores naturales del alumnado/ropa, TERCERA c01-p001 tinta/pintura inicial. No copiar otras escenas.\n\nMcGonagall y Dumbledore siguen ADULTOS ANCIANOS, rostros maduros propios: ella pelo GRIS recogido, rasgos y sombrero VERDE/túnica VERDE-NEGRA/broche VERDE-DORADO del target; él pelo/barba BLANCOS largos, gafas de MEDIA LUNA, túnica/gorro MORADOS bordados ORO. Mantener proporciones adultas, manos y expresiones. Hermione CAFÉS/pecas/CASTAÑO/BURDEOS-ORO, Pansy VERDES/bob NEGRO/VERDE-PLATA, Draco PLATINO/GRIS-AZUL/VERDE-PLATA, Blaise piel NEGRA/rizos NEGROS/CAFÉS/VERDE-PLATA. Uniformes completos y caras aprobadas conservados. No anticipar muñecos en esta página.\n\nMover header pequeño negro «Capítulo 7 · 13» del CENTRO a ARRIBA IZQUIERDA y quitar SOLO los adornos de ese encabezado exterior. Mantener un único header, margen CREMA. Todos los textos EXACTOS del target, incluidos las dos cartelas iniciales, discurso completo del director, responsabilidad por los muñecos, «¡Muchas felicidades!» y «Unos minutos después…». Conservar atril, mesas, copas, puertas/listas del corredor, gestos de espera y cada voz. Crédito automático del lector.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/house colours/full clothing/props preserved except recorded corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Natural BROWN/neutral BLACK/GRAY/white/wood with local candle AMBER; mature teachers GREEN and PURPLE/GOLD retained.",
+    "header": "Small upper-left header replaces centered decorated header; exterior ornaments removed.",
+    "continuity": "All original panels/words/director speech/teachers and student identities/complete uniforms/doors/list preserved; no premature dolls."
+  },
+  "visibleProportionsCheck": "Visible head/shoulder/torso balance and apparent age checked against initial drawn references and film silhouette reference; no inferred centimetres or absolute heights from cropped/seated views. This page only; the 132-page review remains incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T21:03:36.330948+00:00"
+}
