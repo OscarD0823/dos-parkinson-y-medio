@@ -1,0 +1,27 @@
+{
+  "chapter": 8,
+  "page": 3,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-a6aac0bc-2f56-44da-8be0-debf2e896eda.png",
+  "versionedImage": "paginas/c08-p003-color-v2.webp",
+  "originalPreserved": "paginas/c08-p003.webp",
+  "originalSha256": "4f3d21b0bd71b5d64dbbda6c6f184d6a9a45152b6b36659d626d170268878016",
+  "promptFile": "c08-p003-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 3 del capítulo8 del cómic español. Conservar TODAS las viñetas reales y su disposición, marcos, encuadres, orden, escenas, cada palabra/globo/cartela/hablante y objetos EXACTOS. Es una escena cotidiana del proyecto escolar de MUÑECOS ENCANTADOS de TELA, vestidos/cubiertos/apoyados en sus propios portadores.\n\nRecuperar tinta y acabado pictórico de los capítulos iniciales: SEGUNDA imagen c01-p001 es referencia de DIBUJO, TERCERA c04-p001 de APERTURA y equilibrio de color. Solo editar el target, sin copiar otras escenas. Bajar la dominante naranja/amarilla global y el contraste excesivo, mantener luz ÁMBAR LOCAL en lámparas y reflejos mágicos. Piedra GRIS natural, madera CASTAÑA, NEGROS neutros con detalle, BLANCOS/CREMA naturales, verdes de tejidos y azules/turquesas del lago; pieles naturales y cabello CASTAÑO de Hermione, en vez del naranja intenso. Conservar luces doradas localizadas, bordados, telas y patrones de los objetos. Anatomía de estudiantes mayores con cabeza equilibrada respecto a hombros y torso, conforme al dibujo inicial; conservar rostros reconocibles y alturas relativas ya mostradas, sin cambios de escala entre viñetas. Hermione mantiene rizos voluminosos CASTAÑOS/pecas/iris CAFÉS/abrigo largo BURDEOS cerrado/bufanda CREMA. Pansy bob NEGRO/iris VERDES/orejas HUMANAS/abrigo largo NEGRO cerrado/bufanda VERDE OSCURO-GRIS. Ambas vestidas con prendas largas opacas de paseo.\n\nMover el header pequeño negro «Capítulo 8 · 03» desde el CENTRO a ARRIBA IZQUIERDA, un único header discreto en margen CREMA, retirando solamente sus adornos exteriores rojos. Palabras y atribución de TODOS los globos/cartelas del target idénticas. Crédito de autora aplicado automáticamente por el lector.\n\nSIETE viñetas originales, misma charla en dormitorio: Hermione en borde de cama/Pansy silla separada, gestos cotidianos originales. Robin MUÑECO DE TELA único dormido/CASTAÑO/CREMA/QUIDDITCH DORADO-MARRÓN, cuna o cochecito propio como en cada panel, mismo tamaño/rostro cubierto/apoyado; mantener portador ARENA flotante sin ruedas, maleta VERDE OSCURO «R.P.» PLATEADO, hipogrifo GRIS en banco separado, libros/lista/cuaderno idénticos. La mano de Hermione sobre la de Pansy se conserva tal como está. Mantener TODOS los textos incluso títulos pequeños existentes de libros, narración inicial y discurso completo de Pansy, sin omitir frases ni añadir otros textos.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SIETE viñetas originales, misma charla en dormitorio: Hermione en borde de cama/Pansy silla separada, gestos cotidianos originales. Robin MUÑECO DE TELA único dormido/CASTAÑO/CREMA/QUIDDITCH DORADO-MARRÓN, cuna o cochecito propio como en cada panel, mismo tamaño/rostro cubierto/apoyado; mantener portador ARENA flotante sin ruedas, maleta VERDE OSCURO «R.P.» PLATEADO, hipogrifo GRIS en banco separado, libros/lista/cuaderno idénticos. La mano de Hermione sobre la de Pansy se conserva tal como está. Mantener TODOS los textos incluso títulos pequeños existentes de libros, narración inicial y discurso completo de Pansy, sin omitir frases ni añadir otros textos."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T21:52:10.346959+00:00",
+  "actualPanelCount": 7
+}

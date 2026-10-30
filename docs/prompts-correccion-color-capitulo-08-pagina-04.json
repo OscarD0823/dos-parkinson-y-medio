@@ -1,0 +1,31 @@
+{
+  "chapter": 8,
+  "page": 4,
+  "tool": "ImageGen integrada",
+  "scope": "Approved colour/header pass; RP embroidery colour remains under separate review. No new page count.",
+  "master": "exec-9ef825d9-c3e4-4ad8-b765-c45d0761f85d.png",
+  "versionedImage": "paginas/c08-p004-color-v2.webp",
+  "originalPreserved": "paginas/c08-p004.webp",
+  "originalSha256": "782d736204a6d99eb97201343800b538019b5bd2614552f789a2406e1335049d",
+  "promptFile": "c08-p004-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página 4 del capítulo8 del cómic español. Conservar TODAS las viñetas reales y su disposición, marcos, encuadres, orden, escenas, cada palabra/globo/cartela/hablante y objetos EXACTOS. Es una escena cotidiana del proyecto escolar de MUÑECOS ENCANTADOS de TELA, vestidos/cubiertos/apoyados en sus propios portadores.\n\nRecuperar tinta y acabado pictórico de los capítulos iniciales: SEGUNDA imagen c01-p001 es referencia de DIBUJO, TERCERA c04-p001 de APERTURA y equilibrio de color. Solo editar el target, sin copiar otras escenas. Bajar la dominante naranja/amarilla global y el contraste excesivo, mantener luz ÁMBAR LOCAL en lámparas y reflejos mágicos. Piedra GRIS natural, madera CASTAÑA, NEGROS neutros con detalle, BLANCOS/CREMA naturales, verdes de tejidos y azules/turquesas del lago; pieles naturales y cabello CASTAÑO de Hermione, en vez del naranja intenso. Conservar luces doradas localizadas, bordados, telas y patrones de los objetos. Anatomía de estudiantes mayores con cabeza equilibrada respecto a hombros y torso, conforme al dibujo inicial; conservar rostros reconocibles y alturas relativas ya mostradas, sin cambios de escala entre viñetas. Hermione mantiene rizos voluminosos CASTAÑOS/pecas/iris CAFÉS/abrigo largo BURDEOS cerrado/bufanda CREMA. Pansy bob NEGRO/iris VERDES/orejas HUMANAS/abrigo largo NEGRO cerrado/bufanda VERDE OSCURO-GRIS. Ambas vestidas con prendas largas opacas de paseo.\n\nMover el header pequeño negro «Capítulo 8 · 04» desde el CENTRO a ARRIBA IZQUIERDA, un único header discreto en margen CREMA, retirando solamente sus adornos exteriores rojos. Palabras y atribución de TODOS los globos/cartelas del target idénticas. Crédito de autora aplicado automáticamente por el lector.\n\nOCHO viñetas originales (primera ancha, dos en segunda fila, tres franjas anchas, dos ambientes finales). Preservar distribución, todas las voces y sus textos exactos, incluso llamada de BLAISE FUERA DE CAMPO, nombres Tory/Draco/Theo/Luna, cartela «Hogsmeade, último día de octubre.» y letreros «Hogsmeade», «Las Tres Escobas», «Zona tranquila arriba». Blaise piel NEGRA/rizos NEGROS cortos/CAFÉS/abrigo largo BEIGE/pantalón BEIGE/bufanda MARRÓN OSCURO, silueta de estudiante mayor alta y hombros proporcionados; Daphne RUBIA larga/iris AZULES/abrigo largo BEIGE/bufanda CREMA. Conservar sus identidades y la altura relativa del grupo, sin copiar caras de otras referencias. Arianna única MUÑECA TELA AZULES/ropa y gorrito y manta BEIGE/cabello totalmente oculto, apoyada en brazos de Blaise en cada aparición. Robin único muñeco CASTAÑO/CREMA/QUIDDITCH en cochecito ARENA flotante sin ruedas, siempre separado de Arianna. Colores otoñales NARANJA solo en HOJAS/CALABAZAS, lámparas ÁMBAR locales; piedra GRIS/exterior azul-gris diurno y madera natural, sin tinte naranja sobre caras o ropa. Conservar todos paquetes/ropa/hipogrifo y composición de los escaparates.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": false,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "OCHO viñetas originales (primera ancha, dos en segunda fila, tres franjas anchas, dos ambientes finales). Preservar distribución, todas las voces y sus textos exactos, incluso llamada de BLAISE FUERA DE CAMPO, nombres Tory/Draco/Theo/Luna, cartela «Hogsmeade, último día de octubre.» y letreros «Hogsmeade», «Las Tres Escobas», «Zona tranquila arriba». Blaise piel NEGRA/rizos NEGROS cortos/CAFÉS/abrigo largo BEIGE/pantalón BEIGE/bufanda MARRÓN OSCURO, silueta de estudiante mayor alta y hombros proporcionados; Daphne RUBIA larga/iris AZULES/abrigo largo BEIGE/bufanda CREMA. Conservar sus identidades y la altura relativa del grupo, sin copiar caras de otras referencias. Arianna única MUÑECA TELA AZULES/ropa y gorrito y manta BEIGE/cabello totalmente oculto, apoyada en brazos de Blaise en cada aparición. Robin único muñeco CASTAÑO/CREMA/QUIDDITCH en cochecito ARENA flotante sin ruedas, siempre separado de Arianna. Colores otoñales NARANJA solo en HOJAS/CALABAZAS, lámparas ÁMBAR locales; piedra GRIS/exterior azul-gris diurno y madera natural, sin tinte naranja sobre caras o ropa. Conservar todos paquetes/ropa/hipogrifo y composición de los escaparates. R.P. silver refinement remains unresolved and is not asserted corrected."
+  },
+  "visibleProportionsCheck": "Student silhouettes and relative proportions compared with initial drawing; unchanged. This page is not fully closed because RP embroidery colour remains unresolved.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T21:59:32.504780+00:00",
+  "allVisibleCriteriaComplete": false,
+  "unresolvedDetails": [
+    "R.P. embroidery appears warm cream/gold instead of clearly silver; original object preserved, targeted refinement rejected with no image."
+  ],
+  "actualPanelCount": 8
+}
