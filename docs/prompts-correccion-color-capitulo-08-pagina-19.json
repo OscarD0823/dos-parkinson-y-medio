@@ -1,0 +1,28 @@
+{
+  "chapter": 8,
+  "page": 19,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-d31cd5b4-bfb3-4d30-81c7-490dd4d8e2e5.png",
+  "versionedImage": "paginas/c08-p019-color-v2.webp",
+  "originalPreserved": "paginas/c08-p019.webp",
+  "originalSha256": "241bc1498f348578e3f381517a77185d55f599d34f9d0af18ab91f362654966d",
+  "promptFile": "c08-p019-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página19 capítulo8 del cómic español. Mantener TODAS las viñetas reales/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Solo realizar el pase de color/contraste/encabezado y continuidad indicados. SEGUNDA referencia c01-p001 orienta tinta y dibujo inicial, TERCERA c04-p012 orienta luz nocturna azul con ámbar LOCAL, CUARTA c08-p016 corregida orienta identidades/pijamas/dormitorio/cuna. No copiar otras escenas.\n\nRecuperar color natural: rizos de Hermione CASTAÑOS, pieles naturales, NEGROS neutros detallados, grises/cremas/blancos y maderaCASTAÑA; contraste moderado. ÁMBAR localizado en lámparas/chimenea/reflejos metálicos, colores naranja de Halloween solo en HOJAS/CALABAZAS. Ventanales de lago AZUL-TURQUESA y verdes de mantas/cortinas conservados. Anatomía de estudiantes mayores, cabeza equilibrada respecto a hombros/torso, miembros y alturas relativas coherentes con referencias iniciales; rostros reconocibles y muñecos de escala estable respecto a brazos/portadores/cunas. No inventar centímetros. Conservar caras/iris/identidad del fanfic. Mover único header pequeño negro «Capítulo 8 · 19» a ARRIBA IZQUIERDA, margenCREMA discreto, retirar solo adornos rojos exteriores. Todos los pequeños son MUÑECOS ENCANTADOS escolares de TELA, vestidos/cubiertos/apoyados, únicos y en espacios propios. Crédito automático del lector.\n\nDOCE viñetas reales del target, disposición1+3+1+1+3+1+1+1. Cada palabra/atribución/orden EXACTOS, apoyo aSlytherin/estrategia/técnica, pregunta de verdura, respuesta cebolla y anécdota VERBAL del partido de quinto año; toda escena queda en dormitorio PRESENTE como target. Hermione CASTAÑO/CAFÉS/pijamaBURDEOS-ORO largo/mantaVERDE/su camaIZQUIERDA/pergaminoPAPEL/plumaNEGRA/tinteroNEGRO; Pansy bobNEGRO/irisVERDE BOSQUE #28784F/pijamaNEGRO-ORO largo, inicialmente en propia camaDERECHA y desde cuadro «Aquí está.» en SILLA SEPARADA junto al lado de la cama deHermione, a distancia normal según encuadres originales. Mantener DOS camasINDIVIDUALES SEPARADAS y cunaPROPIA MADERA OSCURA-LUNA/ESTRELLAS, Robin únicoMUÑECO TELA dormido/CASTAÑO/CREMA-DRAGONES VERDES/mantaCREMA-ESTRELLASORO. Conservar espejoOVALADO ORO/reflejos de posición propia coherentes/tocador-estucheVERDE-pinceles/libros y lámparas. Todas viñetas se conservan, no reducir al número de tramos del guion.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "DOCE viñetas reales del target, disposición1+3+1+1+3+1+1+1. Cada palabra/atribución/orden EXACTOS, apoyo aSlytherin/estrategia/técnica, pregunta de verdura, respuesta cebolla y anécdota VERBAL del partido de quinto año; toda escena queda en dormitorio PRESENTE como target. Hermione CASTAÑO/CAFÉS/pijamaBURDEOS-ORO largo/mantaVERDE/su camaIZQUIERDA/pergaminoPAPEL/plumaNEGRA/tinteroNEGRO; Pansy bobNEGRO/irisVERDE BOSQUE #28784F/pijamaNEGRO-ORO largo, inicialmente en propia camaDERECHA y desde cuadro «Aquí está.» en SILLA SEPARADA junto al lado de la cama deHermione, a distancia normal según encuadres originales. Mantener DOS camasINDIVIDUALES SEPARADAS y cunaPROPIA MADERA OSCURA-LUNA/ESTRELLAS, Robin únicoMUÑECO TELA dormido/CASTAÑO/CREMA-DRAGONES VERDES/mantaCREMA-ESTRELLASORO. Conservar espejoOVALADO ORO/reflejos de posición propia coherentes/tocador-estucheVERDE-pinceles/libros y lámparas. Todas viñetas se conservan, no reducir al número de tramos del guion.",
+    "night": "Natural BROWN/neutral BLACK/GRAY/CREAM, blue lake/local amber, own single beds/separate chair/own cot/unique dressed covered CREMA-GREEN-DRAGONS Robin preserved; questionnaire/feather/ink/words unchanged."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T23:23:37.676575+00:00",
+  "actualPanelCount": 12
+}

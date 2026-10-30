@@ -1,0 +1,28 @@
+{
+  "chapter": 8,
+  "page": 20,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-010bbac6-8901-4e97-b335-2cceaa6963c8.png",
+  "versionedImage": "paginas/c08-p020-color-v2.webp",
+  "originalPreserved": "paginas/c08-p020.webp",
+  "originalSha256": "ed01e5865e67e3855f8546ca1137ce7c99293a56c3493799f9966bf2283c9a80",
+  "promptFile": "c08-p020-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página20 capítulo8 del cómic español. Mantener TODAS las viñetas reales/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Solo realizar el pase de color/contraste/encabezado y continuidad indicados. SEGUNDA referencia c01-p001 orienta tinta y dibujo inicial, TERCERA c04-p012 orienta luz nocturna azul con ámbar LOCAL, CUARTA c08-p016 corregida orienta identidades/pijamas/dormitorio/cuna. No copiar otras escenas.\n\nRecuperar color natural: rizos de Hermione CASTAÑOS, pieles naturales, NEGROS neutros detallados, grises/cremas/blancos y maderaCASTAÑA; contraste moderado. ÁMBAR localizado en lámparas/chimenea/reflejos metálicos, colores naranja de Halloween solo en HOJAS/CALABAZAS. Ventanales de lago AZUL-TURQUESA y verdes de mantas/cortinas conservados. Anatomía de estudiantes mayores, cabeza equilibrada respecto a hombros/torso, miembros y alturas relativas coherentes con referencias iniciales; rostros reconocibles y muñecos de escala estable respecto a brazos/portadores/cunas. No inventar centímetros. Conservar caras/iris/identidad del fanfic. Mover único header pequeño negro «Capítulo 8 · 20» a ARRIBA IZQUIERDA, margenCREMA discreto, retirar solo adornos rojos exteriores. Todos los pequeños son MUÑECOS ENCANTADOS escolares de TELA, vestidos/cubiertos/apoyados, únicos y en espacios propios. Crédito automático del lector.\n\nDOCE viñetas reales originales, disposición3+1+3+1+1+1+1+1. Misma charla PRESENTE en dormitorio sobre partido/infancia/soledad/confianza, sin cambiar escenas ni añadir otras. Todas palabras/globos/atribuciones/orden EXACTOS. Hermione CASTAÑO/CAFÉS/pijamaBURDEOS-ORO largo/pergamino en propia camaIZQUIERDA bajo mantaVERDE; Pansy bobNEGRO/VERDE BOSQUE #28784F/pijamaNEGRO-ORO largo, en SILLA SEPARADA como target, distancia normal. Mantener otras DOS camasINDIVIDUALES SEPARADAS y cunaPROPIA MADERA OSCURA-LUNA/ESTRELLAS entreellas, Robin únicoMUÑECO TELA dormido/CASTAÑO/enteroCREMA-DRAGONES VERDES/mantaCREMA-ESTRELLASORO; sin duplicados. Mantener expresiones vulnerables/amables tal como target, equilibrio cabeza-hombros-torso del dibujo inicial/identidades intactas. Conservar espejoOVALADO ORO/reflejo coherente/tocador-estucheVERDE-pinceles/libros/apuntes/lámparas y lagoAZUL-TURQUESA con ÁMBARLOCAL, ningún objeto o persona añadidos.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "DOCE viñetas reales originales, disposición3+1+3+1+1+1+1+1. Misma charla PRESENTE en dormitorio sobre partido/infancia/soledad/confianza, sin cambiar escenas ni añadir otras. Todas palabras/globos/atribuciones/orden EXACTOS. Hermione CASTAÑO/CAFÉS/pijamaBURDEOS-ORO largo/pergamino en propia camaIZQUIERDA bajo mantaVERDE; Pansy bobNEGRO/VERDE BOSQUE #28784F/pijamaNEGRO-ORO largo, en SILLA SEPARADA como target, distancia normal. Mantener otras DOS camasINDIVIDUALES SEPARADAS y cunaPROPIA MADERA OSCURA-LUNA/ESTRELLAS entreellas, Robin únicoMUÑECO TELA dormido/CASTAÑO/enteroCREMA-DRAGONES VERDES/mantaCREMA-ESTRELLASORO; sin duplicados. Mantener expresiones vulnerables/amables tal como target, equilibrio cabeza-hombros-torso del dibujo inicial/identidades intactas. Conservar espejoOVALADO ORO/reflejo coherente/tocador-estucheVERDE-pinceles/libros/apuntes/lámparas y lagoAZUL-TURQUESA con ÁMBARLOCAL, ningún objeto o persona añadidos.",
+    "night": "Natural BROWN/neutral BLACK/GRAY/CREAM, blue lake/local amber, own single beds/separate chair/own cot/unique dressed covered CREMA-GREEN-DRAGONS Robin preserved; questionnaire/feather/ink/words unchanged."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T23:26:18.264566+00:00",
+  "actualPanelCount": 12
+}
