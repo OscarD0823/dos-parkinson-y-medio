@@ -1,0 +1,33 @@
+{
+  "chapter": 8,
+  "page": 13,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-bc6da14c-3755-43be-8a49-6444bf271445.png",
+  "versionedImage": "paginas/c08-p013-color-v2.webp",
+  "originalPreserved": "paginas/c08-p013.webp",
+  "originalSha256": "3dbebd0136f5ec6021871117c609b8a809b99fc4ddcbc44c9b9094061e6d7fa2",
+  "promptFile": "c08-p013-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página13 capítulo8 del cómic español. Mantener TODAS las viñetas reales/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Solo realizar el pase de color/contraste/encabezado y continuidad indicados. SEGUNDA referencia c01-p001 orienta tinta y dibujo inicial, TERCERA c04-p012 orienta luz nocturna azul con ámbar LOCAL, CUARTA c08-p012 corregida orienta identidades y ropa de Las Tres Escobas (si aparecen). No copiar otras escenas.\n\nRecuperar color natural: rizos de Hermione CASTAÑOS, pieles naturales, NEGROS neutros detallados, grises/cremas/blancos y maderaCASTAÑA; contraste moderado. ÁMBAR localizado en lámparas/chimenea/reflejos metálicos, colores naranja de Halloween solo en HOJAS/CALABAZAS. Ventanales de lago AZUL-TURQUESA y verdes de mantas/cortinas conservados. Anatomía de estudiantes mayores, cabeza equilibrada respecto a hombros/torso, miembros y alturas relativas coherentes con referencias iniciales; rostros reconocibles y muñecos de escala estable respecto a brazos/portadores/cunas. No inventar centímetros. Conservar caras/iris/identidad del fanfic. Mover único header pequeño negro «Capítulo 8 · 13» a ARRIBA IZQUIERDA, margenCREMA discreto, retirar solo adornos rojos exteriores. Todos los pequeños son MUÑECOS ENCANTADOS escolares de TELA, vestidos/cubiertos/apoyados, únicos y en espacios propios. Crédito automático del lector.\n\nOCHO viñetas reales, disposición2+2+2+1+1. Hermione CASTAÑO/CAFÉS/BURDEOS-CREMA, Pansy bobNEGRO/VERDES/NEGRO-VERDE. Blaise pielNEGRA/rizosNEGROS/CAFÉS/suéterBEIGE; Arianna BEIGE/gorroBEIGE cabelloOCULTO/AZULES en brazos deBlaise, portador ARENA VACÍO. Draco PLATINO/GRIS-AZUL/CHARCOAL-VERDE, Theo CASTAÑO CORTO/VERDES/MARRÓN-VERDE, Astoria CASTAÑO OSCURO LARGO LISO/GRIS FRÍO ligeramente azulado (predominioGRIS #72808A)/NAVY-GRIS en DOS vistas grupales finales, Luna RUBIO CLARO/AZULES/gafasROSAS/AZUL PÁLIDO-CREMA. Otros muñecos en portadores propios: Scorpius CREMA-AZUL PÁLIDO/NAVY, gemelos dobleAZUL-ORO/CREMA con mechónOSCURO y RUBIODORADO. Conservar caja NEGRA CERRADA/remaches, plumas de pavo real/paquetes/guantes/libros, jarras de bebida mágica ficticia y mantelTARTÁN ROJO-VERDE/maletaVERDE/R.P.PLATEADO. Cada globo del target, bromas/gestos/brindis amistoso y palabras completos. No aumentar escala de ojos/cabezas; mantener hombros y cuerpos propios del dibujo inicial.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [
+    {
+      "file": "c08-p013-correccion-iris.txt",
+      "prompt": "Editar SOLO los iris de PANSY y ASTORIA en la PRIMERA página8p13. PANSY es la alumna de bob NEGRO/abrigo NEGRO/bufanda VERDE OSCURO: iris VERDE BOSQUE intenso y natural #28784F en TODAS sus apariciones con ojos abiertos (incluida vista parcial y grupos); pupilas oscuras/brillos blancos conservados. ASTORIA es la alumna CASTAÑO OSCURO LARGO LISO/NAVY-GRIS entreTheo yLuna a la derecha en AMBAS franjas grupales finales: iris GRIS PIZARRA FRÍO ligeramente azulado #72808A, predominioGRIS, como Astoria de la SEGUNDA referencia. Mantener cerrados los ojos que ya están cerrados. SEGUNDA imagen sirve solo para iris de esas dos identidades. Conservar TODAS las demás partes de la PRIMERA página EXACTAS: ocho viñetas, cada palabra/globo/hablante/orden, otros iris/cabellos/ropa, muñecos de tela vestidos-cubiertos-apoyados/portadores, tamaños/gestos/objetos, color moderado y encabezado izquierdo. Solo recolorear esos iris abiertos, preservando contornos de ojos y rostros."
+    }
+  ],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "OCHO viñetas reales, disposición2+2+2+1+1. Hermione CASTAÑO/CAFÉS/BURDEOS-CREMA, Pansy bobNEGRO/VERDES/NEGRO-VERDE. Blaise pielNEGRA/rizosNEGROS/CAFÉS/suéterBEIGE; Arianna BEIGE/gorroBEIGE cabelloOCULTO/AZULES en brazos deBlaise, portador ARENA VACÍO. Draco PLATINO/GRIS-AZUL/CHARCOAL-VERDE, Theo CASTAÑO CORTO/VERDES/MARRÓN-VERDE, Astoria CASTAÑO OSCURO LARGO LISO/GRIS FRÍO ligeramente azulado (predominioGRIS #72808A)/NAVY-GRIS en DOS vistas grupales finales, Luna RUBIO CLARO/AZULES/gafasROSAS/AZUL PÁLIDO-CREMA. Otros muñecos en portadores propios: Scorpius CREMA-AZUL PÁLIDO/NAVY, gemelos dobleAZUL-ORO/CREMA con mechónOSCURO y RUBIODORADO. Conservar caja NEGRA CERRADA/remaches, plumas de pavo real/paquetes/guantes/libros, jarras de bebida mágica ficticia y mantelTARTÁN ROJO-VERDE/maletaVERDE/R.P.PLATEADO. Cada globo del target, bromas/gestos/brindis amistoso y palabras completos. No aumentar escala de ojos/cabezas; mantener hombros y cuerpos propios del dibujo inicial.",
+    "iris": "Pansy GREEN and Astoria GRAY-BLUE corrected; first colour candidate fbd35ae8 retained but not used."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T22:55:03.265445+00:00",
+  "actualPanelCount": 8
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": 8,
+  "page": 16,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-e6792423-24c5-4594-bb4f-42d181c9bef5.png",
+  "versionedImage": "paginas/c08-p016-color-v2.webp",
+  "originalPreserved": "paginas/c08-p016.webp",
+  "originalSha256": "5c561f52ccc9ceee6a9b4282c69af2278a9c0a33e55cc93bc62932bd9553bd8f",
+  "promptFile": "c08-p016-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página16 capítulo8 del cómic español. Mantener TODAS las viñetas reales/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Solo realizar el pase de color/contraste/encabezado y continuidad indicados. SEGUNDA referencia c01-p001 orienta tinta y dibujo inicial, TERCERA c04-p012 orienta luz nocturna azul con ámbar LOCAL, CUARTA c08-p012 corregida orienta identidades y ropa de Las Tres Escobas (si aparecen). No copiar otras escenas.\n\nRecuperar color natural: rizos de Hermione CASTAÑOS, pieles naturales, NEGROS neutros detallados, grises/cremas/blancos y maderaCASTAÑA; contraste moderado. ÁMBAR localizado en lámparas/chimenea/reflejos metálicos, colores naranja de Halloween solo en HOJAS/CALABAZAS. Ventanales de lago AZUL-TURQUESA y verdes de mantas/cortinas conservados. Anatomía de estudiantes mayores, cabeza equilibrada respecto a hombros/torso, miembros y alturas relativas coherentes con referencias iniciales; rostros reconocibles y muñecos de escala estable respecto a brazos/portadores/cunas. No inventar centímetros. Conservar caras/iris/identidad del fanfic. Mover único header pequeño negro «Capítulo 8 · 16» a ARRIBA IZQUIERDA, margenCREMA discreto, retirar solo adornos rojos exteriores. Todos los pequeños son MUÑECOS ENCANTADOS escolares de TELA, vestidos/cubiertos/apoyados, únicos y en espacios propios. Crédito automático del lector.\n\nSEIS viñetas anchas reales, charla cotidiana nocturna y preparativos. Hermione rizosCASTAÑOS/CAFÉS/pijamaBURDEOS-ribetesORO largo opaco/collar normal, sentada en SU camaIZQUIERDA/mantaVERDE sobre piernas; Pansy bobNEGRO/VERDES/pijamaNEGRO-ribetesORO largo opaco/cuello normal, en tabureteSEPARADO del tocador aDERECHA. Robin únicoMUÑECO TELA dormido/CASTAÑO/CREMA-DRAGONES VERDES/mantaCREMA-ESTRELLAS ORO en su PROPIA cunaMADERA OSCURA-LUNA/ESTRELLAS entreDOS camasINDIVIDUALES SEPARADAS, otra camaVACÍA. Mantener exacto espejoOVALADO verticalORO y reflejos coherentes del propio rostro dePansy/negro pijama, estucheVERDE/pinceles/libros/apuntes/pergamino/escritorio y chimenea. Ventanas fríasAZUL-TURQUESA, lámparasÁMBAR LOCAL, madera natural/negros detallados/piel natural. Todos los globos EXACTOS: «¿Todo bien?», «Yo… estaba pensando en la logística.», frase completa del aniversario y dignidad, «¿La logística?». Mantener expresiones, distancia normal y orden de los seis cuadros.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SEIS viñetas anchas reales, charla cotidiana nocturna y preparativos. Hermione rizosCASTAÑOS/CAFÉS/pijamaBURDEOS-ribetesORO largo opaco/collar normal, sentada en SU camaIZQUIERDA/mantaVERDE sobre piernas; Pansy bobNEGRO/VERDES/pijamaNEGRO-ribetesORO largo opaco/cuello normal, en tabureteSEPARADO del tocador aDERECHA. Robin únicoMUÑECO TELA dormido/CASTAÑO/CREMA-DRAGONES VERDES/mantaCREMA-ESTRELLAS ORO en su PROPIA cunaMADERA OSCURA-LUNA/ESTRELLAS entreDOS camasINDIVIDUALES SEPARADAS, otra camaVACÍA. Mantener exacto espejoOVALADO verticalORO y reflejos coherentes del propio rostro dePansy/negro pijama, estucheVERDE/pinceles/libros/apuntes/pergamino/escritorio y chimenea. Ventanas fríasAZUL-TURQUESA, lámparasÁMBAR LOCAL, madera natural/negros detallados/piel natural. Todos los globos EXACTOS: «¿Todo bien?», «Yo… estaba pensando en la logística.», frase completa del aniversario y dignidad, «¿La logística?». Mantener expresiones, distancia normal y orden de los seis cuadros.",
+    "night": "BLUE-TURQUOISE lake/local AMBER, separate single beds/separate chair/own cot, BROWN Hermione/black Pansy, original long pyjamas and covered CREMA-GREEN-DRAGONS Robin preserved."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-30T23:11:24.211240+00:00",
+  "actualPanelCount": 6
+}
