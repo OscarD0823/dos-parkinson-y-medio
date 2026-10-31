@@ -1,0 +1,27 @@
+{
+  "chapter": 9,
+  "page": 13,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-e025cd54-3c76-4c69-96b9-767d4e45dfa6.png",
+  "versionedImage": "paginas/c09-p013-color-v2.webp",
+  "originalPreserved": "paginas/c09-p013.webp",
+  "originalSha256": "e0b1b9bec2c97d2ca5b1f39f7afef2cb47d07b29095301d3045d27a6864e6a4d",
+  "promptFile": "c09-p013-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página13 del capítulo9 del cómic español. Segunda imagen c01-p001 referencia de dibujo inicial y color natural. Conservar todas las viñetas REALES/disposición/encuadres/gestos/rostros/iris/vestuario/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Header pequeño NEGRO ARRIBA IZQUIERDA ya correcto, CONSERVAR «Capítulo 9 · 13». Tinta/dibujo inicial, cabelloCASTAÑO deHermione/CAFÉS/pecas, Pansy bobNEGRO/VERDES, piel natural/negros detallados/cremas/grises y luzÁMBAR LOCAL, sin dominante global intensa. Mantener apariencia de estudiantes mayores, equilibrio cabeza-hombros-torso/miembros y alturas relativas, muñecos TELA pequeños/vestidos/cubiertos/apoyados/únicos con propias cunas/portadores y portadorVACÍO al pasar a brazos. Solo cambios locales indicados abajo; conservar el resto. No dibujar crédito automático dellector.\nSEIS viñetas reales (1+1+1+2+1). SOLO Pansy cabello NEGRO NEUTRO/puntasNEGRAS/reflejosGRIS OSCURO discretos en TODAS vistas y reflejos, suavizar naranja global conservando HCASTAÑO/CAFÉS y luzNOCTURNA AZUL/localÁMBAR. Ropa H pijamaBURDEOS-ORO largo cerrado/P pijamaNEGRO-ORO largo cerrado, dos camasSEPARADAS/sillaP/vanityespejoOVAL ORO. Robin únicoMUÑECO TELA CASTAÑO/CREMA-DRAGONES VERDES vestido/apoyado en brazosHinicio y propia cunaLUNA-ESTRELLAS alfinal; cunaVACÍA mientras enbrazos. Todas cartelas de CANCIÓN ORIGINAL DEL FANFIC y diálogos exactos, pliegues/libros/tazas/apoyos/distancias/reflejos/encuadres preservados; solo conversación cotidiana y canción, ninguna escena añadida.\n\nTERCERA referencia c04-p012 SOLO equilibrio de noche AZUL con ÁMBAR LOCAL, sin copiar sus escenas/personajes/ropa. Pansy irisVERDE BOSQUE también en reflejos. Mantener cada palabra de la canción ORIGINAL del fanfic intacta.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SEIS viñetas reales (1+1+1+2+1). SOLO Pansy cabello NEGRO NEUTRO/puntasNEGRAS/reflejosGRIS OSCURO discretos en TODAS vistas y reflejos, suavizar naranja global conservando HCASTAÑO/CAFÉS y luzNOCTURNA AZUL/localÁMBAR. Ropa H pijamaBURDEOS-ORO largo cerrado/P pijamaNEGRO-ORO largo cerrado, dos camasSEPARADAS/sillaP/vanityespejoOVAL ORO. Robin únicoMUÑECO TELA CASTAÑO/CREMA-DRAGONES VERDES vestido/apoyado en brazosHinicio y propia cunaLUNA-ESTRELLAS alfinal; cunaVACÍA mientras enbrazos. Todas cartelas de CANCIÓN ORIGINAL DEL FANFIC y diálogos exactos, pliegues/libros/tazas/apoyos/distancias/reflejos/encuadres preservados; solo conversación cotidiana y canción, ninguna escena añadida."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T01:12:19.876795+00:00",
+  "actualPanelCount": 6
+}

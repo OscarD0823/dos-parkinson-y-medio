@@ -1,0 +1,27 @@
+{
+  "chapter": 9,
+  "page": 10,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-cf6066b2-c8e8-4a50-a5c4-3ea67239b96d.png",
+  "versionedImage": "paginas/c09-p010-color-v2.webp",
+  "originalPreserved": "paginas/c09-p010.webp",
+  "originalSha256": "9798cb72dc26bec5c3ae3b7566e403e1acf8fd83956d035476272bd8de966f69",
+  "promptFile": "c09-p010-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página10 del capítulo9 del cómic español. Segunda imagen c01-p001 referencia de dibujo inicial y color natural. Conservar todas las viñetas REALES/disposición/encuadres/gestos/rostros/iris/vestuario/objetos y CADA palabra/globo/cartela/hablante EXACTOS. Header pequeño NEGRO ARRIBA IZQUIERDA ya correcto, CONSERVAR «Capítulo 9 · 10». Tinta/dibujo inicial, cabelloCASTAÑO deHermione/CAFÉS/pecas, Pansy bobNEGRO/VERDES, piel natural/negros detallados/cremas/grises y luzÁMBAR LOCAL, sin dominante global intensa. Mantener apariencia de estudiantes mayores, equilibrio cabeza-hombros-torso/miembros y alturas relativas, muñecos TELA pequeños/vestidos/cubiertos/apoyados/únicos con propias cunas/portadores y portadorVACÍO al pasar a brazos. Solo cambios locales indicados abajo; conservar el resto. No dibujar crédito automático dellector.\nSIETE viñetas reales (1+1+1+1+3). Editar SOLO color del cabello dePansy a NEGRO NEUTRO con reflejosGRIS OSCURO discretos EN TODAS sus apariciones; puntas del mismo NEGRO. Bordado «R.P.» de bolsaVERDE en portadorRobin debe ser PLATEADO gris claro neutro; herrajesLATÓN existentes permanecenDORADOS. Todo el resto ya tiene paleta natural adecuada: conservar HCASTAÑO/CAFÉS, Lavender RUBIA RIZOS/lazoBURDEOS/GRIS-AZUL/GryffindorBURDEOS-ORO, DaphneRUBIA/AZULES/Slytherin, BlaiseNEGRO/CAFÉS/Slytherin, PansyVERDES/Slytherin. Dos muñecos/portadores diferentes RobinCASTAÑO/VERDES/CREMA-QUIDDITCH/ARENA y AriannaBEIGE/gorroBEIGE cabelloOCULTO/AZULES/portadorBEIGE. Varitas guardadas, diálogo voluntario a distancia normal y todas palabras exactas; sin acciones nuevas.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SIETE viñetas reales (1+1+1+1+3). Editar SOLO color del cabello dePansy a NEGRO NEUTRO con reflejosGRIS OSCURO discretos EN TODAS sus apariciones; puntas del mismo NEGRO. Bordado «R.P.» de bolsaVERDE en portadorRobin debe ser PLATEADO gris claro neutro; herrajesLATÓN existentes permanecenDORADOS. Todo el resto ya tiene paleta natural adecuada: conservar HCASTAÑO/CAFÉS, Lavender RUBIA RIZOS/lazoBURDEOS/GRIS-AZUL/GryffindorBURDEOS-ORO, DaphneRUBIA/AZULES/Slytherin, BlaiseNEGRO/CAFÉS/Slytherin, PansyVERDES/Slytherin. Dos muñecos/portadores diferentes RobinCASTAÑO/VERDES/CREMA-QUIDDITCH/ARENA y AriannaBEIGE/gorroBEIGE cabelloOCULTO/AZULES/portadorBEIGE. Varitas guardadas, diálogo voluntario a distancia normal y todas palabras exactas; sin acciones nuevas."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T01:00:47.708640+00:00",
+  "actualPanelCount": 7
+}
