@@ -1,0 +1,27 @@
+{
+  "chapter": 9,
+  "page": 1,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-3b58559a-c2f1-4f92-be1b-0473a2b526b0.png",
+  "versionedImage": "paginas/c09-p001-color-v2.webp",
+  "originalPreserved": "paginas/c09-p001.webp",
+  "originalSha256": "e50b6a4967432a48b7329d4a7255f8258e329fb042bb760ff040afe130a8e46c",
+  "promptFile": "c09-p001-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página1 del capítulo9 del cómic español. SEGUNDA c01-p001 referencia de tinta/dibujo/paleta natural inicial; TERCERA c04-p001 referencia de equilibrio de apertura/diurno. Mantener cada viñeta REAL/disposición/encuadre/gesto/rostro/ropa/objeto y todas palabras/globos/cartelas/hablantes EXACTOS. Recuperar cabello CASTAÑO natural de HERMIONE, piel natural, NEGROS neutros detallados/grises/cremas/blancos/maderaCASTAÑA/piedraGRIS. Ámbar LOCAL de lámparas/velas y metalesORO-LATÓN se mantienen, reducir naranja/amarillo y contraste global. Escenas nocturnas mantienen ambiente nocturno; diurnas luz suave natural. Pansy bobNEGRO/VERDE BOSQUE, Hermione rizosCASTAÑOS/CAFÉS/pecas, Daphne RUBIO CLARO/AZULES, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS. Todos uniformes COMPLETOS con capasNEGRAS largas/jerseysGRISES/camisasBLANCAS/corbatacasapropia: H-Ginny GRYFFINDOR BURDEOS-ORO, P-D-B-Draco-Theo SLYTHERIN VERDE-PLATA. Siluetas de estudiantes mayores coherentes con dibujo inicial, cabezas/hombros/torso/miembros equilibrados, alturas relativas estables en mismo suelo, sin centímetros inventados. Pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos, portadores propios VACÍOS al pasar a brazos. Header pequeño único NEGRO «Capítulo 9 · 01» ARRIBA IZQUIERDA en margenCREMA, retirar solo adornosROJOS exteriores. No dibujar crédito, lector lo aplica.\nSEIS viñetas reales (1+1+2+1+1), todos diálogos verbales intactos, ambas estudiantes de pie SEPARADAS/distancia normal/uniformes completos. Título «Esmoquin, pañales y alta sociedad» UNA vez en cartelaCREMA integrada en primera viñeta, como target. Día bajo lagoAZUL-TURQUESA; DOS camasINDIVIDUALES SEPARADAS/cubiertasVERDES/almohadasH BURDEOS yPVERDE, cunaRobinMADERA OSCURA-LUNA/ESTRELLAS ORO con únicoRobinTELA/VERDES/mechónCASTAÑO/ropaCREMA/mantaCREMA-ORO; móvilQUIDDITCH DORADO arco alto/escobitas/pelotasaladas/estrellas suspendidas lejosdecara. Libros/tocador/espejoOVAL ORO/reflejos/horarios exactos. Solo charla de sentimientos, conservar todos encuadres sin añadir acción.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SEIS viñetas reales (1+1+2+1+1), todos diálogos verbales intactos, ambas estudiantes de pie SEPARADAS/distancia normal/uniformes completos. Título «Esmoquin, pañales y alta sociedad» UNA vez en cartelaCREMA integrada en primera viñeta, como target. Día bajo lagoAZUL-TURQUESA; DOS camasINDIVIDUALES SEPARADAS/cubiertasVERDES/almohadasH BURDEOS yPVERDE, cunaRobinMADERA OSCURA-LUNA/ESTRELLAS ORO con únicoRobinTELA/VERDES/mechónCASTAÑO/ropaCREMA/mantaCREMA-ORO; móvilQUIDDITCH DORADO arco alto/escobitas/pelotasaladas/estrellas suspendidas lejosdecara. Libros/tocador/espejoOVAL ORO/reflejos/horarios exactos. Solo charla de sentimientos, conservar todos encuadres sin añadir acción."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:39:08.840636+00:00",
+  "actualPanelCount": 6
+}

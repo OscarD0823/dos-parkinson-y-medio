@@ -1,0 +1,27 @@
+{
+  "chapter": 9,
+  "page": 2,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-55cbda08-5a6a-46c6-bfb4-b481cd618a2c.png",
+  "versionedImage": "paginas/c09-p002-color-v2.webp",
+  "originalPreserved": "paginas/c09-p002.webp",
+  "originalSha256": "f494a4507824a28da9196dabbe52afc6c1937caf90f537b702e0a4056eee5a46",
+  "promptFile": "c09-p002-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página2 del capítulo9 del cómic español. SEGUNDA c01-p001 referencia de tinta/dibujo/paleta natural inicial; TERCERA c04-p001 referencia de equilibrio de apertura/diurno. Mantener cada viñeta REAL/disposición/encuadre/gesto/rostro/ropa/objeto y todas palabras/globos/cartelas/hablantes EXACTOS. Recuperar cabello CASTAÑO natural de HERMIONE, piel natural, NEGROS neutros detallados/grises/cremas/blancos/maderaCASTAÑA/piedraGRIS. Ámbar LOCAL de lámparas/velas y metalesORO-LATÓN se mantienen, reducir naranja/amarillo y contraste global. Escenas nocturnas mantienen ambiente nocturno; diurnas luz suave natural. Pansy bobNEGRO/VERDE BOSQUE, Hermione rizosCASTAÑOS/CAFÉS/pecas, Daphne RUBIO CLARO/AZULES, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS. Todos uniformes COMPLETOS con capasNEGRAS largas/jerseysGRISES/camisasBLANCAS/corbatacasapropia: H-Ginny GRYFFINDOR BURDEOS-ORO, P-D-B-Draco-Theo SLYTHERIN VERDE-PLATA. Siluetas de estudiantes mayores coherentes con dibujo inicial, cabezas/hombros/torso/miembros equilibrados, alturas relativas estables en mismo suelo, sin centímetros inventados. Pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos, portadores propios VACÍOS al pasar a brazos. Header pequeño único NEGRO «Capítulo 9 · 02» ARRIBA IZQUIERDA en margenCREMA, retirar solo adornosROJOS exteriores. No dibujar crédito, lector lo aplica.\nONCE viñetas reales contando inserto de plato (1+2+1conINSERTO+2+3+1), nocheGranComedor con ámbarLOCAL y negros/grises naturales. BandejaPAN sostenida por asas/H yP porseparado, cada palabra/atribución intacta. Daphne rubia/AZULES, B negro/CAFÉS. RobinTELA/CASTAÑO/VERDES/CREMA/mantaCREMA-QUIDDITCH en cochecitoARENA propio sinRUEDAS/LATÓN. AriannaTELA/BEIGE/gorroBEIGE cabelloOCULTO/mantaBEIGE en brazosB, cochecitoBEIGE propio visibleVACÍO. Muñecos secundarios vestidos/cubiertos en portadorespropios, pelucheCAFÉ caído en suelo como target, no nuevas acciones. Broma plato dePOLLO/mantequilla intacta; comida/jarras/copas JUGO/fruta/mesa exactas.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "ONCE viñetas reales contando inserto de plato (1+2+1conINSERTO+2+3+1), nocheGranComedor con ámbarLOCAL y negros/grises naturales. BandejaPAN sostenida por asas/H yP porseparado, cada palabra/atribución intacta. Daphne rubia/AZULES, B negro/CAFÉS. RobinTELA/CASTAÑO/VERDES/CREMA/mantaCREMA-QUIDDITCH en cochecitoARENA propio sinRUEDAS/LATÓN. AriannaTELA/BEIGE/gorroBEIGE cabelloOCULTO/mantaBEIGE en brazosB, cochecitoBEIGE propio visibleVACÍO. Muñecos secundarios vestidos/cubiertos en portadorespropios, pelucheCAFÉ caído en suelo como target, no nuevas acciones. Broma plato dePOLLO/mantequilla intacta; comida/jarras/copas JUGO/fruta/mesa exactas."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:39:10.652725+00:00",
+  "actualPanelCount": 11
+}
