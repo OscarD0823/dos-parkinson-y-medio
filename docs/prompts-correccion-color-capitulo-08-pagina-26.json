@@ -1,0 +1,29 @@
+{
+  "chapter": 8,
+  "page": 26,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-987c8921-8824-4c0f-b4f8-e9a1ce67d878.png",
+  "versionedImage": "paginas/c08-p026-color-v2.webp",
+  "originalPreserved": "paginas/c08-p026.webp",
+  "originalSha256": "3658f65a2a3d4037f6f335bd78fb370be094d2538d7ff7b846a9579d4d82de5a",
+  "promptFile": "c08-p026-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página26 capítulo8 del cómic español. Mantener todas las viñetas REALES/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. SEGUNDA referencia c01-p001 orienta dibujo/tinta inicial, TERCERA c04-p001 orienta equilibrio DIURNO de luz/color. Solo editar el target; las referencias no añaden otras escenas/personajes.\n\nReducir naranja/amarillo global y contraste fuerte, conservar luzÁMBAR LOCAL en lámparas/velas y metalesORO-LATÓN. Piel natural, cabello de HERMIONE CASTAÑO de forma específica, NEGROS neutros detallados/grises/cremas/blancos naturales/piedraGRIS/maderaCASTAÑA; conservar rubios claros/otros cabellos individuales. Día bajo lago AZUL-VERDOSO/turquesa suave y día en comedor con luz natural, no filtro naranja global. Hermione irisCAFÉS/rizosCASTAÑOS/pecas, Pansy irisVERDE BOSQUE/bobNEGRO. Anatomía de estudiantes mayores, equilibrio cabeza-hombros-torso/miembros y alturas relativas coherentes en plano compartido; conservar identidades y escala estable de muñecos respecto a brazos/cunas/portadores, sin centímetros inventados. Único header pequeño negro «Capítulo 8 · 26» a ARRIBA IZQUIERDA en margenCREMA, retirar adornos rojos exteriores. Todos pequeños son MUÑECOS ENCANTADOS escolares TELA/vestidos/cubiertos/apoyados/únicos, portadores propios y vacíos al pasar a brazos. Crédito automático aplicado por lector.\n\nDOCE viñetas reales (1+1+3+2+2+2+1). Misma mañana uniformeGRYFFINDOR COMPLETO BURDEOS-ORO deH/SLYTHERIN COMPLETO VERDE-PLATA deP, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS; H CASTAÑO-CAFÉS/P NEGRO-VERDES. Todos globos/palabras/orden/hablantes EXACTOS. Pequeño envaseCREMA del material delproyecto, única marcaBLANCA en TELA de túnica deHermione tal como target; varita dePansy limpia SOLO esa mancha de ropa con magia «Tergeo.» localizada. Robin MUÑECO TELA/VERDES/mechónCASTAÑO/ropaCOMPLETA CREMA/mantaCREMA-QUIDDITCH vestido/cubierto/apoyado en propia cunaMADERA OSCURA-LUNA/ESTRELLAS hasta última franja, donde H lo acomoda en propio cochecitoARENA flotante-sinRUEDAS/ribeteCREMA/madera-LATÓN y la cuna quedaVACÍA. BiberónVACÍO delproyecto sobrealfombra como target, lejos de personas. Conservar maletaVERDE-R.P.PLATEADO/compartimientos/envasesgenéricos, dos camasSEPARADAS/tocador/espejo-reflejoP coherentecolor/cortinas/libros/apoyos exactos. Sin otras escenas/objetos añadidos.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "DOCE viñetas reales (1+1+3+2+2+2+1). Misma mañana uniformeGRYFFINDOR COMPLETO BURDEOS-ORO deH/SLYTHERIN COMPLETO VERDE-PLATA deP, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS; H CASTAÑO-CAFÉS/P NEGRO-VERDES. Todos globos/palabras/orden/hablantes EXACTOS. Pequeño envaseCREMA del material delproyecto, única marcaBLANCA en TELA de túnica deHermione tal como target; varita dePansy limpia SOLO esa mancha de ropa con magia «Tergeo.» localizada. Robin MUÑECO TELA/VERDES/mechónCASTAÑO/ropaCOMPLETA CREMA/mantaCREMA-QUIDDITCH vestido/cubierto/apoyado en propia cunaMADERA OSCURA-LUNA/ESTRELLAS hasta última franja, donde H lo acomoda en propio cochecitoARENA flotante-sinRUEDAS/ribeteCREMA/madera-LATÓN y la cuna quedaVACÍA. BiberónVACÍO delproyecto sobrealfombra como target, lejos de personas. Conservar maletaVERDE-R.P.PLATEADO/compartimientos/envasesgenéricos, dos camasSEPARADAS/tocador/espejo-reflejoP coherentecolor/cortinas/libros/apoyos exactos. Sin otras escenas/objetos añadidos.",
+    "daytimeContinuity": "Natural BROWN Hermione/neutral BLACK and GRAY, daytime lake/comedor instead of global orange, Gryffindor BURGUNDY-GOLD/Slytherin GREEN-SILVER full uniforms, CREMA-QUIDDITCH Robin and ARENA floating wheel-free pram preserved.",
+    "localMagic": "Only white mark on Hermione robe and its fantasy cleaning preserved; Robin always dressed/covered/supported, cot empty once in pram."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:00:19.405357+00:00",
+  "actualPanelCount": 12
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": 8,
+  "page": 27,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-65ac6a0c-9fef-4efa-8fac-075ad980d5f1.png",
+  "versionedImage": "paginas/c08-p027-color-v2.webp",
+  "originalPreserved": "paginas/c08-p027.webp",
+  "originalSha256": "01ddfed898c9879d6903d2bb138bdc343a511dca7f669eaa74a5a524116238d8",
+  "promptFile": "c08-p027-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar la PRIMERA imagen, página27 capítulo8 del cómic español. Mantener todas las viñetas REALES/disposición/marcos/encuadres/gestos/rostros/ropa/objetos y CADA palabra/globo/cartela/hablante EXACTOS. SEGUNDA referencia c01-p001 orienta dibujo/tinta inicial, TERCERA c04-p001 orienta equilibrio DIURNO de luz/color. Solo editar el target; las referencias no añaden otras escenas/personajes.\n\nReducir naranja/amarillo global y contraste fuerte, conservar luzÁMBAR LOCAL en lámparas/velas y metalesORO-LATÓN. Piel natural, cabello de HERMIONE CASTAÑO de forma específica, NEGROS neutros detallados/grises/cremas/blancos naturales/piedraGRIS/maderaCASTAÑA; conservar rubios claros/otros cabellos individuales. Día bajo lago AZUL-VERDOSO/turquesa suave y día en comedor con luz natural, no filtro naranja global. Hermione irisCAFÉS/rizosCASTAÑOS/pecas, Pansy irisVERDE BOSQUE/bobNEGRO. Anatomía de estudiantes mayores, equilibrio cabeza-hombros-torso/miembros y alturas relativas coherentes en plano compartido; conservar identidades y escala estable de muñecos respecto a brazos/cunas/portadores, sin centímetros inventados. Único header pequeño negro «Capítulo 8 · 27» a ARRIBA IZQUIERDA en margenCREMA, retirar adornos rojos exteriores. Todos pequeños son MUÑECOS ENCANTADOS escolares TELA/vestidos/cubiertos/apoyados/únicos, portadores propios y vacíos al pasar a brazos. Crédito automático aplicado por lector.\n\nNUEVE viñetas reales (2+1+1+2+2+1), transición dormitorio→corredor→Gran Comedor de DÍA. H GRYFFINDOR COMPLETO BURDEOS-ORO/capaNEGRA larga-jerseyGRIS-camisaBLANCA/CASTAÑO-CAFÉS; P SLYTHERIN COMPLETO VERDE-PLATA/capaNEGRA larga-jerseyGRIS-camisaBLANCA/NEGRO-VERDES, mochilas originales. Daphne RUBIO CLARO DORADO PÁLIDO LARGO/AZULES/uniformeSLYTHERIN VERDE-PLATA, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS/uniformeSLYTHERIN VERDE-PLATA. Arianna MUÑECA TELA dormida/BEIGE/gorroBEIGE cabelloOCULTO, apoyada en brazos deBlaise; Robin único TELA/VERDES/mechónCASTAÑO/CREMA/mantaCREMA-QUIDDITCH, en su cochecitoARENA flotante-sinRUEDAS, visible en cada vista delportador y última llora porencantamiento tal como target. Conservar dragón PELUCHE VERDE/vientreCREMA/alas-protuberanciasORO SUAVES separado delrostro, azucarero/azúcar/fruta/cubiertos/jarras/copas/periódico/ropa/horarios, todos palabras/hablantes y cartelas EXACTOS. PergaminoPAPEL guardado bajo calcetines/cajón como target. Conservar participantes secundarios genéricos/portadores seguros en comedor, emblemas/casas y mesas sin cambios, sin añadir nombres nuevos.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "NUEVE viñetas reales (2+1+1+2+2+1), transición dormitorio→corredor→Gran Comedor de DÍA. H GRYFFINDOR COMPLETO BURDEOS-ORO/capaNEGRA larga-jerseyGRIS-camisaBLANCA/CASTAÑO-CAFÉS; P SLYTHERIN COMPLETO VERDE-PLATA/capaNEGRA larga-jerseyGRIS-camisaBLANCA/NEGRO-VERDES, mochilas originales. Daphne RUBIO CLARO DORADO PÁLIDO LARGO/AZULES/uniformeSLYTHERIN VERDE-PLATA, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS/uniformeSLYTHERIN VERDE-PLATA. Arianna MUÑECA TELA dormida/BEIGE/gorroBEIGE cabelloOCULTO, apoyada en brazos deBlaise; Robin único TELA/VERDES/mechónCASTAÑO/CREMA/mantaCREMA-QUIDDITCH, en su cochecitoARENA flotante-sinRUEDAS, visible en cada vista delportador y última llora porencantamiento tal como target. Conservar dragón PELUCHE VERDE/vientreCREMA/alas-protuberanciasORO SUAVES separado delrostro, azucarero/azúcar/fruta/cubiertos/jarras/copas/periódico/ropa/horarios, todos palabras/hablantes y cartelas EXACTOS. PergaminoPAPEL guardado bajo calcetines/cajón como target. Conservar participantes secundarios genéricos/portadores seguros en comedor, emblemas/casas y mesas sin cambios, sin añadir nombres nuevos.",
+    "daytimeContinuity": "Natural BROWN Hermione/neutral BLACK and GRAY, daytime lake/comedor instead of global orange, Gryffindor BURGUNDY-GOLD/Slytherin GREEN-SILVER full uniforms, CREMA-QUIDDITCH Robin and ARENA floating wheel-free pram preserved."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:03:32.234773+00:00",
+  "actualPanelCount": 9
+}
