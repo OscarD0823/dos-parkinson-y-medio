@@ -1,0 +1,27 @@
+{
+  "chapter": 8,
+  "page": 33,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-30dbe954-017d-4944-a69c-957db236575b.png",
+  "versionedImage": "paginas/c08-p033-color-v2.webp",
+  "originalPreserved": "paginas/c08-p033.webp",
+  "originalSha256": "25e4f8977b3737c6fc2849ad7605a955a22550ca698301d223b88a2241865a21",
+  "promptFile": "c08-p033-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página33 del capítulo8 del cómic español. SEGUNDA imagen c01-p001 es referencia de tinta/dibujo/color natural inicial; TERCERA c04-p001 orienta equilibrio diurno. Conservar todas las viñetas REALES y su disposición, encuadres, acciones, caras, iris, prendas, objetos, cada palabra, globo, cartela y hablante EXACTOS. Referencias no añaden otras escenas.\nRecuperar cabello CASTAÑO de HERMIONE y piel natural, NEGROS neutros detallados y grises/cremas/blancos/piedraGRIS/maderaCASTAÑA, luz diurna suave por ventanas, ámbar LOCAL en lámparas y latón/oro de objetos, reduciendo dominante naranja y contraste global. Pansy bobNEGRO neutro/irisVERDES; Hermione rizosCASTAÑOS/irisCAFÉS/pecas. Uniformes COMPLETOS H GRYFFINDOR BURDEOS-ORO, P SLYTHERIN VERDE-PLATA, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS como target. Mantener siluetas de estudiantes mayores y equilibrio cabeza-hombros-torso/miembros/alturas relativas en mismo plano, muñecos pequeños estables respecto a brazos y portadores. Header único pequeño NEGRO «Capítulo 8 · 33» ARRIBA IZQUIERDA sobre margenCREMA, retirar solo adornosROJOS exteriores. Crédito automático del lector, sin dibujarlo. Todos pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos y portador vacío al pasar a brazos.\nSEIS viñetas reales (2+1+1+1+1), cierre ÚNICO. Conservar EXACTAMENTE escena cotidiana original y su ELIPSIS AMBIENTAL: cuarta viñeta SOLO ventana bajo lagoAZUL-TURQUESA/peces/luz, texto intacto, ninguna persona o contacto añadidos. HCASTAÑO-CAFÉS y PNEGRO-VERDES uniformesCOMPLETOS GRYFFINDOR BURDEOS-ORO/SLYTHERIN VERDE-PLATA, mantienen distancia normal y posterior manos unidas brevemente como target. Robin únicoMUÑECO TELA vestidoCREMA/cubiertoCREMA estrellasORO/dormido/apoyado en propia cunaMADERA OSCURA LUNA-ESTRELLAS ORO. DOS camasINDIVIDUALES SEPARADAS/cubiertasVERDES, mismas almohadas/baúles/tocador/espejoOVAL ORO/libros/apoyos/reflejos. Footer «Fin del capítulo 8» UNA vez en NEGRO pequeño discreto, retirar adornosROJOS. Todas cartelas exactas y no añadir adelanto, diálogo o escena.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "SEIS viñetas reales (2+1+1+1+1), cierre ÚNICO. Conservar EXACTAMENTE escena cotidiana original y su ELIPSIS AMBIENTAL: cuarta viñeta SOLO ventana bajo lagoAZUL-TURQUESA/peces/luz, texto intacto, ninguna persona o contacto añadidos. HCASTAÑO-CAFÉS y PNEGRO-VERDES uniformesCOMPLETOS GRYFFINDOR BURDEOS-ORO/SLYTHERIN VERDE-PLATA, mantienen distancia normal y posterior manos unidas brevemente como target. Robin únicoMUÑECO TELA vestidoCREMA/cubiertoCREMA estrellasORO/dormido/apoyado en propia cunaMADERA OSCURA LUNA-ESTRELLAS ORO. DOS camasINDIVIDUALES SEPARADAS/cubiertasVERDES, mismas almohadas/baúles/tocador/espejoOVAL ORO/libros/apoyos/reflejos. Footer «Fin del capítulo 8» UNA vez en NEGRO pequeño discreto, retirar adornosROJOS. Todas cartelas exactas y no añadir adelanto, diálogo o escena."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:27:16.387892+00:00",
+  "actualPanelCount": 6
+}

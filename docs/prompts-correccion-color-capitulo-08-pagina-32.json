@@ -1,0 +1,27 @@
+{
+  "chapter": 8,
+  "page": 32,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-b6fc8282-0931-4bee-b5f0-c7e764c29418.png",
+  "versionedImage": "paginas/c08-p032-color-v2.webp",
+  "originalPreserved": "paginas/c08-p032.webp",
+  "originalSha256": "833192b3604895b9eb88b79e036171aa642069525ffc8ca027b30da69b6c9f07",
+  "promptFile": "c08-p032-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página32 del capítulo8 del cómic español. SEGUNDA imagen c01-p001 es referencia de tinta/dibujo/color natural inicial; TERCERA c04-p001 orienta equilibrio diurno. Conservar todas las viñetas REALES y su disposición, encuadres, acciones, caras, iris, prendas, objetos, cada palabra, globo, cartela y hablante EXACTOS. Referencias no añaden otras escenas.\nRecuperar cabello CASTAÑO de HERMIONE y piel natural, NEGROS neutros detallados y grises/cremas/blancos/piedraGRIS/maderaCASTAÑA, luz diurna suave por ventanas, ámbar LOCAL en lámparas y latón/oro de objetos, reduciendo dominante naranja y contraste global. Pansy bobNEGRO neutro/irisVERDES; Hermione rizosCASTAÑOS/irisCAFÉS/pecas. Uniformes COMPLETOS H GRYFFINDOR BURDEOS-ORO, P SLYTHERIN VERDE-PLATA, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS como target. Mantener siluetas de estudiantes mayores y equilibrio cabeza-hombros-torso/miembros/alturas relativas en mismo plano, muñecos pequeños estables respecto a brazos y portadores. Header único pequeño NEGRO «Capítulo 8 · 32» ARRIBA IZQUIERDA sobre margenCREMA, retirar solo adornosROJOS exteriores. Crédito automático del lector, sin dibujarlo. Todos pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos y portador vacío al pasar a brazos.\nOCHO viñetas reales (2+2+1+3). Aula→pasillo→dormitorioDIURNO bajo lagoAZUL-TURQUESA. Todas palabras/gestos de preocupación conservados. HCASTAÑO-CAFÉS/GRYFFINDOR sostiene Robin MUÑECO TELA vestidoCREMA/cubiertoCREMA estrellasORO, portadorARENA quedaVACÍO al levantarlo. En dormitorio Robin duerme vestido/cubierto en propia cunaMADERA OSCURA LUNA-ESTRELLAS ORO, dos camasINDIVIDUALES SEPARADAS VERDES, almohadasH BURDEOS/PVERDE, tocador/espejoOVAL ORO/reflejos coherentes, luzLAGO diurna natural/lámparasÁMBAR locales. PNEGRO-VERDES/SLYTHERIN permanece de pie a distancia normal. DaphneRUBIO CLARO/AZULES, LisaCASTAÑO MEDIO/GRIS ACERO FRÍO DOMINANTE con matiz azulado muy tenue/RAVENCLAW, BabblingADULTO GRIS/GAFAS CUADRADAS/túnicaMARRÓN, todos identidades intactas. PortadorMichaelNAVY-CREMA y libros/mochilas/puerta/cunas originales, sin añadurías.\n\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "OCHO viñetas reales (2+2+1+3). Aula→pasillo→dormitorioDIURNO bajo lagoAZUL-TURQUESA. Todas palabras/gestos de preocupación conservados. HCASTAÑO-CAFÉS/GRYFFINDOR sostiene Robin MUÑECO TELA vestidoCREMA/cubiertoCREMA estrellasORO, portadorARENA quedaVACÍO al levantarlo. En dormitorio Robin duerme vestido/cubierto en propia cunaMADERA OSCURA LUNA-ESTRELLAS ORO, dos camasINDIVIDUALES SEPARADAS VERDES, almohadasH BURDEOS/PVERDE, tocador/espejoOVAL ORO/reflejos coherentes, luzLAGO diurna natural/lámparasÁMBAR locales. PNEGRO-VERDES/SLYTHERIN permanece de pie a distancia normal. DaphneRUBIO CLARO/AZULES, LisaCASTAÑO MEDIO/GRIS FRÍO-AZUL/RAVENCLAW, BabblingADULTO GRIS/GAFAS CUADRADAS/túnicaMARRÓN, todos identidades intactas. PortadorMichaelNAVY-CREMA y libros/mochilas/puerta/cunas originales, sin añadurías."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:25:15.856906+00:00",
+  "actualPanelCount": 8
+}

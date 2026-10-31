@@ -1,0 +1,27 @@
+{
+  "chapter": 8,
+  "page": 31,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-bca69a67-1b00-45d1-b5e3-1ab236cb33f1.png",
+  "versionedImage": "paginas/c08-p031-color-v2.webp",
+  "originalPreserved": "paginas/c08-p031.webp",
+  "originalSha256": "85f7d5c02951e3c15ed7ac5e0a0209912c33226c0b416ae7bea5a04266b8a1eb",
+  "promptFile": "c08-p031-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página31 del capítulo8 del cómic español. SEGUNDA imagen c01-p001 es referencia de tinta/dibujo/color natural inicial; TERCERA c04-p001 orienta equilibrio diurno. Conservar todas las viñetas REALES y su disposición, encuadres, acciones, caras, iris, prendas, objetos, cada palabra, globo, cartela y hablante EXACTOS. Referencias no añaden otras escenas.\nRecuperar cabello CASTAÑO de HERMIONE y piel natural, NEGROS neutros detallados y grises/cremas/blancos/piedraGRIS/maderaCASTAÑA, luz diurna suave por ventanas, ámbar LOCAL en lámparas y latón/oro de objetos, reduciendo dominante naranja y contraste global. Pansy bobNEGRO neutro/irisVERDES; Hermione rizosCASTAÑOS/irisCAFÉS/pecas. Uniformes COMPLETOS H GRYFFINDOR BURDEOS-ORO, P SLYTHERIN VERDE-PLATA, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS como target. Mantener siluetas de estudiantes mayores y equilibrio cabeza-hombros-torso/miembros/alturas relativas en mismo plano, muñecos pequeños estables respecto a brazos y portadores. Header único pequeño NEGRO «Capítulo 8 · 31» ARRIBA IZQUIERDA sobre margenCREMA, retirar solo adornosROJOS exteriores. Crédito automático del lector, sin dibujarlo. Todos pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos y portador vacío al pasar a brazos.\nNUEVE viñetas reales (1+2+3+1+2). Charla de amigas y regreso a pupitre con todos diálogos EXACTOS. Daphne RUBIO CLARO ondulado/AZULES/SLYTHERIN, HCASTAÑO-CAFÉS/GRYFFINDOR, PNEGRO-VERDES/SLYTHERIN y LisaCASTAÑO MEDIO LISO-LARGO/GRIS ACERO FRÍO DOMINANTE con matiz azulado muy tenue/RAVENCLAW AZUL-BRONCE. Arianna BEIGE/gorroBEIGE cabelloOCULTO/mantaBEIGE propia en portador juntoD, RobinCREMA/mantaCREMA-ORO en cochecitoARENA. Mantener la mano deLisa junto HOMBRO CUBIERTO, Pansy erguida apartándose con manos abiertas tal como target, distancia normal, ninguna acción nueva. Conservar última preocupación porRobin. Texto de duelo es diálogo irónico intacto, no representar combate.\n\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "NUEVE viñetas reales (1+2+3+1+2). Charla de amigas y regreso a pupitre con todos diálogos EXACTOS. Daphne RUBIO CLARO ondulado/AZULES/SLYTHERIN, HCASTAÑO-CAFÉS/GRYFFINDOR, PNEGRO-VERDES/SLYTHERIN y LisaCASTAÑO MEDIO LISO-LARGO/GRIS FRÍO ligeramenteAZUL/RAVENCLAW AZUL-BRONCE. Arianna BEIGE/gorroBEIGE cabelloOCULTO/mantaBEIGE propia en portador juntoD, RobinCREMA/mantaCREMA-ORO en cochecitoARENA. Mantener la mano deLisa junto HOMBRO CUBIERTO, Pansy erguida apartándose con manos abiertas tal como target, distancia normal, ninguna acción nueva. Conservar última preocupación porRobin. Texto de duelo es diálogo irónico intacto, no representar combate."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:24:00.994780+00:00",
+  "actualPanelCount": 9
+}

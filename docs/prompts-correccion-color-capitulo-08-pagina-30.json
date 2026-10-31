@@ -1,0 +1,32 @@
+{
+  "chapter": 8,
+  "page": 30,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-d3bf5cc9-33cd-4199-9fe5-1351afb81b89.png",
+  "versionedImage": "paginas/c08-p030-color-v2.webp",
+  "originalPreserved": "paginas/c08-p030.webp",
+  "originalSha256": "e6a15dafda4f2445186b79fd6cf33b9edd76a27aaeef826d5512a247426baf39",
+  "promptFile": "c08-p030-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página30 del capítulo8 del cómic español. SEGUNDA imagen c01-p001 es referencia de tinta/dibujo/color natural inicial; TERCERA c04-p001 orienta equilibrio diurno. Conservar todas las viñetas REALES y su disposición, encuadres, acciones, caras, iris, prendas, objetos, cada palabra, globo, cartela y hablante EXACTOS. Referencias no añaden otras escenas.\nRecuperar cabello CASTAÑO de HERMIONE y piel natural, NEGROS neutros detallados y grises/cremas/blancos/piedraGRIS/maderaCASTAÑA, luz diurna suave por ventanas, ámbar LOCAL en lámparas y latón/oro de objetos, reduciendo dominante naranja y contraste global. Pansy bobNEGRO neutro/irisVERDES; Hermione rizosCASTAÑOS/irisCAFÉS/pecas. Uniformes COMPLETOS H GRYFFINDOR BURDEOS-ORO, P SLYTHERIN VERDE-PLATA, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS como target. Mantener siluetas de estudiantes mayores y equilibrio cabeza-hombros-torso/miembros/alturas relativas en mismo plano, muñecos pequeños estables respecto a brazos y portadores. Header único pequeño NEGRO «Capítulo 8 · 30» ARRIBA IZQUIERDA sobre margenCREMA, retirar solo adornosROJOS exteriores. Crédito automático del lector, sin dibujarlo. Todos pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos y portador vacío al pasar a brazos.\nNUEVE viñetas reales (1+1+2+3+2). Clase literaria FICTICIA, pizarra «Ehwaz» y texto «Gebo» intactos, todos diálogos exactos. BABBLING docente MASCULINO ADULTO MEDIANA EDAD/cabelloGRIS CORTO pulcro/SINBARBA/gafasCUADRADAS/CAFÉS/túnicaMARRÓN larga, rostro adulto propio. HCASTAÑO-CAFÉS/Gryffindor, PNEGRO-VERDES/Slytherin, LisaCASTAÑO MEDIO LISO-LARGO/raya lateral/GRIS FRÍO ligeramenteAZUL/RAVENCLAW AZUL-BRONCE. Daphne RUBIO CLARO ondulado/AZULES/Slytherin, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS/Slytherin. Todos uniformes completos, mismos asientos/libros/pluma/mancha deTINTA/pergaminos, RobinCREMA cubierto en propio portadorARENA sinruedas, sin duplicar muñecos. Premios de puntos y atribución de cada globo intactos.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [
+    {
+      "file": "c08-p030-correccion-lisa-gris.txt",
+      "prompt": "Editar exclusivamente los iris de LISA TURPIN en la PRIMERA imagen. Lisa es la alumna de cabello CASTAÑO MEDIO LARGO LISO/raya lateral/uniforme RAVENCLAW AZUL-BRONCE que aparece junto a Pansy. En sus CUATRO apariciones visibles con ojos abiertos, colorear los iris GRIS ACERO FRÍO, gris dominante con matiz azulado muy tenue, pupila negra y brillo pequeño. Conservar exactamente el color VERDE BOSQUE de Pansy, CAFÉ de Hermione, AZUL de Daphne, CAFÉ de Blaise y Babbling. Mantener todo lo demás pixel-fiel visualmente: NUEVE viñetas/disposición/cada palabra y hablante/pizarra/ropa/rostros/cabellos/objetos/header/paleta natural. Sin otros cambios.\n"
+    }
+  ],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "NUEVE viñetas reales (1+1+2+3+2). Clase literaria FICTICIA, pizarra «Ehwaz» y texto «Gebo» intactos, todos diálogos exactos. BABBLING docente MASCULINO ADULTO MEDIANA EDAD/cabelloGRIS CORTO pulcro/SINBARBA/gafasCUADRADAS/CAFÉS/túnicaMARRÓN larga, rostro adulto propio. HCASTAÑO-CAFÉS/Gryffindor, PNEGRO-VERDES/Slytherin, LisaCASTAÑO MEDIO LISO-LARGO/raya lateral/GRIS FRÍO ligeramenteAZUL/RAVENCLAW AZUL-BRONCE. Daphne RUBIO CLARO ondulado/AZULES/Slytherin, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS/Slytherin. Todos uniformes completos, mismos asientos/libros/pluma/mancha deTINTA/pergaminos, RobinCREMA cubierto en propio portadorARENA sinruedas, sin duplicar muñecos. Premios de puntos y atribución de cada globo intactos."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:21:17.455457+00:00",
+  "actualPanelCount": 9
+}

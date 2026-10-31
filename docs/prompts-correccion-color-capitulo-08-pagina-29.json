@@ -1,0 +1,27 @@
+{
+  "chapter": 8,
+  "page": 29,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-09f69558-7c37-4e60-bfcb-dbc043074718.png",
+  "versionedImage": "paginas/c08-p029-color-v2.webp",
+  "originalPreserved": "paginas/c08-p029.webp",
+  "originalSha256": "fdba27002dbae49ce5ccb91f751bde5cb5f66faff457ef8d2fec1f2d210b64ff",
+  "promptFile": "c08-p029-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página29 del capítulo8 del cómic español. SEGUNDA imagen c01-p001 es referencia de tinta/dibujo/color natural inicial; TERCERA c04-p001 orienta equilibrio diurno. Conservar todas las viñetas REALES y su disposición, encuadres, acciones, caras, iris, prendas, objetos, cada palabra, globo, cartela y hablante EXACTOS. Referencias no añaden otras escenas.\nRecuperar cabello CASTAÑO de HERMIONE y piel natural, NEGROS neutros detallados y grises/cremas/blancos/piedraGRIS/maderaCASTAÑA, luz diurna suave por ventanas, ámbar LOCAL en lámparas y latón/oro de objetos, reduciendo dominante naranja y contraste global. Pansy bobNEGRO neutro/irisVERDES; Hermione rizosCASTAÑOS/irisCAFÉS/pecas. Uniformes COMPLETOS H GRYFFINDOR BURDEOS-ORO, P SLYTHERIN VERDE-PLATA, capasNEGRAS largas/jerseysGRISES/camisasBLANCAS como target. Mantener siluetas de estudiantes mayores y equilibrio cabeza-hombros-torso/miembros/alturas relativas en mismo plano, muñecos pequeños estables respecto a brazos y portadores. Header único pequeño NEGRO «Capítulo 8 · 29» ARRIBA IZQUIERDA sobre margenCREMA, retirar solo adornosROJOS exteriores. Crédito automático del lector, sin dibujarlo. Todos pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos y portador vacío al pasar a brazos.\nDOCE viñetas reales (3+1+1+2+3+2). Gran Comedor→corredor→aulaRunas, piedraGRIS/maderaCASTAÑA/luz natural, libros/pizarra/rúnicos FICTICIOS exactos. Daphne RUBIO CLARO ondulado/AZULES/SLYTHERIN; LISA TURPIN CASTAÑO MEDIO LARGO LISO/raya LATERAL/rostroOVALADO/irisGRIS FRÍO ligeramenteAZUL/SINgafas/uniformeRAVENCLAW AZUL-BRONCE, diferenciada de otras alumnas. PansySLYTHERIN/HermioneGRYFFINDOR completos. Robin únicoMUÑECO TELA mechónCASTAÑO/CREMA/mantaCREMA estrellasORO que ya aparecen/apoyado en cochecitoARENA flotante sinruedas/LATÓN; pequeño portadorMichael secundarioNAVY-CREMA deLisa tal cual, sin añadir identidad nueva. Mantener el saludo académico breve deLisa sobre ANTEBRAZO CUBIERTO dePansy, distancia normal, manos y toda sintaxis/orden de textos intactos.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "DOCE viñetas reales (3+1+1+2+3+2). Gran Comedor→corredor→aulaRunas, piedraGRIS/maderaCASTAÑA/luz natural, libros/pizarra/rúnicos FICTICIOS exactos. Daphne RUBIO CLARO ondulado/AZULES/SLYTHERIN; LISA TURPIN CASTAÑO MEDIO LARGO LISO/raya LATERAL/rostroOVALADO/irisGRIS FRÍO ligeramenteAZUL/SINgafas/uniformeRAVENCLAW AZUL-BRONCE, diferenciada de otras alumnas. PansySLYTHERIN/HermioneGRYFFINDOR completos. Robin únicoMUÑECO TELA mechónCASTAÑO/CREMA/mantaCREMA estrellasORO que ya aparecen/apoyado en cochecitoARENA flotante sinruedas/LATÓN; pequeño portadorMichael secundarioNAVY-CREMA deLisa tal cual, sin añadir identidad nueva. Mantener el saludo académico breve deLisa sobre ANTEBRAZO CUBIERTO dePansy, distancia normal, manos y toda sintaxis/orden de textos intactos."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:16:32.786663+00:00",
+  "actualPanelCount": 12
+}
