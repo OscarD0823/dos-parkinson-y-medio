@@ -1,0 +1,27 @@
+{
+  "chapter": 9,
+  "page": 8,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-96808a17-afb8-4542-835f-ca53646976e9.png",
+  "versionedImage": "paginas/c09-p008-color-v2.webp",
+  "originalPreserved": "paginas/c09-p008.webp",
+  "originalSha256": "462aba8300beff7fe6d9833cbb6bdb99f1ba6eb508b3e23043b8268df30bb030",
+  "promptFile": "c09-p008-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página8 del capítulo9 del cómic español. SEGUNDA c01-p001 referencia de tinta/dibujo/paleta natural inicial; TERCERA c04-p001 referencia de equilibrio de apertura/diurno. Mantener cada viñeta REAL/disposición/encuadre/gesto/rostro/ropa/objeto y todas palabras/globos/cartelas/hablantes EXACTOS. Recuperar cabello CASTAÑO natural de HERMIONE, piel natural, NEGROS neutros detallados/grises/cremas/blancos/maderaCASTAÑA/piedraGRIS. Ámbar LOCAL de lámparas/velas y metalesORO-LATÓN se mantienen, reducir naranja/amarillo y contraste global. Escenas nocturnas mantienen ambiente nocturno; diurnas luz suave natural. Pansy bobNEGRO/VERDE BOSQUE, Hermione rizosCASTAÑOS/CAFÉS/pecas, Daphne RUBIO CLARO/AZULES, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS. Todos uniformes COMPLETOS con capasNEGRAS largas/jerseysGRISES/camisasBLANCAS/corbatacasapropia: H-Ginny GRYFFINDOR BURDEOS-ORO, P-D-B-Draco-Theo SLYTHERIN VERDE-PLATA. Siluetas de estudiantes mayores coherentes con dibujo inicial, cabezas/hombros/torso/miembros equilibrados, alturas relativas estables en mismo suelo, sin centímetros inventados. Pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos, portadores propios VACÍOS al pasar a brazos. Header pequeño único NEGRO «Capítulo 9 · 08» ARRIBA IZQUIERDA en margenCREMA, retirar solo adornosROJOS exteriores. No dibujar crédito, lector lo aplica.\nNUEVE viñetas reales (1+2+2+2+2), corredorDIURNO piedraGRIS y luznatural/lamparitasÁMBAR locales. PansyNEGRO neutro/VERDES, DaphneRUBIO CLARO/AZULES, BlaiseNEGRO/CAFÉS, todosSLYTHERIN completos VERDE-PLATA. DOS muñecos distintos en DOS portadores flotantes SINRUEDAS propios: RobinCASTAÑO/VERDES/CREMA/mantaCREMA-QUIDDITCH/cochecitoARENA/bolsaVERDE «R.P.» PLATEADO; AriannaBEIGE/gorroBEIGE cabelloOCULTO/mantaBEIGE/cochecitoBEIGE sencilloSINR.P. Mantener cada palabra/gesto, bolsas/mochilas, movimientos/apoyos estables en sueloLLANO. No duplicar muñecos o intercambiar portadores.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "NUEVE viñetas reales (1+2+2+2+2), corredorDIURNO piedraGRIS y luznatural/lamparitasÁMBAR locales. PansyNEGRO neutro/VERDES, DaphneRUBIO CLARO/AZULES, BlaiseNEGRO/CAFÉS, todosSLYTHERIN completos VERDE-PLATA. DOS muñecos distintos en DOS portadores flotantes SINRUEDAS propios: RobinCASTAÑO/VERDES/CREMA/mantaCREMA-QUIDDITCH/cochecitoARENA/bolsaVERDE «R.P.» PLATEADO; AriannaBEIGE/gorroBEIGE cabelloOCULTO/mantaBEIGE/cochecitoBEIGE sencilloSINR.P. Mantener cada palabra/gesto, bolsas/mochilas, movimientos/apoyos estables en sueloLLANO. No duplicar muñecos o intercambiar portadores."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:52:53.209763+00:00",
+  "actualPanelCount": 9
+}

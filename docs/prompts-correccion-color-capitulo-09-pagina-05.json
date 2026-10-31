@@ -1,0 +1,27 @@
+{
+  "chapter": 9,
+  "page": 5,
+  "tool": "ImageGen integrada",
+  "scope": "Individual visual comparison and colour/header correction, preserving exact story/words/balloon attribution/identity/wardrobe/props. No new page count.",
+  "master": "exec-422d1371-0a76-4f86-87a1-443a9b9fa8d0.png",
+  "versionedImage": "paginas/c09-p005-color-v2.webp",
+  "originalPreserved": "paginas/c09-p005.webp",
+  "originalSha256": "4ad1518d2a8f14bb23628a1b9a51ffcab6e8926c062600a76503776b843b7261",
+  "promptFile": "c09-p005-color-encabezado-v2-prompt.txt",
+  "prompt": "Editar SOLO la PRIMERA imagen, página5 del capítulo9 del cómic español. SEGUNDA c01-p001 referencia de tinta/dibujo/paleta natural inicial; TERCERA c04-p001 referencia de equilibrio de apertura/diurno. Mantener cada viñeta REAL/disposición/encuadre/gesto/rostro/ropa/objeto y todas palabras/globos/cartelas/hablantes EXACTOS. Recuperar cabello CASTAÑO natural de HERMIONE, piel natural, NEGROS neutros detallados/grises/cremas/blancos/maderaCASTAÑA/piedraGRIS. Ámbar LOCAL de lámparas/velas y metalesORO-LATÓN se mantienen, reducir naranja/amarillo y contraste global. Escenas nocturnas mantienen ambiente nocturno; diurnas luz suave natural. Pansy bobNEGRO/VERDE BOSQUE, Hermione rizosCASTAÑOS/CAFÉS/pecas, Daphne RUBIO CLARO/AZULES, Blaise pielNEGRA/rizosNEGROS CORTOS/CAFÉS. Todos uniformes COMPLETOS con capasNEGRAS largas/jerseysGRISES/camisasBLANCAS/corbatacasapropia: H-Ginny GRYFFINDOR BURDEOS-ORO, P-D-B-Draco-Theo SLYTHERIN VERDE-PLATA. Siluetas de estudiantes mayores coherentes con dibujo inicial, cabezas/hombros/torso/miembros equilibrados, alturas relativas estables en mismo suelo, sin centímetros inventados. Pequeños MUÑECOS ENCANTADOS escolares TELA, vestidos/cubiertos/apoyados/únicos, portadores propios VACÍOS al pasar a brazos. Header pequeño único NEGRO «Capítulo 9 · 05» ARRIBA IZQUIERDA en margenCREMA, retirar solo adornosROJOS exteriores. No dibujar crédito, lector lo aplica.\nOCHO viñetas reales (1+1+2+1+2+1), tarde en biblioteca, Ginny peloROJO LARGO/irisAZULES mantiene ROJO real, Hermione cabelloCASTAÑO claramente distinto/CAFÉS. Ambas uniformesGRYFFINDOR completos BURDEOS-ORO/capasNEGRAS largas. Recuperar luz natural suave porventana/lamparitasÁMBAR locales, libros/madera/letrero «Silencio»/mochilas iguales. Todos diálogos solo conversación verbal intacta, no flashbacks/escena añadida; mismos encuadres/manos/libros y atribuciones.\n",
+  "review": "Generated image visually checked against original: actual panel count/order/exact words/speakers/faces/iris/hairstyles/full clothing/props retained except recorded colour/header corrections. Original transcript identical and original WebP preserved.",
+  "transcriptIdentical": true,
+  "publicPagesUnchanged": 215,
+  "proportionsReviewComplete": true,
+  "correctionPrompts": [],
+  "additionalCorrections": {
+    "palette": "Global orange/contrast softened, natural BROWN Hermione curls, detailed neutral BLACK/GRAY/CREAM and local AMBER, original greens/blue lake retained.",
+    "header": "Single small upper-left black header; original exterior red ornaments removed.",
+    "continuity": "OCHO viñetas reales (1+1+2+1+2+1), tarde en biblioteca, Ginny peloROJO LARGO/irisAZULES mantiene ROJO real, Hermione cabelloCASTAÑO claramente distinto/CAFÉS. Ambas uniformesGRYFFINDOR completos BURDEOS-ORO/capasNEGRAS largas. Recuperar luz natural suave porventana/lamparitasÁMBAR locales, libros/madera/letrero «Silencio»/mochilas iguales. Todos diálogos solo conversación verbal intacta, no flashbacks/escena añadida; mismos encuadres/manos/libros y atribuciones."
+  },
+  "visibleProportionsCheck": "Visible student head/shoulder/torso balance/apparent age checked against initial drawings and film silhouette reference. Existing identities/relative heights and supported toy scale preserved; no inferred centimetres from cropped or seated views. This page only; full132 audit incomplete.",
+  "mode": "built-in",
+  "paidApiCliUsed": false,
+  "approvedAt": "2026-10-31T00:45:59.829911+00:00",
+  "actualPanelCount": 8
+}
