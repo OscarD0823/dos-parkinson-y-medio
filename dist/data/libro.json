@@ -112,7 +112,7 @@
         },
         {
           "number": 13,
-          "image": "paginas/c01-p013.webp",
+          "image": "paginas/c01-p013-detalle-v3.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 13 del cómic.",
@@ -660,7 +660,7 @@
         },
         {
           "number": 17,
-          "image": "paginas/c04-p017.webp",
+          "image": "paginas/c04-p017-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 4: Operación Maternidad. Página 17 del cómic.",
@@ -668,7 +668,7 @@
         },
         {
           "number": 18,
-          "image": "paginas/c04-p018.webp",
+          "image": "paginas/c04-p018-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 4: Operación Maternidad. Página 18 del cómic.",
@@ -676,7 +676,7 @@
         },
         {
           "number": 19,
-          "image": "paginas/c04-p019.webp",
+          "image": "paginas/c04-p019-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 4: Operación Maternidad. Página 19 del cómic.",
@@ -684,7 +684,7 @@
         },
         {
           "number": 20,
-          "image": "paginas/c04-p020.webp",
+          "image": "paginas/c04-p020-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 4: Operación Maternidad. Página 20 del cómic.",
@@ -692,7 +692,7 @@
         },
         {
           "number": 21,
-          "image": "paginas/c04-p021.webp",
+          "image": "paginas/c04-p021-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 4: Operación Maternidad. Página 21 del cómic.",
@@ -700,7 +700,7 @@
         },
         {
           "number": 22,
-          "image": "paginas/c04-p022.webp",
+          "image": "paginas/c04-p022-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 4: Operación Maternidad. Página 22 del cómic.",
@@ -728,7 +728,7 @@
       "pages": [
         {
           "number": 1,
-          "image": "paginas/c05-p001-estilo-v3.webp",
+          "image": "paginas/c05-p001-estilo-v3-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 5: Sentimientos. Página 1 del cómic.",
@@ -760,7 +760,7 @@
         },
         {
           "number": 5,
-          "image": "paginas/c05-p005-color-v2.webp",
+          "image": "paginas/c05-p005-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 5: Sentimientos. Página 5 del cómic.",
@@ -768,7 +768,7 @@
         },
         {
           "number": 6,
-          "image": "paginas/c05-p006-color-v2.webp",
+          "image": "paginas/c05-p006-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 5: Sentimientos. Página 6 del cómic.",
@@ -776,7 +776,7 @@
         },
         {
           "number": 7,
-          "image": "paginas/c05-p007-color-v2.webp",
+          "image": "paginas/c05-p007-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 5: Sentimientos. Página 7 del cómic.",
@@ -816,7 +816,7 @@
         },
         {
           "number": 12,
-          "image": "paginas/c05-p012-color-v2.webp",
+          "image": "paginas/c05-p012-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 5: Sentimientos. Página 12 del cómic.",
@@ -824,7 +824,7 @@
         },
         {
           "number": 13,
-          "image": "paginas/c05-p013-color-v2.webp",
+          "image": "paginas/c05-p013-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 5: Sentimientos. Página 13 del cómic.",
@@ -876,7 +876,7 @@
         },
         {
           "number": 2,
-          "image": "paginas/c06-p002-color-v2.webp",
+          "image": "paginas/c06-p002-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 2 del cómic.",
@@ -884,7 +884,7 @@
         },
         {
           "number": 3,
-          "image": "paginas/c06-p003-color-v2.webp",
+          "image": "paginas/c06-p003-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 3 del cómic.",
@@ -892,7 +892,7 @@
         },
         {
           "number": 4,
-          "image": "paginas/c06-p004-color-v2.webp",
+          "image": "paginas/c06-p004-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 4 del cómic.",
@@ -900,7 +900,7 @@
         },
         {
           "number": 5,
-          "image": "paginas/c06-p005-color-v2.webp",
+          "image": "paginas/c06-p005-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 5 del cómic.",
@@ -908,7 +908,7 @@
         },
         {
           "number": 6,
-          "image": "paginas/c06-p006-color-v2.webp",
+          "image": "paginas/c06-p006-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 6 del cómic.",
@@ -916,7 +916,7 @@
         },
         {
           "number": 7,
-          "image": "paginas/c06-p007-color-v2.webp",
+          "image": "paginas/c06-p007-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 7 del cómic.",
@@ -924,7 +924,7 @@
         },
         {
           "number": 8,
-          "image": "paginas/c06-p008-color-v2.webp",
+          "image": "paginas/c06-p008-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 8 del cómic.",
@@ -932,7 +932,7 @@
         },
         {
           "number": 9,
-          "image": "paginas/c06-p009-color-v2.webp",
+          "image": "paginas/c06-p009-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 9 del cómic.",
@@ -948,7 +948,7 @@
         },
         {
           "number": 11,
-          "image": "paginas/c06-p011-color-v2.webp",
+          "image": "paginas/c06-p011-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 11 del cómic.",
@@ -956,7 +956,7 @@
         },
         {
           "number": 12,
-          "image": "paginas/c06-p012-color-v2.webp",
+          "image": "paginas/c06-p012-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 12 del cómic.",
@@ -980,7 +980,7 @@
         },
         {
           "number": 15,
-          "image": "paginas/c06-p015-color-v2.webp",
+          "image": "paginas/c06-p015-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 15 del cómic.",
@@ -1028,7 +1028,7 @@
         },
         {
           "number": 21,
-          "image": "paginas/c06-p021.webp",
+          "image": "paginas/c06-p021-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 21 del cómic.",
@@ -1052,7 +1052,7 @@
         },
         {
           "number": 24,
-          "image": "paginas/c06-p024.webp",
+          "image": "paginas/c06-p024-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 24 del cómic.",
@@ -1060,7 +1060,7 @@
         },
         {
           "number": 25,
-          "image": "paginas/c06-p025-color-v2.webp",
+          "image": "paginas/c06-p025-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 25 del cómic.",
@@ -1068,7 +1068,7 @@
         },
         {
           "number": 26,
-          "image": "paginas/c06-p026-color-v2.webp",
+          "image": "paginas/c06-p026-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 26 del cómic.",
@@ -1076,7 +1076,7 @@
         },
         {
           "number": 27,
-          "image": "paginas/c06-p027-color-v2.webp",
+          "image": "paginas/c06-p027-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 27 del cómic.",
@@ -1084,7 +1084,7 @@
         },
         {
           "number": 28,
-          "image": "paginas/c06-p028-color-v2.webp",
+          "image": "paginas/c06-p028-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 6: Patatas fritas y malteada de fresa.. Página 28 del cómic.",
@@ -1104,7 +1104,7 @@
       "pages": [
         {
           "number": 1,
-          "image": "paginas/c07-p001-color-v2.webp",
+          "image": "paginas/c07-p001-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 1 del cómic.",
@@ -1168,7 +1168,7 @@
         },
         {
           "number": 9,
-          "image": "paginas/c07-p009-color-v2.webp",
+          "image": "paginas/c07-p009-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 9 del cómic.",
@@ -1176,7 +1176,7 @@
         },
         {
           "number": 10,
-          "image": "paginas/c07-p010-color-v2.webp",
+          "image": "paginas/c07-p010-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 10 del cómic.",
@@ -1184,7 +1184,7 @@
         },
         {
           "number": 11,
-          "image": "paginas/c07-p011-color-v2.webp",
+          "image": "paginas/c07-p011-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 11 del cómic.",
@@ -1216,7 +1216,7 @@
         },
         {
           "number": 15,
-          "image": "paginas/c07-p015.webp",
+          "image": "paginas/c07-p015-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 15 del cómic.",
@@ -1232,7 +1232,7 @@
         },
         {
           "number": 17,
-          "image": "paginas/c07-p017-color-v2.webp",
+          "image": "paginas/c07-p017-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 17 del cómic.",
@@ -1240,7 +1240,7 @@
         },
         {
           "number": 18,
-          "image": "paginas/c07-p018-color-v2.webp",
+          "image": "paginas/c07-p018-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 7: ¡Ha nacido un Parkinson!. Página 18 del cómic.",
@@ -1260,7 +1260,7 @@
       "pages": [
         {
           "number": 1,
-          "image": "paginas/c08-p001-color-v2.webp",
+          "image": "paginas/c08-p001-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 1 del cómic.",
@@ -1268,7 +1268,7 @@
         },
         {
           "number": 2,
-          "image": "paginas/c08-p002-color-v2.webp",
+          "image": "paginas/c08-p002-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 2 del cómic.",
@@ -1276,7 +1276,7 @@
         },
         {
           "number": 3,
-          "image": "paginas/c08-p003-color-v2.webp",
+          "image": "paginas/c08-p003-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 3 del cómic.",
@@ -1284,7 +1284,7 @@
         },
         {
           "number": 4,
-          "image": "paginas/c08-p004-color-v2.webp",
+          "image": "paginas/c08-p004-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 4 del cómic.",
@@ -1292,7 +1292,7 @@
         },
         {
           "number": 5,
-          "image": "paginas/c08-p005-color-v2.webp",
+          "image": "paginas/c08-p005-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 5 del cómic.",
@@ -1308,7 +1308,7 @@
         },
         {
           "number": 7,
-          "image": "paginas/c08-p007-color-v2.webp",
+          "image": "paginas/c08-p007-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 7 del cómic.",
@@ -1316,7 +1316,7 @@
         },
         {
           "number": 8,
-          "image": "paginas/c08-p008-color-v2.webp",
+          "image": "paginas/c08-p008-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 8 del cómic.",
@@ -1324,7 +1324,7 @@
         },
         {
           "number": 9,
-          "image": "paginas/c08-p009-color-v2.webp",
+          "image": "paginas/c08-p009-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 9 del cómic.",
@@ -1332,7 +1332,7 @@
         },
         {
           "number": 10,
-          "image": "paginas/c08-p010-color-v2.webp",
+          "image": "paginas/c08-p010-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 10 del cómic.",
@@ -1340,7 +1340,7 @@
         },
         {
           "number": 11,
-          "image": "paginas/c08-p011-color-v2.webp",
+          "image": "paginas/c08-p011-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 11 del cómic.",
@@ -1348,7 +1348,7 @@
         },
         {
           "number": 12,
-          "image": "paginas/c08-p012-color-v2.webp",
+          "image": "paginas/c08-p012-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 12 del cómic.",
@@ -1356,7 +1356,7 @@
         },
         {
           "number": 13,
-          "image": "paginas/c08-p013-color-v2.webp",
+          "image": "paginas/c08-p013-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 13 del cómic.",
@@ -1364,7 +1364,7 @@
         },
         {
           "number": 14,
-          "image": "paginas/c08-p014-color-v2.webp",
+          "image": "paginas/c08-p014-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 14 del cómic.",
@@ -1372,7 +1372,7 @@
         },
         {
           "number": 15,
-          "image": "paginas/c08-p015-color-v2.webp",
+          "image": "paginas/c08-p015-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 15 del cómic.",
@@ -1380,7 +1380,7 @@
         },
         {
           "number": 16,
-          "image": "paginas/c08-p016-color-v2.webp",
+          "image": "paginas/c08-p016-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 16 del cómic.",
@@ -1388,7 +1388,7 @@
         },
         {
           "number": 17,
-          "image": "paginas/c08-p017-color-v2.webp",
+          "image": "paginas/c08-p017-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 17 del cómic.",
@@ -1396,7 +1396,7 @@
         },
         {
           "number": 18,
-          "image": "paginas/c08-p018-color-v2.webp",
+          "image": "paginas/c08-p018-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 18 del cómic.",
@@ -1404,7 +1404,7 @@
         },
         {
           "number": 19,
-          "image": "paginas/c08-p019-color-v2.webp",
+          "image": "paginas/c08-p019-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 19 del cómic.",
@@ -1412,7 +1412,7 @@
         },
         {
           "number": 20,
-          "image": "paginas/c08-p020-color-v2.webp",
+          "image": "paginas/c08-p020-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 20 del cómic.",
@@ -1420,7 +1420,7 @@
         },
         {
           "number": 21,
-          "image": "paginas/c08-p021-color-v2.webp",
+          "image": "paginas/c08-p021-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 21 del cómic.",
@@ -1428,7 +1428,7 @@
         },
         {
           "number": 22,
-          "image": "paginas/c08-p022-color-v2.webp",
+          "image": "paginas/c08-p022-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 22 del cómic.",
@@ -1436,7 +1436,7 @@
         },
         {
           "number": 23,
-          "image": "paginas/c08-p023-color-v2.webp",
+          "image": "paginas/c08-p023-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 23 del cómic.",
@@ -1444,7 +1444,7 @@
         },
         {
           "number": 24,
-          "image": "paginas/c08-p024-color-v2.webp",
+          "image": "paginas/c08-p024-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 24 del cómic.",
@@ -1460,7 +1460,7 @@
         },
         {
           "number": 26,
-          "image": "paginas/c08-p026-color-v2.webp",
+          "image": "paginas/c08-p026-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 26 del cómic.",
@@ -1468,7 +1468,7 @@
         },
         {
           "number": 27,
-          "image": "paginas/c08-p027-color-v2.webp",
+          "image": "paginas/c08-p027-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 27 del cómic.",
@@ -1476,7 +1476,7 @@
         },
         {
           "number": 28,
-          "image": "paginas/c08-p028-color-v2.webp",
+          "image": "paginas/c08-p028-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 28 del cómic.",
@@ -1484,7 +1484,7 @@
         },
         {
           "number": 29,
-          "image": "paginas/c08-p029-color-v2.webp",
+          "image": "paginas/c08-p029-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 29 del cómic.",
@@ -1492,7 +1492,7 @@
         },
         {
           "number": 30,
-          "image": "paginas/c08-p030-color-v2.webp",
+          "image": "paginas/c08-p030-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 30 del cómic.",
@@ -1500,7 +1500,7 @@
         },
         {
           "number": 31,
-          "image": "paginas/c08-p031-color-v2.webp",
+          "image": "paginas/c08-p031-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 8: La Familia Parkinson. Página 31 del cómic.",
@@ -1592,7 +1592,7 @@
         },
         {
           "number": 8,
-          "image": "paginas/c09-p008-color-v2.webp",
+          "image": "paginas/c09-p008-color-v2-personajes-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 8 del cómic.",

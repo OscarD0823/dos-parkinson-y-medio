@@ -1,5 +1,11 @@
 # Revisión de continuidad y exportación
 
+## Segunda entrega de identidad, capítulos 2–9
+
+El 3 de noviembre de 2026 se completa la comparación de las 174 páginas de los capítulos 2–8 y 1–14 del 9. Se incorporan 66 nuevas versiones en ese tramo y detalle adicional en el capítulo 1, página 13: **67 imágenes**. Se conservan 93 páginas que ya mantenían el diseño, cinco páginas tras rechazo de la herramienta y 11 correcciones pendientes por el límite de uso. El [registro de esta entrega](REVISION-CAPITULOS-02-09.md) enumera todos los casos; el [registro por página](revision-capitulos-02-09.json) incluye decisiones y huellas. Las 11 ediciones pendientes todavía usan sus imágenes anteriores.
+
+Pansy recupera el rostro y la melena originales. Se comprueban también Millicent, Tracey, Daphne y Lisa para conservar sus diseños propios. Las candidatas finales se revisan completas, con contraste visual de todos sus textos y OCR adicional. Los originales y los demás campos del manifiesto permanecen intactos. El lector conserva 221 páginas ilustradas; la siguiente producción nueva sigue siendo capítulo 10, página 7.
+
 ## Identidad y detalle del capítulo 1
 
 La revisión retomada el 3 de noviembre de 2026 fija las primeras páginas originales como referencia permanente de los rostros. Se comparan las 18 páginas del capítulo 1 y se incorporan 16 versiones enriquecidas. Se conservan las páginas originales 3 y 13, cuya edición no fue aceptada por la herramienta. Se descartan también las pruebas que cambiaron la expresión de Pansy, confundieron a Tracey con ella o copiaron una página de referencia en lugar del objetivo.
@@ -20,7 +26,7 @@ Se comprueba el paso desde la última página del capítulo 9 al 10, la copia y 
 
 Entrega del 2 de noviembre de 2026.
 
-Se compararon hojas de contacto de las 215 páginas publicadas con el dibujo de `c01-p001` y la presentación de `c04-p001`. La comprobación individual de esta entrega cubre las páginas 15 a 37 del capítulo 9. Los registros anteriores documentan las correcciones de los capítulos 5 a 8 y del inicio del 9. Una nueva revisión individual del resto de los capítulos queda pendiente.
+Se compararon hojas de contacto de las 215 páginas publicadas con el dibujo de `c01-p001` y la presentación de `c04-p001`. La comprobación individual de esa entrega cubrió las páginas 15 a 37 del capítulo 9. Los registros anteriores documentan las correcciones de los capítulos 5 a 8 y del inicio del 9. La comparación del resto se completó en la segunda entrega descrita arriba; las correcciones pendientes se enumeran por separado.
 
 Las correcciones se realizaron con ImageGen integrada. Se revisaron rostros y proporciones, edad aparente de los familiares, colores, ropa, joyas, escala de elfos y muñecos, portadores, reflejos y continuidad de los lugares. Las versiones se guardan en `dist/paginas/c09-p015-continuidad-v3.webp` hasta `c09-p037-continuidad-v3.webp`. Los archivos de origen y sus huellas se identifican en los registros.
 

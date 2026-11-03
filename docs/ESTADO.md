@@ -19,3 +19,7 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 13 | La Dolce Vita | 88 | 0 |
 
 Herramienta: ImageGen integrada. Las imágenes publicadas se revisan antes de incorporarlas. La portada no cuenta como página de capítulo.
+
+Total: **221 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
+
+Quedan 11 correcciones pendientes por el límite de uso de ImageGen y cinco páginas cuya edición fue rechazada por la herramienta; todas conservan su versión anterior. El [registro de revisión](REVISION-CAPITULOS-02-09.md) enumera los casos. Después de cerrar estas correcciones, la producción nueva continúa en el capítulo 10, página 7, desde la fuente completa de `E:\2_Parkison_y_Medio`.

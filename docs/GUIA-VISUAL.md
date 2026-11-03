@@ -23,7 +23,7 @@ Esta referencia de proporciones no sustituye los colores de ojos, el vestuario n
 - Muñecos con escala estable respecto a brazos, cunas y cochecitos; no convertir un cambio de encuadre en crecimiento accidental.
 - Elfos domésticos claramente menores que los humanos. La referencia de esta adaptación muestra al mayordomo con aproximadamente la mitad de su altura, cabeza a la altura de cadera o cintura baja y ambos de cuerpo entero sobre el mismo suelo. No resolverlo solo alejando al elfo ni haciéndolo agacharse. Nodky conserva esa escala pequeña con rasgos de elfo adulto joven distintos del mayordomo mayor.
 
-Estos ajustes se revisan junto con color, contraste y encabezados después de cerrar el capítulo 9 y antes de comenzar el 10, según la prioridad expresa del usuario.
+Estos ajustes tienen prioridad sobre nuevas páginas. El capítulo 10 tiene seis páginas publicadas; la revisión retomada se documenta por separado antes de continuar desde la página 7.
 
 ## Presentación de capítulos y páginas
 
@@ -35,14 +35,16 @@ Estos ajustes se revisan junto con color, contraste y encabezados después de ce
 
 ## Correcciones y producción siguiente
 
-La primera corrección preparada es **capítulo 5, página 1**. Se revisará como una edición de estilo: conservará las seis viñetas, escenas, personajes, ropa y diálogo. Los originales se guardan antes de incorporar una versión corregida.
+La primera corrección de estilo fue **capítulo 5, página 1**, con sus seis viñetas, escenas, personajes, ropa y diálogo conservados. Los originales se guardan antes de incorporar una versión corregida.
 
-Las demás páginas desde el capítulo 5 requieren comparación visual individual; no se consideran todas defectuosas ni se regeneran en bloque. Toda corrección debe comprobar textos, rostros, iris, colores de casa y continuidad antes de publicarse.
+La revisión del 3 de noviembre compara todas las páginas de los capítulos 2–8 y el inicio del 9. El [registro por página](revision-capitulos-02-09.json) distingue las conservadas, corregidas y pendientes. Toda corrección debe comprobar textos, rostros, iris, colores de casa y continuidad antes de publicarse.
 
 Las nuevas generaciones deben incluir una referencia de los capítulos iniciales además de las referencias necesarias de personajes y escenario. Usar únicamente la página generada inmediatamente anterior como referencia de estilo puede acumular desviaciones.
 
 El lector muestra las ilustraciones limpias. La marca **Fanfic: Nicole_Winkel** se incorpora a las copias y descargas, en un pie pequeño fuera de las viñetas. La portada y la ampliación usan la misma exportación. Los maestros de lectura se generan con márgenes limpios. Conservar las redes de la autora y los controles de lectura publicados.
 
-La apertura del capítulo 5 se ha revisado con estas referencias: título integrado y colores naturales, con ámbar localizado en lámparas y cobre. La versión corregida usa un archivo distinto para evitar la caché de la imagen anterior. Las demás páginas siguen sujetas a comparación individual; esta entrega no implica que todas hayan sido modificadas.
+La apertura del capítulo 5 se ha revisado con estas referencias: título integrado y colores naturales, con ámbar localizado en lámparas y cobre. Cada versión corregida usa un archivo distinto para evitar la caché anterior. Las páginas que ya mantienen el diseño se conservan; completar su comparación no implica modificarlas todas.
 
 La revisión del 2 de noviembre de 2026 retoma el capítulo 9 y comprende sus páginas 15 a 37. El [registro de revisión](REVISION-VISUAL.md) identifica el alcance, los escenarios comprobados, las versiones y los prompts utilizados. La referencia de dibujo sigue en los capítulos iniciales y el crédito se incorpora al exportar.
+
+La [segunda entrega](REVISION-CAPITULOS-02-09.md) incorpora 67 imágenes el 3 de noviembre de 2026. Tracey conserva iris castaños; Lisa conserva iris azules y pelo castaño; Daphne mantiene rubio y azul. Los secundarios conservan sus propias caras. Las expresiones suaves o sorprendidas se mantienen al recuperar la geometría de Pansy.

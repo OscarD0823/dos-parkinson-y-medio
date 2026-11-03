@@ -9,6 +9,10 @@ La petición del 2 de noviembre de 2026 tiene dos partes. Enriquecer el dibujo d
 | Hermione | [Capítulo 1, página 1](../dist/paginas/c01-p001.webp) y [página 2](../dist/paginas/c01-p002.webp) | Ojos castaños expresivos, pecas, forma original de nariz, mejillas, boca y barbilla. Rizos castaños abundantes y con mechones separados. |
 | Pansy | Primer plano inferior derecho de [capítulo 1, página 2](../dist/paginas/c01-p002.webp), con apoyo de [página 5](../dist/paginas/c01-p005.webp) | Mandíbula y barbilla más angulosas, ojos verdes alargados, cejas marcadas, labios pequeños definidos. Melena negra lisa hasta la barbilla, raya lateral y mechones planos ligeramente asimétricos. |
 | Sophie | [Capítulo 1, página 1](../dist/paginas/c01-p001.webp) | Ondas rubio miel a los hombros, ojos castaños y uniforme amarillo y negro. |
+| Tracey Davis | [Capítulo 2, página 16](../dist/paginas/c02-p016.webp) y registros de color del capítulo 8 | Pelo castaño largo en coleta alta, ojos castaños, rasgos propios y verde de Slytherin. No copiarle el rostro ni el bob de Pansy. |
+| Daphne Greengrass | Primeras apariciones y versión de color revisada | Pelo largo rubio, ojos azules y rasgos propios; peinado y ropa de cada escena. |
+| Lisa Turpin | [Capítulo 8, página 29](../dist/paginas/c08-p029-color-v2-personajes-v2.webp) | Pelo largo liso castaño, ojos azules y ribetes azules de Ravenclaw. No convertirla en Hermione. |
+| Millicent | Primeras apariciones en Slytherin | Pelo castaño oscuro, rizado o recogido según la escena; rostro propio y uniforme verde. |
 | Harry, Ron y Ginny | [Capítulo 1, página 2](../dist/paginas/c01-p002.webp) | Conservar la geometría individual de los rostros. Harry mantiene pelo negro revuelto y gafas redondas. Ron mantiene pelo pelirrojo y pecas. Ginny mantiene pelo largo rojizo. |
 | Profesores | [Capítulo 1, páginas 2–6](../dist/paginas/c01-p002.webp) | Edad adulta y rasgos propios. Mantener arrugas, peinados, barba, gafas y silueta de cada uno. |
 | Personajes presentados después | Primera aparición revisada de cada personaje | Mantener sus propios diseños y edad. No convertir a familiares en copias del rostro de Pansy o Hermione. |
@@ -40,6 +44,10 @@ Se conservan palabras, acentos, globos, poses y secuencia. El lector sigue mostr
 
 ## Alcance de esta revisión
 
-Se revisan las 18 páginas del capítulo 1 y los personajes del tramo 15–37 del capítulo 9. Se incorporan 16 ediciones de detalle del capítulo 1 y 22 ediciones del capítulo 9. Las páginas 3 y 13 del capítulo 1 conservan sus originales porque no se obtuvo una edición aceptada de la herramienta. La página 34 del capítulo 9 contiene interiores sin personajes y conserva la versión de continuidad ya revisada. Este alcance no equivale a una nueva corrección individual de los capítulos 2–8 ni de las páginas 1–14 del 9.
+La primera entrega revisó las 18 páginas del capítulo 1 y el tramo 15–37 del capítulo 9. Incorporó 16 ediciones de detalle del capítulo 1 y 22 ediciones del capítulo 9. La página 34 del capítulo 9, de interiores sin personajes, conservó su revisión previa.
 
-Los archivos, prompts y comprobaciones de cada edición se registran en [capítulo 1](prompts-detalle-capitulo-01.json) y [capítulo 9](prompts-identidad-capitulo-09.json).
+La segunda entrega del 3 de noviembre compara las 174 páginas de los capítulos 2–8 y 1–14 del 9. Incorpora 66 correcciones de ese tramo y detalle adicional a la página 13 del capítulo 1. El capítulo 1 tiene ahora 17 páginas enriquecidas; conserva el original de la página 3. Se conservan también 93 páginas que ya mantenían sus diseños.
+
+Quedan 11 correcciones preparadas por el límite de uso de ImageGen: capítulo 8, páginas 32–33; capítulo 9, páginas 1–4 y 10–14. Cinco páginas conservan su edición anterior tras rechazo de la herramienta: capítulo 1, página 3; capítulo 5, páginas 4 y 16; capítulo 6, página 1; capítulo 7, página 13. No se cuentan como corregidas. La [revisión de esta entrega](REVISION-CAPITULOS-02-09.md) detalla las decisiones.
+
+Los registros anteriores permanecen en [capítulo 1](prompts-detalle-capitulo-01.json) y [capítulo 9](prompts-identidad-capitulo-09.json). El [nuevo conjunto de prompts](prompts-revision-capitulos-02-09.json) y el [registro por página](revision-capitulos-02-09.json) documentan esta entrega y sus pendientes.
