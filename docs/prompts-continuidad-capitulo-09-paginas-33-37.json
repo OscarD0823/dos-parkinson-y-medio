@@ -1,0 +1,78 @@
+{
+  "chapter": 9,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "references": [
+    "paginas/c01-p001.webp",
+    "paginas/c04-p001.webp",
+    "paginas/c04-p023.webp"
+  ],
+  "pages": [
+    {
+      "page": 33,
+      "originalImage": "paginas/c09-p033.webp",
+      "versionedImage": "paginas/c09-p033-continuidad-v3.webp",
+      "master": "exec-587bc71e-a78c-4bb3-b771-8cc481ba25e1.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to edit, output complete portrait 1024x1536. Images2 and3 are EARLY chapter1/chapter4 ART references. Repaint with fine expressive ink and restrained painterly modeling, natural skin/hair/neutral black, consistent human late-adolescent versus mature adult face/eye/head proportions. Preserve EVERY actual panel/border/layout/pose/framing and ALL exact original Spanish words, accents, balloon tails, captions and reading order. Keep characters' approved identities, current clothing, relative heights, individual iris colors, objects and supported cloth doll scale, no plot changes. Hermione BROWN eyes/freckles/BROWN high CURLY BUN/loose curls/MIDNIGHTBLUE fully closed LONG-SLEEVE full-length STAR gown. Pansy neutral BLACK bob/GREENeyes/BLACK fully closed LONG-SLEEVE full-length textured gown/plain ears/ONE small WHITE COLORLESS diamond solitaire on fine white-metal chain. Keep gala hair/wardrobe, natural body scale and refined early oval faces. Keep the SAME Parkinson Manor spaces with neutral gray/cream stone/marble, dark wood and localized GOLD lamps, cool BLUE NIGHT windows. All exact headers unchanged. Clean reading master, app applies author credit only to exported copies. Capítulo 9 · 33. EXACT ballroom toast panels/texts, each speech attributed to Markus. Markus MATURE DARKBROWN/GRAYtemples/GREENeyes/goatee-connected mustache/CHARCOAL formal high collar robe with exact SILVER embroidery and crest, champagne glass same hand. Eirena MATURE BLACK low chignon/GREENeyes/SAPPHIRE BLUE closed long-sleeve gown/blue-gold jewelry, clearly older than Pansy with fine age lines. HERMIONE holds ONE Robin CLOTH school toy GREENeyes/BROWNtuft/miniBLACKtux/WHITEshirt/BLACKbowtie throughout. Hermione neckline still PLAIN, gift not yet received. Pansy WHITE colorless diamond own necklace. SAME ballroom tall BLUE night windows/white-lilac flowers/gold globes, all guests/poses/text order unchanged.",
+      "actualPanelCount": 5,
+      "review": "Se compara la página completa con su original. Se comprueban textos, atribución, viñetas, rasgos y proporciones, vestidos y joyas, continuidad del salón y la galería, caja vacía después del regalo, espejo y portador único de Robin. Se conservan las palabras y la secuencia.",
+      "transcriptIdentical": true,
+      "originalSha256": "39150adc8f4e290d8f19f1ab8f8d8465b2bb830770d677b23542eb5e15d8e453",
+      "versionedSha256": "8606ed0f77455c7bf667b37fa4125365957312467a36e3c676c1cfff74b7032a",
+      "workingMaster": ".local/maestros/c09-p033-continuidad-v3.png"
+    },
+    {
+      "page": 34,
+      "originalImage": "paginas/c09-p034.webp",
+      "versionedImage": "paginas/c09-p034-continuidad-v3.webp",
+      "master": "exec-a340c5d1-33ca-4797-8db2-9cf75c33fa02.png",
+      "prompt": "Use case: lighting-weather. Edit ONLY the FIRST image, the complete Spanish comic page 'Capítulo 9 · 34'. The SECOND image is a reference for the early illustrated INTERIOR rendering, subtle ink and painterly stone/wood texture. Deliver full portrait 1024x1536. This page contains ONLY EMPTY ARCHITECTURAL INTERIORS and still-life details. Preserve all six panels, every border, exact camera composition, ALL exact Spanish captions and off-screen speech labels/words/balloons. Keep the same manor ballroom, carved gray-cream stone, polished marble, blue night windows, white and lilac flowers, navy-gold heraldic banners, hanging glass globes with warm gold light, magical golden birds, tables and blue-white china. Final two panels retain the same quiet adjoining gallery and archway, furniture/console placement and flowers. Refine lighting to reveal neutral gray/cream stone and cool blue night fill, with warm gold limited to the candles/globes. Preserve every existing object and all lettering. Keep this an environment-only page. Original header remains small black upper-left 'Capítulo 9 · 34'. Clean reading master, no added text.",
+      "actualPanelCount": 6,
+      "review": "Se compara la página completa con su original. Se comprueban textos, atribución, viñetas, rasgos y proporciones, vestidos y joyas, continuidad del salón y la galería, caja vacía después del regalo, espejo y portador único de Robin. Se conservan las palabras y la secuencia.",
+      "transcriptIdentical": true,
+      "originalSha256": "445e26e030520f3538a2f63b741734215efc7f6c226dc8b8b78cfef9f5ea25d9",
+      "versionedSha256": "e07ba4a39f993ed078c0986192bd949c072f8168172c8501a2dc428d0ca37b72",
+      "workingMaster": ".local/maestros/c09-p034-continuidad-v3.png"
+    },
+    {
+      "page": 35,
+      "originalImage": "paginas/c09-p035.webp",
+      "versionedImage": "paginas/c09-p035-continuidad-v3.webp",
+      "master": "exec-f4408304-c4a2-4f9b-bf95-8d957cb95da5.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to edit, output complete portrait 1024x1536. Images2 and3 are EARLY chapter1/chapter4 ART references. Repaint with fine expressive ink and restrained painterly modeling, natural skin/hair/neutral black, consistent human late-adolescent versus mature adult face/eye/head proportions. Preserve EVERY actual panel/border/layout/pose/framing and ALL exact original Spanish words, accents, balloon tails, captions and reading order. Keep characters' approved identities, current clothing, relative heights, individual iris colors, objects and supported cloth doll scale, no plot changes. Hermione BROWN eyes/freckles/BROWN high CURLY BUN/loose curls/MIDNIGHTBLUE fully closed LONG-SLEEVE full-length STAR gown. Pansy neutral BLACK bob/GREENeyes/BLACK fully closed LONG-SLEEVE full-length textured gown/plain ears/ONE small WHITE COLORLESS diamond solitaire on fine white-metal chain. Keep gala hair/wardrobe, natural body scale and refined early oval faces. Keep the SAME Parkinson Manor spaces with neutral gray/cream stone/marble, dark wood and localized GOLD lamps, cool BLUE NIGHT windows. All exact headers unchanged. Clean reading master, app applies author credit only to exported copies. Capítulo 9 · 35. SAME quiet adjoining manor gallery: GRAY marble arches/columns, tall BLUE night windows to left, dark WOOD console to RIGHT under large antique GOLD MIRROR, white flowers, small gold candle stands. Keep mirror/console/window placement consistent throughout. HERMIONE supports ONE small cloth Robin GREENeyes/BROWNtuft/miniBLACK tux-WHITEshirt-BLACKbowtie the ENTIRE page, all other arms empty as original, her neckline remains PLAIN (new necklace still in BOX). Pansy BLACK closed gown/WHITE COLORLESS diamond OWN pendant and SMALL BLACK satin clutch, opens ONE distinct black jewel box. Gift closeup exactly ONE VERTICAL OVAL MIDNIGHTBLUE SAPPHIRE with small clear DIAMOND HALO, fine PLATINUM chain, white-metal mounting. Preserve exact box opening sequence and ALL words/tails. Restore early face/eye proportions and natural BROWN hair/neutralBLACK without changing hairstyle or original gestures.",
+      "actualPanelCount": 5,
+      "review": "Se compara la página completa con su original. Se comprueban textos, atribución, viñetas, rasgos y proporciones, vestidos y joyas, continuidad del salón y la galería, caja vacía después del regalo, espejo y portador único de Robin. Se conservan las palabras y la secuencia.",
+      "transcriptIdentical": true,
+      "originalSha256": "f0e9f201f1472dd96e712b713d8f42c0b1b03bc51f443a003103ac9c4ae165ef",
+      "versionedSha256": "1883bee256aa2e7fb7717477bcc3adb0b995a01720d97fbbf39c39614b9da65e",
+      "workingMaster": ".local/maestros/c09-p035-continuidad-v3.png"
+    },
+    {
+      "page": 36,
+      "originalImage": "paginas/c09-p036.webp",
+      "versionedImage": "paginas/c09-p036-continuidad-v3.webp",
+      "master": "exec-9a2927ad-466f-479c-805f-085e21a9f825.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to edit, output complete portrait 1024x1536. Images2 and3 are EARLY chapter1/chapter4 ART references. Repaint with fine expressive ink and restrained painterly modeling, natural skin/hair/neutral black, consistent human late-adolescent versus mature adult face/eye/head proportions. Preserve EVERY actual panel/border/layout/pose/framing and ALL exact original Spanish words, accents, balloon tails, captions and reading order. Keep characters' approved identities, current clothing, relative heights, individual iris colors, objects and supported cloth doll scale, no plot changes. Hermione BROWN eyes/freckles/BROWN high CURLY BUN/loose curls/MIDNIGHTBLUE fully closed LONG-SLEEVE full-length STAR gown. Pansy neutral BLACK bob/GREENeyes/BLACK fully closed LONG-SLEEVE full-length textured gown/plain ears/ONE small WHITE COLORLESS diamond solitaire on fine white-metal chain. Keep gala hair/wardrobe, natural body scale and refined early oval faces. Keep the SAME Parkinson Manor spaces with neutral gray/cream stone/marble, dark wood and localized GOLD lamps, cool BLUE NIGHT windows. All exact headers unchanged. Clean reading master, app applies author credit only to exported copies. Capítulo 9 · 36. SAME gray-marble gallery/BLUE night windows/RIGHT antique GOLD MIRROR-darkwood console/white flowers/goldcandles, same object placement and exact original panels/words. HERMIONE holds ONE cloth Robin securely throughout (GREENeyes/BROWNtuft/miniBLACKtux-WHITEshirt-BLACKbowtie). Her new gift is ONE VERTICAL OVAL MIDNIGHTBLUE SAPPHIRE with small clear DIAMOND HALO on fine PLATINUM chain, identical to box closeup, worn OVER CLOSED BLUE fabric only after Pansy fastens it. Pansy retains OWN separate small WHITE COLORLESS diamond necklace, black fully closed gown. Pansy's hands hold chain/fasten clasp exactly as original, H supports Robin, adult-size ordinary stance. Jewel box on console stays OPEN AND EMPTY after removal, BLACK satin clutch separate and unchanged. Mirror reflects only corresponding two students and ONE toy with proper hands/necklaces, no extra toy. All dialogue verbatim including '¿Puedo ponértelo?', 'Sí.', 'Gracias, Pansy.' and exact intervening joke.",
+      "actualPanelCount": 6,
+      "review": "Se compara la página completa con su original. Se comprueban textos, atribución, viñetas, rasgos y proporciones, vestidos y joyas, continuidad del salón y la galería, caja vacía después del regalo, espejo y portador único de Robin. Se conservan las palabras y la secuencia.",
+      "transcriptIdentical": true,
+      "originalSha256": "b878f966d477e7666894b982010ec8ae96f33c559ec016cd11c7c4f4ac8449a6",
+      "versionedSha256": "ca514c76071100e127f403e53fa0012dcbbc20ff51595eb23439b5b66b7a2f01",
+      "workingMaster": ".local/maestros/c09-p036-continuidad-v3.png"
+    },
+    {
+      "page": 37,
+      "originalImage": "paginas/c09-p037.webp",
+      "versionedImage": "paginas/c09-p037-continuidad-v3.webp",
+      "master": "exec-765c80a6-005a-4198-8c9d-012d3d1f6ff5.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to edit, output complete portrait 1024x1536. Images2 and3 are EARLY chapter1/chapter4 ART references. Repaint with fine expressive ink and restrained painterly modeling, natural skin/hair/neutral black, consistent human late-adolescent versus mature adult face/eye/head proportions. Preserve EVERY actual panel/border/layout/pose/framing and ALL exact original Spanish words, accents, balloon tails, captions and reading order. Keep characters' approved identities, current clothing, relative heights, individual iris colors, objects and supported cloth doll scale, no plot changes. Hermione BROWN eyes/freckles/BROWN high CURLY BUN/loose curls/MIDNIGHTBLUE fully closed LONG-SLEEVE full-length STAR gown. Pansy neutral BLACK bob/GREENeyes/BLACK fully closed LONG-SLEEVE full-length textured gown/plain ears/ONE small WHITE COLORLESS diamond solitaire on fine white-metal chain. Keep gala hair/wardrobe, natural body scale and refined early oval faces. Keep the SAME Parkinson Manor spaces with neutral gray/cream stone/marble, dark wood and localized GOLD lamps, cool BLUE NIGHT windows. All exact headers unchanged. Clean reading master, app applies author credit only to exported copies. Capítulo 9 · 37. SAME quiet gallery, gray marble/BLUE night windows/RIGHT large antique GOLD MIRROR-darkwood console/white flowers/goldcandles. Hermione wears ONE BLUE OVAL SAPPHIRE/DIAMOND HALO/platinum chain over closed BLUE star gown, Pansy wears OWN small WHITE COLORLESS diamond over closed BLACK gown. ONE Robin CLOTH toy GREENeyes/BROWNtuft/miniBLACKtux-WHITEshirt-BLACKbowtie starts in HERMIONE'S arms for first THREE panels. Through existing ellipsis PANSY becomes the ONLY holder in FOURTH and FIFTH panels, Hermione hands EMPTY then, proper gentle support. Final GOLD MIRROR image contains only the correct two students/ONE toy reflection with same current holder/clothes/jewelry. Preserve ALL exact dialogue, every actual panel/border/framing and 'Fin del capítulo 9'. Pansy's last words exactly 'Por ahora, somos Dos Parkinson y Medio.' Restore early natural faces and balanced body proportions, black hair neutral, preserve every gesture/story beat.",
+      "actualPanelCount": 5,
+      "review": "Se compara la página completa con su original. Se comprueban textos, atribución, viñetas, rasgos y proporciones, vestidos y joyas, continuidad del salón y la galería, caja vacía después del regalo, espejo y portador único de Robin. Se conservan las palabras y la secuencia.",
+      "transcriptIdentical": true,
+      "originalSha256": "f864f18104ecc0d15653023374643accfc744b01480f3b9bad7e514c6c092172",
+      "versionedSha256": "c02f28eeaf91452d389a0c42655fd93d177b75e10f42e52596c588b974516ac5",
+      "workingMaster": ".local/maestros/c09-p037-continuidad-v3.png"
+    }
+  ],
+  "illustratedPagesUnchanged": 215
+}

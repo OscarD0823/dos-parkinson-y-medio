@@ -31,7 +31,6 @@
     const context = source.getContext('2d', {alpha: false});
     if (!context) return null;
     context.drawImage(image, 0, 0, source.width, source.height);
-    window.ComicCredits?.paint(context, source.width, source.height);
     return source;
   }
 

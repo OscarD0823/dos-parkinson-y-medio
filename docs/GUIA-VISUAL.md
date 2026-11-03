@@ -39,6 +39,8 @@ Las demás páginas desde el capítulo 5 requieren comparación visual individua
 
 Las nuevas generaciones deben incluir una referencia de los capítulos iniciales además de las referencias necesarias de personajes y escenario. Usar únicamente la página generada inmediatamente anterior como referencia de estilo puede acumular desviaciones.
 
-La marca **Fanfic: Nicole_Winkel** sigue aplicándose desde el lector, la ampliación, la animación y la descarga. No dibujar una segunda marca dentro de las ilustraciones. Conservar las redes de la autora y los controles de lectura publicados.
+El lector muestra las ilustraciones limpias. La marca **Fanfic: Nicole_Winkel** se incorpora a las copias y descargas, en un pie pequeño fuera de las viñetas. La portada y la ampliación usan la misma exportación. Los maestros de lectura se generan con márgenes limpios. Conservar las redes de la autora y los controles de lectura publicados.
 
 La apertura del capítulo 5 se ha revisado con estas referencias: título integrado y colores naturales, con ámbar localizado en lámparas y cobre. La versión corregida usa un archivo distinto para evitar la caché de la imagen anterior. Las demás páginas siguen sujetas a comparación individual; esta entrega no implica que todas hayan sido modificadas.
+
+La revisión del 2 de noviembre de 2026 retoma el capítulo 9 y comprende sus páginas 15 a 37. El [registro de revisión](REVISION-VISUAL.md) identifica el alcance, los escenarios comprobados, las versiones y los prompts utilizados. La referencia de dibujo sigue en los capítulos iniciales y el crédito se incorpora al exportar.

@@ -1,0 +1,65 @@
+{
+  "chapter": 9,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "references": [
+    "paginas/c01-p001.webp",
+    "paginas/c04-p001.webp",
+    "c09-p019-continuidad-v3"
+  ],
+  "pages": [
+    {
+      "page": 29,
+      "originalImage": "paginas/c09-p029.webp",
+      "versionedImage": "paginas/c09-p029-continuidad-v3.webp",
+      "master": "exec-c29d2e09-47f6-4536-9604-25a73e92806f.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to correct, output complete portrait 1024x1536. Images 2 and 3 are approved EARLY chapter1/chapter4 ART, image4 supplies mature parent face continuity. Restore early fine expressive ink, softly modeled natural skin, defined youthful oval faces, balanced eye/head proportions. Main students look late-adolescent human age with ordinary shoulder/body scale, adult relatives visibly mature. Preserve exact individual faces/hair/iris identities, current outfits, relative heights, gestures, every ACTUAL panel/border/layout/frame, EVERY Spanish word/accent/speech-tail/balloon and reading order. Hermione BROWN eyes/freckles/BROWN high CURLY BUN with loose curls/MIDNIGHT BLUE fully closed opaque long-sleeve full-length gown with subtle GOLD STARS. Pansy neutral BLACK chin-length bob/GREENeyes/BLACK fully closed opaque long-sleeve full-length textured gown/plain ears/ONE small COLORLESS WHITE DIAMOND on fine WHITE-metal chain. Keep hairstyle for gala. Hermione's neckline remains PLAIN with NO gift necklace yet in these pages. SAME Parkinson Manor ballroom, gray-cream stone/marble, tall Gothic BLUE NIGHT windows, white and lilac hanging flowers, golden hanging glass spheres, glowing magical golden birds and same sweeping WHITE stone staircase. Balance neutral black/gray/cream, natural BROWN hair and skin, keep gold LOCAL to candlelight/globes and cool blue night fill. Original small upper-left chapter/page header unchanged. Reading master clean; author mark added by app only to exports. Capítulo 9 · 29. Keep Hermione's fully clothed staircase descent and all exact framing, only Will's existing 'Tu novia es impresionante.' line. Will ADULT short MEDIUMBROWN hair/BROWNeyes/light stubble/BLACK suit/WHITEshirt/SILVERGRAYtie, same tall human build. Restore natural early Hermione/Pansy faces and neutral BLACK hair, same gowns. In final full-body panel preserve their established relative height, Pansy slightly shorter than Hermione, ordinary standing proportions. Preserve the same curved WHITE staircase/flower arrangement, ice sculpture in drinks area and tall BLUE night windows, coherent ballroom architecture.",
+      "actualPanelCount": 5,
+      "review": "Página completa comparada con el original. Se revisan rostros y proporciones, edad aparente de familiares, continuidad de vestidos, peinado de gala, collares, iris, escala del muñeco y su portador único, escalera y decoración del salón. Se conservan palabras, atribución de globos, disposición y secuencia de las viñetas.",
+      "transcriptIdentical": true,
+      "originalSha256": "dd9aa02285359cc13d1340ff807021cf58e16e5d32ecbca7e26161bcab2ea69d",
+      "versionedSha256": "ec8289155991ed1e54a8d1a3c360ca0cb1ea6521893588afa859a88d48dc21a2",
+      "workingMaster": ".local/maestros/c09-p029-continuidad-v3.png"
+    },
+    {
+      "page": 30,
+      "originalImage": "paginas/c09-p030.webp",
+      "versionedImage": "paginas/c09-p030-continuidad-v3.webp",
+      "master": "exec-72b800d1-239e-4867-bd64-661184a7b1e0.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to correct, output complete portrait 1024x1536. Images 2 and 3 are approved EARLY chapter1/chapter4 ART, image4 supplies mature parent face continuity. Restore early fine expressive ink, softly modeled natural skin, defined youthful oval faces, balanced eye/head proportions. Main students look late-adolescent human age with ordinary shoulder/body scale, adult relatives visibly mature. Preserve exact individual faces/hair/iris identities, current outfits, relative heights, gestures, every ACTUAL panel/border/layout/frame, EVERY Spanish word/accent/speech-tail/balloon and reading order. Hermione BROWN eyes/freckles/BROWN high CURLY BUN with loose curls/MIDNIGHT BLUE fully closed opaque long-sleeve full-length gown with subtle GOLD STARS. Pansy neutral BLACK chin-length bob/GREENeyes/BLACK fully closed opaque long-sleeve full-length textured gown/plain ears/ONE small COLORLESS WHITE DIAMOND on fine WHITE-metal chain. Keep hairstyle for gala. Hermione's neckline remains PLAIN with NO gift necklace yet in these pages. SAME Parkinson Manor ballroom, gray-cream stone/marble, tall Gothic BLUE NIGHT windows, white and lilac hanging flowers, golden hanging glass spheres, glowing magical golden birds and same sweeping WHITE stone staircase. Balance neutral black/gray/cream, natural BROWN hair and skin, keep gold LOCAL to candlelight/globes and cool blue night fill. Original small upper-left chapter/page header unchanged. Reading master clean; author mark added by app only to exports. Capítulo 9 · 30. Preserve exact 'Te ves…' exchanges and all words/pauses, Daphne/Blaise's comments, '¡Pansy, querida!' off-frame aunt call. BLAISE dark skin/BROWNeyes/shortBLACKcurls/NAVY VELVET suit/WHITEshirt, DAPHNE LONG BLONDE/BLUEeyes/WHITE hair flowers/LAVENDER fully closed LONG-SLEEVE full-length gown. Same marble staircase/flower drapes and drinks-table ICE sculpture/BLUE night windows as page29. Aunt's NAVY-GOLD wide-brim hat with WHITE feather can remain only as original cropped edge at end. All exact body/hand poses, clothing and original panel layout remain. Pansy's own pendant a single WHITE COLORLESS diamond, Hermione neckline still plain.",
+      "actualPanelCount": 5,
+      "review": "Página completa comparada con el original. Se revisan rostros y proporciones, edad aparente de familiares, continuidad de vestidos, peinado de gala, collares, iris, escala del muñeco y su portador único, escalera y decoración del salón. Se conservan palabras, atribución de globos, disposición y secuencia de las viñetas.",
+      "transcriptIdentical": true,
+      "originalSha256": "9e92899c7212b3176347a7c2cd5bb0514946bb85a9b3e2c7d7ce2c082ed3d08e",
+      "versionedSha256": "ac8b0283c763f2d8e7e783e7aa45e862c1a7e0b70b2490864854076553e6250d",
+      "workingMaster": ".local/maestros/c09-p030-continuidad-v3.png"
+    },
+    {
+      "page": 31,
+      "originalImage": "paginas/c09-p031.webp",
+      "versionedImage": "paginas/c09-p031-continuidad-v3.webp",
+      "master": "exec-cf973c0c-c283-4acb-8dde-1da50948796c.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to correct, output complete portrait 1024x1536. Images 2 and 3 are approved EARLY chapter1/chapter4 ART, image4 supplies mature parent face continuity. Restore early fine expressive ink, softly modeled natural skin, defined youthful oval faces, balanced eye/head proportions. Main students look late-adolescent human age with ordinary shoulder/body scale, adult relatives visibly mature. Preserve exact individual faces/hair/iris identities, current outfits, relative heights, gestures, every ACTUAL panel/border/layout/frame, EVERY Spanish word/accent/speech-tail/balloon and reading order. Hermione BROWN eyes/freckles/BROWN high CURLY BUN with loose curls/MIDNIGHT BLUE fully closed opaque long-sleeve full-length gown with subtle GOLD STARS. Pansy neutral BLACK chin-length bob/GREENeyes/BLACK fully closed opaque long-sleeve full-length textured gown/plain ears/ONE small COLORLESS WHITE DIAMOND on fine WHITE-metal chain. Keep hairstyle for gala. Hermione's neckline remains PLAIN with NO gift necklace yet in these pages. SAME Parkinson Manor ballroom, gray-cream stone/marble, tall Gothic BLUE NIGHT windows, white and lilac hanging flowers, golden hanging glass spheres, glowing magical golden birds and same sweeping WHITE stone staircase. Balance neutral black/gray/cream, natural BROWN hair and skin, keep gold LOCAL to candlelight/globes and cool blue night fill. Original small upper-left chapter/page header unchanged. Reading master clean; author mark added by app only to exports. Capítulo 9 · 31. Keep exact family greeting panels and all dialogue. Older aunt SILVER-GRAY updo/LAVENDER long-sleeve dress/large NAVY-GOLD hat with WHITE feathers/gold brooch. Other mature relatives woman BROWN updo/DARKGREEN dress/pearls and man GRAY hair/beard/BLACK tuxedo/WHITEshirt/BLACKbowtie. EIRENA distinctly MATURE BLACK low chignon/GREENeyes/SAPPHIRE BLUE fully closed long-sleeve gown/blue-gold jewelry, same face as image4. ONE small CLOTH Robin GREENeyes/BROWNtuft/MINI BLACK TUXEDO/WHITEshirt/BLACKbowtie starts supported ONLY by Eirena, after the existing ellipsis transfers ONLY into Hermione's arms; Eirena's arms EMPTY afterward and all mirror/toy counts exact. Keep every holder in each original panel, relative heights, guests and same ballroom. 'Tiene los ojos de Pansy y se parece a esta jovencita!' remains with aunt pointing naturally toward Hermione, same tails.",
+      "actualPanelCount": 6,
+      "review": "Página completa comparada con el original. Se revisan rostros y proporciones, edad aparente de familiares, continuidad de vestidos, peinado de gala, collares, iris, escala del muñeco y su portador único, escalera y decoración del salón. Se conservan palabras, atribución de globos, disposición y secuencia de las viñetas.",
+      "transcriptIdentical": true,
+      "originalSha256": "d2eeb15a07df1d995081b2a0a4eecf379fd0f0925e593d4b0fbff0d5a9c5b607",
+      "versionedSha256": "60dcbd491a8afe242927341865a7a1c50e1e6f8c3fcd38e61a9842b5d813728c",
+      "workingMaster": ".local/maestros/c09-p031-continuidad-v3.png"
+    },
+    {
+      "page": 32,
+      "originalImage": "paginas/c09-p032.webp",
+      "versionedImage": "paginas/c09-p032-continuidad-v3.webp",
+      "master": "exec-e22e9ead-4aab-4e42-a0cc-7b90292a2219.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to correct, output complete portrait 1024x1536. Images 2 and 3 are approved EARLY chapter1/chapter4 ART, image4 supplies mature parent face continuity. Restore early fine expressive ink, softly modeled natural skin, defined youthful oval faces, balanced eye/head proportions. Main students look late-adolescent human age with ordinary shoulder/body scale, adult relatives visibly mature. Preserve exact individual faces/hair/iris identities, current outfits, relative heights, gestures, every ACTUAL panel/border/layout/frame, EVERY Spanish word/accent/speech-tail/balloon and reading order. Hermione BROWN eyes/freckles/BROWN high CURLY BUN with loose curls/MIDNIGHT BLUE fully closed opaque long-sleeve full-length gown with subtle GOLD STARS. Pansy neutral BLACK chin-length bob/GREENeyes/BLACK fully closed opaque long-sleeve full-length textured gown/plain ears/ONE small COLORLESS WHITE DIAMOND on fine WHITE-metal chain. Keep hairstyle for gala. Hermione's neckline remains PLAIN with NO gift necklace yet in these pages. SAME Parkinson Manor ballroom, gray-cream stone/marble, tall Gothic BLUE NIGHT windows, white and lilac hanging flowers, golden hanging glass spheres, glowing magical golden birds and same sweeping WHITE stone staircase. Balance neutral black/gray/cream, natural BROWN hair and skin, keep gold LOCAL to candlelight/globes and cool blue night fill. Original small upper-left chapter/page header unchanged. Reading master clean; author mark added by app only to exports. Capítulo 9 · 32. Mother/daughter conversation, SAME ballroom position and exact words in original order. EIRENA is mature adult with fine age lines/refined face, BLACK low chignon/GREENeyes/SAPPHIRE closed LONG-SLEEVE gown/BLUEgold jewelry, older than Pansy. Pansy BLACK bob/GREENeyes/BLACK fully closed textured gown/plain ears/WHITE COLORLESS diamond. Background Hermione BROWN high curly bun/BROWNeyes/MIDNIGHTBLUE closed star gown holds ONE Robin CLOTH toy GREENeyes/BROWNtuft/miniBLACKtux-WHITEshirt-BLACKbowtie, same scale and support. Her neckline still PLAIN. Other background relatives retain their same faces/iris/wardrobe, Markus GREENeyes/goatee/graytemples/CHARCOAL formal silver-embroidered robe and raised toast glass at end. Preserve each balloon attribution and all gestures, all actual panel borders, consistent cool night windows/local gold lights.",
+      "actualPanelCount": 6,
+      "review": "Página completa comparada con el original. Se revisan rostros y proporciones, edad aparente de familiares, continuidad de vestidos, peinado de gala, collares, iris, escala del muñeco y su portador único, escalera y decoración del salón. Se conservan palabras, atribución de globos, disposición y secuencia de las viñetas.",
+      "transcriptIdentical": true,
+      "originalSha256": "44c8349ee5ca153ee9b424a9576eeff0f1ebd66ba0025221b6ae67958d66a034",
+      "versionedSha256": "b4211299d6812107095060d50cccf116c5d5a7d51f5a30c71ca30377fcde8feb",
+      "workingMaster": ".local/maestros/c09-p032-continuidad-v3.png"
+    }
+  ],
+  "illustratedPagesUnchanged": 215
+}

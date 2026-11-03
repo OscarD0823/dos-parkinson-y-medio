@@ -1,0 +1,65 @@
+{
+  "chapter": 9,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "references": [
+    "paginas/c01-p001.webp",
+    "paginas/c04-p001.webp",
+    "c09-p019-continuidad-v3"
+  ],
+  "pages": [
+    {
+      "page": 25,
+      "originalImage": "paginas/c09-p025.webp",
+      "versionedImage": "paginas/c09-p025-continuidad-v3.webp",
+      "master": "exec-cf4cf966-dadb-4f10-a247-c57f5b592880.png",
+      "prompt": "Use case: style-transfer. Edit FIRST image only, complete Spanish comic page 1024x1536. Images2/3 are early approved chapter1/chapter4 DRAWING references, image4 is mature Markus/Eirena and student identity continuity. Restore finer expressive ink, softer painterly rendering, natural skin and mature versus late-adolescent face proportions. Keep EVERY ACTUAL panel and exact border layout, all Spanish words/accents, balloon positions/tails, reading order, current clothes/objects/poses and story sequence unchanged. Pansy neutral BLACK chin-length bob with restrained neutral gray highlights, GREEN eyes and a defined youthful oval face, normal early-reference eye/head proportions. Markus MATURE ADULT DARKBROWN hair/GRAY temples/GREEN eyes/precise GOATEE-connected moustache/clean cheeks. Eirena MATURE ADULT BLACK low chignon/GREEN eyes, visibly older than her daughter and consistent with image4. Preserve individual identities/relative heights and fully closed current clothing. Natural face color, detailed BLACK fabric, neutral GRAY/CREAM stone and DARK WOOD, soft gold localized to lamps, cool BLUE night windows. Maintain recognizable established spaces across adjacent pages, soften excessive global orange. Header unchanged, no new text. Clean reading master, author credit added only when exported by app. Capítulo 9 · 25. Preserve first wide manor BALLROOM establishing panel with white/lilac flowers, navy-gold banners, floating gold glass globes and glowing golden birds, tall blue NIGHT windows and guests. Remaining panels are SAME PRIVATE STUDY: dark wood bookshelves left, stone fireplace center, TWO separate navy damask armchairs, low wooden table/books and blue night window right, localized orange fireplace, no changing furniture positions. Pansy BLACK full-length opaque closed-back/closed-neck LONG-SLEEVE DRESS, plain ears, ONE small COLORLESS WHITE diamond solitaire on fine WHITE-metal chain. Keep its same shape/scale/position, neutral white sparkle. Markus CHARCOAL formal high-collar robe with exact SILVER embroidery and crest. Preserve every exact dialogue and natural father/daughter conversational distance.",
+      "actualPanelCount": 7,
+      "review": "Comparación visual completa con la página original. Se conservan textos, viñetas, atribución, ropa, gestos y objetos. Se revisan proporciones de alumnos y adultos, rasgos y cabello negro, detalle de telas, diamante propio de Pansy, continuidad del estudio y transición a la gala, escala y portador único de Robin.",
+      "transcriptIdentical": true,
+      "originalSha256": "38a852b29e47157750839edab2ea80291c3bda88ebe81ef15af8033856c358e4",
+      "versionedSha256": "c9f13da35a189241cf4b89ab0ac7727c4733daa663f81b3ea59d610d89bad421",
+      "workingMaster": ".local/maestros/c09-p025-continuidad-v3.png"
+    },
+    {
+      "page": 26,
+      "originalImage": "paginas/c09-p026.webp",
+      "versionedImage": "paginas/c09-p026-continuidad-v3.webp",
+      "master": "exec-039dc560-182a-4d9d-a12c-e673b79f66d1.png",
+      "prompt": "Use case: style-transfer. Edit FIRST image only, complete Spanish comic page 1024x1536. Images2/3 are early approved chapter1/chapter4 DRAWING references, image4 is mature Markus/Eirena and student identity continuity. Restore finer expressive ink, softer painterly rendering, natural skin and mature versus late-adolescent face proportions. Keep EVERY ACTUAL panel and exact border layout, all Spanish words/accents, balloon positions/tails, reading order, current clothes/objects/poses and story sequence unchanged. Pansy neutral BLACK chin-length bob with restrained neutral gray highlights, GREEN eyes and a defined youthful oval face, normal early-reference eye/head proportions. Markus MATURE ADULT DARKBROWN hair/GRAY temples/GREEN eyes/precise GOATEE-connected moustache/clean cheeks. Eirena MATURE ADULT BLACK low chignon/GREEN eyes, visibly older than her daughter and consistent with image4. Preserve individual identities/relative heights and fully closed current clothing. Natural face color, detailed BLACK fabric, neutral GRAY/CREAM stone and DARK WOOD, soft gold localized to lamps, cool BLUE night windows. Maintain recognizable established spaces across adjacent pages, soften excessive global orange. Header unchanged, no new text. Clean reading master, author credit added only when exported by app. Capítulo 9 · 26. Entire page remains the SAME private STUDY of previous page: dark wood bookshelves, stone central fireplace, two separate NAVY damask armchairs, gold lamps, blue nighttime window. Pansy BLACK fully closed long-sleeve opaque full-length dress/plain ears/ONE small COLORLESS WHITE diamond on fine WHITE-metal chain. Markus CHARCOAL formal robe/exact SILVER embroidery/crest, MATURE gray-templed goateed father and GREENeyes. Preserve ALL exact ordered words including Pansy-pie, '¿Linda?' attributed only to MARKUS and 'No quiero precipitarme ni asustarla. Ella analiza todo.' by PANSY. Natural mature versus late-adolescent faces as early reference; keep all exact gestures/camera views/armchairs and full original panel arrangement.",
+      "actualPanelCount": 11,
+      "review": "Comparación visual completa con la página original. Se conservan textos, viñetas, atribución, ropa, gestos y objetos. Se revisan proporciones de alumnos y adultos, rasgos y cabello negro, detalle de telas, diamante propio de Pansy, continuidad del estudio y transición a la gala, escala y portador único de Robin.",
+      "transcriptIdentical": true,
+      "originalSha256": "2505ee6166e144d3ddcd9ae789574027eff15ca54fd399deb28e7d5f6de4c4cc",
+      "versionedSha256": "6b1c4ffab210498b5790671102cdcca8c1d077a6a09686651de4015c9ee468d1",
+      "workingMaster": ".local/maestros/c09-p026-continuidad-v3.png"
+    },
+    {
+      "page": 27,
+      "originalImage": "paginas/c09-p027.webp",
+      "versionedImage": "paginas/c09-p027-continuidad-v3.webp",
+      "master": "exec-be0eb868-366f-4f41-9d9e-090108ec1a8a.png",
+      "prompt": "Use case: style-transfer. Edit FIRST image only, complete Spanish comic page 1024x1536. Images2/3 are early approved chapter1/chapter4 DRAWING references, image4 is mature Markus/Eirena and student identity continuity. Restore finer expressive ink, softer painterly rendering, natural skin and mature versus late-adolescent face proportions. Keep EVERY ACTUAL panel and exact border layout, all Spanish words/accents, balloon positions/tails, reading order, current clothes/objects/poses and story sequence unchanged. Pansy neutral BLACK chin-length bob with restrained neutral gray highlights, GREEN eyes and a defined youthful oval face, normal early-reference eye/head proportions. Markus MATURE ADULT DARKBROWN hair/GRAY temples/GREEN eyes/precise GOATEE-connected moustache/clean cheeks. Eirena MATURE ADULT BLACK low chignon/GREEN eyes, visibly older than her daughter and consistent with image4. Preserve individual identities/relative heights and fully closed current clothing. Natural face color, detailed BLACK fabric, neutral GRAY/CREAM stone and DARK WOOD, soft gold localized to lamps, cool BLUE night windows. Maintain recognizable established spaces across adjacent pages, soften excessive global orange. Header unchanged, no new text. Clean reading master, author credit added only when exported by app. Capítulo 9 · 27. Keep FIRST study panels with same TWO NAVY armchairs/central stone fireplace/wood bookcases/BLUE night window, Markus in CHARCOAL formal embroidered robe offers normal father-daughter elbow escort, Pansy BLACK full-length fully closed long-sleeve dress/plain ears/ONE small WHITE COLORLESS diamond on fine white-metal chain. Retain exact dialogue order/tails. Later BALLROOM panels continue SAME manor gala space: blue nighttime arched windows, white/lilac florals, gold hanging glass globes, warm lamps, adult guests. EIRENA MATURE BLACK low chignon/GREENeyes in fully closed SAPPHIRE long-sleeve gown/blue-gold brooch and earrings, fine age lines and adult proportions matching image4. Eirena supports ONE small cloth Robin GREENeyes/BROWNtuft in miniature BLACK TUXEDO/WHITEshirt/BLACKbowtie, safely supported once per panel. Toy's clothing changed to gala before this scene as original. No extra doll/transfer. Preserve exact caption 'El muñeco encantado del proyecto se había convertido en la estrella de la velada.'.",
+      "actualPanelCount": 5,
+      "review": "Comparación visual completa con la página original. Se conservan textos, viñetas, atribución, ropa, gestos y objetos. Se revisan proporciones de alumnos y adultos, rasgos y cabello negro, detalle de telas, diamante propio de Pansy, continuidad del estudio y transición a la gala, escala y portador único de Robin.",
+      "transcriptIdentical": true,
+      "originalSha256": "976bb65d0fbef8a147b606005a2d9849fef7a7057d49807a2dde36b917025612",
+      "versionedSha256": "818ad187c62067b91a214b6e078d1a7870a7daf2bffe0ddfda94ddecb9f435b1",
+      "workingMaster": ".local/maestros/c09-p027-continuidad-v3.png"
+    },
+    {
+      "page": 28,
+      "originalImage": "paginas/c09-p028.webp",
+      "versionedImage": "paginas/c09-p028-continuidad-v3.webp",
+      "master": "exec-623b98be-5cb8-40e0-b7c9-80524137b381.png",
+      "prompt": "Use case: style-transfer. Edit FIRST image only, complete Spanish comic page 1024x1536. Images2/3 are early approved chapter1/chapter4 DRAWING references, image4 is mature Markus/Eirena and student identity continuity. Restore finer expressive ink, softer painterly rendering, natural skin and mature versus late-adolescent face proportions. Keep EVERY ACTUAL panel and exact border layout, all Spanish words/accents, balloon positions/tails, reading order, current clothes/objects/poses and story sequence unchanged. Pansy neutral BLACK chin-length bob with restrained neutral gray highlights, GREEN eyes and a defined youthful oval face, normal early-reference eye/head proportions. Markus MATURE ADULT DARKBROWN hair/GRAY temples/GREEN eyes/precise GOATEE-connected moustache/clean cheeks. Eirena MATURE ADULT BLACK low chignon/GREEN eyes, visibly older than her daughter and consistent with image4. Preserve individual identities/relative heights and fully closed current clothing. Natural face color, detailed BLACK fabric, neutral GRAY/CREAM stone and DARK WOOD, soft gold localized to lamps, cool BLUE night windows. Maintain recognizable established spaces across adjacent pages, soften excessive global orange. Header unchanged, no new text. Clean reading master, author credit added only when exported by app. Capítulo 9 · 28. Keep SAME ballroom at drinks table and ICE sculpture, tall BLUE night windows, white/lilac flowers, gold hanging glass globes, guests and same staircase shown at end. BLAISE dark skin/short BLACKcurls/BROWNeyes/NAVY VELVET suit/WHITEshirt, DAPHNE LONG BLONDE/BLUEeyes/white hair flowers/LAVENDER fully closed long-sleeve full-length gown. WILL/WILLIAM is the TALL ADULT cousin, mature angular MEDIUMBROWN short hair/BROWNeyes/light brown STUBBLE, BLACK suit/WHITEshirt/SILVERGRAYtie, ordinary taller human height. Preserve exact identity/clothing/height. Pansy BLACK fully closed LONG-SLEEVE full-length dress/plain ears/ONE small WHITE COLORLESS diamond on fine white-metal chain/GREENeyes/neutral BLACKbob. Keep EVERY exact word/tail, especially 'Gracias. ¿Blaise? ¿Daphne?' points clearly to PANSY, not William. Hermione stays off-page in this original sequence; retain last group reaction without adding her arrival.",
+      "actualPanelCount": 6,
+      "review": "Comparación visual completa con la página original. Se conservan textos, viñetas, atribución, ropa, gestos y objetos. Se revisan proporciones de alumnos y adultos, rasgos y cabello negro, detalle de telas, diamante propio de Pansy, continuidad del estudio y transición a la gala, escala y portador único de Robin.",
+      "transcriptIdentical": true,
+      "originalSha256": "e7c3c4d917f38bed8eb3173bb7daed2eb5ab4e8c0ff851affb237700ec1aa34b",
+      "versionedSha256": "79f45d9b4cd4b9c47eda0f2c735d7512313c986baaa382f3cccd28629ec4a44a",
+      "workingMaster": ".local/maestros/c09-p028-continuidad-v3.png"
+    }
+  ],
+  "illustratedPagesUnchanged": 215
+}

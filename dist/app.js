@@ -37,6 +37,8 @@
     if(destination)route(destination.chapter.number,destination.index,mode,false,direction);
   }
   const message = text => {ui['reader-status'].textContent=text;};
+  credits.bindImage(document.querySelector('.cover-book img'));
+  credits.bindImage(ui['zoom-image']);
   function renderLibrary(){
     const total=book.chapters.reduce((sum,c)=>sum+c.pages.length,0);
     const finished=book.chapters.filter(c=>c.pages.length>=c.plannedPages).length;
@@ -150,9 +152,9 @@
     const button=element('button','comic-image-button');button.setAttribute('aria-label',`Ampliar página ${p.number}`);
     const img=element('img');img.draggable=false;img.src=p.image;img.width=p.width||1024;img.height=p.height||1536;img.alt=p.alt||`Capítulo ${chapter.number}, página ${p.number}`;img.loading=(index===pageIndex?'eager':'lazy');img.decoding='async';
     img.addEventListener('error',()=>{message(`No se pudo cargar la página ${p.number}. Comprueba tu conexión.`);});
-    const watermark=element('span','comic-watermark',credits.text);watermark.setAttribute('aria-hidden','true');
-    button.append(img,watermark);button.addEventListener('click',()=>openZoom(p));
+    button.append(img);button.addEventListener('click',()=>openZoom(p));
     frame.append(button);
+    credits.bindImage(img);
     if(mode==='pagina')for(const direction of [-1,1]){
       const destination=pageDestination(direction,index);
       const zone=element('button',`reader-page-zone reader-page-${direction<0?'previous':'next'}`);
@@ -169,11 +171,20 @@
     const enlarge=element('button','page-zoom-trigger','Ampliar ⤢');enlarge.type='button';
     enlarge.setAttribute('aria-label',`Ampliar página ${p.number}`);enlarge.addEventListener('click',()=>openZoom(p));
     actions.append(enlarge);
-    const download=element('a','', 'Guardar imagen ↓');download.href=p.image;download.download=p.image.split('/').pop();
+    const copy=element('button','page-zoom-trigger','Copiar imagen');copy.type='button';
+    copy.setAttribute('aria-label',`Copiar imagen de la página ${p.number}`);
+    copy.addEventListener('click',async()=>{
+      if(copy.disabled)return;
+      copy.disabled=true;
+      try{await credits.copy(img);message('Imagen copiada con el crédito de Nicole_Winkel.');}
+      catch{message('No se pudo copiar. Usa «Guardar imagen».');}
+      finally{copy.disabled=false;}
+    });actions.append(copy);
+    const download=element('button','page-zoom-trigger','Guardar imagen ↓');download.type='button';
     download.addEventListener('click',async e=>{
       e.preventDefault();if(download.dataset.busy)return;
       download.dataset.busy='true';download.textContent='Preparando imagen…';
-      try{await credits.download(p.image,p.image.split('/').pop());}
+      try{await credits.download(img,p.image.split('/').pop());}
       catch{message('No se pudo guardar la imagen. Vuelve a intentarlo.');}
       finally{delete download.dataset.busy;download.textContent='Guardar imagen ↓';}
     });actions.append(download);caption.append(actions);

@@ -10,6 +10,8 @@ El lector incluye lectura vertical y página a página, ampliación hasta 250 %,
 
 En la vista página a página de PC, haz clic en el lateral izquierdo o derecho para retroceder o avanzar. También funciona con ratón en ventanas estrechas, como el panel del navegador integrado. El centro de la imagen y el botón «Ampliar» abren el zoom.
 
+La lectura muestra las ilustraciones limpias. «Copiar imagen», «Guardar imagen» y el menú contextual exportan un PNG con el crédito «Fanfic: Nicole_Winkel» en un pie pequeño debajo de las viñetas. La portada y la ampliación comparten estas opciones.
+
 ## Publicación
 
 GitHub Actions publica exclusivamente `dist/` en GitHub Pages al actualizar `main`. Los PDF originales y el manuscrito de trabajo no se incluyen en el repositorio público.

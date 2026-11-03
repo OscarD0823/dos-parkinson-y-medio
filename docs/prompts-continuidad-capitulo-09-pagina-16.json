@@ -1,0 +1,25 @@
+{
+  "chapter": 9,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "references": [
+    "paginas/c01-p001.webp",
+    "paginas/c04-p001.webp"
+  ],
+  "pages": [
+    {
+      "page": 16,
+      "originalImage": "paginas/c09-p016-color-v2.webp",
+      "versionedImage": "paginas/c09-p016-continuidad-v3.webp",
+      "master": "exec-df2f779a-6160-44a5-a07c-eaf106bab1a0.png",
+      "prompt": "Use case: style-transfer. FIRST image is exact Spanish comic page to edit, output complete portrait 1024x1536. Images2 and3 are EARLY chapter1/chapter4 ART references. Repaint with fine expressive ink and restrained painterly modeling, natural skin/hair/neutral black, consistent human late-adolescent versus mature adult face/eye/head proportions. Preserve EVERY actual panel/border/layout/pose/framing and ALL exact original Spanish words, accents, balloon tails, captions and reading order. Keep characters' approved identities, current clothing, relative heights, individual iris colors, objects and supported cloth doll scale, no plot changes. Hermione BROWN eyes/freckles/BROWN high CURLY BUN/loose curls/MIDNIGHTBLUE fully closed LONG-SLEEVE full-length STAR gown. Pansy neutral BLACK bob/GREENeyes/BLACK fully closed LONG-SLEEVE full-length textured gown/plain ears/ONE small WHITE COLORLESS diamond solitaire on fine white-metal chain. Keep gala hair/wardrobe, natural body scale and refined early oval faces. Keep the SAME Parkinson Manor spaces with neutral gray/cream stone/marble, dark wood and localized GOLD lamps, cool BLUE NIGHT windows. All exact headers unchanged. Clean reading master, app applies author credit only to exported copies. SPECIAL page 'Capítulo 9 · 16': instead of gala, this target shows morning friends in SLYTHERIN COMMON ROOM. Preserve ALL FIVE original wide panels and exact present clothes/faces/objects: Draco PLATINUM/GRAY-BLUEeyes/CHARCOAL turtleneck/PEARL trousers, Astoria LONG DARKBROWN/GRAY-BLUEeyes/PALE BLUE closed long dress. ONE small cloth Scorpius PLATINUMtuft/GRAY-BLUEeyes/CREAM clothing with Draco, matching existing approved eye tone. Theo BROWN hair/GREENeyes/NAVY jacket/CREAM shirt, Luna LONG BLONDE/BLUEeyes/silver blouse/GALAXY skirt, TWO small cloth BLUE-eyed twins in OWN separate seats of BLUE-GOLD pram, one dark-haired Larson/one blonde Amelie. Tracey BROWN ponytail/BROWNeyes/BEIGE clothing holds ONE sleeping Caitlyn, Wayne BROWNcurls/closed eyes/MUSTARD sweater. Blaise dark skin/BROWNeyes/WHITE shirt/BEIGE trousers holds ONE small cloth Arianna BLUEeyes/BEIGE outfit/BEIGE hat. Daphne LONG BLONDE/BLUEeyes/LAVENDER suit/whiteflowers. Keep exact holder and carrier count in each panel and all exact dialogue. Gray stone common-room arches/staircase/green armchairs/green lamps and cool underwater blue-green windows maintain the same location as page17. GALA costumes and Hermione/Pansy do not appear on this target; keep existing day clothes as image1. Only restore early art/proportions/color balance.",
+      "actualPanelCount": 5,
+      "review": "Se comparan las cinco viñetas con el original y la sala común de la página 17. Se revisan proporciones, iris, vestuario, portadores propios y cinco muñecos. Los textos y la atribución de los globos se conservan.",
+      "transcriptIdentical": true,
+      "originalSha256": "0f57f0a1a9bb5ff20e7cdc111606006487d18594f1fd6b828cd16a3a8ca092d1",
+      "versionedSha256": "42ee9af559511ca2862606b1768c0db5ff14419862966794b6626d0d4c15ab44",
+      "workingMaster": ".local/maestros/c09-p016-continuidad-v3.png"
+    }
+  ],
+  "illustratedPagesUnchanged": 215
+}

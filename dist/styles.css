@@ -12,8 +12,10 @@
 .reader-page-zone:focus-visible{outline-offset:-5px}
 /* Los bordes sin destino interceptan el clic para no activar el zoom que hay debajo. */
 .reader-page-zone:disabled{opacity:1;cursor:default;pointer-events:auto}.reader-page-zone:disabled>span{opacity:0}
-.page-caption-actions{display:flex;align-items:center;justify-content:flex-end;gap:16px;flex-wrap:wrap}
-.page-zoom-trigger{padding:0;border:0;background:none;color:var(--gold);font:inherit;white-space:nowrap}
+.page-caption-actions{display:flex;align-items:center;justify-content:flex-end;gap:8px;flex-wrap:wrap;font-size:12px}
+.page-zoom-trigger{min-height:36px;padding:8px 10px;border:1px solid var(--line);border-radius:5px;background:#1e3229;color:var(--gold);font:inherit;white-space:nowrap}
+.page-zoom-trigger:hover:not(:disabled){background:#2b4537;border-color:#617852}
+@media(max-width:640px){.comic-page figcaption{flex-direction:column;gap:8px}.page-caption-actions{justify-content:space-between;gap:6px}.page-zoom-trigger{min-height:44px;padding:10px 8px}}
 @media(min-width:641px),(hover:hover) and (pointer:fine){.pages[data-mode=pagina] .reader-page-zone{display:block}}
 .page-turn-sheet{position:absolute;z-index:2;display:block;pointer-events:none;max-width:none;border-radius:3px}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}.page-turn-sheet{display:none}}
@@ -30,8 +32,11 @@
 @media(hover:hover){.zoom-page-zone{opacity:.12}.zoom-page-zone:hover,.zoom-page-zone:focus-visible{opacity:.9}}
 @media(max-width:640px){.zoom-page-zone{width:66px;font-size:40px;opacity:.86}.zoom-page-zone:disabled{opacity:0}}
 
-.comic-image-button,.cover-book,.zoom-sheet{position:relative;container-type:inline-size}
-.comic-watermark{position:absolute;right:1.2%;bottom:.8%;z-index:4;padding:.6cqw;background:rgba(255,252,242,.84);color:#415343;font:500 12px/1 Arial,Helvetica,sans-serif;font-size:clamp(8px,1.6cqw,18px);white-space:nowrap;pointer-events:none;user-select:none}
+.comic-image-button,.cover-book,.zoom-sheet{position:relative}
+.image-export-menu{position:fixed;z-index:20;min-width:190px;padding:6px;border:1px solid #58705b;border-radius:8px;background:#142b25;box-shadow:0 8px 30px #0008}
+.image-export-menu button{display:block;width:100%;padding:11px 14px;border:0;border-radius:4px;background:none;color:var(--ink);text-align:left;font:13px Arial,Helvetica,sans-serif}
+.image-export-menu button:hover,.image-export-menu button:focus-visible{background:#2b4537;outline-offset:-2px}
+.image-export-status{position:fixed;z-index:25;left:50%;bottom:20px;transform:translateX(-50%);max-width:calc(100vw - 32px);padding:12px 18px;border:1px solid #58705b;border-radius:7px;background:#142b25;color:var(--ink);font:13px/1.5 Arial,Helvetica,sans-serif;box-shadow:0 4px 20px #0008}
 .zoom-sheet{width:100%;margin:auto;max-width:none}
 .reader-credit{text-align:center;margin:-8px 15px 15px}.reader-credit .text-button{font-size:11px;padding:0;white-space:normal}
 .author-panel{max-width:1160px;width:90%;margin:36px auto;padding:34px 20px;text-align:center;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}

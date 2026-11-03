@@ -1,0 +1,66 @@
+{
+  "chapter": 9,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "references": [
+    "paginas/c01-p001.webp",
+    "paginas/c04-p001.webp",
+    "c09-p019-continuidad-v3",
+    "paginas/c09-p016-color-v2.webp"
+  ],
+  "pages": [
+    {
+      "page": 21,
+      "originalImage": "paginas/c09-p021.webp",
+      "versionedImage": "paginas/c09-p021-continuidad-v3.webp",
+      "master": "exec-cc5b04b6-9460-45bd-b8d8-47bff5505655.png",
+      "prompt": "Use case: style-transfer. EDIT only the FIRST image, a Spanish comic page. Deliver its full original portrait page at 1024x1536. Images 2 and 3 are EARLY APPROVED ART references, image 4 is the newly corrected Eirena/Markus/Hermione/Pansy face continuity, image 5 supplies GRAY-BLUE iris continuity for Draco, Astoria and Scorpius. Restore early fine expressive ink, natural modeled skin, defined oval faces, restrained youthful eye/head proportions and medium-BROWN Hermione curls instead of exaggerated round doll-like student faces. Preserve EVERY actual panel, arrangement, framing, pose, exact Spanish word/accents, balloons/tails and story order. Hermione BROWN curls/BROWN eyes/freckles, Pansy neutral BLACK bob/GREEN eyes; retain exact current wardrobe, distinctive faces and relative heights. Parents visibly mature adults, students human late-adolescents, supported cloth dolls consistently small. Keep the established SAME Parkinson Manor GARDEN, white/cream stone pergola, hanging WHITE and LILAC wisteria, white flowers, greenery, marble architecture, white cloth tables and blue-white china, natural daytime light. Gray/cream/green palette with local soft gold, natural BROWN hair and skin. Header exact, clean reading master; author credit is added by app on export. Capítulo 9 · 21. Keep all exact family introduction panels and text labels. H/P in OLIVE sweater/full trousers and CREAM suit/BLACK sweater/R.P. bag. Draco PLATINUM hair/CHARCOAL sweater holds ONE dressed cloth Scorpius in CREAM/WHITE, tuft PLATINUM rather than yellow. Astoria LONG DARKBROWN hair/PALE BLUE dress, Draco/Astoria/Scorpius irises GRAY-STEEL with subtle blue, matching image5, preserve eye shape. Lucius long PLATINUM/BLACK formal suit, Narcissa mature BICOLOR black-platinum updo/DARKGREEN dress; Lissandra BLONDE updo/SAGE dress and Quirinus mature BROWN-gray hair/NAVY suit; Chiara mature dark skin/braided BLACK updo/CREAM dress; Blaise dark skin/WHITE shirt, Daphne BLONDE/LAVENDER suit/BLUE eyes. Luna GALAXY/SILVER with Theo NAVY and two separate BLUE-eyed cloth twins, one DARK-haired Larson and one BLONDE Amelie, preserve their own double carrier. Tracey BROWN ponytail/BEIGE/ BROWN eyes and Wayne brown curls/MUSTARD/closed eyes with one sleeping Caitlyn. No toy duplication or changes to family groups. Exact original labels/dialogues. Restore natural early age proportions to all.",
+      "actualPanelCount": 8,
+      "review": "Página completa comparada visualmente con el original. Se conservan disposición, palabras y atribución de globos, personajes, ropa, objetos y secuencia. Se revisan rostros, proporciones, colores de ojos, escala de elfos y muñecos, jardín y luz diurna. El maestro de lectura está limpio y la exportación añade el crédito.",
+      "transcriptIdentical": true,
+      "originalSha256": "6590af9817dd3b3b48950626ce033eac31781f546c0c9bd5208406aac02026d0",
+      "versionedSha256": "c33563e48c2c57596256c24ef946ead24455815ff429931ec0cbf12acfd0183e",
+      "workingMaster": ".local/maestros/c09-p021-continuidad-v3.png"
+    },
+    {
+      "page": 22,
+      "originalImage": "paginas/c09-p022.webp",
+      "versionedImage": "paginas/c09-p022-continuidad-v3.webp",
+      "master": "exec-54f9e26f-3309-4db9-9e28-7e2adf13d0b6.png",
+      "prompt": "Use case: style-transfer. EDIT only the FIRST image, a Spanish comic page. Deliver its full original portrait page at 1024x1536. Images 2 and 3 are EARLY APPROVED ART references, image 4 is the newly corrected Eirena/Markus/Hermione/Pansy face continuity, image 5 supplies GRAY-BLUE iris continuity for Draco, Astoria and Scorpius. Restore early fine expressive ink, natural modeled skin, defined oval faces, restrained youthful eye/head proportions and medium-BROWN Hermione curls instead of exaggerated round doll-like student faces. Preserve EVERY actual panel, arrangement, framing, pose, exact Spanish word/accents, balloons/tails and story order. Hermione BROWN curls/BROWN eyes/freckles, Pansy neutral BLACK bob/GREEN eyes; retain exact current wardrobe, distinctive faces and relative heights. Parents visibly mature adults, students human late-adolescents, supported cloth dolls consistently small. Keep the established SAME Parkinson Manor GARDEN, white/cream stone pergola, hanging WHITE and LILAC wisteria, white flowers, greenery, marble architecture, white cloth tables and blue-white china, natural daytime light. Gray/cream/green palette with local soft gold, natural BROWN hair and skin. Header exact, clean reading master; author credit is added by app on export. Capítulo 9 · 22. Preserve Nodky's entire greeting and the exact R.P. bag transfer sequence, original panel count/layout and all words. Nodky is SMALL ADULT house-elf, head at human hip level/approximately HALF standing height, fine pointed ears/shortBROWNhair/BROWNeyes/BEIGE shirt and full trousers, distinct from the elderly black-suited butler. All full figures share same ground line, small elf never resized across panels. H OLIVE/P CREAM-black costumes and identities unchanged. At end, Eirena MATURE adult BLACK low chignon/GREENeyes/SAPPHIRE closed long-sleeve dress/blue-gold brooch supports ONE Robin cloth toy BROWN tuft/GREENeyes/SAND sweater/TERRACOTTA trousers/cream socks with golden snitches. All human hands/objects/toy positions same; departing Nodky alone carries R.P. bag. Match the mature mother face of image4, keep the SAME garden architecture as original.",
+      "actualPanelCount": 7,
+      "review": "Página completa comparada visualmente con el original. Se conservan disposición, palabras y atribución de globos, personajes, ropa, objetos y secuencia. Se revisan rostros, proporciones, colores de ojos, escala de elfos y muñecos, jardín y luz diurna. El maestro de lectura está limpio y la exportación añade el crédito.",
+      "transcriptIdentical": true,
+      "originalSha256": "9b3e9581dfda9b3d04df10b1b52b3e370f9cfe0531cfcf71305ae2f6df5ec00b",
+      "versionedSha256": "382c7b67bf9f484053fded2defc87b718c8d6336d6c97e29c9868dc09de5165f",
+      "workingMaster": ".local/maestros/c09-p022-continuidad-v3.png"
+    },
+    {
+      "page": 23,
+      "originalImage": "paginas/c09-p023.webp",
+      "versionedImage": "paginas/c09-p023-continuidad-v3.webp",
+      "master": "exec-95e760d7-94c9-49ac-95d6-bb6299c018e8.png",
+      "prompt": "Use case: style-transfer. EDIT only the FIRST image, a Spanish comic page. Deliver its full original portrait page at 1024x1536. Images 2 and 3 are EARLY APPROVED ART references, image 4 is the newly corrected Eirena/Markus/Hermione/Pansy face continuity, image 5 supplies GRAY-BLUE iris continuity for Draco, Astoria and Scorpius. Restore early fine expressive ink, natural modeled skin, defined oval faces, restrained youthful eye/head proportions and medium-BROWN Hermione curls instead of exaggerated round doll-like student faces. Preserve EVERY actual panel, arrangement, framing, pose, exact Spanish word/accents, balloons/tails and story order. Hermione BROWN curls/BROWN eyes/freckles, Pansy neutral BLACK bob/GREEN eyes; retain exact current wardrobe, distinctive faces and relative heights. Parents visibly mature adults, students human late-adolescents, supported cloth dolls consistently small. Keep the established SAME Parkinson Manor GARDEN, white/cream stone pergola, hanging WHITE and LILAC wisteria, white flowers, greenery, marble architecture, white cloth tables and blue-white china, natural daytime light. Gray/cream/green palette with local soft gold, natural BROWN hair and skin. Header exact, clean reading master; author credit is added by app on export. Capítulo 9 · 23. Keep all table conversations/wording and EXACT speakers, mature parents versus late-adolescent students. Markus DARKBROWN-gray temples/GREENeyes/goatee/CHARCOAL suit/GREENtie, Lucius long PLATINUM/GRAYeyes/BLACK suit. In SECOND panel, Draco's eyes AND the small dressed cloth Scorpius's eyes are STEEL GRAY with very slight blue, matching image5, Scorpius tuft PLATINUM white rather than yellow. Daphne LONG BLONDE/BLUEeyes/LAVENDER suit/white hair flowers. Narcissa mature BICOLOR black-platinum updo/DARKGREEN dress/GREENeyes. Chiara mature dark skin/BROWNeyes/braidedBLACK updo/CREAMdress/GOLDnecklace. Hermione OLIVE clothes/BROWNeyes. Eirena MATURE BLACKchignon/GREENeyes/SAPPHIRE dress/blue-gold brooch as image4, holds ONE Robin school cloth toy GREENeyes/BROWNtuft/SAND sweater/TERRACOTTA trousers/cream snitchsocks. Pansy CREAMsuit/BLACKsweater/GREENeyes/BLACKbob. Preserve all individual iris colors except the specified gray refinements, all captions/balloons/tails and SAME garden/table setting.",
+      "actualPanelCount": 7,
+      "review": "Página completa comparada visualmente con el original. Se conservan disposición, palabras y atribución de globos, personajes, ropa, objetos y secuencia. Se revisan rostros, proporciones, colores de ojos, escala de elfos y muñecos, jardín y luz diurna. El maestro de lectura está limpio y la exportación añade el crédito.",
+      "transcriptIdentical": true,
+      "originalSha256": "04f868e44b9c5f3221bd2e39fcf0314a285d28d794920a28a3f8040678b6ad8a",
+      "versionedSha256": "a0256bf3c97df307df136265ffb8cef2f3746c62a15f0f3a3f1787beb32f56ef",
+      "workingMaster": ".local/maestros/c09-p023-continuidad-v3.png"
+    },
+    {
+      "page": 24,
+      "originalImage": "paginas/c09-p024.webp",
+      "versionedImage": "paginas/c09-p024-continuidad-v3.webp",
+      "master": "exec-48f98fdc-45c9-4bb0-8eac-8cba37a41aac.png",
+      "prompt": "Use case: style-transfer. EDIT only the FIRST image, a Spanish comic page. Deliver its full original portrait page at 1024x1536. Images 2 and 3 are EARLY APPROVED ART references, image 4 is the newly corrected Eirena/Markus/Hermione/Pansy face continuity, image 5 supplies GRAY-BLUE iris continuity for Draco, Astoria and Scorpius. Restore early fine expressive ink, natural modeled skin, defined oval faces, restrained youthful eye/head proportions and medium-BROWN Hermione curls instead of exaggerated round doll-like student faces. Preserve EVERY actual panel, arrangement, framing, pose, exact Spanish word/accents, balloons/tails and story order. Hermione BROWN curls/BROWN eyes/freckles, Pansy neutral BLACK bob/GREEN eyes; retain exact current wardrobe, distinctive faces and relative heights. Parents visibly mature adults, students human late-adolescents, supported cloth dolls consistently small. Keep the established SAME Parkinson Manor GARDEN, white/cream stone pergola, hanging WHITE and LILAC wisteria, white flowers, greenery, marble architecture, white cloth tables and blue-white china, natural daytime light. Gray/cream/green palette with local soft gold, natural BROWN hair and skin. Header exact, clean reading master; author credit is added by app on export. Capítulo 9 · 24. Keep the precise transition from garden breakfast to afternoon preparations and evening manor exterior, exact panel arrangement and all text. Hermione OLIVE sweater/BROWNcurls/BROWNeyes, Markus mature DARKBROWN hair/graytemples/GREENeyes/goatee/CHARCOAL suit/GREENtie, Lucius mature long PLATINUM/BLACK suit. Lissandra is a visibly MATURE ADULT woman BLONDE updo/BLUEeyes/SAGE long-sleeve daydress, keep her distinct identity and current blue jewelry. Restore early natural facial proportions to Hermione and the parents. Dress gift stays the SAME CREAM box with NAVY ribbon, preserve exact object count and location in every panel. White/lilac wisteria, white china, blue floral vases/table pattern and white-gray manor architecture remain consistent. Clock panel and final dusk exterior retain exact scene/time; dusk sky cool blue-violet with warm windows localized, no new architecture or text.",
+      "actualPanelCount": 5,
+      "review": "Página completa comparada visualmente con el original. Se conservan disposición, palabras y atribución de globos, personajes, ropa, objetos y secuencia. Se revisan rostros, proporciones, colores de ojos, escala de elfos y muñecos, jardín y luz diurna. El maestro de lectura está limpio y la exportación añade el crédito.",
+      "transcriptIdentical": true,
+      "originalSha256": "ad061e1e010502a173c01ea30ed5e84ca06b9b41eafd8bccc1dcea2e35e5de91",
+      "versionedSha256": "0d1512d4b7fd4028f707518a978dfbf78855a02ea9f12330a4e20c0db4fe79d0",
+      "workingMaster": ".local/maestros/c09-p024-continuidad-v3.png"
+    }
+  ],
+  "illustratedPagesUnchanged": 215
+}
