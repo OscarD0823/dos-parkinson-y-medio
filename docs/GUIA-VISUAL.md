@@ -1,5 +1,7 @@
 # Continuidad visual del cómic
 
+La revisión de personajes del 2 de noviembre de 2026 fija los rostros originales del capítulo 1 como referencia permanente. La [guía de diseños](DISENOS-PERSONAJES.md) precisa los rasgos de cada personaje y separa identidad, ropa de la escena y detalle del dibujo. Tiene prioridad sobre las descripciones genéricas de proporciones que siguen.
+
 El usuario señaló una pérdida de continuidad de color y de presentación a partir del capítulo 5. Las referencias de estilo vuelven a ser las páginas iniciales, con **c01-p001** para el dibujo y **c04-p001** para la apertura de capítulo. Las imágenes recientes sirven para conservar personajes, objetos y vestuario, pero no deben sustituir esas referencias de estilo.
 
 ## Color y dibujo

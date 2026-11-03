@@ -1,0 +1,353 @@
+{
+  "chapter": 1,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "baseCommit": "300149bccae8acc0eabb98b7a120bc5e2ea2533e",
+  "identityReference": "docs/DISENOS-PERSONAJES.md",
+  "pages": [
+    {
+      "page": 1,
+      "originalImage": "paginas/c01-p001.webp",
+      "versionedImage": "paginas/c01-p001-detalle-v2.webp",
+      "master": "exec-00c69710-c633-4096-b542-778817e3abdb.png",
+      "workingMaster": ".local/maestros/c01-p001-detalle-v2.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 supply the ORIGINAL chapter1 character models. IMAGE 2 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Se acepta la segunda prueba a 1024 × 1536. La prueba preliminar cambió la proporción de página y se descarta. Se conservan las nueve viñetas, todos los textos, Sophie y Hermione. Detalle de rizos, tela, libros y arquitectura.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "4c68e0276b08400c3b3646f989a19b2d77f7b42347f465063798284b36afd484",
+      "versionedSha256": "6bd3950a70f0595f6a07f15863b4553f6e5efc20d0107ec2a269ce5536977f06"
+    },
+    {
+      "page": 2,
+      "originalImage": "paginas/c01-p002.webp",
+      "versionedImage": "paginas/c01-p002-detalle-v2.webp",
+      "master": "exec-f5a56578-8291-48c0-a143-79e6e5518f37.png",
+      "workingMaster": ".local/maestros/c01-p002-detalle-v2.png",
+      "references": [
+        "paginas/c01-p001.webp",
+        "paginas/c01-p002.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 supply the ORIGINAL chapter1 character models. IMAGE 2 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Se conserva la página completa, incluidos los textos inferiores que el OCR no reconoció. Se comprueban los primeros planos originales de Hermione y Pansy y los rostros de amigos y profesores.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "3c77e44341841a48220f77b13e9d1625f69e3f1b18222e2e01c69083b46f2d6f",
+      "versionedSha256": "c67bd513933104522bb280c573d11bf54009520627ee944d8a9e9dc6b9a8ba57"
+    },
+    {
+      "page": 4,
+      "originalImage": "paginas/c01-p004.webp",
+      "versionedImage": "paginas/c01-p004-detalle-v2.webp",
+      "master": "exec-8feabb5d-c56d-4910-af01-b5e62fc83bbc.png",
+      "workingMaster": ".local/maestros/c01-p004-detalle-v2.png",
+      "references": [
+        "paginas/c01-p004.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export. This is a school assembly with fully clothed teachers giving an educational speech. Keep the entire supplied page, including the original speech about a classroom project with magical cloth dolls, without altering any narrative content.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "d80688bbbdbf16dff05a2880986baf14498b553b7b397c11421b9a909bb52264",
+      "versionedSha256": "10d0822bb09a8827acb01bb1d5bb81b810022c2cfd84f024291fc11ce755f905"
+    },
+    {
+      "page": 5,
+      "originalImage": "paginas/c01-p005.webp",
+      "versionedImage": "paginas/c01-p005-detalle-v2.webp",
+      "master": "exec-c8a276ec-a550-45a6-9d06-7946c376a37d.png",
+      "workingMaster": ".local/maestros/c01-p005-detalle-v2.png",
+      "references": [
+        "paginas/c01-p005.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export. The black-haired Slytherin girl PANSY in the wide group panel MUST retain the target original exact head rotation and SIDEWAYS gaze, closed mouth and subdued neutral expression. Do not make her scowl toward the camera or open her mouth.",
+      "followupEdits": [],
+      "review": "Se descarta la prueba que alteraba la mirada de Pansy. La edición final conserva su gesto neutro, boca cerrada y mirada lateral. Se enriquece tejido, bordados, libros y talla del atril.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "fc9676f078d409a97cf59eade75b5656a04ce6f7eb40813b27609fb7240e79cd",
+      "versionedSha256": "bd9eac96fc040e6e1b7f2ce80be618f63a079a82540e60a51044de608c20dab3"
+    },
+    {
+      "page": 6,
+      "originalImage": "paginas/c01-p006.webp",
+      "versionedImage": "paginas/c01-p006-detalle-v2.webp",
+      "master": "exec-0460f0ca-d9e8-468c-a79d-3503b0a660b7.png",
+      "workingMaster": ".local/maestros/c01-p006-detalle-v2.png",
+      "references": [
+        "paginas/c01-p006.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export. The standing Slytherin girl who objects is TRACEY DAVIS, NOT Pansy. She MUST keep her original BROWN long high PONYTAIL and BROWN eyes in BOTH her panels. Preserve the ponytail tied behind her head, loose brown forehead strands and original face. The blonde friend comforting her keeps her own original blonde hair and face. Pansy does NOT appear anywhere on this page.",
+      "followupEdits": [],
+      "review": "Se descarta la prueba que confundía a Tracey con Pansy. La edición final conserva su coleta larga castaña en ambas viñetas y su identidad propia. Se comprueba el texto completo de la asamblea.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "a06e62bfc068209f0e23153672a2f7297f4dd89e55e04efd5a6057dd9d813df7",
+      "versionedSha256": "c374f1ea498c72ae45f325208348e7c22acb5e4e34b80a8fdb3d0348dc504c12"
+    },
+    {
+      "page": 7,
+      "originalImage": "paginas/c01-p007.webp",
+      "versionedImage": "paginas/c01-p007-detalle-v2.webp",
+      "master": "exec-4d1c85fc-4b97-4b7c-99f3-bfd49aa0c5d5.png",
+      "workingMaster": ".local/maestros/c01-p007-detalle-v2.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c01-p007.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "73dd39ef35693a783ac88d7a2139ce041c884690d3b43b21ca0f132050f19277",
+      "versionedSha256": "0ae53d0186c9fc6fa38bdb7b8b8b896eab582955dbf34f7a81d6a111b2ab89e8"
+    },
+    {
+      "page": 8,
+      "originalImage": "paginas/c01-p008.webp",
+      "versionedImage": "paginas/c01-p008-detalle-v2.webp",
+      "master": "exec-df5d6c12-d652-4ff6-950f-51952dd19c32.png",
+      "workingMaster": ".local/maestros/c01-p008-detalle-v2.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c01-p008.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "a33a796b3669f54adc2b6090094be33e69fe9b9a2cb8ba98e189f8218809dee1",
+      "versionedSha256": "dd4f94744b436a0f01de94ea6557bc0c441e30df83b2c0e0a23de9d146471e63"
+    },
+    {
+      "page": 9,
+      "originalImage": "paginas/c01-p009.webp",
+      "versionedImage": "paginas/c01-p009-detalle-v2.webp",
+      "master": "exec-0014dbe9-b5e7-4a42-ab67-e39f082c7953.png",
+      "workingMaster": ".local/maestros/c01-p009-detalle-v2.png",
+      "references": [
+        "paginas/c01-p009.webp"
+      ],
+      "prompt": "Output ONLY Capítulo 1 · 09, the complete supplied page. Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export.",
+      "followupEdits": [],
+      "review": "Se descarta una generación que copió por error la página 2 de referencia. La edición final usa únicamente la página 9 original. Se conservan las listas, nombres, globos y las nueve viñetas reales.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "9fddff4ec67ea7bf11ca3a3694d36b7365288d90983533cd635a3462a0f46b9b",
+      "versionedSha256": "865fd2d1685bddd6aba8587a46a2a9d54fa6afe6a92114afff60e4b2af0f16bc"
+    },
+    {
+      "page": 10,
+      "originalImage": "paginas/c01-p010.webp",
+      "versionedImage": "paginas/c01-p010-detalle-v2.webp",
+      "master": "exec-d87ea3f8-e4f5-4e0e-8b9f-9f949c0d937b.png",
+      "workingMaster": ".local/maestros/c01-p010-detalle-v2.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c01-p010.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "e16a06280ef57b7ce9f69f228a4d3d5b40e9b36cf0a067e13d3e8394f972cc7a",
+      "versionedSha256": "06d79822364dc4eb87b521cd19e73fa359f53510c079c34c399a1475eaff925e"
+    },
+    {
+      "page": 11,
+      "originalImage": "paginas/c01-p011.webp",
+      "versionedImage": "paginas/c01-p011-detalle-v2.webp",
+      "master": "exec-51c15579-5ce1-4e36-b759-cc5b58d1faba.png",
+      "workingMaster": ".local/maestros/c01-p011-detalle-v2.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c01-p011.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "379699eedd83c76593c07af12b5d1a8189b6cc66327d4aab5cd918c0f7b32f6f",
+      "versionedSha256": "2168cc3eaf6f3b08e37fa29bc01b361c6b6c71a1a42aff511efb25280de4b198"
+    },
+    {
+      "page": 12,
+      "originalImage": "paginas/c01-p012.webp",
+      "versionedImage": "paginas/c01-p012-detalle-v2.webp",
+      "master": "exec-04a57002-ef6e-44bd-aef6-4d9ee01f1f3c.png",
+      "workingMaster": ".local/maestros/c01-p012-detalle-v2.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c01-p012.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. This is an enhancement of original chapter1, keeping the approved character geometry and the actual school/common-room scene shown. Sophie retains HONEY-BLONDE shoulder-length waves, BROWN eyes and yellow-black Hufflepuff uniform. Harry black messy hair/round glasses/GREEN eyes, Ron ginger hair/freckles, Ginny long auburn hair, adult teachers retain mature faces. Keep the exact current uniforms, house colors and all existing background students.",
+      "followupEdits": [],
+      "review": "Se conservan nueve viñetas y todos los intercambios de Theo y Hermione. Se añaden detalle de rizos, tejido y libros. El primer plano final mantiene la preocupación de Hermione con proporciones de ojos menos exageradas.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "a54469bd01a006974c3f6a9b6f510f9ccb38cda1e92bcf2eebd423de7f779b2f",
+      "versionedSha256": "7257b42cd2bce622a3c183414c861ae2e072b8897951cf2fff2c18b79ef122d1"
+    },
+    {
+      "page": 14,
+      "originalImage": "paginas/c01-p014.webp",
+      "versionedImage": "paginas/c01-p014-detalle-v2.webp",
+      "master": "exec-fa1a2f8d-46c8-4d4a-b4c6-3141bccf08f7.png",
+      "workingMaster": ".local/maestros/c01-p014-detalle-v2.png",
+      "references": [
+        "paginas/c01-p014.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "6a0d189a2eda9e49453bdf009653ad686f23c03692058e9dbdc2c1f1a18c11b1",
+      "versionedSha256": "7d3c75f2fff3e435dd90c9c2d4979975b367a76cc7cbaf935d6942746aaa9d4e"
+    },
+    {
+      "page": 15,
+      "originalImage": "paginas/c01-p015.webp",
+      "versionedImage": "paginas/c01-p015-detalle-v2.webp",
+      "master": "exec-d01f5b65-0aaf-48f2-851d-1a19f66894bb.png",
+      "workingMaster": ".local/maestros/c01-p015-detalle-v2.png",
+      "references": [
+        "paginas/c01-p015.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "7f6d58ac97c181186b630b8e9cf3cf2c6bf97b838a1da195559c80df85de7cdc",
+      "versionedSha256": "fb46ad4e1cff3008638008e41c104ac1652a55df0928320d7d238f5ae66d04c6"
+    },
+    {
+      "page": 16,
+      "originalImage": "paginas/c01-p016.webp",
+      "versionedImage": "paginas/c01-p016-detalle-v2.webp",
+      "master": "exec-e86731c2-901c-4985-b2b6-0db789c89400.png",
+      "workingMaster": ".local/maestros/c01-p016-detalle-v2.png",
+      "references": [
+        "paginas/c01-p016.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "410d5327525fbbf34792f7c6a4bc47988ed7e162c213359b48ae8e8a9917b6aa",
+      "versionedSha256": "3e96327d248a5f2a973ea8f992a9ca1a8e63cd8623a200d6b4aef05bdbd349a4"
+    },
+    {
+      "page": 17,
+      "originalImage": "paginas/c01-p017.webp",
+      "versionedImage": "paginas/c01-p017-detalle-v2.webp",
+      "master": "exec-ae99914a-20cb-4285-94d2-56edced0a4bf.png",
+      "workingMaster": ".local/maestros/c01-p017-detalle-v2.png",
+      "references": [
+        "paginas/c01-p017.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "a6ad3f98cd8150ed71db08d5fea4d5a156120d19410f5ddc09022ec173a97011",
+      "versionedSha256": "59be422b48f499f25d2fd309db5200471aa9f021faa22b8f6ed31e1f694859ac"
+    },
+    {
+      "page": 18,
+      "originalImage": "paginas/c01-p018.webp",
+      "versionedImage": "paginas/c01-p018-detalle-v2.webp",
+      "master": "exec-bbaeb435-00b9-4996-809f-d163bd4c84ad.png",
+      "workingMaster": ".local/maestros/c01-p018-detalle-v2.png",
+      "references": [
+        "paginas/c01-p018.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Enhance ONLY the supplied ORIGINAL Spanish comic page. Output the exact same complete 1024x1536 portrait page with all actual panels/borders and exact camera compositions. This supplied original is itself the approved character model. Keep EVERY original face, face geometry, hair shape/length/color, eye color/size, EXPRESSION, gaze and pose exactly as drawn. Only add finer DRAWN MATERIAL DETAIL inside existing forms: fine strands inside existing curl masses, delicate robe seams/weave, badge embroidery, existing book bindings, wood grain and stone carving. Preserve original warm golden fantasy comic inks and soft painterly modeling, original panel proportions and all environment architecture/furniture/props. Preserve EVERY Spanish word/accent, header, caption, balloon position/tail and reading order verbatim. Keep the current scene clothes and objects, do not add people or jewelry. Each student keeps their OWN existing identity, hairstyles and individual expressions rather than resembling a different student. The detail treatment must be subtle and preserve the original drawing. Clean reading master, author credit is added only by the app on export.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "7c02948fe4b75079af4dc37f77b3a41c2355ecc328049e89b67618e7c599cd47",
+      "versionedSha256": "a96ea56df411a54f593199f50a5f32f3053634e48a3899f34611829d1b1ab995"
+    }
+  ],
+  "unchangedPages": [
+    {
+      "chapter": 1,
+      "page": 3,
+      "reason": "La herramienta rechazó la edición. Se conserva el original revisado."
+    },
+    {
+      "chapter": 1,
+      "page": 13,
+      "reason": "No se obtuvo una edición aceptable de la herramienta. Se conserva el original revisado."
+    }
+  ]
+}

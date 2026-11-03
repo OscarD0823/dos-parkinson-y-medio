@@ -1,5 +1,7 @@
 # Referencias de personajes
 
+Para la identidad facial tiene prioridad la [guía de diseños originales del capítulo 1](DISENOS-PERSONAJES.md). Las referencias cinematográficas de esta página orientan únicamente anatomía y alturas relativas. No sustituyen los rostros, peinados ni proporciones expresivas aprobados del cómic.
+
 La revisión visual pedida por el usuario combina el dibujo y la presentación de los capítulos 1–4 con proporciones humanas y alturas relativas inspiradas en la saga de películas. Las comparaciones deben hacerse con figuras en el mismo plano; no se deducen centímetros de fotografías ni se asignan alturas oficiales a personajes originales del fanfic.
 
 Las películas orientan la edad aparente, la anatomía y las siluetas de los personajes conocidos. Los colores de ojos, el vestuario de cada escena y los rasgos ya fijados por esta adaptación se conservan. Una diferencia entre libros, películas y fanfic no autoriza a recolorear personajes aprobados.

@@ -1,0 +1,505 @@
+{
+  "chapter": 9,
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "baseCommit": "300149bccae8acc0eabb98b7a120bc5e2ea2533e",
+  "identityReference": "docs/DISENOS-PERSONAJES.md",
+  "pages": [
+    {
+      "page": 15,
+      "originalImage": "paginas/c09-p015-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p015-personajes-v4.webp",
+      "master": "exec-b013b978-ea52-4bc0-a0bf-80f1489b9af2.png",
+      "workingMaster": ".local/maestros/c09-p015-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p015-continuidad-v3.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Chapter 9 page 15. This is the SAME two-bed shared Slytherin bedroom in ALL panels: two SEPARATE single beds, Hermione left, Pansy right, one empty or occupied central small moon-and-stars cloth-toy cot, gray stone Gothic underwater windows with aquatic plants, green lamps, wooden furniture, RIGHT oval vanity. Current clothes stay OLIVE sweater/full trousers for Hermione, CREAM blazer/full trousers over BLACK sweater for Pansy. Robin keeps his BROWN tuft, GREEN eyes, SAND sweater, TERRACOTTA trousers, cream golden-snitch socks, proper small toy scale and unique location. Cot and floating pram are EMPTY while Robin is held. Keep EXACT original eight panel arrangement and ALL original texts including 'Sábado por la mañana.', all dialogue and final question '¿Lista, Granger?'. Keep the upper-left header 'Capítulo 9 · 15'.",
+      "followupEdits": [],
+      "review": "Se recuperan ojos alargados, mandíbula y melena lisa de Pansy. Hermione mantiene pelo suelto, ropa oliva y sus pecas. Dos camas separadas, cuna central, tocador derecho, equipaje, único Robin y cochecito vacío al final. Se conservan todas las viñetas y sus textos.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "2a1ce255fa7e49790bdfa5a7c1c6485d1c1938f46577d2ac4b6d07dfef0995f7",
+      "versionedSha256": "22ece2c63e9ec48e7b06542c16fe10d50b62ea5d4d16f51be092243d8509849f"
+    },
+    {
+      "page": 16,
+      "originalImage": "paginas/c09-p016-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p016-personajes-v4.webp",
+      "master": "exec-6df709e5-2bde-484c-8ea7-015c728f29c2.png",
+      "workingMaster": ".local/maestros/c09-p016-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p016-continuidad-v3.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 16': instead of gala, this target shows morning friends in SLYTHERIN COMMON ROOM. Preserve ALL FIVE original wide panels and exact present clothes/faces/objects: Draco PLATINUM/GRAY-BLUEeyes/CHARCOAL turtleneck/PEARL trousers, Astoria LONG DARKBROWN/GRAY-BLUEeyes/PALE BLUE closed long dress. ONE small cloth Scorpius PLATINUMtuft/GRAY-BLUEeyes/CREAM clothing with Draco, matching existing approved eye tone. Theo BROWN hair/GREENeyes/NAVY jacket/CREAM shirt, Luna LONG BLONDE/BLUEeyes/silver blouse/GALAXY skirt, TWO small cloth BLUE-eyed twins in OWN separate seats of BLUE-GOLD pram, one dark-haired Larson/one blonde Amelie. Tracey BROWN ponytail/BROWNeyes/BEIGE clothing holds ONE sleeping Caitlyn, Wayne BROWNcurls/closed eyes/MUSTARD sweater. Blaise dark skin/BROWNeyes/WHITE shirt/BEIGE trousers holds ONE small cloth Arianna BLUEeyes/BEIGE outfit/BEIGE hat. Daphne LONG BLONDE/BLUEeyes/LAVENDER suit/whiteflowers. Keep exact holder and carrier count in each panel and all exact dialogue. Gray stone common-room arches/staircase/green armchairs/green lamps and cool underwater blue-green windows maintain the same location as page17. GALA costumes and Hermione/Pansy do not appear on this target; keep existing day clothes as image1. Only restore early art/proportions/color balance.",
+      "followupEdits": [],
+      "review": "Página sin Hermione ni Pansy. Se conservan los cinco paneles y el reparto de amigos con sus muñecos. La mejora es de materiales y dibujo. La sala común, escalera y ventanales permanecen reconocibles.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "42ee9af559511ca2862606b1768c0db5ff14419862966794b6626d0d4c15ab44",
+      "versionedSha256": "4da27470994be39651a99bfe233d2cdb922bc381c0e61d03429decfd97e3c37a"
+    },
+    {
+      "page": 17,
+      "originalImage": "paginas/c09-p017-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p017-personajes-v4.webp",
+      "master": "exec-f55b5ff4-081a-48fd-a312-1557c7ab9d8f.png",
+      "workingMaster": ".local/maestros/c09-p017-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p017-continuidad-v3.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Chapter 9 page 17. Preserve exact actual panel arrangement, common-room arrival at the foot of stairs, greetings, all friends, final fireplace conversation and every exact word/balloon from image 1. Setting is SLYTHERIN COMMON ROOM, distinct from their private bedroom: gray stone arches, broad staircase in same left position, green velvet armchairs, dark wood tables, cool blue-green underwater arched windows, fireplace and green lamps. Repaint excessive all-over golden glow into the softer stone/wood/local-lamp balance of early references. Hermione OLIVE sweater/full trousers holds one small Robin cloth doll with GREEN eyes, BROWN tuft, SAND sweater/TERRACOTTA trousers/cream socks. Pansy CREAM blazer/full trousers/BLACK sweater with R.P. bag. Draco PLATINUM/GRAY-BLUE eyes/CHARCOAL sweater, Daphne LONG BLONDE/BLUE eyes/LAVENDER suit and white flowers, Luna LONG BLONDE/BLUE eyes/silver blouse/galaxy skirt, Blaise dark skin/short black curls/BROWN eyes/white shirt/BEIGE trousers. One Robin, own floating pram empty, Arianna stays in her own beige pram. All exact identities/eye colors/wardrobe unchanged. Header 'Capítulo 9 · 17'.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "193188da509bafab39e04d7db60fc89b9fa5c3f65bbe9746b982779a9e500e90",
+      "versionedSha256": "282f70efef5c7c92f3f16a54e2341ffaaf3424d72c4c7cfd6aa9dca856d8feff"
+    },
+    {
+      "page": 18,
+      "originalImage": "paginas/c09-p018-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p018-personajes-v4.webp",
+      "master": "exec-5ae70f90-e594-4cf3-9596-d34463014c0b.png",
+      "workingMaster": ".local/maestros/c09-p018-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p018-continuidad-v3.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 18'. Initial common-room panels retain gray STONE arches, green upholstery/lamps and cool BLUE-GREEN underwater windows; retain green magical travel ellipsis and the following Parkinson Manor entrance. Hermione OLIVE closed sweater/full trousers holds exactly ONE Robin cloth toy GREEN eyes/BROWN tuft/SAND sweater/TERRACOTTA trousers/cream snitch socks, Pansy CREAM suit/closed BLACK sweater with darkgreen R.P. bag. The floating pram stays EMPTY. CRITICAL last panel: retain the approved elderly elf butler at HALF human standing height, head near human hips, ALL three standing on SAME marble floor baseline, full bodies visible. Elderly elf sparse gray hair, pointed ears, BROWN eyes, BLACK tailcoat, WHITE shirt/bow tie/gloves. Keep exact empty-handed posture, elf scale and every original word. Only the art rendering/age/lighting is improved.",
+      "followupEdits": [],
+      "review": "Se comprueban la sala común, la transición mágica verde y la entrada de la mansión. El mayordomo conserva la escala pequeña y todos comparten el suelo. Pansy recupera su corte y rostro originales. Textos, seis viñetas y portador de Robin conservados.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "12ca5b5b7a253f5ced210992171d544a6fa7ae758f3f3ada1cac985547e39f46",
+      "versionedSha256": "0ebfc22b1e95a70a4b3ac967f9a70b54bc892d92bbd283dc5bb35c3d3562ea2f"
+    },
+    {
+      "page": 19,
+      "originalImage": "paginas/c09-p019-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p019-personajes-v4.webp",
+      "master": "exec-3071dad9-4273-4918-9002-b9efabf84451.png",
+      "workingMaster": ".local/maestros/c09-p019-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p019-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 19. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 19'. CRITICAL FIRST wide panel: retain full-body Hermione and Pansy standing alongside the small elderly elf butler on the SAME floor baseline, elf head at hip/low-waist level, HALF their height. Elf same mature wrinkles/sparse gray hair/BROWN eyes/BLACK tailcoat/white shirt-bow tie-gloves. Hermione OLIVE sweater/full trousers holds ONE Robin cloth toy; Pansy CREAM suit/closedBLACK sweater/R.P.bag. Robin BROWN tuft/GREEN eyes/SAND sweater/TERRACOTTA trousers/cream snitch socks, no second doll. Lower panels introduce Eirena and Markus, MATURE ADULT PARENTS, each visibly older and anatomically more mature than the students. Eirena BLACK low chignon/GREEN eyes/SAPPHIRE BLUE opaque full-length long-sleeve dress/blue-gold brooch, mature mother face subtly resembling Pansy, fine age lines and narrower mature eye proportions. Markus DARKBROWN hair/GRAY temples/GREEN eyes/precise GOATEE-connected mustache/clean cheeks/CHARCOAL suit/WHITE shirt/DARKGREEN tie. ALL original dialogue tails/words stay exact, including Eirena's 'Señorita Granger, ¿me permitiría?' and Hermione's reply. Consistent morning WHITE-GRAY marble, PALE BLUE curtains, subtle gold. Never copy the school clothing from references.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "7e6b44bbeae862d0961740c5bbc425a591361ea7083353733e7c2e74b96d542b",
+      "versionedSha256": "b6c96b72dfff6015dfc1449fcce5c43ecdd99729f93da97b0b82e16da7234b7e"
+    },
+    {
+      "page": 20,
+      "originalImage": "paginas/c09-p020-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p020-personajes-v4.webp",
+      "master": "exec-4914d7d7-e84c-47c1-8225-e13b02226302.png",
+      "workingMaster": ".local/maestros/c09-p020-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p020-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 20. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 20'. Keep EXACT family greeting sequence and all exact words/tails, including Pansy-pie, Eirena inviting to garden and Blaise shaking Markus's hand. EIRENA is a MATURE ADULT MOTHER, visibly older than Pansy, BLACK low chignon/GREEN eyes/SAPPHIRE BLUE long closed day dress/blue-gold brooch, refined mature oval face and fine age lines. MARKUS is a MATURE ADULT FATHER, DARKBROWN hair/GRAY temples/GREEN eyes/GOATEE-connected mustache/clean cheeks/CHARCOAL suit/WHITE shirt/DARKGREEN tie. HERMIONE BROWN curls/BROWN eyes/OLIVE full sweater-trousers, PANSY BLACKbob/GREEN eyes/CREAMsuit/closedBLACKsweater. Exactly ONE Robin cloth toy, BROWN tuft/GREEN eyes/SAND sweater/TERRACOTTA trousers/cream snitch socks, stays securely supported in EIRENA'S ARMS for entire page. Hermione's hands stay EMPTY in all panels. Blaise dark skin/short black curls/BROWN eyes/WHITE closed shirt/BEIGE trousers and Daphne long BLONDE/BLUE eyes/LAVENDER suit/white hair flowers retain identity. Same white-gray marble entrance/PALE BLUE curtains/subtle GOLD as previous pages, natural morning fill light.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "451556bbd529b70f46caac06b861d90fcda681d66bde09af0f2586e11b4cb949",
+      "versionedSha256": "d27c00a26c90538004c26a8cedf3723a43cfe5135fe2a4be864a019abe7136d7"
+    },
+    {
+      "page": 21,
+      "originalImage": "paginas/c09-p021-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p021-personajes-v4.webp",
+      "master": "exec-414f98ae-2c51-4e69-96f6-3f4640856646.png",
+      "workingMaster": ".local/maestros/c09-p021-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p021-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 21. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 21. Keep all exact family introduction panels and text labels. H/P in OLIVE sweater/full trousers and CREAM suit/BLACK sweater/R.P. bag. Draco PLATINUM hair/CHARCOAL sweater holds ONE dressed cloth Scorpius in CREAM/WHITE, tuft PLATINUM rather than yellow. Astoria LONG DARKBROWN hair/PALE BLUE dress, Draco/Astoria/Scorpius irises GRAY-STEEL with subtle blue, matching the target, preserve eye shape. Lucius long PLATINUM/BLACK formal suit, Narcissa mature BICOLOR black-platinum updo/DARKGREEN dress; Lissandra BLONDE updo/SAGE dress and Quirinus mature BROWN-gray hair/NAVY suit; Chiara mature dark skin/braided BLACK updo/CREAM dress; Blaise dark skin/WHITE shirt, Daphne BLONDE/LAVENDER suit/BLUE eyes. Luna GALAXY/SILVER with Theo NAVY and two separate BLUE-eyed cloth twins, one DARK-haired Larson and one BLONDE Amelie, preserve their own double carrier. Tracey BROWN ponytail/BEIGE/ BROWN eyes and Wayne brown curls/MUSTARD/closed eyes with one sleeping Caitlyn. No toy duplication or changes to family groups. Exact original labels/dialogues. Restore natural early age proportions to all.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "c33563e48c2c57596256c24ef946ead24455815ff429931ec0cbf12acfd0183e",
+      "versionedSha256": "79fd15eeafef7f09f0474afcba0f209c6a0b462bde906bd531f5f0394e83f4c1"
+    },
+    {
+      "page": 22,
+      "originalImage": "paginas/c09-p022-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p022-personajes-v4.webp",
+      "master": "exec-356b9fad-2dc7-43b4-b64e-c71b7e6e22b6.png",
+      "workingMaster": ".local/maestros/c09-p022-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p022-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 22. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 22. Preserve Nodky's entire greeting and the exact R.P. bag transfer sequence, original panel count/layout and all words. Nodky is SMALL ADULT house-elf, head at human hip level/approximately HALF standing height, fine pointed ears/shortBROWNhair/BROWNeyes/BEIGE shirt and full trousers, distinct from the elderly black-suited butler. All full figures share same ground line, small elf never resized across panels. H OLIVE/P CREAM-black costumes and identities unchanged. At end, Eirena MATURE adult BLACK low chignon/GREENeyes/SAPPHIRE closed long-sleeve dress/blue-gold brooch supports ONE Robin cloth toy BROWN tuft/GREENeyes/SAND sweater/TERRACOTTA trousers/cream socks with golden snitches. All human hands/objects/toy positions same; departing Nodky alone carries R.P. bag. Match the mature mother face of the target, keep the SAME garden architecture as original.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "382c7b67bf9f484053fded2defc87b718c8d6336d6c97e29c9868dc09de5165f",
+      "versionedSha256": "aabcaa6ce083db80be7bc70eeb9b8a7b34480f15ffba06c6db8d4598433b8fb6"
+    },
+    {
+      "page": 23,
+      "originalImage": "paginas/c09-p023-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p023-personajes-v4.webp",
+      "master": "exec-b281f53f-dced-4dca-a4e2-d9151066f760.png",
+      "workingMaster": ".local/maestros/c09-p023-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p023-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 23. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 23. Keep all table conversations/wording and EXACT speakers, mature parents versus late-adolescent students. Markus DARKBROWN-gray temples/GREENeyes/goatee/CHARCOAL suit/GREENtie, Lucius long PLATINUM/GRAYeyes/BLACK suit. In SECOND panel, Draco's eyes AND the small dressed cloth Scorpius's eyes are STEEL GRAY with very slight blue, matching the target, Scorpius tuft PLATINUM white rather than yellow. Daphne LONG BLONDE/BLUEeyes/LAVENDER suit/white hair flowers. Narcissa mature BICOLOR black-platinum updo/DARKGREEN dress/GREENeyes. Chiara mature dark skin/BROWNeyes/braidedBLACK updo/CREAMdress/GOLDnecklace. Hermione OLIVE clothes/BROWNeyes. Eirena MATURE BLACKchignon/GREENeyes/SAPPHIRE dress/blue-gold brooch as the target, holds ONE Robin school cloth toy GREENeyes/BROWNtuft/SAND sweater/TERRACOTTA trousers/cream snitchsocks. Pansy CREAMsuit/BLACKsweater/GREENeyes/BLACKbob. Preserve all individual iris colors except the specified gray refinements, all captions/balloons/tails and SAME garden/table setting.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "a0256bf3c97df307df136265ffb8cef2f3746c62a15f0f3a3f1787beb32f56ef",
+      "versionedSha256": "7ac73911f1e087d61a9955392b2989bd2fbadb0681c8bb5e1566bac2584afc1d"
+    },
+    {
+      "page": 24,
+      "originalImage": "paginas/c09-p024-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p024-personajes-v4.webp",
+      "master": "exec-cf3a3b1f-fd7e-48eb-819e-ce16c14bce25.png",
+      "workingMaster": ".local/maestros/c09-p024-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p024-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 24. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 24. Keep the precise transition from garden breakfast to afternoon preparations and evening manor exterior, exact panel arrangement and all text. Hermione OLIVE sweater/BROWNcurls/BROWNeyes, Markus mature DARKBROWN hair/graytemples/GREENeyes/goatee/CHARCOAL suit/GREENtie, Lucius mature long PLATINUM/BLACK suit. Lissandra is a visibly MATURE ADULT woman BLONDE updo/BLUEeyes/SAGE long-sleeve daydress, keep her distinct identity and current blue jewelry. Restore early natural facial proportions to Hermione and the parents. Dress gift stays the SAME CREAM box with NAVY ribbon, preserve exact object count and location in every panel. White/lilac wisteria, white china, blue floral vases/table pattern and white-gray manor architecture remain consistent. Clock panel and final dusk exterior retain exact scene/time; dusk sky cool blue-violet with warm windows localized, no new architecture or text.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "0d1512d4b7fd4028f707518a978dfbf78855a02ea9f12330a4e20c0db4fe79d0",
+      "versionedSha256": "252e65abc3c38b2c2c6ad9e013cf343c3deed0c47f9c8e6256ad5e019e199ee7"
+    },
+    {
+      "page": 25,
+      "originalImage": "paginas/c09-p025-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p025-personajes-v4.webp",
+      "master": "exec-a2631d1a-f7a5-483f-b5e5-9fc8dd0efc4f.png",
+      "workingMaster": ".local/maestros/c09-p025-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p025-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 25. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 25. Preserve first wide manor BALLROOM establishing panel with white/lilac flowers, navy-gold banners, floating gold glass globes and glowing golden birds, tall blue NIGHT windows and guests. Remaining panels are SAME PRIVATE STUDY: dark wood bookshelves left, stone fireplace center, TWO separate navy damask armchairs, low wooden table/books and blue night window right, localized orange fireplace, no changing furniture positions. Pansy BLACK full-length opaque closed-back/closed-neck LONG-SLEEVE DRESS, plain ears, ONE small COLORLESS WHITE diamond solitaire on fine WHITE-metal chain. Keep its same shape/scale/position, neutral white sparkle. Markus CHARCOAL formal high-collar robe with exact SILVER embroidery and crest. Preserve every exact dialogue and natural father/daughter conversational distance.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "c9f13da35a189241cf4b89ab0ac7727c4733daa663f81b3ea59d610d89bad421",
+      "versionedSha256": "a1e05846f5b80aeacc17f49f08565d42f3757781c30ea9671313f810fe036be5"
+    },
+    {
+      "page": 26,
+      "originalImage": "paginas/c09-p026-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p026-personajes-v4.webp",
+      "master": "exec-e55703fa-a57f-4a16-b091-fde3700da9c3.png",
+      "workingMaster": ".local/maestros/c09-p026-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p026-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 26. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 26. Entire page remains the SAME private STUDY of previous page: dark wood bookshelves, stone central fireplace, two separate NAVY damask armchairs, gold lamps, blue nighttime window. Pansy BLACK fully closed long-sleeve opaque full-length dress/plain ears/ONE small COLORLESS WHITE diamond on fine WHITE-metal chain. Markus CHARCOAL formal robe/exact SILVER embroidery/crest, MATURE gray-templed goateed father and GREENeyes. Preserve ALL exact ordered words including Pansy-pie, '¿Linda?' attributed only to MARKUS and 'No quiero precipitarme ni asustarla. Ella analiza todo.' by PANSY. Natural mature versus late-adolescent faces as early reference; keep all exact gestures/camera views/armchairs and full original panel arrangement.",
+      "followupEdits": [],
+      "review": "Se comprueban los once paneles del estudio y la atribución de ¿Linda? a Markus. Se mantienen las expresiones de sorpresa, risa e inquietud de Pansy con el cabello negro y los rasgos restaurados. Sillones, chimenea y libros conservan su posición.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "6b1c4ffab210498b5790671102cdcca8c1d077a6a09686651de4015c9ee468d1",
+      "versionedSha256": "a8145bfd3750d7cd7dd2e9fa10d135dbecdacd6de9527b5d5b46594cc0172c16"
+    },
+    {
+      "page": 27,
+      "originalImage": "paginas/c09-p027-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p027-personajes-v4.webp",
+      "master": "exec-eddd93da-3b2d-4ccd-b44a-3ae692250a3d.png",
+      "workingMaster": ".local/maestros/c09-p027-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p027-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 27. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 27. Keep FIRST study panels with same TWO NAVY armchairs/central stone fireplace/wood bookcases/BLUE night window, Markus in CHARCOAL formal embroidered robe offers normal father-daughter elbow escort, Pansy BLACK full-length fully closed long-sleeve dress/plain ears/ONE small WHITE COLORLESS diamond on fine white-metal chain. Retain exact dialogue order/tails. Later BALLROOM panels continue SAME manor gala space: blue nighttime arched windows, white/lilac florals, gold hanging glass globes, warm lamps, adult guests. EIRENA MATURE BLACK low chignon/GREENeyes in fully closed SAPPHIRE long-sleeve gown/blue-gold brooch and earrings, fine age lines and adult proportions matching the target. Eirena supports ONE small cloth Robin GREENeyes/BROWNtuft in miniature BLACK TUXEDO/WHITEshirt/BLACKbowtie, safely supported once per panel. Toy's clothing changed to gala before this scene as original. No extra doll/transfer. Preserve exact caption 'El muñeco encantado del proyecto se había convertido en la estrella de la velada.'.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "818ad187c62067b91a214b6e078d1a7870a7daf2bffe0ddfda94ddecb9f435b1",
+      "versionedSha256": "c57259a8a159b27a9853e1cbd9f0a062e55d1f8f17ea072004ed474af11ad51b"
+    },
+    {
+      "page": 28,
+      "originalImage": "paginas/c09-p028-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p028-personajes-v4.webp",
+      "master": "exec-096a4c2e-4b05-48c5-99cc-2e18f7558a6e.png",
+      "workingMaster": ".local/maestros/c09-p028-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p028-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 28. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 28. Keep SAME ballroom at drinks table and ICE sculpture, tall BLUE night windows, white/lilac flowers, gold hanging glass globes, guests and same staircase shown at end. BLAISE dark skin/short BLACKcurls/BROWNeyes/NAVY VELVET suit/WHITEshirt, DAPHNE LONG BLONDE/BLUEeyes/white hair flowers/LAVENDER fully closed long-sleeve full-length gown. WILL/WILLIAM is the TALL ADULT cousin, mature angular MEDIUMBROWN short hair/BROWNeyes/light brown STUBBLE, BLACK suit/WHITEshirt/SILVERGRAYtie, ordinary taller human height. Preserve exact identity/clothing/height. Pansy BLACK fully closed LONG-SLEEVE full-length dress/plain ears/ONE small WHITE COLORLESS diamond on fine white-metal chain/GREENeyes/neutral BLACKbob. Keep EVERY exact word/tail, especially 'Gracias. ¿Blaise? ¿Daphne?' points clearly to PANSY, not William. Hermione stays off-page in this original sequence; retain last group reaction without adding her arrival.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "79f45d9b4cd4b9c47eda0f2c735d7512313c986baaa382f3cccd28629ec4a44a",
+      "versionedSha256": "2ce6b54b638fc640695e542c89cf472a5502cb2183e1324ff33603dc0f924aa7"
+    },
+    {
+      "page": 29,
+      "originalImage": "paginas/c09-p029-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p029-personajes-v4.webp",
+      "master": "exec-a2461e31-e37a-4203-8289-dd9fe15c2740.png",
+      "workingMaster": ".local/maestros/c09-p029-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p029-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 29. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 29. Keep Hermione's fully clothed staircase descent and all exact framing, only Will's existing 'Tu novia es impresionante.' line. Will ADULT short MEDIUMBROWN hair/BROWNeyes/light stubble/BLACK suit/WHITEshirt/SILVERGRAYtie, same tall human build. Restore natural early Hermione/Pansy faces and neutral BLACK hair, same gowns. In final full-body panel preserve their established relative height, Pansy slightly shorter than Hermione, ordinary standing proportions. Preserve the same curved WHITE staircase/flower arrangement, ice sculpture in drinks area and tall BLUE night windows, coherent ballroom architecture.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "ec8289155991ed1e54a8d1a3c360ca0cb1ea6521893588afa859a88d48dc21a2",
+      "versionedSha256": "847f8086cfddf794b8a61270c6f9262e286aa4902c4952cf47c557f9606461c9"
+    },
+    {
+      "page": 30,
+      "originalImage": "paginas/c09-p030-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p030-personajes-v4.webp",
+      "master": "exec-4629afc4-e050-4ac2-ba32-cdae5bb52cd4.png",
+      "workingMaster": ".local/maestros/c09-p030-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p030-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 30. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 30. Preserve exact 'Te ves…' exchanges and all words/pauses, Daphne/Blaise's comments, '¡Pansy, querida!' off-frame aunt call. BLAISE dark skin/BROWNeyes/shortBLACKcurls/NAVY VELVET suit/WHITEshirt, DAPHNE LONG BLONDE/BLUEeyes/WHITE hair flowers/LAVENDER fully closed LONG-SLEEVE full-length gown. Same marble staircase/flower drapes and drinks-table ICE sculpture/BLUE night windows as page29. Aunt's NAVY-GOLD wide-brim hat with WHITE feather can remain only as original cropped edge at end. All exact body/hand poses, clothing and original panel layout remain. Pansy's own pendant a single WHITE COLORLESS diamond, Hermione neckline still plain.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "ac8b0283c763f2d8e7e783e7aa45e862c1a7e0b70b2490864854076553e6250d",
+      "versionedSha256": "9eef6af6483801f314383486e8b628f4f8027f5cfe704591d86da890808e821d"
+    },
+    {
+      "page": 31,
+      "originalImage": "paginas/c09-p031-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p031-personajes-v4.webp",
+      "master": "exec-d8e97d19-0b34-4166-9913-34ff9110f78b.png",
+      "workingMaster": ".local/maestros/c09-p031-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p031-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 31. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 31. Keep exact family greeting panels and all dialogue. Older aunt SILVER-GRAY updo/LAVENDER long-sleeve dress/large NAVY-GOLD hat with WHITE feathers/gold brooch. Other mature relatives woman BROWN updo/DARKGREEN dress/pearls and man GRAY hair/beard/BLACK tuxedo/WHITEshirt/BLACKbowtie. EIRENA distinctly MATURE BLACK low chignon/GREENeyes/SAPPHIRE BLUE fully closed long-sleeve gown/blue-gold jewelry, same face as the target. ONE small CLOTH Robin GREENeyes/BROWNtuft/MINI BLACK TUXEDO/WHITEshirt/BLACKbowtie starts supported ONLY by Eirena, after the existing ellipsis transfers ONLY into Hermione's arms; Eirena's arms EMPTY afterward and all mirror/toy counts exact. Keep every holder in each original panel, relative heights, guests and same ballroom. 'Tiene los ojos de Pansy y se parece a esta jovencita!' remains with aunt pointing naturally toward Hermione, same tails.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "60dcbd491a8afe242927341865a7a1c50e1e6f8c3fcd38e61a9842b5d813728c",
+      "versionedSha256": "5165c186ab6ba81b3c5409cc888e4e8018cf5ec1b5d6a2dd3cdd399e762c0dd0"
+    },
+    {
+      "page": 32,
+      "originalImage": "paginas/c09-p032-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p032-personajes-v4.webp",
+      "master": "exec-76330f26-253d-4e51-8ef3-9e306f515cb6.png",
+      "workingMaster": ".local/maestros/c09-p032-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p032-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 32. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 32. Mother/daughter conversation, SAME ballroom position and exact words in original order. EIRENA is mature adult with fine age lines/refined face, BLACK low chignon/GREENeyes/SAPPHIRE closed LONG-SLEEVE gown/BLUEgold jewelry, older than Pansy. Pansy BLACK bob/GREENeyes/BLACK fully closed textured gown/plain ears/WHITE COLORLESS diamond. Background Hermione BROWN high curly bun/BROWNeyes/MIDNIGHTBLUE closed star gown holds ONE Robin CLOTH toy GREENeyes/BROWNtuft/miniBLACKtux-WHITEshirt-BLACKbowtie, same scale and support. Her neckline still PLAIN. Other background relatives retain their same faces/iris/wardrobe, Markus GREENeyes/goatee/graytemples/CHARCOAL formal silver-embroidered robe and raised toast glass at end. Preserve each balloon attribution and all gestures, all actual panel borders, consistent cool night windows/local gold lights.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "b4211299d6812107095060d50cccf116c5d5a7d51f5a30c71ca30377fcde8feb",
+      "versionedSha256": "d2109e1832f61d40e1bb4132374d0be0f9dfce655801b90a7ac718260db42ba0"
+    },
+    {
+      "page": 33,
+      "originalImage": "paginas/c09-p033-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p033-personajes-v4.webp",
+      "master": "exec-cd06c508-3891-4be4-8f40-979016071b57.png",
+      "workingMaster": ".local/maestros/c09-p033-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p033-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 33. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 33. EXACT ballroom toast panels/texts, each speech attributed to Markus. Markus MATURE DARKBROWN/GRAYtemples/GREENeyes/goatee-connected mustache/CHARCOAL formal high collar robe with exact SILVER embroidery and crest, champagne glass same hand. Eirena MATURE BLACK low chignon/GREENeyes/SAPPHIRE BLUE closed long-sleeve gown/blue-gold jewelry, clearly older than Pansy with fine age lines. HERMIONE holds ONE Robin CLOTH school toy GREENeyes/BROWNtuft/miniBLACKtux/WHITEshirt/BLACKbowtie throughout. Hermione neckline still PLAIN, gift not yet received. Pansy WHITE colorless diamond own necklace. SAME ballroom tall BLUE night windows/white-lilac flowers/gold globes, all guests/poses/text order unchanged.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "8606ed0f77455c7bf667b37fa4125365957312467a36e3c676c1cfff74b7032a",
+      "versionedSha256": "fdf7d143e3c44389d39e90c95491b67cd3f94940dd5aee672b01abce97db199c"
+    },
+    {
+      "page": 35,
+      "originalImage": "paginas/c09-p035-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p035-personajes-v4.webp",
+      "master": "exec-d4ba2a87-3aa2-41a6-a92b-548d5161652d.png",
+      "workingMaster": ".local/maestros/c09-p035-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p035-continuidad-v3.webp"
+      ],
+      "prompt": "Use case: identity-preserve. IMAGE3 is the EDIT TARGET and its exact FIVE horizontal panels, story, dialogue, clothing, gestures and setting must be retained. IMAGE1 is the PRIMARY ORIGINAL character identity sheet, especially PANSY in its lower-right eye-contact panel and Hermione throughout. IMAGE2 is additional ORIGINAL HERMIONE facial/drawing reference. Output ONLY the complete chapter9 PAGE35 target, portrait 2:3, 1024x1536. Restore the ORIGINAL faces from chapter1, correcting identity drift in image3. PANSY must have image1's distinct angular tapered jaw/chin, more horizontal narrow almond GREEN eyes, defined upper eyelid and strong arched brows, smaller defined lips and the smooth straight BLACK slightly asymmetric chin-length bob parted to the side/tucked behind one ear, as in image1's lower-right panel. Her original sleek bob has straight ends and flat overlapping locks, preserving that recognizable cut even under gala lighting. Replace the rounded mushroom-like bob and baby-round cheek/large-round-eye interpretation in the target with this ORIGINAL PANSY model. HERMIONE must have the ORIGINAL face in images1/2, distinct BROWN almond eyes, fine brows, defined small nose, freckles and recognizable original cheek/chin shape. Keep her current high curly gala bun and loose BROWN curls (her hairstyle changed for the event); only restore facial identity, not loose school hair or school clothing. Preserve her current body pose, full BLUE star gown, and ONE small supported Robin cloth school toy with BROWN tuft/GREEN eyes/miniBLACKtux-WHITEshirt-BLACKbowtie. PANSY keeps exactly her current full closed BLACK long-sleeve gown, own small colorless WHITE diamond necklace, black clutch and gift box handling. Add finer truthful details to existing hair, cloth seams/brocade/star embroidery, wood/marble and gemstone facets, matching chapter1's expressive fine ink and softly modeled painterly rendering. ALL exact Spanish words/balloons/tails/reading order/header 'Capítulo 9 · 35', the five original panels and objects must stay exactly. Gift remains ONE vertical OVAL MIDNIGHTBLUE SAPPHIRE with small clear-diamond halo and fine platinum chain inside the black box, Hermione's neckline still plain until next page. Same gray-marble gallery/BLUE NIGHT windows/RIGHT gold mirror-darkwood console/white flowers/candlesticks. Only restore original character identity and add drawing detail, never copy scenes or school outfits from the reference pages. Clean reading master, author mark added on exported copies by app.",
+      "followupEdits": [],
+      "review": "Prueba de identidad aceptada. Pansy recupera mandíbula, ojos y cabello del capítulo 1. Hermione conserva el moño de gala, vestido azul y Robin. Cinco paneles, tres intervenciones y encabezado correctos. El regalo permanece en la caja. Se conservan galería, consola y espejo.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "1883bee256aa2e7fb7717477bcc3adb0b995a01720d97fbbf39c39614b9da65e",
+      "versionedSha256": "dde147f0127d42ac0e87569359f49e3677c03a1719beba66f44f548e8035cc3d"
+    },
+    {
+      "page": 36,
+      "originalImage": "paginas/c09-p036-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p036-personajes-v4.webp",
+      "master": "exec-af0d3ea7-3b07-479b-a47c-3ab673fe7e93.png",
+      "workingMaster": ".local/maestros/c09-p036-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p036-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 36. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 36. SAME gray-marble gallery/BLUE night windows/RIGHT antique GOLD MIRROR-darkwood console/white flowers/goldcandles, same object placement and exact original panels/words. HERMIONE holds ONE cloth Robin securely throughout (GREENeyes/BROWNtuft/miniBLACKtux-WHITEshirt-BLACKbowtie). Her new gift is ONE VERTICAL OVAL MIDNIGHTBLUE SAPPHIRE with small clear DIAMOND HALO on fine PLATINUM chain, identical to box closeup, worn OVER CLOSED BLUE fabric only after Pansy fastens it. Pansy retains OWN separate small WHITE COLORLESS diamond necklace, black fully closed gown. Pansy's hands hold chain/fasten clasp exactly as original, H supports Robin, adult-size ordinary stance. Jewel box on console stays OPEN AND EMPTY after removal, BLACK satin clutch separate and unchanged. Mirror reflects only corresponding two students and ONE toy with proper hands/necklaces, no extra toy. All dialogue verbatim including '¿Puedo ponértelo?', 'Sí.', 'Gracias, Pansy.' and exact intervening joke.",
+      "followupEdits": [],
+      "review": "Comparación visual de página completa. Se revisan composición, texto, identidad de personajes, ropa, objetos y escenario. El OCR se usa como apoyo para localizar diferencias y no como prueba única.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "ca514c76071100e127f403e53fa0012dcbbc20ff51595eb23439b5b66b7a2f01",
+      "versionedSha256": "0f6429d1fb8e161ad0ee6088724975744d42ed25830c2470712264b56b812d8d"
+    },
+    {
+      "page": 37,
+      "originalImage": "paginas/c09-p037-continuidad-v3.webp",
+      "versionedImage": "paginas/c09-p037-personajes-v4.webp",
+      "master": "exec-30d41540-2546-417d-a644-3a7d0d82f932.png",
+      "workingMaster": ".local/maestros/c09-p037-personajes-v4.png",
+      "references": [
+        "paginas/c01-p002.webp",
+        "paginas/c01-p001.webp",
+        "paginas/c09-p037-continuidad-v3.webp"
+      ],
+      "prompt": "Output ONLY the complete page with header Capítulo 9 · 37. The LAST reference image is this edit target and supplies ALL panels, text and story. The first two images supply FACE STRUCTURE ONLY, never their scenes, expressions or gaze. Preserve the target expression and direction of gaze in EVERY panel, particularly friendly smiles and warmth. Do NOT copy the suspicious scowl from the face reference to smiling target faces. Use case: identity-preserve. IMAGES 1 and 2 supply the ORIGINAL chapter1 character models. IMAGE 3 is the EDIT TARGET, the complete page to output. Preserve the target's exact 1024x1536 portrait proportions, every actual panel boundary and camera composition, all Spanish lettering, accents, speech tails and original header. Return ONLY this complete page at 1024x1536. Restore and preserve recognizable ORIGINAL faces, never copy school scenes from the references. PANSY has the angular tapered jaw/chin, narrow horizontal almond GREEN eyes, strong arched eyebrows, defined small lips and straight sleek BLACK slightly asymmetric chin-length side-parted bob seen in the lower-right eye-contact panel of original chapter1 page2. Keep straight flat overlapping locks, not a rounded mushroom bob, no purple hair. HERMIONE has the exact original expressive BROWN eyes, freckles, nose, mouth, cheek/chin and voluminous chestnut BROWN curls of original chapter1 pages1/2. Preserve each target expression, gaze and current scene hairstyle. Do not make eyes/heads progressively larger or rounder. Keep every other character's original approved face, age and hair/eye colors. Add carefully drawn finer curl strands, subtle eyelashes/iris highlights, robe seams and woven fabric/embroidery, book bindings, existing wood grain and carved stone. Details stay subordinate to legible text and faces. Match the original expressive fine ink and warm softly modeled painterly comic rendering. Preserve the established warm/cool scene lighting, exact environment architecture/furniture placement, same poses/props/gestures, current clothes, relative heights and actual number of panels. No new props, jewelry, scenes or dialogue. Keep all existing words verbatim. Clean reading master. The app adds author credit to exported copies only. The target determines exactly WHICH people appear. Do not add anyone from the identity reference pages. Preserve the CURRENT scene hairstyles/clothes on the target, including any original loose hair versus gala bun. Page-specific scene and object continuity follows. Capítulo 9 · 37. SAME quiet gallery, gray marble/BLUE night windows/RIGHT large antique GOLD MIRROR-darkwood console/white flowers/goldcandles. Hermione wears ONE BLUE OVAL SAPPHIRE/DIAMOND HALO/platinum chain over closed BLUE star gown, Pansy wears OWN small WHITE COLORLESS diamond over closed BLACK gown. ONE Robin CLOTH toy GREENeyes/BROWNtuft/miniBLACKtux-WHITEshirt-BLACKbowtie starts in HERMIONE'S arms for first THREE panels. Through existing ellipsis PANSY becomes the ONLY holder in FOURTH and FIFTH panels, Hermione hands EMPTY then, proper gentle support. Final GOLD MIRROR image contains only the correct two students/ONE toy reflection with same current holder/clothes/jewelry. Preserve ALL exact dialogue, every actual panel/border/framing and 'Fin del capítulo 9'. Pansy's last words exactly 'Por ahora, somos Dos Parkinson y Medio.' Restore early natural faces and balanced body proportions, black hair neutral, preserve every gesture/story beat.",
+      "followupEdits": [
+        {
+          "prompt": "Use case: precise-object-edit. Edit the supplied complete Spanish comic page 'Capítulo 9 · 37', exactly 1024x1536. Make ONLY one small continuity correction: PANSY (straight BLACK bob, BLACK long-sleeve gown) has BARE EARS throughout this story scene. Remove the small silver hoop/dangling earrings mistakenly drawn on her ears in all panels and in the final gold-mirror reflection. Replace those jewelry marks with her natural small bare earlobe/ear contours and surrounding unchanged hair/skin. Keep her face shape, narrow green eyes, smiles, straight side-parted bob, exact poses and OWN small colorless white diamond necklace unchanged. Keep Hermione, Robin, both necklaces, the five panels, every Spanish word/accent/balloon/header and 'Fin del capítulo 9', all furniture/architecture/background and the complete original rendering exactly. Change no other element. Clean reading master.",
+          "reference": "exec-d3886ec0-7fd8-40e1-81a3-2d4e85b24e3f.png"
+        }
+      ],
+      "review": "Cinco paneles y reflexión final conservados. Hermione porta el zafiro y Robin en los tres primeros paneles. Pansy porta el muñeco en los dos últimos. Se corrigen los pendientes añadidos por error para conservar las orejas sin joyas. Texto final y fin de capítulo correctos.",
+      "transcriptIdentical": true,
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "originalSha256": "c02f28eeaf91452d389a0c42655fd93d177b75e10f42e52596c588b974516ac5",
+      "versionedSha256": "05126797e237697424458f920d755d278e99b68c8793b1b5f4a4a77eed5023f9"
+    }
+  ],
+  "unchangedPages": [
+    {
+      "chapter": 9,
+      "page": 34,
+      "reason": "Interiores sin personajes, ya revisados en la entrega anterior."
+    }
+  ]
+}

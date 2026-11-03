@@ -16,7 +16,7 @@
       "pages": [
         {
           "number": 1,
-          "image": "paginas/c01-p001.webp",
+          "image": "paginas/c01-p001-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 1 del cómic.",
@@ -24,7 +24,7 @@
         },
         {
           "number": 2,
-          "image": "paginas/c01-p002.webp",
+          "image": "paginas/c01-p002-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 2 del cómic.",
@@ -40,7 +40,7 @@
         },
         {
           "number": 4,
-          "image": "paginas/c01-p004.webp",
+          "image": "paginas/c01-p004-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 4 del cómic.",
@@ -48,7 +48,7 @@
         },
         {
           "number": 5,
-          "image": "paginas/c01-p005.webp",
+          "image": "paginas/c01-p005-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 5 del cómic.",
@@ -56,7 +56,7 @@
         },
         {
           "number": 6,
-          "image": "paginas/c01-p006.webp",
+          "image": "paginas/c01-p006-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 6 del cómic.",
@@ -64,7 +64,7 @@
         },
         {
           "number": 7,
-          "image": "paginas/c01-p007.webp",
+          "image": "paginas/c01-p007-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 7 del cómic.",
@@ -72,7 +72,7 @@
         },
         {
           "number": 8,
-          "image": "paginas/c01-p008.webp",
+          "image": "paginas/c01-p008-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 8 del cómic.",
@@ -80,7 +80,7 @@
         },
         {
           "number": 9,
-          "image": "paginas/c01-p009.webp",
+          "image": "paginas/c01-p009-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 9 del cómic.",
@@ -88,7 +88,7 @@
         },
         {
           "number": 10,
-          "image": "paginas/c01-p010.webp",
+          "image": "paginas/c01-p010-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 10 del cómic.",
@@ -96,7 +96,7 @@
         },
         {
           "number": 11,
-          "image": "paginas/c01-p011.webp",
+          "image": "paginas/c01-p011-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 11 del cómic.",
@@ -104,7 +104,7 @@
         },
         {
           "number": 12,
-          "image": "paginas/c01-p012.webp",
+          "image": "paginas/c01-p012-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 12 del cómic.",
@@ -120,7 +120,7 @@
         },
         {
           "number": 14,
-          "image": "paginas/c01-p014.webp",
+          "image": "paginas/c01-p014-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 14 del cómic.",
@@ -128,7 +128,7 @@
         },
         {
           "number": 15,
-          "image": "paginas/c01-p015.webp",
+          "image": "paginas/c01-p015-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 15 del cómic.",
@@ -136,7 +136,7 @@
         },
         {
           "number": 16,
-          "image": "paginas/c01-p016.webp",
+          "image": "paginas/c01-p016-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 16 del cómic.",
@@ -144,7 +144,7 @@
         },
         {
           "number": 17,
-          "image": "paginas/c01-p017.webp",
+          "image": "paginas/c01-p017-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 17 del cómic.",
@@ -152,7 +152,7 @@
         },
         {
           "number": 18,
-          "image": "paginas/c01-p018.webp",
+          "image": "paginas/c01-p018-detalle-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 1: ¿Cómo qué bebés?. Página 18 del cómic.",
@@ -1648,7 +1648,7 @@
         },
         {
           "number": 15,
-          "image": "paginas/c09-p015-continuidad-v3.webp",
+          "image": "paginas/c09-p015-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 15 del cómic.",
@@ -1656,7 +1656,7 @@
         },
         {
           "number": 16,
-          "image": "paginas/c09-p016-continuidad-v3.webp",
+          "image": "paginas/c09-p016-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 16 del cómic.",
@@ -1664,7 +1664,7 @@
         },
         {
           "number": 17,
-          "image": "paginas/c09-p017-continuidad-v3.webp",
+          "image": "paginas/c09-p017-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 17 del cómic.",
@@ -1672,7 +1672,7 @@
         },
         {
           "number": 18,
-          "image": "paginas/c09-p018-continuidad-v3.webp",
+          "image": "paginas/c09-p018-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 18 del cómic.",
@@ -1680,7 +1680,7 @@
         },
         {
           "number": 19,
-          "image": "paginas/c09-p019-continuidad-v3.webp",
+          "image": "paginas/c09-p019-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 19 del cómic.",
@@ -1688,7 +1688,7 @@
         },
         {
           "number": 20,
-          "image": "paginas/c09-p020-continuidad-v3.webp",
+          "image": "paginas/c09-p020-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 20 del cómic.",
@@ -1696,7 +1696,7 @@
         },
         {
           "number": 21,
-          "image": "paginas/c09-p021-continuidad-v3.webp",
+          "image": "paginas/c09-p021-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 21 del cómic.",
@@ -1704,7 +1704,7 @@
         },
         {
           "number": 22,
-          "image": "paginas/c09-p022-continuidad-v3.webp",
+          "image": "paginas/c09-p022-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 22 del cómic.",
@@ -1712,7 +1712,7 @@
         },
         {
           "number": 23,
-          "image": "paginas/c09-p023-continuidad-v3.webp",
+          "image": "paginas/c09-p023-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 23 del cómic.",
@@ -1720,7 +1720,7 @@
         },
         {
           "number": 24,
-          "image": "paginas/c09-p024-continuidad-v3.webp",
+          "image": "paginas/c09-p024-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 24 del cómic.",
@@ -1728,7 +1728,7 @@
         },
         {
           "number": 25,
-          "image": "paginas/c09-p025-continuidad-v3.webp",
+          "image": "paginas/c09-p025-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 25 del cómic.",
@@ -1736,7 +1736,7 @@
         },
         {
           "number": 26,
-          "image": "paginas/c09-p026-continuidad-v3.webp",
+          "image": "paginas/c09-p026-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 26 del cómic.",
@@ -1744,7 +1744,7 @@
         },
         {
           "number": 27,
-          "image": "paginas/c09-p027-continuidad-v3.webp",
+          "image": "paginas/c09-p027-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 27 del cómic.",
@@ -1752,7 +1752,7 @@
         },
         {
           "number": 28,
-          "image": "paginas/c09-p028-continuidad-v3.webp",
+          "image": "paginas/c09-p028-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 28 del cómic.",
@@ -1760,7 +1760,7 @@
         },
         {
           "number": 29,
-          "image": "paginas/c09-p029-continuidad-v3.webp",
+          "image": "paginas/c09-p029-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 29 del cómic.",
@@ -1768,7 +1768,7 @@
         },
         {
           "number": 30,
-          "image": "paginas/c09-p030-continuidad-v3.webp",
+          "image": "paginas/c09-p030-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 30 del cómic.",
@@ -1776,7 +1776,7 @@
         },
         {
           "number": 31,
-          "image": "paginas/c09-p031-continuidad-v3.webp",
+          "image": "paginas/c09-p031-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 31 del cómic.",
@@ -1784,7 +1784,7 @@
         },
         {
           "number": 32,
-          "image": "paginas/c09-p032-continuidad-v3.webp",
+          "image": "paginas/c09-p032-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 32 del cómic.",
@@ -1792,7 +1792,7 @@
         },
         {
           "number": 33,
-          "image": "paginas/c09-p033-continuidad-v3.webp",
+          "image": "paginas/c09-p033-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 33 del cómic.",
@@ -1808,7 +1808,7 @@
         },
         {
           "number": 35,
-          "image": "paginas/c09-p035-continuidad-v3.webp",
+          "image": "paginas/c09-p035-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 35 del cómic.",
@@ -1816,7 +1816,7 @@
         },
         {
           "number": 36,
-          "image": "paginas/c09-p036-continuidad-v3.webp",
+          "image": "paginas/c09-p036-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 36 del cómic.",
@@ -1824,7 +1824,7 @@
         },
         {
           "number": 37,
-          "image": "paginas/c09-p037-continuidad-v3.webp",
+          "image": "paginas/c09-p037-personajes-v4.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 9: Esmoquin, pañales y alta sociedad. Página 37 del cómic.",
