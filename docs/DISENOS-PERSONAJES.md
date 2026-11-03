@@ -12,10 +12,14 @@ La petición del 2 de noviembre de 2026 tiene dos partes. Enriquecer el dibujo d
 | Harry, Ron y Ginny | [Capítulo 1, página 2](../dist/paginas/c01-p002.webp) | Conservar la geometría individual de los rostros. Harry mantiene pelo negro revuelto y gafas redondas. Ron mantiene pelo pelirrojo y pecas. Ginny mantiene pelo largo rojizo. |
 | Profesores | [Capítulo 1, páginas 2–6](../dist/paginas/c01-p002.webp) | Edad adulta y rasgos propios. Mantener arrugas, peinados, barba, gafas y silueta de cada uno. |
 | Personajes presentados después | Primera aparición revisada de cada personaje | Mantener sus propios diseños y edad. No convertir a familiares en copias del rostro de Pansy o Hermione. |
+| Nodky | [Capítulo 9, página 22](../dist/paginas/c09-p022-personajes-v4.webp) | Elfo adulto joven, pelo corto castaño, ojos castaños, nariz fina y orejas puntiagudas. Ropa beige. Altura aproximada de media figura humana al compartir el suelo. |
+| Mayordomo de la mansión | [Capítulo 9, página 19](../dist/paginas/c09-p019-personajes-v4.webp) | Elfo anciano, pelo gris escaso, arrugas y traje negro con camisa y guantes blancos. Es distinto de Nodky. |
 
 Los archivos originales siguen guardados aunque el lector utilice una versión enriquecida. Estas referencias no se sustituyen por la última imagen generada. Las películas pueden orientar anatomía y alturas relativas, pero la identidad dibujada aprobada en el capítulo 1 tiene prioridad.
 
 El vestido, el recogido y los accesorios dependen de la escena. Recuperar el rostro de Hermione no implica soltar su moño de gala ni ponerle el uniforme escolar en la mansión. La luz de una vela tampoco convierte el cabello negro en violeta ni los iris castaños en verdes.
+
+El collar regalado a Hermione es un zafiro oval azul medianoche con halo de diamantes claros, montura y cadena fina de platino blanco. El colgante cae sobre la parte frontal del pecho. En una vista de espaldas puede quedar oculto; no se traslada a la espalda ni al hombro. Pansy mantiene su pequeño diamante propio y las orejas sin joyas. En los recuerdos de la gala se conserva también el vestuario de los invitados, incluido el vestido lavanda de manga larga y pelo rubio suelto con flores de Daphne y el traje azul de terciopelo de Blaise.
 
 ## Qué cambió y por qué
 

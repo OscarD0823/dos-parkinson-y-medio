@@ -13,7 +13,7 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 7 | ¡Ha nacido un Parkinson! | 18 | 18 |
 | 8 | La Familia Parkinson | 33 | 33 |
 | 9 | Esmoquin, pañales y alta sociedad | 37 | 37 |
-| 10 | Rivales | 44 | 0 |
+| 10 | Rivales | 44 | 6 |
 | 11 | Anatomía de un Rumor | 44 | 0 |
 | 12 | Parkinson's Christmas | 95 | 0 |
 | 13 | La Dolce Vita | 88 | 0 |

@@ -10,6 +10,12 @@ La [guía de diseños](DISENOS-PERSONAJES.md) explica las diferencias observadas
 
 Se conservan las 215 páginas ilustradas, las transcripciones, el orden y las dimensiones de lectura. Se verifica en PC y móvil la navegación, ampliación, copia y descarga con el crédito en el pie exterior. La continuación del capítulo 10 se prepara desde la fuente completa de 744 páginas verificada de nuevo.
 
+## Continuación de Rivales
+
+Tras incorporar las correcciones se publican las primeras seis páginas del capítulo 10, basadas en las páginas 247–256 de la fuente completa. El lector pasa a 221 páginas ilustradas. El capítulo 10 permanece en elaboración y conserva la estimación de 44 páginas. La [guía de continuación](CONTINUACION-CAPITULO-10.md) documenta escenarios, ropa y el punto de enlace. Los [prompts y archivos](prompts-capitulo-10-paginas-01-06.json) incluyen las correcciones de cada imagen.
+
+Se comprueba el paso desde la última página del capítulo 9 al 10, la copia y descarga del nuevo capítulo con crédito, el fin del bloque disponible en la página 6 y la presentación en móvil sin desbordamiento. Los campos y las 215 páginas anteriores permanecen intactos en esta continuación.
+
 ## Revisión anterior
 
 Entrega del 2 de noviembre de 2026.
