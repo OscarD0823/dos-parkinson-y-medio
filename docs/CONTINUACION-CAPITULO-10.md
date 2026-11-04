@@ -1,6 +1,6 @@
 # Continuación del capítulo 10
 
-Primer bloque de **Rivales**, páginas ilustradas 1 a 6. El capítulo sigue en elaboración. Las 44 páginas previstas son una estimación, no páginas ya dibujadas.
+**Rivales** sigue en elaboración. Este registro conserva el primer bloque (páginas 1–6) y documenta la continuación posterior. Las 44 páginas previstas son una estimación, no páginas ya dibujadas.
 
 Se utiliza la fuente completa verificada de 744 páginas, de Nicole_Winkel. Este bloque adapta las páginas 247–256 del PDF. Las escenas íntimas se resuelven con elipsis, como en el resto del lector, y se conserva la comedia familiar, la conversación y el desarrollo de la relación.
 
@@ -13,7 +13,7 @@ Se utiliza la fuente completa verificada de 744 páginas, de Nicole_Winkel. Este
 
 Los rostros se apoyan siempre en los originales del capítulo 1, además de las referencias del escenario. Las nuevas imágenes no sustituyen esa guía de identidad. Los detalles de materiales mantienen la legibilidad de los globos.
 
-La última viñeta enlaza con la llegada de Markus al desayuno. La continuación pendiente comienza en la página 256 del PDF, con su saludo a la familia y la conversación sobre las repercusiones de la fiesta.
+La última viñeta del primer bloque enlaza con la llegada de Markus al desayuno. La continuación desde la página 256 del PDF se incorpora en los bloques documentados debajo.
 
 Los [prompts, transcripciones y archivos](prompts-capitulo-10-paginas-01-06.json) registran también las correcciones de Nodky, collar, globos, cabecera y vestuario. Los maestros se conservan en el espacio de trabajo y el lector recibe las versiones WebP. Las copias y descargas usan el crédito automático de la autora.
 
@@ -29,3 +29,20 @@ El usuario identificó un problema en los brazos de Pansy en la página 2 y apar
 Los bebés deben mantener apariencia humana, piel suave, manos con dedos y extremidades infantiles. Se conserva el tejido de sus prendas, el vestuario azul/beige de Robin, el crema de Scorpius, las caras, colores de ojos, tamaños, portadores, escenarios y todos los diálogos.
 
 Los [prompts de corrección y sus resultados](prompts-correccion-capitulo-10-paginas-02-05.json) incluyen los originales, maestros, huellas, revisión y el segundo ajuste de la página 2. Tras el bloqueo inicial por límite de uso se obtuvieron cuatro versiones aceptadas. Cada página se comprobó completa y con OCR adicional; el ruido de reconocimiento en el encabezado de la página 4 se contrastó visualmente. Las nuevas imágenes usan el sufijo `-anatomia-v2.webp`. Se conservan todos los originales, las 221 páginas, las transcripciones y los demás campos del manifiesto. Se comprueban carga de las cuatro imágenes, navegación, PC/móvil y exportación con crédito en el pie exterior. Los prompts iniciales permanecen como historial.
+
+## Continuación: páginas 7–14
+
+Páginas nuevas revisadas completas, con OCR adicional y referencia facial permanente en los originales del capítulo 1. Los bebés mantienen apariencia humana. El crédito de Nicole_Winkel se añade solo en la exportación.
+
+| Página ilustrada | Fuente PDF | Escena |
+| --- | --- | --- |
+| 7 | 256–257 | Markus llega al desayuno del jardín oeste y la familia recuerda la repercusión de la fiesta. |
+| 8 | 257–258 | El Profeta muestra a la pareja; Eirena planea regalos y vacaciones de Navidad. |
+| 9 | 258–259 | La familia se dispersa por la mansión. Markus expresa orgullo por su hija mientras Hermione acompaña a Robin bajo un roble. |
+| 10 | 259–260 | Padre e hija mantienen una conversación torpe sobre responsabilidad y regreso al colegio, resuelta con humor y respeto. |
+| 11 | 260–262 | Eirena acepta a Hermione como parte de la familia y le habla de la lealtad de Pansy. |
+| 12 | 262–263 | El lunes, McGonagall recibe a Hermione y Pansy y recuerda que el castigo por el duelo sigue pendiente. |
+| 13 | 263–264 | Las dos se niegan a separarse de Robin y McGonagall aplaza el castigo hasta que termine el proyecto. |
+| 14 | 264–265 | Robin reacciona a la tristeza con magia accidental y McGonagall descubre con orgullo el vínculo de la familia. |
+
+Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-07-14.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 14 páginas ilustradas.

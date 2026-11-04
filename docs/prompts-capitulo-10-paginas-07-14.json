@@ -1,0 +1,770 @@
+{
+  "chapter": 10,
+  "title": "Rivales",
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "editorial": "Adaptación de la fuente completa. Se conserva la comedia familiar y escolar; la intimidad se resuelve sin detalles gráficos. Los originales del capítulo 1 fijan las identidades, las referencias recientes solo aportan vestuario y escenario.",
+  "illustratedBlock": [
+    7,
+    14
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 7,
+      "image": "paginas/c10-p007.webp",
+      "sourcePdfPages": [
+        256,
+        257
+      ],
+      "summary": "Markus llega al desayuno del jardín oeste y la familia recuerda la repercusión de la fiesta.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p007.png",
+      "generatedMaster": "exec-1a6e78e0-6a25-40e0-9738-d72fe6cfbb53.png",
+      "sha256": "ea3183227ec637419d9233a7fca9e8d0da0805bf28befa8c1209dc973e08c67f",
+      "masterSha256": "8a33a123a6a3111a8f360d0b0e5ab6815c43c163d28fdb9990da6a0b2f32aca4",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos, incluidos el saludo y el cierre de Cassiopeia que el OCR omitió parcialmente. Jardín oeste y vestuario diurno coherentes, padre maduro propio, Robin y Scorpius humanos y distintos con portadoras seguras. Ropa y zafiro con platino conservados.",
+      "transcript": "Capítulo 10 · 07\n\nMarkus llega al desayuno del jardín oeste y la familia recuerda la repercusión de la fiesta.\nMarkus: Buenos días, familia.\nEirena: Markus, querido.\nMarkus: Lamento la demora. Tuve que enviar algunas lechuzas urgentes.\nMarkus: Al parecer, el beso de mi hija fue más comentado que la actuación privada de Celestina Warbeck.\nMarkus, off panel: Y considerando lo que le pagué por cantar tres canciones, eso es decir mucho.\nNarcissa: Fue un momento encantador. Tienen un talento natural para el drama, querida.\nDraco: Ya era hora. Estaba a punto de organizarles una cita con velas y violines.\nCassiopeia: ¡La noticia ya llegó a Heidelberg! ¡Miren esto!",
+      "panels": [
+        {
+          "scene": "Wide sunny west-garden breakfast, limestone pergola, pink peonies, white tablecloth and blue-white china. Markus approaches along the gravel path in WHITE rolled-sleeve LINEN SHIRT and DARK TROUSERS, no jacket or tie. Pansy and Hermione look up from their adjacent wicker chairs. Eirena holds the one Robin securely on her lap.",
+          "dialogue": [
+            "Markus: Buenos días, familia.",
+            "Eirena: Markus, querido."
+          ]
+        },
+        {
+          "scene": "Markus gives his mature wife Eirena a gentle forehead kiss and strokes Robin’s little brown curls with one hand. Eirena’s blue blouse and beige skirt unchanged, Robin blue cardigan/beige trousers and natural human infant hands. Happy unsexual family moment.",
+          "dialogue": [
+            "Markus: Lamento la demora. Tuve que enviar algunas lechuzas urgentes."
+          ]
+        },
+        {
+          "scene": "Markus sits beside Eirena with a wry smile, gesturing toward Pansy. Small blue-white teacup, peonies and silver teapot; no newspapers yet.",
+          "dialogue": [
+            "Markus: Al parecer, el beso de mi hija fue más comentado que la actuación privada de Celestina Warbeck."
+          ]
+        },
+        {
+          "scene": "Pansy embarrassed behind both hands; Hermione beside her takes a calm sip of tea, amused. Cream linen collared blouses, Pansy dark-green neck scarf, Hermione sapphire WHITE PLATINUM chain.",
+          "dialogue": [
+            "Markus, off panel: Y considerando lo que le pagué por cantar tres canciones, eso es decir mucho."
+          ]
+        },
+        {
+          "scene": "Mature Narcissa with elegant blonde/black low updo and dark-green high-neck embroidered dress smiles while spreading fig jam on a roll. Astoria beside her, own LONG BROWN WAVES and pale-blue blouse, safely supports platinum baby Scorpius in cream knit clothes.",
+          "dialogue": [
+            "Narcissa: Fue un momento encantador. Tienen un talento natural para el drama, querida."
+          ]
+        },
+        {
+          "scene": "Draco platinum blond in charcoal high-neck sweater reclines in his chair with a theatrical exasperated expression. Pansy at opposite side of table looks unimpressed, Hermione laughs.",
+          "dialogue": [
+            "Draco: Ya era hora. Estaba a punto de organizarles una cita con velas y violines."
+          ]
+        },
+        {
+          "scene": "Cassiopeia, elderly silver curls, glasses, lavender embroidered long dress, navy/gold wide hat with white feather, sets her CARROT down and pulls a folded newspaper from a beaded purse. Everyone turns toward her; do not show later pages yet.",
+          "dialogue": [
+            "Cassiopeia: ¡La noticia ya llegó a Heidelberg! ¡Miren esto!"
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Asset: NEW complete Spanish comic page for Dos Parkinson y Medio. This is a NEW story page, not a copy or edit of a reference layout. Canvas exactly 1024x1536 portrait, thin black panel borders, warm cream narrow gutters, fully contained Spanish white speech balloons with clear tails and large crisp readable text. Small BLACK upper-left header only, no flourishes. Fine-ink painterly anime comic, older-student proportions, detailed natural fabric, hair and architecture. IMAGE1 (original Ch1p2) and IMAGE2 (original Ch1p1) PERMANENT facial/style reference: Hermione BROWN eyes, freckles, original expressive eye spacing/nose/mouth/chin, abundant layered chestnut curls, NOT chibi/big-headed; Pansy GREEN slender almond eyes, angular tapered jaw/chin, strong brows, small defined lips, BLACK sleek side-part CHIN-LENGTH bob, flat locks/straight ends, BARE EARS. Match their age and face geometry, adapt expressions to the scene, do NOT copy the scowl. IMAGE3 fixes CURRENT DAYTIME costumes/necklaces, garden and Eirena/Robin/Blaise/Daphne; IMAGE4 fixes Cassiopeia/Narcissa/Astoria/Draco/Scorpius and garden; IMAGE5 fixes Markus's MATURE face and gray temples/goatee ONLY, NOT his old suit. Current Sunday Markus wears WHITE rolled-sleeve linen shirt and DARK trousers. Pansy and Hermione wear CREAM opaque collared linen blouses and full trousers; Pansy dark green neck scarf, Hermione midnight-blue oval sapphire with clear diamond halo and fine WHITE PLATINUM chain on FRONT chest. Adults look mature and individual. Babies are magical school-project infants within the fiction but VISUALLY HUMAN: smooth human skin, natural tiny fingers/thumbs, anatomically infant limbs, no knitted skin/seams/paws or stuffed-ball feet. Robin brown curls/GREEN eyes, small infant in SKY BLUE knit cardigan, BEIGE trousers and ordinary small cream socks. All knit texture ONLY in clothing, each baby safely supported by its specified carrier; no duplicate baby. Scorpius platinum-blond/blue-gray in cream clothes, Arianna light hair/BLUE eyes beige wrap. Actual toys may stay toys. Family comedy, wholesome affection, fully clothed characters, no sexualized framing. Each panel contains ONLY its listed text verbatim with all accents, no English directions, no speaker name prefixes printed, no extra text or logos, no watermark (reader adds author credit in exterior footer on export). Preserve individual established designs, keep scenery coherent between shots. Seven panels in reading order, use varied wide/medium/close shots, no omitted panel or cropped text. Do not merge dialogue speakers.\nHEADER (verbatim): «Capítulo 10 · 07».\nSTORYBOARD: [{\"scene\":\"Wide sunny west-garden breakfast, limestone pergola, pink peonies, white tablecloth and blue-white china. Markus approaches along the gravel path in WHITE rolled-sleeve LINEN SHIRT and DARK TROUSERS, no jacket or tie. Pansy and Hermione look up from their adjacent wicker chairs. Eirena holds the one Robin securely on her lap.\",\"dialogue\":[\"Markus: Buenos días, familia.\",\"Eirena: Markus, querido.\"]},{\"scene\":\"Markus gives his mature wife Eirena a gentle forehead kiss and strokes Robin’s little brown curls with one hand. Eirena’s blue blouse and beige skirt unchanged, Robin blue cardigan/beige trousers and natural human infant hands. Happy unsexual family moment.\",\"dialogue\":[\"Markus: Lamento la demora. Tuve que enviar algunas lechuzas urgentes.\"]},{\"scene\":\"Markus sits beside Eirena with a wry smile, gesturing toward Pansy. Small blue-white teacup, peonies and silver teapot; no newspapers yet.\",\"dialogue\":[\"Markus: Al parecer, el beso de mi hija fue más comentado que la actuación privada de Celestina Warbeck.\"]},{\"scene\":\"Pansy embarrassed behind both hands; Hermione beside her takes a calm sip of tea, amused. Cream linen collared blouses, Pansy dark-green neck scarf, Hermione sapphire WHITE PLATINUM chain.\",\"dialogue\":[\"Markus, off panel: Y considerando lo que le pagué por cantar tres canciones, eso es decir mucho.\"]},{\"scene\":\"Mature Narcissa with elegant blonde/black low updo and dark-green high-neck embroidered dress smiles while spreading fig jam on a roll. Astoria beside her, own LONG BROWN WAVES and pale-blue blouse, safely supports platinum baby Scorpius in cream knit clothes.\",\"dialogue\":[\"Narcissa: Fue un momento encantador. Tienen un talento natural para el drama, querida.\"]},{\"scene\":\"Draco platinum blond in charcoal high-neck sweater reclines in his chair with a theatrical exasperated expression. Pansy at opposite side of table looks unimpressed, Hermione laughs.\",\"dialogue\":[\"Draco: Ya era hora. Estaba a punto de organizarles una cita con velas y violines.\"]},{\"scene\":\"Cassiopeia, elderly silver curls, glasses, lavender embroidered long dress, navy/gold wide hat with white feather, sets her CARROT down and pulls a folded newspaper from a beaded purse. Everyone turns toward her; do not show later pages yet.\",\"dialogue\":[\"Cassiopeia: ¡La noticia ya llegó a Heidelberg! ¡Miren esto!\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c10-p005-anatomia-v2.webp",
+            "paginas/c10-p004-anatomia-v2.webp",
+            "paginas/c09-p020-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-1a6e78e0-6a25-40e0-9738-d72fe6cfbb53.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "miren"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 8,
+      "image": "paginas/c10-p008.webp",
+      "sourcePdfPages": [
+        257,
+        258
+      ],
+      "summary": "El Profeta muestra a la pareja; Eirena planea regalos y vacaciones de Navidad.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p008.png",
+      "generatedMaster": "exec-53057eb8-ecc8-41d3-bfc2-044b0c95881f.png",
+      "sha256": "9c9f9b779a2fe04eedaa940c6a866707625d1d6ae5885519386851a518554776",
+      "masterSha256": "4065eb994d3f139c9645f6a54f85217a6774f1a34b52a93c357f950bca136b02",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 8,
+      "review": "Página completa, ocho cuadros y todas las palabras; se quitan los nombres añadidos en globos y se recupera el recogido de Hermione en la pequeña fotografía de gala. Bebé humano, portadora, ropa, joyas y jardín coherentes. Omisiones de OCR contrastadas visualmente.",
+      "transcript": "Capítulo 10 · 08\n\nEl Profeta muestra a la pareja; Eirena planea regalos y vacaciones de Navidad.\nNarración: La fotografía hacía pública su relación.\nEL PROFETA\nDOBLE CELEBRACIÓN EN LA MANSIÓN PARKINSON\nCassiopeia: Como si eso necesitara alguna otra confirmación. Se ve desde la luna.\nBlaise: Tengo que admitir que es un buen ángulo.\nPansy: Te dije que saldríamos en primera plana.\nHermione: Toda una experta adivinando el futuro.\nEirena: Espero que puedan pasar las fiestas de Navidad con nosotros.\nDaphne: El proyecto dura hasta mitad de curso. Estarán con nosotros en invierno.\nEirena: ¡Maravilloso! Puedo comprar regalos en el viaje.\nCassiopeia: ¿Cuándo salen?\nMarkus: Esta tarde. Primero Francia para la ópera; después, Grecia.",
+      "panels": [
+        {
+          "scene": "Wide still life of Cassiopeia sliding EL PROFETA across the breakfast table toward Hermione. Readable newspaper name and short headline below. Printed photograph shows Hermione in modest midnight-blue star gown and curly updo standing hand in hand beside Pansy in long black gown at the gala, smiling. Small family publicity photograph, no kissing needed.",
+          "printed": [
+            "EL PROFETA",
+            "DOBLE CELEBRACIÓN EN LA MANSIÓN PARKINSON"
+          ],
+          "caption": "La fotografía hacía pública su relación."
+        },
+        {
+          "scene": "Hermione and Pansy in their DAYTIME cream linen shirts look down at the same newspaper. Pansy smirks softly, Hermione smiles shyly. Cassiopeia behind the newspaper resumes holding her carrot.",
+          "dialogue": [
+            "Cassiopeia: Como si eso necesitara alguna otra confirmación. Se ve desde la luna."
+          ]
+        },
+        {
+          "scene": "Blaise, dark skin, short black curls, brown eyes, WHITE linen shirt, leans forward amused; Daphne long blonde waves with white flower clips, blue eyes, LAVENDER day blazer and white blouse, beside him.",
+          "dialogue": [
+            "Blaise: Tengo que admitir que es un buen ángulo."
+          ]
+        },
+        {
+          "scene": "Pansy raises her orange juice with confident gentle grin; Hermione rolls her BROWN eyes fondly, not angry.",
+          "dialogue": [
+            "Pansy: Te dije que saldríamos en primera plana.",
+            "Hermione: Toda una experta adivinando el futuro."
+          ]
+        },
+        {
+          "scene": "Eirena uses a linen napkin to gently wipe Robin’s mouth on her lap; natural small infant, blue cardigan/beige trousers, brown curls and GREEN eyes. Keep all hands connected clearly, no extra hands.",
+          "dialogue": [
+            "Eirena: Espero que puedan pasar las fiestas de Navidad con nosotros."
+          ]
+        },
+        {
+          "scene": "Daphne answers warmly from her chair. Eirena brightens, looking at Robin, who reaches with tiny distinct fingers.",
+          "dialogue": [
+            "Daphne: El proyecto dura hasta mitad de curso. Estarán con nosotros en invierno.",
+            "Eirena: ¡Maravilloso! Puedo comprar regalos en el viaje."
+          ]
+        },
+        {
+          "scene": "Markus in his WHITE rolled-sleeve linen shirt consults a small pocket watch. Cassiopeia with hat and carrot listens. Garden peonies and tea service provide calm continuity.",
+          "dialogue": [
+            "Cassiopeia: ¿Cuándo salen?",
+            "Markus: Esta tarde. Primero Francia para la ópera; después, Grecia."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Asset: NEW complete Spanish comic page for Dos Parkinson y Medio. This is a NEW story page, not a copy or edit of a reference layout. Canvas exactly 1024x1536 portrait, thin black panel borders, warm cream narrow gutters, fully contained Spanish white speech balloons with clear tails and large crisp readable text. Small BLACK upper-left header only, no flourishes. Fine-ink painterly anime comic, older-student proportions, detailed natural fabric, hair and architecture. IMAGE1 (original Ch1p2) and IMAGE2 (original Ch1p1) PERMANENT facial/style reference: Hermione BROWN eyes, freckles, original expressive eye spacing/nose/mouth/chin, abundant layered chestnut curls, NOT chibi/big-headed; Pansy GREEN slender almond eyes, angular tapered jaw/chin, strong brows, small defined lips, BLACK sleek side-part CHIN-LENGTH bob, flat locks/straight ends, BARE EARS. Match their age and face geometry, adapt expressions to the scene, do NOT copy the scowl. IMAGE3 fixes CURRENT DAYTIME costumes/necklaces, garden and Eirena/Robin/Blaise/Daphne; IMAGE4 fixes Cassiopeia/Narcissa/Astoria/Draco/Scorpius and garden; IMAGE5 fixes Markus's MATURE face and gray temples/goatee ONLY, NOT his old suit. Current Sunday Markus wears WHITE rolled-sleeve linen shirt and DARK trousers. Pansy and Hermione wear CREAM opaque collared linen blouses and full trousers; Pansy dark green neck scarf, Hermione midnight-blue oval sapphire with clear diamond halo and fine WHITE PLATINUM chain on FRONT chest. Adults look mature and individual. Babies are magical school-project infants within the fiction but VISUALLY HUMAN: smooth human skin, natural tiny fingers/thumbs, anatomically infant limbs, no knitted skin/seams/paws or stuffed-ball feet. Robin brown curls/GREEN eyes, small infant in SKY BLUE knit cardigan, BEIGE trousers and ordinary small cream socks. All knit texture ONLY in clothing, each baby safely supported by its specified carrier; no duplicate baby. Scorpius platinum-blond/blue-gray in cream clothes, Arianna light hair/BLUE eyes beige wrap. Actual toys may stay toys. Family comedy, wholesome affection, fully clothed characters, no sexualized framing. Each panel contains ONLY its listed text verbatim with all accents, no English directions, no speaker name prefixes printed, no extra text or logos, no watermark (reader adds author credit in exterior footer on export). Preserve individual established designs, keep scenery coherent between shots. Seven panels in reading order, use varied wide/medium/close shots, no omitted panel or cropped text. Do not merge dialogue speakers.\nHEADER (verbatim): «Capítulo 10 · 08».\nSTORYBOARD: [{\"scene\":\"Wide still life of Cassiopeia sliding EL PROFETA across the breakfast table toward Hermione. Readable newspaper name and short headline below. Printed photograph shows Hermione in modest midnight-blue star gown and curly updo standing hand in hand beside Pansy in long black gown at the gala, smiling. Small family publicity photograph, no kissing needed.\",\"printed\":[\"EL PROFETA\",\"DOBLE CELEBRACIÓN EN LA MANSIÓN PARKINSON\"],\"caption\":\"La fotografía hacía pública su relación.\"},{\"scene\":\"Hermione and Pansy in their DAYTIME cream linen shirts look down at the same newspaper. Pansy smirks softly, Hermione smiles shyly. Cassiopeia behind the newspaper resumes holding her carrot.\",\"dialogue\":[\"Cassiopeia: Como si eso necesitara alguna otra confirmación. Se ve desde la luna.\"]},{\"scene\":\"Blaise, dark skin, short black curls, brown eyes, WHITE linen shirt, leans forward amused; Daphne long blonde waves with white flower clips, blue eyes, LAVENDER day blazer and white blouse, beside him.\",\"dialogue\":[\"Blaise: Tengo que admitir que es un buen ángulo.\"]},{\"scene\":\"Pansy raises her orange juice with confident gentle grin; Hermione rolls her BROWN eyes fondly, not angry.\",\"dialogue\":[\"Pansy: Te dije que saldríamos en primera plana.\",\"Hermione: Toda una experta adivinando el futuro.\"]},{\"scene\":\"Eirena uses a linen napkin to gently wipe Robin’s mouth on her lap; natural small infant, blue cardigan/beige trousers, brown curls and GREEN eyes. Keep all hands connected clearly, no extra hands.\",\"dialogue\":[\"Eirena: Espero que puedan pasar las fiestas de Navidad con nosotros.\"]},{\"scene\":\"Daphne answers warmly from her chair. Eirena brightens, looking at Robin, who reaches with tiny distinct fingers.\",\"dialogue\":[\"Daphne: El proyecto dura hasta mitad de curso. Estarán con nosotros en invierno.\",\"Eirena: ¡Maravilloso! Puedo comprar regalos en el viaje.\"]},{\"scene\":\"Markus in his WHITE rolled-sleeve linen shirt consults a small pocket watch. Cassiopeia with hat and carrot listens. Garden peonies and tea service provide calm continuity.\",\"dialogue\":[\"Cassiopeia: ¿Cuándo salen?\",\"Markus: Esta tarde. Primero Francia para la ópera; después, Grecia.\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c10-p005-anatomia-v2.webp",
+            "paginas/c10-p004-anatomia-v2.webp",
+            "paginas/c09-p020-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-283a7c98-6b91-4574-8fc4-2828a9e04c57.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: text-localization. Edit this COMPLETE 1024x1536 Spanish comic page Capítulo 10 · 08 with one focused lettering cleanup. The speech balloons mistakenly print character-name prefixes. REMOVE ONLY every name plus its following colon from all speech balloons: «Cassiopeia:», «Blaise:», «Pansy:», «Hermione:», «Eirena:», «Daphne:», «Markus:». Preserve EVERY word after each prefix, all Spanish accents, punctuation, balloon shapes/tails, header, caption, newspaper headline, all panels and ALL artwork exactly. Each balloon must now start directly with the spoken words (Como si eso…, Tengo que admitir…, Te dije…, Toda una…, Espero…, ¡Maravilloso!…, El proyecto…, ¿Cuándo salen?, Esta tarde…). Do not remove actual spoken names from any speech. Keep every face, clothing, material, baby, carrier, jewelry, scenario and drawing, and exact full frame. In the small printed newspaper photograph ONLY, Hermione's gala hair is gathered into the same CURLY UPDO of chapter9 gala, not loose long hair; her starry midnight-blue gown and Pansy's black gown stay unchanged. No other change, no new text, no credit/watermark.",
+          "references": [
+            "exec-283a7c98-6b91-4574-8fc4-2828a9e04c57.png"
+          ],
+          "generatedMaster": "exec-53057eb8-ecc8-41d3-bfc2-044b0c95881f.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "fotografia",
+          "publica",
+          "profeta",
+          "doble",
+          "celebracion",
+          "mansion",
+          "parkinson",
+          "puedan",
+          "pasar",
+          "maravilloso"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 9,
+      "image": "paginas/c10-p009.webp",
+      "sourcePdfPages": [
+        258,
+        259
+      ],
+      "summary": "La familia se dispersa por la mansión. Markus expresa orgullo por su hija mientras Hermione acompaña a Robin bajo un roble.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p009.png",
+      "generatedMaster": "exec-94fb9502-00de-4ae0-9d4e-4c19c6124c4f.png",
+      "sha256": "69ccd0c653272320a13fd434747458d6b0f35f8d1eb8da497fbc3daf06c90873",
+      "masterSha256": "993bc5f921373f6519ad8446d6e4e3717df1d6ae0418a2b9e1e874c2b2aa37ab",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y texto completo. Jardín y partidas coherentes, Scorpius y Arianna distintos, Robin con Hermione y anatomía humana. Pansy conserva ropa crema y pañoleta, Markus lino blanco/pantalones oscuros. Omisiones de OCR contrastadas visualmente.",
+      "transcript": "Capítulo 10 · 09\n\nLa familia se dispersa por la mansión. Markus expresa orgullo por su hija mientras Hermione acompaña a Robin bajo un roble.\nNarración: La sobremesa dio paso a los paseos por la mansión.\nBlaise: Por aquí, principessa.\nDaphne: Eso dijiste en la última esquina.\nCassiopeia: El sol del mediodía interfiere con mi aura.\nNarración: Hermione buscó una sombra tranquila para Robin.\nMarkus: Tienen una conexión especial, ¿verdad?\nPansy: Robin la adora. Y ella es natural con él.\nMarkus: Fue una excelente jugada. No te escondiste. Eso requiere agallas.\nPansy: Prefería darles un titular que yo misma hubiera escrito.\nMarkus: Que hablen, Pansy-pie.",
+      "panels": [
+        {
+          "scene": "Wide garden path: Draco charcoal sweater, Astoria pale-blue blouse with long brown hair, Narcissa mature blonde updo/dark-green dress depart together toward distant southern stables with winged horses. Astoria safely carries ONE Scorpius platinum infant in cream clothes. No Robin in this group.",
+          "caption": "La sobremesa dio paso a los paseos por la mansión."
+        },
+        {
+          "scene": "Blaise white linen shirt and Daphne lavender blazer/long blonde hair walk toward the hedge maze, Daphne securely carrying tiny Arianna, light hair, BLUE eyes, beige wrap. They smile and disagree playfully about a fork in path.",
+          "dialogue": [
+            "Blaise: Por aquí, principessa.",
+            "Daphne: Eso dijiste en la última esquina."
+          ]
+        },
+        {
+          "scene": "Cassiopeia gestures at the noon sunshine, holding hat brim and carrot; small adult household elves discreetly clear cups behind her. No giant elf or child servants.",
+          "dialogue": [
+            "Cassiopeia: El sol del mediodía interfiere con mi aura."
+          ]
+        },
+        {
+          "scene": "Hermione in cream linen shirt and trousers, chest-front sapphire, sits under the broad OAK holding Robin securely against her lap. The little baby has blue cardigan and beige trousers, HUMAN skin/hands, brown curls/green eyes. A white peacock passes at safe distance; she points gently toward it.",
+          "caption": "Hermione buscó una sombra tranquila para Robin."
+        },
+        {
+          "scene": "Near the now quieter breakfast table Markus stands beside Pansy. Both observe Hermione and Robin at a distance. Father mature gray temples, goatee, white rolled-sleeve shirt/dark trousers; Pansy cream linen blouse/trousers/green scarf.",
+          "dialogue": [
+            "Markus: Tienen una conexión especial, ¿verdad?",
+            "Pansy: Robin la adora. Y ella es natural con él."
+          ]
+        },
+        {
+          "scene": "Close father and daughter, Markus proud and warm, hands naturally in pockets. Pansy listens without scowling.",
+          "dialogue": [
+            "Markus: Fue una excelente jugada. No te escondiste. Eso requiere agallas."
+          ]
+        },
+        {
+          "scene": "Pansy smiles nervously then with confidence. Markus looks fondly at his daughter, with peacock/oak soft in background.",
+          "dialogue": [
+            "Pansy: Prefería darles un titular que yo misma hubiera escrito.",
+            "Markus: Que hablen, Pansy-pie."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Asset: NEW complete Spanish comic page for Dos Parkinson y Medio. This is a NEW story page, not a copy or edit of a reference layout. Canvas exactly 1024x1536 portrait, thin black panel borders, warm cream narrow gutters, fully contained Spanish white speech balloons with clear tails and large crisp readable text. Small BLACK upper-left header only, no flourishes. Fine-ink painterly anime comic, older-student proportions, detailed natural fabric, hair and architecture. IMAGE1 (original Ch1p2) and IMAGE2 (original Ch1p1) PERMANENT facial/style reference: Hermione BROWN eyes, freckles, original expressive eye spacing/nose/mouth/chin, abundant layered chestnut curls, NOT chibi/big-headed; Pansy GREEN slender almond eyes, angular tapered jaw/chin, strong brows, small defined lips, BLACK sleek side-part CHIN-LENGTH bob, flat locks/straight ends, BARE EARS. Match their age and face geometry, adapt expressions to the scene, do NOT copy the scowl. IMAGE3 fixes CURRENT DAYTIME costumes/necklaces, garden and Eirena/Robin/Blaise/Daphne; IMAGE4 fixes Cassiopeia/Narcissa/Astoria/Draco/Scorpius and garden; IMAGE5 fixes Markus's MATURE face and gray temples/goatee ONLY, NOT his old suit. Current Sunday Markus wears WHITE rolled-sleeve linen shirt and DARK trousers. Pansy and Hermione wear CREAM opaque collared linen blouses and full trousers; Pansy dark green neck scarf, Hermione midnight-blue oval sapphire with clear diamond halo and fine WHITE PLATINUM chain on FRONT chest. Adults look mature and individual. Babies are magical school-project infants within the fiction but VISUALLY HUMAN: smooth human skin, natural tiny fingers/thumbs, anatomically infant limbs, no knitted skin/seams/paws or stuffed-ball feet. Robin brown curls/GREEN eyes, small infant in SKY BLUE knit cardigan, BEIGE trousers and ordinary small cream socks. All knit texture ONLY in clothing, each baby safely supported by its specified carrier; no duplicate baby. Scorpius platinum-blond/blue-gray in cream clothes, Arianna light hair/BLUE eyes beige wrap. Actual toys may stay toys. Family comedy, wholesome affection, fully clothed characters, no sexualized framing. Each panel contains ONLY its listed text verbatim with all accents, no English directions, no speaker name prefixes printed, no extra text or logos, no watermark (reader adds author credit in exterior footer on export). Preserve individual established designs, keep scenery coherent between shots. Seven panels in reading order, use varied wide/medium/close shots, no omitted panel or cropped text. Do not merge dialogue speakers.\nHEADER (verbatim): «Capítulo 10 · 09».\nSTORYBOARD: [{\"scene\":\"Wide garden path: Draco charcoal sweater, Astoria pale-blue blouse with long brown hair, Narcissa mature blonde updo/dark-green dress depart together toward distant southern stables with winged horses. Astoria safely carries ONE Scorpius platinum infant in cream clothes. No Robin in this group.\",\"caption\":\"La sobremesa dio paso a los paseos por la mansión.\"},{\"scene\":\"Blaise white linen shirt and Daphne lavender blazer/long blonde hair walk toward the hedge maze, Daphne securely carrying tiny Arianna, light hair, BLUE eyes, beige wrap. They smile and disagree playfully about a fork in path.\",\"dialogue\":[\"Blaise: Por aquí, principessa.\",\"Daphne: Eso dijiste en la última esquina.\"]},{\"scene\":\"Cassiopeia gestures at the noon sunshine, holding hat brim and carrot; small adult household elves discreetly clear cups behind her. No giant elf or child servants.\",\"dialogue\":[\"Cassiopeia: El sol del mediodía interfiere con mi aura.\"]},{\"scene\":\"Hermione in cream linen shirt and trousers, chest-front sapphire, sits under the broad OAK holding Robin securely against her lap. The little baby has blue cardigan and beige trousers, HUMAN skin/hands, brown curls/green eyes. A white peacock passes at safe distance; she points gently toward it.\",\"caption\":\"Hermione buscó una sombra tranquila para Robin.\"},{\"scene\":\"Near the now quieter breakfast table Markus stands beside Pansy. Both observe Hermione and Robin at a distance. Father mature gray temples, goatee, white rolled-sleeve shirt/dark trousers; Pansy cream linen blouse/trousers/green scarf.\",\"dialogue\":[\"Markus: Tienen una conexión especial, ¿verdad?\",\"Pansy: Robin la adora. Y ella es natural con él.\"]},{\"scene\":\"Close father and daughter, Markus proud and warm, hands naturally in pockets. Pansy listens without scowling.\",\"dialogue\":[\"Markus: Fue una excelente jugada. No te escondiste. Eso requiere agallas.\"]},{\"scene\":\"Pansy smiles nervously then with confidence. Markus looks fondly at his daughter, with peacock/oak soft in background.\",\"dialogue\":[\"Pansy: Prefería darles un titular que yo misma hubiera escrito.\",\"Markus: Que hablen, Pansy-pie.\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c10-p005-anatomia-v2.webp",
+            "paginas/c10-p004-anatomia-v2.webp",
+            "paginas/c09-p020-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-94fb9502-00de-4ae0-9d4e-4c19c6124c4f.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "principessa",
+          "dijiste",
+          "ultima",
+          "esquina",
+          "mediodia",
+          "interfiere"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 10,
+      "image": "paginas/c10-p010.webp",
+      "sourcePdfPages": [
+        259,
+        260
+      ],
+      "summary": "Padre e hija mantienen una conversación torpe sobre responsabilidad y regreso al colegio, resuelta con humor y respeto.",
+      "editorial": "La charla familiar se adapta a responsabilidad, estudios y respeto; se omiten alusiones íntimas explícitas.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p010.png",
+      "generatedMaster": "exec-1928cc79-30eb-4617-a43e-f431f29a890b.png",
+      "sha256": "4e6228058fec6cb4f9d89d0485515f9c17a9fa122c77d03386be95682f765b46",
+      "masterSha256": "fb5168133db45f7e02e5e45d0063c070c49069ac1c239e7926c9f58a6a61f8f7",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos, incluidos los que omitió el OCR. Conversación de responsabilidad no gráfica. Se restauran los pantalones crema de Hermione y falda beige de Eirena en el fondo final; ropa, joyas, jardín y réplicas conservados.",
+      "transcript": "Capítulo 10 · 10\n\nPadre e hija mantienen una conversación torpe sobre responsabilidad y regreso al colegio, resuelta con humor y respeto.\nMarkus: Ahora que regresan al colegio… Me informaron de que comparten habitación.\nPansy: Es parte del proyecto, papá. De la crianza de Robin.\nMarkus: Solo espero que sigan siendo responsables. Con ustedes, con Robin… y con las clases.\nNarración: Entonces comprendió quién había organizado aquella charla.\nPansy: Mamá te pidió que hablaras conmigo, ¿verdad?\nPansy: Somos responsables. Puedes estar tranquilo.\nMarkus: Bien. Si alguna vez necesitas un consejo…\nPansy: ¡Papá! Si mamá pregunta, fue una conversación muy educativa.\nMarkus: Trato hecho.\nPansy: Envíen una lechuza cuando lleguen.\nMarkus: Y un regalo muy caro para Navidad como compensación.\nPansy: Me parece justo.",
+      "panels": [
+        {
+          "scene": "Markus beside Pansy in the peaceful garden clears his throat and awkwardly adjusts the collar of his white linen shirt. Pansy notices the change in tone.",
+          "dialogue": [
+            "Markus: Ahora que regresan al colegio… Me informaron de que comparten habitación."
+          ]
+        },
+        {
+          "scene": "Pansy eyebrows raised in surprise, one open hand, green scarf and full cream linen day clothes. Father looks at white peacock rather than directly at her.",
+          "dialogue": [
+            "Pansy: Es parte del proyecto, papá. De la crianza de Robin."
+          ]
+        },
+        {
+          "scene": "Father serious but embarrassed, mature warm face with gray temples and goatee, both hands simple and anatomically clear.",
+          "dialogue": [
+            "Markus: Solo espero que sigan siendo responsables. Con ustedes, con Robin… y con las clases."
+          ]
+        },
+        {
+          "scene": "Pansy covers part of her face with ONE hand, the other relaxed down. No suggestive pose; comedy of a parent giving unsolicited advice.",
+          "caption": "Entonces comprendió quién había organizado aquella charla.",
+          "dialogue": [
+            "Pansy: Mamá te pidió que hablaras conmigo, ¿verdad?"
+          ]
+        },
+        {
+          "scene": "Markus and Pansy exchange an extremely awkward look and both blush slightly, maintaining ordinary respectful distance.",
+          "dialogue": [
+            "Pansy: Somos responsables. Puedes estar tranquilo.",
+            "Markus: Bien. Si alguna vez necesitas un consejo…"
+          ]
+        },
+        {
+          "scene": "Pansy raises palms to stop the speech, embarrassed but affectionate. Markus relieved, smiling.",
+          "dialogue": [
+            "Pansy: ¡Papá! Si mamá pregunta, fue una conversación muy educativa.",
+            "Markus: Trato hecho."
+          ]
+        },
+        {
+          "scene": "Father and daughter laugh as normal warm family. In distance Hermione and Eirena are beside Robin under oak. Clothes and jewelry unchanged.",
+          "dialogue": [
+            "Pansy: Envíen una lechuza cuando lleguen.",
+            "Markus: Y un regalo muy caro para Navidad como compensación.",
+            "Pansy: Me parece justo."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Asset: NEW complete Spanish comic page for Dos Parkinson y Medio. This is a NEW story page, not a copy or edit of a reference layout. Canvas exactly 1024x1536 portrait, thin black panel borders, warm cream narrow gutters, fully contained Spanish white speech balloons with clear tails and large crisp readable text. Small BLACK upper-left header only, no flourishes. Fine-ink painterly anime comic, older-student proportions, detailed natural fabric, hair and architecture. IMAGE1 (original Ch1p2) and IMAGE2 (original Ch1p1) PERMANENT facial/style reference: Hermione BROWN eyes, freckles, original expressive eye spacing/nose/mouth/chin, abundant layered chestnut curls, NOT chibi/big-headed; Pansy GREEN slender almond eyes, angular tapered jaw/chin, strong brows, small defined lips, BLACK sleek side-part CHIN-LENGTH bob, flat locks/straight ends, BARE EARS. Match their age and face geometry, adapt expressions to the scene, do NOT copy the scowl. IMAGE3 fixes CURRENT DAYTIME costumes/necklaces, garden and Eirena/Robin/Blaise/Daphne; IMAGE4 fixes Cassiopeia/Narcissa/Astoria/Draco/Scorpius and garden; IMAGE5 fixes Markus's MATURE face and gray temples/goatee ONLY, NOT his old suit. Current Sunday Markus wears WHITE rolled-sleeve linen shirt and DARK trousers. Pansy and Hermione wear CREAM opaque collared linen blouses and full trousers; Pansy dark green neck scarf, Hermione midnight-blue oval sapphire with clear diamond halo and fine WHITE PLATINUM chain on FRONT chest. Adults look mature and individual. Babies are magical school-project infants within the fiction but VISUALLY HUMAN: smooth human skin, natural tiny fingers/thumbs, anatomically infant limbs, no knitted skin/seams/paws or stuffed-ball feet. Robin brown curls/GREEN eyes, small infant in SKY BLUE knit cardigan, BEIGE trousers and ordinary small cream socks. All knit texture ONLY in clothing, each baby safely supported by its specified carrier; no duplicate baby. Scorpius platinum-blond/blue-gray in cream clothes, Arianna light hair/BLUE eyes beige wrap. Actual toys may stay toys. Family comedy, wholesome affection, fully clothed characters, no sexualized framing. Each panel contains ONLY its listed text verbatim with all accents, no English directions, no speaker name prefixes printed, no extra text or logos, no watermark (reader adds author credit in exterior footer on export). Preserve individual established designs, keep scenery coherent between shots. Seven panels in reading order, use varied wide/medium/close shots, no omitted panel or cropped text. Do not merge dialogue speakers.\nHEADER (verbatim): «Capítulo 10 · 10».\nSTORYBOARD: [{\"scene\":\"Markus beside Pansy in the peaceful garden clears his throat and awkwardly adjusts the collar of his white linen shirt. Pansy notices the change in tone.\",\"dialogue\":[\"Markus: Ahora que regresan al colegio… Me informaron de que comparten habitación.\"]},{\"scene\":\"Pansy eyebrows raised in surprise, one open hand, green scarf and full cream linen day clothes. Father looks at white peacock rather than directly at her.\",\"dialogue\":[\"Pansy: Es parte del proyecto, papá. De la crianza de Robin.\"]},{\"scene\":\"Father serious but embarrassed, mature warm face with gray temples and goatee, both hands simple and anatomically clear.\",\"dialogue\":[\"Markus: Solo espero que sigan siendo responsables. Con ustedes, con Robin… y con las clases.\"]},{\"scene\":\"Pansy covers part of her face with ONE hand, the other relaxed down. No suggestive pose; comedy of a parent giving unsolicited advice.\",\"caption\":\"Entonces comprendió quién había organizado aquella charla.\",\"dialogue\":[\"Pansy: Mamá te pidió que hablaras conmigo, ¿verdad?\"]},{\"scene\":\"Markus and Pansy exchange an extremely awkward look and both blush slightly, maintaining ordinary respectful distance.\",\"dialogue\":[\"Pansy: Somos responsables. Puedes estar tranquilo.\",\"Markus: Bien. Si alguna vez necesitas un consejo…\"]},{\"scene\":\"Pansy raises palms to stop the speech, embarrassed but affectionate. Markus relieved, smiling.\",\"dialogue\":[\"Pansy: ¡Papá! Si mamá pregunta, fue una conversación muy educativa.\",\"Markus: Trato hecho.\"]},{\"scene\":\"Father and daughter laugh as normal warm family. In distance Hermione and Eirena are beside Robin under oak. Clothes and jewelry unchanged.\",\"dialogue\":[\"Pansy: Envíen una lechuza cuando lleguen.\",\"Markus: Y un regalo muy caro para Navidad como compensación.\",\"Pansy: Me parece justo.\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c10-p005-anatomia-v2.webp",
+            "paginas/c10-p004-anatomia-v2.webp",
+            "paginas/c09-p020-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-8ca89800-77fd-404b-bd84-f0bd022d0a2f.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Edit this full 1024x1536 Spanish comic Capítulo 10 · 10 ONLY in the small background at the right of the FINAL wide panel: HERMIONE (young chestnut curly hair, cream blouse, sapphire necklace) must have CREAM linen FULL TROUSERS matching her blouse, not dark brown. EIRENA (mature black low chignon, pale-blue blouse) must have her established BEIGE LONG SKIRT, not a dark skirt. Keep baby Robin, all people, all poses and faces intact. Also ensure the last speech balloon «Me parece justo.» has a clearly LEFTWARD tail to BLACK-BOB PANSY in the foreground, never to Hermione or the baby; keep those exact words. Every other pixel's appearance, all outfits elsewhere, jewelry, text/accents/balloons, seven panels, header, garden and full frame stay unchanged. No added writing or watermark.",
+          "references": [
+            "exec-8ca89800-77fd-404b-bd84-f0bd022d0a2f.png"
+          ],
+          "generatedMaster": "exec-1928cc79-30eb-4617-a43e-f431f29a890b.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "pregunta",
+          "conversacion",
+          "educativa",
+          "trato",
+          "hecho"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 11,
+      "image": "paginas/c10-p011.webp",
+      "sourcePdfPages": [
+        260,
+        262
+      ],
+      "summary": "Eirena acepta a Hermione como parte de la familia y le habla de la lealtad de Pansy.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p011.png",
+      "generatedMaster": "exec-958ef955-684d-444e-9d13-41f6adf87fd9.png",
+      "sha256": "e0fded84a15b4d774367cee2e7d83e24b4c28b97c82c951d44a1b11921c777b4",
+      "masterSha256": "6d077c1fe250d16f4ec1a3559bfe847e5edfb07a656d4d50da27c7c26b41fb29",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y texto completo, OCR sin omisiones. Pansy recupera los pantalones crema en las dos apariciones de fondo; Markus mantiene los oscuros. Mano de ayuda y apoyos seguros del bebé, caras, joyas y jardín coherentes.",
+      "transcript": "Capítulo 10 · 11\n\nEirena acepta a Hermione como parte de la familia y le habla de la lealtad de Pansy.\nEirena: Voy a extrañar tenerlas en casa, Hermione.\nHermione: Nosotras también. Ha sido increíble.\nEirena: Pensé que el proyecto sería un desastre. Pero verlos tan felices ha sido muy especial.\nHermione: Pansy es una madre maravillosa.\nEirena: Siempre he estado orgullosa de ella. Es inteligente y fuerte… también terca.\nHermione: Un poco, sí.\nEirena: Tú la has suavizado sin quitarle el filo.\nEirena: A los Parkinson nos gusta la gente que nos hace frente. Su lealtad es absoluta.\nHermione: Pansy significa mucho para mí.\nEirena: Si se mantienen juntas y fuertes, podrán superar lo que venga.\nEirena: Ahora eres una Parkinson, querida. No te olvides de eso.",
+      "panels": [
+        {
+          "scene": "Wide oak-shade garden. Hermione cream linen sits on grass with natural human infant Robin securely on her lap, blue cardigan/beige trousers. Eirena mature black low chignon, pale-blue blouse and BEIGE LONG SKIRT as established prior pages, sits nearby. White peacock in distant sun. Sapphire on Hermione’s FRONT chest, white platinum chain.",
+          "dialogue": [
+            "Eirena: Voy a extrañar tenerlas en casa, Hermione.",
+            "Hermione: Nosotras también. Ha sido increíble."
+          ]
+        },
+        {
+          "scene": "Eirena gently strokes Robin’s cheek. Show ONE infant only, brown curls/green eyes, natural skin and fingers. Hermione supports his torso, hands distinct.",
+          "dialogue": [
+            "Eirena: Pensé que el proyecto sería un desastre. Pero verlos tan felices ha sido muy especial."
+          ]
+        },
+        {
+          "scene": "Hermione smiles sincerely while watching Pansy and Markus in far background. Eirena watches her with maternal warmth.",
+          "dialogue": [
+            "Hermione: Pansy es una madre maravillosa.",
+            "Eirena: Siempre he estado orgullosa de ella. Es inteligente y fuerte… también terca."
+          ]
+        },
+        {
+          "scene": "Hermione and Eirena share a soft knowing laugh, distinct young student and mature mother faces, no face cloning.",
+          "dialogue": [
+            "Hermione: Un poco, sí.",
+            "Eirena: Tú la has suavizado sin quitarle el filo."
+          ]
+        },
+        {
+          "scene": "Close Eirena with caring wise smile; Hermione listens, keeping Robin safe against her forearm. Natural afternoon leaf shadows.",
+          "dialogue": [
+            "Eirena: A los Parkinson nos gusta la gente que nos hace frente. Su lealtad es absoluta.",
+            "Hermione: Pansy significa mucho para mí."
+          ]
+        },
+        {
+          "scene": "Eirena already standing offers Hermione a clear helping hand while Hermione rises carefully holding Robin supported against opposite shoulder. No disconnected arms, no extra baby. Eirena blouse and skirt, Hermione full cream outfit.",
+          "dialogue": [
+            "Eirena: Si se mantienen juntas y fuertes, podrán superar lo que venga."
+          ]
+        },
+        {
+          "scene": "Eirena gently straightens Hermione’s shirt collar with one hand. Hermione holds Robin in secure arms, moved and smiling. Pansy watches affectionately from background. Quiet family close, no chapter-ending label.",
+          "dialogue": [
+            "Eirena: Ahora eres una Parkinson, querida. No te olvides de eso."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Asset: NEW complete Spanish comic page for Dos Parkinson y Medio. This is a NEW story page, not a copy or edit of a reference layout. Canvas exactly 1024x1536 portrait, thin black panel borders, warm cream narrow gutters, fully contained Spanish white speech balloons with clear tails and large crisp readable text. Small BLACK upper-left header only, no flourishes. Fine-ink painterly anime comic, older-student proportions, detailed natural fabric, hair and architecture. IMAGE1 (original Ch1p2) and IMAGE2 (original Ch1p1) PERMANENT facial/style reference: Hermione BROWN eyes, freckles, original expressive eye spacing/nose/mouth/chin, abundant layered chestnut curls, NOT chibi/big-headed; Pansy GREEN slender almond eyes, angular tapered jaw/chin, strong brows, small defined lips, BLACK sleek side-part CHIN-LENGTH bob, flat locks/straight ends, BARE EARS. Match their age and face geometry, adapt expressions to the scene, do NOT copy the scowl. IMAGE3 fixes CURRENT DAYTIME costumes/necklaces, garden and Eirena/Robin/Blaise/Daphne; IMAGE4 fixes Cassiopeia/Narcissa/Astoria/Draco/Scorpius and garden; IMAGE5 fixes Markus's MATURE face and gray temples/goatee ONLY, NOT his old suit. Current Sunday Markus wears WHITE rolled-sleeve linen shirt and DARK trousers. Pansy and Hermione wear CREAM opaque collared linen blouses and full trousers; Pansy dark green neck scarf, Hermione midnight-blue oval sapphire with clear diamond halo and fine WHITE PLATINUM chain on FRONT chest. Adults look mature and individual. Babies are magical school-project infants within the fiction but VISUALLY HUMAN: smooth human skin, natural tiny fingers/thumbs, anatomically infant limbs, no knitted skin/seams/paws or stuffed-ball feet. Robin brown curls/GREEN eyes, small infant in SKY BLUE knit cardigan, BEIGE trousers and ordinary small cream socks. All knit texture ONLY in clothing, each baby safely supported by its specified carrier; no duplicate baby. Scorpius platinum-blond/blue-gray in cream clothes, Arianna light hair/BLUE eyes beige wrap. Actual toys may stay toys. Family comedy, wholesome affection, fully clothed characters, no sexualized framing. Each panel contains ONLY its listed text verbatim with all accents, no English directions, no speaker name prefixes printed, no extra text or logos, no watermark (reader adds author credit in exterior footer on export). Preserve individual established designs, keep scenery coherent between shots. Seven panels in reading order, use varied wide/medium/close shots, no omitted panel or cropped text. Do not merge dialogue speakers.\nHEADER (verbatim): «Capítulo 10 · 11».\nSTORYBOARD: [{\"scene\":\"Wide oak-shade garden. Hermione cream linen sits on grass with natural human infant Robin securely on her lap, blue cardigan/beige trousers. Eirena mature black low chignon, pale-blue blouse and BEIGE LONG SKIRT as established prior pages, sits nearby. White peacock in distant sun. Sapphire on Hermione’s FRONT chest, white platinum chain.\",\"dialogue\":[\"Eirena: Voy a extrañar tenerlas en casa, Hermione.\",\"Hermione: Nosotras también. Ha sido increíble.\"]},{\"scene\":\"Eirena gently strokes Robin’s cheek. Show ONE infant only, brown curls/green eyes, natural skin and fingers. Hermione supports his torso, hands distinct.\",\"dialogue\":[\"Eirena: Pensé que el proyecto sería un desastre. Pero verlos tan felices ha sido muy especial.\"]},{\"scene\":\"Hermione smiles sincerely while watching Pansy and Markus in far background. Eirena watches her with maternal warmth.\",\"dialogue\":[\"Hermione: Pansy es una madre maravillosa.\",\"Eirena: Siempre he estado orgullosa de ella. Es inteligente y fuerte… también terca.\"]},{\"scene\":\"Hermione and Eirena share a soft knowing laugh, distinct young student and mature mother faces, no face cloning.\",\"dialogue\":[\"Hermione: Un poco, sí.\",\"Eirena: Tú la has suavizado sin quitarle el filo.\"]},{\"scene\":\"Close Eirena with caring wise smile; Hermione listens, keeping Robin safe against her forearm. Natural afternoon leaf shadows.\",\"dialogue\":[\"Eirena: A los Parkinson nos gusta la gente que nos hace frente. Su lealtad es absoluta.\",\"Hermione: Pansy significa mucho para mí.\"]},{\"scene\":\"Eirena already standing offers Hermione a clear helping hand while Hermione rises carefully holding Robin supported against opposite shoulder. No disconnected arms, no extra baby. Eirena blouse and skirt, Hermione full cream outfit.\",\"dialogue\":[\"Eirena: Si se mantienen juntas y fuertes, podrán superar lo que venga.\"]},{\"scene\":\"Eirena gently straightens Hermione’s shirt collar with one hand. Hermione holds Robin in secure arms, moved and smiling. Pansy watches affectionately from background. Quiet family close, no chapter-ending label.\",\"dialogue\":[\"Eirena: Ahora eres una Parkinson, querida. No te olvides de eso.\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c10-p005-anatomia-v2.webp",
+            "paginas/c10-p004-anatomia-v2.webp",
+            "paginas/c09-p020-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-2f843e34-c562-40c3-a432-d356a3f061dc.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Edit this complete Spanish comic page Capítulo 10 · 11. Correct ONLY PANSY'S TROUSER COLOR in her TWO small background appearances: in the THIRD wide panel standing beside her tall father Markus, and in the FINAL bottom-right panel standing behind Hermione. Pansy is the young BLACK chin-length bob/GREEN-eyed character with a dark-green neck scarf and cream collared linen blouse. Her FULL LINEN TROUSERS must be the SAME light CREAM as her blouse, as her established Sunday outfit. Change the current dark trousers to cream, keeping belt, folds, waist, pose and anatomy. Do NOT change MARKUS'S DARK TROUSERS in the third panel. Do NOT change Hermione or Eirena, any face, expression, hair, baby, hands, jewel, scene, text or panel. Preserve every exact Spanish word/balloon/caption/header, all seven panels, full 1024x1536 frame and all other artwork. No additional text or watermark.",
+          "references": [
+            "exec-2f843e34-c562-40c3-a432-d356a3f061dc.png"
+          ],
+          "generatedMaster": "exec-958ef955-684d-444e-9d13-41f6adf87fd9.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 12,
+      "image": "paginas/c10-p012.webp",
+      "sourcePdfPages": [
+        262,
+        263
+      ],
+      "summary": "El lunes, McGonagall recibe a Hermione y Pansy y recuerda que el castigo por el duelo sigue pendiente.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p012.png",
+      "generatedMaster": "exec-8dc178cb-1ee6-464c-af8b-922fae23758e.png",
+      "sha256": "4115ea2df0df51513c40993a5f6b3f9558f2c70398ec1052148ec5e0d449e94a",
+      "masterSha256": "38b1fe90c47acda4e12d109b985bb9962bd2aff1001244f56f9abb5e9fa11a44",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos, incluido El Profeta que omitió el OCR. Se quitan prefijos de nombres en globos y se restaura el recogido de Hermione en la foto de gala. Dos sillas, Robin humano con Hermione, uniforme y oficina coherentes.",
+      "transcript": "Capítulo 10 · 12\n\nEl lunes, McGonagall recibe a Hermione y Pansy y recuerda que el castigo por el duelo sigue pendiente.\nNarración: Lunes por la mañana. Oficina de la subdirectora.\nEL PROFETA\nMcGonagall: Mi intento de enseñarles a coexistir terminó siendo el evento social de la temporada.\nPansy: Nos gusta superar las expectativas, profesora.\nHermione: Fue una evolución inesperada de las circunstancias.\nMcGonagall: Eso no las exime del castigo por el duelo en Transformaciones.\nPansy: Lo recuerdo vagamente.\nMcGonagall: Yo lo recuerdo perfectamente. Limpieza de la Sala de Trofeos. Sin magia.\nPansy: ¿Sin magia? ¡Hay trofeos desde el 1400!\nMcGonagall: Tres horas los viernes por la tarde.\nMcGonagall: Elsie se hará cargo de Robin durante esas horas. Es una profesional calificada.",
+      "panels": [
+        {
+          "scene": "Wide establishing panel of McGonagall’s sunlit stone Hogwarts office. MATURE gray-haired professor, tight bun, square glasses, dark-green long high-neck robe and own lined face, seated behind imposing MAHOGANY desk with papers, silver inkpot, quills and tea. Two straight-backed visitor chairs: Hermione LEFT holding ONE Robin securely on her lap, Pansy RIGHT. Both fully dressed in school uniforms. Tall rear window, bookshelves and old portraits, no garden objects.",
+          "caption": "Lunes por la mañana. Oficina de la subdirectora."
+        },
+        {
+          "scene": "Close newspaper EL PROFETA on desk, short headline and a small gala photo of the pair holding hands. McGonagall’s hand straightens square glasses, the students visible in opposite direction.",
+          "printed": [
+            "EL PROFETA"
+          ],
+          "dialogue": [
+            "McGonagall: Mi intento de enseñarles a coexistir terminó siendo el evento social de la temporada."
+          ]
+        },
+        {
+          "scene": "Pansy sits upright with a restrained cheeky smile, Hermione red-cheeked beside her. Robin on Hermione’s lap plays with her robe button, tiny natural human fingers, gray knit sweater and beige trousers.",
+          "dialogue": [
+            "Pansy: Nos gusta superar las expectativas, profesora.",
+            "Hermione: Fue una evolución inesperada de las circunstancias."
+          ]
+        },
+        {
+          "scene": "Professor raises one stern eyebrow and picks up a parchment. Two students remain in separate chairs, baby supported by Hermione.",
+          "dialogue": [
+            "McGonagall: Eso no las exime del castigo por el duelo en Transformaciones.",
+            "Pansy: Lo recuerdo vagamente."
+          ]
+        },
+        {
+          "scene": "McGonagall reads from parchment, finger on line, two glasses and green robe clear.",
+          "dialogue": [
+            "McGonagall: Yo lo recuerdo perfectamente. Limpieza de la Sala de Trofeos. Sin magia."
+          ]
+        },
+        {
+          "scene": "Pansy startled, one hand open in protest; Hermione makes an apologetic side glance. Baby remains calm and supported.",
+          "dialogue": [
+            "Pansy: ¿Sin magia? ¡Hay trofeos desde el 1400!",
+            "McGonagall: Tres horas los viernes por la tarde."
+          ]
+        },
+        {
+          "scene": "Professor with practical raised hand explains the arrangement. Students suddenly focus on her. Background same office positions, no fourth adult.",
+          "dialogue": [
+            "McGonagall: Elsie se hará cargo de Robin durante esas horas. Es una profesional calificada."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW Spanish sequential comic page, not reference reproduction. Exact 1024x1536 portrait. Fine-ink painterly anime, proportional older-student figures, refined detailed hair/fabric and natural expressive faces; no chibi/large heads or 3D dolls. IMAGE1 original Ch1p2 fixes facial geometry, style and McGonagall's mature face. IMAGE2 original Ch1p1 supports Hermione. IMAGE3 restored Ch8p33 fixes uniforms and current improved proportions ONLY, NOT its bedroom or underwater windows: this NEW scene is McGonagall's STONE OFFICE with sunlit window, shelves, old portraits, MAHOGANY desk, silver inkpot, papers, teacup, and TWO separate visitor chairs. Professor mature gray-haired bun/square glasses/dark-green robes/own lined face. Hermione chestnut abundant layered curls, freckles, BROWN eyes, original nose/chin/lips, Gryffindor RED/GOLD tie and lining, white collared shirt, gray vest, opaque full uniform. Pansy BLACK sleek chin-length side-part bob, flat ends/locks, GREEN SLENDER ALMOND eyes, angular jaw/tapered chin, strong brows, defined small lips, BARE EARS, GREEN/SILVER Slytherin uniform. Same normal body/head proportion, emotions appropriate to scene, no copied scowl. Hermione's oval midnight-blue sapphire/diamond halo is WHITE PLATINUM chain/front chest if visible, never gold; Pansy own small clear diamond if visible. ONE Robin, securely held by Hermione for this entire office sequence, gray knitted sweater/BEIGE trousers/small ordinary cream socks. Baby is VISUALLY HUMAN infant: smooth skin, distinct tiny fingers/thumbs, age/scale stable, BROWN CURLS and GREEN eyes, no crocheted skin/seams/paws/stuffed-ball feet. Fabric texture on clothing only. All characters fully dressed, family/school comedy. Thin black borders, narrow cream gutters, seven panels ordered exactly as storyboard, varied shot sizes; small BLACK header upper-left, no ornate flourish. Render ONLY specified Spanish text verbatim with accents, readable large black type in white balloons/cream captions, each with correct speaker tail. Do not print speaker labels or English scene directions. No extra logos, watermark or author credit within page (reader handles exterior export credit). Preserve original character identities and coherent office geography throughout. No old garden, gala clothes or bedroom scenery.\nHEADER (verbatim): «Capítulo 10 · 12».\nSTORYBOARD: [{\"scene\":\"Wide establishing panel of McGonagall’s sunlit stone Hogwarts office. MATURE gray-haired professor, tight bun, square glasses, dark-green long high-neck robe and own lined face, seated behind imposing MAHOGANY desk with papers, silver inkpot, quills and tea. Two straight-backed visitor chairs: Hermione LEFT holding ONE Robin securely on her lap, Pansy RIGHT. Both fully dressed in school uniforms. Tall rear window, bookshelves and old portraits, no garden objects.\",\"caption\":\"Lunes por la mañana. Oficina de la subdirectora.\"},{\"scene\":\"Close newspaper EL PROFETA on desk, short headline and a small gala photo of the pair holding hands. McGonagall’s hand straightens square glasses, the students visible in opposite direction.\",\"printed\":[\"EL PROFETA\"],\"dialogue\":[\"McGonagall: Mi intento de enseñarles a coexistir terminó siendo el evento social de la temporada.\"]},{\"scene\":\"Pansy sits upright with a restrained cheeky smile, Hermione red-cheeked beside her. Robin on Hermione’s lap plays with her robe button, tiny natural human fingers, gray knit sweater and beige trousers.\",\"dialogue\":[\"Pansy: Nos gusta superar las expectativas, profesora.\",\"Hermione: Fue una evolución inesperada de las circunstancias.\"]},{\"scene\":\"Professor raises one stern eyebrow and picks up a parchment. Two students remain in separate chairs, baby supported by Hermione.\",\"dialogue\":[\"McGonagall: Eso no las exime del castigo por el duelo en Transformaciones.\",\"Pansy: Lo recuerdo vagamente.\"]},{\"scene\":\"McGonagall reads from parchment, finger on line, two glasses and green robe clear.\",\"dialogue\":[\"McGonagall: Yo lo recuerdo perfectamente. Limpieza de la Sala de Trofeos. Sin magia.\"]},{\"scene\":\"Pansy startled, one hand open in protest; Hermione makes an apologetic side glance. Baby remains calm and supported.\",\"dialogue\":[\"Pansy: ¿Sin magia? ¡Hay trofeos desde el 1400!\",\"McGonagall: Tres horas los viernes por la tarde.\"]},{\"scene\":\"Professor with practical raised hand explains the arrangement. Students suddenly focus on her. Background same office positions, no fourth adult.\",\"dialogue\":[\"McGonagall: Elsie se hará cargo de Robin durante esas horas. Es una profesional calificada.\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p033-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-c5ea97e8-905f-4287-99e2-752b6b42e376.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: text-localization. Edit this COMPLETE 1024x1536 Spanish comic Capítulo 10 · 12 with a precise lettering cleanup. REMOVE ONLY all character-name prefixes and following colons from speech balloons: «McGonagall:», «Pansy:», «Hermione:». Preserve EVERY spoken word following each prefix, exact accents and punctuation, all balloon tails, caption/header/newspaper masthead, every panel, complete framing and ALL artwork. Do NOT remove names when they are actual words inside a sentence (Elsie, Robin etc). Balloons must start directly with the spoken line, never with labels. In the small newspaper photo ONLY, Hermione's gala chestnut curls must be in her established gathered CURLY UPDO rather than long loose hair. Keep gala dresses and all live office figures, faces, hair, uniforms, baby's gray sweater, natural skin and anatomy, jewelry, office and lighting unchanged. No other text or watermark.",
+          "references": [
+            "exec-c5ea97e8-905f-4287-99e2-752b6b42e376.png"
+          ],
+          "generatedMaster": "exec-8dc178cb-1ee6-464c-af8b-922fae23758e.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "profeta"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 13,
+      "image": "paginas/c10-p013.webp",
+      "sourcePdfPages": [
+        263,
+        264
+      ],
+      "summary": "Las dos se niegan a separarse de Robin y McGonagall aplaza el castigo hasta que termine el proyecto.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p013.png",
+      "generatedMaster": "exec-c3ece682-4477-4784-b1b0-5b65fca0603c.png",
+      "sha256": "3002eeef0f9a127f2738ca4bd3073295666d7e1fdd1106647ef14e304aaa0b45",
+      "masterSha256": "5b2b8ddd0126153543a5698045bcd7a3baff9fd8e0424ac23210637f5d7b5c1e",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos, incluida la frase de la canción que omitió el OCR. Primer globo solo No. con dos colas, sin acotación impresa. Cabecera pequeña restaurada. Dos sillas, uniforme, zafiro, portadora de Robin y oficina conservados.",
+      "transcript": "Capítulo 10 · 13\n\nLas dos se niegan a separarse de Robin y McGonagall aplaza el castigo hasta que termine el proyecto.\nHermione y Pansy, al unísono: No.\nMcGonagall: ¿Disculpen?\nHermione: Con todo respeto, dejar a Robin con Elsie no es una opción.\nPansy: Confiamos en ella. Pero Robin no es un objeto que se deja en una estantería.\nMcGonagall: Son tres horas, señoritas.\nHermione: Robin aún necesita su rutina y a sus cuidadoras.\nPansy: Y no descansa si Hermione no le canta antes de acostarlo.\nMcGonagall: Bien. La detención queda suspendida temporalmente.\nNarración: Por primera vez recordaron que el proyecto tenía un final.\nMcGonagall, fuera de cuadro: La cumplirán cuando termine el proyecto y Robin ya no esté con ustedes.",
+      "panels": [
+        {
+          "scene": "Wide view across mahogany desk; Hermione LEFT and Pansy RIGHT in the two chairs speak in PERFECT UNISON, two clear balloon tails on ONE balloon. Hermione holds gray-sweater Robin safely on her lap. Professor surprised.",
+          "dialogue": [
+            "Hermione y Pansy, al unísono: No.",
+            "McGonagall: ¿Disculpen?"
+          ]
+        },
+        {
+          "scene": "Hermione leans slightly forward with firm polite face, keeping Robin securely against torso with one arm, one hand open calmly.",
+          "dialogue": [
+            "Hermione: Con todo respeto, dejar a Robin con Elsie no es una opción."
+          ]
+        },
+        {
+          "scene": "Pansy firm but respectful, one naturally connected hand gesture, no wand.",
+          "dialogue": [
+            "Pansy: Confiamos en ella. Pero Robin no es un objeto que se deja en una estantería."
+          ]
+        },
+        {
+          "scene": "Professor looks over square glasses. Hermione sits straighter, explaining; baby looks at a floating silver desk instrument at a safe distance.",
+          "dialogue": [
+            "McGonagall: Son tres horas, señoritas.",
+            "Hermione: Robin aún necesita su rutina y a sus cuidadoras."
+          ]
+        },
+        {
+          "scene": "Pansy’s expression softens toward Robin, while Hermione gently strokes his curls. Show baby tiny natural fingers on Hermione’s sleeve, no doll seams.",
+          "dialogue": [
+            "Pansy: Y no descansa si Hermione no le canta antes de acostarlo."
+          ]
+        },
+        {
+          "scene": "McGonagall removes glasses and rubs bridge of nose with one hand, places parchment down with other. Students attentive.",
+          "dialogue": [
+            "McGonagall: Bien. La detención queda suspendida temporalmente."
+          ]
+        },
+        {
+          "scene": "Tighter two-shot Hermione/Pansy; expressions suddenly sad, not exaggerated crying. Hermione’s stroking hand pauses on baby’s back while supporting him securely. Baby looks up, sensing mood change.",
+          "dialogue": [
+            "McGonagall, fuera de cuadro: La cumplirán cuando termine el proyecto y Robin ya no esté con ustedes."
+          ],
+          "caption": "Por primera vez recordaron que el proyecto tenía un final."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW Spanish sequential comic page, not reference reproduction. Exact 1024x1536 portrait. Fine-ink painterly anime, proportional older-student figures, refined detailed hair/fabric and natural expressive faces; no chibi/large heads or 3D dolls. IMAGE1 original Ch1p2 fixes facial geometry, style and McGonagall's mature face. IMAGE2 original Ch1p1 supports Hermione. IMAGE3 restored Ch8p33 fixes uniforms and current improved proportions ONLY, NOT its bedroom or underwater windows: this NEW scene is McGonagall's STONE OFFICE with sunlit window, shelves, old portraits, MAHOGANY desk, silver inkpot, papers, teacup, and TWO separate visitor chairs. Professor mature gray-haired bun/square glasses/dark-green robes/own lined face. Hermione chestnut abundant layered curls, freckles, BROWN eyes, original nose/chin/lips, Gryffindor RED/GOLD tie and lining, white collared shirt, gray vest, opaque full uniform. Pansy BLACK sleek chin-length side-part bob, flat ends/locks, GREEN SLENDER ALMOND eyes, angular jaw/tapered chin, strong brows, defined small lips, BARE EARS, GREEN/SILVER Slytherin uniform. Same normal body/head proportion, emotions appropriate to scene, no copied scowl. Hermione's oval midnight-blue sapphire/diamond halo is WHITE PLATINUM chain/front chest if visible, never gold; Pansy own small clear diamond if visible. ONE Robin, securely held by Hermione for this entire office sequence, gray knitted sweater/BEIGE trousers/small ordinary cream socks. Baby is VISUALLY HUMAN infant: smooth skin, distinct tiny fingers/thumbs, age/scale stable, BROWN CURLS and GREEN eyes, no crocheted skin/seams/paws/stuffed-ball feet. Fabric texture on clothing only. All characters fully dressed, family/school comedy. Thin black borders, narrow cream gutters, seven panels ordered exactly as storyboard, varied shot sizes; small BLACK header upper-left, no ornate flourish. Render ONLY specified Spanish text verbatim with accents, readable large black type in white balloons/cream captions, each with correct speaker tail. Do not print speaker labels or English scene directions. No extra logos, watermark or author credit within page (reader handles exterior export credit). Preserve original character identities and coherent office geography throughout. No old garden, gala clothes or bedroom scenery.\nHEADER (verbatim): «Capítulo 10 · 13».\nSTORYBOARD: [{\"scene\":\"Wide view across mahogany desk; Hermione LEFT and Pansy RIGHT in the two chairs speak in PERFECT UNISON, two clear balloon tails on ONE balloon. Hermione holds gray-sweater Robin safely on her lap. Professor surprised.\",\"dialogue\":[\"Hermione y Pansy, al unísono: No.\",\"McGonagall: ¿Disculpen?\"]},{\"scene\":\"Hermione leans slightly forward with firm polite face, keeping Robin securely against torso with one arm, one hand open calmly.\",\"dialogue\":[\"Hermione: Con todo respeto, dejar a Robin con Elsie no es una opción.\"]},{\"scene\":\"Pansy firm but respectful, one naturally connected hand gesture, no wand.\",\"dialogue\":[\"Pansy: Confiamos en ella. Pero Robin no es un objeto que se deja en una estantería.\"]},{\"scene\":\"Professor looks over square glasses. Hermione sits straighter, explaining; baby looks at a floating silver desk instrument at a safe distance.\",\"dialogue\":[\"McGonagall: Son tres horas, señoritas.\",\"Hermione: Robin aún necesita su rutina y a sus cuidadoras.\"]},{\"scene\":\"Pansy’s expression softens toward Robin, while Hermione gently strokes his curls. Show baby tiny natural fingers on Hermione’s sleeve, no doll seams.\",\"dialogue\":[\"Pansy: Y no descansa si Hermione no le canta antes de acostarlo.\"]},{\"scene\":\"McGonagall removes glasses and rubs bridge of nose with one hand, places parchment down with other. Students attentive.\",\"dialogue\":[\"McGonagall: Bien. La detención queda suspendida temporalmente.\"]},{\"scene\":\"Tighter two-shot Hermione/Pansy; expressions suddenly sad, not exaggerated crying. Hermione’s stroking hand pauses on baby’s back while supporting him securely. Baby looks up, sensing mood change.\",\"dialogue\":[\"McGonagall, fuera de cuadro: La cumplirán cuando termine el proyecto y Robin ya no esté con ustedes.\"],\"caption\":\"Por primera vez recordaron que el proyecto tenía un final.\"}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p033-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-3d610b4c-0d20-4856-9fde-9806987a8d8e.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: text-localization. Edit the COMPLETE Spanish comic page Capítulo 10 · 13, exactly 1024x1536. Change ONLY the TOP FIRST PANEL's shared speech balloon of Hermione and Pansy, which incorrectly prints «Hermione y Pansy, al unísono: No.». Replace its entire content with the ONE exact spoken word «No.» preserving BOTH balloon tails, one to Hermione and one to Pansy. That metadata label must not be visible. Do not alter any other word, caption, accent, header, balloon, tail, seven panels, drawing, face, expression, uniform, baby, carrier, jewelry, office, dimensions or full frame. All other artwork untouched, no new text or watermark.",
+          "references": [
+            "exec-3d610b4c-0d20-4856-9fde-9806987a8d8e.png"
+          ],
+          "generatedMaster": "exec-04df7e2e-ee91-4391-9c30-f298721daad6.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: text-localization. This full Spanish comic page has an EMPTY cream header strip above the first black panel border. Add ONLY the small BLACK upper-left header «Capítulo 10 · 13» in that existing empty top strip, matching the other comic pages, black serif lettering about 23px tall. No flourish and no new border. Preserve EVERY other pixel's appearance, all seven panels, every existing Spanish word/balloon/caption/tail/accent, faces, hair, uniforms, gray-sweater Robin, jewelry, anatomy, office and full 1024x1536 frame. Do NOT change or crop the page. No other new text or watermark.",
+          "references": [
+            "exec-04df7e2e-ee91-4391-9c30-f298721daad6.png"
+          ],
+          "generatedMaster": "exec-c3ece682-4477-4784-b1b0-5b65fca0603c.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "descansa",
+          "hermione",
+          "canta",
+          "antes",
+          "acostarlo"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 14,
+      "image": "paginas/c10-p014.webp",
+      "sourcePdfPages": [
+        264,
+        265
+      ],
+      "summary": "Robin reacciona a la tristeza con magia accidental y McGonagall descubre con orgullo el vínculo de la familia.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p014.png",
+      "generatedMaster": "exec-ba64fd56-e626-4ba6-a672-f77fa32afb95.png",
+      "sha256": "579ce8a5136027a78b63a39bc540aec7a08244c3070f1b92c8e88dd696193be7",
+      "masterSha256": "350760faa00b71d90aead2cfd9747d69a5f468acb26ee43f5002508e9d5e845a",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y texto completo con cierre privado de McGonagall. Omisiones de OCR contrastadas visualmente; bebé humano con manos naturales, uniforme, collar frontal, oficina y magia cómica sin daño conservados.",
+      "transcript": "Capítulo 10 · 14\n\nRobin reacciona a la tristeza con magia accidental y McGonagall descubre con orgullo el vínculo de la familia.\nRobin: ¡Baaaa!\nMcGonagall, fuera de cuadro: ¿Perdón?\nNarración: La magia accidental siguió el enfado de Robin.\nPansy: ¡Díselo, Robin! ¡Nadie amenaza a los Parkinson!\nHermione: ¡Robin! Lo siento, profesora. Creo que no le gustó su tono.\nMcGonagall: Por las barbas de Merlín… Retírense antes de que deba extenderles el castigo.\nPansy: Vámonos, Granger. Nuestro hijo ganó el debate.\nHermione: ¡Lo siento, profesora!\nMcGonagall: Quién lo hubiera dicho…",
+      "panels": [
+        {
+          "scene": "Close small human infant Robin securely upright on Hermione’s lap, brown curls/GREEN eyes, gray sweater/beige trousers. He frowns comically like Pansy, tiny connected arms waving, not menacing. A few gentle gold magical sparks, no danger.",
+          "dialogue": [
+            "Robin: ¡Baaaa!",
+            "McGonagall, fuera de cuadro: ¿Perdón?"
+          ]
+        },
+        {
+          "scene": "Wide SAFE magical comedy: a feather quill trembles, SILVER inkpot vibrates without breaking, newspaper lifts gently above professor’s mahogany desk then bends toward teacup. McGonagall surprised, pupils and baby far from desk objects. No broken glass, no explosion or injury.",
+          "caption": "La magia accidental siguió el enfado de Robin."
+        },
+        {
+          "scene": "Newspaper lands on professor’s teacup and spills a little tea only onto documents; no people splashed. Pansy laughs proudly while Hermione looks alarmed. One Robin remains on Hermione’s lap.",
+          "dialogue": [
+            "Pansy: ¡Díselo, Robin! ¡Nadie amenaza a los Parkinson!"
+          ]
+        },
+        {
+          "scene": "Hermione gently lowers Robin’s small hands with clear fingers, supporting him safely. Apologetic face, professor partly visible.",
+          "dialogue": [
+            "Hermione: ¡Robin! Lo siento, profesora. Creo que no le gustó su tono."
+          ]
+        },
+        {
+          "scene": "Professor dries documents with a small wand motion and gentle blue glow. Mature lined face exasperated yet secretly amused. No extra student or baby.",
+          "dialogue": [
+            "McGonagall: Por las barbas de Merlín… Retírense antes de que deba extenderles el castigo."
+          ]
+        },
+        {
+          "scene": "Students depart via wooden office door, Hermione safely carries Robin gray-sweater against her shoulder, Pansy beside her pleased. Correct hands, full uniforms, no stroller suddenly in office.",
+          "dialogue": [
+            "Pansy: Vámonos, Granger. Nuestro hijo ganó el debate.",
+            "Hermione: ¡Lo siento, profesora!"
+          ]
+        },
+        {
+          "scene": "Quiet full-width final panel: McGonagall alone behind desk looks at newspaper then inkpot; small private proud smile, sunlight through window, closed office door. No chapter-ending caption.",
+          "dialogue": [
+            "McGonagall: Quién lo hubiera dicho…"
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW Spanish sequential comic page, not reference reproduction. Exact 1024x1536 portrait. Fine-ink painterly anime, proportional older-student figures, refined detailed hair/fabric and natural expressive faces; no chibi/large heads or 3D dolls. IMAGE1 original Ch1p2 fixes facial geometry, style and McGonagall's mature face. IMAGE2 original Ch1p1 supports Hermione. IMAGE3 restored Ch8p33 fixes uniforms and current improved proportions ONLY, NOT its bedroom or underwater windows: this NEW scene is McGonagall's STONE OFFICE with sunlit window, shelves, old portraits, MAHOGANY desk, silver inkpot, papers, teacup, and TWO separate visitor chairs. Professor mature gray-haired bun/square glasses/dark-green robes/own lined face. Hermione chestnut abundant layered curls, freckles, BROWN eyes, original nose/chin/lips, Gryffindor RED/GOLD tie and lining, white collared shirt, gray vest, opaque full uniform. Pansy BLACK sleek chin-length side-part bob, flat ends/locks, GREEN SLENDER ALMOND eyes, angular jaw/tapered chin, strong brows, defined small lips, BARE EARS, GREEN/SILVER Slytherin uniform. Same normal body/head proportion, emotions appropriate to scene, no copied scowl. Hermione's oval midnight-blue sapphire/diamond halo is WHITE PLATINUM chain/front chest if visible, never gold; Pansy own small clear diamond if visible. ONE Robin, securely held by Hermione for this entire office sequence, gray knitted sweater/BEIGE trousers/small ordinary cream socks. Baby is VISUALLY HUMAN infant: smooth skin, distinct tiny fingers/thumbs, age/scale stable, BROWN CURLS and GREEN eyes, no crocheted skin/seams/paws/stuffed-ball feet. Fabric texture on clothing only. All characters fully dressed, family/school comedy. Thin black borders, narrow cream gutters, seven panels ordered exactly as storyboard, varied shot sizes; small BLACK header upper-left, no ornate flourish. Render ONLY specified Spanish text verbatim with accents, readable large black type in white balloons/cream captions, each with correct speaker tail. Do not print speaker labels or English scene directions. No extra logos, watermark or author credit within page (reader handles exterior export credit). Preserve original character identities and coherent office geography throughout. No old garden, gala clothes or bedroom scenery.\nHEADER (verbatim): «Capítulo 10 · 14».\nSTORYBOARD: [{\"scene\":\"Close small human infant Robin securely upright on Hermione’s lap, brown curls/GREEN eyes, gray sweater/beige trousers. He frowns comically like Pansy, tiny connected arms waving, not menacing. A few gentle gold magical sparks, no danger.\",\"dialogue\":[\"Robin: ¡Baaaa!\",\"McGonagall, fuera de cuadro: ¿Perdón?\"]},{\"scene\":\"Wide SAFE magical comedy: a feather quill trembles, SILVER inkpot vibrates without breaking, newspaper lifts gently above professor’s mahogany desk then bends toward teacup. McGonagall surprised, pupils and baby far from desk objects. No broken glass, no explosion or injury.\",\"caption\":\"La magia accidental siguió el enfado de Robin.\"},{\"scene\":\"Newspaper lands on professor’s teacup and spills a little tea only onto documents; no people splashed. Pansy laughs proudly while Hermione looks alarmed. One Robin remains on Hermione’s lap.\",\"dialogue\":[\"Pansy: ¡Díselo, Robin! ¡Nadie amenaza a los Parkinson!\"]},{\"scene\":\"Hermione gently lowers Robin’s small hands with clear fingers, supporting him safely. Apologetic face, professor partly visible.\",\"dialogue\":[\"Hermione: ¡Robin! Lo siento, profesora. Creo que no le gustó su tono.\"]},{\"scene\":\"Professor dries documents with a small wand motion and gentle blue glow. Mature lined face exasperated yet secretly amused. No extra student or baby.\",\"dialogue\":[\"McGonagall: Por las barbas de Merlín… Retírense antes de que deba extenderles el castigo.\"]},{\"scene\":\"Students depart via wooden office door, Hermione safely carries Robin gray-sweater against her shoulder, Pansy beside her pleased. Correct hands, full uniforms, no stroller suddenly in office.\",\"dialogue\":[\"Pansy: Vámonos, Granger. Nuestro hijo ganó el debate.\",\"Hermione: ¡Lo siento, profesora!\"]},{\"scene\":\"Quiet full-width final panel: McGonagall alone behind desk looks at newspaper then inkpot; small private proud smile, sunlight through window, closed office door. No chapter-ending caption.\",\"dialogue\":[\"McGonagall: Quién lo hubiera dicho…\"]}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p033-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-ba64fd56-e626-4ba6-a672-f77fa32afb95.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "baaaa",
+          "diselo",
+          "nadie",
+          "quien",
+          "hubiera",
+          "dicho"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    }
+  ]
+}
