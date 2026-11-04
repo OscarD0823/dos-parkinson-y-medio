@@ -1,0 +1,346 @@
+{
+  "chapter": 10,
+  "title": "Rivales",
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "publishedInReader": false,
+  "readerContinuesAt": 41,
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "usageLimit": {
+    "code": "usage_limit_reached",
+    "resetEpoch": 1793879411,
+    "resetUtc": "2026-11-05T11:50:11Z",
+    "resetBogota": "2026-11-05 06:50:11 America/Bogota",
+    "noPaidApiFallback": true
+  },
+  "reviewClarification": "Las cabeceras 36–39 y 44 sí estaban en los PNG originales. Los intentos de añadirlas fueron innecesarios y no produjeron imágenes; conservar los originales.",
+  "pages": [
+    {
+      "page": 41,
+      "sourcePdfPages": [
+        306,
+        307
+      ],
+      "status": "pending-continuity-quota",
+      "notPublished": true,
+      "summary": "Hermione y Pansy intentan explicar la consulta mientras sus amigos se divierten con su vergüenza.",
+      "editorial": "La broma sobre el manual original se adapta a los folletos neutros de salud, comunicación y respeto del bloque anterior. No se representan ni citan contenidos explícitos.",
+      "panels": [
+        {
+          "scene": "Same common room black sofa/green chairs/left fire/right stairs/blue-green underwater windows. Hermione seated on BLACK sofa explains embarrassed, Pansy on green rug beside safely cushioned Robin in GRAY sweater, friends listen.",
+          "dialogue": [
+            "Hermione: Se suponía que evaluábamos al bebé.",
+            "Pansy: Los folletos fueron iniciativa de Elsie."
+          ]
+        },
+        {
+          "scene": "Blaise laughs gently holding CLOSED neutral brochure «Comunicación y respeto», Daphne amused nearby with Arianna secure in beige wrap. No opening to diagrams or private details.",
+          "dialogue": [
+            "Blaise: Necesito que vuelvan a contarme cómo pasó."
+          ]
+        },
+        {
+          "scene": "Pansy presents a soft GREEN cushion toward Blaise in a mock warning, no throwing toward babies. Exactly two arms; infant safely on cushion beside her, no airborne objects near children.",
+          "dialogue": [
+            "Pansy: Una palabra más, Zabini…"
+          ]
+        },
+        {
+          "scene": "Theo distinct MALE short brown curls/GREEN eyes/GREEN uniform laughs next to Luna LONG PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE uniform, their twins safe nearby in matching navy/white cushions, no toy skin.",
+          "dialogue": [
+            "Theo: Tienen que entendernos. Esto es histórico."
+          ]
+        },
+        {
+          "scene": "Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform suddenly remembers meeting them at clinic, Wayne short light-brown/YELLOW nods amused. Caitlyn cream asleep/eyes closed in supported wrap close by.",
+          "dialogue": [
+            "Tracey: ¡Por eso tenían aquella cara cuando salieron del quinto piso!"
+          ]
+        },
+        {
+          "scene": "Pansy naturally folds two arms, dignified embarrassed look; Hermione still shy smile. Neutral CLOSED brochures now on low table, exact covers only.",
+          "dialogue": [
+            "Pansy: Si siguen, Granger y yo nos retiramos.",
+            "El grupo: ¡No!"
+          ]
+        },
+        {
+          "scene": "Luna calmly picks up CLOSED brochure, reads only cover, pale-blonde long hair/BLUE eyes/BLUE-BRONZE Ravenclaw uniform, own whimsical face. No explicit text, no body illustrations.",
+          "dialogue": [
+            "Luna: No entiendo por qué les avergüenza hablar con sinceridad."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 10 · 41\n\nHermione y Pansy intentan explicar la consulta mientras sus amigos se divierten con su vergüenza.\nHermione: Se suponía que evaluábamos al bebé.\nPansy: Los folletos fueron iniciativa de Elsie.\nBlaise: Necesito que vuelvan a contarme cómo pasó.\nPansy: Una palabra más, Zabini…\nTheo: Tienen que entendernos. Esto es histórico.\nTracey: ¡Por eso tenían aquella cara cuando salieron del quinto piso!\nPansy: Si siguen, Granger y yo nos retiramos.\nEl grupo: ¡No!\nLuna: No entiendo por qué les avergüenza hablar con sinceridad.",
+      "workingDraft": ".local/borradores/capitulo-10-2026-11-04/c10-p041-borrador-v1.png",
+      "workingWebp": ".local/borradores/capitulo-10-2026-11-04/c10-p041-borrador-v1.webp",
+      "masterSha256": "7e848ba462c1d3e28d002160e56772a238ed598a333bc50f70bea9b0f9553b55",
+      "originalGeneration": {
+        "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait, seven sequential panels, fine-ink painterly anime with normal older-student proportions and original individual faces, NOT chibi/3D/large-headed. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 PERMANENT Hermione/Pansy face/style. IMAGE3 ONLY fixes the EXISTING Slytherin common-room architecture/individual friend faces/twins; DO NOT copy its Saturday travel clothes. IMAGE4 ONLY fixes LUNA long PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE RAVENCLAW uniform and THEO MALE short tousled brown curls/GREEN eyes/GREEN Slytherin uniform, not its old chibi H&P. IMAGE5 ONLY current Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform and Wayne MALE short light-brown waves/YELLOW Hufflepuff, plus Blaise dark skin/SHORT BLACK curls/BROWN eyes/GREEN and Daphne LONG BLONDE/BLUE eyes/GREEN. All now in SAME Monday full opaque school uniforms, no travel outfits/gala gowns/pajamas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin/RED-GOLD full Gryffindor uniform, sapphire oval midnight-blue/clear diamond halo/fine WHITE PLATINUM chain FRONT chest if visible. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK flat sleek CHIN-LENGTH side bob/BARE EARS/GREEN-SILVER full uniform. ASTORIA LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform, DRACO platinum/blue-gray/GREEN when they arrive. Characters remain distinct, same older-student age and proportions, warm/embarrassed/funny expressions without face cloning. Coherent SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake creature silhouettes, LEFT FIREPLACE, RIGHT curved stone stairs/dorm entry, existing GREEN velvet armchairs and CENTRAL BLACK LEATHER SOFA, low wood table and thick GREEN padded rug. Safely supported HUMAN-LOOKING small infants with smooth skin/individual tiny fingers/thumbs/natural limbs, no fabric skin/seams/paw hands/stuffed-ball feet; knit texture ONLY clothes. Robin BROWN curls/GREEN eyes/GRAY sweater/BEIGE trousers/cream socks; Arianna light hair/BLUE eyes/BEIGE; Caitlyn cream/closed-eyed content expression; twins Larson BROWN curls/BLUE eyes and Amelie LIGHT-BLONDE/BLUE eyes in MATCHING NAVY-WHITE outfits; Scorpius PLATINUM/BLUE-GRAY/CREAM with Draco when introduced. Each unique, stable small scale, safe on nearby-parent cushions/arms, no duplicate infant. Actual blocks/teddy/dragon toys stay toys. CLOSED neutral brochures only, covers «Salud y consentimiento» and «Comunicación y respeto», no explicit contents or body diagrams. Friendly fully clothed school/family comedy, no sexualized framing or intimate details. NO RON, no Harry/Ginny, no teachers. Thin black panel frames/cream gutters, SMALL BLACK upper-left header, no flourish. Every specified Spanish TEXT value verbatim with accents in readable white balloons/cream captions; speaker metadata ONLY determines tails, never print names/labels. Logical reading order, all faces visible, no added dialogue. No new logos, watermark or author footer; reader handles exterior export credit.\nHEADER in cream top margin exactly: «Capítulo 10 · 41».\nSTORYBOARD: [{\"scene\":\"Same common room black sofa/green chairs/left fire/right stairs/blue-green underwater windows. Hermione seated on BLACK sofa explains embarrassed, Pansy on green rug beside safely cushioned Robin in GRAY sweater, friends listen.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Se suponía que evaluábamos al bebé.\"},{\"speaker\":\"Pansy\",\"text\":\"Los folletos fueron iniciativa de Elsie.\"}],\"panel\":1},{\"scene\":\"Blaise laughs gently holding CLOSED neutral brochure «Comunicación y respeto», Daphne amused nearby with Arianna secure in beige wrap. No opening to diagrams or private details.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"Necesito que vuelvan a contarme cómo pasó.\"}],\"panel\":2},{\"scene\":\"Pansy presents a soft GREEN cushion toward Blaise in a mock warning, no throwing toward babies. Exactly two arms; infant safely on cushion beside her, no airborne objects near children.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Una palabra más, Zabini…\"}],\"panel\":3},{\"scene\":\"Theo distinct MALE short brown curls/GREEN eyes/GREEN uniform laughs next to Luna LONG PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE uniform, their twins safe nearby in matching navy/white cushions, no toy skin.\",\"dialogue\":[{\"speaker\":\"Theo\",\"text\":\"Tienen que entendernos. Esto es histórico.\"}],\"panel\":4},{\"scene\":\"Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform suddenly remembers meeting them at clinic, Wayne short light-brown/YELLOW nods amused. Caitlyn cream asleep/eyes closed in supported wrap close by.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"¡Por eso tenían aquella cara cuando salieron del quinto piso!\"}],\"panel\":5},{\"scene\":\"Pansy naturally folds two arms, dignified embarrassed look; Hermione still shy smile. Neutral CLOSED brochures now on low table, exact covers only.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Si siguen, Granger y yo nos retiramos.\"},{\"speaker\":\"El grupo\",\"text\":\"¡No!\"}],\"panel\":6},{\"scene\":\"Luna calmly picks up CLOSED brochure, reads only cover, pale-blonde long hair/BLUE eyes/BLUE-BRONZE Ravenclaw uniform, own whimsical face. No explicit text, no body illustrations.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"No entiendo por qué les avergüenza hablar con sinceridad.\"}],\"panel\":7}]",
+        "references": [
+          "paginas/c01-p002.webp",
+          "paginas/c01-p001.webp",
+          "paginas/c09-p016-personajes-v4.webp",
+          "paginas/c07-p003-color-v2.webp",
+          "paginas/c08-p028-diseno-v3.webp"
+        ],
+        "generatedMaster": "exec-7c84d8ee-d59c-4d27-82f4-94260d32d5af.png"
+      },
+      "review": "Todos los textos y siete cuadros revisados; retirar solo a Draco y Astoria, añadidos por error a la izquierda del primer cuadro antes de su llegada en la página43. Conservar los ocho amigos, bebés, ropa y escenario. No incorporar hasta corregir.",
+      "ocrMissingCandidates": [
+        "historico",
+        "tenian",
+        "aquella",
+        "cuando",
+        "salieron",
+        "quinto",
+        "siguen",
+        "granger",
+        "retiramos"
+      ],
+      "pendingEdit": [
+        {
+          "prompt": "Use case: image-editing. Edit ONLY the FIRST (top wide) panel of this complete 1024x1536 Spanish comic page. At its FAR LEFT, remove the extra platinum-blond boy Draco and the long brown-haired girl Astoria immediately beside him; neither arrives until page43. Fill only their two small areas with the existing green velvet armchair/black leather sofa and coherent background. Keep the correct EIGHT friends: Hermione, Pansy, Theo, Luna, Blaise, Daphne, Tracey and Wayne, and one Robin. Do NOT remove brown high-ponytail Tracey at right. Keep ALL other panels and every exact existing Spanish word, accent, speech balloon/tail, header, faces/expressions, hands, uniforms, white-platinum sapphire necklace, human babies and their carriers, toys, architecture, light, colors and dimensions COMPLETELY unchanged. No extra people, no re-layout, no cropping, no new text/logo/watermark. This is friendly fully clothed school/family comedy. Only remove those two prematurely present characters in the top panel.",
+          "reference": ".local/borradores/capitulo-10-2026-11-04/c10-p041-borrador-v1.png",
+          "status": "Not requested: usage limit reached"
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "sourcePdfPages": [
+        307,
+        307
+      ],
+      "status": "accepted",
+      "notPublished": true,
+      "summary": "Luna atribuye los sentimientos del grupo a los nargles y convierte las bromas en una sorpresa para todos.",
+      "editorial": "Los nargles se usan como broma sobre sentimientos y falta de comunicación, sin alusiones sexuales explícitas.",
+      "panels": [
+        {
+          "scene": "Luna calmly places CLOSED neutral brochure on low wood table, talks to H&P, same common room established left fire/right stair/underwater windows and black sofa/green armchairs. Babies nearby on padded green rug with cushions and soft blocks, never near fire.",
+          "dialogue": [
+            "Luna: Hay muchos nargles de cola anillada alrededor de ustedes."
+          ]
+        },
+        {
+          "scene": "Hermione raises eyebrows confused, Pansy unimpressed but embarrassed, each own original face, full uniforms/necklace. No literal insects drawn around babies.",
+          "dialogue": [
+            "Hermione: ¿Nargles?"
+          ]
+        },
+        {
+          "scene": "Luna matter-of-fact gentle explanation, long pale blonde/BLUE eyes, hands natural and face visible.",
+          "dialogue": [
+            "Luna: Se reúnen donde hay sentimientos que nadie se atreve a decir en voz alta."
+          ]
+        },
+        {
+          "scene": "Friends Tracey/Wayne/Theo laugh, H&P exchange shy knowing glance, Robin tiny human gray sweater smiles. Keep people distinct and all full uniforms.",
+          "caption": "El grupo encontró la explicación irresistiblemente divertida."
+        },
+        {
+          "scene": "Luna turns toward Blaise dark skin/short black curls/green and Daphne LONG blonde/BLUE eyes/green; Daphne safely holds Arianna beige/light hair/blue eyes.",
+          "dialogue": [
+            "Luna: Aunque Blaise y Daphne tienen una colmena entera."
+          ]
+        },
+        {
+          "scene": "Blaise and Daphne suddenly freeze in surprise, previously amused now embarrassed; no adult sexual framing. Luna calm off edge.",
+          "caption": "Las risas cambiaron de dueño."
+        },
+        {
+          "scene": "Theo laughs on rug; Luna looks warmly toward him. Twins Larson BROWN curls/BLUE eyes and Amelie light-blonde/BLUE eyes in matching navy/white safely seated on cushions beside parents.",
+          "dialogue": [
+            "Luna: Así me di cuenta de que Theo quería estar conmigo."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 10 · 42\n\nLuna atribuye los sentimientos del grupo a los nargles y convierte las bromas en una sorpresa para todos.\nLuna: Hay muchos nargles de cola anillada alrededor de ustedes.\nHermione: ¿Nargles?\nLuna: Se reúnen donde hay sentimientos que nadie se atreve a decir en voz alta.\nNarración: El grupo encontró la explicación irresistiblemente divertida.\nLuna: Aunque Blaise y Daphne tienen una colmena entera.\nNarración: Las risas cambiaron de dueño.\nLuna: Así me di cuenta de que Theo quería estar conmigo.",
+      "workingDraft": ".local/borradores/capitulo-10-2026-11-04/c10-p042-borrador-v1.png",
+      "workingWebp": ".local/borradores/capitulo-10-2026-11-04/c10-p042-borrador-v1.webp",
+      "masterSha256": "e28bb6a75b9a319e75c4f4cd60baf10e46cd6cc2818a8d77ffc6a5f4ce86c541",
+      "originalGeneration": {
+        "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait, seven sequential panels, fine-ink painterly anime with normal older-student proportions and original individual faces, NOT chibi/3D/large-headed. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 PERMANENT Hermione/Pansy face/style. IMAGE3 ONLY fixes the EXISTING Slytherin common-room architecture/individual friend faces/twins; DO NOT copy its Saturday travel clothes. IMAGE4 ONLY fixes LUNA long PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE RAVENCLAW uniform and THEO MALE short tousled brown curls/GREEN eyes/GREEN Slytherin uniform, not its old chibi H&P. IMAGE5 ONLY current Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform and Wayne MALE short light-brown waves/YELLOW Hufflepuff, plus Blaise dark skin/SHORT BLACK curls/BROWN eyes/GREEN and Daphne LONG BLONDE/BLUE eyes/GREEN. All now in SAME Monday full opaque school uniforms, no travel outfits/gala gowns/pajamas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin/RED-GOLD full Gryffindor uniform, sapphire oval midnight-blue/clear diamond halo/fine WHITE PLATINUM chain FRONT chest if visible. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK flat sleek CHIN-LENGTH side bob/BARE EARS/GREEN-SILVER full uniform. ASTORIA LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform, DRACO platinum/blue-gray/GREEN when they arrive. Characters remain distinct, same older-student age and proportions, warm/embarrassed/funny expressions without face cloning. Coherent SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake creature silhouettes, LEFT FIREPLACE, RIGHT curved stone stairs/dorm entry, existing GREEN velvet armchairs and CENTRAL BLACK LEATHER SOFA, low wood table and thick GREEN padded rug. Safely supported HUMAN-LOOKING small infants with smooth skin/individual tiny fingers/thumbs/natural limbs, no fabric skin/seams/paw hands/stuffed-ball feet; knit texture ONLY clothes. Robin BROWN curls/GREEN eyes/GRAY sweater/BEIGE trousers/cream socks; Arianna light hair/BLUE eyes/BEIGE; Caitlyn cream/closed-eyed content expression; twins Larson BROWN curls/BLUE eyes and Amelie LIGHT-BLONDE/BLUE eyes in MATCHING NAVY-WHITE outfits; Scorpius PLATINUM/BLUE-GRAY/CREAM with Draco when introduced. Each unique, stable small scale, safe on nearby-parent cushions/arms, no duplicate infant. Actual blocks/teddy/dragon toys stay toys. CLOSED neutral brochures only, covers «Salud y consentimiento» and «Comunicación y respeto», no explicit contents or body diagrams. Friendly fully clothed school/family comedy, no sexualized framing or intimate details. NO RON, no Harry/Ginny, no teachers. Thin black panel frames/cream gutters, SMALL BLACK upper-left header, no flourish. Every specified Spanish TEXT value verbatim with accents in readable white balloons/cream captions; speaker metadata ONLY determines tails, never print names/labels. Logical reading order, all faces visible, no added dialogue. No new logos, watermark or author footer; reader handles exterior export credit.\nHEADER in cream top margin exactly: «Capítulo 10 · 42».\nSTORYBOARD: [{\"scene\":\"Luna calmly places CLOSED neutral brochure on low wood table, talks to H&P, same common room established left fire/right stair/underwater windows and black sofa/green armchairs. Babies nearby on padded green rug with cushions and soft blocks, never near fire.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"Hay muchos nargles de cola anillada alrededor de ustedes.\"}],\"panel\":1},{\"scene\":\"Hermione raises eyebrows confused, Pansy unimpressed but embarrassed, each own original face, full uniforms/necklace. No literal insects drawn around babies.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"¿Nargles?\"}],\"panel\":2},{\"scene\":\"Luna matter-of-fact gentle explanation, long pale blonde/BLUE eyes, hands natural and face visible.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"Se reúnen donde hay sentimientos que nadie se atreve a decir en voz alta.\"}],\"panel\":3},{\"scene\":\"Friends Tracey/Wayne/Theo laugh, H&P exchange shy knowing glance, Robin tiny human gray sweater smiles. Keep people distinct and all full uniforms.\",\"caption\":\"El grupo encontró la explicación irresistiblemente divertida.\",\"panel\":4},{\"scene\":\"Luna turns toward Blaise dark skin/short black curls/green and Daphne LONG blonde/BLUE eyes/green; Daphne safely holds Arianna beige/light hair/blue eyes.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"Aunque Blaise y Daphne tienen una colmena entera.\"}],\"panel\":5},{\"scene\":\"Blaise and Daphne suddenly freeze in surprise, previously amused now embarrassed; no adult sexual framing. Luna calm off edge.\",\"caption\":\"Las risas cambiaron de dueño.\",\"panel\":6},{\"scene\":\"Theo laughs on rug; Luna looks warmly toward him. Twins Larson BROWN curls/BLUE eyes and Amelie light-blonde/BLUE eyes in matching navy/white safely seated on cushions beside parents.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"Así me di cuenta de que Theo quería estar conmigo.\"}],\"panel\":7}]",
+        "references": [
+          "paginas/c01-p002.webp",
+          "paginas/c01-p001.webp",
+          "paginas/c09-p016-personajes-v4.webp",
+          "paginas/c07-p003-color-v2.webp",
+          "paginas/c08-p028-diseno-v3.webp"
+        ],
+        "generatedMaster": "exec-82f0fba5-f78b-42bd-a8b9-4729b6cf4cee.png"
+      },
+      "review": "Siete cuadros y textos completos. Nargles como broma de sentimientos, amigos con rasgos propios, gemelos y Robin humanos, ropa, collares y misma sala común. Se conserva para incorporación consecutiva tras las correcciones pendientes.",
+      "ocrMissingCandidates": [
+        "queria"
+      ],
+      "pendingEdit": []
+    },
+    {
+      "page": 43,
+      "sourcePdfPages": [
+        307,
+        308
+      ],
+      "status": "accepted",
+      "notPublished": true,
+      "summary": "La confesión de Luna sorprende a Theo. Draco y Astoria llegan justo cuando la conversación cambia de rumbo.",
+      "panels": [
+        {
+          "scene": "Theo MALE short tousled curly BROWN hair/GREEN eyes/GREEN uniform suddenly speechless and blushing, Luna long pale-blonde/BLUE eyes/BLUE-BRONZE uniform calmly smiles, their twins safe on cushions nearby. Same common room and outfits.",
+          "caption": "Theo dejó de reír de golpe."
+        },
+        {
+          "scene": "H&P on black sofa/rug, Blaise/Daphne green armchairs, Tracey/Wayne nearby all give one amazed reaction. Robin GRAY with Pansy, Arianna BEIGE with Daphne, Caitlyn CREAM near Tracey, twins NAVY/WHITE near Luna/Theo. No clones or extra baby.",
+          "dialogue": [
+            "Tracey: Vaya, Luna…"
+          ]
+        },
+        {
+          "scene": "From RIGHT stone stair/wood dorm entrance arrive ASTORIA (LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform) and DRACO platinum/blue-gray eyes/GREEN uniform holding ONE SCORPIUS platinum infant/blue-gray eyes/CREAM knit clothes safely in both arms. Astoria covers surprised smile with hands.",
+          "dialogue": [
+            "Astoria: ¡Por las barbas de Merlín!"
+          ]
+        },
+        {
+          "scene": "Draco looks from bright-red Theo to calm Luna, awkward amused look, baby Scorpius supported firmly, tiny human hands reach toward play rug.",
+          "dialogue": [
+            "Draco: ¿Nos perdimos algo?"
+          ]
+        },
+        {
+          "scene": "Tracey playful asks Luna, Astoria/Draco at edge, all ordinary friendly school comedy, no explicit or sensual imagery.",
+          "dialogue": [
+            "Tracey: Luna, por curiosidad… ¿y ellos tienen nargles?"
+          ]
+        },
+        {
+          "scene": "Daphne long blonde/BLUE eyes/GREEN uniform protests theatrically, mature older-student face not chibi. Arianna safely supported on lap; no extra hands.",
+          "dialogue": [
+            "Daphne: ¡Tracey! ¡No necesito un informe sobre mi hermana!"
+          ]
+        },
+        {
+          "scene": "Luna studies Draco/Astoria thoughtfully while Theo attempts regain composure. Scorpius safely stays with Draco, do not put him on rug yet.",
+          "dialogue": [
+            "Luna: Bastantes. Pero su energía se parece a la de Pansy y Hermione."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 10 · 43\n\nLa confesión de Luna sorprende a Theo. Draco y Astoria llegan justo cuando la conversación cambia de rumbo.\nNarración: Theo dejó de reír de golpe.\nTracey: Vaya, Luna…\nAstoria: ¡Por las barbas de Merlín!\nDraco: ¿Nos perdimos algo?\nTracey: Luna, por curiosidad… ¿y ellos tienen nargles?\nDaphne: ¡Tracey! ¡No necesito un informe sobre mi hermana!\nLuna: Bastantes. Pero su energía se parece a la de Pansy y Hermione.",
+      "workingDraft": ".local/borradores/capitulo-10-2026-11-04/c10-p043-borrador-v1.png",
+      "workingWebp": ".local/borradores/capitulo-10-2026-11-04/c10-p043-borrador-v1.webp",
+      "masterSha256": "e261749d7bb8d7a9ac712bd32fa8c5e35a51f84e3b3ec762f38b01d007dad174",
+      "originalGeneration": {
+        "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait, seven sequential panels, fine-ink painterly anime with normal older-student proportions and original individual faces, NOT chibi/3D/large-headed. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 PERMANENT Hermione/Pansy face/style. IMAGE3 ONLY fixes the EXISTING Slytherin common-room architecture/individual friend faces/twins; DO NOT copy its Saturday travel clothes. IMAGE4 ONLY fixes LUNA long PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE RAVENCLAW uniform and THEO MALE short tousled brown curls/GREEN eyes/GREEN Slytherin uniform, not its old chibi H&P. IMAGE5 ONLY current Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform and Wayne MALE short light-brown waves/YELLOW Hufflepuff, plus Blaise dark skin/SHORT BLACK curls/BROWN eyes/GREEN and Daphne LONG BLONDE/BLUE eyes/GREEN. All now in SAME Monday full opaque school uniforms, no travel outfits/gala gowns/pajamas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin/RED-GOLD full Gryffindor uniform, sapphire oval midnight-blue/clear diamond halo/fine WHITE PLATINUM chain FRONT chest if visible. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK flat sleek CHIN-LENGTH side bob/BARE EARS/GREEN-SILVER full uniform. ASTORIA LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform, DRACO platinum/blue-gray/GREEN when they arrive. Characters remain distinct, same older-student age and proportions, warm/embarrassed/funny expressions without face cloning. Coherent SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake creature silhouettes, LEFT FIREPLACE, RIGHT curved stone stairs/dorm entry, existing GREEN velvet armchairs and CENTRAL BLACK LEATHER SOFA, low wood table and thick GREEN padded rug. Safely supported HUMAN-LOOKING small infants with smooth skin/individual tiny fingers/thumbs/natural limbs, no fabric skin/seams/paw hands/stuffed-ball feet; knit texture ONLY clothes. Robin BROWN curls/GREEN eyes/GRAY sweater/BEIGE trousers/cream socks; Arianna light hair/BLUE eyes/BEIGE; Caitlyn cream/closed-eyed content expression; twins Larson BROWN curls/BLUE eyes and Amelie LIGHT-BLONDE/BLUE eyes in MATCHING NAVY-WHITE outfits; Scorpius PLATINUM/BLUE-GRAY/CREAM with Draco when introduced. Each unique, stable small scale, safe on nearby-parent cushions/arms, no duplicate infant. Actual blocks/teddy/dragon toys stay toys. CLOSED neutral brochures only, covers «Salud y consentimiento» and «Comunicación y respeto», no explicit contents or body diagrams. Friendly fully clothed school/family comedy, no sexualized framing or intimate details. NO RON, no Harry/Ginny, no teachers. Thin black panel frames/cream gutters, SMALL BLACK upper-left header, no flourish. Every specified Spanish TEXT value verbatim with accents in readable white balloons/cream captions; speaker metadata ONLY determines tails, never print names/labels. Logical reading order, all faces visible, no added dialogue. No new logos, watermark or author footer; reader handles exterior export credit.\nHEADER in cream top margin exactly: «Capítulo 10 · 43».\nSTORYBOARD: [{\"scene\":\"Theo MALE short tousled curly BROWN hair/GREEN eyes/GREEN uniform suddenly speechless and blushing, Luna long pale-blonde/BLUE eyes/BLUE-BRONZE uniform calmly smiles, their twins safe on cushions nearby. Same common room and outfits.\",\"caption\":\"Theo dejó de reír de golpe.\",\"panel\":1},{\"scene\":\"H&P on black sofa/rug, Blaise/Daphne green armchairs, Tracey/Wayne nearby all give one amazed reaction. Robin GRAY with Pansy, Arianna BEIGE with Daphne, Caitlyn CREAM near Tracey, twins NAVY/WHITE near Luna/Theo. No clones or extra baby.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"Vaya, Luna…\"}],\"panel\":2},{\"scene\":\"From RIGHT stone stair/wood dorm entrance arrive ASTORIA (LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform) and DRACO platinum/blue-gray eyes/GREEN uniform holding ONE SCORPIUS platinum infant/blue-gray eyes/CREAM knit clothes safely in both arms. Astoria covers surprised smile with hands.\",\"dialogue\":[{\"speaker\":\"Astoria\",\"text\":\"¡Por las barbas de Merlín!\"}],\"panel\":3},{\"scene\":\"Draco looks from bright-red Theo to calm Luna, awkward amused look, baby Scorpius supported firmly, tiny human hands reach toward play rug.\",\"dialogue\":[{\"speaker\":\"Draco\",\"text\":\"¿Nos perdimos algo?\"}],\"panel\":4},{\"scene\":\"Tracey playful asks Luna, Astoria/Draco at edge, all ordinary friendly school comedy, no explicit or sensual imagery.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"Luna, por curiosidad… ¿y ellos tienen nargles?\"}],\"panel\":5},{\"scene\":\"Daphne long blonde/BLUE eyes/GREEN uniform protests theatrically, mature older-student face not chibi. Arianna safely supported on lap; no extra hands.\",\"dialogue\":[{\"speaker\":\"Daphne\",\"text\":\"¡Tracey! ¡No necesito un informe sobre mi hermana!\"}],\"panel\":6},{\"scene\":\"Luna studies Draco/Astoria thoughtfully while Theo attempts regain composure. Scorpius safely stays with Draco, do not put him on rug yet.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"Bastantes. Pero su energía se parece a la de Pansy y Hermione.\"}],\"panel\":7}]",
+        "references": [
+          "paginas/c01-p002.webp",
+          "paginas/c01-p001.webp",
+          "paginas/c09-p016-personajes-v4.webp",
+          "paginas/c07-p003-color-v2.webp",
+          "paginas/c08-p028-diseno-v3.webp"
+        ],
+        "generatedMaster": "exec-eea5398e-36fc-4822-8f7f-955dd1aa3db0.png"
+      },
+      "review": "Siete cuadros y textos completos. Llegada de Draco/Astoria con Scorpius humano en crema, gemelos distintos, réplica de Daphne y broma de Luna. Sala común, uniformes, caras y edades coherentes. Se conserva para incorporación consecutiva.",
+      "ocrMissingCandidates": [
+        "curiosidad",
+        "ellos",
+        "tienen",
+        "nargles",
+        "tracey",
+        "necesito",
+        "informe",
+        "sobre",
+        "hermana"
+      ],
+      "pendingEdit": []
+    },
+    {
+      "page": 44,
+      "sourcePdfPages": [
+        308,
+        309
+      ],
+      "status": "pending-jewel-quota",
+      "notPublished": true,
+      "summary": "Las bromas alcanzan a Draco y Astoria. Hermione disfruta de la familia que ha encontrado en sus amigos.",
+      "editorial": "Cierre de comedia familiar sin detalles íntimos. Las alusiones sexuales del original se adaptan a timidez, sentimientos y dificultad para hablar con claridad.",
+      "panels": [
+        {
+          "scene": "Same common room and full uniforms, Luna pale-blonde/BLUE eyes/BLUE-BRONZE matter-of-fact, Draco/Astoria at room entry, Scorpius safely in Draco arms. Underwater windows/left fire/right stairs/black sofa/green chairs remain coherent.",
+          "dialogue": [
+            "Luna: Piensan demasiado antes de decir lo que sienten. Como ellas."
+          ]
+        },
+        {
+          "scene": "Blaise dark skin/short black curls/BROWN eyes/GREEN uniform turns to Draco with delighted teasing look, no baby in his hands now; Daphne safely supports Arianna beside him.",
+          "dialogue": [
+            "Blaise: Los príncipes de Slytherin tienen mucho más en común de lo que creíamos."
+          ]
+        },
+        {
+          "scene": "Draco blushes bright red and holds Scorpius securely, Astoria embarrassed amused by his side, individual platinum baby in cream knit, no plush appearance.",
+          "dialogue": [
+            "Draco: No pienso quedarme a escuchar esta sarta de tonterías."
+          ]
+        },
+        {
+          "scene": "Draco and Astoria retreat up RIGHT staircase together with Scorpius still SAFE in Draco arms, do not leave or duplicate him on rug. Friends laugh from seating group behind.",
+          "caption": "Astoria siguió a Draco antes de que Luna añadiera algo más."
+        },
+        {
+          "scene": "Hermione on central BLACK sofa laughs freely, face original/BROWN eyes/chestnut curls/freckles/RED-GOLD uniform, oval sapphire/white-platinum frontal. Pansy on rug looks up at her fondly, angular face/GREEN eyes/black bob/GREEN uniform, one hand steadying Robin GRAY on cushion.",
+          "caption": "Había sido un día de discusiones, descubrimientos y confesiones."
+        },
+        {
+          "scene": "Tender group-detail panel on green padded play rug: Robin BROWN curls/GREEN eyes/GRAY sweater, Arianna light hair/BLUE eyes/BEIGE, Caitlyn cream/closed-eye content smile, twins Larson brown curls BLUE eyes and Amelie pale blond BLUE eyes/matching NAVY-WHITE, each tiny HUMAN infant with natural skin/fingers/limbs, supported by nearby parent hands/cushions, soft blocks. NO Scorpius here, he left with Draco. Actual teddy/dragon toys can be toys.",
+          "caption": "Y también de encontrar un lugar al que pertenecer."
+        },
+        {
+          "scene": "Wide peaceful final group scene: Hermione black sofa/Pansy rug with ONE Robin, Blaise/Daphne armchairs with Arianna, Theo/Luna with twin cushions, Tracey/Wayne with Caitlyn, all eight original friends, no Ron/Draco/Astoria/Scorpius now. Blue-green underwater windows and warm fire light, everyone relaxed. Add small cream final tag INSIDE lower edge of this panel only, no author footer.",
+          "caption": "Hermione no cambiaría aquella familia por nada.",
+          "printed": [
+            "Fin del capítulo 10"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 10 · 44\n\nLas bromas alcanzan a Draco y Astoria. Hermione disfruta de la familia que ha encontrado en sus amigos.\nLuna: Piensan demasiado antes de decir lo que sienten. Como ellas.\nBlaise: Los príncipes de Slytherin tienen mucho más en común de lo que creíamos.\nDraco: No pienso quedarme a escuchar esta sarta de tonterías.\nNarración: Astoria siguió a Draco antes de que Luna añadiera algo más.\nNarración: Había sido un día de discusiones, descubrimientos y confesiones.\nNarración: Y también de encontrar un lugar al que pertenecer.\nNarración: Hermione no cambiaría aquella familia por nada.\nFin del capítulo 10",
+      "workingDraft": ".local/borradores/capitulo-10-2026-11-04/c10-p044-borrador-v1.png",
+      "workingWebp": ".local/borradores/capitulo-10-2026-11-04/c10-p044-borrador-v1.webp",
+      "masterSha256": "d05f2ca602a9de293aa17451e471218072f0993601558e2e88f4ff23835d9640",
+      "originalGeneration": {
+        "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait, seven sequential panels, fine-ink painterly anime with normal older-student proportions and original individual faces, NOT chibi/3D/large-headed. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 PERMANENT Hermione/Pansy face/style. IMAGE3 ONLY fixes the EXISTING Slytherin common-room architecture/individual friend faces/twins; DO NOT copy its Saturday travel clothes. IMAGE4 ONLY fixes LUNA long PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE RAVENCLAW uniform and THEO MALE short tousled brown curls/GREEN eyes/GREEN Slytherin uniform, not its old chibi H&P. IMAGE5 ONLY current Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform and Wayne MALE short light-brown waves/YELLOW Hufflepuff, plus Blaise dark skin/SHORT BLACK curls/BROWN eyes/GREEN and Daphne LONG BLONDE/BLUE eyes/GREEN. All now in SAME Monday full opaque school uniforms, no travel outfits/gala gowns/pajamas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin/RED-GOLD full Gryffindor uniform, sapphire oval midnight-blue/clear diamond halo/fine WHITE PLATINUM chain FRONT chest if visible. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK flat sleek CHIN-LENGTH side bob/BARE EARS/GREEN-SILVER full uniform. ASTORIA LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform, DRACO platinum/blue-gray/GREEN when they arrive. Characters remain distinct, same older-student age and proportions, warm/embarrassed/funny expressions without face cloning. Coherent SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake creature silhouettes, LEFT FIREPLACE, RIGHT curved stone stairs/dorm entry, existing GREEN velvet armchairs and CENTRAL BLACK LEATHER SOFA, low wood table and thick GREEN padded rug. Safely supported HUMAN-LOOKING small infants with smooth skin/individual tiny fingers/thumbs/natural limbs, no fabric skin/seams/paw hands/stuffed-ball feet; knit texture ONLY clothes. Robin BROWN curls/GREEN eyes/GRAY sweater/BEIGE trousers/cream socks; Arianna light hair/BLUE eyes/BEIGE; Caitlyn cream/closed-eyed content expression; twins Larson BROWN curls/BLUE eyes and Amelie LIGHT-BLONDE/BLUE eyes in MATCHING NAVY-WHITE outfits; Scorpius PLATINUM/BLUE-GRAY/CREAM with Draco when introduced. Each unique, stable small scale, safe on nearby-parent cushions/arms, no duplicate infant. Actual blocks/teddy/dragon toys stay toys. CLOSED neutral brochures only, covers «Salud y consentimiento» and «Comunicación y respeto», no explicit contents or body diagrams. Friendly fully clothed school/family comedy, no sexualized framing or intimate details. NO RON, no Harry/Ginny, no teachers. Thin black panel frames/cream gutters, SMALL BLACK upper-left header, no flourish. Every specified Spanish TEXT value verbatim with accents in readable white balloons/cream captions; speaker metadata ONLY determines tails, never print names/labels. Logical reading order, all faces visible, no added dialogue. No new logos, watermark or author footer; reader handles exterior export credit.\nHEADER in cream top margin exactly: «Capítulo 10 · 44».\nSTORYBOARD: [{\"scene\":\"Same common room and full uniforms, Luna pale-blonde/BLUE eyes/BLUE-BRONZE matter-of-fact, Draco/Astoria at room entry, Scorpius safely in Draco arms. Underwater windows/left fire/right stairs/black sofa/green chairs remain coherent.\",\"dialogue\":[{\"speaker\":\"Luna\",\"text\":\"Piensan demasiado antes de decir lo que sienten. Como ellas.\"}],\"panel\":1},{\"scene\":\"Blaise dark skin/short black curls/BROWN eyes/GREEN uniform turns to Draco with delighted teasing look, no baby in his hands now; Daphne safely supports Arianna beside him.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"Los príncipes de Slytherin tienen mucho más en común de lo que creíamos.\"}],\"panel\":2},{\"scene\":\"Draco blushes bright red and holds Scorpius securely, Astoria embarrassed amused by his side, individual platinum baby in cream knit, no plush appearance.\",\"dialogue\":[{\"speaker\":\"Draco\",\"text\":\"No pienso quedarme a escuchar esta sarta de tonterías.\"}],\"panel\":3},{\"scene\":\"Draco and Astoria retreat up RIGHT staircase together with Scorpius still SAFE in Draco arms, do not leave or duplicate him on rug. Friends laugh from seating group behind.\",\"caption\":\"Astoria siguió a Draco antes de que Luna añadiera algo más.\",\"panel\":4},{\"scene\":\"Hermione on central BLACK sofa laughs freely, face original/BROWN eyes/chestnut curls/freckles/RED-GOLD uniform, oval sapphire/white-platinum frontal. Pansy on rug looks up at her fondly, angular face/GREEN eyes/black bob/GREEN uniform, one hand steadying Robin GRAY on cushion.\",\"caption\":\"Había sido un día de discusiones, descubrimientos y confesiones.\",\"panel\":5},{\"scene\":\"Tender group-detail panel on green padded play rug: Robin BROWN curls/GREEN eyes/GRAY sweater, Arianna light hair/BLUE eyes/BEIGE, Caitlyn cream/closed-eye content smile, twins Larson brown curls BLUE eyes and Amelie pale blond BLUE eyes/matching NAVY-WHITE, each tiny HUMAN infant with natural skin/fingers/limbs, supported by nearby parent hands/cushions, soft blocks. NO Scorpius here, he left with Draco. Actual teddy/dragon toys can be toys.\",\"caption\":\"Y también de encontrar un lugar al que pertenecer.\",\"panel\":6},{\"scene\":\"Wide peaceful final group scene: Hermione black sofa/Pansy rug with ONE Robin, Blaise/Daphne armchairs with Arianna, Theo/Luna with twin cushions, Tracey/Wayne with Caitlyn, all eight original friends, no Ron/Draco/Astoria/Scorpius now. Blue-green underwater windows and warm fire light, everyone relaxed. Add small cream final tag INSIDE lower edge of this panel only, no author footer.\",\"caption\":\"Hermione no cambiaría aquella familia por nada.\",\"printed\":[\"Fin del capítulo 10\"],\"panel\":7}]",
+        "references": [
+          "paginas/c01-p002.webp",
+          "paginas/c01-p001.webp",
+          "paginas/c09-p016-personajes-v4.webp",
+          "paginas/c07-p003-color-v2.webp",
+          "paginas/c08-p028-diseno-v3.webp"
+        ],
+        "generatedMaster": "exec-f6fba5ec-c90b-4802-8f05-dc12772c95a9.png"
+      },
+      "review": "Siete cuadros y todos los textos, incluida la cabecera, presentes y revisados. Recuperar únicamente el platino blanco/halo de diamantes del collar de Hermione en el quinto cuadro; quedó dorado. Mantener todas las palabras, ocho amigos, salida de Draco/Astoria con Scorpius, bebés humanos, ropa y escenario. No incorporar hasta corregir.",
+      "ocrMissingCandidates": [
+        "habia",
+        "discusiones",
+        "descubrimientos",
+        "confesiones",
+        "tambien",
+        "encontrar",
+        "lugar",
+        "pertenecer"
+      ],
+      "pendingEdit": [
+        {
+          "prompt": "Use case: image-editing. Make ONE tiny continuity correction to this COMPLETE 1024x1536 Spanish comic page. In the FIFTH panel (left half of the row above the final wide panel), Hermione is laughing with Pansy and Robin. Change ONLY the warm-gold colored CHAIN and METAL MOUNT of Hermione's existing oval blue sapphire necklace to WHITE PLATINUM with the existing CLEAR DIAMOND HALO. Keep its exact sapphire blue stone, size, shape and location on the FRONT chest. Do not recolor her red/gold tie or trim, and do not change any other jewelry. The small top header is ALREADY present: preserve it exactly. Keep ALL seven panels, every exact Spanish word/accent/balloon/caption/tail/final tag, faces/hair/expressions/hands, full uniforms, human infants, departure of Draco/Astoria with Scorpius, group, common-room architecture/light/colors and canvas dimensions unchanged. No new text/logo/watermark, no redraw/re-layout/crop. Only the necklace metal in that fifth panel becomes white platinum/clear diamonds.",
+          "reference": ".local/borradores/capitulo-10-2026-11-04/c10-p044-borrador-v1.png",
+          "status": "Not requested: usage limit reached"
+        }
+      ]
+    }
+  ]
+}

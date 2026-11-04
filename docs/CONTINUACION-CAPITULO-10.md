@@ -80,3 +80,47 @@ Páginas nuevas revisadas completas, con OCR adicional y referencia facial perma
 | 30 | 296–297 | Neville y Diane empiezan a sumar puntos. Diane provoca a Hermione, que todavía no ha respondido. |
 
 Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-23-30.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 30 páginas ilustradas.
+
+## Continuación: páginas 31–35
+
+Páginas nuevas revisadas completas, con OCR adicional y referencia facial permanente en los originales del capítulo 1. Los bebés mantienen apariencia humana. El crédito de Nicole_Winkel se añade solo en la exportación.
+
+| Página ilustrada | Fuente PDF | Escena |
+| --- | --- | --- |
+| 31 | 297–298 | Hermione responde a la provocación de Diane demostrando sus conocimientos. Pansy celebra su regreso a la competencia. |
+| 32 | 298–299 | Hermione y Pansy responden como un equipo. La admiración de Sophie despierta los celos de Pansy. |
+| 33 | 299–300 | La última pregunta confirma la sincronía de Hermione y Pansy. Tras la victoria, Sophie se acerca a hablar. |
+| 34 | 300–301 | Sophie felicita a Hermione. Pansy interrumpe y la presenta públicamente como su novia. |
+| 35 | 301–302 | Pansy y Hermione se alejan de la clase con Robin. A solas junto al lago, Pansy pregunta por Sophie. |
+
+Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-31-35.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 35 páginas ilustradas.
+
+## Continuación: páginas 36–40
+
+Páginas nuevas revisadas completas, con OCR adicional y referencia facial permanente en los originales del capítulo 1. Los bebés mantienen apariencia humana. El crédito de Nicole_Winkel se añade solo en la exportación.
+
+| Página ilustrada | Fuente PDF | Escena |
+| --- | --- | --- |
+| 36 | 302–303 | Pansy admite sus celos. Hermione comprende el motivo de su enfado y busca tranquilizarla. |
+| 37 | 303–304 | Hermione explica que ya no siente lo mismo por Sophie y que quería ser sincera sin hacerle daño. |
+| 38 | 304–304 | Hermione confiesa que quiere estar con Pansy y que podría estar enamorándose de ella. |
+| 39 | 304–305 | La respuesta de Pansy es un beso que se resuelve con elipsis. Robin celebra la tranquilidad de su familia. |
+| 40 | 305–306 | En la sala común, los amigos celebran lo ocurrido. Al buscar una toallita para Robin, Blaise descubre los folletos de Elsie. |
+
+Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-36-40.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 40 páginas ilustradas.
+
+## Continuación preparada y límite de uso
+
+El 4 de noviembre de 2026 ImageGen integrada alcanzó su límite de uso. La herramienta informó la siguiente disponibilidad: **5 de noviembre de 2026 a las 06:50:11 de Bogotá** (11:50:11 UTC). No se cambió a una API de pago.
+
+Las páginas 41–44 ya tienen guion e imágenes generadas, guardadas en el proyecto como borradores PNG y WebP. Todavía no se incorporan al lector ni se cuentan como páginas publicadas. Se conserva el punto de continuación en la página 41.
+
+| Páginas | Revisión pendiente |
+| --- | --- |
+| 42–43 | Versiones revisadas, conservadas para incorporación consecutiva después de corregir la página anterior. |
+| 41 | Retirar a Draco y Astoria del primer cuadro; su llegada ocurre en la página 43. Conservar los ocho amigos y bebés presentes. |
+| 44 | Recuperar platino blanco con halo de diamantes en el collar de Hermione del quinto cuadro. Conservar la cabecera existente y el cierre completo. |
+
+Los [guiones, prompts, borradores y decisiones pendientes](prompts-capitulo-10-paginas-41-44-pendientes.json) documentan el trabajo preparado. Los borradores están en `.local/borradores/capitulo-10-2026-11-04/`. La comprobación final de los PNG confirma que las cabeceras de las páginas 36–39 y 44 ya estaban presentes; se descarta la apreciación anterior de que faltaban. Los intentos innecesarios de añadirlas fueron bloqueados y no sustituyeron los originales. Las páginas 36–40 se incorporan con sus cabeceras originales.
+
+Tras cerrar las páginas 41–44, la adaptación continúa con el capítulo 11; los capítulos 11–13 aún no tienen páginas incorporadas.

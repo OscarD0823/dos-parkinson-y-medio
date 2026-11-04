@@ -38,6 +38,8 @@ La [revisión anterior del capítulo 9](prompts-continuidad-capitulo-09-paginas-
 
 ## Detalles permitidos
 
+En la continuación de **Rivales**, la ropa cambia con el día: el domingo Robin lleva azul y beige; el lunes, desde el regreso a Hogwarts, jersey gris, pantalón beige y calcetines crema. James lleva pelo negro y jersey crema, y no debe copiar el jersey gris de Robin. La sonaja de Snitch se introduce en la página 29. Katie conserva el moño alto castaño y Diane el pelo rubio largo de su aparición en el taller; ambas llevan amarillo. Sophie conserva las ondas miel a los hombros y ojos castaños. Theo sigue siendo un chico de pelo corto castaño y ojos verdes; Luna mantiene ojos azules, pelo rubio pálido largo y uniforme azul/bronce. Los gemelos Larson (rizos castaños) y Amelie (pelo rubio claro) tienen ojos azules y conjuntos azul marino/blanco. La referencia de cada secundario no sustituye los originales del capítulo 1 para las protagonistas.
+
 - Mechones dentro del volumen ya dibujado, pecas y pestañas discretas, reflejos pequeños en iris sin agrandar los ojos.
 - Costuras, tejido y bordados de la ropa existente.
 - Lomos y cantos de libros, madera, piedra tallada y materiales presentes en cada lugar.

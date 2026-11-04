@@ -1,0 +1,433 @@
+{
+  "chapter": 10,
+  "title": "Rivales",
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "editorial": "Adaptación de la fuente completa. Se conserva la comedia familiar y escolar; la intimidad se resuelve sin detalles gráficos. Los originales del capítulo 1 fijan las identidades, las referencias recientes solo aportan vestuario y escenario.",
+  "illustratedBlock": [
+    36,
+    40
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 36,
+      "image": "paginas/c10-p036.webp",
+      "sourcePdfPages": [
+        302,
+        303
+      ],
+      "summary": "Pansy admite sus celos. Hermione comprende el motivo de su enfado y busca tranquilizarla.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p036.png",
+      "generatedMaster": "exec-fc30012c-0f1a-433b-961f-4258eb030b30.png",
+      "sha256": "6945978f6f47658eb8531d142514b1d92f878318a66d53cf4a75c76f10a881bc",
+      "masterSha256": "a183de125f10585f29d68b1a7f079d082d9e7647773d0f21a3b1a96a5a3e013e",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 8,
+      "review": "Revisión visual final completa del PNG guardado: la cabecera SÍ está presente, al igual que todos los diálogos y cartelas. La apreciación anterior de cabecera ausente fue incorrecta; no hace falta editarla. Se conservan rostros, manos, uniformes, zafiro en platino blanco, Robin humano con jersey gris y sonaja, y el mismo invernadero. Las omisiones del OCR se contrastan con el texto visible.",
+      "transcript": "Capítulo 10 · 36\n\nPansy admite sus celos. Hermione comprende el motivo de su enfado y busca tranquilizarla.\nHermione: ¿De qué estás hablando?\nPansy: Sé que salieron. Solo te pido que seas honesta conmigo.\nHermione: ¿Por qué crees que todavía me gusta?\nPansy: Estabas distraída. Y cuando se acercó, no la apartaste.\nHermione: Estás celosa.\nPansy: Obvio que lo estoy.\nHermione: Pero eso es claramente un desperdicio de energía.\nHermione: Escúchame. Quiero explicártelo.",
+      "panels": [
+        {
+          "scene": "Same old quiet lakeside greenhouse: LEFT dusty wood bench/terracotta/ferns, RIGHT door and ONE sand pram with gray-sweater Robin/gold Snitch. H&P center facing each other in Monday full uniforms. Hermione surprised, Pansy defensive but respectful distance.",
+          "dialogue": [
+            "Hermione: ¿De qué estás hablando?"
+          ]
+        },
+        {
+          "scene": "Close Pansy in same old lakeside greenhouse, angular jaw/GREEN eyes/black chin-length flat bob, full green uniform, answers honestly at ordinary conversation distance. Hermione listens just beyond frame; tiny Robin remains safe in sand pram by right door.",
+          "dialogue": [
+            "Pansy: Sé que salieron. Solo te pido que seas honesta conmigo."
+          ]
+        },
+        {
+          "scene": "Hermione tilts head with patient curious BROWN eyes, chestnut curls/own freckled face, sapphire WHITE PLATINUM chain front, no changed clothes.",
+          "dialogue": [
+            "Hermione: ¿Por qué crees que todavía me gusta?"
+          ]
+        },
+        {
+          "scene": "Pansy looks aside vulnerable, natural folded two-arm pose, green uniform and bare ears, sunlight on black flat bob.",
+          "dialogue": [
+            "Pansy: Estabas distraída. Y cuando se acercó, no la apartaste."
+          ]
+        },
+        {
+          "scene": "Hermione slowly understands and gives a gentle affectionate smile, no mockery. Pansy still tense.",
+          "dialogue": [
+            "Hermione: Estás celosa."
+          ]
+        },
+        {
+          "scene": "Pansy drops her shoulders slightly, honest embarrassed confession, angular face but not angry caricature.",
+          "dialogue": [
+            "Pansy: Obvio que lo estoy."
+          ]
+        },
+        {
+          "scene": "Hermione offers both hands calmly; Pansy willingly unfolds arms and takes them, two natural hands each, no grip forcing her to stay. Ordinary wholesome handholding in full uniforms.",
+          "dialogue": [
+            "Hermione: Pero eso es claramente un desperdicio de energía."
+          ]
+        },
+        {
+          "scene": "H&P now holding hands at waist level, relieved tiny smile on Pansy, focused gentle Hermione, safe pram visible at right door, fixed room geography.",
+          "dialogue": [
+            "Hermione: Escúchame. Quiero explicártelo."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create a NEW complete 1024x1536 portrait Spanish comic page, eight sequential panels, fine-ink painterly anime, original individualized faces and natural older-student proportions, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 are PERMANENT Hermione/Pansy face references, not expression/pose templates. IMAGE3 is only their CURRENT Monday school uniforms, sapphire, Robin’s gray sweater and infant scale; do NOT copy that corridor or angry expressions. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin, RED-GOLD Gryffindor uniform/white shirt/gray vest/black full opaque robe. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek CHIN-LENGTH side-part bob/flat locks/straight ends/BARE EARS/GREEN-SILVER full Slytherin uniform. Same normal older-student proportions and individual faces, emotions tender/vulnerable without face drift. Hermione’s oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain on FRONT chest if visible, never yellow gold/back. ONE unique small HUMAN-LOOKING Robin BROWN curls/GREEN eyes/GRAY knitted sweater/BEIGE trousers/small ordinary cream socks, smooth skin and natural tiny fingers/thumbs, no knitted skin/seams/paws/ball feet, safe in SAND/TAN pram with GOLD SNITCH rattle/SILVER soft wings. New coherent setting separate from active class: SMALL OLD QUIET LAKESIDE GREENHOUSE on LOW STONE base, CLOUDY INTACT glass panes, OXIDIZED GREEN iron ribs, one WOODEN entry door on RIGHT, dusty WOOD potting bench with empty TERRACOTTA pots and ferns on LEFT. Pram safely parked near RIGHT door inside, H&P stand center. Warm filtered daylight, lake and distant castle visible outside. No teachers, classmates, Moly work tables or occupied class greenhouse, no other people/babies. All fully clothed in ordinary eye-level, wholesome non-graphic romantic conversation; no nudity/sexualized posing, no coerced gestures. Thin black borders, cream gutters, SMALL BLACK upper-left header, no flourishes. Render ONLY specified Spanish text values in large legible white balloons/cream captions, all accents exact, metadata speaker names never printed, logical reading order and clear tails, faces never hidden by text. No extra writing, logos, watermark or author footer; reader adds exterior credit on export.\nIMAGE4 fixes ONLY the NEW small lakeside abandoned greenhouse geometry from the previous page: left potting bench/terracotta/ferns, right wooden door and sand pram, cloudy intact glass/oxidized green ribs/low stone base, lake/castle outside. Maintain this same room and props; original Images1/2 still fix facial identities. No empty baby carriage: Robin remains safely in it whenever shown; his face can be hidden by hood angle but body must be present.\nHEADER in cream top margin exactly: «Capítulo 10 · 36».\nSTORYBOARD: [{\"scene\":\"Same old quiet lakeside greenhouse: LEFT dusty wood bench/terracotta/ferns, RIGHT door and ONE sand pram with gray-sweater Robin/gold Snitch. H&P center facing each other in Monday full uniforms. Hermione surprised, Pansy defensive but respectful distance.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"¿De qué estás hablando?\"}],\"panel\":1},{\"scene\":\"Close Pansy in same old lakeside greenhouse, angular jaw/GREEN eyes/black chin-length flat bob, full green uniform, answers honestly at ordinary conversation distance. Hermione listens just beyond frame; tiny Robin remains safe in sand pram by right door.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Sé que salieron. Solo te pido que seas honesta conmigo.\"}],\"panel\":2},{\"scene\":\"Hermione tilts head with patient curious BROWN eyes, chestnut curls/own freckled face, sapphire WHITE PLATINUM chain front, no changed clothes.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"¿Por qué crees que todavía me gusta?\"}],\"panel\":3},{\"scene\":\"Pansy looks aside vulnerable, natural folded two-arm pose, green uniform and bare ears, sunlight on black flat bob.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Estabas distraída. Y cuando se acercó, no la apartaste.\"}],\"panel\":4},{\"scene\":\"Hermione slowly understands and gives a gentle affectionate smile, no mockery. Pansy still tense.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Estás celosa.\"}],\"panel\":5},{\"scene\":\"Pansy drops her shoulders slightly, honest embarrassed confession, angular face but not angry caricature.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Obvio que lo estoy.\"}],\"panel\":6},{\"scene\":\"Hermione offers both hands calmly; Pansy willingly unfolds arms and takes them, two natural hands each, no grip forcing her to stay. Ordinary wholesome handholding in full uniforms.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Pero eso es claramente un desperdicio de energía.\"}],\"panel\":7},{\"scene\":\"H&P now holding hands at waist level, relieved tiny smile on Pansy, focused gentle Hermione, safe pram visible at right door, fixed room geography.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Escúchame. Quiero explicártelo.\"}],\"panel\":8}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "exec-563ff849-4fdb-4e8f-a879-39a8037a6478.png",
+            "exec-b8dd5f4d-d88f-4804-8735-26ef39c4c776.png"
+          ],
+          "generatedMaster": "exec-fc30012c-0f1a-433b-961f-4258eb030b30.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "estas",
+          "hablando",
+          "salieron",
+          "honesta",
+          "conmigo"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 37,
+      "image": "paginas/c10-p037.webp",
+      "sourcePdfPages": [
+        303,
+        304
+      ],
+      "summary": "Hermione explica que ya no siente lo mismo por Sophie y que quería ser sincera sin hacerle daño.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p037.png",
+      "generatedMaster": "exec-144fd375-8453-45a4-847b-9aae05c5dcce.png",
+      "sha256": "cbc4346e4d6928a85f5ec75744400e0ed40d5922467cf3ebf7e02168bec898fa",
+      "masterSha256": "2f4760abf2bcd14e79e787973def8e5b816b5aac85ae9096dfd54a9689367321",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Revisión visual final completa del PNG guardado: la cabecera SÍ está presente, al igual que todos los diálogos y cartelas. La apreciación anterior de cabecera ausente fue incorrecta; no hace falta editarla. Se conservan rostros, manos, uniformes, zafiro en platino blanco, Robin humano con jersey gris y sonaja, y el mismo invernadero. Las omisiones del OCR se contrastan con el texto visible.",
+      "transcript": "Capítulo 10 · 37\n\nHermione explica que ya no siente lo mismo por Sophie y que quería ser sincera sin hacerle daño.\nHermione: Salí con Sophie antes de que empezara el proyecto. Me gustaba.\nHermione: Había pensado hacer el proyecto con ella. Pero las cosas cambiaron.\nHermione: Hoy estaba buscando las palabras para decirle que no pasaría nada más.\nHermione: No quería romperle el corazón ni darle falsas esperanzas.\nPansy: Entonces… no estabas pensando en volver con ella.\nHermione: No. Ahora estoy perdida por alguien con unos ojos verdes increíbles.\nNarración: La respuesta dejó a Pansy sin su siguiente argumento.",
+      "panels": [
+        {
+          "scene": "H&P center of same quiet OLD greenhouse, LEFT dusty bench/terracotta/ferns, RIGHT door/sand pram/ONE gray-sweater Robin with gold Snitch, warm filtered light. They hold hands and talk, fully uniformed.",
+          "dialogue": [
+            "Hermione: Salí con Sophie antes de que empezara el proyecto. Me gustaba."
+          ]
+        },
+        {
+          "scene": "Pansy listens, shoulders momentarily tense, no forceful gesture or angry glare. Hermione meets GREEN eyes sincerely.",
+          "dialogue": [
+            "Hermione: Había pensado hacer el proyecto con ella. Pero las cosas cambiaron."
+          ]
+        },
+        {
+          "scene": "Closer Hermione BROWN eyes/freckles/chestnut curls/original face, frontal oval sapphire on WHITE PLATINUM chain, calm honesty.",
+          "dialogue": [
+            "Hermione: Hoy estaba buscando las palabras para decirle que no pasaría nada más."
+          ]
+        },
+        {
+          "scene": "Hermione gently touches Pansy’s hand, Pansy listens without withdrawing. No coercive grip, uniform sleeves and hands anatomically clear.",
+          "dialogue": [
+            "Hermione: No quería romperle el corazón ni darle falsas esperanzas."
+          ]
+        },
+        {
+          "scene": "Pansy exhales, green almond eyes soften and strong brows relax, sleek black bob stays flat/chin-length, no earrings.",
+          "dialogue": [
+            "Pansy: Entonces… no estabas pensando en volver con ella."
+          ]
+        },
+        {
+          "scene": "Hermione smiles warmly with a little blush, still at ordinary close conversation distance, no sexualized pose.",
+          "dialogue": [
+            "Hermione: No. Ahora estoy perdida por alguien con unos ojos verdes increíbles."
+          ]
+        },
+        {
+          "scene": "Both share shy relieved smile, hands naturally clasped, little infant still safely in pram near RIGHT door looks content. No chapter end.",
+          "caption": "La respuesta dejó a Pansy sin su siguiente argumento."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create a NEW complete 1024x1536 portrait Spanish comic page, seven sequential panels, fine-ink painterly anime, original individualized faces and natural older-student proportions, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 are PERMANENT Hermione/Pansy face references, not expression/pose templates. IMAGE3 is only their CURRENT Monday school uniforms, sapphire, Robin’s gray sweater and infant scale; do NOT copy that corridor or angry expressions. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin, RED-GOLD Gryffindor uniform/white shirt/gray vest/black full opaque robe. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek CHIN-LENGTH side-part bob/flat locks/straight ends/BARE EARS/GREEN-SILVER full Slytherin uniform. Same normal older-student proportions and individual faces, emotions tender/vulnerable without face drift. Hermione’s oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain on FRONT chest if visible, never yellow gold/back. ONE unique small HUMAN-LOOKING Robin BROWN curls/GREEN eyes/GRAY knitted sweater/BEIGE trousers/small ordinary cream socks, smooth skin and natural tiny fingers/thumbs, no knitted skin/seams/paws/ball feet, safe in SAND/TAN pram with GOLD SNITCH rattle/SILVER soft wings. New coherent setting separate from active class: SMALL OLD QUIET LAKESIDE GREENHOUSE on LOW STONE base, CLOUDY INTACT glass panes, OXIDIZED GREEN iron ribs, one WOODEN entry door on RIGHT, dusty WOOD potting bench with empty TERRACOTTA pots and ferns on LEFT. Pram safely parked near RIGHT door inside, H&P stand center. Warm filtered daylight, lake and distant castle visible outside. No teachers, classmates, Moly work tables or occupied class greenhouse, no other people/babies. All fully clothed in ordinary eye-level, wholesome non-graphic romantic conversation; no nudity/sexualized posing, no coerced gestures. Thin black borders, cream gutters, SMALL BLACK upper-left header, no flourishes. Render ONLY specified Spanish text values in large legible white balloons/cream captions, all accents exact, metadata speaker names never printed, logical reading order and clear tails, faces never hidden by text. No extra writing, logos, watermark or author footer; reader adds exterior credit on export.\nIMAGE4 fixes ONLY the NEW small lakeside abandoned greenhouse geometry from the previous page: left potting bench/terracotta/ferns, right wooden door and sand pram, cloudy intact glass/oxidized green ribs/low stone base, lake/castle outside. Maintain this same room and props; original Images1/2 still fix facial identities. No empty baby carriage: Robin remains safely in it whenever shown; his face can be hidden by hood angle but body must be present.\nHEADER in cream top margin exactly: «Capítulo 10 · 37».\nSTORYBOARD: [{\"scene\":\"H&P center of same quiet OLD greenhouse, LEFT dusty bench/terracotta/ferns, RIGHT door/sand pram/ONE gray-sweater Robin with gold Snitch, warm filtered light. They hold hands and talk, fully uniformed.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Salí con Sophie antes de que empezara el proyecto. Me gustaba.\"}],\"panel\":1},{\"scene\":\"Pansy listens, shoulders momentarily tense, no forceful gesture or angry glare. Hermione meets GREEN eyes sincerely.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Había pensado hacer el proyecto con ella. Pero las cosas cambiaron.\"}],\"panel\":2},{\"scene\":\"Closer Hermione BROWN eyes/freckles/chestnut curls/original face, frontal oval sapphire on WHITE PLATINUM chain, calm honesty.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Hoy estaba buscando las palabras para decirle que no pasaría nada más.\"}],\"panel\":3},{\"scene\":\"Hermione gently touches Pansy’s hand, Pansy listens without withdrawing. No coercive grip, uniform sleeves and hands anatomically clear.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No quería romperle el corazón ni darle falsas esperanzas.\"}],\"panel\":4},{\"scene\":\"Pansy exhales, green almond eyes soften and strong brows relax, sleek black bob stays flat/chin-length, no earrings.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Entonces… no estabas pensando en volver con ella.\"}],\"panel\":5},{\"scene\":\"Hermione smiles warmly with a little blush, still at ordinary close conversation distance, no sexualized pose.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No. Ahora estoy perdida por alguien con unos ojos verdes increíbles.\"}],\"panel\":6},{\"scene\":\"Both share shy relieved smile, hands naturally clasped, little infant still safely in pram near RIGHT door looks content. No chapter end.\",\"caption\":\"La respuesta dejó a Pansy sin su siguiente argumento.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "exec-563ff849-4fdb-4e8f-a879-39a8037a6478.png",
+            "exec-b8dd5f4d-d88f-4804-8735-26ef39c4c776.png"
+          ],
+          "generatedMaster": "exec-144fd375-8453-45a4-847b-9aae05c5dcce.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 38,
+      "image": "paginas/c10-p038.webp",
+      "sourcePdfPages": [
+        304,
+        304
+      ],
+      "summary": "Hermione confiesa que quiere estar con Pansy y que podría estar enamorándose de ella.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p038.png",
+      "generatedMaster": "exec-b7fffb4d-22df-43fc-9536-b6e483acb459.png",
+      "sha256": "97cd2a144cc987783bb848d043b4a62bb031544ab5f6fc9df33785b832d585c3",
+      "masterSha256": "1fdfb6f39d8090255f29d30e8d32f08aa6d780bd9cc86047272fccbf9eea3820",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Revisión visual final completa del PNG guardado: la cabecera SÍ está presente, al igual que todos los diálogos y cartelas. La apreciación anterior de cabecera ausente fue incorrecta; no hace falta editarla. Se conservan rostros, manos, uniformes, zafiro en platino blanco, Robin humano con jersey gris y sonaja, y el mismo invernadero. Las omisiones del OCR se contrastan con el texto visible.",
+      "transcript": "Capítulo 10 · 38\n\nHermione confiesa que quiere estar con Pansy y que podría estar enamorándose de ella.\nPansy: No sabía qué pensar. Tenía miedo de perderte.\nHermione: No me interesa nadie más.\nHermione: Me gustas, Pansy.\nHermione: No sé en qué momento pasó. Pero quiero estar contigo.\nHermione: Creo que podría estar enamorándome de ti.\nNarración: Por una vez, Pansy no encontró una respuesta ingeniosa.\nHermione: Me asusta y me emociona. Pero solo quiero estar contigo.",
+      "panels": [
+        {
+          "scene": "Same small lakeside OLD greenhouse, intact cloudy glass/green oxidized ribs, LEFT dusty potting bench and empty terracotta, RIGHT door/sand pram/one Robin. H&P center in full opaque Monday uniforms, hands clasped, warm gentle light. Pansy visibly vulnerable.",
+          "dialogue": [
+            "Pansy: No sabía qué pensar. Tenía miedo de perderte."
+          ]
+        },
+        {
+          "scene": "Hermione gently touches Pansy’s cheek with ONE clear natural hand while other hand remains held, ordinary reassuring gesture, full clothes and equal agency.",
+          "dialogue": [
+            "Hermione: No me interesa nadie más."
+          ]
+        },
+        {
+          "scene": "Hermione draws breath, BROWN eyes sincere, no crying melodrama, original face/freckles/curls, front sapphire/white platinum.",
+          "dialogue": [
+            "Hermione: Me gustas, Pansy."
+          ]
+        },
+        {
+          "scene": "Pansy listens speechless, angular jaw/green slender eyes/black flat bob recognizable, warm surprised eyes, no new jewelry.",
+          "dialogue": [
+            "Hermione: No sé en qué momento pasó. Pero quiero estar contigo."
+          ]
+        },
+        {
+          "scene": "Two-shot full uniform above waist, clear expressive eyes at ordinary conversation distance, no kissing or body emphasis.",
+          "dialogue": [
+            "Hermione: Creo que podría estar enamorándome de ti."
+          ]
+        },
+        {
+          "scene": "Close Pansy deeply moved, no dialogue, gentle softened expression. Warm dusty light behind her, face not hidden by text.",
+          "caption": "Por una vez, Pansy no encontró una respuesta ingeniosa."
+        },
+        {
+          "scene": "Hermione keeps eye contact and handhold, Pansy a shy relieved smile. Robin in pram at right remains safely supported and calm.",
+          "dialogue": [
+            "Hermione: Me asusta y me emociona. Pero solo quiero estar contigo."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create a NEW complete 1024x1536 portrait Spanish comic page, seven sequential panels, fine-ink painterly anime, original individualized faces and natural older-student proportions, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 are PERMANENT Hermione/Pansy face references, not expression/pose templates. IMAGE3 is only their CURRENT Monday school uniforms, sapphire, Robin’s gray sweater and infant scale; do NOT copy that corridor or angry expressions. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin, RED-GOLD Gryffindor uniform/white shirt/gray vest/black full opaque robe. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek CHIN-LENGTH side-part bob/flat locks/straight ends/BARE EARS/GREEN-SILVER full Slytherin uniform. Same normal older-student proportions and individual faces, emotions tender/vulnerable without face drift. Hermione’s oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain on FRONT chest if visible, never yellow gold/back. ONE unique small HUMAN-LOOKING Robin BROWN curls/GREEN eyes/GRAY knitted sweater/BEIGE trousers/small ordinary cream socks, smooth skin and natural tiny fingers/thumbs, no knitted skin/seams/paws/ball feet, safe in SAND/TAN pram with GOLD SNITCH rattle/SILVER soft wings. New coherent setting separate from active class: SMALL OLD QUIET LAKESIDE GREENHOUSE on LOW STONE base, CLOUDY INTACT glass panes, OXIDIZED GREEN iron ribs, one WOODEN entry door on RIGHT, dusty WOOD potting bench with empty TERRACOTTA pots and ferns on LEFT. Pram safely parked near RIGHT door inside, H&P stand center. Warm filtered daylight, lake and distant castle visible outside. No teachers, classmates, Moly work tables or occupied class greenhouse, no other people/babies. All fully clothed in ordinary eye-level, wholesome non-graphic romantic conversation; no nudity/sexualized posing, no coerced gestures. Thin black borders, cream gutters, SMALL BLACK upper-left header, no flourishes. Render ONLY specified Spanish text values in large legible white balloons/cream captions, all accents exact, metadata speaker names never printed, logical reading order and clear tails, faces never hidden by text. No extra writing, logos, watermark or author footer; reader adds exterior credit on export.\nIMAGE4 fixes ONLY the NEW small lakeside abandoned greenhouse geometry from the previous page: left potting bench/terracotta/ferns, right wooden door and sand pram, cloudy intact glass/oxidized green ribs/low stone base, lake/castle outside. Maintain this same room and props; original Images1/2 still fix facial identities. No empty baby carriage: Robin remains safely in it whenever shown; his face can be hidden by hood angle but body must be present.\nHEADER in cream top margin exactly: «Capítulo 10 · 38».\nSTORYBOARD: [{\"scene\":\"Same small lakeside OLD greenhouse, intact cloudy glass/green oxidized ribs, LEFT dusty potting bench and empty terracotta, RIGHT door/sand pram/one Robin. H&P center in full opaque Monday uniforms, hands clasped, warm gentle light. Pansy visibly vulnerable.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"No sabía qué pensar. Tenía miedo de perderte.\"}],\"panel\":1},{\"scene\":\"Hermione gently touches Pansy’s cheek with ONE clear natural hand while other hand remains held, ordinary reassuring gesture, full clothes and equal agency.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No me interesa nadie más.\"}],\"panel\":2},{\"scene\":\"Hermione draws breath, BROWN eyes sincere, no crying melodrama, original face/freckles/curls, front sapphire/white platinum.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Me gustas, Pansy.\"}],\"panel\":3},{\"scene\":\"Pansy listens speechless, angular jaw/green slender eyes/black flat bob recognizable, warm surprised eyes, no new jewelry.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No sé en qué momento pasó. Pero quiero estar contigo.\"}],\"panel\":4},{\"scene\":\"Two-shot full uniform above waist, clear expressive eyes at ordinary conversation distance, no kissing or body emphasis.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Creo que podría estar enamorándome de ti.\"}],\"panel\":5},{\"scene\":\"Close Pansy deeply moved, no dialogue, gentle softened expression. Warm dusty light behind her, face not hidden by text.\",\"caption\":\"Por una vez, Pansy no encontró una respuesta ingeniosa.\",\"panel\":6},{\"scene\":\"Hermione keeps eye contact and handhold, Pansy a shy relieved smile. Robin in pram at right remains safely supported and calm.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Me asusta y me emociona. Pero solo quiero estar contigo.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "exec-563ff849-4fdb-4e8f-a879-39a8037a6478.png",
+            "exec-b8dd5f4d-d88f-4804-8735-26ef39c4c776.png"
+          ],
+          "generatedMaster": "exec-b7fffb4d-22df-43fc-9536-b6e483acb459.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "interesa",
+          "nadie",
+          "gustas"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 39,
+      "image": "paginas/c10-p039.webp",
+      "sourcePdfPages": [
+        304,
+        305
+      ],
+      "summary": "La respuesta de Pansy es un beso que se resuelve con elipsis. Robin celebra la tranquilidad de su familia.",
+      "editorial": "Afecto romántico no gráfico. El beso se cuenta mediante elipsis de luz y el después, sin detalles íntimos.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p039.png",
+      "generatedMaster": "exec-376fcd04-d8d6-458c-bb80-59e7f8333ebe.png",
+      "sha256": "e30fc1179a93a1a796eebcd5f6941987e78c7a7eee38d031c34c582a13807ea5",
+      "masterSha256": "a2e891663ba178c15422631fa51f3085cd4da15150a4ea240f7fcf28773c7f62",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Revisión visual final completa del PNG guardado: la cabecera SÍ está presente, al igual que todos los diálogos y cartelas. La apreciación anterior de cabecera ausente fue incorrecta; no hace falta editarla. Se conservan rostros, manos, uniformes, zafiro en platino blanco, Robin humano con jersey gris y sonaja, y el mismo invernadero. Las omisiones del OCR se contrastan con el texto visible.",
+      "transcript": "Capítulo 10 · 39\n\nLa respuesta de Pansy es un beso que se resuelve con elipsis. Robin celebra la tranquilidad de su familia.\nNarración: Pansy ya no necesitó más explicaciones.\nNarración: Toda la tensión empezó a desaparecer.\nNarración: La respuesta fue un beso, suave y sin dudas.\nNarración: El miedo había dejado sitio a algo mucho más sencillo.\nRobin: ¡Ba!\nNarración: Robin también parecía estar de acuerdo.\nNarración: Su lugar era aquel: juntas.",
+      "panels": [
+        {
+          "scene": "H&P stand together center of same OLD lakeside greenhouse, LEFT dusty bench/terracotta/ferns, RIGHT door/sand pram with ONE Robin. Full school uniforms unchanged. Pansy gives Hermione a quiet relieved smile and holds both hands, no kissing depiction.",
+          "caption": "Pansy ya no necesitó más explicaciones."
+        },
+        {
+          "scene": "Close their FOUR naturally connected hands gently clasped, green and red robe cuffs distinguish each person, no extra hands, sapphire stays on Hermione front chest if in frame.",
+          "caption": "Toda la tensión empezó a desaparecer."
+        },
+        {
+          "scene": "Scenic ELISION panel ONLY warm light through cloudy INTACT glass and oxidized GREEN frame, dust motes and lake visible. No figures in this panel, no kiss image.",
+          "caption": "La respuesta fue un beso, suave y sin dudas."
+        },
+        {
+          "scene": "AFTER the elision, H&P face each other with simple gentle smile, fully uniformed, calm ordinary close posture with FOREHEADS lightly touching, hands still held. No mouth contact, no sexualized framing, no costume change.",
+          "caption": "El miedo había dejado sitio a algo mucho más sencillo."
+        },
+        {
+          "scene": "Tiny HUMAN Robin safely in sand pram at RIGHT door grins and laughs, brown curls/GREEN eyes/gray sweater/beige trousers/cream socks, small natural fingers release gold Snitch rattle onto his lap, no toy skin.",
+          "dialogue": [
+            "Robin: ¡Ba!"
+          ]
+        },
+        {
+          "scene": "H&P both turn toward infant and laugh, normal older-student proportions and distinct original faces. Hermione reaches ONE hand toward pram, Pansy hand on handle, baby remains secure.",
+          "caption": "Robin también parecía estar de acuerdo."
+        },
+        {
+          "scene": "Wide peaceful family leaving small old greenhouse through RIGHT wooden door, Pansy pushes sand pram with ONE safe gray-sweater Robin, Hermione walks at her side holding her free hand, warm lake/castle daylight outside. Not a chapter-ending card.",
+          "caption": "Su lugar era aquel: juntas."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create a NEW complete 1024x1536 portrait Spanish comic page, seven sequential panels, fine-ink painterly anime, original individualized faces and natural older-student proportions, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 are PERMANENT Hermione/Pansy face references, not expression/pose templates. IMAGE3 is only their CURRENT Monday school uniforms, sapphire, Robin’s gray sweater and infant scale; do NOT copy that corridor or angry expressions. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin, RED-GOLD Gryffindor uniform/white shirt/gray vest/black full opaque robe. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek CHIN-LENGTH side-part bob/flat locks/straight ends/BARE EARS/GREEN-SILVER full Slytherin uniform. Same normal older-student proportions and individual faces, emotions tender/vulnerable without face drift. Hermione’s oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain on FRONT chest if visible, never yellow gold/back. ONE unique small HUMAN-LOOKING Robin BROWN curls/GREEN eyes/GRAY knitted sweater/BEIGE trousers/small ordinary cream socks, smooth skin and natural tiny fingers/thumbs, no knitted skin/seams/paws/ball feet, safe in SAND/TAN pram with GOLD SNITCH rattle/SILVER soft wings. New coherent setting separate from active class: SMALL OLD QUIET LAKESIDE GREENHOUSE on LOW STONE base, CLOUDY INTACT glass panes, OXIDIZED GREEN iron ribs, one WOODEN entry door on RIGHT, dusty WOOD potting bench with empty TERRACOTTA pots and ferns on LEFT. Pram safely parked near RIGHT door inside, H&P stand center. Warm filtered daylight, lake and distant castle visible outside. No teachers, classmates, Moly work tables or occupied class greenhouse, no other people/babies. All fully clothed in ordinary eye-level, wholesome non-graphic romantic conversation; no nudity/sexualized posing, no coerced gestures. Thin black borders, cream gutters, SMALL BLACK upper-left header, no flourishes. Render ONLY specified Spanish text values in large legible white balloons/cream captions, all accents exact, metadata speaker names never printed, logical reading order and clear tails, faces never hidden by text. No extra writing, logos, watermark or author footer; reader adds exterior credit on export.\nIMAGE4 fixes ONLY the NEW small lakeside abandoned greenhouse geometry from the previous page: left potting bench/terracotta/ferns, right wooden door and sand pram, cloudy intact glass/oxidized green ribs/low stone base, lake/castle outside. Maintain this same room and props; original Images1/2 still fix facial identities. No empty baby carriage: Robin remains safely in it whenever shown; his face can be hidden by hood angle but body must be present.\nHEADER in cream top margin exactly: «Capítulo 10 · 39».\nSTORYBOARD: [{\"scene\":\"H&P stand together center of same OLD lakeside greenhouse, LEFT dusty bench/terracotta/ferns, RIGHT door/sand pram with ONE Robin. Full school uniforms unchanged. Pansy gives Hermione a quiet relieved smile and holds both hands, no kissing depiction.\",\"caption\":\"Pansy ya no necesitó más explicaciones.\",\"panel\":1},{\"scene\":\"Close their FOUR naturally connected hands gently clasped, green and red robe cuffs distinguish each person, no extra hands, sapphire stays on Hermione front chest if in frame.\",\"caption\":\"Toda la tensión empezó a desaparecer.\",\"panel\":2},{\"scene\":\"Scenic ELISION panel ONLY warm light through cloudy INTACT glass and oxidized GREEN frame, dust motes and lake visible. No figures in this panel, no kiss image.\",\"caption\":\"La respuesta fue un beso, suave y sin dudas.\",\"panel\":3},{\"scene\":\"AFTER the elision, H&P face each other with simple gentle smile, fully uniformed, calm ordinary close posture with FOREHEADS lightly touching, hands still held. No mouth contact, no sexualized framing, no costume change.\",\"caption\":\"El miedo había dejado sitio a algo mucho más sencillo.\",\"panel\":4},{\"scene\":\"Tiny HUMAN Robin safely in sand pram at RIGHT door grins and laughs, brown curls/GREEN eyes/gray sweater/beige trousers/cream socks, small natural fingers release gold Snitch rattle onto his lap, no toy skin.\",\"dialogue\":[{\"speaker\":\"Robin\",\"text\":\"¡Ba!\"}],\"panel\":5},{\"scene\":\"H&P both turn toward infant and laugh, normal older-student proportions and distinct original faces. Hermione reaches ONE hand toward pram, Pansy hand on handle, baby remains secure.\",\"caption\":\"Robin también parecía estar de acuerdo.\",\"panel\":6},{\"scene\":\"Wide peaceful family leaving small old greenhouse through RIGHT wooden door, Pansy pushes sand pram with ONE safe gray-sweater Robin, Hermione walks at her side holding her free hand, warm lake/castle daylight outside. Not a chapter-ending card.\",\"caption\":\"Su lugar era aquel: juntas.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "exec-563ff849-4fdb-4e8f-a879-39a8037a6478.png",
+            "exec-b8dd5f4d-d88f-4804-8735-26ef39c4c776.png"
+          ],
+          "generatedMaster": "exec-376fcd04-d8d6-458c-bb80-59e7f8333ebe.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 40,
+      "image": "paginas/c10-p040.webp",
+      "sourcePdfPages": [
+        305,
+        306
+      ],
+      "summary": "En la sala común, los amigos celebran lo ocurrido. Al buscar una toallita para Robin, Blaise descubre los folletos de Elsie.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p040.png",
+      "generatedMaster": "exec-bba42d77-6b50-4059-8746-b947e074bde5.png",
+      "sha256": "7f3597e20c4d6f2a8918d62e18b8d196db553f79562d98028d0f94e5723adf78",
+      "masterSha256": "8787f2bbc9f2e1c58c2b34dbbe28ddec059e84b620ddaca0eb09f2d939d33dbf",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos, segundo intento benigno tras rechazo inicial de salida. Ocho amigos correctos, sin llegada anticipada de Draco/Astoria; cinco bebés humanos distintos, Robin gris con Pansy, gemelos azul/blanco, folletos neutros, todos los textos y sala común coherentes. Lista para incorporación consecutiva; las cabeceras de 36–39 ya estaban presentes.",
+      "transcript": "Capítulo 10 · 40\n\nEn la sala común, los amigos celebran lo ocurrido. Al buscar una toallita para Robin, Blaise descubre los folletos de Elsie.\nNarración: Más tarde, en la sala común de Slytherin…\nBlaise: ¡Nos perdimos el espectáculo!\nTheo: ¿Y de verdad dijiste «mi novia» delante de todos?\nPansy: Lo dije. Y después de ganar la competencia.\nPansy: Zabini, alcánzame una toallita del fondo del cochecito.\nSalud y consentimiento\nComunicación y respeto\nBlaise: Pansy… ¿esto también era parte de la evaluación de Robin?\nNarración: La toallita acababa de desencadenar otro desastre.",
+      "panels": [
+        {
+          "scene": "Wide established SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake silhouettes, LEFT fireplace, RIGHT curved stone staircase, GREEN velvet armchairs and one central BLACK LEATHER sofa, low wood table and thick green rug. Eight friends only: Hermione red/gold seated center black sofa, Pansy green seated on rug at her feet with Robin gray sweater safely beside her; Blaise/Daphne green in armchairs; Theo green and Luna BLUE/BRONZE nearby; Tracey green/Wayne yellow on sofa edge/rug. Baby Arianna beige/light hair BLUE eyes with Daphne; Caitlyn cream napping close to Tracey/Wayne; twins Larson brown curls BLUE eyes and Amelie light-blonde BLUE eyes in matching navy/white on soft cushions. No Draco/Astoria yet and NO Ron.",
+          "caption": "Más tarde, en la sala común de Slytherin…"
+        },
+        {
+          "scene": "Blaise dark skin/short black curls/BROWN eyes in GREEN uniform laughs with Daphne long blonde/BLUE eyes/GREEN uniform. Theo MALE short tousled brown hair/GREEN eyes/GREEN uniform leans forward amused.",
+          "dialogue": [
+            "Blaise: ¡Nos perdimos el espectáculo!",
+            "Theo: ¿Y de verdad dijiste «mi novia» delante de todos?"
+          ]
+        },
+        {
+          "scene": "Pansy black flat bob/green almond eyes on rug glances smugly toward Hermione on black sofa. Robin tiny human brown curls/GREEN eyes/GRAY sweater/beige trousers beside Pansy, supported by her forearm and cushion, not a standing toddler.",
+          "dialogue": [
+            "Pansy: Lo dije. Y después de ganar la competencia."
+          ]
+        },
+        {
+          "scene": "Robin drools a small harmless spot on gray sweater while reaching for soft wood-look magical play blocks. Pansy notices and looks toward Blaise, baby safe on cushioned rug.",
+          "dialogue": [
+            "Pansy: Zabini, alcánzame una toallita del fondo del cochecito."
+          ]
+        },
+        {
+          "scene": "Blaise reaches into lower BASKET of sand pram and finds TWO CLOSED plain educational brochures with neutral plant covers as in page22, no explicit diagrams. Show small simple titles clearly.",
+          "printed": [
+            "Salud y consentimiento",
+            "Comunicación y respeto"
+          ]
+        },
+        {
+          "scene": "Close Blaise holds CLOSED neutral brochures by covers, raises eyebrow amused, asks without exposing private contents. Daphne suppresses laugh, Luna/long pale blonde BLUE eyes watches with interest.",
+          "dialogue": [
+            "Blaise: Pansy… ¿esto también era parte de la evaluación de Robin?"
+          ]
+        },
+        {
+          "scene": "Hermione red-cheeked hides face in TWO natural hands, Pansy grimaces with ONE clear hand over forehead while other supports Robin. Friends amused, babies safe. No words from explicit original book.",
+          "caption": "La toallita acababa de desencadenar otro desastre."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait, seven sequential panels, fine-ink painterly anime with normal older-student proportions and original individual faces, NOT chibi/3D/large-headed. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 PERMANENT Hermione/Pansy face/style. IMAGE3 ONLY fixes the EXISTING Slytherin common-room architecture/individual friend faces/twins; DO NOT copy its Saturday travel clothes. IMAGE4 ONLY fixes LUNA long PALE-BLONDE waves/BLUE eyes/BLUE-BRONZE RAVENCLAW uniform and THEO MALE short tousled brown curls/GREEN eyes/GREEN Slytherin uniform, not its old chibi H&P. IMAGE5 ONLY current Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN uniform and Wayne MALE short light-brown waves/YELLOW Hufflepuff, plus Blaise dark skin/SHORT BLACK curls/BROWN eyes/GREEN and Daphne LONG BLONDE/BLUE eyes/GREEN. All now in SAME Monday full opaque school uniforms, no travel outfits/gala gowns/pajamas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose/lips/cheeks/chin/RED-GOLD full Gryffindor uniform, sapphire oval midnight-blue/clear diamond halo/fine WHITE PLATINUM chain FRONT chest if visible. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK flat sleek CHIN-LENGTH side bob/BARE EARS/GREEN-SILVER full uniform. ASTORIA LONG BROWN waves/BLUE-GRAY eyes/GREEN uniform, DRACO platinum/blue-gray/GREEN when they arrive. Characters remain distinct, same older-student age and proportions, warm/embarrassed/funny expressions without face cloning. Coherent SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake creature silhouettes, LEFT FIREPLACE, RIGHT curved stone stairs/dorm entry, existing GREEN velvet armchairs and CENTRAL BLACK LEATHER SOFA, low wood table and thick GREEN padded rug. Safely supported HUMAN-LOOKING small infants with smooth skin/individual tiny fingers/thumbs/natural limbs, no fabric skin/seams/paw hands/stuffed-ball feet; knit texture ONLY clothes. Robin BROWN curls/GREEN eyes/GRAY sweater/BEIGE trousers/cream socks; Arianna light hair/BLUE eyes/BEIGE; Caitlyn cream/closed-eyed content expression; twins Larson BROWN curls/BLUE eyes and Amelie LIGHT-BLONDE/BLUE eyes in MATCHING NAVY-WHITE outfits; Scorpius PLATINUM/BLUE-GRAY/CREAM with Draco when introduced. Each unique, stable small scale, safe on nearby-parent cushions/arms, no duplicate infant. Actual blocks/teddy/dragon toys stay toys. CLOSED neutral brochures only, covers «Salud y consentimiento» and «Comunicación y respeto», no explicit contents or body diagrams. Friendly fully clothed school/family comedy, no sexualized framing or intimate details. NO RON, no Harry/Ginny, no teachers. Thin black panel frames/cream gutters, SMALL BLACK upper-left header, no flourish. Every specified Spanish TEXT value verbatim with accents in readable white balloons/cream captions; speaker metadata ONLY determines tails, never print names/labels. Logical reading order, all faces visible, no added dialogue. No new logos, watermark or author footer; reader handles exterior export credit.\nHEADER in cream top margin exactly: «Capítulo 10 · 40».\nSTORYBOARD: [{\"scene\":\"Wide established SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake silhouettes, LEFT fireplace, RIGHT curved stone staircase, GREEN velvet armchairs and one central BLACK LEATHER sofa, low wood table and thick green rug. Eight friends only: Hermione red/gold seated center black sofa, Pansy green seated on rug at her feet with Robin gray sweater safely beside her; Blaise/Daphne green in armchairs; Theo green and Luna BLUE/BRONZE nearby; Tracey green/Wayne yellow on sofa edge/rug. Baby Arianna beige/light hair BLUE eyes with Daphne; Caitlyn cream napping close to Tracey/Wayne; twins Larson brown curls BLUE eyes and Amelie light-blonde BLUE eyes in matching navy/white on soft cushions. No Draco/Astoria yet and NO Ron.\",\"caption\":\"Más tarde, en la sala común de Slytherin…\",\"panel\":1},{\"scene\":\"Blaise dark skin/short black curls/BROWN eyes in GREEN uniform laughs with Daphne long blonde/BLUE eyes/GREEN uniform. Theo MALE short tousled brown hair/GREEN eyes/GREEN uniform leans forward amused.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"¡Nos perdimos el espectáculo!\"},{\"speaker\":\"Theo\",\"text\":\"¿Y de verdad dijiste «mi novia» delante de todos?\"}],\"panel\":2},{\"scene\":\"Pansy black flat bob/green almond eyes on rug glances smugly toward Hermione on black sofa. Robin tiny human brown curls/GREEN eyes/GRAY sweater/beige trousers beside Pansy, supported by her forearm and cushion, not a standing toddler.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Lo dije. Y después de ganar la competencia.\"}],\"panel\":3},{\"scene\":\"Robin drools a small harmless spot on gray sweater while reaching for soft wood-look magical play blocks. Pansy notices and looks toward Blaise, baby safe on cushioned rug.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Zabini, alcánzame una toallita del fondo del cochecito.\"}],\"panel\":4},{\"scene\":\"Blaise reaches into lower BASKET of sand pram and finds TWO CLOSED plain educational brochures with neutral plant covers as in page22, no explicit diagrams. Show small simple titles clearly.\",\"printed\":[\"Salud y consentimiento\",\"Comunicación y respeto\"],\"panel\":5},{\"scene\":\"Close Blaise holds CLOSED neutral brochures by covers, raises eyebrow amused, asks without exposing private contents. Daphne suppresses laugh, Luna/long pale blonde BLUE eyes watches with interest.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"Pansy… ¿esto también era parte de la evaluación de Robin?\"}],\"panel\":6},{\"scene\":\"Hermione red-cheeked hides face in TWO natural hands, Pansy grimaces with ONE clear hand over forehead while other supports Robin. Friends amused, babies safe. No words from explicit original book.\",\"caption\":\"La toallita acababa de desencadenar otro desastre.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p016-personajes-v4.webp",
+            "paginas/c07-p003-color-v2.webp",
+            "paginas/c08-p028-diseno-v3.webp"
+          ],
+          "selected": false,
+          "failureCode": "moderation_blocked",
+          "failureDescription": "Rechazo de salida por la herramienta, categoría other; no se generó imagen seleccionable."
+        },
+        {
+          "prompt": "Use case: illustration-story. Draw one NEW complete 1024x1536 Spanish school fantasy comic with SEVEN panels showing a relaxed gathering of friends and their magical project infants. Ordinary family comedy, everyone in full opaque school uniforms. IMAGE1 and IMAGE2 fix Hermione's original chestnut curly hair/BROWN eyes/freckles/red-gold uniform and Pansy's original BLACK flat chin bob/GREEN almond eyes/ANGULAR jaw/bare ears/green-silver uniform. Keep normal older-student proportions and original distinct faces, not chibi. IMAGE3 supplies ONLY common-room stone arches/blue-green underwater windows/left fireplace/right stair/green chairs, friend faces and twins. IMAGE4 supplies current green/yellow school uniforms and Tracey high brown ponytail/Wayne short light-brown hair, Blaise dark skin/short black curls, Daphne long blonde/blue eyes. Theo is MALE short tousled brown hair/GREEN eyes/green uniform; Luna long pale-blonde/BLUE eyes/BLUE-BRONZE uniform. Do not copy old travel outfits. Central BLACK LEATHER sofa, low wood table and green padded play rug, all eight friends H/P/Blaise/Daphne/Theo/Luna/Tracey/Wayne only. No Ron or teachers. Small HUMAN-looking fully clothed infants with smooth skin/natural tiny fingers, each safely supported on cushions by parents: Robin brown curls/GREEN eyes/GRAY sweater/beige trousers; Arianna light hair/BLUE/beige; Caitlyn cream/eyes closed; twins brown-haired Larson and pale-blonde Amelie, BLUE eyes/matching navy-white. No duplicate baby. Two CLOSED plain plant-cover brochures, exact neutral titles below. Small BLACK top-left header exactly «Capítulo 10 · 40», thin black panel borders, narrow cream gutters, large readable Spanish lettering. Print ONLY specified text values, all accents, no speaker metadata or extra dialogue. All faces visible and natural hands. Hermione sapphire with diamond halo/WHITE PLATINUM chain on FRONT chest. No additional text/logo/watermark. Follow this storyboard: [{\"scene\":\"Wide established SLYTHERIN COMMON ROOM: stone Gothic arches, BLUE-GREEN underwater windows with lake silhouettes, LEFT fireplace, RIGHT curved stone staircase, GREEN velvet armchairs and one central BLACK LEATHER sofa, low wood table and thick green rug. Eight friends only: Hermione red/gold seated center black sofa, Pansy green seated on rug at her feet with Robin gray sweater safely beside her; Blaise/Daphne green in armchairs; Theo green and Luna BLUE/BRONZE nearby; Tracey green/Wayne yellow on sofa edge/rug. Baby Arianna beige/light hair BLUE eyes with Daphne; Caitlyn cream napping close to Tracey/Wayne; twins Larson brown curls BLUE eyes and Amelie light-blonde BLUE eyes in matching navy/white on soft cushions. No Draco/Astoria yet and NO Ron.\",\"caption\":\"Más tarde, en la sala común de Slytherin…\",\"panel\":1},{\"scene\":\"Blaise dark skin/short black curls/BROWN eyes in GREEN uniform laughs with Daphne long blonde/BLUE eyes/GREEN uniform. Theo MALE short tousled brown hair/GREEN eyes/GREEN uniform leans forward amused.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"¡Nos perdimos el espectáculo!\"},{\"speaker\":\"Theo\",\"text\":\"¿Y de verdad dijiste «mi novia» delante de todos?\"}],\"panel\":2},{\"scene\":\"Pansy black flat bob/green almond eyes on rug glances smugly toward Hermione on black sofa. Robin tiny human brown curls/GREEN eyes/GRAY sweater/beige trousers beside Pansy, supported by her forearm and cushion, not a standing toddler.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Lo dije. Y después de ganar la competencia.\"}],\"panel\":3},{\"scene\":\"Robin drools a small harmless spot on gray sweater while reaching for soft wood-look magical play blocks. Pansy notices and looks toward Blaise, baby safe on cushioned rug.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Zabini, alcánzame una toallita del fondo del cochecito.\"}],\"panel\":4},{\"scene\":\"Blaise reaches into lower BASKET of sand pram and finds TWO CLOSED plain educational brochures with neutral plant covers as in page22, no explicit diagrams. Show small simple titles clearly.\",\"printed\":[\"Salud y consentimiento\",\"Comunicación y respeto\"],\"panel\":5},{\"scene\":\"Close Blaise holds CLOSED neutral brochures by covers, raises eyebrow amused, asks without exposing private contents. Daphne suppresses laugh, Luna/long pale blonde BLUE eyes watches with interest.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"Pansy… ¿esto también era parte de la evaluación de Robin?\"}],\"panel\":6},{\"scene\":\"Hermione red-cheeked hides face in TWO natural hands, Pansy grimaces with ONE clear hand over forehead while other supports Robin. Friends amused, babies safe. No additional dialogue.\",\"caption\":\"La toallita acababa de desencadenar otro desastre.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p016-personajes-v4.webp",
+            "paginas/c08-p028-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-bba42d77-6b50-4059-8746-b947e074bde5.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "acababa",
+          "desencadenar",
+          "desastre"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    }
+  ]
+}

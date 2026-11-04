@@ -13,14 +13,14 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 7 | ¡Ha nacido un Parkinson! | 18 | 18 |
 | 8 | La Familia Parkinson | 33 | 33 |
 | 9 | Esmoquin, pañales y alta sociedad | 37 | 37 |
-| 10 | Rivales | 44 | 30 |
+| 10 | Rivales | 44 | 40 |
 | 11 | Anatomía de un Rumor | 44 | 0 |
 | 12 | Parkinson's Christmas | 95 | 0 |
 | 13 | La Dolce Vita | 88 | 0 |
 
 Herramienta: ImageGen integrada. Las imágenes publicadas se revisan antes de incorporarlas. La portada no cuenta como página de capítulo.
 
-Total: **245 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
+Total: **255 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
 
 La revisión del 3 de noviembre dejó 11 correcciones pendientes por el límite de uso de ImageGen y cinco páginas cuya edición fue rechazada por la herramienta. El [registro histórico](REVISION-CAPITULOS-02-09.md) enumera los casos originales.
 
@@ -33,3 +33,9 @@ Se incorporan las páginas 7–14 del capítulo 10, revisadas con ImageGen integ
 Se incorporan las páginas 15–22 del capítulo 10, revisadas con ImageGen integrada y OCR adicional. El capítulo tiene 22 páginas ilustradas y sigue en elaboración. [Prompts, guion y versiones](prompts-capitulo-10-paginas-15-22.json).
 
 Se incorporan las páginas 23–30 del capítulo 10, revisadas con ImageGen integrada y OCR adicional. El capítulo tiene 30 páginas ilustradas y sigue en elaboración. [Prompts, guion y versiones](prompts-capitulo-10-paginas-23-30.json).
+
+Se incorporan las páginas 31–35 del capítulo 10, revisadas con ImageGen integrada y OCR adicional. El capítulo tiene 35 páginas ilustradas y sigue en elaboración. [Prompts, guion y versiones](prompts-capitulo-10-paginas-31-35.json).
+
+Las páginas 41–44 están generadas como borradores y pendientes de los ajustes finales descritos en el [registro de continuación](CONTINUACION-CAPITULO-10.md). No se cuentan como publicadas. ImageGen alcanzó el límite de uso el 4 de noviembre e informó disponibilidad para el 5 de noviembre de 2026 a las 06:50:11 de Bogotá. Los capítulos 11–13 siguen pendientes de ilustración.
+
+Se incorporan las páginas 36–40 del capítulo 10, revisadas con ImageGen integrada y OCR adicional. El capítulo tiene 40 páginas ilustradas y sigue en elaboración. [Prompts, guion y versiones](prompts-capitulo-10-paginas-36-40.json).
