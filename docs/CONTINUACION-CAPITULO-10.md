@@ -16,3 +16,16 @@ Los rostros se apoyan siempre en los originales del capítulo 1, además de las 
 La última viñeta enlaza con la llegada de Markus al desayuno. La continuación pendiente comienza en la página 256 del PDF, con su saludo a la familia y la conversación sobre las repercusiones de la fiesta.
 
 Los [prompts, transcripciones y archivos](prompts-capitulo-10-paginas-01-06.json) registran también las correcciones de Nodky, collar, globos, cabecera y vestuario. Los maestros se conservan en el espacio de trabajo y el lector recibe las versiones WebP. Las copias y descargas usan el crédito automático de la autora.
+
+## Correcciones señaladas el 3 de noviembre de 2026
+
+El usuario identificó un problema en los brazos de Pansy en la página 2 y apariencia de peluche en los bebés de las páginas 3–5. Las cuatro páginas se corrigieron el 4 de noviembre de 2026 con ImageGen integrada.
+
+- Página 2: Pansy observa el espejo con ambos brazos relajados y reflejo coherente; la quinta viñeta mantiene dos brazos cruzados conectados correctamente. Se descartó la primera candidata porque aún deformaba el brazo junto al cabello.
+- Página 3: Robin recupera apariencia humana sobre el regazo de Eirena en la última viñeta.
+- Página 4: Robin y Scorpius mantienen sus caras, colores y portadores distintos, con manos con dedos y piernas y pies infantiles; se conserva la acción del brioche y el pavo real.
+- Página 5: Robin mantiene el conjunto azul/beige y el regazo de Eirena, con piel suave y anatomía infantil.
+
+Los bebés deben mantener apariencia humana, piel suave, manos con dedos y extremidades infantiles. Se conserva el tejido de sus prendas, el vestuario azul/beige de Robin, el crema de Scorpius, las caras, colores de ojos, tamaños, portadores, escenarios y todos los diálogos.
+
+Los [prompts de corrección y sus resultados](prompts-correccion-capitulo-10-paginas-02-05.json) incluyen los originales, maestros, huellas, revisión y el segundo ajuste de la página 2. Tras el bloqueo inicial por límite de uso se obtuvieron cuatro versiones aceptadas. Cada página se comprobó completa y con OCR adicional; el ruido de reconocimiento en el encabezado de la página 4 se contrastó visualmente. Las nuevas imágenes usan el sufijo `-anatomia-v2.webp`. Se conservan todos los originales, las 221 páginas, las transcripciones y los demás campos del manifiesto. Se comprueban carga de las cuatro imágenes, navegación, PC/móvil y exportación con crédito en el pie exterior. Los prompts iniciales permanecen como historial.

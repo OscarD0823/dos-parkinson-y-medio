@@ -1,0 +1,197 @@
+{
+  "chapter": 10,
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "mode": "Edición puntual de originales con ImageGen integrada; cuatro resultados revisados.",
+  "sourceCommit": "ca5af25dff69aa3279626c3435d2123f4a916cb1",
+  "reportedByUser": "Página 2: brazos de Pansy. Páginas 3–5: bebés con apariencia de peluche en el regazo.",
+  "causeObserved": "Los prompts anteriores describían al bebé como CLOTH SCHOOL TOY y mostraron piel de tejido, manos redondeadas sin dedos y pies de peluche. Esa descripción se conserva como registro histórico, pero no debe reutilizarse como criterio visual.",
+  "visualRule": "En la historia son bebés mágicos del proyecto escolar, pero su apariencia dibujada es la de un bebé humano. Tejido solo en prendas, piel suave en cara y manos; anatomía infantil natural, edad y tamaño estables. Robin y Scorpius mantienen sus diseños distintos.",
+  "resetReported": "2026-11-04T00:44:15-05:00",
+  "publishedCorrections": 4,
+  "pages": [
+    {
+      "key": "c10_p002",
+      "page": 2,
+      "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 02', seven panels. Correct ONLY PANSY'S ARM ANATOMY in the TOP wide mirror panel and the FIFTH panel (left of the fourth row, where she speaks «Gracias, Nodky. Llévalo con mi madre antes de que suba ella misma.»). TOP panel: Pansy must have exactly TWO connected arms, each with one elbow, one forearm, one wrist and one hand. Simplify the grooming pose so ONE hand gently straightens the hair at the side of her head, while the OTHER arm hangs naturally relaxed at her side; remove the ambiguous extra bent segment/hand behind the neck. Her golden mirror reflection must match the corrected real pose and anatomy. FIFTH panel: redraw just the arms as a clear natural two-arm fold across her chest, both shoulders and elbows connected correctly, one hand resting on the opposite upper arm and the other tucked beneath the opposite elbow, no extra limb, sleeve, cuff or hand. Keep her black opaque long-sleeved gold-piped pajamas, torso/head/face, expression and position. All other figures, including Hermione, young brown-haired Nodky and Robin, and every other pixel's appearance must remain as before. Keep all seven panels and every word legible and complete.",
+      "chapter": 10,
+      "originalImage": "paginas/c10-p002.webp",
+      "versionedImage": "paginas/c10-p002-anatomia-v2.webp",
+      "references": [
+        "paginas/c10-p002.webp"
+      ],
+      "status": "accepted",
+      "reviewRequired": [
+        "Anatomía y apoyos naturales",
+        "Todos los diálogos, globos y viñetas completos",
+        "Rostros, ropa, joyas, portadores, entorno y escala conservados",
+        "Página completa 1024 × 1536 y original intacto"
+      ],
+      "resultImage": "paginas/c10-p002-anatomia-v2.webp",
+      "originalSha256": "b2a5be5e5b5f657bf1ac2fa2bb858193481f3e9004393f4dc5382929ada85159",
+      "master": "c10-p002-anatomia-v2.png",
+      "workingMaster": ".local/maestros/capitulo-10-anatomia-2026-11-04/c10-p002-anatomia-v2.png",
+      "generatedMaster": "exec-cdda05ff-c5cb-4729-814e-c9d8adaa4187.png",
+      "sha256": "2256cece1c37665ab36598da81e180e57dc1984b1e214ba42c0fc5c414acc51b",
+      "masterSha256": "b897f52d75d5c7cb504f0faa82c2731ee2681dbd5cc2f6ba7b2b8641a7383594",
+      "width": 1024,
+      "height": 1536,
+      "review": "Siete viñetas y texto completo. Se simplifica la pose ante el espejo a ambos brazos relajados, con reflejo coherente; brazos cruzados con dos extremidades conectadas. Se descarta la primera candidata por un brazo todavía incorrecto. OCR final sin palabras faltantes.",
+      "attempts": [
+        {
+          "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 02', seven panels. Correct ONLY PANSY'S ARM ANATOMY in the TOP wide mirror panel and the FIFTH panel (left of the fourth row, where she speaks «Gracias, Nodky. Llévalo con mi madre antes de que suba ella misma.»). TOP panel: Pansy must have exactly TWO connected arms, each with one elbow, one forearm, one wrist and one hand. Simplify the grooming pose so ONE hand gently straightens the hair at the side of her head, while the OTHER arm hangs naturally relaxed at her side; remove the ambiguous extra bent segment/hand behind the neck. Her golden mirror reflection must match the corrected real pose and anatomy. FIFTH panel: redraw just the arms as a clear natural two-arm fold across her chest, both shoulders and elbows connected correctly, one hand resting on the opposite upper arm and the other tucked beneath the opposite elbow, no extra limb, sleeve, cuff or hand. Keep her black opaque long-sleeved gold-piped pajamas, torso/head/face, expression and position. All other figures, including Hermione, young brown-haired Nodky and Robin, and every other pixel's appearance must remain as before. Keep all seven panels and every word legible and complete.",
+          "references": [
+            "paginas/c10-p002.webp"
+          ],
+          "generatedMaster": "exec-54e5ba37-840f-4e0d-836d-5864b0f56e86.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Edit ONLY the TOP-RIGHT Pansy figure and its mirror reflection in this finished full Spanish comic page 'Capítulo 10 · 02'. There is still an anatomical fault: the hand at the hair seems attached to the top of a long dangling sleeve. SIMPLIFY: Pansy stands facing her reflection with BOTH ARMS RELAXED DOWN AT HER SIDES. Remove COMPLETELY the raised hand by her hair and every raised-arm fragment near her head. Both hands are below her waist, naturally outside the lower edge of this top panel; do not draw any hand near her head, shoulder or chest. Each arm starts at its own shoulder, hangs down naturally with exactly one elbow, a single forearm/wrist inside the same long black pajama sleeve; clear natural black-pajama silhouette, no stray limb. Her golden mirror reflection shows the SAME relaxed-down arm pose. Keep her exact existing head, sleek bob, face, expression, body proportions, opaque black/gold pajama outfit, location, and mirror frame. Leave the already-corrected folded-arm Pansy in the FIFTH panel entirely unchanged. Preserve ALL other drawing, Hermione, Nodky, Robin, all seven panels and edges, every Spanish word/balloon/caption/accent and the header, at exactly the original 1024x1536. No watermark or new text.",
+          "references": [
+            "exec-54e5ba37-840f-4e0d-836d-5864b0f56e86.png"
+          ],
+          "generatedMaster": "exec-cdda05ff-c5cb-4729-814e-c9d8adaa4187.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Todas las palabras y viñetas contrastadas con el original.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": []
+      }
+    },
+    {
+      "key": "c10_p003",
+      "page": 3,
+      "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 03', six panels. Change ONLY ROBIN in the BOTTOM-RIGHT final breakfast panel, sitting on EIRENA'S lap. The enchanted babies must visually read as HUMAN INFANTS within the existing illustrated style. Preserve their current small infant age, recognizable face, hair and iris color, head/body scale and identity. Natural smooth illustrated human skin on face, hands and any exposed feet; little wrists and individual fingers, thumbs, natural infant limbs and knees/ankles. Preserve all opaque clothing and coverage. KNIT TEXTURE belongs ONLY on clothing, never on skin. Replace crocheted mitten/paw hands, oval stuffed-ball feet, stuffed fabric body contours, visible cloth seams and teddy-bear/crochet skin with natural infant anatomy. Do not turn them into animals, plush toys, mannequins, toddlers or photorealistic collages. Each infant remains securely supported by the SAME adult in the SAME location and pose/action, with no duplicate infant. ROBIN retains BROWN little curls and GREEN eyes, the same SKY-BLUE knitted cardigan with its existing buttons and BEIGE full trousers. His hands should be small natural skin hands emerging from the sleeves; feet can remain covered by ordinary small infant socks/booties with natural foot proportions, never giant beige round crochet paws. Keep his cheerful upward gaze, Eirena's supportive arm/hand at his abdomen, his lap position, and the exact baby scale. Do not alter mature Eirena's face/black low chignon/pale-blue blouse/beige skirt, the two students' faces/clothes/neck scarf/sapphire, or any other panel. Preserve the exact final two greetings and their balloon tails.",
+      "chapter": 10,
+      "originalImage": "paginas/c10-p003.webp",
+      "versionedImage": "paginas/c10-p003-anatomia-v2.webp",
+      "references": [
+        "paginas/c10-p003.webp"
+      ],
+      "status": "accepted",
+      "reviewRequired": [
+        "Anatomía y apoyos naturales",
+        "Todos los diálogos, globos y viñetas completos",
+        "Rostros, ropa, joyas, portadores, entorno y escala conservados",
+        "Página completa 1024 × 1536 y original intacto"
+      ],
+      "resultImage": "paginas/c10-p003-anatomia-v2.webp",
+      "originalSha256": "89d166734bcb15f87f597a4fb39c3b8ef8c4e3340ba0af92524a496d2264bfaf",
+      "master": "c10-p003-anatomia-v2.png",
+      "workingMaster": ".local/maestros/capitulo-10-anatomia-2026-11-04/c10-p003-anatomia-v2.png",
+      "generatedMaster": "exec-8a62fb6a-3cdd-4c5b-941e-bd07439b8ed1.png",
+      "sha256": "cbc23d3ee7f790965cd229f74c417084f1566e6d4259e4121394813834452ddf",
+      "masterSha256": "966a30e7d65960eabf9c6d48cd6fc9b07f613e7f4df983389539be113c90857b",
+      "width": 1024,
+      "height": 1536,
+      "review": "Seis viñetas completas. Robin recupera piel suave, manos con dedos y piernas infantiles dentro del mismo conjunto azul y beige; Eirena mantiene el apoyo, identidad y atuendo. Todos los textos y escenarios contrastados visualmente.",
+      "attempts": [
+        {
+          "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 03', six panels. Change ONLY ROBIN in the BOTTOM-RIGHT final breakfast panel, sitting on EIRENA'S lap. The enchanted babies must visually read as HUMAN INFANTS within the existing illustrated style. Preserve their current small infant age, recognizable face, hair and iris color, head/body scale and identity. Natural smooth illustrated human skin on face, hands and any exposed feet; little wrists and individual fingers, thumbs, natural infant limbs and knees/ankles. Preserve all opaque clothing and coverage. KNIT TEXTURE belongs ONLY on clothing, never on skin. Replace crocheted mitten/paw hands, oval stuffed-ball feet, stuffed fabric body contours, visible cloth seams and teddy-bear/crochet skin with natural infant anatomy. Do not turn them into animals, plush toys, mannequins, toddlers or photorealistic collages. Each infant remains securely supported by the SAME adult in the SAME location and pose/action, with no duplicate infant. ROBIN retains BROWN little curls and GREEN eyes, the same SKY-BLUE knitted cardigan with its existing buttons and BEIGE full trousers. His hands should be small natural skin hands emerging from the sleeves; feet can remain covered by ordinary small infant socks/booties with natural foot proportions, never giant beige round crochet paws. Keep his cheerful upward gaze, Eirena's supportive arm/hand at his abdomen, his lap position, and the exact baby scale. Do not alter mature Eirena's face/black low chignon/pale-blue blouse/beige skirt, the two students' faces/clothes/neck scarf/sapphire, or any other panel. Preserve the exact final two greetings and their balloon tails.",
+          "references": [
+            "paginas/c10-p003.webp"
+          ],
+          "generatedMaster": "exec-8a62fb6a-3cdd-4c5b-941e-bd07439b8ed1.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Todas las palabras y viñetas contrastadas con el original.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": []
+      }
+    },
+    {
+      "key": "c10_p004",
+      "page": 4,
+      "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 04', seven panels. Change ONLY the TWO existing babies: ROBIN in the TOP-LEFT panel on EIRENA'S lap, and SCORPIUS in the FOURTH wide family panel held by ASTORIA beside Draco and Narcissa. The enchanted babies must visually read as HUMAN INFANTS within the existing illustrated style. Preserve their current small infant age, recognizable face, hair and iris color, head/body scale and identity. Natural smooth illustrated human skin on face, hands and any exposed feet; little wrists and individual fingers, thumbs, natural infant limbs and knees/ankles. Preserve all opaque clothing and coverage. KNIT TEXTURE belongs ONLY on clothing, never on skin. Replace crocheted mitten/paw hands, oval stuffed-ball feet, stuffed fabric body contours, visible cloth seams and teddy-bear/crochet skin with natural infant anatomy. Do not turn them into animals, plush toys, mannequins, toddlers or photorealistic collages. Each infant remains securely supported by the SAME adult in the SAME location and pose/action, with no duplicate infant. ROBIN: BROWN baby curls/GREEN eyes, SKY-BLUE knitted cardigan with same existing buttons and BEIGE trousers; same raised waving arms, now natural infant hands with individual fingers rather than knitted round mittens, and feet with ordinary small baby socks/booties in natural foot proportions rather than giant round plush balls. SCORPIUS is a DISTINCT baby: PLATINUM-BLOND baby curls/BLUE-GRAY eyes and his existing CREAM knitted outfit. Keep his forward-reaching hand holding the SAME brioche toward the SAME white peacock. Correct only stuffed anatomy and fabric skin; natural tiny skin hands with fingers and natural foot proportions. Eirena still supports Robin, Astoria still supports Scorpius. Do not change any adult face, outfit, hand, Cassiopeia/carrot/hat, peacock, breakfast table, scene, caption or speech balloon. All seven panels stay complete.",
+      "chapter": 10,
+      "originalImage": "paginas/c10-p004.webp",
+      "versionedImage": "paginas/c10-p004-anatomia-v2.webp",
+      "references": [
+        "paginas/c10-p004.webp"
+      ],
+      "status": "accepted",
+      "reviewRequired": [
+        "Anatomía y apoyos naturales",
+        "Todos los diálogos, globos y viñetas completos",
+        "Rostros, ropa, joyas, portadores, entorno y escala conservados",
+        "Página completa 1024 × 1536 y original intacto"
+      ],
+      "resultImage": "paginas/c10-p004-anatomia-v2.webp",
+      "originalSha256": "165e2ec27eb9689e59eed8dc1234c6c7cfc79cafd9522286ccfda53022b567b0",
+      "master": "c10-p004-anatomia-v2.png",
+      "workingMaster": ".local/maestros/capitulo-10-anatomia-2026-11-04/c10-p004-anatomia-v2.png",
+      "generatedMaster": "exec-2e7c1ece-0bc2-438f-8fa1-edcd9ab7d043.png",
+      "sha256": "41523f7ba86e3281292f36c1e54e6b1727aba80f7fa303e7c3a565bb6389aa25",
+      "masterSha256": "3c73dfbb0bd8a88840aaa863531b0a07996254e3d0c37436eaf3917c603e4045",
+      "width": 1024,
+      "height": 1536,
+      "review": "Siete viñetas completas. Robin y Scorpius mantienen pelo/ojos distintos y sus portadores; ambos tienen manos con dedos y piernas/pies infantiles naturales. Se conservan ropa, brioche, pavo real, reparto adulto y todos los textos. OCR: el único candidato faltante es ruido del encabezado; todas las palabras reales están visibles.",
+      "attempts": [
+        {
+          "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 04', seven panels. Change ONLY the TWO existing babies: ROBIN in the TOP-LEFT panel on EIRENA'S lap, and SCORPIUS in the FOURTH wide family panel held by ASTORIA beside Draco and Narcissa. The enchanted babies must visually read as HUMAN INFANTS within the existing illustrated style. Preserve their current small infant age, recognizable face, hair and iris color, head/body scale and identity. Natural smooth illustrated human skin on face, hands and any exposed feet; little wrists and individual fingers, thumbs, natural infant limbs and knees/ankles. Preserve all opaque clothing and coverage. KNIT TEXTURE belongs ONLY on clothing, never on skin. Replace crocheted mitten/paw hands, oval stuffed-ball feet, stuffed fabric body contours, visible cloth seams and teddy-bear/crochet skin with natural infant anatomy. Do not turn them into animals, plush toys, mannequins, toddlers or photorealistic collages. Each infant remains securely supported by the SAME adult in the SAME location and pose/action, with no duplicate infant. ROBIN: BROWN baby curls/GREEN eyes, SKY-BLUE knitted cardigan with same existing buttons and BEIGE trousers; same raised waving arms, now natural infant hands with individual fingers rather than knitted round mittens, and feet with ordinary small baby socks/booties in natural foot proportions rather than giant round plush balls. SCORPIUS is a DISTINCT baby: PLATINUM-BLOND baby curls/BLUE-GRAY eyes and his existing CREAM knitted outfit. Keep his forward-reaching hand holding the SAME brioche toward the SAME white peacock. Correct only stuffed anatomy and fabric skin; natural tiny skin hands with fingers and natural foot proportions. Eirena still supports Robin, Astoria still supports Scorpius. Do not change any adult face, outfit, hand, Cassiopeia/carrot/hat, peacock, breakfast table, scene, caption or speech balloon. All seven panels stay complete.",
+          "references": [
+            "paginas/c10-p004.webp"
+          ],
+          "generatedMaster": "exec-2e7c1ece-0bc2-438f-8fa1-edcd9ab7d043.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Todas las palabras y viñetas contrastadas con el original.",
+        "ocrMissingCandidates": [
+          "klitll"
+        ],
+        "ocrAddedCandidates": []
+      }
+    },
+    {
+      "key": "c10_p005",
+      "page": 5,
+      "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 05', seven panels. Change ONLY ROBIN in the BOTTOM-LEFT sixth panel under «Eirena escuchaba con una discreta sonrisa.». The enchanted babies must visually read as HUMAN INFANTS within the existing illustrated style. Preserve their current small infant age, recognizable face, hair and iris color, head/body scale and identity. Natural smooth illustrated human skin on face, hands and any exposed feet; little wrists and individual fingers, thumbs, natural infant limbs and knees/ankles. Preserve all opaque clothing and coverage. KNIT TEXTURE belongs ONLY on clothing, never on skin. Replace crocheted mitten/paw hands, oval stuffed-ball feet, stuffed fabric body contours, visible cloth seams and teddy-bear/crochet skin with natural infant anatomy. Do not turn them into animals, plush toys, mannequins, toddlers or photorealistic collages. Each infant remains securely supported by the SAME adult in the SAME location and pose/action, with no duplicate infant. Robin keeps his BROWN little curls/GREEN eyes, SKY-BLUE knitted cardigan and existing small buttons, BEIGE full trousers, cheerful face, lap position and infant size. Replace beige crocheted/round mitten hands and plush-ball lower limbs with natural infant anatomy: small smooth skin hands with fingers and thumb emerging from cuffs, natural bent little legs inside the same beige trousers, and feet in ordinary small socks/booties with natural foot proportions. Eirena's existing supporting arm holds him securely; she keeps the same teacup pose, mature face, black low chignon, pearl earrings and pale-blue blouse/beige skirt. Do not alter anyone else, Cassiopeia's distant carrot, the sapphire, strawberry, breakfast props or ANY lettering or panel.",
+      "chapter": 10,
+      "originalImage": "paginas/c10-p005.webp",
+      "versionedImage": "paginas/c10-p005-anatomia-v2.webp",
+      "references": [
+        "paginas/c10-p005.webp"
+      ],
+      "status": "accepted",
+      "reviewRequired": [
+        "Anatomía y apoyos naturales",
+        "Todos los diálogos, globos y viñetas completos",
+        "Rostros, ropa, joyas, portadores, entorno y escala conservados",
+        "Página completa 1024 × 1536 y original intacto"
+      ],
+      "resultImage": "paginas/c10-p005-anatomia-v2.webp",
+      "originalSha256": "28c40ce56af1bcb92ac7b2f19ef69120e36a3ca628f4d49934424e1511d81302",
+      "master": "c10-p005-anatomia-v2.png",
+      "workingMaster": ".local/maestros/capitulo-10-anatomia-2026-11-04/c10-p005-anatomia-v2.png",
+      "generatedMaster": "exec-915b5140-6f67-426d-88cf-86496b6f926f.png",
+      "sha256": "1a4096689e8e3b3df106ce0952c3476057c62a00e3d7166a50c5f69111d1bca5",
+      "masterSha256": "447d0476c38f472bee199372fedde2b4b6f9204fc0d7fa370cdc7a35966cb55d",
+      "width": 1024,
+      "height": 1536,
+      "review": "Siete viñetas y todos los textos contrastados visualmente. Robin tiene piel suave, manos con dedos, cuerpo infantil y ropa azul/beige; permanece sobre el regazo de Eirena. Personajes adultos, collar, desayuno y escenario conservados.",
+      "attempts": [
+        {
+          "prompt": "Use case: precise-object-edit. Edit this supplied COMPLETE Spanish illustrated comic page in place. Output the same entire 1024x1536 portrait, with all current panels, original small black chapter/page header, cream margins, exact panel borders, all Spanish words/accents/balloons/tails/captions, complete figures and framing preserved. Keep the existing fine-ink painterly comic style, lighting, colors, faces, hairstyles, expressions, clothing, jewelry, scenery, objects, perspective and narrative action. Change ONLY the specifically listed anatomy/rendering faults. No additional text, watermark, characters, props, new scene or cropped content. Author credit is added by the reader only when exporting copies. Target 'Capítulo 10 · 05', seven panels. Change ONLY ROBIN in the BOTTOM-LEFT sixth panel under «Eirena escuchaba con una discreta sonrisa.». The enchanted babies must visually read as HUMAN INFANTS within the existing illustrated style. Preserve their current small infant age, recognizable face, hair and iris color, head/body scale and identity. Natural smooth illustrated human skin on face, hands and any exposed feet; little wrists and individual fingers, thumbs, natural infant limbs and knees/ankles. Preserve all opaque clothing and coverage. KNIT TEXTURE belongs ONLY on clothing, never on skin. Replace crocheted mitten/paw hands, oval stuffed-ball feet, stuffed fabric body contours, visible cloth seams and teddy-bear/crochet skin with natural infant anatomy. Do not turn them into animals, plush toys, mannequins, toddlers or photorealistic collages. Each infant remains securely supported by the SAME adult in the SAME location and pose/action, with no duplicate infant. Robin keeps his BROWN little curls/GREEN eyes, SKY-BLUE knitted cardigan and existing small buttons, BEIGE full trousers, cheerful face, lap position and infant size. Replace beige crocheted/round mitten hands and plush-ball lower limbs with natural infant anatomy: small smooth skin hands with fingers and thumb emerging from cuffs, natural bent little legs inside the same beige trousers, and feet in ordinary small socks/booties with natural foot proportions. Eirena's existing supporting arm holds him securely; she keeps the same teacup pose, mature face, black low chignon, pearl earrings and pale-blue blouse/beige skirt. Do not alter anyone else, Cassiopeia's distant carrot, the sapphire, strawberry, breakfast props or ANY lettering or panel.",
+          "references": [
+            "paginas/c10-p005.webp"
+          ],
+          "generatedMaster": "exec-915b5140-6f67-426d-88cf-86496b6f926f.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Todas las palabras y viñetas contrastadas con el original.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": []
+      }
+    }
+  ],
+  "completedAt": "2026-11-04"
+}

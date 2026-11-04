@@ -1,5 +1,11 @@
 # Revisión de continuidad y exportación
 
+## Anatomía del capítulo 10, páginas 2–5
+
+El 4 de noviembre de 2026 se incorporan cuatro ediciones puntuales con ImageGen integrada. Se corrigen los brazos de Pansy ante el espejo y cruzados en la página 2. En las páginas 3–5, Robin y Scorpius mantienen apariencia humana, con piel suave y manos y extremidades infantiles; la textura de punto se conserva en sus prendas. Ambos mantienen sus identidades, tamaños y portadores distintos. La primera candidata de la página 2 se descartó por conservar una deformación; el ajuste final deja ambos brazos relajados ante el espejo y un reflejo coherente.
+
+Se revisan todas las viñetas y palabras de las cuatro páginas y se contrasta OCR. Se conservan originales y transcripciones; solo cambian cuatro referencias de imagen en el manifiesto, que mantiene 221 páginas. Los [prompts y archivos](prompts-correccion-capitulo-10-paginas-02-05.json) registran los resultados y sus huellas. La comprobación del lector carga las cuatro versiones nuevas, prueba la exportación de la página 4 con crédito exterior y la vista móvil de la página 5, además de navegación entre capítulos y fin del bloque disponible.
+
 ## Segunda entrega de identidad, capítulos 2–9
 
 El 3 de noviembre de 2026 se completa la comparación de las 174 páginas de los capítulos 2–8 y 1–14 del 9. Se incorporan 66 nuevas versiones en ese tramo y detalle adicional en el capítulo 1, página 13: **67 imágenes**. Se conservan 93 páginas que ya mantenían el diseño, cinco páginas tras rechazo de la herramienta y 11 correcciones pendientes por el límite de uso. El [registro de esta entrega](REVISION-CAPITULOS-02-09.md) enumera todos los casos; el [registro por página](revision-capitulos-02-09.json) incluye decisiones y huellas. Las 11 ediciones pendientes todavía usan sus imágenes anteriores.

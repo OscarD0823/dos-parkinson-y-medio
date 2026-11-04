@@ -13,6 +13,7 @@ La petición del 2 de noviembre de 2026 tiene dos partes. Enriquecer el dibujo d
 | Daphne Greengrass | Primeras apariciones y versión de color revisada | Pelo largo rubio, ojos azules y rasgos propios; peinado y ropa de cada escena. |
 | Lisa Turpin | [Capítulo 8, página 29](../dist/paginas/c08-p029-color-v2-personajes-v2.webp) | Pelo largo liso castaño, ojos azules y ribetes azules de Ravenclaw. No convertirla en Hermione. |
 | Millicent | Primeras apariciones en Slytherin | Pelo castaño oscuro, rizado o recogido según la escena; rostro propio y uniforme verde. |
+| Robin y los bebés mágicos | Primeras apariciones y capítulos 8–9 | Apariencia dibujada de bebé humano: piel suave, manos pequeñas con dedos, extremidades y pies de proporción infantil. El tejido corresponde a la ropa. Robin mantiene pelo castaño y ojos verdes; Scorpius, pelo rubio platino y ojos azul grisáceo. |
 | Harry, Ron y Ginny | [Capítulo 1, página 2](../dist/paginas/c01-p002.webp) | Conservar la geometría individual de los rostros. Harry mantiene pelo negro revuelto y gafas redondas. Ron mantiene pelo pelirrojo y pecas. Ginny mantiene pelo largo rojizo. |
 | Profesores | [Capítulo 1, páginas 2–6](../dist/paginas/c01-p002.webp) | Edad adulta y rasgos propios. Mantener arrugas, peinados, barba, gafas y silueta de cada uno. |
 | Personajes presentados después | Primera aparición revisada de cada personaje | Mantener sus propios diseños y edad. No convertir a familiares en copias del rostro de Pansy o Hermione. |
@@ -22,6 +23,8 @@ La petición del 2 de noviembre de 2026 tiene dos partes. Enriquecer el dibujo d
 Los archivos originales siguen guardados aunque el lector utilice una versión enriquecida. Estas referencias no se sustituyen por la última imagen generada. Las películas pueden orientar anatomía y alturas relativas, pero la identidad dibujada aprobada en el capítulo 1 tiene prioridad.
 
 El vestido, el recogido y los accesorios dependen de la escena. Recuperar el rostro de Hermione no implica soltar su moño de gala ni ponerle el uniforme escolar en la mansión. La luz de una vela tampoco convierte el cabello negro en violeta ni los iris castaños en verdes.
+
+Los bebés son mágicos dentro del proyecto escolar, pero conservan apariencia humana en las ilustraciones. Mantener su edad, tamaño, rostro y apoyo en brazos o regazo. Evitar piel de ganchillo, costuras de relleno, manos como manoplas redondas y pies como bolas de peluche. Los prompts históricos del capítulo 10 usaban «CLOTH SCHOOL TOY»; esa descripción no debe reutilizarse como indicación de material visible del cuerpo. Su anatomía infantil y la textura de la ropa se describen por separado.
 
 El collar regalado a Hermione es un zafiro oval azul medianoche con halo de diamantes claros, montura y cadena fina de platino blanco. El colgante cae sobre la parte frontal del pecho. En una vista de espaldas puede quedar oculto; no se traslada a la espalda ni al hombro. Pansy mantiene su pequeño diamante propio y las orejas sin joyas. En los recuerdos de la gala se conserva también el vestuario de los invitados, incluido el vestido lavanda de manga larga y pelo rubio suelto con flores de Daphne y el traje azul de terciopelo de Blaise.
 
