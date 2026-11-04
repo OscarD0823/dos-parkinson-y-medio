@@ -1,5 +1,11 @@
 # Revisión de continuidad y exportación
 
+## Veinte páginas señaladas en los capítulos 8 y 9
+
+El 4 de noviembre se incorporan veinte ediciones con ImageGen integrada: capítulo 8, páginas 15 y 25–33; capítulo 9, páginas 1–7, 13–14 y 37. Los originales del capítulo 1 fijan los rostros de Hermione y Pansy y sus proporciones; las páginas objetivo conservan sus expresiones, acciones, vestuario, personajes secundarios y escenarios. La revisión descarta una confusión de Theo con Hermione y una expresión demasiado dura de Pansy. Cada resultado se revisa completo con contraste de texto y OCR adicional.
+
+El [registro](REVISION-SOLICITADA-2026-11-04.md) y los [prompts y huellas](prompts-revision-solicitada-2026-11-04.json) identifican las versiones. Solo cambian veinte referencias de imagen entre las 221 páginas existentes, con transcripciones intactas. Se conservan maestros y originales. Se comprueban PC, móvil y exportación con crédito exterior. Quedan tres pendientes de la lista histórica del 3 de noviembre: capítulo 9, páginas 10–12, además de las cinco retenidas por rechazo de la herramienta.
+
 ## Anatomía del capítulo 10, páginas 2–5
 
 El 4 de noviembre de 2026 se incorporan cuatro ediciones puntuales con ImageGen integrada. Se corrigen los brazos de Pansy ante el espejo y cruzados en la página 2. En las páginas 3–5, Robin y Scorpius mantienen apariencia humana, con piel suave y manos y extremidades infantiles; la textura de punto se conserva en sus prendas. Ambos mantienen sus identidades, tamaños y portadores distintos. La primera candidata de la página 2 se descartó por conservar una deformación; el ajuste final deja ambos brazos relajados ante el espejo y un reflejo coherente.

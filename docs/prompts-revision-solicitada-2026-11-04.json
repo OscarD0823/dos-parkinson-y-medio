@@ -1,0 +1,807 @@
+{
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "sourceCommit": "22bfca5856b018e5c25686fee4b1ecd852bc0c0f",
+  "scope": "Capítulo 8: 15, 25–33. Capítulo 9: 1–7, 13–14, 37.",
+  "fixedReferences": [
+    "paginas/c01-p002.webp",
+    "paginas/c01-p001.webp"
+  ],
+  "causeObserved": "Persistía una diferencia de proporciones entre Hermione y Pansy, además de rostros más redondos y ojos sobredimensionados respecto al capítulo 1. Se priorizan las referencias originales sobre las páginas generadas recientes.",
+  "illustratedPages": 221,
+  "publishedCorrections": 20,
+  "unchanged": "Solo cambian veinte referencias de imagen. Se conservan originales, transcripciones y los demás campos del manifiesto.",
+  "pages": [
+    {
+      "key": "c08_p015",
+      "chapter": 8,
+      "page": 15,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p015-color-v2-personajes-v2.webp",
+      "originalSha256": "80bae0add21087f9011b4c5402666e70cf6fd2c86e4f04089ea4c95646911fd2",
+      "resultImage": "paginas/c08-p015-diseno-v3.webp",
+      "sha256": "10e6a884d4847713ad44940c84bf10d074c0340ee80ee3a3359d9209b2ea2f82",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p015-diseno-v3.png",
+      "masterSha256": "ae1e1f6d6a32812c834595a3e3f01cebfed82320c33d0234ba4c60f88226ec3a",
+      "generatedMaster": "exec-80e61f4f-9d3a-4a58-af14-a3386ee4f696.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 15\n\nHermione: Son insoportables.\nBlaise: Y tú nos adoras.\nBlaise sostiene a Arianna, vestida y cubierta, sobre el regazo. Su cochecito está vacío a su lado.\nBlaise: Pansy, pásame una servilleta.\nPansy le lanza suavemente una servilleta de papel hecha bola hacia la mano libre. Blaise la recoge, riéndose.\nBlaise: También te quiero, Pans.\nCartela: De vuelta en Hogwarts.\nLas ventanas azules bajo el lago muestran peces y un castillo iluminado a lo lejos.\nHermione y Pansy ya llevan sus pijamas largos: burdeos con ribetes dorados y negro con ribetes dorados. Robin duerme vestido con pijama crema de pequeños dragones verdes y cubierto con una manta, en su propia cuna de luna y estrellas.\nHermione: Ya está. Cayó rendido.\nPansy asiente desde un asiento separado. Una vista amplia muestra las dos camas individuales con cubiertas verdes y la cuna de Robin entre ellas.",
+      "review": "Hermione, Pansy y Blaise mantienen edad y rasgos propios en el dibujo inicial. Texto completo, taberna y transición al dormitorio, pijamas y bebés conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "itulo"
+        ],
+        "ocrAddedCandidates": [
+          "capitulo"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Target Chapter8 page15. Preserve the first three warm tavern panels with red coat/cream scarf Hermione, black coat/green scarf Pansy, beige-sweater Blaise and his covered baby. Preserve the lower transition to the same underwater-window dormitory, crescent/star crib, sleeping Robin and two beds. Keep later burgundy/black full pajamas, gestures, all blankets, and each panel's own light.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p015-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-80e61f4f-9d3a-4a58-af14-a3386ee4f696.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p025",
+      "chapter": 8,
+      "page": 25,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p025-color-v2.webp",
+      "originalSha256": "d6df0efc4349aa475d3af0dd06b06bd96795870567357fedadb5f00c683d2d39",
+      "resultImage": "paginas/c08-p025-diseno-v3.webp",
+      "sha256": "90b47114a73694f6117a80729e530b7391bb9dbf39dac03f3a684fa89ac1cee9",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p025-diseno-v3.png",
+      "masterSha256": "1d356b34399f589acb5c843ad34abe6a55986aaddc0b35edd4247e2d71b35582",
+      "generatedMaster": "exec-ca5ea12c-f2b9-4985-9f40-6c3e26ac27f1.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 25\n\nCartela: Una mañana de clases.\nUna luz verdosa entra por los ventanales bajo el lago. Peces cruzan el agua ante el cristal. En el dormitorio están las dos camas individuales y la cuna de luna y estrellas.\nHermione ya lleva su uniforme completo de Gryffindor y revisa el maletín verde oscuro con las iniciales R.P. plateadas. Robin descansa vestido de crema y cubierto con la manta bordada de Quidditch en su propia cuna, con mechón castaño y ojos verdes.\nEl muñeco agita las manos y se inquieta suavemente; Hermione lo observa, algo distraída.\nAl otro lado del cuarto, Pansy ya lleva el uniforme completo de Slytherin y acomoda su corbata verde y plata ante el espejo. Las dos evitan mirarse.",
+      "review": "Hermione recupera proporciones y rasgos iniciales, con Pansy coherente en espejo y tocador. Cuatro viñetas y cartela completas; cuna, Robin, uniformes y maletín conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Target Chapter8 page25, four panels. Preserve the dormitory, two separate beds, crescent/star crib, green monogrammed RP suitcase, morning light, uniform robes and tie adjustment at the mirror. Pansy's reflected face must match her restored original identity; the mirror reflects the existing pose only. Keep Robin a small human-looking infant, not an older child.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p025-color-v2.webp"
+          ],
+          "generatedMaster": "exec-ca5ea12c-f2b9-4985-9f40-6c3e26ac27f1.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p026",
+      "chapter": 8,
+      "page": 26,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p026-color-v2-personajes-v2.webp",
+      "originalSha256": "fbd4038b1b55ff55c1a3dbda7b204d3d2e5bed940b37661ffa02296849df48b2",
+      "resultImage": "paginas/c08-p026-diseno-v3.webp",
+      "sha256": "bd39bc8bfe2fe3e412296b737b4638a7bf3d030bba17bf6e6fea7e8872bde3a4",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p026-diseno-v3.png",
+      "masterSha256": "49cd7cbf49f458677180383db01e735b7c7567f3cbb6010837dd5d4858e98358",
+      "generatedMaster": "exec-f6c73ba7-6b60-4e4d-bb37-3e633df82680.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 26\n\nHermione: ¿Me lo pasas?\nPansy le acerca un pequeño envase cerrado del material del proyecto.\nPansy: Toma.\nTras un leve percance fuera de campo, aparece una pequeña mancha blanca en la túnica de Hermione. Robin permanece vestido y cubierto en su propia cuna, lejos de la mancha.\nHermione: ¡Robin!\nPansy: ¿Estás bien?\nHermione: Sí. Solo distraída.\nPansy dirige su varita a la mancha de la túnica.\nPansy: Tergeo.\nPansy: Anoche, cuando volví, parecías dormida. Espero no haberte despertado.\nHermione: No. Estaba agotada.\nPansy: Descansar es importante para el rendimiento académico.\nHermione: Exacto. Rendimiento académico.\nRobin se queja suavemente por su encantamiento. Un biberón vacío y cerrado queda de lado sobre la alfombra.\nPansy: ¿Qué le pasa hoy?\nHermione: No lo sé. Está inquieto desde que despertó.\nPansy guarda los accesorios en el maletín R.P.\nPansy: Como sea, vayamos a desayunar.\nHermione acomoda a Robin, ya vestido de crema y cubierto con su manta de Quidditch, en el cochecito arena flotante. La cuna queda vacía.",
+      "review": "Restauradas ambas caras, manteniendo la taza, derrame, Tergeo, todos los cuadros, palabras, ropa, cuna, cochecito y utilería.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "itulo"
+        ],
+        "ocrAddedCandidates": [
+          "capitulo",
+          "estas",
+          "distraida",
+          "tergeo"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Target Chapter8 page26. Keep the cup handover, cup spill on the robe and Tergeo cleaning gesture; all hands/arms anatomically clear. Same morning dormitory and all school uniforms, small Robin in crib/pram, table and RP suitcase.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p026-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-f6c73ba7-6b60-4e4d-bb37-3e633df82680.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p027",
+      "chapter": 8,
+      "page": 27,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p027-color-v2-personajes-v2.webp",
+      "originalSha256": "cfac5bc28d5de9a8915f7978b1edb01079739fec9618bd0f7de1bee210426830",
+      "resultImage": "paginas/c08-p027-diseno-v3.webp",
+      "sha256": "5d8d6e70ed5e6d41704e8878380b7d15ad6aba5108d8c3db7a40981ea7ddf29b",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p027-diseno-v3.png",
+      "masterSha256": "046da1d8cd021f53de8d7771fcf34bacc02a0ea712a4fc9720f652b8494d59d1",
+      "generatedMaster": "exec-665f214a-fd9d-477b-a7f3-0041ed56fefa.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 27\n\nPansy espera junto a la puerta con Robin en el cochecito arena.\nPansy: Llegaremos tarde. Necesito café.\nHermione: El café suena bien.\nHermione guarda el cuestionario de pergamino en un cajón, debajo de unos calcetines doblados.\nNarración: No estaba preparada para volver a aquellas preguntas.\nPansy: ¿Lista?\nHermione: Lista.\nSalen uniformadas con sus mochilas y el cochecito. En el Gran Comedor, los alumnos desayunan junto a los muñecos vestidos y cubiertos del proyecto.\nHermione: ¿Me pasas el azúcar, por favor?\nPansy acerca el azucarero por la mesa.\nHermione: Gracias.\nPansy: De nada.\nDaphne ofrece un tazón de fruta.\nDaphne: Están tan tensas que van a romper los cubiertos con la mente.\nPansy: Solo operamos con eficiencia matutina.\nBlaise sostiene a Arianna, cubierta de beige, con el periódico sobre la mesa lejos de ella.\nBlaise: Robin no parece de acuerdo.\nHermione ofrece a Robin un peluche de dragón verde, con vientre crema y alas doradas suaves.\nHermione: Todo está bien, cariño. Mira tu dragón.\nRobin lo ignora y empieza a llorar por su encantamiento, vestido y cubierto en su propio cochecito.\nNarración: El encantamiento de Robin también reaccionaba a la tensión del grupo.",
+      "review": "Rostros y proporciones iniciales, con Daphne y Blaise propios; secuencia dormitorio/comedor, bebés, dragón y todos los textos conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "llegaremos",
+          "tarde",
+          "necesito",
+          "lista",
+          "suena",
+          "estaba",
+          "preparada",
+          "volver",
+          "aquellas",
+          "preguntas"
+        ],
+        "ocrAddedCandidates": [
+          "gracias"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Target Chapter8 page27. Keep bedroom-to-breakfast progression. Daphne's long blonde hair/blue eyes/green uniform and Blaise's dark skin/short curls/brown eyes/green uniform remain distinct. Keep both babies with their exact carriers and clothing, breakfast props and the small green toy dragon. This is Hermione's face-model restoration too, not just Pansy's.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p027-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-665f214a-fd9d-477b-a7f3-0041ed56fefa.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p028",
+      "chapter": 8,
+      "page": 28,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p028-color-v2-personajes-v2.webp",
+      "originalSha256": "2e3bd9477a1125a555e2bd0ee6d0627aa9c6558640e4d85191f2746f9db75304",
+      "resultImage": "paginas/c08-p028-diseno-v3.webp",
+      "sha256": "ae1e917c047dcd61e90d8f719ff9fcd263c61c5d4a075b71a5f0bd9ef53f19f1",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p028-diseno-v3.png",
+      "masterSha256": "c6fa5d4b90eaa9c1d29f15240ef0f86f7dd771bc61948e2d87555097975a5290",
+      "generatedMaster": "exec-da386758-f5c3-45f7-ad67-73a4fcf3f151.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 28\n\nArianna se une al llanto de Robin. La resonancia mágica de los muñecos del proyecto hace levitar levemente unas jarras sobre la mesa, lejos de los pequeños.\nPansy: ¡Relájate, Granger!\nHermione sujeta una jarra de zumo y la apoya sobre la mesa.\nHermione: ¡Tú estás rígida como una estatua!\nPansy: ¡Soy firme! Necesita estructura.\nHermione: ¡Necesita a su madre, no que salga por agua imaginaria a otra habitación!\nLos amigos guardan silencio un instante.\nPansy: No era imaginaria. Tenía sed.\nHermione: Claro. Sed.\nLos muñecos se calman. Arianna descansa cubierta en brazos de Blaise y Robin vuelve a su cochecito arena, vestido y cubierto con su manta de Quidditch.\nDaphne: Si no nos vamos, llegaremos tarde al nuevo horario integrado.\nHermione: ¿Horario integrado?\nBlaise: Todas las parejas de sexto y séptimo comparten horario para repartirse la responsabilidad del proyecto.\nBlaise señala a Wayne, con uniforme amarillo y negro de Hufflepuff, que se reúne con Tracey, de Slytherin.\nBlaise: Por eso Wayne viene a Runas. Tú tendrás Runas y Aritmancia con nosotros, y Pansy Alquimia y Herbología contigo.\nHermione: ¿Tendré clases con Slytherin?\nPansy toma el manillar del cochecito de Robin.\nPansy: Con Robin y conmigo. Vamos, Granger. No pienso llegar tarde.",
+      "review": "Página completa contrastada con el original: restauradas ambas protagonistas y proporciones. Lisa, Daphne, Tracey, Wayne, Blaise y el profesor mantienen sus propios rasgos donde aparecen. Todos los textos, viñetas, bebés, ropa, objetos y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [
+          "slytherin"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter8 page28. Keep two crying foreground babies, then the same settled babies/carriers. The rabbit, teddy bear, and green dragon on the back tables remain ordinary TOYS, not extra infants. Keep short-brown-haired Wayne and long brown high-ponytail Tracey in the lower-right greeting panel, with yellow/green trim and distinct faces. Preserve all breakfast props and the progression of emotions.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p028-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-da386758-f5c3-45f7-ad67-73a4fcf3f151.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p029",
+      "chapter": 8,
+      "page": 29,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p029-color-v2-personajes-v2.webp",
+      "originalSha256": "f6eb1e7b549a413c60ba0739561876b1d77e9b75681d3b843a52e9a0ef27ba65",
+      "resultImage": "paginas/c08-p029-diseno-v3.webp",
+      "sha256": "d735212fd28aff80abbace739bf7fdc737fe2e34d6f3f35225ee3f62d573e4bb",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p029-diseno-v3.png",
+      "masterSha256": "8fe15243bdf2bef6f74180a7f909ae8c82fa8ebd74935c229a8cc266989e1fe8",
+      "generatedMaster": "exec-aa194dbf-59b8-4264-bb60-10f3fc39eae7.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 29\n\nHermione observa a Pansy alejarse con el cochecito de Robin.\nHermione: Es imposible.\nDaphne: Es Pansy. Y te encanta.\nHermione: Cállate, Greengrass.\nPansy espera en la puerta del Gran Comedor. Hermione la alcanza y siguen hacia clase con sus mochilas y el cochecito.\nNarración: Babbling había reorganizado el aula para los nuevos acompañantes.\nEl aula tiene mesas, libros y pasillos amplios para los cochecitos del proyecto.\nPansy: Espero que hayas repasado los dialectos nórdicos.\nHermione: Por supuesto.\nLisa Turpin se acerca con un pergamino y uniforme azul y bronce de Ravenclaw.\nLisa: Pansy, tenías razón sobre Laguz. En nuestro texto no era agua literal, sino flujo de magia.\nPansy: El contexto era metafórico.\nLisa toca brevemente el antebrazo cubierto de Pansy.\nLisa: No sé qué haría sin ti en esta clase.\nHermione: Hola, Lisa.\nLisa: Hola, Hermione. No sabía que vendrías.\nLisa: ¿Puedo sentarme cerca? Michael está dormido y necesito ayuda con la sintaxis.\nPansy: Acerca una silla. Pero no copies mis respuestas.\nLisa ocupa una silla propia junto al pupitre. Hermione parece incómoda. Robin duerme vestido y cubierto en su cochecito arena, junto a ellas.",
+      "review": "Página completa contrastada con el original: restauradas ambas protagonistas y proporciones. Lisa, Daphne, Tracey, Wayne, Blaise y el profesor mantienen sus propios rasgos donde aparecen. Todos los textos, viñetas, bebés, ropa, objetos y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "imposible",
+          "encanta",
+          "callate",
+          "greengrass"
+        ],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter8 page29. Lisa is the LONG STRAIGHT BROWN-haired BLUE-eyed girl with BLUE Ravenclaw trim beside Pansy in the fourth row right and later panels; keep her own face and hair. Hermione is the CURLY chestnut BROWN-eyed girl with RED/GOLD trim, and Daphne is the first-row BLONDE/BLUE-eyed GREEN-trim girl. Do not interchange them. Same classroom, library books, rune board, pram and sleeping Robin.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p029-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-aa194dbf-59b8-4264-bb60-10f3fc39eae7.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p030",
+      "chapter": 8,
+      "page": 30,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p030-color-v2-personajes-v2.webp",
+      "originalSha256": "f10fba35b5b55170d4f4dbb6c2b5081d37a2254dc1997587cba34e62653adb64",
+      "resultImage": "paginas/c08-p030-diseno-v3.webp",
+      "sha256": "1244f7313049de5ba79e60c5504c1a6da399b7897e14dc5addd400533b98b388",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p030-diseno-v3.png",
+      "masterSha256": "5fdd5e1bee4c6454fe8093cb0abcc38536efb4fdf75c61028499569caec5a7c5",
+      "generatedMaster": "exec-4153b346-375a-4b49-aca4-dad6c26c017b.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 30\n\nEl profesor Babbling entra con sus libros. La palabra «Ehwaz» aparece en la pizarra.\nBabbling: Buenos días. ¿Por qué traducir esta runa solo como caballo resulta insuficiente en los textos de vinculación?\nHermione levanta la mano, pero Pansy responde primero.\nPansy: También expresa confianza y lealtad entre dos partes. Importa la relación, no solo el caballo.\nLisa: En estos textos es el vínculo y la promesa de avanzar juntos. Lo discutimos en nuestro último proyecto.\nHermione baja la mano lentamente.\nBabbling: ¡Cinco puntos para Slytherin y cinco para Ravenclaw! Excelente trabajo conjunto, Parkinson y Turpin.\nLisa y Pansy vuelven al libro. Hermione aprieta su pluma y deja una pequeña gota de tinta sobre su propio pergamino.\nPansy: ¿Pasa algo, Granger? Puedo prestarte mis notas.\nHermione: Entendí lo de la lealtad. Algunos parecen olvidarlo por unos halagos.\nLisa: Pans, ¿crees que también se aplica a Gebo?\nPansy mira la línea del libro; Hermione aparta la mirada.\nDesde la mesa de atrás, Daphne hace una seña a Blaise. Él se levanta para acercarse al profesor y Daphne llama discretamente a Hermione a su mesa. Arianna duerme vestida y cubierta en su propia cuna junto a Daphne.",
+      "review": "Página completa contrastada con el original: restauradas ambas protagonistas y proporciones. Lisa, Daphne, Tracey, Wayne, Blaise y el profesor mantienen sus propios rasgos donde aparecen. Todos los textos, viñetas, bebés, ropa, objetos y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "icinco"
+        ],
+        "ocrAddedCandidates": [
+          "crees",
+          "aplica"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter8 page30. Preserve the gray-haired adult male teacher and his glasses/brown robes; do not replace him with a chapter1 professor. Lisa is LONG straight BROWN/BLUE eyes/BLUE trim, Pansy BLACK bob/GREEN eyes/GREEN trim, Hermione long CURLY BROWN/BROWN eyes/RED trim, Daphne BLONDE/BLUE eyes/GREEN trim. Preserve all classroom dialogue, gestures and books.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p030-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-4153b346-375a-4b49-aca4-dad6c26c017b.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p031",
+      "chapter": 8,
+      "page": 31,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p031-color-v2-personajes-v2.webp",
+      "originalSha256": "8825e5aa911f1b8b794c05d85832de3d9571ed173061fb7f023e7a22869f2271",
+      "resultImage": "paginas/c08-p031-diseno-v3.webp",
+      "sha256": "3f18e04496258161fab2df0c2af89d26ea0387d2d01a1416c84a40bb0937d175",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p031-diseno-v3.png",
+      "masterSha256": "a44c744693fc20b473a070192b3fe73933e19735a522244cd4428d67d6e1f140",
+      "generatedMaster": "exec-22a8c131-9844-450d-b2f0-1586cad75faa.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 31\n\nHermione se acerca a la mesa de Daphne.\nHermione: ¿Es la traducción de la tercera estrofa?\nDaphne: No. Estás celosa de Lisa Turpin.\nHermione: Se entienden. Tienen esa sinergia. No sé dónde encajo.\nDaphne: Lisa lleva años intentando llamar su atención. Para Pansy comparten una tarea. No significa lo mismo que lo que tienen ustedes.\nHermione: ¿La reto a un duelo?\nDaphne: ¡No! ¿Quieres que te recuerde cómo terminó el último? Vuelve con confianza. Sé encantadora, sin montar una escena.\nHermione: Sofisticación. Gracias, Daphne.\nHermione vuelve hacia su pupitre.\nLisa: Tu corbata está torcida. Déjame…\nLisa acerca la mano al uniforme de Pansy. Pansy se aparta, incómoda, con su camisa y corbata puestas.\nHermione se detiene. Una pequeña vibración mágica aparece junto al cochecito arena.\nHermione: ¿Robin…?\nPansy se vuelve enseguida hacia el muñeco, vestido y cubierto en su propio cochecito.",
+      "review": "Página completa contrastada con el original: restauradas ambas protagonistas y proporciones. Lisa, Daphne, Tracey, Wayne, Blaise y el profesor mantienen sus propios rasgos donde aparecen. Todos los textos, viñetas, bebés, ropa, objetos y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "itulo"
+        ],
+        "ocrAddedCandidates": [
+          "capitulo"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter8 page31. The upper conversation is Hermione (CURLY BROWN/BROWN eyes/RED trim) and Daphne (long BLONDE/BLUE eyes/GREEN trim); keep their own faces. The lower scene is Lisa (long STRAIGHT BROWN/BLUE eyes/BLUE trim) adjusting Pansy's GREEN tie, then Pansy checking sleeping Robin. Preserve the existing robe badge as embroidery, not a new jewel, and all backgrounds/balloons.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p031-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-22a8c131-9844-450d-b2f0-1586cad75faa.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p032",
+      "chapter": 8,
+      "page": 32,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p032-color-v2.webp",
+      "originalSha256": "c9e941cac42051e73729cad7431d15c833609337bf70914e14a689e7465409d1",
+      "resultImage": "paginas/c08-p032-diseno-v3.webp",
+      "sha256": "fc22c721edc15292498abb63259acbb9428ceb565cfa3ebe68f1442cc10ae7f1",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p032-diseno-v3.png",
+      "masterSha256": "5eade2421a221375afc701b71766f1dba4f4ce207a050254c0b1c6363b9c6f6e",
+      "generatedMaster": "exec-85ad3a11-d828-4817-9c09-aa9dc00a8d50.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 32\n\nRobin rompe a llorar por su encantamiento. Hermione lo levanta con cuidado, vestido y cubierto con su manta, mientras el cochecito queda vacío.\nPansy: ¿Granger?\nHermione: Estoy aquí. Todo está bien.\nHermione sale del aula con Robin bien sostenido en ambos brazos. Pansy queda un instante sorprendida.\nLisa: ¿Qué pasó?\nDaphne: ¡Ve por ella!\nPansy recoge su mochila y sale. Babbling permanece en clase con los compañeros y sus muñecos.\nPansy busca en el pasillo, mirando hacia la biblioteca.\nPansy: ¡Hermione!\nLlega al dormitorio bajo el lago. Hermione está junto a la única cuna de luna y estrellas, donde Robin ya duerme vestido y cubierto. Las dos camas siguen separadas.\nPansy: Hermione…\nHermione se vuelve con lágrimas en los ojos.\nPansy: Lo siento. No quería… No sé qué hacer.\nNarración: Por un instante volvió a sentir aquel miedo a quedarse sola.",
+      "review": "Todas las viñetas y palabras completas contrastadas visualmente. Rostros y proporciones restaurados; secundarios propios, bebés, acciones, ropa y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "granger",
+          "estoy"
+        ],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter8 page32. Preserve the anxious expressions, Hermione taking crying Robin from the pram, the teacher's existing gray-haired/glasses design and adult age, the classroom/corridor/dormitory transition. Lisa remains LONG STRAIGHT BROWN/BLUE eyes/BLUE trim in top-right; Daphne remains BLONDE/BLUE eyes/GREEN trim. Only Hermione and Pansy use their own Chapter1 model.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p032-color-v2.webp"
+          ],
+          "generatedMaster": "exec-85ad3a11-d828-4817-9c09-aa9dc00a8d50.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c08_p033",
+      "chapter": 8,
+      "page": 33,
+      "status": "accepted",
+      "originalImage": "paginas/c08-p033-color-v2.webp",
+      "originalSha256": "fcb925280df25a0f009167a0849ca168a7035d20042982082141b38c224f3673",
+      "resultImage": "paginas/c08-p033-diseno-v3.webp",
+      "sha256": "34dc3d01a06b858d2dd64c9ddf34349f5abda0b03225d4db0473f955a07c98ba",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c08-p033-diseno-v3.png",
+      "masterSha256": "6d5ceccf1c10e39cb6609002f0990378e8c3a8bd0cc88c340582b332a6cfd0c9",
+      "generatedMaster": "exec-dc645a33-f9bd-4603-8ef5-d02346a1d0d0.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 8 · 33\n\nNarración: Por primera vez en toda la mañana, sus pensamientos se aquietaron.\nHermione se seca una lágrima. La preocupación sincera de Pansy la tranquiliza.\nHermione: Pansy.\nPansy permanece de pie, conmovida. Ambas llevan sus uniformes completos, de Gryffindor y Slytherin.\nHermione se acerca despacio y las dos se miran con una sonrisa tímida, a una distancia normal.\nUna viñeta muestra únicamente la ventana bajo el lago y su luz.\nNarración: Su primer beso dejó atrás las explicaciones sobre logística y tareas.\nDespués, Hermione y Pansy se toman brevemente de las manos junto a la única cuna. Robin duerme vestido y cubierto. Una vista amplia muestra el dormitorio y las dos camas separadas.\nFin del capítulo 8.",
+      "review": "Se suaviza la expresión de Pansy sin perder la mandíbula y los ojos originales. Se conservan la ternura, los dos lechos, la cuna, todos los textos y la elipsis del primer beso.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "itulo"
+        ],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter8 page33. Preserve the complete chapter-ending page, tender quiet gestures, all existing clothes, sleeping Robin's crib and underwater-window bedroom. Keep the indirect first-kiss narration exactly as drawn; do not add a new panel or action. Keep all captions and 'Fin del capítulo 8'.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c08-p033-color-v2.webp"
+          ],
+          "generatedMaster": "exec-52ac492f-1e3a-4e7f-8328-b39d41c7b673.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: identity-preserve. IMAGE1 is the OLD version of Chapter8 page33, used ONLY for its gentle emotional tone. IMAGE2 is the NEW restored complete page to EDIT. The restored facial geometry, hair, age and body proportions in IMAGE2 are correct. Change ONLY PANSY'S expressions in the first upper-right panel and the later face-to-face/hand-holding panels to the gentle shy tenderness of IMAGE1: slightly relax her inner brow tension, allow a tiny soft smile and affectionate gaze toward Hermione. Keep her exact NEW angular jaw/chin, slender almond GREEN eyes, defined brows, small lips, sleek BLACK side-part chin bob and bare ears. Do not restore the old round baby face, huge eyes or puffed bob. Keep Hermione's restored face, every pose/hand, uniform, sleeping human infant Robin, crib, furniture, underwater windows, all six actual panels and framing, every exact Spanish word/caption/header/end-of-chapter text at the same 1024x1536. No other changes, added text or watermark.",
+          "references": [
+            "paginas/c08-p033-color-v2.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-52ac492f-1e3a-4e7f-8328-b39d41c7b673.png"
+          ],
+          "generatedMaster": "exec-dc645a33-f9bd-4603-8ef5-d02346a1d0d0.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p001",
+      "chapter": 9,
+      "page": 1,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p001-color-v2.webp",
+      "originalSha256": "4a0b20bcf6ca44f120e21ac229bc2ea53e668553fbbfa860de3ec62c4d70e3a1",
+      "resultImage": "paginas/c09-p001-diseno-v3.webp",
+      "sha256": "80cc6c30387b92001c8813f5fda6ed41fd5ccdf0e9d0ff9beee09d79b827bf69",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p001-diseno-v3.png",
+      "masterSha256": "8d7d9315ebd04b06b4ff2d5773b3ef4a9e3edbfd8896cdf92513c117de7ad5a5",
+      "generatedMaster": "exec-54258c29-bb54-4bb6-9935-4e546946d668.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 01\nEsmoquin, pañales y alta sociedad\n\nLunes por la mañana, en el dormitorio bajo el lago. Hermione y Pansy ya están completamente uniformadas y permanecen separadas. Robin, muñeco vestido y cubierto en su propia cuna de luna y estrellas, observa su carrusel de Quidditch dorado con escobas, pelotas aladas y estrellas.\nHermione: Tenemos Encantamientos en veinte minutos.\nPansy: Hermione, tenemos que hablar.\nPansy: ¿Por qué me besaste si no estabas segura?\nHermione: Porque quería hacerlo. No he podido dejar de pensar en ti.\nHermione: Y luego vi a Lisa Turpin sonriéndote cada vez que preguntaba por una runa…\nPansy: ¿Estabas celosa?\nHermione: Me gusta estar contigo.\nPansy: Eres increíble, Granger.\nAmbas sonríen con timidez, a una distancia normal, junto a la cuna de Robin y las dos camas separadas.",
+      "review": "Todas las viñetas y palabras completas contrastadas visualmente. Rostros y proporciones restaurados; secundarios propios, bebés, acciones, ropa y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [
+          "gusta"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page1. Preserve the integrated chapter title, full school uniforms, green books, crib/mobile with golden wings, two beds, morning dormitory, gentle vulnerable expressions and every exact dialogue. Restore both protagonists' individual Chapter1 faces and older-student body proportions.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p001-color-v2.webp"
+          ],
+          "generatedMaster": "exec-54258c29-bb54-4bb6-9935-4e546946d668.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p002",
+      "chapter": 9,
+      "page": 2,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p002-color-v2.webp",
+      "originalSha256": "1a05148c05d09cd5fd709c5aa17c026489481c768a936592fd0bef06a34edfd3",
+      "resultImage": "paginas/c09-p002-diseno-v3.webp",
+      "sha256": "87269b7ebc442a4924106185805a76332ad7107afc7e9e9336d0fd2b14ff332a",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p002-diseno-v3.png",
+      "masterSha256": "6d9fc60ab46d909f2d12e22bbbab217d8dbb420329b39686e39bf26c7e5b3766",
+      "generatedMaster": "exec-69971dd0-8954-4db8-8084-36b362a97668.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 02\n\nNarración: Aquella noche, en el Gran Comedor.\nPansy pasa una cesta de panecillos a Hermione. Robin duerme vestido y cubierto en su cochecito arena.\nHermione: Gracias.\nDaphne: Es adorable verlas.\nHermione: ¿Qué es adorable?\nBlaise sostiene con cuidado a Arianna, cubierta de beige.\nBlaise: Su intento de disimulo. Es atroz. Granger, llevas dos minutos untando mantequilla en el pollo, no en el pan.\nHermione observa la mantequilla sobre su propio plato de pollo, con el pan a un lado.\nHermione: Yo… estaba distraída.\nDaphne: Esta mañana discutían y ahora parecen perfectamente sincronizadas.\nPansy: Simplemente estamos… coexistiendo.\nHermione: Son insoportables.\nDaphne: Y ustedes son adorables.\nEn la mesa de Hufflepuff se oye el llanto mágico de un muñeco vestido y cubierto en su cochecito. Un peluche blando ha caído al suelo. Arianna frunce el ceño en brazos de Blaise, con su propia cuna vacía a un lado.",
+      "review": "Todas las viñetas y palabras completas contrastadas visualmente. Rostros y proporciones restaurados; secundarios propios, bebés, acciones, ropa y escenarios conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "gracias"
+        ],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page2. Preserve the bread-basket handover, butter-on-chicken joke and its close-up, Daphne BLONDE/BLUE eyes and Blaise dark-skinned short curls/BROWN eyes with their own faces, babies/carriers, and the bottom-left actual plush dog TOY on the floor. The dog remains a toy. Same night Great Hall and all words.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p002-color-v2.webp"
+          ],
+          "generatedMaster": "exec-69971dd0-8954-4db8-8084-36b362a97668.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p003",
+      "chapter": 9,
+      "page": 3,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p003-color-v2.webp",
+      "originalSha256": "5fdbe7c5a01af2783fa2ad22a2d52177e7b55e234acc7e231de7c878845ac2fb",
+      "resultImage": "paginas/c09-p003-diseno-v3.webp",
+      "sha256": "7d402e1cedb44f040a24c846d42faef9ec5eaafb648ccc397d7d38e05856f8be",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p003-diseno-v3.png",
+      "masterSha256": "12356d35e5775dcc4c98230b0120ca6558fa519b0f6215d8e2c28f6b2128a00b",
+      "generatedMaster": "exec-8742f4c0-3f49-4be0-9207-11f9a0eb9951.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 03\n\nBlaise intenta distraer a Arianna, vestida y cubierta de beige en sus brazos.\nBlaise: Ignóralo, principessa.\nUna chispa dorada aparece junto a la vajilla. La siguiente viñeta muestra solo una tarta de melaza y crema sobre una zona vacía de la mesa.\nDespués, Zacharias mira una pequeña mancha de crema en su túnica de Hufflepuff. Su cara está limpia y está ileso. Una compañera recoge el peluche caído; el muñeco del proyecto sigue vestido y seguro en su cochecito.\nRobin ríe y agita las manos desde su cochecito arena, vestido y cubierto con la manta de Quidditch. Un plato de puré tiembla sobre la mesa.\nHermione: Oh, no…\nPansy: ¡Robin, no!\nOtra viñeta ambiental muestra un destello sobre la vajilla, sin personas ni muñecos. Después, Draco observa una pequeña mancha de puré en su túnica, con la cara limpia y sin daño. Robin y Arianna se ríen.\nBlaise: Esa es mi chica.\nPansy y Theo intentan contener la risa mientras Draco mantiene su indignación cómica. Los muñecos permanecen vestidos, cubiertos y seguros.",
+      "review": "Theo conserva su identidad masculina, pelo corto castaño rizado y uniforme verde en el último cuadro. Se descarta la candidata que lo confundía con Hermione. Todas las palabras, acciones y demás personajes conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [
+          "irobin"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page3. Keep the harmless food-magic comedy: the tart/purée sparkle panels show only food/table; Zacharias (BLOND Hufflepuff) and Draco (PLATINUM Slytherin) have only small robe stains, clean unharmed faces. Keep Theo the SHORT CURLY BROWN-haired male student in the bottom row, distinct from Hermione. Keep Blaise/Arianna and Pansy/Robin identities and all human-looking infants secure; actual plush dog remains a toy.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p003-color-v2.webp"
+          ],
+          "generatedMaster": "exec-9be23947-5164-408a-bb35-957a869df58b.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: identity-preserve. IMAGE1 is the original complete Chapter9 page3 and shows THEO NOTT's correct design in the BOTTOM ROW, THIRD person from the left (between black-bob Pansy and platinum-haired Draco). IMAGE2 is the newly restored full page to EDIT. Correct ONLY that ONE Theo figure in IMAGE2: he must be the distinct MALE older student from IMAGE1, SHORT tousled CURLY BROWN hair, masculine own facial geometry, laughing closed eyes, one hand covering his mouth, same GREEN Slytherin uniform. He has incorrectly acquired Hermione's long curly hair and feminine face. Restore his exact original short haircut, face and laughing gesture. Do NOT change Hermione anywhere else, and do not change Pansy, Blaise, Draco, babies, any other person, their outfits, food, magical sparkle, table, background, ANY word/balloon/accent/header/panel border. Keep every panel and the exact 1024x1536 full page, with the rest of IMAGE2's improved style untouched. No extra text or watermark.",
+          "references": [
+            "paginas/c09-p003-color-v2.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9be23947-5164-408a-bb35-957a869df58b.png"
+          ],
+          "generatedMaster": "exec-8742f4c0-3f49-4be0-9207-11f9a0eb9951.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p004",
+      "chapter": 9,
+      "page": 4,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p004-color-v2.webp",
+      "originalSha256": "61edb216bfa1ab5779162a4f60211772711bda54e2a8aba99aee6fd95f8aef13",
+      "resultImage": "paginas/c09-p004-diseno-v3.webp",
+      "sha256": "77844c45a627d06a50ed7659c73c39b9b506bdcfdd5520cc7efb9643f21990dc",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p004-diseno-v3.png",
+      "masterSha256": "2312c41100f4661d304ea64937a344c68dea8a60f911a1e1ce859d3eb443c37d",
+      "generatedMaster": "exec-06dab8a3-2d9a-4016-8e2d-4abefbd5df7a.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 04\n\nHermione apunta su varita solo a la mancha de puré en la tela de la túnica de Draco. Un brillo de limpieza la retira.\nHermione: Lo siento, Malfoy. Magia accidental.\nPansy: Definitivamente es hijo tuyo, Granger. Pésima puntería, técnica impecable.\nHermione: No creo que se haya equivocado de objetivo. Eso es todo tuyo.\nDraco, ya limpio e ileso, los escucha con resignación cómica. Robin descansa vestido y cubierto en su propio cochecito; Arianna sigue en brazos de Blaise.\nDaphne alza un vaso de jugo de calabaza.\nDaphne: Voy a necesitar más jugo de calabaza para sobrevivir a ustedes dos.\nUna transición muestra apuntes de clase, libros, ventanas del castillo y a Hermione y Pansy caminando por un pasillo con el cochecito arena flotante y sus mochilas.\nNarración: Los días siguientes transcurrieron entre clases, tareas y los cuidados del proyecto. Ninguna encontraba el momento de hablar de sus sentimientos.",
+      "review": "Página completa revisada: todos los textos y cuadros, identidades, ropa y escenarios conservados. Ginny mantiene ojos azules y pelo rojo donde aparece; Pince mantiene su propia edad y diseño.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page4. Preserve cleaning magic aimed only at Draco's ROBE stain, then his clean unharmed robe; no new injuries or action. Preserve Daphne BLONDE/BLUE eyes, Blaise and Arianna, all dinner jokes, notebooks/corridor transition, school uniforms and current baby carriers.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p004-color-v2.webp"
+          ],
+          "generatedMaster": "exec-06dab8a3-2d9a-4016-8e2d-4abefbd5df7a.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p005",
+      "chapter": 9,
+      "page": 5,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p005-color-v2.webp",
+      "originalSha256": "759daf6c6490162b8b4273ccb4a9d42a5f039d09dddaced239dba6ce371087f9",
+      "resultImage": "paginas/c09-p005-diseno-v3.webp",
+      "sha256": "4bf2a79ec7607456ce454bb59ed2b6e1ca17865c4eed0be0339747dee6b45bef",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p005-diseno-v3.png",
+      "masterSha256": "bbd78c51dbaae981079bc5f384e37f734afe3ef33b7a71fc4f8720cb89aecdcd",
+      "generatedMaster": "exec-8a4bae94-465e-4f93-9fa1-5bbb93042792.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 05\n\nCartela: Viernes por la tarde.\nHermione busca un libro en la biblioteca. Ginny aparece entre los estantes, con uniforme completo de Gryffindor, pelo rojo largo y ojos azules.\nGinny: ¡Hermione Jean Granger!\nHermione: ¡Estamos en una biblioteca, Ginny!\nGinny: Tenemos que hablar. Lavender no deja de hablar de ti y de Pansy.\nHermione se esconde parcialmente tras su libro.\nHermione: Solo estamos intentando llevarnos bien por Robin.\nGinny: Conozco tu cara de estudio y tu cara de estrés. Esta es diferente.\nHermione: La besé. El lunes, antes de Encantamientos.\nGinny: ¿Tú la besaste a ella?\nHermione señala el letrero de silencio.\nHermione: ¡Baja la voz! Y sí, fui yo.\nGinny: Por las barbas de Merlín…\nHermione cierra el libro, aliviada de habérselo contado a su amiga.",
+      "review": "Segundo intento aceptado tras rechazo inicial de salida. Hermione y Ginny recuperan sus rostros, con ojos castaños y azules respectivamente; biblioteca, uniformes, libros y todos los diálogos conservados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [
+          "capitulo",
+          "iestamos"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve. Image1 and image2 are the original Chapter1 drawing references; image3 is the complete Spanish comic page Chapter9 page5 to edit. Update ONLY the facial geometry and hair drawing of the two existing friends in the library to the matching original individual designs. Hermione is the chestnut-curly BROWN-eyed freckled girl in the references. Ginny is the long RED-haired girl at the TOP-RIGHT of image1; preserve Ginny's target BLUE iris color and own face. Use the same original fine-ink painterly style, proportions of older students, natural eye size/spacing, nose, cheek/jaw and curls. Keep their exact current emotions, full school uniforms, all hands/poses, every book, the library and light unchanged. Do not add Pansy or any other character. Preserve the ENTIRE 1024x1536 page, all eight actual panels and every Spanish word/accent/balloon/tail/caption/header exactly, with no crop, extra text or watermark.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p005-color-v2.webp"
+          ],
+          "generatedMaster": "exec-8a4bae94-465e-4f93-9fa1-5bbb93042792.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p006",
+      "chapter": 9,
+      "page": 6,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p006-color-v2.webp",
+      "originalSha256": "1f72b28704b035d815557ba3a9cd73b50d48310ba1012cfcd551c0e95c45aea2",
+      "resultImage": "paginas/c09-p006-diseno-v3.webp",
+      "sha256": "fb62f273b3df07a10c73de34488eb9dccaf8c99d04642d79193caffa3a452069",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p006-diseno-v3.png",
+      "masterSha256": "d1759f1bd317bc08abf340237d0239efa6c7bcf0de637866465c5877aa57f8fc",
+      "generatedMaster": "exec-0a3d4381-728f-4d81-9204-86421017bc90.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 06\n\nGinny: Ron va a implosionar.\nHermione: ¡No le vas a decir a Ron! Júralo.\nGinny: Claro que no le voy a decir nada.\nMadam Pince aparece al final del pasillo de la biblioteca, con sus libros y una túnica marrón cerrada.\nPince: ¡Señorita Weasley, silencio, por favor!\nGinny: Vamos a hablar fuera.\nCartela: Un poco de aire les vendría bien.\nAmbas salen caminando por voluntad propia, con sus libros, mochilas y uniformes completos. Bajo un haya junto al Lago Negro, se sientan en lugares separados de la hierba seca.\nGinny: Pero, Hermione, ¿qué sientes de verdad?\nHermione: Miedo. No de ella. De no entender lo que siento.\nGinny escucha atentamente mientras Hermione contempla el agua.\nHermione: Con Sophie todo parecía más sencillo. Con Pansy es diferente.",
+      "review": "Página completa revisada: todos los textos y cuadros, identidades, ropa y escenarios conservados. Ginny mantiene ojos azules y pelo rojo donde aparece; Pince mantiene su propia edad y diseño.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "sonar"
+        ],
+        "ocrAddedCandidates": [
+          "capitulo",
+          "implosionar",
+          "vendria",
+          "vamos",
+          "hablar",
+          "isenorita",
+          "weasley",
+          "parecia",
+          "sencillo",
+          "pansy"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page6. Restore ONLY Hermione and Ginny's corresponding original older-student faces; Ginny uses original IMAGE1 red-haired girl geometry but keeps target BLUE eyes and long red hair. Pansy is only mentioned, not present. Madam Pince remains a mature gray/dark-haired woman in a brown closed robe with her own face, NEVER Pansy or Hermione. Preserve library-to-lake transition, two separate seated places on grass, fully clothed school uniforms, book/hand poses and all dialogue.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p006-color-v2.webp"
+          ],
+          "generatedMaster": "exec-0a3d4381-728f-4d81-9204-86421017bc90.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p007",
+      "chapter": 9,
+      "page": 7,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p007.webp",
+      "originalSha256": "6d38ebf2252840d38f46b0f9c8dd7db95e9c6ae791d3a2ab6e06e664d7933f6c",
+      "resultImage": "paginas/c09-p007-diseno-v3.webp",
+      "sha256": "050ada163d7d02968e465944cd0b3ee609b87e47a517c43e5e7459cbf42c0aa6",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p007-diseno-v3.png",
+      "masterSha256": "8397ce714c78e639ff52c8d72379170f34f78fcb7c0b3da02464a0b39d5b8e99",
+      "generatedMaster": "exec-8ebd1567-3484-4dda-938b-e664e2e55788.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 07\n\nGinny y Hermione siguen sentadas en lugares separados bajo el haya, con sus libros y uniformes completos de Gryffindor.\nGinny: ¿Desde cuándo te gusta?\nHermione: Tal vez desde que compartimos habitación… No. El partido de Quidditch.\nGinny: ¿El partido donde apareciste con una sudadera de Slytherin?\nHermione: Quería apoyarla. Además, tenía frío.\nHermione: Sabes que el Quidditch nunca me ha importado mucho. Pero verla volar y dirigir a su equipo… se veía tan segura.\nHermione: Mientras todos miraban la Quaffle, yo solo la miraba a ella. Y me gustó muchísimo.\nGinny escucha con una sonrisa.\nGinny: Tengo buenas y malas noticias.\nHermione: ¿Las malas?\nGinny: Te has fijado en la capitana rival.\nHermione: ¿Y las buenas?\nGinny: Juzgando por cómo te miraba ella ese día, creo que también le gusta verte usando sus colores.\nLas dos amigas sonríen junto a la luz tranquila del lago. Los recuerdos del partido solo aparecen en su conversación.",
+      "review": "Hermione y Ginny recuperan rasgos y proporciones del inicio; se mantienen ojos castaños y azules, lago otoñal, castillo, ropa, libros y todos los diálogos. Cabecera pequeña y uniforme.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [
+          "itulo"
+        ],
+        "ocrAddedCandidates": [
+          "capitulo"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page7. ONLY Hermione and Ginny sit separately beneath the same autumn tree by the lake; do not add Pansy or any flashback. Ginny uses the original IMAGE1 red-haired girl's face geometry, while retaining target BLUE eyes and long red hair. Match the natural painterly autumn palette of neighboring page6 instead of over-orange glossy skin. Normalize ONLY the exterior heading to small black upper-left 'Capítulo 9 · 07' on cream, removing the old red ornamental flourishes; keep every in-panel word, all poses, books and uniforms.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p007.webp"
+          ],
+          "generatedMaster": "exec-8ebd1567-3484-4dda-938b-e664e2e55788.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p013",
+      "chapter": 9,
+      "page": 13,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p013-color-v2.webp",
+      "originalSha256": "24dfd3d8b062b3015c786c3c85d6ad8fd703e19977cc3bbe49dd9673156fe483",
+      "resultImage": "paginas/c09-p013-diseno-v3.webp",
+      "sha256": "ac4ec853722f46a97d5e9ba6a01d0121028097a85c41850364be2828729f987c",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p013-diseno-v3.png",
+      "masterSha256": "9b7daa24cf59ee0289c7c606ca295409563f9185952d3a54fbf86dabb23bed5d",
+      "generatedMaster": "exec-78f5f761-ff23-455c-8996-0743bbe0cfee.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 13\n\nHermione sostiene a Robin junto a la cuna y canta bajito:\n«Nox a las luces, calma el temor. Cierra los ojos, mi pequeño amor.»\nRobin cierra los ojos. La canción continúa:\n«La varita descansa, el hechizo acabó, y entre las nubes la luna salió.»\nRobin queda dormido en su cuna propia. Pansy se acerca ya vestida con su pijama negro.\nPansy: «No quería interrumpir el concierto. ¿Se durmió?»\nHermione: «Sí. Cayó rendido.»\nPansy: «Gracias. Por dormirlo y por la canción. Fue lindo. No sabía que cantabas.»\nHermione: «No canto. Solo improvisé.»\nAmbas permanecen a cada lado de la cuna, con las dos camas individuales al fondo y los reflejos del lago en las ventanas.",
+      "review": "Rostros iniciales, canción completa con Nox y todos los diálogos, pijamas opacos, dos camas y cuna conservados. Robin mantiene aspecto humano y apoyo seguro.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [
+          "capitulo"
+        ],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page13. Keep this gentle nursery/lullaby scene: Hermione in opaque full burgundy pajamas supports Robin then places him in his separate crib; Pansy wears opaque full black gold-piped pajamas at mirror then beside the crib. Same two beds and underwater-window bedroom. Preserve all lullaby words/accents in both cream captions, all dialogue and the sleeping human infant's age and tiny curls.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p013-color-v2.webp"
+          ],
+          "generatedMaster": "exec-78f5f761-ff23-455c-8996-0743bbe0cfee.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p014",
+      "chapter": 9,
+      "page": 14,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p014.webp",
+      "originalSha256": "8e0d63beb2f77391c0a2d17df7edc7809a8715ba60da86d1f0568b5721f8a221",
+      "resultImage": "paginas/c09-p014-diseno-v3.webp",
+      "sha256": "5bf8446bb8fda1f0943f18fcded556077bbd6e38c8ba8f38f41ceb1ed2a9630d",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p014-diseno-v3.png",
+      "masterSha256": "f95633da2f5caaa534a2855fa28635371a5b036f17a1027a2288acbf04318855",
+      "generatedMaster": "exec-51bbbaa7-d869-4eba-b127-1d76bfbdf801.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 14\n\nHermione y Pansy se sientan en sillas separadas. Robin duerme en su cuna propia, entre las dos camas individuales.\nHermione: «Pansy, tenemos que hablar de nosotras.»\nPansy: «Lo sé. Pero no quiero que lo convirtamos en una lista de pros y contras, como un examen.»\nHermione: «No iba a hacer una lista.»\nPansy: «No sé en qué momento cambió todo. Pero me gustas, Hermione. Y ya no puedo negarlo.»\nPansy: «Hablemos de las etiquetas y de las reglas cuando volvamos. Primero, el fin de semana con mis padres.»\nHermione: «¿Y mientras tanto?»\nPansy: «Podemos ir despacio. Solo te pido que ya no nos mintamos.»\nHermione: «De acuerdo. Nada de mentiras.»\nLas dos permanecen sentadas por separado, tranquilas, con los reflejos del lago al fondo.",
+      "review": "Se conservan todas las palabras, las dos sillas, camas, cuna y pijamas, sin anticipar el collar regalado después. Rostros y proporciones restaurados.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page14. Preserve two separate chairs, sleeping Robin's separate crib between the two beds, modest full burgundy/black pajamas, books/cups and all intimate-but-wholesome conversation. Restore BOTH corresponding Chapter1 faces, keeping their soft shy expressions, not angry scowls. Pansy has no ear jewelry, Hermione no gift necklace yet.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p014.webp"
+          ],
+          "generatedMaster": "exec-51bbbaa7-d869-4eba-b127-1d76bfbdf801.png",
+          "selected": true
+        }
+      ]
+    },
+    {
+      "key": "c09_p037",
+      "chapter": 9,
+      "page": 37,
+      "status": "accepted",
+      "originalImage": "paginas/c09-p037-personajes-v4.webp",
+      "originalSha256": "05126797e237697424458f920d755d278e99b68c8793b1b5f4a4a77eed5023f9",
+      "resultImage": "paginas/c09-p037-diseno-v3.webp",
+      "sha256": "5cc3847bccaba43ee5911debfd63ffeb997b0ceb6aba8e028ef615a7934fc443",
+      "workingMaster": ".local/maestros/revision-solicitada-2026-11-04/c09-p037-diseno-v3.png",
+      "masterSha256": "31db20c0dca7f6718ce30f217234a31245e8d00fe1bbf4c426003014b9e3bef7",
+      "generatedMaster": "exec-9237716a-2c7d-4e10-a4d4-a6507e97c329.png",
+      "width": 1024,
+      "height": 1536,
+      "transcript": "Capítulo 9 · 37\n\nEn el pasillo del espejo, Hermione lleva su vestido azul medianoche y el collar de zafiro. Pansy conserva el vestido negro y su collar de un diamante. Robin sonríe desde los brazos de Hermione.\nPansy: «Bienvenida a la familia, Granger. Mi padre lo dijo frente a doscientas personas.»\n\nHermione: «Entonces creo que somos tres Parkinson.»\n\nPor elipsis de la entrega, Pansy pasa a sostener al único Robin, con apoyo para cabeza y cuerpo. Hermione queda con las manos vacías.\nPansy: «No te adelantes, Granger. A este pequeño todavía le falta mucho para llegar a mi nivel de grandiosidad.»\n\nEl espejo dorado refleja a Hermione, Pansy y Robin, con sus rostros felices y las joyas correctas.\nPansy: «Por ahora, somos Dos Parkinson y Medio.»\nCartela: «Fin del capítulo 9».",
+      "review": "Rostros originales, recogido de gala y ambos collares conservados. Zafiro con halo y platino blanco frontal; diamante propio de Pansy y orejas sin joyas. Un único Robin, mismo cambio de portador y reflejo coherente. Todos los diálogos y cierre completos.",
+      "textCheck": {
+        "visual": "Página completa contrastada con el original; todos los diálogos, acentos y viñetas conservados.",
+        "ocrMissingCandidates": [],
+        "ocrAddedCandidates": [],
+        "decision": "Las diferencias de reconocimiento se contrastan visualmente; no son omisiones del dibujo."
+      },
+      "attempts": [
+        {
+          "prompt": "Use case: identity-preserve and style-transfer. Restore ONE complete Spanish fantasy comic page to the ORIGINAL Chapter 1 character drawing. IMAGE 1 (original chapter1 page2) and IMAGE 2 (original chapter1 page1) are immutable FACIAL/DRAWING reference models only. IMAGE 3 is the ONLY PAGE TO EDIT. Output the complete exact 1024x1536 TARGET page, with its current small chapter/page header, EVERY actual panel/border, EVERY Spanish word/accent/balloon/tail/caption, layout, actions, poses, emotions, wardrobe, jewelry, identities, props, carriers and target environment/lighting preserved. Do not copy scenes, text or clothing from the reference pages. The user finds the recent drawings too different: restore the SAME individual facial proportions, eye scale/spacing, nose, jaw, mouth and hand/body anatomy as the Chapter1 references, rather than just adding surface texture. HERMIONE: face exactly as brown-curly student in IMAGE1/2, BROWN eyes, freckles, distinct nose/cheek/chin/mouth, abundant layered chestnut BROWN curls (or her target-scene updo); do not use the newer tiny baby chin/giant round eyes/round toddler cheeks. PANSY: exact lower-right eye-contact face of IMAGE1, narrow almond GREEN eyes, tapered angular jaw/chin, strong brows, small defined lips, sleek straight BLACK chin-length side-part bob with flat locks and straight ends, BARE ears. Preserve her target's warmth, shyness or surprise, not the reference's suspicious expression. Retain each person's target age and height, natural older-student proportions rather than chibi or doll bodies. Match the original fine ink/painterly shading and skin treatment; add restrained strand/fabric/material detail within existing forms without glossy 3D doll rendering, over-orange recoloring or changing the scene. Secondary characters must retain their own faces: Daphne long BLONDE/BLUE eyes; Lisa long straight BROWN/BLUE eyes/BLUE Ravenclaw trim; Tracey long BROWN high ponytail/BROWN eyes/GREEN trim; Millicent DARKBROWN hair/own face; Blaise dark skin/short BLACK curls/BROWN eyes; Sophie honey-blonde shoulder waves/BROWN eyes/YELLOW Hufflepuff trim as IMAGE2. Never turn a secondary into Hermione or Pansy. All existing babies keep their own infant face, age, scale, hair/iris, opaque clothes/wrap and same adult/carrier; human infant appearance, never cloth/plush skin. No added accessories, hands, people, babies, scenes, text or watermark. Clean reading master; the app alone adds Fanfic: Nicole_Winkel to exported copies. Apply the restored Chapter1 model ONLY to the corresponding protagonist(s) actually present. Preserve every other person's identity and the target's precise clothing, jewelry, baby carriers and established setting. Target Chapter9 page37. Keep the final family scene in the SAME night manor mirror gallery, gold mirror, candles, console, daisies and two black jewelry boxes. Hermione's ORIGINAL face geometry remains while her hair stays in the target curly GALA UPDO and she wears the long modest MIDNIGHT-BLUE/star-embroidered gown. Her ONE front-necklace is an OVAL midnight BLUE SAPPHIRE surrounded by CLEAR DIAMONDS on fine WHITE PLATINUM mount/chain, never yellow gold. Pansy keeps her own long black modest gown, straight black bob, BARE ears and own small CLEAR single-diamond necklace. Preserve the exact original handover timing: Hermione holds ONE Robin in first three panels; Pansy holds ONE Robin in fourth and final mirror panel, with head/body support and normal infant size/age in his existing tiny tuxedo. Mirror reflects the SAME three people and matching jewelry, without an extra baby. Preserve all text and 'Fin del capítulo 9'.",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c09-p037-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-9237716a-2c7d-4e10-a4d4-a6507e97c329.png",
+          "selected": true
+        }
+      ]
+    }
+  ]
+}
