@@ -1,0 +1,748 @@
+{
+  "chapter": 10,
+  "title": "Rivales",
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "editorial": "Adaptación de la fuente completa. Se conserva la comedia familiar y escolar; la intimidad se resuelve sin detalles gráficos. Los originales del capítulo 1 fijan las identidades, las referencias recientes solo aportan vestuario y escenario.",
+  "illustratedBlock": [
+    15,
+    22
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 15,
+      "image": "paginas/c10-p015.webp",
+      "sourcePdfPages": [
+        266,
+        268
+      ],
+      "summary": "El Profeta provoca rumores y reacciones de sorpresa, celos y tristeza durante el desayuno de Hogwarts.",
+      "editorial": "La réplica de Lavender precede al recordatorio de Parvati en la disposición final; ambas conservan sus palabras y sentido.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p015.png",
+      "generatedMaster": "exec-e28b90d1-9895-4f8c-9c9d-4881cb6ced36.png",
+      "sha256": "67264e537b6891a57b78d0eb56f85e095c718c44a1b58137da673110264ac8e2",
+      "masterSha256": "19c958cee10eb1121a76ad9cf810027614b380e5ce7dbf0b2d07c58804b7fef5",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 8,
+      "review": "Ocho cuadros y todas las palabras completas, OCR sin omisiones. Las réplicas de Lavender y Parvati se atribuyen correctamente; James mantiene pelo negro y ropa crema, distinto de Robin. Gala impresa con recogido y vestidos correctos, propios Millicent, Sophie, Daphne y Blaise.",
+      "transcript": "Capítulo 10 · 15\n\nEl Profeta provoca rumores y reacciones de sorpresa, celos y tristeza durante el desayuno de Hogwarts.\nNarración: El lunes, El Profeta convirtió el Gran Comedor en un hervidero de rumores.\nNarración: Chiara Zabini también había elogiado públicamente a la pareja.\nEL PROFETA\nGinny: ¿Van a seguir mirando el periódico toda la mañana?\nNarración: Para Milli y Sophie, la noticia tenía otro peso.\nLavender: ¡Es demasiado perfecto! Seguro que es un contrato de relaciones públicas.\nLavender: ¡Las circunstancias cambiaron!\nParvati: Hace tres días decías que se estaban enamorando.\nBlaise: Weasley no va a soportarlo.\nDaphne: A mí me preocupa que Milli haga alguna tontería.",
+      "panels": [
+        {
+          "scene": "Wide morning Great Hall, FOUR long house tables, floating candles, Gothic windows, castle stone and breakfast dishes. Newspapers across tables, groups whispering. No manor decorations.",
+          "caption": "El lunes, El Profeta convirtió el Gran Comedor en un hervidero de rumores."
+        },
+        {
+          "scene": "Close newspaper only on breakfast table, EL PROFETA masthead, simple gala photo of the pair hand in hand, Hermione blue star gown/CURLY UPDO, Pansy long black gown. No sensual pose. A side article is implied by neat unobtrusive type blocks, not random legible text.",
+          "printed": [
+            "EL PROFETA"
+          ],
+          "caption": "Chiara Zabini también había elogiado públicamente a la pareja."
+        },
+        {
+          "scene": "Gryffindor table Ron ginger hair/freckles stares angry at paper, Harry black messy hair/round glasses/GREEN eyes polishes glasses with robe while baby JAMES securely supported on his lap. Ginny long red hair/BLUE eyes looks exasperated, all red/gold uniforms. Distinct faces from original.",
+          "dialogue": [
+            "Ginny: ¿Van a seguir mirando el periódico toda la mañana?"
+          ]
+        },
+        {
+          "scene": "Two separate small inset reactions: Millicent at GREEN table, BROWN curly ponytail/BROWN eyes own features, grip on juice cup, jealousy but NO breaking glass. Sophie at YELLOW table, shoulder-length HONEY-BLONDE waves/BROWN eyes, sad quiet gaze. Never clone Hermione onto either.",
+          "caption": "Para Milli y Sophie, la noticia tenía otro peso."
+        },
+        {
+          "scene": "Lavender, long blonde CURLS with BURGUNDY hair bow, red/gold uniform, loudly points to newspaper. Parvati own face brown skin/long black braid/BROWN eyes, red/gold uniform, sits beside her unimpressed. A few curious pupils, not main characters.",
+          "dialogue": [
+            "Lavender: ¡Es demasiado perfecto! Seguro que es un contrato de relaciones públicas."
+          ]
+        },
+        {
+          "scene": "Parvati crosses arms while Lavender tries to maintain her confidence, still same table and school attire.",
+          "dialogue": [
+            "Lavender: ¡Las circunstancias cambiaron!",
+            "Parvati: Hace tres días decías que se estaban enamorando."
+          ]
+        },
+        {
+          "scene": "Blaise dark skin/short black curls/brown eyes/green uniform and Daphne long blonde hair/BLUE eyes/green uniform share an amused quiet look at Slytherin table. Daphne safely holds ONE Arianna, light hair/BLUE eyes beige wrap. Millicent blurred at other end.",
+          "dialogue": [
+            "Blaise: Weasley no va a soportarlo.",
+            "Daphne: A mí me preocupa que Milli haga alguna tontería."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create ONE NEW complete Spanish comic page, 1024x1536 portrait. Fine-ink painterly anime comic matching ORIGINAL early character faces and normal older-student proportions, not chibi/3D/large-headed. IMAGE1 original Ch1p2 fixes Hermione/Pansy/Harry/Ron/Ginny face shapes and great-hall architecture; IMAGE2 original Ch1p1 fixes Hermione and SOPHIE honey-blonde shoulder waves/BROWN eyes/yellow Hufflepuff. IMAGE3 ONLY for distinct Millicent (brown curly ponytail/BROWN eyes) and Daphne (LONG blonde/BLUE eyes) identities, NOT its old chibi Pansy. IMAGE4 ONLY Lavender’s long blonde curls/BURGUNDY bow and Gossip Witch parchment style. IMAGE5 fixes Blaise dark skin/short black curls/BROWN eyes, THEO MALE SHORT tousled curly brown hair and Draco platinum/blue-gray, GREEN uniforms, and beige Arianna BLUE eyes, NOT a baby-material reference. ALL babies VISUALLY HUMAN with smooth skin/tiny individual fingers/thumbs/natural infant anatomy, clothing-only knit texture, never skin of fabric/seams/paws. Robin BROWN curls/GREEN eyes, GRAY knit sweater/BEIGE trousers/small cream socks, one unique baby with specified carrier and stable small scale. Arianna light hair/BLUE eyes/BEIGE wrap; Scorpius platinum blond/blue-gray/CREAM. Each safely supported, no replicas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose, mouth, chin, RED/GOLD Gryffindor tie/lining/white shirt/gray vest. Pansy BLACK sleek CHIN-LENGTH side-part bob/flat ends, GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BARE EARS, GREEN/SILVER Slytherin tie/lining, full opaque uniform. Restore mature student proportions and exact individual geometry, varied expressions appropriate to scene, no cloned scowls. Hermione gifted sapphire is oval midnight-blue with clear diamond halo and WHITE PLATINUM chain/front chest if visible, not yellow gold. Ginny long RED hair/BLUE irises. All students in full opaque uniforms. Great Hall four long wood tables, stone Gothic windows, candles and morning light, no manor/underwater bedroom. Thin BLACK panel frames, narrow CREAM gutters, small BLACK upper-left chapter/page header, no decorative flourishes. Follow numbered storyboard order with complete panels and text. Dialogue is structured with SPEAKER metadata for correct tails and TEXT for actual spoken words: PRINT ONLY text values, NEVER speaker names/colons/metadata. Every Spanish accent and word exact, large readable black type in white balloons, captions cream rectangles. Printed parchment/newspaper text only as specified, no random legible labels. No added writing, logo, watermark or author footer; reader adds exterior credit on export. Wholesome school/family comedy with ordinary eye-level framing.\nHEADER exactly: «Capítulo 10 · 15».\nSTORYBOARD: [{\"scene\":\"Wide morning Great Hall, FOUR long house tables, floating candles, Gothic windows, castle stone and breakfast dishes. Newspapers across tables, groups whispering. No manor decorations.\",\"caption\":\"El lunes, El Profeta convirtió el Gran Comedor en un hervidero de rumores.\",\"panel\":1},{\"scene\":\"Close newspaper only on breakfast table, EL PROFETA masthead, simple gala photo of the pair hand in hand, Hermione blue star gown/CURLY UPDO, Pansy long black gown. No sensual pose. A side article is implied by neat unobtrusive type blocks, not random legible text.\",\"printed\":[\"EL PROFETA\"],\"caption\":\"Chiara Zabini también había elogiado públicamente a la pareja.\",\"panel\":2},{\"scene\":\"Gryffindor table Ron ginger hair/freckles stares angry at paper, Harry black messy hair/round glasses/GREEN eyes polishes glasses with robe while baby JAMES securely supported on his lap. Ginny long red hair/BLUE eyes looks exasperated, all red/gold uniforms. Distinct faces from original.\",\"dialogue\":[{\"speaker\":\"Ginny\",\"text\":\"¿Van a seguir mirando el periódico toda la mañana?\"}],\"panel\":3},{\"scene\":\"Two separate small inset reactions: Millicent at GREEN table, BROWN curly ponytail/BROWN eyes own features, grip on juice cup, jealousy but NO breaking glass. Sophie at YELLOW table, shoulder-length HONEY-BLONDE waves/BROWN eyes, sad quiet gaze. Never clone Hermione onto either.\",\"caption\":\"Para Milli y Sophie, la noticia tenía otro peso.\",\"panel\":4},{\"scene\":\"Lavender, long blonde CURLS with BURGUNDY hair bow, red/gold uniform, loudly points to newspaper. Parvati own face brown skin/long black braid/BROWN eyes, red/gold uniform, sits beside her unimpressed. A few curious pupils, not main characters.\",\"dialogue\":[{\"speaker\":\"Lavender\",\"text\":\"¡Es demasiado perfecto! Seguro que es un contrato de relaciones públicas.\"}],\"panel\":5},{\"scene\":\"Parvati crosses arms while Lavender tries to maintain her confidence, still same table and school attire.\",\"dialogue\":[{\"speaker\":\"Parvati\",\"text\":\"Hace tres días decías que se estaban enamorando.\"},{\"speaker\":\"Lavender\",\"text\":\"¡Las circunstancias cambiaron!\"}],\"panel\":6},{\"scene\":\"Blaise dark skin/short black curls/brown eyes/green uniform and Daphne long blonde hair/BLUE eyes/green uniform share an amused quiet look at Slytherin table. Daphne safely holds ONE Arianna, light hair/BLUE eyes beige wrap. Millicent blurred at other end.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"Weasley no va a soportarlo.\"},{\"speaker\":\"Daphne\",\"text\":\"A mí me preocupa que Milli haga alguna tontería.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p016.webp",
+            "paginas/c01-p009.webp",
+            "paginas/c09-p003-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-407d7533-b06f-4199-8725-2ca964086c4e.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Edit this full Spanish comic Capítulo 10 · 15. In the LOWER-RIGHT TWO-PERSON PANEL (blonde Lavender with burgundy bow LEFT and brown-skinned black-braided Parvati RIGHT), the TWO SPEECH BALLOONS are attributed to the wrong speakers. SWAP ONLY their text: LEFT balloon with tail to LAVENDER must say exactly «¡Las circunstancias cambiaron!». RIGHT balloon with tail to PARVATI must say exactly «Hace tres días decías que se estaban enamorando.». Keep clear tails to those characters and all words/accents. Also change ONLY baby JAMES'S sweater on HARRY'S LAP in the MIDDLE-LEFT panel from gray to CREAM to match the following page; preserve his BLACK hair, GREEN eyes, tiny natural hands and beige trousers, safe carrier Harry. Robin does NOT appear in this page and must not be added. Everything else including all other texts/captions/header/newspaper photo, all faces/expressions/hair, clothes, architecture, all panels and complete 1024x1536 stays unchanged. No names/labels in balloons, no other new text or watermark.",
+          "references": [
+            "exec-407d7533-b06f-4199-8725-2ca964086c4e.png"
+          ],
+          "generatedMaster": "exec-e28b90d1-9895-4f8c-9c9d-4881cb6ced36.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 16,
+      "image": "paginas/c10-p016.webp",
+      "sourcePdfPages": [
+        269,
+        270
+      ],
+      "summary": "Hermione y Pansy entran con Robin, ajenas al rumor, y recorren juntas el Gran Comedor.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p016.png",
+      "generatedMaster": "exec-8137bf62-9875-48e5-be35-ca4494529a6b.png",
+      "sha256": "a3abaffd62911c729c44f2b3376927d9be48a19be3f8211b8f187d9ff7ce5f84",
+      "masterSha256": "6b8af21ff717282e72c8c9fc44f04611352202abfb237075bfd7930eedc25338",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 9,
+      "review": "Nueve cuadros, cabecera restaurada, todas las palabras contrastadas visualmente incluidas las omisiones de OCR. Sophie recupera iris castaños. Entrada, mano de apoyo, traspaso seguro de un solo Robin a Pansy y reacción de las mesas completos; James distinto con ropa crema.",
+      "transcript": "Capítulo 10 · 16\n\nHermione y Pansy entran con Robin, ajenas al rumor, y recorren juntas el Gran Comedor.\nPansy: Admite que fue glorioso, Granger.\nHermione: ¡Derramó el té sobre documentos oficiales!\nPansy: Fue legítima defensa. Nadie amenaza a su familia.\nRobin: ¡Ba!\nHermione: Nos están mirando todos.\nPansy: Que miren.\nNarración: Pansy tomó a Robin y buscó la mano de Hermione.\nNarración: No necesitaban explicar nada al resto del comedor.\nParvati: Te lo dije.\nNarración: Sophie las vio pasar sin decir nada.",
+      "panels": [
+        {
+          "scene": "Wide oak Great Hall entrance. Hermione RED/GOLD uniform carries tiny gray-sweater Robin on her LEFT hip, secure forearm under him; Pansy GREEN/SILVER uniform beside her holds ONE of baby’s tiny hands gently. Both talk naturally, warm own faces, no staged march.",
+          "dialogue": [
+            "Pansy: Admite que fue glorioso, Granger.",
+            "Hermione: ¡Derramó el té sobre documentos oficiales!"
+          ]
+        },
+        {
+          "scene": "Pansy grins toward Robin, still carried by Hermione. Robin gray sweater/beige trousers/brown curls/green eyes, natural skin and fingers, cheerful small infant not a toy.",
+          "dialogue": [
+            "Pansy: Fue legítima defensa. Nadie amenaza a su familia.",
+            "Robin: ¡Ba!"
+          ]
+        },
+        {
+          "scene": "Pansy gently tucks ONE loose Hermione curl behind her ear with clear natural hand, ordinary wholesome gesture. Hermione suddenly notices the watching room, not frightened.",
+          "dialogue": [
+            "Hermione: Nos están mirando todos.",
+            "Pansy: Que miren."
+          ]
+        },
+        {
+          "scene": "ONE clear safe baby handover: Hermione passes Robin into Pansy’s two supportive arms, both in full uniforms, natural infant scale. Next panel will show finished handover. No extra baby or extra limb.",
+          "caption": "Pansy tomó a Robin y buscó la mano de Hermione."
+        },
+        {
+          "scene": "Wide the pair now walk hand in hand to Slytherin table. PANSY carries Robin securely against torso with one arm, holds HERMIONE’S hand with other. Hermione no baby now. Background watching students, warm morning light.",
+          "caption": "No necesitaban explicar nada al resto del comedor."
+        },
+        {
+          "scene": "Reaction three small consecutive windows: Lavender speechless/Parvati knowing side-eye; Ron glaring at clasped hands; Harry with baby James on lap chewing end of red/gold tie, held safely, Ginny amused. No additional main couple or Robin in reaction windows.",
+          "dialogue": [
+            "Parvati: Te lo dije."
+          ]
+        },
+        {
+          "scene": "At Hufflepuff table Sophie honey-blonde shoulder waves/BROWN eyes quietly watches the pair with bittersweet face, yellow/black uniform, a parchment in hands. Keep distinct from Daphne’s LONG blonde/BLUE eyes.",
+          "caption": "Sophie las vio pasar sin decir nada."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create ONE NEW complete Spanish comic page, 1024x1536 portrait. Fine-ink painterly anime comic matching ORIGINAL early character faces and normal older-student proportions, not chibi/3D/large-headed. IMAGE1 original Ch1p2 fixes Hermione/Pansy/Harry/Ron/Ginny face shapes and great-hall architecture; IMAGE2 original Ch1p1 fixes Hermione and SOPHIE honey-blonde shoulder waves/BROWN eyes/yellow Hufflepuff. IMAGE3 ONLY for distinct Millicent (brown curly ponytail/BROWN eyes) and Daphne (LONG blonde/BLUE eyes) identities, NOT its old chibi Pansy. IMAGE4 ONLY Lavender’s long blonde curls/BURGUNDY bow and Gossip Witch parchment style. IMAGE5 fixes Blaise dark skin/short black curls/BROWN eyes, THEO MALE SHORT tousled curly brown hair and Draco platinum/blue-gray, GREEN uniforms, and beige Arianna BLUE eyes, NOT a baby-material reference. ALL babies VISUALLY HUMAN with smooth skin/tiny individual fingers/thumbs/natural infant anatomy, clothing-only knit texture, never skin of fabric/seams/paws. Robin BROWN curls/GREEN eyes, GRAY knit sweater/BEIGE trousers/small cream socks, one unique baby with specified carrier and stable small scale. Arianna light hair/BLUE eyes/BEIGE wrap; Scorpius platinum blond/blue-gray/CREAM. Each safely supported, no replicas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose, mouth, chin, RED/GOLD Gryffindor tie/lining/white shirt/gray vest. Pansy BLACK sleek CHIN-LENGTH side-part bob/flat ends, GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BARE EARS, GREEN/SILVER Slytherin tie/lining, full opaque uniform. Restore mature student proportions and exact individual geometry, varied expressions appropriate to scene, no cloned scowls. Hermione gifted sapphire is oval midnight-blue with clear diamond halo and WHITE PLATINUM chain/front chest if visible, not yellow gold. Ginny long RED hair/BLUE irises. All students in full opaque uniforms. Great Hall four long wood tables, stone Gothic windows, candles and morning light, no manor/underwater bedroom. Thin BLACK panel frames, narrow CREAM gutters, small BLACK upper-left chapter/page header, no decorative flourishes. Follow numbered storyboard order with complete panels and text. Dialogue is structured with SPEAKER metadata for correct tails and TEXT for actual spoken words: PRINT ONLY text values, NEVER speaker names/colons/metadata. Every Spanish accent and word exact, large readable black type in white balloons, captions cream rectangles. Printed parchment/newspaper text only as specified, no random legible labels. No added writing, logo, watermark or author footer; reader adds exterior credit on export. Wholesome school/family comedy with ordinary eye-level framing.\nHEADER exactly: «Capítulo 10 · 16».\nSTORYBOARD: [{\"scene\":\"Wide oak Great Hall entrance. Hermione RED/GOLD uniform carries tiny gray-sweater Robin on her LEFT hip, secure forearm under him; Pansy GREEN/SILVER uniform beside her holds ONE of baby’s tiny hands gently. Both talk naturally, warm own faces, no staged march.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Admite que fue glorioso, Granger.\"},{\"speaker\":\"Hermione\",\"text\":\"¡Derramó el té sobre documentos oficiales!\"}],\"panel\":1},{\"scene\":\"Pansy grins toward Robin, still carried by Hermione. Robin gray sweater/beige trousers/brown curls/green eyes, natural skin and fingers, cheerful small infant not a toy.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Fue legítima defensa. Nadie amenaza a su familia.\"},{\"speaker\":\"Robin\",\"text\":\"¡Ba!\"}],\"panel\":2},{\"scene\":\"Pansy gently tucks ONE loose Hermione curl behind her ear with clear natural hand, ordinary wholesome gesture. Hermione suddenly notices the watching room, not frightened.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Nos están mirando todos.\"},{\"speaker\":\"Pansy\",\"text\":\"Que miren.\"}],\"panel\":3},{\"scene\":\"ONE clear safe baby handover: Hermione passes Robin into Pansy’s two supportive arms, both in full uniforms, natural infant scale. Next panel will show finished handover. No extra baby or extra limb.\",\"caption\":\"Pansy tomó a Robin y buscó la mano de Hermione.\",\"panel\":4},{\"scene\":\"Wide the pair now walk hand in hand to Slytherin table. PANSY carries Robin securely against torso with one arm, holds HERMIONE’S hand with other. Hermione no baby now. Background watching students, warm morning light.\",\"caption\":\"No necesitaban explicar nada al resto del comedor.\",\"panel\":5},{\"scene\":\"Reaction three small consecutive windows: Lavender speechless/Parvati knowing side-eye; Ron glaring at clasped hands; Harry with baby James on lap chewing end of red/gold tie, held safely, Ginny amused. No additional main couple or Robin in reaction windows.\",\"dialogue\":[{\"speaker\":\"Parvati\",\"text\":\"Te lo dije.\"}],\"panel\":6},{\"scene\":\"At Hufflepuff table Sophie honey-blonde shoulder waves/BROWN eyes quietly watches the pair with bittersweet face, yellow/black uniform, a parchment in hands. Keep distinct from Daphne’s LONG blonde/BLUE eyes.\",\"caption\":\"Sophie las vio pasar sin decir nada.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p016.webp",
+            "paginas/c01-p009.webp",
+            "paginas/c09-p003-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-290f613a-02d0-4628-ad7a-ac7c39b2baab.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. This full 1024x1536 comic page has an EMPTY cream strip above the first panel. Add ONLY its small BLACK upper-left serif header «Capítulo 10 · 16» in that existing empty strip, about 23px tall, matching other pages, no flourish. In the FINAL BOTTOM PANEL, SOPHIE (honey-blonde shoulder-length waves, YELLOW Hufflepuff uniform, holding a parchment) must have BROWN irises, matching her original chapter1 appearance, not green/gray. Change only her iris color, preserve exact expression/face geometry. Keep ALL other artwork completely unchanged: faces, clothes, baby/carrier/handovers, architecture, jewelry, every Spanish word/balloon/caption/tail/accent, all panels and complete frame. No extra writing or watermark.",
+          "references": [
+            "exec-290f613a-02d0-4628-ad7a-ac7c39b2baab.png"
+          ],
+          "generatedMaster": "exec-8137bf62-9875-48e5-be35-ca4494529a6b.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "derramo",
+          "necesitaban",
+          "explicar",
+          "resto",
+          "comedor"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 17,
+      "image": "paginas/c10-p017.webp",
+      "sourcePdfPages": [
+        270,
+        272
+      ],
+      "summary": "Los amigos las reciben y el nuevo ranking las sitúa en el primer puesto.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p017.png",
+      "generatedMaster": "exec-e2529acf-8ec1-413d-b51d-284014fc3bd8.png",
+      "sha256": "4eca991df707ca02a1138d6610561ebdf726feddac02b78caa7a6cea616aa3ca",
+      "masterSha256": "2d4c3ae33fe5c4ad2d2edee9769c382d2be54456f55d686b5dcbd543aa7baeec",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 9,
+      "review": "Nueve cuadros completos. Pregunta de Theo antes de la respuesta de Hermione, con rostro de Pansy restaurado visible y respuesta bajo el rostro de Hermione. Ranking, fotografía antigua, todos los textos, identidades, uniformes y bebés conservados; omisiones de OCR contrastadas visualmente.",
+      "transcript": "Capítulo 10 · 17\n\nLos amigos las reciben y el nuevo ranking las sitúa en el primer puesto.\nTheo: Al fin llegan. ¿A quién derrotamos antes de la primera clase?\nHermione: A McGonagall, aparentemente.\nPansy: Fue Robin. Tiene talento para la intimidación.\nBlaise: Es un Parkinson, Hermione. Acostúmbrate.\nAstoria: Cissy recibió decenas de cartas. Los Parkinson siempre admiraron a las mujeres inteligentes.\nDraco: Yo fui pareja de Pansy. Y no soy una chica.\nAstoria: Te faltaba el toque Granger, mi amor.\nAstoria: ¡Miren el ranking!\nGossip Witch\n1. Pansy Parkinson y Hermione Granger\n2. Blaise Zabini y Daphne Greengrass\n3. Katie Brennan y Diane Westmeath\n4. Draco Malfoy y Astoria Greengrass\n10. Oliver Walsh y Lavender Brown\nBlaise: Si van a quedarse en la cima, actualicen esa foto. Ya no parecen querer matarse.",
+      "panels": [
+        {
+          "scene": "Wide Slytherin breakfast table: Hermione red/gold sits beside Pansy green/silver with ONE Robin on PANSY’S lap, gray sweater/beige trousers. Theo MALE short tousled curly BROWN hair/own face/green uniform leans forward amused, Blaise dark skin/short black curls and Daphne long blonde BLUE eyes green uniform beside them. Distinct faces, no long-haired Theo.",
+          "dialogue": [
+            "Theo: Al fin llegan. ¿A quién derrotamos antes de la primera clase?",
+            "Hermione: A McGonagall, aparentemente."
+          ]
+        },
+        {
+          "scene": "Pansy smiles proudly at Robin, whose tiny HUMAN fingers touch her green tie. Blaise amused at side of panel, no beige mittens/paws or cloth skin.",
+          "dialogue": [
+            "Pansy: Fue Robin. Tiene talento para la intimidación.",
+            "Blaise: Es un Parkinson, Hermione. Acostúmbrate."
+          ]
+        },
+        {
+          "scene": "Astoria own long BROWN waves/BLUE-GRAY eyes and green uniform shares delighted news, Draco platinum hair/blue-gray eyes/green uniform beside her, baby Scorpius safe in cream-clothed stroller alongside. No adult Narcissa present.",
+          "dialogue": [
+            "Astoria: Cissy recibió decenas de cartas. Los Parkinson siempre admiraron a las mujeres inteligentes."
+          ]
+        },
+        {
+          "scene": "Draco mock-offended crosses arms, Astoria fondly smiles toward him with one hand to his cheek. Pansy and Hermione amused in background, Robin stays supported.",
+          "dialogue": [
+            "Draco: Yo fui pareja de Pansy. Y no soy una chica.",
+            "Astoria: Te faltaba el toque Granger, mi amor."
+          ]
+        },
+        {
+          "scene": "Small magical chime at parchment, Astoria unfolds glowing covenparch toward group. No modern phones. Hands and glowing ink clear, wood table and goblets.",
+          "dialogue": [
+            "Astoria: ¡Miren el ranking!"
+          ]
+        },
+        {
+          "scene": "Large readable parchment inset, neatly aligned black type, no faces needed, top four entries and LAST tenth entry only exactly below. Leave deliberate blank separation before tenth, not fake missing numbers.",
+          "printed": [
+            "Gossip Witch",
+            "1. Pansy Parkinson y Hermione Granger",
+            "2. Blaise Zabini y Daphne Greengrass",
+            "3. Katie Brennan y Diane Westmeath",
+            "4. Draco Malfoy y Astoria Greengrass",
+            "10. Oliver Walsh y Lavender Brown"
+          ]
+        },
+        {
+          "scene": "Blaise lightly whistles and points to small OLD profile picture on parchment: H&P in uniform looking annoyed, NOT changing actual now-happy faces. Hermione and Pansy exchange shy smile, Robin on Pansy lap.",
+          "dialogue": [
+            "Blaise: Si van a quedarse en la cima, actualicen esa foto. Ya no parecen querer matarse."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create ONE NEW complete Spanish comic page, 1024x1536 portrait. Fine-ink painterly anime comic matching ORIGINAL early character faces and normal older-student proportions, not chibi/3D/large-headed. IMAGE1 original Ch1p2 fixes Hermione/Pansy/Harry/Ron/Ginny face shapes and great-hall architecture; IMAGE2 original Ch1p1 fixes Hermione and SOPHIE honey-blonde shoulder waves/BROWN eyes/yellow Hufflepuff. IMAGE3 ONLY for distinct Millicent (brown curly ponytail/BROWN eyes) and Daphne (LONG blonde/BLUE eyes) identities, NOT its old chibi Pansy. IMAGE4 ONLY Lavender’s long blonde curls/BURGUNDY bow and Gossip Witch parchment style. IMAGE5 fixes Blaise dark skin/short black curls/BROWN eyes, THEO MALE SHORT tousled curly brown hair and Draco platinum/blue-gray, GREEN uniforms, and beige Arianna BLUE eyes, NOT a baby-material reference. ALL babies VISUALLY HUMAN with smooth skin/tiny individual fingers/thumbs/natural infant anatomy, clothing-only knit texture, never skin of fabric/seams/paws. Robin BROWN curls/GREEN eyes, GRAY knit sweater/BEIGE trousers/small cream socks, one unique baby with specified carrier and stable small scale. Arianna light hair/BLUE eyes/BEIGE wrap; Scorpius platinum blond/blue-gray/CREAM. Each safely supported, no replicas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose, mouth, chin, RED/GOLD Gryffindor tie/lining/white shirt/gray vest. Pansy BLACK sleek CHIN-LENGTH side-part bob/flat ends, GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BARE EARS, GREEN/SILVER Slytherin tie/lining, full opaque uniform. Restore mature student proportions and exact individual geometry, varied expressions appropriate to scene, no cloned scowls. Hermione gifted sapphire is oval midnight-blue with clear diamond halo and WHITE PLATINUM chain/front chest if visible, not yellow gold. Ginny long RED hair/BLUE irises. All students in full opaque uniforms. Great Hall four long wood tables, stone Gothic windows, candles and morning light, no manor/underwater bedroom. Thin BLACK panel frames, narrow CREAM gutters, small BLACK upper-left chapter/page header, no decorative flourishes. Follow numbered storyboard order with complete panels and text. Dialogue is structured with SPEAKER metadata for correct tails and TEXT for actual spoken words: PRINT ONLY text values, NEVER speaker names/colons/metadata. Every Spanish accent and word exact, large readable black type in white balloons, captions cream rectangles. Printed parchment/newspaper text only as specified, no random legible labels. No added writing, logo, watermark or author footer; reader adds exterior credit on export. Wholesome school/family comedy with ordinary eye-level framing.\nHEADER exactly: «Capítulo 10 · 17».\nSTORYBOARD: [{\"scene\":\"Wide Slytherin breakfast table: Hermione red/gold sits beside Pansy green/silver with ONE Robin on PANSY’S lap, gray sweater/beige trousers. Theo MALE short tousled curly BROWN hair/own face/green uniform leans forward amused, Blaise dark skin/short black curls and Daphne long blonde BLUE eyes green uniform beside them. Distinct faces, no long-haired Theo.\",\"dialogue\":[{\"speaker\":\"Theo\",\"text\":\"Al fin llegan. ¿A quién derrotamos antes de la primera clase?\"},{\"speaker\":\"Hermione\",\"text\":\"A McGonagall, aparentemente.\"}],\"panel\":1},{\"scene\":\"Pansy smiles proudly at Robin, whose tiny HUMAN fingers touch her green tie. Blaise amused at side of panel, no beige mittens/paws or cloth skin.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Fue Robin. Tiene talento para la intimidación.\"},{\"speaker\":\"Blaise\",\"text\":\"Es un Parkinson, Hermione. Acostúmbrate.\"}],\"panel\":2},{\"scene\":\"Astoria own long BROWN waves/BLUE-GRAY eyes and green uniform shares delighted news, Draco platinum hair/blue-gray eyes/green uniform beside her, baby Scorpius safe in cream-clothed stroller alongside. No adult Narcissa present.\",\"dialogue\":[{\"speaker\":\"Astoria\",\"text\":\"Cissy recibió decenas de cartas. Los Parkinson siempre admiraron a las mujeres inteligentes.\"}],\"panel\":3},{\"scene\":\"Draco mock-offended crosses arms, Astoria fondly smiles toward him with one hand to his cheek. Pansy and Hermione amused in background, Robin stays supported.\",\"dialogue\":[{\"speaker\":\"Draco\",\"text\":\"Yo fui pareja de Pansy. Y no soy una chica.\"},{\"speaker\":\"Astoria\",\"text\":\"Te faltaba el toque Granger, mi amor.\"}],\"panel\":4},{\"scene\":\"Small magical chime at parchment, Astoria unfolds glowing covenparch toward group. No modern phones. Hands and glowing ink clear, wood table and goblets.\",\"dialogue\":[{\"speaker\":\"Astoria\",\"text\":\"¡Miren el ranking!\"}],\"panel\":5},{\"scene\":\"Large readable parchment inset, neatly aligned black type, no faces needed, top four entries and LAST tenth entry only exactly below. Leave deliberate blank separation before tenth, not fake missing numbers.\",\"printed\":[\"Gossip Witch\",\"1. Pansy Parkinson y Hermione Granger\",\"2. Blaise Zabini y Daphne Greengrass\",\"3. Katie Brennan y Diane Westmeath\",\"4. Draco Malfoy y Astoria Greengrass\",\"10. Oliver Walsh y Lavender Brown\"],\"panel\":6},{\"scene\":\"Blaise lightly whistles and points to small OLD profile picture on parchment: H&P in uniform looking annoyed, NOT changing actual now-happy faces. Hermione and Pansy exchange shy smile, Robin on Pansy lap.\",\"dialogue\":[{\"speaker\":\"Blaise\",\"text\":\"Si van a quedarse en la cima, actualicen esa foto. Ya no parecen querer matarse.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p016.webp",
+            "paginas/c01-p009.webp",
+            "paginas/c09-p003-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-3cc641e3-ca1f-4100-b103-efe534402cc9.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: text-localization. Edit ONLY the TWO speech balloons of the TOP FIRST WIDE PANEL in this complete Spanish comic Capítulo 10 · 17. Their current horizontal order makes the reply appear before the question. THEO (MALE short CURLY BROWN hair, seated center) must ask FIRST: «Al fin llegan. ¿A quién derrotamos antes de la primera clase?». HERMIONE (chestnut LONG curls, far left) replies SECOND: «A McGonagall, aparentemente.». Reposition/reflow only these TWO balloons in clear left-to-right/top-to-bottom reading order: Theo's question across the UPPER LEFT/CENTER empty space, with a clear tail to THEO; Hermione's smaller reply BELOW/AFTER that, toward her far-left figure, with a clear tail to HERMIONE. No overlapping faces or confusing crossing tails. Keep every letter and accent exact, do not add names. Preserve ALL drawing and every other word/balloon/caption/header/ranking/photo, every face/body/outfit/baby/carrier, all panel borders and the complete 1024x1536 frame unchanged. No additional text or watermark.",
+          "references": [
+            "exec-3cc641e3-ca1f-4100-b103-efe534402cc9.png"
+          ],
+          "generatedMaster": "exec-0d280071-2c83-4208-bb3e-b08f526c3426.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: text-localization. IMAGE1 is the earlier complete Capítulo 10 · 17 with PANSY'S face unobscured in the FIRST TOP panel. IMAGE2 is the current complete page to EDIT. In IMAGE2, the small reply balloon «A McGonagall, aparentemente.» mistakenly COVERS PANSY'S FACE. Move ONLY that small reply balloon DOWN to the LOWER-LEFT corner INSIDE the SAME FIRST PANEL, near Hermione's lower torso/table edge BELOW her face (roughly x20–240, y270–325), with a short upward tail to HERMIONE, the chestnut-curly girl at far left. Do NOT cover any face, hairline or baby. Keep exact reply text. Remove its old position over Pansy's head and RESTORE THE SAME PANSY FACE/BLACK CHIN-LENGTH BOB from IMAGE1 beneath it; Pansy must be fully visible and identical to that earlier face. Keep Theo's current larger QUESTION balloon at the TOP unchanged; the question is read before the lower reply. This is ONLY a balloon relocation/restoration of covered drawing, no other redrawing. Preserve every other word/balloon/tail/header/ranking/photo, all NINE panels, all characters/babies/outfits/jewelry/carriers, backgrounds and the exact entire 1024x1536 frame of IMAGE2. No new text, labels or watermark.",
+          "references": [
+            "exec-3cc641e3-ca1f-4100-b103-efe534402cc9.png",
+            "exec-0d280071-2c83-4208-bb3e-b08f526c3426.png"
+          ],
+          "generatedMaster": "exec-e2529acf-8ec1-413d-b51d-284014fc3bd8.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "miren",
+          "gossip",
+          "witch"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 18,
+      "image": "paginas/c10-p018.webp",
+      "sourcePdfPages": [
+        272,
+        275
+      ],
+      "summary": "Entre advertencias sobre Katie y Diane, el grupo se prepara para las revisiones del proyecto. Robin se despide de Arianna.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p018.png",
+      "generatedMaster": "exec-b67e2e71-b502-44d7-b9bf-69a37f8d3fc1.png",
+      "sha256": "c11b23849f4ff19084149e31bb1d5c525f0e2d4c2aacdaee759079c85034703b",
+      "masterSha256": "056dee126818fb1206b3b736410b80a1567a0d3e8555ef265b6ba915e1c1588b",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 8,
+      "review": "Ocho cuadros, todos los textos y OCR sin omisiones. Pansy responde el primer turno junto a Tracey en el sexto cuadro; Wayne mantiene su identidad masculina y amarillo en el cuadro siguiente. Bebés de apariencia humana, distintos y sostenidos, despedida de Arianna, Sophie y secundarios conservados.",
+      "transcript": "Capítulo 10 · 18\n\nEntre advertencias sobre Katie y Diane, el grupo se prepara para las revisiones del proyecto. Robin se despide de Arianna.\nDaphne: Miren quién decidió despertar.\nNarración: La mirada de Sophie volvió a encontrar la suya.\nDraco: Solo Brennan y Westmeath nos estorban en la cima.\nHermione: En Herbología siempre han sido amables.\nDaphne: Diane destaca en lo académico y Katie en Quidditch. Pero no llevan bien la competencia.\nAstoria: Si no amenazas su lugar, todo es perfecto. Si brillas más que ellas… te congelan.\nTracey: ¿Quién tiene evaluación con su medimago ahora?\nPansy: Nosotras. Tenemos el primer turno.\nDraco: Tory y yo también vamos al quinto piso.\nTracey: Wayne y yo igual.\nNarración: Antes de salir, Robin recibió una despedida de Arianna.",
+      "panels": [
+        {
+          "scene": "At Slytherin table Daphne lifts Arianna from beige stroller and holds her safely; baby light hair/BLUE eyes in beige wrap. Robin on Pansy’s lap turns toward her waving tiny fingers. Hermione red/gold, others green/silver.",
+          "dialogue": [
+            "Daphne: Miren quién decidió despertar."
+          ]
+        },
+        {
+          "scene": "Hermione looks across room: Ron storms out after argument with Ginny; farther away Sophie honey-blonde shoulder waves/BROWN eyes meets Hermione’s glance sadly. Show separate house tables clearly, no clone faces, no touching.",
+          "caption": "La mirada de Sophie volvió a encontrar la suya."
+        },
+        {
+          "scene": "Draco points to THIRD place on covenparch, not rereading full chart. Theo and Pansy unimpressed, Hermione puzzled, baby remains secure.",
+          "dialogue": [
+            "Draco: Solo Brennan y Westmeath nos estorban en la cima.",
+            "Hermione: En Herbología siempre han sido amables."
+          ]
+        },
+        {
+          "scene": "Daphne long BLONDE/BLUE eyes explains cautiously, now with baby Arianna safely on lap. Astoria long BROWN/blue-gray eyes beside her, not her blonde clone.",
+          "dialogue": [
+            "Daphne: Diane destaca en lo académico y Katie en Quidditch. Pero no llevan bien la competencia."
+          ]
+        },
+        {
+          "scene": "Astoria leans a little closer to Hermione with candid warning, natural friendly discussion, green uniforms.",
+          "dialogue": [
+            "Astoria: Si no amenazas su lugar, todo es perfecto. Si brillas más que ellas… te congelan."
+          ]
+        },
+        {
+          "scene": "Tracey own long BROWN HIGH PONYTAIL/BROWN eyes and GREEN uniform leans forward, Wayne distinct MALE short light-brown hair/YELLOW Hufflepuff uniform beside her with beige stroller holding safely dressed baby Caitlyn.",
+          "dialogue": [
+            "Tracey: ¿Quién tiene evaluación con su medimago ahora?",
+            "Pansy: Nosotras. Tenemos el primer turno."
+          ]
+        },
+        {
+          "scene": "Students stand with bags, Pansy securely carries Robin in gray sweater and takes Hermione’s hand. Draco helps Astoria up, one cream Scorpius in stroller. Tracey/Wayne prepare Caitlyn stroller. Daphne/Blaise remain seated with Arianna.",
+          "dialogue": [
+            "Draco: Tory y yo también vamos al quinto piso.",
+            "Tracey: Wayne y yo igual."
+          ]
+        },
+        {
+          "scene": "Close goodbye: Pansy holds Robin securely, small HUMAN infant brown curls/GREEN eyes turns to Arianna in Daphne’s arms. Arianna light hair/BLUE eyes makes a tiny smiling kiss-air gesture toward him; parents amused, simple innocent baby action, no duplicated hands.",
+          "caption": "Antes de salir, Robin recibió una despedida de Arianna."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. Create ONE NEW complete Spanish comic page, 1024x1536 portrait. Fine-ink painterly anime comic matching ORIGINAL early character faces and normal older-student proportions, not chibi/3D/large-headed. IMAGE1 original Ch1p2 fixes Hermione/Pansy/Harry/Ron/Ginny face shapes and great-hall architecture; IMAGE2 original Ch1p1 fixes Hermione and SOPHIE honey-blonde shoulder waves/BROWN eyes/yellow Hufflepuff. IMAGE3 ONLY for distinct Millicent (brown curly ponytail/BROWN eyes) and Daphne (LONG blonde/BLUE eyes) identities, NOT its old chibi Pansy. IMAGE4 ONLY Lavender’s long blonde curls/BURGUNDY bow and Gossip Witch parchment style. IMAGE5 fixes Blaise dark skin/short black curls/BROWN eyes, THEO MALE SHORT tousled curly brown hair and Draco platinum/blue-gray, GREEN uniforms, and beige Arianna BLUE eyes, NOT a baby-material reference. ALL babies VISUALLY HUMAN with smooth skin/tiny individual fingers/thumbs/natural infant anatomy, clothing-only knit texture, never skin of fabric/seams/paws. Robin BROWN curls/GREEN eyes, GRAY knit sweater/BEIGE trousers/small cream socks, one unique baby with specified carrier and stable small scale. Arianna light hair/BLUE eyes/BEIGE wrap; Scorpius platinum blond/blue-gray/CREAM. Each safely supported, no replicas. Hermione BROWN eyes/freckles/voluminous layered chestnut curls/original nose, mouth, chin, RED/GOLD Gryffindor tie/lining/white shirt/gray vest. Pansy BLACK sleek CHIN-LENGTH side-part bob/flat ends, GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BARE EARS, GREEN/SILVER Slytherin tie/lining, full opaque uniform. Restore mature student proportions and exact individual geometry, varied expressions appropriate to scene, no cloned scowls. Hermione gifted sapphire is oval midnight-blue with clear diamond halo and WHITE PLATINUM chain/front chest if visible, not yellow gold. Ginny long RED hair/BLUE irises. All students in full opaque uniforms. Great Hall four long wood tables, stone Gothic windows, candles and morning light, no manor/underwater bedroom. Thin BLACK panel frames, narrow CREAM gutters, small BLACK upper-left chapter/page header, no decorative flourishes. Follow numbered storyboard order with complete panels and text. Dialogue is structured with SPEAKER metadata for correct tails and TEXT for actual spoken words: PRINT ONLY text values, NEVER speaker names/colons/metadata. Every Spanish accent and word exact, large readable black type in white balloons, captions cream rectangles. Printed parchment/newspaper text only as specified, no random legible labels. No added writing, logo, watermark or author footer; reader adds exterior credit on export. Wholesome school/family comedy with ordinary eye-level framing.\nHEADER exactly: «Capítulo 10 · 18».\nSTORYBOARD: [{\"scene\":\"At Slytherin table Daphne lifts Arianna from beige stroller and holds her safely; baby light hair/BLUE eyes in beige wrap. Robin on Pansy’s lap turns toward her waving tiny fingers. Hermione red/gold, others green/silver.\",\"dialogue\":[{\"speaker\":\"Daphne\",\"text\":\"Miren quién decidió despertar.\"}],\"panel\":1},{\"scene\":\"Hermione looks across room: Ron storms out after argument with Ginny; farther away Sophie honey-blonde shoulder waves/BROWN eyes meets Hermione’s glance sadly. Show separate house tables clearly, no clone faces, no touching.\",\"caption\":\"La mirada de Sophie volvió a encontrar la suya.\",\"panel\":2},{\"scene\":\"Draco points to THIRD place on covenparch, not rereading full chart. Theo and Pansy unimpressed, Hermione puzzled, baby remains secure.\",\"dialogue\":[{\"speaker\":\"Draco\",\"text\":\"Solo Brennan y Westmeath nos estorban en la cima.\"},{\"speaker\":\"Hermione\",\"text\":\"En Herbología siempre han sido amables.\"}],\"panel\":3},{\"scene\":\"Daphne long BLONDE/BLUE eyes explains cautiously, now with baby Arianna safely on lap. Astoria long BROWN/blue-gray eyes beside her, not her blonde clone.\",\"dialogue\":[{\"speaker\":\"Daphne\",\"text\":\"Diane destaca en lo académico y Katie en Quidditch. Pero no llevan bien la competencia.\"}],\"panel\":4},{\"scene\":\"Astoria leans a little closer to Hermione with candid warning, natural friendly discussion, green uniforms.\",\"dialogue\":[{\"speaker\":\"Astoria\",\"text\":\"Si no amenazas su lugar, todo es perfecto. Si brillas más que ellas… te congelan.\"}],\"panel\":5},{\"scene\":\"Tracey own long BROWN HIGH PONYTAIL/BROWN eyes and GREEN uniform leans forward, Wayne distinct MALE short light-brown hair/YELLOW Hufflepuff uniform beside her with beige stroller holding safely dressed baby Caitlyn.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"¿Quién tiene evaluación con su medimago ahora?\"},{\"speaker\":\"Pansy\",\"text\":\"Nosotras. Tenemos el primer turno.\"}],\"panel\":6},{\"scene\":\"Students stand with bags, Pansy securely carries Robin in gray sweater and takes Hermione’s hand. Draco helps Astoria up, one cream Scorpius in stroller. Tracey/Wayne prepare Caitlyn stroller. Daphne/Blaise remain seated with Arianna.\",\"dialogue\":[{\"speaker\":\"Draco\",\"text\":\"Tory y yo también vamos al quinto piso.\"},{\"speaker\":\"Tracey\",\"text\":\"Wayne y yo igual.\"}],\"panel\":7},{\"scene\":\"Close goodbye: Pansy holds Robin securely, small HUMAN infant brown curls/GREEN eyes turns to Arianna in Daphne’s arms. Arianna light hair/BLUE eyes makes a tiny smiling kiss-air gesture toward him; parents amused, simple innocent baby action, no duplicated hands.\",\"caption\":\"Antes de salir, Robin recibió una despedida de Arianna.\",\"panel\":8}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p016.webp",
+            "paginas/c01-p009.webp",
+            "paginas/c09-p003-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-8f32fd28-aa76-431c-be8f-f1237f6a4e5b.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: identity-preserve. Correct ONLY ONE character in ONE panel of this full Spanish comic Capítulo 10 · 18. In the THIRD ROW RIGHT panel, Tracey (long brown HIGH PONYTAIL, GREEN uniform) asks «¿Quién tiene evaluación con su medimago ahora?». The figure replying «Nosotras. Tenemos el primer turno.» must be PANSY, not Wayne. Replace ONLY that short-haired MALE Wayne figure beside Tracey with the same PANSY seen elsewhere on THIS page: sleek BLACK side-part CHIN-LENGTH flat bob, GREEN slender almond eyes, angular jaw/tapered chin, her own older-student face, GREEN/SILVER Slytherin tie/robe. Keep the seated pose and natural proportions, and keep the reply balloon's tail pointing clearly to this corrected Pansy figure. Do not alter Tracey, her question, the small Caitlyn stroller in this panel, or any other person anywhere. WAYNE stays male with light-brown short hair and YELLOW Hufflepuff uniform in the following wide DEPARTURE panel; leave him there completely unchanged. Preserve ALL exact Spanish words, accents, balloons/captions/header/ranking, all eight panels, every other face, baby/carrier, outfit, gesture, jewelry, table and background, full 1024x1536 framing. No new text or watermark.",
+          "references": [
+            "exec-8f32fd28-aa76-431c-be8f-f1237f6a4e5b.png"
+          ],
+          "generatedMaster": "exec-b67e2e71-b502-44d7-b9bf-69a37f8d3fc1.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 19,
+      "image": "paginas/c10-p019.webp",
+      "sourcePdfPages": [
+        275,
+        277
+      ],
+      "summary": "Elsie evalúa a Robin y explica que su pulso procede de la magia compartida por sus madres.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p019.png",
+      "generatedMaster": "exec-26cc3167-650c-4ee2-bfe1-a48c783cb4b9.png",
+      "sha256": "bf68da39b134594194d79b566e0c599337142908a653b17dde1301d4b9e6f8a6",
+      "masterSha256": "f42cd9a3fcb08c0696b84c3af3729e161d7d62c29bcbd2acb23518f4f6e487e5",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos, revisión gentil del bebé vestido, manos y piel humanas, apoyo de camilla y cuidadores, Elsie madura propia. Textos completos, pulso mágico, uniformes, zafiro frontal y consultorio coherentes.",
+      "transcript": "Capítulo 10 · 19\n\nElsie evalúa a Robin y explica que su pulso procede de la magia compartida por sus madres.\nNarración: Quinto piso. Consultorio de Elsie Tanner.\nElsie: Abre grande, pequeño campeón.\nElsie: Esos dientitos ya no deben tardar en asomar.\nPansy: Lo supuse. Ha estado babeando muchísimo.\nElsie: Desarrollo cognitivo y motor en perfectas condiciones. Es muy alerta.\nPansy: Es un Parkinson. La excelencia es nuestro estado natural.\nHermione: Pansy…\nNarración: Tum-tum. Tum-tum. Tum-tum.\nHermione: ¿Cómo es posible que suene tan real?\nElsie: Su magia late a través de él. Cada una aporta una parte de sí misma.\nElsie: Yo prefiero llamarlo amor.",
+      "panels": [
+        {
+          "scene": "Wide welcoming magical consultation room, Monday morning sunlight through large diamond-paned windows, lavender/mint plants, botanical wallpaper/stone accents, bookshelves, brass lamp, mahogany desk and SMALL PADDED evaluation table with white sheet. Elsie older silver-haired curly updo, round glasses, NAVY high-neck medical robes and blue pendant, gently uses a small gold-lit crystal wand at a safe distance to look into Robin’s open mouth. Tiny Robin is FULLY CLOTHED in gray sweater/beige trousers, securely supported on padded table, Hermione’s hand beside his torso. Pansy watches nearby in green uniform.",
+          "caption": "Quinto piso. Consultorio de Elsie Tanner.",
+          "dialogue": [
+            "Elsie: Abre grande, pequeño campeón."
+          ]
+        },
+        {
+          "scene": "Close Elsie lowers crystal light and smiles at fully clothed baby. Hermione/Pansy attentive, no intrusive procedure, no changing clothes.",
+          "dialogue": [
+            "Elsie: Esos dientitos ya no deben tardar en asomar.",
+            "Pansy: Lo supuse. Ha estado babeando muchísimo."
+          ]
+        },
+        {
+          "scene": "Elsie magically floats one bright FEATHER left to right over padded table. Robin follows with green eyes, reaches with tiny natural fingers and giggles. Securely lying/sitting supported, no standing toddler.",
+          "dialogue": [
+            "Elsie: Desarrollo cognitivo y motor en perfectas condiciones. Es muy alerta."
+          ]
+        },
+        {
+          "scene": "Pansy proud with raised eyebrow; Hermione gives tiny playful nudge to her sleeve. Same school uniforms, no changing setting or duplicate baby.",
+          "dialogue": [
+            "Pansy: Es un Parkinson. La excelencia es nuestro estado natural.",
+            "Hermione: Pansy…"
+          ]
+        },
+        {
+          "scene": "Elsie places a small magical stethoscope bell gently OVER Robin’s GRAY SWEATER, never exposed skin. Warm gold sound-rings suggest heartbeat, tiny infant still on secure padded table. H&P clasp hands softly with moved expressions, no other infant.",
+          "caption": "Tum-tum. Tum-tum. Tum-tum."
+        },
+        {
+          "scene": "Hermione moved, brown eyes a little moist, holds Pansy’s hand while watching baby, Pansy gentle thoughtful face.",
+          "dialogue": [
+            "Hermione: ¿Cómo es posible que suene tan real?"
+          ]
+        },
+        {
+          "scene": "Elsie warmly explains across small examination table, hands naturally resting on table edge, Robin reaches toward mothers. Emphasize fictional glow connecting family subtly, not mechanical cables.",
+          "dialogue": [
+            "Elsie: Su magia late a través de él. Cada una aporta una parte de sí misma.",
+            "Elsie: Yo prefiero llamarlo amor."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. ONE NEW complete Spanish comic page 1024x1536, fine-ink painterly anime, older-student proportions and original individualized faces, not chibi/big heads or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy original facial geometry; IMAGE3 ONLY establishes ELSIE TANNER: older mature silver-gray curly updo/loose spirals, round glasses, NAVY high-collar long medical robes, blue pendant, kind lined own face, and botanical office decor. Do NOT copy old Pansy/Hermione proportions from Image3. IMAGE4 supports CURRENT corrected H&P proportions plus Tracey/Wayne distinct designs ONLY, not old setting. New daylight Elsie consultation room: LARGE diamond-paned window, lavender/mint plants, botanical pale wallpaper/stone accents, bookshelf, brass lamp, padded WHITE-SHEET infant evaluation table and MAHOGANY desk with two visitor chairs. Coherent positions, no underwater bedroom/garden/trophy-office professor. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, chin, lips/RED-GOLD Gryffindor tie and robe lining/white shirt/gray vest/full opaque uniform. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek side-part CHIN-LENGTH bob/flat straight ends/BARE EARS/GREEN-SILVER Slytherin full uniform. Match same older-student age/body/head scale; original reference expression is not fixed, allow tenderness, worry and embarrassment without face drift. Hermione's oval midnight-blue sapphire/clear diamond halo and WHITE PLATINUM chain falls on FRONT chest if visible, never gold/back. ONE unique ROBIN BROWN tiny curls/GREEN eyes/GRAY knit sweater/BEIGE full trousers/small cream ordinary socks, stable small INFANT scale, VISUALLY HUMAN smooth skin and tiny real fingers/thumbs/natural infant limbs. Knit only on clothing, never skin seams/paws/mittens/ball feet. Always securely supported by parent or padded table as specified, no duplication, no undressing. Normal gentle fictional magical school-project health evaluation; all figures fully clothed, no frightening procedure. Thin BLACK borders, narrow CREAM gutters, small BLACK upper-left header, no flourishes. Seven panels, read left-right top-bottom. Speech metadata identifies speaker for tail ONLY: print only exact TEXT field value, never the speaker name/colon/label. Render all Spanish words and accents complete in large readable black text/white balloons, narration cream rectangles, only specified printed labels. No extra text, logo, watermark or author footer; reader handles exterior export credit. Safe wholesome family/school comedy, no sexualized composition.\nHEADER exactly: «Capítulo 10 · 19».\nSTORYBOARD: [{\"scene\":\"Wide welcoming magical consultation room, Monday morning sunlight through large diamond-paned windows, lavender/mint plants, botanical wallpaper/stone accents, bookshelves, brass lamp, mahogany desk and SMALL PADDED evaluation table with white sheet. Elsie older silver-haired curly updo, round glasses, NAVY high-neck medical robes and blue pendant, gently uses a small gold-lit crystal wand at a safe distance to look into Robin’s open mouth. Tiny Robin is FULLY CLOTHED in gray sweater/beige trousers, securely supported on padded table, Hermione’s hand beside his torso. Pansy watches nearby in green uniform.\",\"caption\":\"Quinto piso. Consultorio de Elsie Tanner.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Abre grande, pequeño campeón.\"}],\"panel\":1},{\"scene\":\"Close Elsie lowers crystal light and smiles at fully clothed baby. Hermione/Pansy attentive, no intrusive procedure, no changing clothes.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Esos dientitos ya no deben tardar en asomar.\"},{\"speaker\":\"Pansy\",\"text\":\"Lo supuse. Ha estado babeando muchísimo.\"}],\"panel\":2},{\"scene\":\"Elsie magically floats one bright FEATHER left to right over padded table. Robin follows with green eyes, reaches with tiny natural fingers and giggles. Securely lying/sitting supported, no standing toddler.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Desarrollo cognitivo y motor en perfectas condiciones. Es muy alerta.\"}],\"panel\":3},{\"scene\":\"Pansy proud with raised eyebrow; Hermione gives tiny playful nudge to her sleeve. Same school uniforms, no changing setting or duplicate baby.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Es un Parkinson. La excelencia es nuestro estado natural.\"},{\"speaker\":\"Hermione\",\"text\":\"Pansy…\"}],\"panel\":4},{\"scene\":\"Elsie places a small magical stethoscope bell gently OVER Robin’s GRAY SWEATER, never exposed skin. Warm gold sound-rings suggest heartbeat, tiny infant still on secure padded table. H&P clasp hands softly with moved expressions, no other infant.\",\"caption\":\"Tum-tum. Tum-tum. Tum-tum.\",\"panel\":5},{\"scene\":\"Hermione moved, brown eyes a little moist, holds Pansy’s hand while watching baby, Pansy gentle thoughtful face.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"¿Cómo es posible que suene tan real?\"}],\"panel\":6},{\"scene\":\"Elsie warmly explains across small examination table, hands naturally resting on table edge, Robin reaches toward mothers. Emphasize fictional glow connecting family subtly, not mechanical cables.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Su magia late a través de él. Cada una aporta una parte de sí misma.\"},{\"speaker\":\"Elsie\",\"text\":\"Yo prefiero llamarlo amor.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c07-p017-color-v2-personajes-v2.webp",
+            "paginas/c08-p028-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-26cc3167-650c-4ee2-bfe1-a48c783cb4b9.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "grande",
+          "pequeno",
+          "campeon"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 20,
+      "image": "paginas/c10-p020.webp",
+      "sourcePdfPages": [
+        277,
+        279
+      ],
+      "summary": "La evaluación emocional muestra a la familia unida; Hermione y Pansy hablan del cansancio y de aprender a trabajar juntas.",
+      "editorial": "La adaptación reparte la explicación del trabajo en equipo entre ambas protagonistas; Hermione formula la primera réplica del último cuadro y Pansy remata la broma del café.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p020.png",
+      "generatedMaster": "exec-3558c828-22ae-46ca-bf9d-8b2e3f46bafc.png",
+      "sha256": "a4dcadc3c47caf4fcf2cf4e1a43f5401a599dc43867f57f292acae8fa4e6c6ed",
+      "masterSha256": "1aa73cbf9fdbef8f1150fbe0f4fd835f64ad7d9af2be0bc83c4dc4c556f3012c",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos, monitor, inclinación conjunta y entrega de Robin a Hermione claros. Todo el texto y conversación de equipo presentes, bebé humano y seguro, mangas y manos naturales, ropa, collar y consultorio coherentes.",
+      "transcript": "Capítulo 10 · 20\n\nLa evaluación emocional muestra a la familia unida; Hermione y Pansy hablan del cansancio y de aprender a trabajar juntas.\nElsie: Ahora comprobaremos su estabilidad emocional.\nPansy: ¿Y esa cosa es para…?\nElsie: Registra su bienestar y el cariño y la atención que recibe.\nNarración: Robin volvió a los brazos de Hermione.\nElsie: ¿Cómo ha sido esta primera semana?\nHermione: Agotadora… pero se siente como si siempre hubiera estado con nosotras.\nPansy: Se parece al Quidditch. Todo se mueve muy deprisa, pero sabes exactamente qué hacer.\nHermione: Entendemos lo que necesita desde ángulos distintos. Nos turnamos.\nPansy: Menos mal que duerme. ¡Ya habría vaciado las reservas de café!",
+      "panels": [
+        {
+          "scene": "Elsie attaches a tiny light-emitting magical wristband to Robin’s wrist OVER the sleeve cuff, safely supported on padded table. Gray sweater/beige trousers, human skin/tiny individual fingers.",
+          "dialogue": [
+            "Elsie: Ahora comprobaremos su estabilidad emocional."
+          ]
+        },
+        {
+          "scene": "Funny front view of Hermione, Pansy and baby Robin all tilting heads in exactly same direction, curious not chibi. Baby supported between their clear hands at table, two mothers no duplicates.",
+          "dialogue": [
+            "Pansy: ¿Y esa cosa es para…?"
+          ]
+        },
+        {
+          "scene": "Elsie points to gentle small pulse of wristband, no scary needles or hospital machines.",
+          "dialogue": [
+            "Elsie: Registra su bienestar y el cariño y la atención que recibe."
+          ]
+        },
+        {
+          "scene": "Clear baby handover: Elsie lifts Robin from padded table into Hermione’s secure supporting arms. Pansy steps alongside; body proportions small natural infant. Desk visible for next panels.",
+          "caption": "Robin volvió a los brazos de Hermione."
+        },
+        {
+          "scene": "Now parents seated side by side in visitor chairs across mahogany desk, Elsie behind desk. Hermione holds Robin in gray sweater against chest. Pansy sits right. Same consultation room, not McGonagall’s office.",
+          "dialogue": [
+            "Elsie: ¿Cómo ha sido esta primera semana?",
+            "Hermione: Agotadora… pero se siente como si siempre hubiera estado con nosotras."
+          ]
+        },
+        {
+          "scene": "Pansy thoughtful and sincere, one hand lightly on Robin’s back while Hermione holds him. No actual airborne sport sequence needed.",
+          "dialogue": [
+            "Pansy: Se parece al Quidditch. Todo se mueve muy deprisa, pero sabes exactamente qué hacer."
+          ]
+        },
+        {
+          "scene": "H&P share warm team smile, Elsie amused over teacup. Baby happy, tiny wrist monitor still visible until next page.",
+          "dialogue": [
+            "Hermione: Entendemos lo que necesita desde ángulos distintos. Nos turnamos.",
+            "Pansy: Menos mal que duerme. ¡Ya habría vaciado las reservas de café!"
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. ONE NEW complete Spanish comic page 1024x1536, fine-ink painterly anime, older-student proportions and original individualized faces, not chibi/big heads or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy original facial geometry; IMAGE3 ONLY establishes ELSIE TANNER: older mature silver-gray curly updo/loose spirals, round glasses, NAVY high-collar long medical robes, blue pendant, kind lined own face, and botanical office decor. Do NOT copy old Pansy/Hermione proportions from Image3. IMAGE4 supports CURRENT corrected H&P proportions plus Tracey/Wayne distinct designs ONLY, not old setting. New daylight Elsie consultation room: LARGE diamond-paned window, lavender/mint plants, botanical pale wallpaper/stone accents, bookshelf, brass lamp, padded WHITE-SHEET infant evaluation table and MAHOGANY desk with two visitor chairs. Coherent positions, no underwater bedroom/garden/trophy-office professor. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, chin, lips/RED-GOLD Gryffindor tie and robe lining/white shirt/gray vest/full opaque uniform. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek side-part CHIN-LENGTH bob/flat straight ends/BARE EARS/GREEN-SILVER Slytherin full uniform. Match same older-student age/body/head scale; original reference expression is not fixed, allow tenderness, worry and embarrassment without face drift. Hermione's oval midnight-blue sapphire/clear diamond halo and WHITE PLATINUM chain falls on FRONT chest if visible, never gold/back. ONE unique ROBIN BROWN tiny curls/GREEN eyes/GRAY knit sweater/BEIGE full trousers/small cream ordinary socks, stable small INFANT scale, VISUALLY HUMAN smooth skin and tiny real fingers/thumbs/natural infant limbs. Knit only on clothing, never skin seams/paws/mittens/ball feet. Always securely supported by parent or padded table as specified, no duplication, no undressing. Normal gentle fictional magical school-project health evaluation; all figures fully clothed, no frightening procedure. Thin BLACK borders, narrow CREAM gutters, small BLACK upper-left header, no flourishes. Seven panels, read left-right top-bottom. Speech metadata identifies speaker for tail ONLY: print only exact TEXT field value, never the speaker name/colon/label. Render all Spanish words and accents complete in large readable black text/white balloons, narration cream rectangles, only specified printed labels. No extra text, logo, watermark or author footer; reader handles exterior export credit. Safe wholesome family/school comedy, no sexualized composition.\nHEADER exactly: «Capítulo 10 · 20».\nSTORYBOARD: [{\"scene\":\"Elsie attaches a tiny light-emitting magical wristband to Robin’s wrist OVER the sleeve cuff, safely supported on padded table. Gray sweater/beige trousers, human skin/tiny individual fingers.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Ahora comprobaremos su estabilidad emocional.\"}],\"panel\":1},{\"scene\":\"Funny front view of Hermione, Pansy and baby Robin all tilting heads in exactly same direction, curious not chibi. Baby supported between their clear hands at table, two mothers no duplicates.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"¿Y esa cosa es para…?\"}],\"panel\":2},{\"scene\":\"Elsie points to gentle small pulse of wristband, no scary needles or hospital machines.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Registra su bienestar y el cariño y la atención que recibe.\"}],\"panel\":3},{\"scene\":\"Clear baby handover: Elsie lifts Robin from padded table into Hermione’s secure supporting arms. Pansy steps alongside; body proportions small natural infant. Desk visible for next panels.\",\"caption\":\"Robin volvió a los brazos de Hermione.\",\"panel\":4},{\"scene\":\"Now parents seated side by side in visitor chairs across mahogany desk, Elsie behind desk. Hermione holds Robin in gray sweater against chest. Pansy sits right. Same consultation room, not McGonagall’s office.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"¿Cómo ha sido esta primera semana?\"},{\"speaker\":\"Hermione\",\"text\":\"Agotadora… pero se siente como si siempre hubiera estado con nosotras.\"}],\"panel\":5},{\"scene\":\"Pansy thoughtful and sincere, one hand lightly on Robin’s back while Hermione holds him. No actual airborne sport sequence needed.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Se parece al Quidditch. Todo se mueve muy deprisa, pero sabes exactamente qué hacer.\"}],\"panel\":6},{\"scene\":\"H&P share warm team smile, Elsie amused over teacup. Baby happy, tiny wrist monitor still visible until next page.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Entendemos lo que necesita desde ángulos distintos. Nos turnamos.\"},{\"speaker\":\"Pansy\",\"text\":\"Menos mal que duerme. ¡Ya habría vaciado las reservas de café!\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c07-p017-color-v2-personajes-v2.webp",
+            "paginas/c08-p028-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-3558c828-22ae-46ca-bf9d-8b2e3f46bafc.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 21,
+      "image": "paginas/c10-p021.webp",
+      "sourcePdfPages": [
+        279,
+        282
+      ],
+      "summary": "La canción de Hermione calma a Robin y a Pansy. El informe confirma un vínculo seguro, con un pequeño episodio de celos.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p021.png",
+      "generatedMaster": "exec-05cda6c2-4b1c-4c98-8201-6f759b8da649.png",
+      "sha256": "94ccfd581ed5f1f7e378a0d08f618f84c31aaf9448770c71ffa7de511f2732b3",
+      "masterSha256": "53587269e2440f4f944d107c4ea9da971cb36ac245163e220f1512e1c228780e",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todas las palabras completos, incluida evaluación excelente. Canción, celos y complicidad no gráfica; monitor retirado para informe, Robin humano con Hermione, uniformes, zafiro y consultorio coherentes.",
+      "transcript": "Capítulo 10 · 21\n\nLa canción de Hermione calma a Robin y a Pansy. El informe confirma un vínculo seguro, con un pequeño episodio de celos.\nHermione: Solo tuve un poco más de sueño.\nPansy: Se quedó dormida sobre Runas Antiguas.\nHermione: ¡Estaba recuperando energía!\nHermione: Le encantan los peces de las ventanas y mi varita.\nPansy: Y mi corbata. Pero odia el ruido y el mal humor.\nElsie: ¿Cómo lo calman?\nPansy: Granger le canta. Hasta yo la tarareo cuando estoy estresada.\nNarración: La confesión las dejó unos segundos sin palabras.\nElsie: Se siente seguro y amado. Solo aparece un pico breve de tristeza.\nHermione: Fue un malentendido de comunicación.\nPansy: Hermione estaba celosa.\nEvaluación: excelente\nElsie: Han hecho un trabajo excelente.\nHermione: Podrías decirlo con un poco más de tacto.\nPansy: Lo tendré en cuenta, Granger.",
+      "panels": [
+        {
+          "scene": "Parents sitting at Elsie’s desk. Hermione holds Robin safely; Pansy teases with fond smile, Elsie listens. Same gray-sweater baby, full school uniforms.",
+          "dialogue": [
+            "Hermione: Solo tuve un poco más de sueño.",
+            "Pansy: Se quedó dormida sobre Runas Antiguas.",
+            "Hermione: ¡Estaba recuperando energía!"
+          ]
+        },
+        {
+          "scene": "Hermione smiles at infant playing with Pansy’s green tie end, tiny real human fingers, safely on Hermione’s lap.",
+          "dialogue": [
+            "Hermione: Le encantan los peces de las ventanas y mi varita.",
+            "Pansy: Y mi corbata. Pero odia el ruido y el mal humor."
+          ]
+        },
+        {
+          "scene": "Elsie gentle interested look, Pansy answers automatically then realizes personal admission. Baby calmly with Hermione.",
+          "dialogue": [
+            "Elsie: ¿Cómo lo calman?",
+            "Pansy: Granger le canta. Hasta yo la tarareo cuando estoy estresada."
+          ]
+        },
+        {
+          "scene": "Quiet comic beat: both Hermione/Pansy blush shyly looking aside, Elsie hides pleased smile with teacup, no dialogue. Show normal older-student faces, tiny baby amused.",
+          "caption": "La confesión las dejó unos segundos sin palabras."
+        },
+        {
+          "scene": "Elsie has removed wristband and placed it on BRONZE stand on desk; magical silver quill draws simple emotional graph on parchment. Robin watches from Hermione’s lap, head just above desk edge.",
+          "dialogue": [
+            "Elsie: Se siente seguro y amado. Solo aparece un pico breve de tristeza."
+          ]
+        },
+        {
+          "scene": "Hermione embarrassed attempts formal explanation, Pansy gently interrupts with knowing playful smile. Elsie amused, no hostile expressions.",
+          "dialogue": [
+            "Hermione: Fue un malentendido de comunicación.",
+            "Pansy: Hermione estaba celosa."
+          ]
+        },
+        {
+          "scene": "Both laugh with baby while Elsie completes report. Small neat grading card readable, same desk, no monitor still on baby now.",
+          "printed": [
+            "Evaluación: excelente"
+          ],
+          "dialogue": [
+            "Elsie: Han hecho un trabajo excelente.",
+            "Hermione: Podrías decirlo con un poco más de tacto.",
+            "Pansy: Lo tendré en cuenta, Granger."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. ONE NEW complete Spanish comic page 1024x1536, fine-ink painterly anime, older-student proportions and original individualized faces, not chibi/big heads or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy original facial geometry; IMAGE3 ONLY establishes ELSIE TANNER: older mature silver-gray curly updo/loose spirals, round glasses, NAVY high-collar long medical robes, blue pendant, kind lined own face, and botanical office decor. Do NOT copy old Pansy/Hermione proportions from Image3. IMAGE4 supports CURRENT corrected H&P proportions plus Tracey/Wayne distinct designs ONLY, not old setting. New daylight Elsie consultation room: LARGE diamond-paned window, lavender/mint plants, botanical pale wallpaper/stone accents, bookshelf, brass lamp, padded WHITE-SHEET infant evaluation table and MAHOGANY desk with two visitor chairs. Coherent positions, no underwater bedroom/garden/trophy-office professor. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, chin, lips/RED-GOLD Gryffindor tie and robe lining/white shirt/gray vest/full opaque uniform. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek side-part CHIN-LENGTH bob/flat straight ends/BARE EARS/GREEN-SILVER Slytherin full uniform. Match same older-student age/body/head scale; original reference expression is not fixed, allow tenderness, worry and embarrassment without face drift. Hermione's oval midnight-blue sapphire/clear diamond halo and WHITE PLATINUM chain falls on FRONT chest if visible, never gold/back. ONE unique ROBIN BROWN tiny curls/GREEN eyes/GRAY knit sweater/BEIGE full trousers/small cream ordinary socks, stable small INFANT scale, VISUALLY HUMAN smooth skin and tiny real fingers/thumbs/natural infant limbs. Knit only on clothing, never skin seams/paws/mittens/ball feet. Always securely supported by parent or padded table as specified, no duplication, no undressing. Normal gentle fictional magical school-project health evaluation; all figures fully clothed, no frightening procedure. Thin BLACK borders, narrow CREAM gutters, small BLACK upper-left header, no flourishes. Seven panels, read left-right top-bottom. Speech metadata identifies speaker for tail ONLY: print only exact TEXT field value, never the speaker name/colon/label. Render all Spanish words and accents complete in large readable black text/white balloons, narration cream rectangles, only specified printed labels. No extra text, logo, watermark or author footer; reader handles exterior export credit. Safe wholesome family/school comedy, no sexualized composition.\nHEADER exactly: «Capítulo 10 · 21».\nSTORYBOARD: [{\"scene\":\"Parents sitting at Elsie’s desk. Hermione holds Robin safely; Pansy teases with fond smile, Elsie listens. Same gray-sweater baby, full school uniforms.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Solo tuve un poco más de sueño.\"},{\"speaker\":\"Pansy\",\"text\":\"Se quedó dormida sobre Runas Antiguas.\"},{\"speaker\":\"Hermione\",\"text\":\"¡Estaba recuperando energía!\"}],\"panel\":1},{\"scene\":\"Hermione smiles at infant playing with Pansy’s green tie end, tiny real human fingers, safely on Hermione’s lap.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Le encantan los peces de las ventanas y mi varita.\"},{\"speaker\":\"Pansy\",\"text\":\"Y mi corbata. Pero odia el ruido y el mal humor.\"}],\"panel\":2},{\"scene\":\"Elsie gentle interested look, Pansy answers automatically then realizes personal admission. Baby calmly with Hermione.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"¿Cómo lo calman?\"},{\"speaker\":\"Pansy\",\"text\":\"Granger le canta. Hasta yo la tarareo cuando estoy estresada.\"}],\"panel\":3},{\"scene\":\"Quiet comic beat: both Hermione/Pansy blush shyly looking aside, Elsie hides pleased smile with teacup, no dialogue. Show normal older-student faces, tiny baby amused.\",\"caption\":\"La confesión las dejó unos segundos sin palabras.\",\"panel\":4},{\"scene\":\"Elsie has removed wristband and placed it on BRONZE stand on desk; magical silver quill draws simple emotional graph on parchment. Robin watches from Hermione’s lap, head just above desk edge.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Se siente seguro y amado. Solo aparece un pico breve de tristeza.\"}],\"panel\":5},{\"scene\":\"Hermione embarrassed attempts formal explanation, Pansy gently interrupts with knowing playful smile. Elsie amused, no hostile expressions.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Fue un malentendido de comunicación.\"},{\"speaker\":\"Pansy\",\"text\":\"Hermione estaba celosa.\"}],\"panel\":6},{\"scene\":\"Both laugh with baby while Elsie completes report. Small neat grading card readable, same desk, no monitor still on baby now.\",\"printed\":[\"Evaluación: excelente\"],\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Han hecho un trabajo excelente.\"},{\"speaker\":\"Hermione\",\"text\":\"Podrías decirlo con un poco más de tacto.\"},{\"speaker\":\"Pansy\",\"text\":\"Lo tendré en cuenta, Granger.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c07-p017-color-v2-personajes-v2.webp",
+            "paginas/c08-p028-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-05cda6c2-4b1c-4c98-8201-6f759b8da649.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "confesion",
+          "segundos",
+          "palabras",
+          "siente",
+          "seguro"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 22,
+      "image": "paginas/c10-p022.webp",
+      "sourcePdfPages": [
+        282,
+        286
+      ],
+      "summary": "La orientación privada de Elsie termina con folletos sobre salud, respeto y comunicación. Salen avergonzadas y encuentran a Tracey y Wayne.",
+      "editorial": "Se condensa la conversación íntima original en orientación no gráfica sobre salud, respeto, comunicación y consentimiento. No se reproducen títulos explícitos ni preguntas o detalles sexuales.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p022.png",
+      "generatedMaster": "exec-3d10181a-b911-47e9-8e49-39ba22097f5f.png",
+      "sha256": "f543b3b064b02797e93f6b046ad820223f2e90e316698bc24d27c5e79faaa9f9",
+      "masterSha256": "82fe485e241049353e517656b247f4728e44a31e5a0f271dd5a0170af61d116e",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos. Orientación privada condensada en salud, respeto y comunicación; folletos cerrados con títulos neutros. Robin humano y seguro, folletos guardados en la cesta del cochecito, paso al pasillo y encuentro con Tracey/Wayne de diseños propios completos.",
+      "transcript": "Capítulo 10 · 22\n\nLa orientación privada de Elsie termina con folletos sobre salud, respeto y comunicación. Salen avergonzadas y encuentran a Tracey y Wayne.\nElsie: También quiero que cuiden de ustedes. Podemos hablar con confianza y sin suposiciones.\nSalud y consentimiento\nComunicación y respeto\nHermione: Gracias, Elsie. Solo necesitamos un poco de tiempo.\nPansy: Y un poco de privacidad.\nElsie: Por supuesto. Lo importante es escucharse, respetarse y preguntar cuando lo necesiten.\nNarración: Guardaron los folletos con más prisa de la necesaria.\nPansy: No pienso volver a hablar de esta consulta.\nHermione: De acuerdo.\nTracey: ¡Nuestra evaluación salió muy bien! ¿Y la suya?\nHermione: Excelente. Todo excelente.",
+      "panels": [
+        {
+          "scene": "Elsie behind mahogany desk kindly closes infant evaluation parchment and offers TWO plain covered educational brochures to the fully uniformed students. Hermione safely holds Robin, now no wristband. No explicit imagery or clinical examination of students.",
+          "dialogue": [
+            "Elsie: También quiero que cuiden de ustedes. Podemos hablar con confianza y sin suposiciones."
+          ]
+        },
+        {
+          "scene": "Close brochures lying CLOSED on wood desk, only two neutral readable titles, no body diagrams, no other writing, no nudity.",
+          "printed": [
+            "Salud y consentimiento",
+            "Comunicación y respeto"
+          ]
+        },
+        {
+          "scene": "Hermione/Pansy sit straight and blush in comic embarrassment at overenthusiastic private advice; still ordinary fully clothed school consultation. Elsie’s tone warm, not intrusive.",
+          "dialogue": [
+            "Hermione: Gracias, Elsie. Solo necesitamos un poco de tiempo.",
+            "Pansy: Y un poco de privacidad."
+          ]
+        },
+        {
+          "scene": "Elsie reassuring smile, own mature face/silver hair/round glasses/navy robes/blue pendant, one open hand.",
+          "dialogue": [
+            "Elsie: Por supuesto. Lo importante es escucharse, respetarse y preguntar cuando lo necesiten."
+          ]
+        },
+        {
+          "scene": "Pansy tucks the CLOSED neutral brochures into the lower basket of sand-colored floating stroller, clear tiny full gray-sweater Robin remains securely carried by Hermione. No loose diagrams or exposed content.",
+          "caption": "Guardaron los folletos con más prisa de la necesaria."
+        },
+        {
+          "scene": "Hogwarts fifth-floor stone corridor outside consultation door, large daylight windows and wooden benches, Pansy pushes tan stroller with gray-sweater Robin safely secured inside now, Hermione walks beside. Both red-cheeked from harmless embarrassment.",
+          "dialogue": [
+            "Pansy: No pienso volver a hablar de esta consulta.",
+            "Hermione: De acuerdo."
+          ]
+        },
+        {
+          "scene": "Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN Slytherin uniform greets them beside Wayne, distinct MALE short light-brown hair/YELLOW Hufflepuff uniform, their covered infant stroller beside them. H&P try to look completely normal.",
+          "dialogue": [
+            "Tracey: ¡Nuestra evaluación salió muy bien! ¿Y la suya?",
+            "Hermione: Excelente. Todo excelente."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. ONE NEW complete Spanish comic page 1024x1536, fine-ink painterly anime, older-student proportions and original individualized faces, not chibi/big heads or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy original facial geometry; IMAGE3 ONLY establishes ELSIE TANNER: older mature silver-gray curly updo/loose spirals, round glasses, NAVY high-collar long medical robes, blue pendant, kind lined own face, and botanical office decor. Do NOT copy old Pansy/Hermione proportions from Image3. IMAGE4 supports CURRENT corrected H&P proportions plus Tracey/Wayne distinct designs ONLY, not old setting. New daylight Elsie consultation room: LARGE diamond-paned window, lavender/mint plants, botanical pale wallpaper/stone accents, bookshelf, brass lamp, padded WHITE-SHEET infant evaluation table and MAHOGANY desk with two visitor chairs. Coherent positions, no underwater bedroom/garden/trophy-office professor. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, chin, lips/RED-GOLD Gryffindor tie and robe lining/white shirt/gray vest/full opaque uniform. Pansy GREEN SLENDER ALMOND eyes/ANGULAR tapered jaw/strong brows/small defined lips/BLACK sleek side-part CHIN-LENGTH bob/flat straight ends/BARE EARS/GREEN-SILVER Slytherin full uniform. Match same older-student age/body/head scale; original reference expression is not fixed, allow tenderness, worry and embarrassment without face drift. Hermione's oval midnight-blue sapphire/clear diamond halo and WHITE PLATINUM chain falls on FRONT chest if visible, never gold/back. ONE unique ROBIN BROWN tiny curls/GREEN eyes/GRAY knit sweater/BEIGE full trousers/small cream ordinary socks, stable small INFANT scale, VISUALLY HUMAN smooth skin and tiny real fingers/thumbs/natural infant limbs. Knit only on clothing, never skin seams/paws/mittens/ball feet. Always securely supported by parent or padded table as specified, no duplication, no undressing. Normal gentle fictional magical school-project health evaluation; all figures fully clothed, no frightening procedure. Thin BLACK borders, narrow CREAM gutters, small BLACK upper-left header, no flourishes. Seven panels, read left-right top-bottom. Speech metadata identifies speaker for tail ONLY: print only exact TEXT field value, never the speaker name/colon/label. Render all Spanish words and accents complete in large readable black text/white balloons, narration cream rectangles, only specified printed labels. No extra text, logo, watermark or author footer; reader handles exterior export credit. Safe wholesome family/school comedy, no sexualized composition.\nHEADER exactly: «Capítulo 10 · 22».\nSTORYBOARD: [{\"scene\":\"Elsie behind mahogany desk kindly closes infant evaluation parchment and offers TWO plain covered educational brochures to the fully uniformed students. Hermione safely holds Robin, now no wristband. No explicit imagery or clinical examination of students.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"También quiero que cuiden de ustedes. Podemos hablar con confianza y sin suposiciones.\"}],\"panel\":1},{\"scene\":\"Close brochures lying CLOSED on wood desk, only two neutral readable titles, no body diagrams, no other writing, no nudity.\",\"printed\":[\"Salud y consentimiento\",\"Comunicación y respeto\"],\"panel\":2},{\"scene\":\"Hermione/Pansy sit straight and blush in comic embarrassment at overenthusiastic private advice; still ordinary fully clothed school consultation. Elsie’s tone warm, not intrusive.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Gracias, Elsie. Solo necesitamos un poco de tiempo.\"},{\"speaker\":\"Pansy\",\"text\":\"Y un poco de privacidad.\"}],\"panel\":3},{\"scene\":\"Elsie reassuring smile, own mature face/silver hair/round glasses/navy robes/blue pendant, one open hand.\",\"dialogue\":[{\"speaker\":\"Elsie\",\"text\":\"Por supuesto. Lo importante es escucharse, respetarse y preguntar cuando lo necesiten.\"}],\"panel\":4},{\"scene\":\"Pansy tucks the CLOSED neutral brochures into the lower basket of sand-colored floating stroller, clear tiny full gray-sweater Robin remains securely carried by Hermione. No loose diagrams or exposed content.\",\"caption\":\"Guardaron los folletos con más prisa de la necesaria.\",\"panel\":5},{\"scene\":\"Hogwarts fifth-floor stone corridor outside consultation door, large daylight windows and wooden benches, Pansy pushes tan stroller with gray-sweater Robin safely secured inside now, Hermione walks beside. Both red-cheeked from harmless embarrassment.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"No pienso volver a hablar de esta consulta.\"},{\"speaker\":\"Hermione\",\"text\":\"De acuerdo.\"}],\"panel\":6},{\"scene\":\"Tracey LONG BROWN HIGH PONYTAIL/BROWN eyes/GREEN Slytherin uniform greets them beside Wayne, distinct MALE short light-brown hair/YELLOW Hufflepuff uniform, their covered infant stroller beside them. H&P try to look completely normal.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"¡Nuestra evaluación salió muy bien! ¿Y la suya?\"},{\"speaker\":\"Hermione\",\"text\":\"Excelente. Todo excelente.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c07-p017-color-v2-personajes-v2.webp",
+            "paginas/c08-p028-diseno-v3.webp"
+          ],
+          "generatedMaster": "exec-3d10181a-b911-47e9-8e49-39ba22097f5f.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "nuestra"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    }
+  ]
+}

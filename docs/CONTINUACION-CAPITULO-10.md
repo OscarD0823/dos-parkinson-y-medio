@@ -46,3 +46,20 @@ Páginas nuevas revisadas completas, con OCR adicional y referencia facial perma
 | 14 | 264–265 | Robin reacciona a la tristeza con magia accidental y McGonagall descubre con orgullo el vínculo de la familia. |
 
 Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-07-14.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 14 páginas ilustradas.
+
+## Continuación: páginas 15–22
+
+Páginas nuevas revisadas completas, con OCR adicional y referencia facial permanente en los originales del capítulo 1. Los bebés mantienen apariencia humana. El crédito de Nicole_Winkel se añade solo en la exportación.
+
+| Página ilustrada | Fuente PDF | Escena |
+| --- | --- | --- |
+| 15 | 266–268 | El Profeta provoca rumores y reacciones de sorpresa, celos y tristeza durante el desayuno de Hogwarts. |
+| 16 | 269–270 | Hermione y Pansy entran con Robin, ajenas al rumor, y recorren juntas el Gran Comedor. |
+| 17 | 270–272 | Los amigos las reciben y el nuevo ranking las sitúa en el primer puesto. |
+| 18 | 272–275 | Entre advertencias sobre Katie y Diane, el grupo se prepara para las revisiones del proyecto. Robin se despide de Arianna. |
+| 19 | 275–277 | Elsie evalúa a Robin y explica que su pulso procede de la magia compartida por sus madres. |
+| 20 | 277–279 | La evaluación emocional muestra a la familia unida; Hermione y Pansy hablan del cansancio y de aprender a trabajar juntas. |
+| 21 | 279–282 | La canción de Hermione calma a Robin y a Pansy. El informe confirma un vínculo seguro, con un pequeño episodio de celos. |
+| 22 | 282–286 | La orientación privada de Elsie termina con folletos sobre salud, respeto y comunicación. Salen avergonzadas y encuentran a Tracey y Wayne. |
+
+Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-15-22.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 22 páginas ilustradas.

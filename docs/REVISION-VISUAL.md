@@ -1,5 +1,9 @@
 # Revisión de continuidad y exportación
 
+## Continuación del capítulo 10, páginas 15–22
+
+Se incorporan 8 páginas nuevas desde la fuente completa verificada, con referencia facial en el capítulo 1, revisión visual de todas las viñetas y texto, y OCR de apoyo. Se corrigen las regresiones de nombres impresos en globos, cabeceras, colores de ropa o ojos, fotografía de gala y atribución de réplicas antes de incorporar los resultados seleccionados. Se conservan las páginas anteriores y sus transcripciones. La comprobación del lector incluye todas las imágenes nuevas, navegación, PC/móvil y exportación con crédito exterior. Véanse el [guion y los resultados](prompts-capitulo-10-paginas-15-22.json).
+
 ## Continuación del capítulo 10, páginas 7–14
 
 Se incorporan 8 páginas nuevas desde la fuente completa verificada, con referencia facial en el capítulo 1, revisión visual de todas las viñetas y texto, y OCR de apoyo. Se corrigen las regresiones de nombres impresos en globos, cabeceras, colores de ropa o ojos, fotografía de gala y atribución de réplicas antes de incorporar los resultados seleccionados. Se conservan las páginas anteriores y sus transcripciones. La comprobación del lector incluye todas las imágenes nuevas, navegación, PC/móvil y exportación con crédito exterior. Véanse el [guion y los resultados](prompts-capitulo-10-paginas-07-14.json).
