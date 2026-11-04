@@ -63,3 +63,20 @@ Páginas nuevas revisadas completas, con OCR adicional y referencia facial perma
 | 22 | 282–286 | La orientación privada de Elsie termina con folletos sobre salud, respeto y comunicación. Salen avergonzadas y encuentran a Tracey y Wayne. |
 
 Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-15-22.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 22 páginas ilustradas.
+
+## Continuación: páginas 23–30
+
+Páginas nuevas revisadas completas, con OCR adicional y referencia facial permanente en los originales del capítulo 1. Los bebés mantienen apariencia humana. El crédito de Nicole_Winkel se añade solo en la exportación.
+
+| Página ilustrada | Fuente PDF | Escena |
+| --- | --- | --- |
+| 23 | 286–287 | Alice acusa a Ron de desatender a Anders y pide hacerse cargo sola. Ron dirige su enfado hacia Hermione. |
+| 24 | 287–288 | Hermione defiende su libertad para elegir a Pansy y exige a Ron que respete a su familia. |
+| 25 | 288–290 | Pansy reacciona al insulto; Hermione cierra el enfrentamiento y Dean se aleja de Ron. |
+| 26 | 290–292 | Camino a Herbología, el grupo recuerda que cuidar implica responsabilidad. Tracey celebra la unión de Hermione y Pansy. |
+| 27 | 292–293 | En Herbología, Hermione se distrae entre la atención de Sophie y la rivalidad de Katie y Diane. |
+| 28 | 293–294 | Diane se adelanta a Hermione. Pansy responde la siguiente pregunta y recupera su atención. |
+| 29 | 295–296 | Robin recibe una sonaja de Snitch. El grupo empieza a trabajar y Sprout propone una competencia de preguntas. |
+| 30 | 296–297 | Neville y Diane empiezan a sumar puntos. Diane provoca a Hermione, que todavía no ha respondido. |
+
+Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-23-30.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 30 páginas ilustradas.

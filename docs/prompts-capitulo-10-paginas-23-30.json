@@ -1,0 +1,695 @@
+{
+  "chapter": 10,
+  "title": "Rivales",
+  "date": "2026-11-04",
+  "tool": "ImageGen integrada",
+  "mode": "built-in",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "editorial": "Adaptación de la fuente completa. Se conserva la comedia familiar y escolar; la intimidad se resuelve sin detalles gráficos. Los originales del capítulo 1 fijan las identidades, las referencias recientes solo aportan vestuario y escenario.",
+  "illustratedBlock": [
+    23,
+    30
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 23,
+      "image": "paginas/c10-p023.webp",
+      "sourcePdfPages": [
+        286,
+        287
+      ],
+      "summary": "Alice acusa a Ron de desatender a Anders y pide hacerse cargo sola. Ron dirige su enfado hacia Hermione.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p023.png",
+      "generatedMaster": "exec-392eab40-c0a0-4f35-ba51-dcb77e78aa68.png",
+      "sha256": "c5874b1f40b41b400e267c28a472d68930733a575660256867e04b419f5ed388",
+      "masterSha256": "70d7cfc490ceae7256d715dbc25656948537d7cf59677ae9fb3b9fee4124273b",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos, incluidas las omisiones de OCR. Alice conserva trenza negra y verde, Anders seguro; Dean y Norell propios y distintos. Robin humano, levantado con apoyo seguro por Hermione, ropa, collar y pasillo coherentes.",
+      "transcript": "Capítulo 10 · 23\n\nAlice acusa a Ron de desatender a Anders y pide hacerse cargo sola. Ron dirige su enfado hacia Hermione.\nAlice, fuera de cuadro: ¡Estoy harta, Ronald!\nAlice: ¡La evaluación fue un desastre! No te has hecho responsable de él.\nAlice: Voy a pedirle a McGonagall la custodia total.\nRon: Tenía entrenamiento. No es para tanto.\nAlice: No pienso reprobar por tu culpa.\nDean: No lo hagas, Ron. Déjalo ir.\nPansy: ¿Se te perdió algo, Weasley?\nRon: ¿Te vendiste por unas joyas y unas portadas? Pensé que eras más inteligente.",
+      "panels": [
+        {
+          "scene": "Wide DAYLIGHT stone fifth-floor Hogwarts corridor with Gothic windows, benches and closed consultation doors. Tracey brown HIGH PONYTAIL/green uniform and Wayne short light-brown hair/yellow uniform beside Caitlyn’s tan covered stroller. Hermione red/gold uniform lifts ONE tiny gray-sweater Robin safely from HER sand stroller, Pansy green uniform beside her. A raised voice comes from farther down corridor.",
+          "dialogue": [
+            "Alice, fuera de cuadro: ¡Estoy harta, Ronald!"
+          ]
+        },
+        {
+          "scene": "Separate medium Alice Rowle (own face from reference3: LONG BLACK single braid over shoulder, dark BROWN eyes, GREEN/SILVER Slytherin full uniform) securely cradles tiny infant ANDERS fully covered beige/green blanket, little face visible, no toy skin. Opposite Ron ginger hair/freckles/red-gold uniform. Stern argument at ordinary distance, no physical threat or baby danger.",
+          "dialogue": [
+            "Alice: ¡La evaluación fue un desastre! No te has hecho responsable de él."
+          ]
+        },
+        {
+          "scene": "Alice protectively holds Anders closer, tired and angry but controlled, Ron awkward and defensive.",
+          "dialogue": [
+            "Alice: Voy a pedirle a McGonagall la custodia total.",
+            "Ron: Tenía entrenamiento. No es para tanto."
+          ]
+        },
+        {
+          "scene": "Alice walks away down corridor, gently soothing securely cradled infant Anders, no neglect scene or graphic distress. Ron left alone embarrassed; tiny protected baby not visible in any other group.",
+          "dialogue": [
+            "Alice: No pienso reprobar por tu culpa."
+          ]
+        },
+        {
+          "scene": "Ron spots H&P farther along corridor. DEAN THOMAS steps into his path: distinct young Black male, close short black coils, brown eyes, RED/GOLD Gryffindor uniform, securely holding ONE tiny Norell dark skin/fluffy black hair fully wrapped in pale blanket. He does not resemble Blaise in green.",
+          "dialogue": [
+            "Dean: No lo hagas, Ron. Déjalo ir."
+          ]
+        },
+        {
+          "scene": "Pansy composed but sarcastic beside Hermione, who NOW securely carries Robin gray sweater/beige trousers against her chest. Tracey/Wayne watch behind, strollers at side.",
+          "dialogue": [
+            "Pansy: ¿Se te perdió algo, Weasley?"
+          ]
+        },
+        {
+          "scene": "Ron addresses Hermione angrily from respectful physical distance; Dean stands back safely with Norell, no touching or attack. Hermione face hardens while Pansy watches.",
+          "dialogue": [
+            "Ron: ¿Te vendiste por unas joyas y unas portadas? Pensé que eras más inteligente."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW full Spanish comic page 1024x1536 portrait. Fine-ink painterly anime, natural older-student proportions and ORIGINAL early individual faces, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy faces and original Ron. IMAGE3 ONLY fixes ALICE ROWLE, the LONG BLACK BRAID/dark BROWN-eyed GREEN-uniform student next to Ron, not its old Pansy proportions. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN uniform and Wayne distinct MALE short light-brown hair/YELLOW Hufflepuff uniform. IMAGE5 only supports DEAN THOMAS, distinct Black male in RED/GOLD Gryffindor uniform/close short black coils/BROWN eyes, not Blaise who wears green. Maintain all individual faces without cloning. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, lips, chin, RED/GOLD tie/robe lining/white shirt/gray vest/full opaque uniform, oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain FRONT chest if visible, not gold. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK sleek side-part CHIN-LENGTH bob/flat ends/BARE EARS/GREEN-SILVER full uniform. Normal same older-student scale, expressions match scene. Ron ginger hair/freckles/RED-GOLD uniform. ONE unique Robin tiny BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN smooth skin/tiny separate fingers/thumbs/natural infant body, no cloth skin/seams/paws/mittens/ball feet, stable small age/scale and secure specified carrier. Anders safely swaddled beige/green in ALICE arms; Norell tiny dark skin/fluffy BLACK hair/pale blanket in DEAN arms; Caitlyn in TRACEY/WAYNE covered stroller. Do not duplicate or confuse babies. Enchanted project babies look human, knitted texture only in clothing. All figures fully clothed. This is NON-GRAPHIC school fantasy conflict; use specified action elision, no injury/blood/gore or baby peril. Exactly TWO connected arms per figure, natural safe holding support, no extra hands. Coherent daylight stone Hogwarts fifth-floor corridor and/or outdoor gravel greenhouse path as specified, not manor, bedroom or clinic. Thin black frames, cream gutters, complete seven panels with all edges, SMALL BLACK upper-left header, no flourish. Dialogue has speaker metadata and text values: print ONLY exact text, NEVER speaker names/labels/English directions. All Spanish words and accents readable and complete, proper clear tails, captions cream. No extra text, logo, watermark or footer, reader adds exterior author credit on export.\nHEADER exactly in existing cream top strip: «Capítulo 10 · 23».\nSTORYBOARD: [{\"scene\":\"Wide DAYLIGHT stone fifth-floor Hogwarts corridor with Gothic windows, benches and closed consultation doors. Tracey brown HIGH PONYTAIL/green uniform and Wayne short light-brown hair/yellow uniform beside Caitlyn’s tan covered stroller. Hermione red/gold uniform lifts ONE tiny gray-sweater Robin safely from HER sand stroller, Pansy green uniform beside her. A raised voice comes from farther down corridor.\",\"dialogue\":[{\"speaker\":\"Alice, fuera de cuadro\",\"text\":\"¡Estoy harta, Ronald!\"}],\"panel\":1},{\"scene\":\"Separate medium Alice Rowle (own face from reference3: LONG BLACK single braid over shoulder, dark BROWN eyes, GREEN/SILVER Slytherin full uniform) securely cradles tiny infant ANDERS fully covered beige/green blanket, little face visible, no toy skin. Opposite Ron ginger hair/freckles/red-gold uniform. Stern argument at ordinary distance, no physical threat or baby danger.\",\"dialogue\":[{\"speaker\":\"Alice\",\"text\":\"¡La evaluación fue un desastre! No te has hecho responsable de él.\"}],\"panel\":2},{\"scene\":\"Alice protectively holds Anders closer, tired and angry but controlled, Ron awkward and defensive.\",\"dialogue\":[{\"speaker\":\"Alice\",\"text\":\"Voy a pedirle a McGonagall la custodia total.\"},{\"speaker\":\"Ron\",\"text\":\"Tenía entrenamiento. No es para tanto.\"}],\"panel\":3},{\"scene\":\"Alice walks away down corridor, gently soothing securely cradled infant Anders, no neglect scene or graphic distress. Ron left alone embarrassed; tiny protected baby not visible in any other group.\",\"dialogue\":[{\"speaker\":\"Alice\",\"text\":\"No pienso reprobar por tu culpa.\"}],\"panel\":4},{\"scene\":\"Ron spots H&P farther along corridor. DEAN THOMAS steps into his path: distinct young Black male, close short black coils, brown eyes, RED/GOLD Gryffindor uniform, securely holding ONE tiny Norell dark skin/fluffy black hair fully wrapped in pale blanket. He does not resemble Blaise in green.\",\"dialogue\":[{\"speaker\":\"Dean\",\"text\":\"No lo hagas, Ron. Déjalo ir.\"}],\"panel\":5},{\"scene\":\"Pansy composed but sarcastic beside Hermione, who NOW securely carries Robin gray sweater/beige trousers against her chest. Tracey/Wayne watch behind, strollers at side.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"¿Se te perdió algo, Weasley?\"}],\"panel\":6},{\"scene\":\"Ron addresses Hermione angrily from respectful physical distance; Dean stands back safely with Norell, no touching or attack. Hermione face hardens while Pansy watches.\",\"dialogue\":[{\"speaker\":\"Ron\",\"text\":\"¿Te vendiste por unas joyas y unas portadas? Pensé que eras más inteligente.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p021.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p009.webp"
+          ],
+          "generatedMaster": "exec-392eab40-c0a0-4f35-ba51-dcb77e78aa68.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "estoy",
+          "harta",
+          "ronald",
+          "pienso",
+          "reprobar",
+          "culpa",
+          "hagas",
+          "dejalo"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 24,
+      "image": "paginas/c10-p024.webp",
+      "sourcePdfPages": [
+        287,
+        288
+      ],
+      "summary": "Hermione defiende su libertad para elegir a Pansy y exige a Ron que respete a su familia.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p024.png",
+      "generatedMaster": "exec-563ff849-4fdb-4e8f-a879-39a8037a6478.png",
+      "sha256": "59b1dbb530786b83de7454aebb92794e28b57bdb60c0dcebc362052b5c3fcfc9",
+      "masterSha256": "1fb5236f0f7b659a7b80f1a74b50b9c57af6627f588b91718f4345454eca3a4e",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos, incluidas cartelas que omitió el OCR. Paso seguro de un solo Robin de Hermione a Pansy, manos y piernas infantiles, defensa de Hermione con diseño inicial, uniformes, collar y pasillo coherentes.",
+      "transcript": "Capítulo 10 · 24\n\nHermione defiende su libertad para elegir a Pansy y exige a Ron que respete a su familia.\nNarración: Hermione decidió responder por sí misma.\nNarración: Dejó a Robin con Pansy antes de dar un paso al frente.\nHermione: No tienes derecho a hablar así de mi vida ni de mis decisiones, Ronald.\nHermione: No tengo que seguir arreglando las consecuencias de tus actos.\nHermione: No puedes cuestionar a la persona que yo elijo. Pansy me demuestra cada día que me quiere en su vida.\nHermione, fuera de cuadro: Ella me ha dado valor y respeto. Ocúpate de recuperar a tu hijo.\nRon: ¡No son más que muñecos de plástico! Dejen de actuar como si esto fuera real.",
+      "panels": [
+        {
+          "scene": "Close Hermione’s steady BROWN eyes and original freckled face, not crying, decisive. Pansy beside her starts to reach toward wand pocket, but Hermione quietly signals wait.",
+          "caption": "Hermione decidió responder por sí misma."
+        },
+        {
+          "scene": "Clear SAFE handover of ONE Robin from Hermione into Pansy’s supportive arms. Tiny gray knit sweater/beige trousers, human skin and individual fingers, brown curls/GREEN eyes. Fully uniformed parents, same corridor, baby protected.",
+          "caption": "Dejó a Robin con Pansy antes de dar un paso al frente."
+        },
+        {
+          "scene": "Hermione stands facing Ron, hands natural at sides, fully uniformed, frontal sapphire/white-platinum chain if visible, no wand raised.",
+          "dialogue": [
+            "Hermione: No tienes derecho a hablar así de mi vida ni de mis decisiones, Ronald."
+          ]
+        },
+        {
+          "scene": "Hermione firm; Ron starts to interrupt but pauses. Pansy behind Hermione securely supports infant on left arm, right hand relaxed away from baby.",
+          "dialogue": [
+            "Hermione: No tengo que seguir arreglando las consecuencias de tus actos."
+          ]
+        },
+        {
+          "scene": "Closer Hermione speaks with controlled anger, not sexualized framing. Ron listens unwillingly, own original face.",
+          "dialogue": [
+            "Hermione: No puedes cuestionar a la persona que yo elijo. Pansy me demuestra cada día que me quiere en su vida."
+          ]
+        },
+        {
+          "scene": "Pansy looks deeply moved at Hermione while holding Robin safely. Tiny Robin frowns comically, individual baby fingers on green robe, no magical attack yet.",
+          "dialogue": [
+            "Hermione, fuera de cuadro: Ella me ha dado valor y respeto. Ocúpate de recuperar a tu hijo."
+          ]
+        },
+        {
+          "scene": "Ron furious from words, points in general direction of project family but does not approach baby. H&P protective but no bodily harm.",
+          "dialogue": [
+            "Ron: ¡No son más que muñecos de plástico! Dejen de actuar como si esto fuera real."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW full Spanish comic page 1024x1536 portrait. Fine-ink painterly anime, natural older-student proportions and ORIGINAL early individual faces, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy faces and original Ron. IMAGE3 ONLY fixes ALICE ROWLE, the LONG BLACK BRAID/dark BROWN-eyed GREEN-uniform student next to Ron, not its old Pansy proportions. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN uniform and Wayne distinct MALE short light-brown hair/YELLOW Hufflepuff uniform. IMAGE5 only supports DEAN THOMAS, distinct Black male in RED/GOLD Gryffindor uniform/close short black coils/BROWN eyes, not Blaise who wears green. Maintain all individual faces without cloning. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, lips, chin, RED/GOLD tie/robe lining/white shirt/gray vest/full opaque uniform, oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain FRONT chest if visible, not gold. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK sleek side-part CHIN-LENGTH bob/flat ends/BARE EARS/GREEN-SILVER full uniform. Normal same older-student scale, expressions match scene. Ron ginger hair/freckles/RED-GOLD uniform. ONE unique Robin tiny BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN smooth skin/tiny separate fingers/thumbs/natural infant body, no cloth skin/seams/paws/mittens/ball feet, stable small age/scale and secure specified carrier. Anders safely swaddled beige/green in ALICE arms; Norell tiny dark skin/fluffy BLACK hair/pale blanket in DEAN arms; Caitlyn in TRACEY/WAYNE covered stroller. Do not duplicate or confuse babies. Enchanted project babies look human, knitted texture only in clothing. All figures fully clothed. This is NON-GRAPHIC school fantasy conflict; use specified action elision, no injury/blood/gore or baby peril. Exactly TWO connected arms per figure, natural safe holding support, no extra hands. Coherent daylight stone Hogwarts fifth-floor corridor and/or outdoor gravel greenhouse path as specified, not manor, bedroom or clinic. Thin black frames, cream gutters, complete seven panels with all edges, SMALL BLACK upper-left header, no flourish. Dialogue has speaker metadata and text values: print ONLY exact text, NEVER speaker names/labels/English directions. All Spanish words and accents readable and complete, proper clear tails, captions cream. No extra text, logo, watermark or footer, reader adds exterior author credit on export.\nHEADER exactly in existing cream top strip: «Capítulo 10 · 24».\nSTORYBOARD: [{\"scene\":\"Close Hermione’s steady BROWN eyes and original freckled face, not crying, decisive. Pansy beside her starts to reach toward wand pocket, but Hermione quietly signals wait.\",\"caption\":\"Hermione decidió responder por sí misma.\",\"panel\":1},{\"scene\":\"Clear SAFE handover of ONE Robin from Hermione into Pansy’s supportive arms. Tiny gray knit sweater/beige trousers, human skin and individual fingers, brown curls/GREEN eyes. Fully uniformed parents, same corridor, baby protected.\",\"caption\":\"Dejó a Robin con Pansy antes de dar un paso al frente.\",\"panel\":2},{\"scene\":\"Hermione stands facing Ron, hands natural at sides, fully uniformed, frontal sapphire/white-platinum chain if visible, no wand raised.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No tienes derecho a hablar así de mi vida ni de mis decisiones, Ronald.\"}],\"panel\":3},{\"scene\":\"Hermione firm; Ron starts to interrupt but pauses. Pansy behind Hermione securely supports infant on left arm, right hand relaxed away from baby.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No tengo que seguir arreglando las consecuencias de tus actos.\"}],\"panel\":4},{\"scene\":\"Closer Hermione speaks with controlled anger, not sexualized framing. Ron listens unwillingly, own original face.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"No puedes cuestionar a la persona que yo elijo. Pansy me demuestra cada día que me quiere en su vida.\"}],\"panel\":5},{\"scene\":\"Pansy looks deeply moved at Hermione while holding Robin safely. Tiny Robin frowns comically, individual baby fingers on green robe, no magical attack yet.\",\"dialogue\":[{\"speaker\":\"Hermione, fuera de cuadro\",\"text\":\"Ella me ha dado valor y respeto. Ocúpate de recuperar a tu hijo.\"}],\"panel\":6},{\"scene\":\"Ron furious from words, points in general direction of project family but does not approach baby. H&P protective but no bodily harm.\",\"dialogue\":[{\"speaker\":\"Ron\",\"text\":\"¡No son más que muñecos de plástico! Dejen de actuar como si esto fuera real.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p021.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p009.webp"
+          ],
+          "generatedMaster": "exec-563ff849-4fdb-4e8f-a879-39a8037a6478.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "robin",
+          "antes",
+          "frente"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 25,
+      "image": "paginas/c10-p025.webp",
+      "sourcePdfPages": [
+        288,
+        290
+      ],
+      "summary": "Pansy reacciona al insulto; Hermione cierra el enfrentamiento y Dean se aleja de Ron.",
+      "editorial": "La reacción mágica se muestra con un destello y el después sin heridas. Los bebés permanecen protegidos y fuera del alcance de la acción.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p025.png",
+      "generatedMaster": "exec-3f868ee2-5045-43ad-9e74-2a3a94dd9a11.png",
+      "sha256": "6dbd7dffff4c3d352ca77d60f8aa67396b6e7da114a6ec1727531480259ede2e",
+      "masterSha256": "1d80a6c5fd7c4b39e568cf22308d6a937e2244841e5c6e613049f3d0d889097a",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos. Acción elíptica con destello y después sin heridas ni daño a los bebés; Pansy mantiene dos brazos conectados, Robin seguro. Dean/Norell, retirada y cierre completos, todos los textos contrastados visualmente, incluidas omisiones de OCR.",
+      "transcript": "Capítulo 10 · 25\n\nPansy reacciona al insulto; Hermione cierra el enfrentamiento y Dean se aleja de Ron.\nNarración: La respuesta de Pansy fue un destello azul.\nRon: ¿Lo ves? Sigue siendo la misma…\nHermione: Deja en paz a mi familia, Ronald. Es la última vez que nos insultas.\nNarración: Hermione bajó la varita de Pansy y la acompañó hacia la salida.\nRon: Dean…\nRon: ¡Dean, no me dejes aquí!\nNarración: En lugar de arrepentirse, volvió a buscar a quién culpar.",
+      "panels": [
+        {
+          "scene": "NON-GRAPHIC CUTAWAY of EMPTY stretch of stone corridor: one brief BLUE magical flash across open air, no person/baby in flash, no blood/injury, no impact shot. Thin panel, simple action elision.",
+          "caption": "La respuesta de Pansy fue un destello azul."
+        },
+        {
+          "scene": "Aftermath only: Ron sits against stone wall, surprised and winded, UNINJURED with intact uniform, no wound or blood, holding his chest over robe. Other people at a safe distance outside action line. No infant near wall.",
+          "dialogue": [
+            "Ron: ¿Lo ves? Sigue siendo la misma…"
+          ]
+        },
+        {
+          "scene": "Pansy stands beside Hermione, holding Robin SECURELY against LEFT side with LEFT arm, RIGHT hand points lowered wand away from all people. Exactly two anatomically connected arms. Gray-sweater Robin calm and safe, no glow near infant. Hermione gives Ron firm boundary.",
+          "dialogue": [
+            "Hermione: Deja en paz a mi familia, Ronald. Es la última vez que nos insultas."
+          ]
+        },
+        {
+          "scene": "Hermione gently guides Pansy’s RIGHT wand hand DOWN with one hand and takes tan stroller handle with other, departing together. Pansy LEFT arm still safely carries Robin, no extra limbs or duplicate baby.",
+          "caption": "Hermione bajó la varita de Pansy y la acompañó hacia la salida."
+        },
+        {
+          "scene": "Ron seated looks up at Dean, extending one empty hand in appeal. Dean safely holds tiny Norell in pale blanket, Black father in RED/GOLD uniform with distinct own face, disappointment not rage.",
+          "dialogue": [
+            "Ron: Dean…"
+          ]
+        },
+        {
+          "scene": "Dean silently turns and walks AWAY with Norell supported in both arms, no touching or abuse. Tracey and Wayne also depart in other direction with Caitlyn safely in covered stroller.",
+          "dialogue": [
+            "Ron: ¡Dean, no me dejes aquí!"
+          ]
+        },
+        {
+          "scene": "Wide Ron alone beside corridor wall under daylight Gothic window, no injury or blood. He glares toward empty exit, pride wounded, no threatening weapon.",
+          "caption": "En lugar de arrepentirse, volvió a buscar a quién culpar."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW full Spanish comic page 1024x1536 portrait. Fine-ink painterly anime, natural older-student proportions and ORIGINAL early individual faces, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy faces and original Ron. IMAGE3 ONLY fixes ALICE ROWLE, the LONG BLACK BRAID/dark BROWN-eyed GREEN-uniform student next to Ron, not its old Pansy proportions. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN uniform and Wayne distinct MALE short light-brown hair/YELLOW Hufflepuff uniform. IMAGE5 only supports DEAN THOMAS, distinct Black male in RED/GOLD Gryffindor uniform/close short black coils/BROWN eyes, not Blaise who wears green. Maintain all individual faces without cloning. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, lips, chin, RED/GOLD tie/robe lining/white shirt/gray vest/full opaque uniform, oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain FRONT chest if visible, not gold. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK sleek side-part CHIN-LENGTH bob/flat ends/BARE EARS/GREEN-SILVER full uniform. Normal same older-student scale, expressions match scene. Ron ginger hair/freckles/RED-GOLD uniform. ONE unique Robin tiny BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN smooth skin/tiny separate fingers/thumbs/natural infant body, no cloth skin/seams/paws/mittens/ball feet, stable small age/scale and secure specified carrier. Anders safely swaddled beige/green in ALICE arms; Norell tiny dark skin/fluffy BLACK hair/pale blanket in DEAN arms; Caitlyn in TRACEY/WAYNE covered stroller. Do not duplicate or confuse babies. Enchanted project babies look human, knitted texture only in clothing. All figures fully clothed. This is NON-GRAPHIC school fantasy conflict; use specified action elision, no injury/blood/gore or baby peril. Exactly TWO connected arms per figure, natural safe holding support, no extra hands. Coherent daylight stone Hogwarts fifth-floor corridor and/or outdoor gravel greenhouse path as specified, not manor, bedroom or clinic. Thin black frames, cream gutters, complete seven panels with all edges, SMALL BLACK upper-left header, no flourish. Dialogue has speaker metadata and text values: print ONLY exact text, NEVER speaker names/labels/English directions. All Spanish words and accents readable and complete, proper clear tails, captions cream. No extra text, logo, watermark or footer, reader adds exterior author credit on export.\nHEADER exactly in existing cream top strip: «Capítulo 10 · 25».\nSTORYBOARD: [{\"scene\":\"NON-GRAPHIC CUTAWAY of EMPTY stretch of stone corridor: one brief BLUE magical flash across open air, no person/baby in flash, no blood/injury, no impact shot. Thin panel, simple action elision.\",\"caption\":\"La respuesta de Pansy fue un destello azul.\",\"panel\":1},{\"scene\":\"Aftermath only: Ron sits against stone wall, surprised and winded, UNINJURED with intact uniform, no wound or blood, holding his chest over robe. Other people at a safe distance outside action line. No infant near wall.\",\"dialogue\":[{\"speaker\":\"Ron\",\"text\":\"¿Lo ves? Sigue siendo la misma…\"}],\"panel\":2},{\"scene\":\"Pansy stands beside Hermione, holding Robin SECURELY against LEFT side with LEFT arm, RIGHT hand points lowered wand away from all people. Exactly two anatomically connected arms. Gray-sweater Robin calm and safe, no glow near infant. Hermione gives Ron firm boundary.\",\"dialogue\":[{\"speaker\":\"Hermione\",\"text\":\"Deja en paz a mi familia, Ronald. Es la última vez que nos insultas.\"}],\"panel\":3},{\"scene\":\"Hermione gently guides Pansy’s RIGHT wand hand DOWN with one hand and takes tan stroller handle with other, departing together. Pansy LEFT arm still safely carries Robin, no extra limbs or duplicate baby.\",\"caption\":\"Hermione bajó la varita de Pansy y la acompañó hacia la salida.\",\"panel\":4},{\"scene\":\"Ron seated looks up at Dean, extending one empty hand in appeal. Dean safely holds tiny Norell in pale blanket, Black father in RED/GOLD uniform with distinct own face, disappointment not rage.\",\"dialogue\":[{\"speaker\":\"Ron\",\"text\":\"Dean…\"}],\"panel\":5},{\"scene\":\"Dean silently turns and walks AWAY with Norell supported in both arms, no touching or abuse. Tracey and Wayne also depart in other direction with Caitlyn safely in covered stroller.\",\"dialogue\":[{\"speaker\":\"Ron\",\"text\":\"¡Dean, no me dejes aquí!\"}],\"panel\":6},{\"scene\":\"Wide Ron alone beside corridor wall under daylight Gothic window, no injury or blood. He glares toward empty exit, pride wounded, no threatening weapon.\",\"caption\":\"En lugar de arrepentirse, volvió a buscar a quién culpar.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p021.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p009.webp"
+          ],
+          "generatedMaster": "exec-3f868ee2-5045-43ad-9e74-2a3a94dd9a11.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "hermione",
+          "varita",
+          "acompano",
+          "hacia",
+          "salida",
+          "dejes"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 26,
+      "image": "paginas/c10-p026.webp",
+      "sourcePdfPages": [
+        290,
+        292
+      ],
+      "summary": "Camino a Herbología, el grupo recuerda que cuidar implica responsabilidad. Tracey celebra la unión de Hermione y Pansy.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p026.png",
+      "generatedMaster": "exec-d2904f9a-4f21-4411-b30f-7360d68d4609.png",
+      "sha256": "69afc2bf00141d8096c5409e9953639fad5ee3082305e830b4c7cfc99b98d7c0",
+      "masterSha256": "0745c77adb721527d33382db27f173cc90121d9e8b4e7faf41ef12838f4c6f4e",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos. Se eliminan los dos acompañantes añadidos por error, Ron y Dean, y se restaura la cabecera. Solo caminan ambas protagonistas, Tracey y Wayne con sus bebés; texto completo, réplicas, mano entrelazada, ropa, zafiro, cochecitos y camino coherentes.",
+      "transcript": "Capítulo 10 · 26\n\nCamino a Herbología, el grupo recuerda que cuidar implica responsabilidad. Tracey celebra la unión de Hermione y Pansy.\nTracey: Pobre Alice. Ha tenido que hacerlo todo sola.\nWayne: A Vincent y Onora les retiraron al bebé. Reprobaron el proyecto por descuidarlo.\nNarración: Cuidar de alguien no era una tarea que pudiera dejarse de lado.\nTracey: Estoy feliz por las dos. Ya era hora de que se dieran cuenta.\nPansy: No seas ridícula, Davies.\nTracey: Por favor. ¡Mírense!\nWayne: Vamos, Trace. Nos vemos dentro.\nPansy: Estuviste impresionante defendiendo lo que quieres, Granger.\nHermione: Vamos. No quiero llegar tarde.",
+      "panels": [
+        {
+          "scene": "Wide outdoor gravel path to Hogwarts GREENHOUSES, cool gray morning daylight, castle behind, grass/lake distant. H&P walk hand in hand, Pansy safely carries gray-sweater Robin with free arm; Hermione pushes empty sand stroller with free hand. Tracey green high ponytail and Wayne yellow pushing Caitlyn’s covered stroller walk alongside.",
+          "dialogue": [
+            "Tracey: Pobre Alice. Ha tenido que hacerlo todo sola."
+          ]
+        },
+        {
+          "scene": "Wayne serious speaks to group while pushing covered stroller. No flashback, no trunk, no baby in distress shown.",
+          "dialogue": [
+            "Wayne: A Vincent y Onora les retiraron al bebé. Reprobaron el proyecto por descuidarlo."
+          ]
+        },
+        {
+          "scene": "Hermione thoughtful, tightens handhold with Pansy. Robin safely supported, baby entirely unharmed, natural tiny fingers. No crying children or neglected scenes.",
+          "caption": "Cuidar de alguien no era una tarea que pudiera dejarse de lado."
+        },
+        {
+          "scene": "Tracey brightens noticing their tender quiet handhold, smiles with both hands at heart. Keep own long HIGH PONYTAIL/green uniform/BROWN eyes, no Hermione curls.",
+          "dialogue": [
+            "Tracey: Estoy feliz por las dos. Ya era hora de que se dieran cuenta."
+          ]
+        },
+        {
+          "scene": "H&P exchange shy blush and smile, ordinary fully clothed affection. Pansy still holding ONE infant securely, no copied scowl.",
+          "dialogue": [
+            "Pansy: No seas ridícula, Davies.",
+            "Tracey: Por favor. ¡Mírense!"
+          ]
+        },
+        {
+          "scene": "Wayne leads Tracey toward greenhouse door, hand in hand, his other hand on Caitlyn stroller handle; both wave back. H&P remain on path.",
+          "dialogue": [
+            "Wayne: Vamos, Trace. Nos vemos dentro."
+          ]
+        },
+        {
+          "scene": "Pansy gives Hermione a proud fond smile, no kiss illustration needed. They walk toward greenhouse entrance with infant and stroller, same clothes/necklace. A brief affectionate beat before class.",
+          "dialogue": [
+            "Pansy: Estuviste impresionante defendiendo lo que quieres, Granger.",
+            "Hermione: Vamos. No quiero llegar tarde."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW full Spanish comic page 1024x1536 portrait. Fine-ink painterly anime, natural older-student proportions and ORIGINAL early individual faces, not chibi or 3D. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy faces and original Ron. IMAGE3 ONLY fixes ALICE ROWLE, the LONG BLACK BRAID/dark BROWN-eyed GREEN-uniform student next to Ron, not its old Pansy proportions. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN uniform and Wayne distinct MALE short light-brown hair/YELLOW Hufflepuff uniform. IMAGE5 only supports DEAN THOMAS, distinct Black male in RED/GOLD Gryffindor uniform/close short black coils/BROWN eyes, not Blaise who wears green. Maintain all individual faces without cloning. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, cheeks, lips, chin, RED/GOLD tie/robe lining/white shirt/gray vest/full opaque uniform, oval midnight-blue sapphire with clear diamond halo and WHITE PLATINUM fine chain FRONT chest if visible, not gold. Pansy GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BLACK sleek side-part CHIN-LENGTH bob/flat ends/BARE EARS/GREEN-SILVER full uniform. Normal same older-student scale, expressions match scene. Ron ginger hair/freckles/RED-GOLD uniform. ONE unique Robin tiny BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN smooth skin/tiny separate fingers/thumbs/natural infant body, no cloth skin/seams/paws/mittens/ball feet, stable small age/scale and secure specified carrier. Anders safely swaddled beige/green in ALICE arms; Norell tiny dark skin/fluffy BLACK hair/pale blanket in DEAN arms; Caitlyn in TRACEY/WAYNE covered stroller. Do not duplicate or confuse babies. Enchanted project babies look human, knitted texture only in clothing. All figures fully clothed. This is NON-GRAPHIC school fantasy conflict; use specified action elision, no injury/blood/gore or baby peril. Exactly TWO connected arms per figure, natural safe holding support, no extra hands. Coherent daylight stone Hogwarts fifth-floor corridor and/or outdoor gravel greenhouse path as specified, not manor, bedroom or clinic. Thin black frames, cream gutters, complete seven panels with all edges, SMALL BLACK upper-left header, no flourish. Dialogue has speaker metadata and text values: print ONLY exact text, NEVER speaker names/labels/English directions. All Spanish words and accents readable and complete, proper clear tails, captions cream. No extra text, logo, watermark or footer, reader adds exterior author credit on export.\nHEADER exactly in existing cream top strip: «Capítulo 10 · 26».\nSTORYBOARD: [{\"scene\":\"Wide outdoor gravel path to Hogwarts GREENHOUSES, cool gray morning daylight, castle behind, grass/lake distant. H&P walk hand in hand, Pansy safely carries gray-sweater Robin with free arm; Hermione pushes empty sand stroller with free hand. Tracey green high ponytail and Wayne yellow pushing Caitlyn’s covered stroller walk alongside.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"Pobre Alice. Ha tenido que hacerlo todo sola.\"}],\"panel\":1},{\"scene\":\"Wayne serious speaks to group while pushing covered stroller. No flashback, no trunk, no baby in distress shown.\",\"dialogue\":[{\"speaker\":\"Wayne\",\"text\":\"A Vincent y Onora les retiraron al bebé. Reprobaron el proyecto por descuidarlo.\"}],\"panel\":2},{\"scene\":\"Hermione thoughtful, tightens handhold with Pansy. Robin safely supported, baby entirely unharmed, natural tiny fingers. No crying children or neglected scenes.\",\"caption\":\"Cuidar de alguien no era una tarea que pudiera dejarse de lado.\",\"panel\":3},{\"scene\":\"Tracey brightens noticing their tender quiet handhold, smiles with both hands at heart. Keep own long HIGH PONYTAIL/green uniform/BROWN eyes, no Hermione curls.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"Estoy feliz por las dos. Ya era hora de que se dieran cuenta.\"}],\"panel\":4},{\"scene\":\"H&P exchange shy blush and smile, ordinary fully clothed affection. Pansy still holding ONE infant securely, no copied scowl.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"No seas ridícula, Davies.\"},{\"speaker\":\"Tracey\",\"text\":\"Por favor. ¡Mírense!\"}],\"panel\":5},{\"scene\":\"Wayne leads Tracey toward greenhouse door, hand in hand, his other hand on Caitlyn stroller handle; both wave back. H&P remain on path.\",\"dialogue\":[{\"speaker\":\"Wayne\",\"text\":\"Vamos, Trace. Nos vemos dentro.\"}],\"panel\":6},{\"scene\":\"Pansy gives Hermione a proud fond smile, no kiss illustration needed. They walk toward greenhouse entrance with infant and stroller, same clothes/necklace. A brief affectionate beat before class.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Estuviste impresionante defendiendo lo que quieres, Granger.\"},{\"speaker\":\"Hermione\",\"text\":\"Vamos. No quiero llegar tarde.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c02-p021.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p009.webp"
+          ],
+          "generatedMaster": "exec-3047e220-93b0-4fcf-8433-ecca3b78471e.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Correct this full 1024x1536 Spanish comic page Capítulo 10 · 26. FIRST TOP WIDE PANEL ONLY: REMOVE the TWO EXTRA figures at the far LEFT, the smiling GINGER RON and BLACK-haired Black male DEAN in RED/GOLD uniforms. They are NOT walking with this group after the preceding conflict. Restore only ordinary empty grass/path/castle/lake background where those two stood. Keep Pansy securely carrying Robin, Hermione pushing sand stroller and holding Pansy's hand, Tracey with high ponytail and Wayne/yellow pushing Caitlyn stroller all EXACTLY intact. No replacement people. TOP EMPTY CREAM STRIP: add the matching small BLACK upper-left header «Capítulo 10 · 26», no flourish. FIFTH PANEL (third row RIGHT): the speech «Por favor. ¡Mírense!» is TRACEY speaking from OFF PANEL LEFT, NOT Hermione. Change ONLY that balloon's tail so it clearly exits LEFT edge toward off-panel Tracey, remove its current tail to Hermione. Keep these exact words and all other balloons. Every other face, body, hand, baby/carrier, clothes, jewelry, stroller, scenery, text/caption/accent, seven panels and complete frame unchanged. No new text or watermark.",
+          "references": [
+            "exec-3047e220-93b0-4fcf-8433-ecca3b78471e.png"
+          ],
+          "generatedMaster": "exec-d2904f9a-4f21-4411-b30f-7360d68d4609.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [
+          "mirense"
+        ],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 27,
+      "image": "paginas/c10-p027.webp",
+      "sourcePdfPages": [
+        292,
+        293
+      ],
+      "summary": "En Herbología, Hermione se distrae entre la atención de Sophie y la rivalidad de Katie y Diane.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p027.png",
+      "generatedMaster": "exec-84a221b4-9145-4734-a91a-15d271b71637.png",
+      "sha256": "6a782051244cce248c7e314b5338b9a8c399f46e8ccecb32e7b7cca5bd03ff82",
+      "masterSha256": "e9c53f74c001d4042da711076eaee9f6a5b9f4fe6372d2bd06d640609077f0b8",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros y todos los textos completos. Se quita la sonaja adelantada de los cuadros primero y sexto, y James conserva jersey crema con Harry; Robin gris con Pansy. Katie y Diane mantienen peinados del taller, Sophie propia, Sprout adulta e invernadero estables.",
+      "transcript": "Capítulo 10 · 27\n\nEn Herbología, Hermione se distrae entre la atención de Sophie y la rivalidad de Katie y Diane.\nNarración: Herbología. Las flores de Moly esperaban sobre las mesas.\nNarración: Katie Brennan y Diane Westmeath evitaban mirarlas.\nNarración: Pero era la mirada de Sophie la que la tenía desconcentrada.\nNarración: Lavender parecía tomar apuntes sobre todo, menos sobre las plantas.\nSprout: Hoy trabajaremos con Moly. Nada de hongos explosivos cerca de los bebés.\nPansy: Machacar florecitas… Qué emoción.\nTracey: Te vendrá bien una clase tranquila.\nSprout: ¿Qué poción utiliza esta flor como ingrediente principal?",
+      "panels": [
+        {
+          "scene": "Wide glass Hogwarts greenhouse with rusted dark metal ribs, daylight, hanging vines and long RUSTIC WOOD benches. Clay pots of MOLY WHITE PETALS/BLACK roots, mortars, pruning tools. Sand/tan baby strollers safely alongside tables, away from stems and tools. Hermione RED/GOLD and Pansy GREEN/SILVER take places, one gray-sweater Robin safely on Pansy’s lap.",
+          "caption": "Herbología. Las flores de Moly esperaban sobre las mesas."
+        },
+        {
+          "scene": "Across workbench, two HUFFLEPUFF older students from reference3: KATIE is chestnut messy HIGH BUN with short wisps and BROWN eyes, athletic confident own face; DIANE long LIGHT BLONDE waves and GRAY eyes, composed own face. Both YELLOW/BLACK uniform ties/linings, white collared shirts/gray vests. Their blonde infant PHOENIX/HONEY eyes securely wrapped yellow/cream in tan stroller at side, never plush.",
+          "caption": "Katie Brennan y Diane Westmeath evitaban mirarlas."
+        },
+        {
+          "scene": "Hermione notices SOPHIE nearby: HONEY-BLONDE shoulder waves, BROWN eyes, YELLOW uniform, wistful eyes on Hermione. Beside Sophie a background Mandy with straight shoulder dark hair in ordinary black robe, chest/house trim hidden by book, safely holds tiny fully wrapped Rose. No detailed baby closeup or duplicated Robin.",
+          "caption": "Pero era la mirada de Sophie la que la tenía desconcentrada."
+        },
+        {
+          "scene": "Lavender long BLONDE curls/BURGUNDY bow/RED-GOLD uniform records notes with quill at distant workbench. Harry/round glasses/GREEN eyes with James CREAM sweater and Neville round own face/short brown hair/BROWN eyes in red/gold uniforms behind. Babies all safely supported away from plant tools.",
+          "caption": "Lavender parecía tomar apuntes sobre todo, menos sobre las plantas."
+        },
+        {
+          "scene": "Introduce PROFESSOR SPROUT: mature stocky woman about60, kind lined round face/BROWN eyes/short graying wavy brown hair under WORN PATCHED BROWN POINTED HAT, full EARTH-BROWN/OCHRE robes and gardening apron/gloves. She stands at central teaching bench, not a young student clone. Holds one Moly pot away from infants.",
+          "dialogue": [
+            "Sprout: Hoy trabajaremos con Moly. Nada de hongos explosivos cerca de los bebés."
+          ]
+        },
+        {
+          "scene": "Pansy gives weary amused glance at harmless flower pots, Robin securely on lap, Hermione still pensive. Tracey HIGH BROWN PONYTAIL/BROWN eyes/green uniform and Wayne short light brown/yellow across table.",
+          "dialogue": [
+            "Pansy: Machacar florecitas… Qué emoción.",
+            "Tracey: Te vendrá bien una clase tranquila."
+          ]
+        },
+        {
+          "scene": "Sprout raises a white-petaled Moly pot at teaching table. Diane quickly raises hand, Hermione absent-minded still looking toward Sophie. Pansy notices.",
+          "dialogue": [
+            "Sprout: ¿Qué poción utiliza esta flor como ingrediente principal?"
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait. Fine-ink painterly anime, original fine expressive faces and normal older-student proportions, not chibi/large heads/3D dolls. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy/Sophie faces and style. IMAGE3 establishes ONLY the TWO YELLOW HUFFLEPUFF students collecting a tote in its lower middle panel: KATIE CHESTNUT messy HIGH BUN with loose wisps/BROWN eyes, athletic confident own face; DIANE LONG LIGHT-BLONDE WAVES/GRAY eyes, composed own face. Keep them distinct from Hermione/Pansy, Sophie’s SHOULDER-LENGTH honey waves, and Daphne’s green uniform. They now wear YELLOW/BLACK HUFFLEPUFF TIES/robe linings, white shirts/gray vests/full opaque school uniforms, NOT old tracksuits. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN Slytherin and Wayne MALE short light-brown waves/YELLOW Hufflepuff. IMAGE5 fixes NEVILLE's own round face/short brown hair/BROWN eyes/RED-GOLD Gryffindor, and Lavender LONG BLONDE curls/BURGUNDY BOW/red-gold uniform. NEW professor SPROUT: clearly MATURE stocky woman about60, kind round lined face/BROWN eyes/short graying wavy brown hair under WORN PATCHED BROWN POINTED HAT, EARTH-BROWN/OCHRE long robes and gardening apron/gloves, own adult features never a clone of students or Elsie. NEW coherent location GLASS GREENHOUSE, dark rusted metal ribs/daylight/hanging vines/rustic WOOD workbenches, clay Moly pots with WHITE PETALS and BLACK roots/stems, mortars and gardening tools safely on tables away from infants. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, lips, chin/RED-GOLD full uniform, oval midnight-blue sapphire/diamond halo/WHITE PLATINUM fine chain FRONT chest if visible. Pansy BLACK sleek side-part CHIN-LENGTH flat bob/GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BARE EARS/GREEN-SILVER full uniform. Exact original facial identities, expressive tenderness/worry/competition without copied scowl. ONE Robin BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN small infant smooth skin/individual tiny fingers/thumbs/natural limbs, no cloth skin/seams/paws/ball feet. Securely supported or in SAND stroller as storyboard, never near tools/black plant sap. GOLD SNITCH-shaped baby rattle with small SILVER soft wings when introduced, not a sharp real ball. Other babies fully dressed, safe and individual: Phoenix blonde/HONEY eyes/yellow-cream wrap; James BLACK hair/GREEN eyes/CREAM sweater with Harry; Caitlyn in Tracey/Wayne stroller; Rose covered pale wrap with background Mandy. Sophie HONEY-BLONDE SHOULDER waves/BROWN eyes/YELLOW Hufflepuff. All fully clothed, wholesome school competition/family comedy. Seven complete sequential panels, thin black borders/narrow cream gutters, small BLACK upper-left header, no flourishes. Metadata speaker is for tail ONLY; PRINT ONLY text values, no names/colons/English directions. Every Spanish word/accent readable, large black lettering/white balloons, cream captions. Keep all faces visible and dialogue in logical reading order. No extra text, logo, watermark or footer; reader adds exterior author credit on export.\nHEADER in cream top margin exactly: «Capítulo 10 · 27».\nSTORYBOARD: [{\"scene\":\"Wide glass Hogwarts greenhouse with rusted dark metal ribs, daylight, hanging vines and long RUSTIC WOOD benches. Clay pots of MOLY WHITE PETALS/BLACK roots, mortars, pruning tools. Sand/tan baby strollers safely alongside tables, away from stems and tools. Hermione RED/GOLD and Pansy GREEN/SILVER take places, one gray-sweater Robin safely on Pansy’s lap.\",\"caption\":\"Herbología. Las flores de Moly esperaban sobre las mesas.\",\"panel\":1},{\"scene\":\"Across workbench, two HUFFLEPUFF older students from reference3: KATIE is chestnut messy HIGH BUN with short wisps and BROWN eyes, athletic confident own face; DIANE long LIGHT BLONDE waves and GRAY eyes, composed own face. Both YELLOW/BLACK uniform ties/linings, white collared shirts/gray vests. Their blonde infant PHOENIX/HONEY eyes securely wrapped yellow/cream in tan stroller at side, never plush.\",\"caption\":\"Katie Brennan y Diane Westmeath evitaban mirarlas.\",\"panel\":2},{\"scene\":\"Hermione notices SOPHIE nearby: HONEY-BLONDE shoulder waves, BROWN eyes, YELLOW uniform, wistful eyes on Hermione. Beside Sophie a background Mandy with straight shoulder dark hair in ordinary black robe, chest/house trim hidden by book, safely holds tiny fully wrapped Rose. No detailed baby closeup or duplicated Robin.\",\"caption\":\"Pero era la mirada de Sophie la que la tenía desconcentrada.\",\"panel\":3},{\"scene\":\"Lavender long BLONDE curls/BURGUNDY bow/RED-GOLD uniform records notes with quill at distant workbench. Harry/round glasses/GREEN eyes with James CREAM sweater and Neville round own face/short brown hair/BROWN eyes in red/gold uniforms behind. Babies all safely supported away from plant tools.\",\"caption\":\"Lavender parecía tomar apuntes sobre todo, menos sobre las plantas.\",\"panel\":4},{\"scene\":\"Introduce PROFESSOR SPROUT: mature stocky woman about60, kind lined round face/BROWN eyes/short graying wavy brown hair under WORN PATCHED BROWN POINTED HAT, full EARTH-BROWN/OCHRE robes and gardening apron/gloves. She stands at central teaching bench, not a young student clone. Holds one Moly pot away from infants.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"Hoy trabajaremos con Moly. Nada de hongos explosivos cerca de los bebés.\"}],\"panel\":5},{\"scene\":\"Pansy gives weary amused glance at harmless flower pots, Robin securely on lap, Hermione still pensive. Tracey HIGH BROWN PONYTAIL/BROWN eyes/green uniform and Wayne short light brown/yellow across table.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Machacar florecitas… Qué emoción.\"},{\"speaker\":\"Tracey\",\"text\":\"Te vendrá bien una clase tranquila.\"}],\"panel\":6},{\"scene\":\"Sprout raises a white-petaled Moly pot at teaching table. Diane quickly raises hand, Hermione absent-minded still looking toward Sophie. Pansy notices.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"¿Qué poción utiliza esta flor como ingrediente principal?\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c04-p001.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p008.webp"
+          ],
+          "generatedMaster": "exec-398d9955-0eb5-45a6-b9a3-f38378bf164d.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Edit ONLY ROBIN'S PREMATURE TOY in this full Spanish comic Capítulo 10 · 27. The GOLDEN SNITCH BABY RATTLE has not yet been introduced in the story. REMOVE that tiny GOLD/SILVER-WINGED rattle from Robin's hands in the TOP FIRST WIDE panel and the SIXTH WIDE panel (next-to-last row, Pansy/Hermione left and Tracey/Wayne right). Robin should simply rest his same small HUMAN hands naturally on his GRAY sweater or on Pansy's sleeve, with tiny distinct fingers/thumbs and no replacement toy. Keep Robin's BROWN curls/GREEN eyes, age/size/face/clothing, Pansy's secure lap support, anatomy and all other people completely unchanged. Do NOT remove the gardening tools or any other object. Preserve every face, gaze, gesture, all Spanish words/balloons/captions/header/accents, all SEVEN panels, all clothes/necklaces, flowers/greenhouse and entire exact 1024x1536 frame. No new writing, toy or watermark.",
+          "references": [
+            "exec-398d9955-0eb5-45a6-b9a3-f38378bf164d.png"
+          ],
+          "generatedMaster": "exec-f341baf9-476b-40a4-b9c2-29a6c0cb2457.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Change ONLY the SWEATER COLOR of BABY JAMES in the FOURTH panel of this full comic Capítulo 10 · 27 (THIRD ROW LEFT panel with BLONDE Lavender writing, BLACK-haired HARRY wearing ROUND GLASSES, and Neville at right). JAMES is the small BLACK-HAIRED baby safely in HARRY'S arms. His knit sweater must be CREAM, matching his previous appearances, NOT gray. Keep James's BLACK hair, GREEN eyes, human face/hands, age/size and Harry's support unchanged. ROBIN is a DIFFERENT BROWN-CURLY baby held by PANSY in the FIRST and SIXTH panels; ROBIN'S GRAY sweater must remain GRAY and his empty hands stay empty. Change NOTHING ELSE in any panel. Preserve all seven panels, every exact Spanish word/balloon/caption/header/tail/accent, every face/hairstyle/gesture, school uniform, necklace, other baby/carrier, flower and greenhouse background, entire 1024x1536 frame. No extra text, object or watermark.",
+          "references": [
+            "exec-f341baf9-476b-40a4-b9c2-29a6c0cb2457.png"
+          ],
+          "generatedMaster": "exec-84a221b4-9145-4734-a91a-15d271b71637.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 28,
+      "image": "paginas/c10-p028.webp",
+      "sourcePdfPages": [
+        293,
+        294
+      ],
+      "summary": "Diane se adelanta a Hermione. Pansy responde la siguiente pregunta y recupera su atención.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p028.png",
+      "generatedMaster": "exec-3eacd25b-b20a-4a68-815c-118de298fb31.png",
+      "sha256": "f1f1f80f4c06889eff05fcbc5f7ad3bc31d5a5f1da6d6a0449da3f041026ece4",
+      "masterSha256": "af7a08250a92024b4703cb5f26e53cf421d1a74064e6f5b1c84f10ffeb8b2af8",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 8,
+      "review": "Ocho cuadros completos y todos los textos contrastados visualmente. Katie con moño castaño y Diane con pelo rubio largo mantienen el taller de referencia, Sprout adulta propia, Sophie distinta. Robin humano y seguro en regazo de Pansy, uniformes, collar y aula coherentes.",
+      "transcript": "Capítulo 10 · 28\n\nDiane se adelanta a Hermione. Pansy responde la siguiente pregunta y recupera su atención.\nDiane: La poción Herbovitalizante, o Wiggenweld, profesora.\nSprout: ¡Cinco puntos para Hufflepuff!\nNarración: Hermione apenas oyó la respuesta.\nSprout: ¿Y cuáles son sus usos principales?\nPansy: Cierra heridas y restaura la energía mágica. También contrarresta pociones de sueño.\nSprout: ¡Respuesta impecable! Cinco puntos para Slytherin.\nNarración: La voz de Pansy la trajo de vuelta a la clase.\nPansy: ¿Estás bien, Granger? Pareces estar en otra dimensión.\nHermione: Sí. Solo estaba un poco desconcentrada.",
+      "panels": [
+        {
+          "scene": "Diane LONG LIGHT-BLONDE waves/GRAY eyes/YELLOW uniform eagerly raises one hand and answers; Katie CHESTNUT messy HIGH BUN/BROWN eyes beside her approving. Phoenix blond/HONEY eyes securely in side stroller, no baby near plant stems.",
+          "dialogue": [
+            "Diane: La poción Herbovitalizante, o Wiggenweld, profesora."
+          ]
+        },
+        {
+          "scene": "Sprout mature stocky with patched brown hat/earth-brown robe smiles. Diane gives a cold superior sideways glance toward Hermione while lowering hand.",
+          "dialogue": [
+            "Sprout: ¡Cinco puntos para Hufflepuff!"
+          ]
+        },
+        {
+          "scene": "Hermione with BROWN eyes/chestnut curls is still far away in thought; Sophie honey-blonde/BROWN eyes blurred in distance. Pansy watches Hermione with growing concern, infant safe on Pansy’s lap.",
+          "caption": "Hermione apenas oyó la respuesta."
+        },
+        {
+          "scene": "Sprout asks follow-up from central teaching bench. Pansy sits up, one hand at Robin’s back, other makes clear natural answer gesture, no duplicated limbs.",
+          "dialogue": [
+            "Sprout: ¿Y cuáles son sus usos principales?",
+            "Pansy: Cierra heridas y restaura la energía mágica. También contrarresta pociones de sueño."
+          ]
+        },
+        {
+          "scene": "Diane’s smile fades, Katie frowns slightly. Sprout pleased, professor’s old own face and hat recognizable.",
+          "dialogue": [
+            "Sprout: ¡Respuesta impecable! Cinco puntos para Slytherin."
+          ]
+        },
+        {
+          "scene": "Hermione turns toward Pansy with bright genuine proud smile. Pansy surprised by warm reaction, no suspicious scowl, eyes slender and green.",
+          "caption": "La voz de Pansy la trajo de vuelta a la clase."
+        },
+        {
+          "scene": "Closer H&P at shared wooden workbench, gray-sweater Robin yawns safely on Pansy’s lap. White flowers/black-root pots at far edge beyond infant reach, gloves on workbench.",
+          "dialogue": [
+            "Pansy: ¿Estás bien, Granger? Pareces estar en otra dimensión.",
+            "Hermione: Sí. Solo estaba un poco desconcentrada."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait. Fine-ink painterly anime, original fine expressive faces and normal older-student proportions, not chibi/large heads/3D dolls. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy/Sophie faces and style. IMAGE3 establishes ONLY the TWO YELLOW HUFFLEPUFF students collecting a tote in its lower middle panel: KATIE CHESTNUT messy HIGH BUN with loose wisps/BROWN eyes, athletic confident own face; DIANE LONG LIGHT-BLONDE WAVES/GRAY eyes, composed own face. Keep them distinct from Hermione/Pansy, Sophie’s SHOULDER-LENGTH honey waves, and Daphne’s green uniform. They now wear YELLOW/BLACK HUFFLEPUFF TIES/robe linings, white shirts/gray vests/full opaque school uniforms, NOT old tracksuits. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN Slytherin and Wayne MALE short light-brown waves/YELLOW Hufflepuff. IMAGE5 fixes NEVILLE's own round face/short brown hair/BROWN eyes/RED-GOLD Gryffindor, and Lavender LONG BLONDE curls/BURGUNDY BOW/red-gold uniform. NEW professor SPROUT: clearly MATURE stocky woman about60, kind round lined face/BROWN eyes/short graying wavy brown hair under WORN PATCHED BROWN POINTED HAT, EARTH-BROWN/OCHRE long robes and gardening apron/gloves, own adult features never a clone of students or Elsie. NEW coherent location GLASS GREENHOUSE, dark rusted metal ribs/daylight/hanging vines/rustic WOOD workbenches, clay Moly pots with WHITE PETALS and BLACK roots/stems, mortars and gardening tools safely on tables away from infants. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, lips, chin/RED-GOLD full uniform, oval midnight-blue sapphire/diamond halo/WHITE PLATINUM fine chain FRONT chest if visible. Pansy BLACK sleek side-part CHIN-LENGTH flat bob/GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BARE EARS/GREEN-SILVER full uniform. Exact original facial identities, expressive tenderness/worry/competition without copied scowl. ONE Robin BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN small infant smooth skin/individual tiny fingers/thumbs/natural limbs, no cloth skin/seams/paws/ball feet. Securely supported or in SAND stroller as storyboard, never near tools/black plant sap. GOLD SNITCH-shaped baby rattle with small SILVER soft wings when introduced, not a sharp real ball. Other babies fully dressed, safe and individual: Phoenix blonde/HONEY eyes/yellow-cream wrap; James BLACK hair/GREEN eyes/CREAM sweater with Harry; Caitlyn in Tracey/Wayne stroller; Rose covered pale wrap with background Mandy. Sophie HONEY-BLONDE SHOULDER waves/BROWN eyes/YELLOW Hufflepuff. All fully clothed, wholesome school competition/family comedy. Seven complete sequential panels, thin black borders/narrow cream gutters, small BLACK upper-left header, no flourishes. Metadata speaker is for tail ONLY; PRINT ONLY text values, no names/colons/English directions. Every Spanish word/accent readable, large black lettering/white balloons, cream captions. Keep all faces visible and dialogue in logical reading order. No extra text, logo, watermark or footer; reader adds exterior author credit on export.\nHEADER in cream top margin exactly: «Capítulo 10 · 28».\nSTORYBOARD: [{\"scene\":\"Diane LONG LIGHT-BLONDE waves/GRAY eyes/YELLOW uniform eagerly raises one hand and answers; Katie CHESTNUT messy HIGH BUN/BROWN eyes beside her approving. Phoenix blond/HONEY eyes securely in side stroller, no baby near plant stems.\",\"dialogue\":[{\"speaker\":\"Diane\",\"text\":\"La poción Herbovitalizante, o Wiggenweld, profesora.\"}],\"panel\":1},{\"scene\":\"Sprout mature stocky with patched brown hat/earth-brown robe smiles. Diane gives a cold superior sideways glance toward Hermione while lowering hand.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"¡Cinco puntos para Hufflepuff!\"}],\"panel\":2},{\"scene\":\"Hermione with BROWN eyes/chestnut curls is still far away in thought; Sophie honey-blonde/BROWN eyes blurred in distance. Pansy watches Hermione with growing concern, infant safe on Pansy’s lap.\",\"caption\":\"Hermione apenas oyó la respuesta.\",\"panel\":3},{\"scene\":\"Sprout asks follow-up from central teaching bench. Pansy sits up, one hand at Robin’s back, other makes clear natural answer gesture, no duplicated limbs.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"¿Y cuáles son sus usos principales?\"},{\"speaker\":\"Pansy\",\"text\":\"Cierra heridas y restaura la energía mágica. También contrarresta pociones de sueño.\"}],\"panel\":4},{\"scene\":\"Diane’s smile fades, Katie frowns slightly. Sprout pleased, professor’s old own face and hat recognizable.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"¡Respuesta impecable! Cinco puntos para Slytherin.\"}],\"panel\":5},{\"scene\":\"Hermione turns toward Pansy with bright genuine proud smile. Pansy surprised by warm reaction, no suspicious scowl, eyes slender and green.\",\"caption\":\"La voz de Pansy la trajo de vuelta a la clase.\",\"panel\":6},{\"scene\":\"Closer H&P at shared wooden workbench, gray-sweater Robin yawns safely on Pansy’s lap. White flowers/black-root pots at far edge beyond infant reach, gloves on workbench.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"¿Estás bien, Granger? Pareces estar en otra dimensión.\"},{\"speaker\":\"Hermione\",\"text\":\"Sí. Solo estaba un poco desconcentrada.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c04-p001.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p008.webp"
+          ],
+          "generatedMaster": "exec-3eacd25b-b20a-4a68-815c-118de298fb31.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 29,
+      "image": "paginas/c10-p029.webp",
+      "sourcePdfPages": [
+        295,
+        296
+      ],
+      "summary": "Robin recibe una sonaja de Snitch. El grupo empieza a trabajar y Sprout propone una competencia de preguntas.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p029.png",
+      "generatedMaster": "exec-02c5d510-ced3-4b8b-9df7-3445e07761d4.png",
+      "sha256": "47f2b2b8deb26d949d4a25388dd10298f8684d73026af0784751333ae358b277",
+      "masterSha256": "d3860d9b0fcb9ad8954bc2b1cd81aaf5fbf1a3dfe0ed898224909274f02ba154",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos, OCR sin omisiones. Introducción de sonaja Snitch, paso al cochecito, miradas de bebés, trabajo en mesa y competición con Katie/Diane completos. Robin humano con ropa gris, cuidadores cerca, herramientas lejos del cochecito y aula coherente.",
+      "transcript": "Capítulo 10 · 29\n\nRobin recibe una sonaja de Snitch. El grupo empieza a trabajar y Sprout propone una competencia de preguntas.\nPansy: Tranquilo. Haremos algo más divertido después.\nNarración: La sonaja conquistó a todos los bebés del invernadero.\nSprout: Recojan las flores y extraigan la esencia con los morteros. Mantengan a los pequeños lejos de los tallos y la savia.\nNarración: Trabajarían juntas, con los cochecitos siempre a la vista.\nPansy: No acercaría a Robin a nada que pudiera volarle las cejas.\nWayne: La paternidad cambia las prioridades.\nTracey: Te noto dispersa, Hermione.\nHermione: Solo repasaba mis horarios de estudio.\nSprout: Hagamos una competencia de preguntas rápidas.\nKatie: Estamos listas, profesora.",
+      "panels": [
+        {
+          "scene": "Pansy supports gray-sweater Robin on lap with left arm and takes out a small SAFE GOLD SNITCH-shaped BABY RATTLE with soft SILVER tiny wings in right hand. Baby real fingers reaches happily. Hermione amused.",
+          "dialogue": [
+            "Pansy: Tranquilo. Haremos algo más divertido después."
+          ]
+        },
+        {
+          "scene": "Close tiny human Robin fingers grip the golden Snitch RATTLE, silver wings gently flutter and warm glow. Other infants in background SECURE strollers watch happily, not flying toys toward faces.",
+          "caption": "La sonaja conquistó a todos los bebés del invernadero."
+        },
+        {
+          "scene": "Sprout instructs at teaching bench. Natural classroom safety, she gestures to white petals then BLACK stems, plants well away from infants.",
+          "dialogue": [
+            "Sprout: Recojan las flores y extraigan la esencia con los morteros. Mantengan a los pequeños lejos de los tallos y la savia."
+          ]
+        },
+        {
+          "scene": "Wide H&P settle at bench near hanging vines. Robin now safely secured in their SAND stroller alongside bench with Snitch rattle, each mother visible and within reach. Tracey high brown ponytail/GREEN and Wayne short light brown/YELLOW take opposite places; Caitlyn safe in their separate stroller.",
+          "caption": "Trabajarían juntas, con los cochecitos siempre a la vista."
+        },
+        {
+          "scene": "Pansy puts on gardening gloves with natural hands while Hermione uses mortar on table WELL AWAY from strollers. Wayne smiling, tools not directed toward any baby.",
+          "dialogue": [
+            "Pansy: No acercaría a Robin a nada que pudiera volarle las cejas.",
+            "Wayne: La paternidad cambia las prioridades."
+          ]
+        },
+        {
+          "scene": "Tracey glances from distracted Hermione toward Sophie at another bench. Hermione forces a small smile, no exaggerated distress.",
+          "dialogue": [
+            "Tracey: Te noto dispersa, Hermione.",
+            "Hermione: Solo repasaba mis horarios de estudio."
+          ]
+        },
+        {
+          "scene": "Sprout claps hands once and smiles eagerly. Across bench Katie high chestnut BUN/YELLOW high-fives Diane long light blonde/GRAY eyes/YELLOW, both ready for contest. Tiny Phoenix safe in stroller away from hands.",
+          "dialogue": [
+            "Sprout: Hagamos una competencia de preguntas rápidas.",
+            "Katie: Estamos listas, profesora."
+          ]
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait. Fine-ink painterly anime, original fine expressive faces and normal older-student proportions, not chibi/large heads/3D dolls. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy/Sophie faces and style. IMAGE3 establishes ONLY the TWO YELLOW HUFFLEPUFF students collecting a tote in its lower middle panel: KATIE CHESTNUT messy HIGH BUN with loose wisps/BROWN eyes, athletic confident own face; DIANE LONG LIGHT-BLONDE WAVES/GRAY eyes, composed own face. Keep them distinct from Hermione/Pansy, Sophie’s SHOULDER-LENGTH honey waves, and Daphne’s green uniform. They now wear YELLOW/BLACK HUFFLEPUFF TIES/robe linings, white shirts/gray vests/full opaque school uniforms, NOT old tracksuits. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN Slytherin and Wayne MALE short light-brown waves/YELLOW Hufflepuff. IMAGE5 fixes NEVILLE's own round face/short brown hair/BROWN eyes/RED-GOLD Gryffindor, and Lavender LONG BLONDE curls/BURGUNDY BOW/red-gold uniform. NEW professor SPROUT: clearly MATURE stocky woman about60, kind round lined face/BROWN eyes/short graying wavy brown hair under WORN PATCHED BROWN POINTED HAT, EARTH-BROWN/OCHRE long robes and gardening apron/gloves, own adult features never a clone of students or Elsie. NEW coherent location GLASS GREENHOUSE, dark rusted metal ribs/daylight/hanging vines/rustic WOOD workbenches, clay Moly pots with WHITE PETALS and BLACK roots/stems, mortars and gardening tools safely on tables away from infants. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, lips, chin/RED-GOLD full uniform, oval midnight-blue sapphire/diamond halo/WHITE PLATINUM fine chain FRONT chest if visible. Pansy BLACK sleek side-part CHIN-LENGTH flat bob/GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BARE EARS/GREEN-SILVER full uniform. Exact original facial identities, expressive tenderness/worry/competition without copied scowl. ONE Robin BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN small infant smooth skin/individual tiny fingers/thumbs/natural limbs, no cloth skin/seams/paws/ball feet. Securely supported or in SAND stroller as storyboard, never near tools/black plant sap. GOLD SNITCH-shaped baby rattle with small SILVER soft wings when introduced, not a sharp real ball. Other babies fully dressed, safe and individual: Phoenix blonde/HONEY eyes/yellow-cream wrap; James BLACK hair/GREEN eyes/CREAM sweater with Harry; Caitlyn in Tracey/Wayne stroller; Rose covered pale wrap with background Mandy. Sophie HONEY-BLONDE SHOULDER waves/BROWN eyes/YELLOW Hufflepuff. All fully clothed, wholesome school competition/family comedy. Seven complete sequential panels, thin black borders/narrow cream gutters, small BLACK upper-left header, no flourishes. Metadata speaker is for tail ONLY; PRINT ONLY text values, no names/colons/English directions. Every Spanish word/accent readable, large black lettering/white balloons, cream captions. Keep all faces visible and dialogue in logical reading order. No extra text, logo, watermark or footer; reader adds exterior author credit on export.\nHEADER in cream top margin exactly: «Capítulo 10 · 29».\nSTORYBOARD: [{\"scene\":\"Pansy supports gray-sweater Robin on lap with left arm and takes out a small SAFE GOLD SNITCH-shaped BABY RATTLE with soft SILVER tiny wings in right hand. Baby real fingers reaches happily. Hermione amused.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"Tranquilo. Haremos algo más divertido después.\"}],\"panel\":1},{\"scene\":\"Close tiny human Robin fingers grip the golden Snitch RATTLE, silver wings gently flutter and warm glow. Other infants in background SECURE strollers watch happily, not flying toys toward faces.\",\"caption\":\"La sonaja conquistó a todos los bebés del invernadero.\",\"panel\":2},{\"scene\":\"Sprout instructs at teaching bench. Natural classroom safety, she gestures to white petals then BLACK stems, plants well away from infants.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"Recojan las flores y extraigan la esencia con los morteros. Mantengan a los pequeños lejos de los tallos y la savia.\"}],\"panel\":3},{\"scene\":\"Wide H&P settle at bench near hanging vines. Robin now safely secured in their SAND stroller alongside bench with Snitch rattle, each mother visible and within reach. Tracey high brown ponytail/GREEN and Wayne short light brown/YELLOW take opposite places; Caitlyn safe in their separate stroller.\",\"caption\":\"Trabajarían juntas, con los cochecitos siempre a la vista.\",\"panel\":4},{\"scene\":\"Pansy puts on gardening gloves with natural hands while Hermione uses mortar on table WELL AWAY from strollers. Wayne smiling, tools not directed toward any baby.\",\"dialogue\":[{\"speaker\":\"Pansy\",\"text\":\"No acercaría a Robin a nada que pudiera volarle las cejas.\"},{\"speaker\":\"Wayne\",\"text\":\"La paternidad cambia las prioridades.\"}],\"panel\":5},{\"scene\":\"Tracey glances from distracted Hermione toward Sophie at another bench. Hermione forces a small smile, no exaggerated distress.\",\"dialogue\":[{\"speaker\":\"Tracey\",\"text\":\"Te noto dispersa, Hermione.\"},{\"speaker\":\"Hermione\",\"text\":\"Solo repasaba mis horarios de estudio.\"}],\"panel\":6},{\"scene\":\"Sprout claps hands once and smiles eagerly. Across bench Katie high chestnut BUN/YELLOW high-fives Diane long light blonde/GRAY eyes/YELLOW, both ready for contest. Tiny Phoenix safe in stroller away from hands.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"Hagamos una competencia de preguntas rápidas.\"},{\"speaker\":\"Katie\",\"text\":\"Estamos listas, profesora.\"}],\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c04-p001.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p008.webp"
+          ],
+          "generatedMaster": "exec-02c5d510-ced3-4b8b-9df7-3445e07761d4.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    },
+    {
+      "page": 30,
+      "image": "paginas/c10-p030.webp",
+      "sourcePdfPages": [
+        296,
+        297
+      ],
+      "summary": "Neville y Diane empiezan a sumar puntos. Diane provoca a Hermione, que todavía no ha respondido.",
+      "workingMaster": ".local/maestros/capitulo-10-continuacion-2026-11-04/c10-p030.png",
+      "generatedMaster": "exec-dd3d9128-daf4-4766-9e27-bda27bc2f59c.png",
+      "sha256": "9c37f238a4838f046ed06136a7ca2c05ccaccb3b9e9449d0ef8ed9f1e956b9e2",
+      "masterSha256": "265f377fa80fa205df41c9e305f26b29af805d4ff6bf1efadbd9448b901e1f60",
+      "width": 1024,
+      "height": 1536,
+      "actualPanelCount": 7,
+      "review": "Siete cuadros completos, OCR sin omisiones. Se retira una réplica añadida por el generador fuera del guion y Robin conserva jersey gris en su cochecito. Neville propio, Katie/Diane, Sprout, Sophie, uniformes, collar y entorno coherentes.",
+      "transcript": "Capítulo 10 · 30\n\nNeville y Diane empiezan a sumar puntos. Diane provoca a Hermione, que todavía no ha respondido.\nSprout: ¿Cómo se extrae mejor el jugo de Sopóforo?\nNeville: Se aplasta con la hoja plana de una daga de plata. No se corta.\nSprout: ¡Tres puntos para Gryffindor!\nNarración: Diane ganó las dos preguntas siguientes.\nNarración: Todos esperaban que Hermione se uniera a la competencia.\nDiane: El intelecto de algunas personas está muy sobrevalorado. Supongo que la fama distrae.\nNarración: Esta vez, Hermione sí la había oído.",
+      "panels": [
+        {
+          "scene": "Sprout at central bench asks class, warm daylight through greenhouse ribs, chalkboard without random writing. Students mortar flowers at distant benches, babies secure in side strollers.",
+          "dialogue": [
+            "Sprout: ¿Cómo se extrae mejor el jugo de Sopóforo?"
+          ]
+        },
+        {
+          "scene": "NEVILLE from reference5, own round older-student face, short slightly tousled BROWN hair/BROWN eyes, RED-GOLD uniform, confidently raises hand. Not Wayne/theo/Ron, no freckles/redhair. No sharp tool in hands near a baby.",
+          "dialogue": [
+            "Neville: Se aplasta con la hoja plana de una daga de plata. No se corta."
+          ]
+        },
+        {
+          "scene": "Sprout delighted, Diane annoyed losing first point, Katie tense beside her. Teacher stocky mature/brown patched hat/earthrobe.",
+          "dialogue": [
+            "Sprout: ¡Tres puntos para Gryffindor!"
+          ]
+        },
+        {
+          "scene": "Diane long light blonde/GRAY eyes/YELLOW tie responds confidently to next question, Katie high brown bun beside her; Phoenix tiny blonde/honey eyes safe in yellow/cream wrap in stroller.",
+          "caption": "Diane ganó las dos preguntas siguientes."
+        },
+        {
+          "scene": "Several classmates, including Neville and Harry/round glasses, look toward HERMIONE who still has not raised hand. Pansy concerned, Robin in sand stroller holds safe Snitch rattle. Sophie honey-blonde/BROWN eyes quietly watches from further bench.",
+          "caption": "Todos esperaban que Hermione se uniera a la competencia."
+        },
+        {
+          "scene": "Diane turns from her table, casual-looking but sharp smile aimed toward Hermione. Katie watching, both individual older-student faces, not Daphne/Sophie copies.",
+          "dialogue": [
+            "Diane: El intelecto de algunas personas está muy sobrevalorado. Supongo que la fama distrae."
+          ]
+        },
+        {
+          "scene": "Close Hermione stops mortar and slowly looks up with focused determined BROWN eyes, face original angular enough and freckles, no exaggerated fury. Pansy notices her change and smiles slightly.",
+          "caption": "Esta vez, Hermione sí la había oído."
+        }
+      ],
+      "attempts": [
+        {
+          "prompt": "Use case: illustration-story. NEW complete Spanish comic page, exact 1024x1536 portrait. Fine-ink painterly anime, original fine expressive faces and normal older-student proportions, not chibi/large heads/3D dolls. IMAGE1 original Ch1p2 and IMAGE2 original Ch1p1 fix Hermione/Pansy/Sophie faces and style. IMAGE3 establishes ONLY the TWO YELLOW HUFFLEPUFF students collecting a tote in its lower middle panel: KATIE CHESTNUT messy HIGH BUN with loose wisps/BROWN eyes, athletic confident own face; DIANE LONG LIGHT-BLONDE WAVES/GRAY eyes, composed own face. Keep them distinct from Hermione/Pansy, Sophie’s SHOULDER-LENGTH honey waves, and Daphne’s green uniform. They now wear YELLOW/BLACK HUFFLEPUFF TIES/robe linings, white shirts/gray vests/full opaque school uniforms, NOT old tracksuits. IMAGE4 fixes Tracey HIGH BROWN PONYTAIL/BROWN eyes/GREEN Slytherin and Wayne MALE short light-brown waves/YELLOW Hufflepuff. IMAGE5 fixes NEVILLE's own round face/short brown hair/BROWN eyes/RED-GOLD Gryffindor, and Lavender LONG BLONDE curls/BURGUNDY BOW/red-gold uniform. NEW professor SPROUT: clearly MATURE stocky woman about60, kind round lined face/BROWN eyes/short graying wavy brown hair under WORN PATCHED BROWN POINTED HAT, EARTH-BROWN/OCHRE long robes and gardening apron/gloves, own adult features never a clone of students or Elsie. NEW coherent location GLASS GREENHOUSE, dark rusted metal ribs/daylight/hanging vines/rustic WOOD workbenches, clay Moly pots with WHITE PETALS and BLACK roots/stems, mortars and gardening tools safely on tables away from infants. Hermione BROWN eyes/freckles/abundant layered chestnut curls/original nose, lips, chin/RED-GOLD full uniform, oval midnight-blue sapphire/diamond halo/WHITE PLATINUM fine chain FRONT chest if visible. Pansy BLACK sleek side-part CHIN-LENGTH flat bob/GREEN slender ALMOND eyes/ANGULAR tapered jaw/strong brows/defined small lips/BARE EARS/GREEN-SILVER full uniform. Exact original facial identities, expressive tenderness/worry/competition without copied scowl. ONE Robin BROWN curls/GREEN eyes/GRAY knit sweater/BEIGE trousers/small cream socks, VISUALLY HUMAN small infant smooth skin/individual tiny fingers/thumbs/natural limbs, no cloth skin/seams/paws/ball feet. Securely supported or in SAND stroller as storyboard, never near tools/black plant sap. GOLD SNITCH-shaped baby rattle with small SILVER soft wings when introduced, not a sharp real ball. Other babies fully dressed, safe and individual: Phoenix blonde/HONEY eyes/yellow-cream wrap; James BLACK hair/GREEN eyes/CREAM sweater with Harry; Caitlyn in Tracey/Wayne stroller; Rose covered pale wrap with background Mandy. Sophie HONEY-BLONDE SHOULDER waves/BROWN eyes/YELLOW Hufflepuff. All fully clothed, wholesome school competition/family comedy. Seven complete sequential panels, thin black borders/narrow cream gutters, small BLACK upper-left header, no flourishes. Metadata speaker is for tail ONLY; PRINT ONLY text values, no names/colons/English directions. Every Spanish word/accent readable, large black lettering/white balloons, cream captions. Keep all faces visible and dialogue in logical reading order. No extra text, logo, watermark or footer; reader adds exterior author credit on export.\nHEADER in cream top margin exactly: «Capítulo 10 · 30».\nSTORYBOARD: [{\"scene\":\"Sprout at central bench asks class, warm daylight through greenhouse ribs, chalkboard without random writing. Students mortar flowers at distant benches, babies secure in side strollers.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"¿Cómo se extrae mejor el jugo de Sopóforo?\"}],\"panel\":1},{\"scene\":\"NEVILLE from reference5, own round older-student face, short slightly tousled BROWN hair/BROWN eyes, RED-GOLD uniform, confidently raises hand. Not Wayne/theo/Ron, no freckles/redhair. No sharp tool in hands near a baby.\",\"dialogue\":[{\"speaker\":\"Neville\",\"text\":\"Se aplasta con la hoja plana de una daga de plata. No se corta.\"}],\"panel\":2},{\"scene\":\"Sprout delighted, Diane annoyed losing first point, Katie tense beside her. Teacher stocky mature/brown patched hat/earthrobe.\",\"dialogue\":[{\"speaker\":\"Sprout\",\"text\":\"¡Tres puntos para Gryffindor!\"}],\"panel\":3},{\"scene\":\"Diane long light blonde/GRAY eyes/YELLOW tie responds confidently to next question, Katie high brown bun beside her; Phoenix tiny blonde/honey eyes safe in yellow/cream wrap in stroller.\",\"caption\":\"Diane ganó las dos preguntas siguientes.\",\"panel\":4},{\"scene\":\"Several classmates, including Neville and Harry/round glasses, look toward HERMIONE who still has not raised hand. Pansy concerned, Robin in sand stroller holds safe Snitch rattle. Sophie honey-blonde/BROWN eyes quietly watches from further bench.\",\"caption\":\"Todos esperaban que Hermione se uniera a la competencia.\",\"panel\":5},{\"scene\":\"Diane turns from her table, casual-looking but sharp smile aimed toward Hermione. Katie watching, both individual older-student faces, not Daphne/Sophie copies.\",\"dialogue\":[{\"speaker\":\"Diane\",\"text\":\"El intelecto de algunas personas está muy sobrevalorado. Supongo que la fama distrae.\"}],\"panel\":6},{\"scene\":\"Close Hermione stops mortar and slowly looks up with focused determined BROWN eyes, face original angular enough and freckles, no exaggerated fury. Pansy notices her change and smiles slightly.\",\"caption\":\"Esta vez, Hermione sí la había oído.\",\"panel\":7}]",
+          "references": [
+            "paginas/c01-p002.webp",
+            "paginas/c01-p001.webp",
+            "paginas/c04-p001.webp",
+            "paginas/c08-p028-diseno-v3.webp",
+            "paginas/c01-p008.webp"
+          ],
+          "generatedMaster": "exec-f1027419-6b75-487c-8f15-b0022e7f1b90.png",
+          "selected": false
+        },
+        {
+          "prompt": "Use case: precise-object-edit. Edit ONLY two small faults in this complete Spanish comic Capítulo 10 · 30. THIRD ROW wide panel (Diane and Katie with Phoenix's yellow stroller): REMOVE the ENTIRE ADDED speech balloon saying «Se extrae presionando suavemente los pétalos en un mortero, hasta liberar el jugo sin dañar la raíz.» This line was not in the script. Restore only the ordinary greenhouse background under this balloon. Keep the existing cream caption «Diane ganó las dos preguntas siguientes.» and all figures unchanged. FOURTH ROW wide panel (Harry, Hermione, Pansy and a baby stroller): the BROWN-CURLY/GREEN-EYED baby with GOLD SNITCH in the stroller is ROBIN; his SWEATER must be GRAY knitted, not cream. Change only his sweater to GRAY, with BEIGE trousers/cream socks and natural human skin/hands unchanged. Do not change James or Phoenix in any other panel. Preserve every other word, accent, balloon/tail, caption/header, all SEVEN panels, all faces/expressions, uniforms/jewelry, babies/carriers, plants/tools and entire 1024x1536 frame. No new text or watermark.",
+          "references": [
+            "exec-f1027419-6b75-487c-8f15-b0022e7f1b90.png"
+          ],
+          "generatedMaster": "exec-dd3d9128-daf4-4766-9e27-bda27bc2f59c.png",
+          "selected": true
+        }
+      ],
+      "textCheck": {
+        "visual": "Página completa revisada, palabras, acentos, globos, identidades, anatomía, ropa, joyas, portadores y escenarios contrastados con el guion.",
+        "ocrMissingCandidates": [],
+        "decision": "Candidatas de OCR comprobadas visualmente; no son omisiones del dibujo."
+      }
+    }
+  ]
+}
