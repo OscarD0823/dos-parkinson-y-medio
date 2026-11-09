@@ -16,3 +16,14 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 8 | 401–402 | Pansy intenta un saludo formal. Jane la abraza y Robin acaba por conquistar a los Granger. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-01-08.json).
+
+## Páginas 9–12
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 9 | 402–403 | Ginny llega con James y Harry saluda a los Granger. Pansy advierte que Malcolm mira a Harry con más reserva. |
+| 10 | 403–404 | Molly saluda a los Granger con frialdad. Ron pasa de largo y Pansy busca la mano de Hermione. |
+| 11 | 404–405 | Ginny se despide con afecto y los Granger proponen volver a casa. |
+| 12 | 405–406–407 | Ante la camioneta de los Granger, Pansy preferiría una escoba. Jane les muestra el asiento que instalaron para Robin. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-09-12.json).

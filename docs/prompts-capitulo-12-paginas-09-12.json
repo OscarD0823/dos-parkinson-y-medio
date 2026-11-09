@@ -1,0 +1,341 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    9,
+    12
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 9,
+      "image": "paginas/c12-p009.webp",
+      "sourcePdfPages": [
+        402,
+        403
+      ],
+      "summary": "Ginny llega con James y Harry saluda a los Granger. Pansy advierte que Malcolm mira a Harry con más reserva.",
+      "panels": [
+        {
+          "scene": "Close Jane holds Robin in her arms in front of the brick wall. He taps her nose with one tiny index finger, and Malcolm leans in beside them, softening.",
+          "caption": "Hasta Malcolm se olvidó por un instante de sus reservas."
+        },
+        {
+          "scene": "Wide view down the platform. Ginny walks briskly in ochre, carrying exactly one black-haired cream-clad baby on her hip. Harry with round glasses catches up, burdened with bags. An open space ahead and vapor behind.",
+          "dialogue": [
+            "Ginny: ¡Jane! ¡Malcolm!"
+          ]
+        },
+        {
+          "scene": "Ginny and Jane greet with warm smiles and a brief shoulder touch. Each baby's face stays apart, Robin navy with brown curls on Jane’s right arm, James cream with black curls on Ginny’s left arm. Two babies total.",
+          "dialogue": [
+            "Ginny: ¡Qué gusto verlos!"
+          ]
+        },
+        {
+          "scene": "Harry in navy coat sets one suitcase on the paving and raises his head to greet. He is clearly a young human with rounded glasses, no resemblance to Malcolm’s rectangular glasses.",
+          "dialogue": [
+            "Harry: Señor y señora Granger."
+          ]
+        },
+        {
+          "scene": "Jane turns warmly toward Harry, still supports Robin. Malcolm gives a short, restrained nod. Pansy in partial profile watches the difference with one eyebrow raised.",
+          "dialogue": [
+            "Jane: Puedes llamarnos Jane y Malcolm, cariño."
+          ]
+        },
+        {
+          "scene": "Ginny turns to Hermione and Pansy with an affectionate teasing grin, James seated securely on her hip. Pansy and Hermione retain distinct hair and coats.",
+          "dialogue": [
+            "Ginny: ¿Ya les contaste todas tus preguntas sobre el mundo muggle?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 09\n\nGinny llega con James y Harry saluda a los Granger. Pansy advierte que Malcolm mira a Harry con más reserva.\nNarración: Hasta Malcolm se olvidó por un instante de sus reservas.\nGinny: ¡Jane! ¡Malcolm!\nGinny: ¡Qué gusto verlos!\nHarry: Señor y señora Granger.\nJane: Puedes llamarnos Jane y Malcolm, cariño.\nGinny: ¿Ya les contaste todas tus preguntas sobre el mundo muggle?",
+      "actualPanelCount": 6,
+      "review": "Se recuperan los ojos azules de James con pelo negro y ropa crema en brazos de Ginny. Robin conserva ojos verdes y cárdigan azul en brazos de Jane. Se preservan seis viñetas y todo el diálogo.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p009.png",
+      "sha256": "e438143fda9f6d4db9ec3112c27f5a713a5324ec6f092035c92fb8005c61f1fe",
+      "masterSha256": "a05e6d2e4d216abc0c48408a517aa0e93e36c71b6491bfbdb42749e7b44cc323",
+      "ocrMissingCandidates": [
+        "gusto",
+        "verlos",
+        "senor",
+        "senora",
+        "granger"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Jane and Malcolm’s exact faces and coats, Hermione, Pansy, Robin and the station only. Image 4 is reference for Ginny and James’s exact individual faces and hair only, no uniforms. Image 5 is reference for Harry's face and round spectacles only, no setting or old clothes.\nContinuity at London King's Cross in winter. Red Hogwarts Express, glass and iron vault, pale steam, warm hanging lamps and brick wall. Hermione long burgundy double-breasted wool coat, cream scarf, front blue sapphire on fine platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest green scarf, flat black bob and narrow moss green eyes. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, dark charcoal wool coat and navy plaid scarf. Robin has chestnut curls, green eyes, navy knit cardigan and beige trousers with cream blanket outside. Jane holds Robin continuously unless framing excludes her. One Robin only. Two large dark brown trunks with brass corners and silver crests and one small matching trunk, on one trolley when visible. Ginny has long straight copper-red hair, blue eyes and the young face of her reference; her winter clothes are a tawny ochre duffle coat and soft rust scarf. She always holds infant James securely: short black curls, GREEN eyes, cream knit cardigan, no glasses or scar. Harry is 17, taller than Ginny, messy black hair, round thin glasses, green eyes, navy wool coat and dark burgundy knit scarf. Harry carries travel cases, never a baby here. No Molly or Ron on this page.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 09» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Close Jane holds Robin in her arms in front of the brick wall. He taps her nose with one tiny index finger, and Malcolm leans in beside them, softening. Caption verbatim «Hasta Malcolm se olvidó por un instante de sus reservas.»\nPanel 2. Wide view down the platform. Ginny walks briskly in ochre, carrying exactly one black-haired cream-clad baby on her hip. Harry with round glasses catches up, burdened with bags. An open space ahead and vapor behind. Balloon from Ginny. Print verbatim «¡Jane! ¡Malcolm!»\nPanel 3. Ginny and Jane greet with warm smiles and a brief shoulder touch. Each baby's face stays apart, Robin navy with brown curls on Jane’s right arm, James cream with black curls on Ginny’s left arm. Two babies total. Balloon from Ginny. Print verbatim «¡Qué gusto verlos!»\nPanel 4. Harry in navy coat sets one suitcase on the paving and raises his head to greet. He is clearly a young human with rounded glasses, no resemblance to Malcolm’s rectangular glasses. Balloon from Harry. Print verbatim «Señor y señora Granger.»\nPanel 5. Jane turns warmly toward Harry, still supports Robin. Malcolm gives a short, restrained nod. Pansy in partial profile watches the difference with one eyebrow raised. Balloon from Jane. Print verbatim «Puedes llamarnos Jane y Malcolm, cariño.»\nPanel 6. Ginny turns to Hermione and Pansy with an affectionate teasing grin, James seated securely on her hip. Pansy and Hermione retain distinct hair and coats. Balloon from Ginny. Print verbatim «¿Ya les contaste todas tus preguntas sobre el mundo muggle?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p039.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c06-p023-color-v2.webp"
+          ],
+          "generatedMaster": "exec-3cf10c4d-ce54-4968-9b70-25d0b73a7737.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use the FIRST image as the precise edit target, a completely finished 1024×1536 Spanish comic page Capítulo 12 · 09. The second image is the original appearance of James Sirius Potter, the infant with black hair in Ginny's arms. Use image 2 strictly as an iris color swatch, never as a layout, clothing or hairstyle reference. Match James's original sky-blue irises on image 1. In panels 2, 3 and 6, baby James is the only BLACK-curled infant wearing a CREAM sweater in the arms of red-haired Ginny in an ochre coat. Apply the iris-only tint to all visible eyes of that one baby in those panels. Leave Robin in Jane's arms moss green in panels 1, 3 and 5, the same brown curls and navy cardigan. Leave Harry's green eyes under the round glasses and Ginny's adult blue eyes as they are. Identical complete page, every panel, margins, lettering, Spanish accents, background, costumes, hands and poses. Change only the named tiny irises. Keep the proportions 1024×1536. No added text or signature.",
+          "references": [
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-3cf10c4d-ce54-4968-9b70-25d0b73a7737.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-41f71873-ba67-4488-9e12-80fb646a4b3b.png"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "image": "paginas/c12-p010.webp",
+      "sourcePdfPages": [
+        403,
+        404
+      ],
+      "summary": "Molly saluda a los Granger con frialdad. Ron pasa de largo y Pansy busca la mano de Hermione.",
+      "panels": [
+        {
+          "scene": "Molly steps from the crowd through the warm platform lamps and fog, stiff posture, mouth calling. Foreground Jane with Robin and back view of Ginny with James have not moved.",
+          "dialogue": [
+            "Molly: ¡Harry! ¡Ginny! Llevamos una eternidad esperándolos."
+          ]
+        },
+        {
+          "scene": "Molly faces Jane and Malcolm at a reserved polite distance. She looks only toward the parents. Behind Pansy’s shoulder Hermione stands with lips pressed and her head raised.",
+          "dialogue": [
+            "Molly: Jane, Malcolm. Felices fiestas."
+          ]
+        },
+        {
+          "scene": "Ron stops with one weathered rolling trunk, his short ginger hair and freckles visible, his gaze directed at Hermione and Pansy. Wide enough to show his pause without merging people.",
+          "caption": "Ron se detuvo al verlos."
+        },
+        {
+          "scene": "Close at waist height exactly two hands. Pansy's fitted black gloved hand gently clasps Hermione's one bare hand. Their charcoal and burgundy sleeves are distinct and naturally attached.",
+          "caption": "Pansy buscó la mano de Hermione."
+        },
+        {
+          "scene": "Ron turns away and rolls his single trunk down the left of the platform. Hermione and Pansy stand together to right, hands still clasped, watched by the Grangers. Strong perspective and a sense of movement.",
+          "caption": "Ron se alejó sin saludar."
+        },
+        {
+          "scene": "Ginny frowns toward the departing Ron, one James safely on hip. Molly turns at the edge of frame. Jane with Robin is off-panel to avoid visual crowding.",
+          "dialogue": [
+            "Ginny: Ni siquiera los saludó."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 10\n\nMolly saluda a los Granger con frialdad. Ron pasa de largo y Pansy busca la mano de Hermione.\nMolly: ¡Harry! ¡Ginny! Llevamos una eternidad esperándolos.\nMolly: Jane, Malcolm. Felices fiestas.\nNarración: Ron se detuvo al verlos.\nNarración: Pansy buscó la mano de Hermione.\nNarración: Ron se alejó sin saludar.\nGinny: Ni siquiera los saludó.",
+      "actualPanelCount": 6,
+      "review": "James mantiene ojos azules. Jane sostiene a Robin, con ojos verdes. Se conserva el vestuario de los Weasley, el equipaje y el detalle de las dos manos enlazadas.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p010.png",
+      "sha256": "bf0e9b9af85d024b3ecff87033da2fcd82ad8cf460a9f18bd3499737dc523cea",
+      "masterSha256": "4be838bf177300d478fd74d55cf077a1761308953266b85a8f249fcad27488f7",
+      "ocrMissingCandidates": [
+        "harry",
+        "ginny",
+        "llevamos",
+        "eternidad",
+        "esperandolos",
+        "malcolm",
+        "felices",
+        "fiestas",
+        "verlos",
+        "pansy",
+        "hermione"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Granger family and leading girls' winter designs and station. Image 4 is reference for Ginny and James only, current coats described in prompt. Image 5 is reference for Ron’s exact young face and freckles only.\nContinuity at London King's Cross in winter. Red Hogwarts Express, glass and iron vault, pale steam, warm hanging lamps and brick wall. Hermione long burgundy double-breasted wool coat, cream scarf, front blue sapphire on fine platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest green scarf, flat black bob and narrow moss green eyes. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, dark charcoal wool coat and navy plaid scarf. Robin has chestnut curls, green eyes, navy knit cardigan and beige trousers with cream blanket outside. Jane holds Robin continuously unless framing excludes her. One Robin only. Two large dark brown trunks with brass corners and silver crests and one small matching trunk, on one trolley when visible. Ginny has long straight copper-red hair, blue eyes and the young face of her reference; her winter clothes are a tawny ochre duffle coat and soft rust scarf. She always holds infant James securely: short black curls, GREEN eyes, cream knit cardigan, no glasses or scar. Harry is 17, taller than Ginny, messy black hair, round thin glasses, green eyes, navy wool coat and dark burgundy knit scarf. Harry carries travel cases, never a baby here. Molly Weasley is a middle-aged mother with round lined face and auburn hair in a loose low bun, buttoned muted rust-brown overcoat and dark teal patterned scarf. Ron is a tall freckled student with red short tousled hair, a distinct long face, olive wool winter coat, russet scarf and one worn wheeled trunk. Never swap the three red-haired people's faces or wardrobe.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 10» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Molly steps from the crowd through the warm platform lamps and fog, stiff posture, mouth calling. Foreground Jane with Robin and back view of Ginny with James have not moved. Balloon from Molly. Print verbatim «¡Harry! ¡Ginny! Llevamos una eternidad esperándolos.»\nPanel 2. Molly faces Jane and Malcolm at a reserved polite distance. She looks only toward the parents. Behind Pansy’s shoulder Hermione stands with lips pressed and her head raised. Balloon from Molly. Print verbatim «Jane, Malcolm. Felices fiestas.»\nPanel 3. Ron stops with one weathered rolling trunk, his short ginger hair and freckles visible, his gaze directed at Hermione and Pansy. Wide enough to show his pause without merging people. Caption verbatim «Ron se detuvo al verlos.»\nPanel 4. Close at waist height exactly two hands. Pansy's fitted black gloved hand gently clasps Hermione's one bare hand. Their charcoal and burgundy sleeves are distinct and naturally attached. Caption verbatim «Pansy buscó la mano de Hermione.»\nPanel 5. Ron turns away and rolls his single trunk down the left of the platform. Hermione and Pansy stand together to right, hands still clasped, watched by the Grangers. Strong perspective and a sense of movement. Caption verbatim «Ron se alejó sin saludar.»\nPanel 6. Ginny frowns toward the departing Ron, one James safely on hip. Molly turns at the edge of frame. Jane with Robin is off-panel to avoid visual crowding. Balloon from Ginny. Print verbatim «Ni siquiera los saludó.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p039.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p023.webp"
+          ],
+          "generatedMaster": "exec-aa1c2317-585b-45f8-9c9b-07aefc44399c.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use the FIRST image as the precise edit target, a completely finished 1024×1536 Spanish comic page Capítulo 12 · 10. The second image is the original appearance of James Sirius Potter, the infant with black hair in Ginny's arms. Use image 2 strictly as an iris color swatch, never as a layout, clothing or hairstyle reference. Match James's original sky-blue irises on image 1. Only in panel 6, the last close-up, baby James has short black curls and a cream sweater in the arms of copper-haired Ginny wearing an ochre coat. Recolor the tiny visible irises of this infant blue. In panel 1 his face stays turned away. All panels showing Robin with brown curls and navy cardigan on Jane's camel lap keep Robin's green eyes. Identical complete page, every panel, margins, lettering, Spanish accents, background, costumes, hands and poses. Change only the named tiny irises. Keep the proportions 1024×1536. No added text or signature.",
+          "references": [
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-aa1c2317-585b-45f8-9c9b-07aefc44399c.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-9b4ec250-9cab-498b-bd54-e51654f3cb47.png"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "image": "paginas/c12-p011.webp",
+      "sourcePdfPages": [
+        404,
+        405
+      ],
+      "summary": "Ginny se despide con afecto y los Granger proponen volver a casa.",
+      "panels": [
+        {
+          "scene": "Wide view of the London station after Molly, Ron and Harry have moved on. Keep those people off the page. Ginny remains near Hermione, Pansy and the Grangers, with baby James calmly settled in her arms.",
+          "caption": "El andén empezó a vaciarse."
+        },
+        {
+          "scene": "Close view of Ginny in the exact ochre winter coat and rust scarf. She looks kindly at Hermione, who smiles back. A patch of James's cream sleeve in the foreground, comfortably supported.",
+          "dialogue": [
+            "Ginny: Lo siento, Hermione."
+          ]
+        },
+        {
+          "scene": "Medium view of Ginny speaking kindly to the Grangers with Pansy and Hermione beside them. Only Ginny, Pansy and the adult Malcolm visible at this angle.",
+          "dialogue": [
+            "Ginny: Pansy es una de las brujas más inteligentes de nuestro curso."
+          ]
+        },
+        {
+          "scene": "Two separate students Hermione and Pansy smiling shyly at Ginny's kind words. Chestnut curly Hermione, black bob Pansy. Quiet platform lights behind them, no other figures in this close view.",
+          "caption": "Ginny dijo que no imaginaba a nadie mejor al lado de Hermione."
+        },
+        {
+          "scene": "Ginny walks away warmly smiling, securely supporting James in her arms. Warm winter air under the wide railway vault.",
+          "dialogue": [
+            "Ginny: Felices fiestas."
+          ]
+        },
+        {
+          "scene": "Jane with baby Robin in front of Malcolm and the trolley. Exactly three brown trunks, two large, one small. Pansy and Hermione in their respective coats in half profile near the exit.",
+          "dialogue": [
+            "Jane: Ya tuvimos suficiente drama para un solo andén. Vámonos a casa."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 11\n\nGinny se despide con afecto y los Granger proponen volver a casa.\nNarración: El andén empezó a vaciarse.\nGinny: Lo siento, Hermione.\nGinny: Pansy es una de las brujas más inteligentes de nuestro curso.\nNarración: Ginny dijo que no imaginaba a nadie mejor al lado de Hermione.\nGinny: Felices fiestas.\nJane: Ya tuvimos suficiente drama para un solo andén. Vámonos a casa.",
+      "actualPanelCount": 6,
+      "review": "Se conserva la despedida de Ginny y su apoyo a Pansy. James tiene ojos azules y Robin verdes. Jane conserva a Robin y el carrito muestra dos baúles grandes y uno pequeño.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p011.png",
+      "sha256": "3826de9c1365550a432072d6a6c255466e78c6cd941e0039279a51d86ee6718c",
+      "masterSha256": "2fc5de0f9028dbbc2c63bf4c5d2ef50d371956e1f1d8aa0714710d19d7a0bd6f",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Granger family and leading girls' winter designs, station. Image 4 is the exact winter wardrobe and faces for Ginny, James and Harry in the preceding scene. Image 5 is the exact winter wardrobe and distinct faces for Molly, Ron, Ginny and James. One coherent six-panel family conversation in the winter station.\nContinuity at London King's Cross in winter. Red Hogwarts Express, glass and iron vault, pale steam, warm hanging lamps and brick wall. Hermione long burgundy double-breasted wool coat, cream scarf, front blue sapphire on fine platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest green scarf, flat black bob and narrow moss green eyes. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, dark charcoal wool coat and navy plaid scarf. Robin has chestnut curls, green eyes, navy knit cardigan and beige trousers with cream blanket outside. Jane holds Robin continuously unless framing excludes her. One Robin only. Two large dark brown trunks with brass corners and silver crests and one small matching trunk, on one trolley when visible. Ginny has long straight copper-red hair, blue eyes and the young face of her reference; her winter clothes are a tawny ochre duffle coat and soft rust scarf. She always holds infant James securely: short black curls, GREEN eyes, cream knit cardigan, no glasses or scar. Harry is 17, taller than Ginny, messy black hair, round thin glasses, green eyes, navy wool coat and dark burgundy knit scarf. Harry carries travel cases, never a baby here. Molly Weasley is a middle-aged mother with round lined face and auburn hair in a loose low bun, buttoned muted rust-brown overcoat and dark teal patterned scarf. Ron is a tall freckled student with red short tousled hair, a distinct long face, olive wool winter coat, russet scarf and one worn wheeled trunk. Never swap the three red-haired people's faces or wardrobe.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 11» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. A long shot of Molly following Ron, with Harry glancing apologetically back while carrying bags. Red train at side, departing figures fully clothed. Hermione and Pansy’s linked hands visible in close foreground. Caption verbatim «Harry se marchó con Molly.»\nPanel 2. Ginny looks openly regretful and stands with one cream-clad James on her hip. Hermione gently shakes her head, near Pansy, whose hand stays linked with hers below the frame. Balloon from Ginny. Print verbatim «Lo siento, Hermione.»\nPanel 3. Ginny turns to the two Grangers with a small genuine smile. Jane still carries Robin in navy. Malcolm keeps his rectangular glasses and looks quietly toward Pansy. Balloon from Ginny. Print verbatim «Pansy es una de las brujas más inteligentes de nuestro curso.»\nPanel 4. Close Ginny speaking with sincerity. Hermione blushes lightly, Pansy's shy surprise visible, their distinct faces three-quarter angle. Balloon from Ginny. Print verbatim «Y no creo que haya nadie mejor para estar a tu lado.»\nPanel 5. Ginny smiles over her shoulder and moves off into distance, securely holding one James against her ochre coat, his face partly hidden. Jane turns with Robin toward her husband. Balloon from Ginny. Print verbatim «Felices fiestas.»\nPanel 6. Jane in camel coat keeps one Robin snug in her arms and Malcolm starts to push a trolley with two large trunks and one small. Pansy and Hermione stand close next to them by the platform exit. Balloon from Jane. Print verbatim «Ya tuvimos suficiente drama para un solo andén. Vámonos a casa.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-3cf10c4d-ce54-4968-9b70-25d0b73a7737.png",
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-aa1c2317-585b-45f8-9c9b-07aefc44399c.png"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": false,
+          "prompt": "Create a single portrait 1024×1536 page of a warm family Christmas comic in Spanish. Show an ordinary public meeting at King's Cross. Use the exact ink and painterly colors, mature adult Granger faces, students' faces and winter clothing from the reference pages: reference 1 the Grangers and the two leads, reference 2 Ginny and James, reference 3 the train platform. Everyone remains bundled in full winter clothing, calm family scene. Hermione brown curls and brown eyes, burgundy coat and cream scarf, small oval blue pendant on platinum chain. Pansy short black bob and green eyes, charcoal coat with forest-green scarf. Jane wears camel with sage scarf and holds Robin in navy and cream, brown curls, green eyes. Malcolm dark coat navy plaid scarf and rectangular glasses. Ginny wears the ochre duffle with rust scarf, long copper hair. Her baby James is clothed in cream and has black curls and green eyes. All hands and children have realistic comic anatomy. Six clearly separated frames in three rows, black borders and cream gutters. Use the small serif heading «Capítulo 12 · 11». Exact text only, large and easy to read, no signature or footer.\nPanel 1. Wide view of the London station after Molly, Ron and Harry have moved on. Keep those people off the page. Ginny remains near Hermione, Pansy and the Grangers, with baby James calmly settled in her arms. Caption «El andén empezó a vaciarse.»\nPanel 2. Close view of Ginny in the exact ochre winter coat and rust scarf. She looks kindly at Hermione, who smiles back. A patch of James's cream sleeve in the foreground, comfortably supported. Balloon from Ginny «Lo siento, Hermione.»\nPanel 3. Medium view of Ginny speaking kindly to the Grangers with Pansy and Hermione beside them. Only Ginny, Pansy and the adult Malcolm visible at this angle. Balloon from Ginny «Pansy es una de las brujas más inteligentes de nuestro curso.»\nPanel 4. Two separate students Hermione and Pansy smiling shyly at Ginny's kind words. Chestnut curly Hermione, black bob Pansy. Quiet platform lights behind them, no other figures in this close view. Caption «Pansy escuchó su despedida con una gratitud inesperada.»\nPanel 5. Ginny walks away warmly smiling, securely supporting James in her arms. Warm winter air under the wide railway vault. Balloon from Ginny «Felices fiestas.»\nPanel 6. Jane with baby Robin in front of Malcolm and the trolley. Exactly three brown trunks, two large, one small. Pansy and Hermione in their respective coats in half profile near the exit. Balloon from Jane «Ya tuvimos suficiente drama para un solo andén. Vámonos a casa.»",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-3cf10c4d-ce54-4968-9b70-25d0b73a7737.png",
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-aa1c2317-585b-45f8-9c9b-07aefc44399c.png"
+          ],
+          "generatedMaster": "exec-ec63f559-008d-4858-8c45-0795b6f1d03a.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Precisely edit the FIRST finished six-panel Spanish Christmas comic page «Capítulo 12 · 11» at 1024×1536. Reproduce all six pictures exactly, the warm station, exact same adults, teenagers, winter clothes, shapes, skin, hands, suitcases, and all lettering. Two tiny corrections only. First, James is the baby with short BLACK curls wearing a CREAM sweater who is held by long red-haired Ginny in an ochre coat, visible in panels 1, 3 and 5. Change only his tiny irises to natural sky blue, as in reference 2. Robin, the separate brown-curly baby wearing NAVY in Jane's arms, keeps moss green eyes. Second, replace only the panel 4 caption with exactly «Ginny dijo que no imaginaba a nadie mejor al lado de Hermione.» in the same clean serif on cream. Keep all the other words and accents exactly as first image. No new footer, caption or decoration.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ec63f559-008d-4858-8c45-0795b6f1d03a.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-0b90ebab-fd63-43f7-b854-c42fa51c87c6.png"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "image": "paginas/c12-p012.webp",
+      "sourcePdfPages": [
+        405,
+        406,
+        407
+      ],
+      "summary": "Ante la camioneta de los Granger, Pansy preferiría una escoba. Jane les muestra el asiento que instalaron para Robin.",
+      "panels": [
+        {
+          "scene": "Wide establishing exterior as the four people leave the brick station in cold sunset. Malcolm pushes the trolley with two large trunks and one small. Jane supports Robin, Hermione and Pansy follow.",
+          "caption": "El aire helado de Londres los recibió al salir.",
+          "printed": [
+            "KING’S CROSS"
+          ]
+        },
+        {
+          "scene": "Low angle from next to the rear wheel of a graphite gray SUV at the curb. Pansy stares suspiciously at the massive dark gray vehicle, arms naturally folded over her charcoal coat.",
+          "dialogue": [
+            "Pansy: No pienso subirme a esa cosa, Granger."
+          ]
+        },
+        {
+          "scene": "Hermione looks at her with gentle amusement from the sidewalk. Pansy stands upright, thoughtful green eyes and no wand in her hands.",
+          "dialogue": [
+            "Hermione: ¿Y cómo piensas llegar a casa?",
+            "Pansy: Volando."
+          ]
+        },
+        {
+          "scene": "Malcolm raises the open tailgate and sets the small trunk beside the two larger ones in the cargo area. Jane and Robin stay near the closed rear passenger door, safely away from trunks.",
+          "dialogue": [
+            "Malcolm: Eso no me tranquiliza mucho, Pansy."
+          ]
+        },
+        {
+          "scene": "Hermione touches Pansy's wool sleeve lightly with one hand, the other tucked in her coat pocket. Their honest expressions and warmer streetlamp light. The car remains in the background.",
+          "dialogue": [
+            "Hermione: Confía en mí. En media hora estaremos en casa."
+          ]
+        },
+        {
+          "scene": "Jane opens the stationary car's rear passenger door and angles her head toward one empty rear-facing infant seat centered on the back row, Robin safely in her opposite arm. Pansy leans slightly to see, clearly outside.",
+          "dialogue": [
+            "Jane: Malcolm revisó la silla tres veces."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 12\n\nAnte la camioneta de los Granger, Pansy preferiría una escoba. Jane les muestra el asiento que instalaron para Robin.\nNarración: El aire helado de Londres los recibió al salir.\nKING’S CROSS\nPansy: No pienso subirme a esa cosa, Granger.\nHermione: ¿Y cómo piensas llegar a casa?\nPansy: Volando.\nMalcolm: Eso no me tranquiliza mucho, Pansy.\nHermione: Confía en mí. En media hora estaremos en casa.\nJane: Malcolm revisó la silla tres veces.",
+      "actualPanelCount": 6,
+      "review": "Se conserva el aspecto exterior de King's Cross y el equipaje. Jane sostiene a Robin y muestra la silla infantil reclinada. Se corrigió el texto de la última viñeta.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p012.png",
+      "sha256": "ba2446c7dcf3b4c069593c752e03ba80b1080e1e8fce7d79e0f0f3f51a193ccb",
+      "masterSha256": "6dfda409d67933944de5627ee869110ed564a520221e2f6a75a9917ed7dd07c7",
+      "ocrMissingCandidates": [
+        "cross"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Granger family and leading girls' exact winter faces, coats, blanket and three trunks only, no indoor setting.\nContinuity at London King's Cross in winter. Red Hogwarts Express, glass and iron vault, pale steam, warm hanging lamps and brick wall. Hermione long burgundy double-breasted wool coat, cream scarf, front blue sapphire on fine platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest green scarf, flat black bob and narrow moss green eyes. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, dark charcoal wool coat and navy plaid scarf. Robin has chestnut curls, green eyes, navy knit cardigan and beige trousers with cream blanket outside. Jane holds Robin continuously unless framing excludes her. One Robin only. Two large dark brown trunks with brass corners and silver crests and one small matching trunk, on one trolley when visible. Transition to London at early December dusk outside the station, violet-orange sky, yellow period lamps and cold stone sidewalk. Parked dark graphite gray right-hand-drive family SUV, charcoal leather seats, simple wooden trim, no readable brand and no modern touchscreens. Exactly the same four family adults and teen girls, one Robin safely held by Jane for this entire page. Luggage in a trolley then open cargo trunk. The child seat is empty in the last panel. No other young person or other baby.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 12» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide establishing exterior as the four people leave the brick station in cold sunset. Malcolm pushes the trolley with two large trunks and one small. Jane supports Robin, Hermione and Pansy follow. Caption verbatim «El aire helado de Londres los recibió al salir.»\nPanel 2. Low angle from next to the rear wheel of a graphite gray SUV at the curb. Pansy stares suspiciously at the massive dark gray vehicle, arms naturally folded over her charcoal coat. Balloon from Pansy. Print verbatim «No pienso subirme a esa cosa, Granger.»\nPanel 3. Hermione looks at her with gentle amusement from the sidewalk. Pansy stands upright, thoughtful green eyes and no wand in her hands. Balloon from Hermione. Print verbatim «¿Y cómo piensas llegar a casa?» Balloon from Pansy. Print verbatim «Volando.»\nPanel 4. Malcolm raises the open tailgate and sets the small trunk beside the two larger ones in the cargo area. Jane and Robin stay near the closed rear passenger door, safely away from trunks. Balloon from Malcolm. Print verbatim «Eso no me tranquiliza mucho, Pansy.»\nPanel 5. Hermione touches Pansy's wool sleeve lightly with one hand, the other tucked in her coat pocket. Their honest expressions and warmer streetlamp light. The car remains in the background. Balloon from Hermione. Print verbatim «Confía en mí. En media hora estaremos en casa.»\nPanel 6. Jane opens the stationary car's rear passenger door and angles her head toward one empty rear-facing infant seat centered on the back row, Robin safely in her opposite arm. Pansy leans slightly to see, clearly outside. Balloon from Jane. Print verbatim «Tu padre revisó la silla tres veces.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png"
+          ],
+          "generatedMaster": "exec-4abfc3a7-940d-4910-8e12-31804fb6e34e.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Precision edit to the supplied completed Spanish comic, Capítulo 12 · 12, 1024×1536. Reproduce its same six panels, exact lettering and image compositions with only TWO local adjustments in the very last panel. 1) Replace Jane's speech with exactly «Malcolm revisó la silla tres veces.» Letter it in the same clean serif and keep the balloon tail pointing to Jane in camel coat. 2) The empty gray infant carrier is a reclining rear-facing seat, centered on the back row. Its deep gray protective shell points toward the front of the car, and its open padded cradle angles up toward the rear window. Show it in side view through the same open rear passenger door, with no infant inside, no arrows or labels. Keep Robin in Jane's arms, Pansy looking from right, exact faces and sleeves, other five frames, sign KING’S CROSS and all other text fully intact. No new text or design anywhere.",
+          "references": [
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-4abfc3a7-940d-4910-8e12-31804fb6e34e.png"
+          ],
+          "generatedMaster": "exec-f272efa6-7f83-432a-a89a-906a9de3062e.png"
+        }
+      ]
+    }
+  ]
+}
