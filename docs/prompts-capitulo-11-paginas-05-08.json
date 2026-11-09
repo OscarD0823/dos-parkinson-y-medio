@@ -1,0 +1,290 @@
+{
+  "chapter": 11,
+  "title": "Anatomía de un Rumor",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    5,
+    8
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 5,
+      "image": "paginas/c11-p005.webp",
+      "sourcePdfPages": [
+        312
+      ],
+      "summary": "La puerta lleva al taller de Elsie. Hermione y Pansy descubren que Katie y Diane también han asistido.",
+      "panels": [
+        {
+          "scene": "Wide view into the classroom from the oak door. Hermione and Pansy in school uniform in doorway with one sand stroller. Elsie beside a teal mat smiles warmly. Other seated students are background at safe distance.",
+          "caption": "Aquella no era un aula vacía."
+        },
+        {
+          "scene": "Elsie with spectacles and gray bun raises a welcoming hand, blue robe and eagle pendant, calm teacher’s expression.",
+          "dialogue": [
+            "Elsie: Hermione, Pansy, qué gusto que hayan venido."
+          ]
+        },
+        {
+          "scene": "Close on Hermione and Pansy in full school uniforms exchanging a surprised glance. Blue sapphire on white platinum chain. Robin still asleep in his stroller.",
+          "dialogue": [
+            "Pansy: ¿No dijiste que estaría vacía?"
+          ]
+        },
+        {
+          "scene": "Katie and Diane sitting separately upright on the teal front mats, opaque white sports clothes, tiny yellow cuff trim. Phoenix rests in wicker bassinet near them. Behind are Dean and Seamus, Justin and Susan, Michael and Padma, simply seated in spaced pairs.",
+          "caption": "Katie y Diane ya estaban en primera fila."
+        },
+        {
+          "scene": "View from aisle, Elsie points toward closed wooden changing-room doors as both girls in complete school uniforms head there. No changing depicted. One pram stays in a safe clear area.",
+          "dialogue": [
+            "Elsie: Pueden ponerse la ropa de práctica al fondo."
+          ]
+        },
+        {
+          "scene": "The two return walking normally to the free mat in fully opaque ivory high-neck long-sleeved athletic jackets and full length ivory trousers. Hermione burgundy cuffs, Pansy green cuffs. Mature proportions, no close physical contact.",
+          "caption": "Quedaba un tapete libre junto a la pared."
+        }
+      ],
+      "transcript": "Capítulo 11 · 05\n\nLa puerta lleva al taller de Elsie. Hermione y Pansy descubren que Katie y Diane también han asistido.\nNarración: Aquella no era un aula vacía.\nElsie: Hermione, Pansy, qué gusto que hayan venido.\nPansy: ¿No dijiste que estaría vacía?\nNarración: Katie y Diane ya estaban en primera fila.\nElsie: Pueden ponerse la ropa de práctica al fondo.\nNarración: Quedaba un tapete libre junto a la pared.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas y texto completos. Elsie conserva gafas, moño gris y dije de águila. Katie y Diane se distinguen y los trajes de práctica cubren todo el cuerpo.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p005.png",
+      "sha256": "69b88159a3804d265e57fdf20496e1eafff0f6f975115b189afe8138bf019953",
+      "masterSha256": "d767d1848c8839d1aaecdd99580b0158cf071308ce4dfad99b103a4c5540f7ee",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the oak door, fully clothed entrance and Robin’s stroller. Image 4 is reference for Elsie’s own mature face, glasses and eagle pendant. Image 5 is reference for Katie and Diane’s own faces and Phoenix only.\nSixth floor Hogwarts workshop, large warm stone classroom, brass standing lamp by front left row, five dark teal padded mats spaced in pairs, amber window light, oak door at rear and a pram area along right wall. Elsie Tanner is a mature healer with gray hair in a neat bun, glasses, modest closed blue robe and blue sapphire eagle pendant. Katie is chestnut high bun and brown eyes; Diane long pale blond waves and gray eyes. All exercise clothing is the same fully opaque, long sleeve, high-neck ivory athletic jacket and full-length ivory trousers, tiny house-color cuff accents, ordinary comfortable fit. Pairs sit separately on their own places with comfortable space. Robin is a tiny human infant with brown curls, green eyes, navy cardigan and beige trousers, one sand stroller by the right wall. Phoenix has pale blonde hair, amber eyes, yellow bow and pale yellow cardigan, one separate wicker bassinet. Preserve both children and their clothes in every appearance.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 05» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide view into the classroom from the oak door. Hermione and Pansy in school uniform in doorway with one sand stroller. Elsie beside a teal mat smiles warmly. Other seated students are background at safe distance. Caption verbatim «Aquella no era un aula vacía.»\nPanel 2. Elsie with spectacles and gray bun raises a welcoming hand, blue robe and eagle pendant, calm teacher’s expression. Balloon from Elsie. Print verbatim «Hermione, Pansy, qué gusto que hayan venido.»\nPanel 3. Close on Hermione and Pansy in full school uniforms exchanging a surprised glance. Blue sapphire on white platinum chain. Robin still asleep in his stroller. Balloon from Pansy. Print verbatim «¿No dijiste que estaría vacía?»\nPanel 4. Katie and Diane sitting separately upright on the teal front mats, opaque white sports clothes, tiny yellow cuff trim. Phoenix rests in wicker bassinet near them. Behind are Dean and Seamus, Justin and Susan, Michael and Padma, simply seated in spaced pairs. Caption verbatim «Katie y Diane ya estaban en primera fila.»\nPanel 5. View from aisle, Elsie points toward closed wooden changing-room doors as both girls in complete school uniforms head there. No changing depicted. One pram stays in a safe clear area. Balloon from Elsie. Print verbatim «Pueden ponerse la ropa de práctica al fondo.»\nPanel 6. The two return walking normally to the free mat in fully opaque ivory high-neck long-sleeved athletic jackets and full length ivory trousers. Hermione burgundy cuffs, Pansy green cuffs. Mature proportions, no close physical contact. Caption verbatim «Quedaba un tapete libre junto a la pared.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-72ecc91b-cea2-4da9-89d3-2ea2328ff2da.png"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "image": "paginas/c11-p006.webp",
+      "sourcePdfPages": [
+        312,
+        313,
+        314
+      ],
+      "summary": "Elsie guía la respiración y la magia de las parejas. Hermione y Pansy encuentran el mismo ritmo.",
+      "panels": [
+        {
+          "scene": "Wide amber classroom. Elsie stands in aisle, gray bun glasses and blue robe, hands open calmly. Four pairs of students in opaque ivory tracksuits spaced on teal mats. Bronze lamp front left. Hermione and Pansy at far right.",
+          "dialogue": [
+            "Elsie: Empezaremos por la respiración."
+          ]
+        },
+        {
+          "scene": "Hermione and Pansy sit back to back, upright, each on own mat space. Hands resting on own knees and eyes closed, whole opaque outfits visible. Their backs may lightly touch, natural classroom posture.",
+          "dialogue": [
+            "Elsie, fuera de cuadro: Cierren los ojos y encuentren el mismo ritmo."
+          ]
+        },
+        {
+          "scene": "Katie chestnut high bun and Diane long pale blonde hair smile at one another from the front row. Small warm smile, the brass lamp behind Katie. No overlap of limbs.",
+          "caption": "Las risitas de la primera fila rompieron el silencio."
+        },
+        {
+          "scene": "Pansy opens one green eye, dry amused expression. Hermione keeps eyes closed in foreground, unmistakable chestnut curls and freckles.",
+          "dialogue": [
+            "Pansy: Qué sorpresa."
+          ]
+        },
+        {
+          "scene": "Elsie now at side of their mat. Hermione and Pansy sit separately facing each other with a full arm’s length between them. Each offers one open palm, elbow bent and away from bodies.",
+          "dialogue": [
+            "Elsie: Ahora prueben a enlazar su magia."
+          ]
+        },
+        {
+          "scene": "Wider upper body view. The two lightly press one palm each, at arm’s length. Soft gold motes form a small loop ONLY between their hands. Their second hands rest separately on knees. Quiet pleased expressions, no overlapping body poses.",
+          "caption": "La magia respondió al mismo ritmo."
+        }
+      ],
+      "transcript": "Capítulo 11 · 06\n\nElsie guía la respiración y la magia de las parejas. Hermione y Pansy encuentran el mismo ritmo.\nElsie: Empezaremos por la respiración.\nElsie, fuera de cuadro: Cierren los ojos y encuentren el mismo ritmo.\nNarración: Las risitas de la primera fila rompieron el silencio.\nPansy: Qué sorpresa.\nElsie: Ahora prueben a enlazar su magia.\nNarración: La magia respondió al mismo ritmo.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas y textos comprobados. Se conservan los tapetes, ropa, niños y ubicación de la lámpara. Palmas enfrentadas y dos brazos por persona.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p006.png",
+      "sha256": "ed61c2b438cde1b8253197d4bc3622607055b5245470a885001c4e7793e6569b",
+      "masterSha256": "e53b2a6674bf7d3452f1d3e50d3ab79283b06c473cd1ee8ef62220cada368a3c",
+      "ocrMissingCandidates": [
+        "cierren",
+        "encuentren",
+        "risitas",
+        "primera",
+        "rompieron",
+        "silencio"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Elsie’s own mature face and eagle pendant. Image 4 is reference for Katie and Diane’s individual faces only. Image 5 is reference for Robin and his sand stroller only.\nSixth floor Hogwarts workshop, large warm stone classroom, brass standing lamp by front left row, five dark teal padded mats spaced in pairs, amber window light, oak door at rear and a pram area along right wall. Elsie Tanner is a mature healer with gray hair in a neat bun, glasses, modest closed blue robe and blue sapphire eagle pendant. Katie is chestnut high bun and brown eyes; Diane long pale blond waves and gray eyes. All exercise clothing is the same fully opaque, long sleeve, high-neck ivory athletic jacket and full-length ivory trousers, tiny house-color cuff accents, ordinary comfortable fit. Pairs sit separately on their own places with comfortable space. Robin is a tiny human infant with brown curls, green eyes, navy cardigan and beige trousers, one sand stroller by the right wall. Phoenix has pale blonde hair, amber eyes, yellow bow and pale yellow cardigan, one separate wicker bassinet. Preserve both children and their clothes in every appearance.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 06» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide amber classroom. Elsie stands in aisle, gray bun glasses and blue robe, hands open calmly. Four pairs of students in opaque ivory tracksuits spaced on teal mats. Bronze lamp front left. Hermione and Pansy at far right. Balloon from Elsie. Print verbatim «Empezaremos por la respiración.»\nPanel 2. Hermione and Pansy sit back to back, upright, each on own mat space. Hands resting on own knees and eyes closed, whole opaque outfits visible. Their backs may lightly touch, natural classroom posture. Balloon from Elsie, fuera de cuadro. Print verbatim «Cierren los ojos y encuentren el mismo ritmo.»\nPanel 3. Katie chestnut high bun and Diane long pale blonde hair smile at one another from the front row. Small warm smile, the brass lamp behind Katie. No overlap of limbs. Caption verbatim «Las risitas de la primera fila rompieron el silencio.»\nPanel 4. Pansy opens one green eye, dry amused expression. Hermione keeps eyes closed in foreground, unmistakable chestnut curls and freckles. Balloon from Pansy. Print verbatim «Qué sorpresa.»\nPanel 5. Elsie now at side of their mat. Hermione and Pansy sit separately facing each other with a full arm’s length between them. Each offers one open palm, elbow bent and away from bodies. Balloon from Elsie. Print verbatim «Ahora prueben a enlazar su magia.»\nPanel 6. Wider upper body view. The two lightly press one palm each, at arm’s length. Soft gold motes form a small loop ONLY between their hands. Their second hands rest separately on knees. Quiet pleased expressions, no overlapping body poses. Caption verbatim «La magia respondió al mismo ritmo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp"
+          ],
+          "generatedMaster": "exec-558c6aae-2c62-47a6-9bd7-92bd441ba5bc.png"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "image": "paginas/c11-p007.webp",
+      "sourcePdfPages": [
+        314,
+        315,
+        316,
+        317
+      ],
+      "summary": "Un ejercicio de escucha hace que Hermione y Pansy se digan lo que admiran de la otra.",
+      "panels": [
+        {
+          "scene": "Elsie at center of warm room, gesturing to two fully clothed students seated apart. Other students in background remain on their own teal mats.",
+          "dialogue": [
+            "Elsie: Digan en voz alta algo que admiren de su pareja."
+          ]
+        },
+        {
+          "scene": "Pansy seated upright at arm’s length with hands on knees, looking toward Hermione with affectionate smile. Black chin bob, angular jaw, green eyes. Hermione’s curls in edge of frame.",
+          "dialogue": [
+            "Pansy: Me gusta tu sonrisa."
+          ]
+        },
+        {
+          "scene": "Reverse view Hermione smiles with visible freckles and brown eyes. She keeps both hands on her own knees. Ivory tracksuit and white platinum sapphire at front.",
+          "dialogue": [
+            "Pansy, fuera de cuadro: Y tus ojos cuando me retas."
+          ]
+        },
+        {
+          "scene": "Both seated separately, medium shot. Hermione thinks and laughs softly, Pansy listens. No physical pose change, only expressions.",
+          "dialogue": [
+            "Hermione: Es difícil elegir solo una cosa."
+          ]
+        },
+        {
+          "scene": "Closer distinct faces at a comfortable conversational distance, no touching. Hermione’s brown eyes meet Pansy’s green eyes. Modest neckline, white platinum sapphire, bronze lamp blurred beyond.",
+          "dialogue": [
+            "Hermione: Pero me gustan tus ojos, Pansy."
+          ]
+        },
+        {
+          "scene": "Elsie watches their shared smile with amused raised eyebrow. Warm light, school exercise mats and brass lamp at front left.",
+          "dialogue": [
+            "Elsie: Y recuerden respirar."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 07\n\nUn ejercicio de escucha hace que Hermione y Pansy se digan lo que admiran de la otra.\nElsie: Digan en voz alta algo que admiren de su pareja.\nPansy: Me gusta tu sonrisa.\nPansy, fuera de cuadro: Y tus ojos cuando me retas.\nHermione: Es difícil elegir solo una cosa.\nHermione: Pero me gustan tus ojos, Pansy.\nElsie: Y recuerden respirar.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas legibles, con colas de globo correctas para Pansy fuera de cuadro y Hermione. Continúan los colores de puños, platino, peinados y sala.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p007.png",
+      "sha256": "624d4fbbc0cca9d96d9441f448e4014ab3ba2d5844753d8aac9a971eebc8dc69",
+      "masterSha256": "9d51449af1173ab5e4dbda74f82ad6084c967c12673e3c8d79a7948ae24401b8",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Elsie’s own mature face and pendant. Image 4 is reference for the two protagonists’ current face proportions and Katie/Diane’s individual faces only.\nSixth floor Hogwarts workshop, large warm stone classroom, brass standing lamp by front left row, five dark teal padded mats spaced in pairs, amber window light, oak door at rear and a pram area along right wall. Elsie Tanner is a mature healer with gray hair in a neat bun, glasses, modest closed blue robe and blue sapphire eagle pendant. Katie is chestnut high bun and brown eyes; Diane long pale blond waves and gray eyes. All exercise clothing is the same fully opaque, long sleeve, high-neck ivory athletic jacket and full-length ivory trousers, tiny house-color cuff accents, ordinary comfortable fit. Pairs sit separately on their own places with comfortable space. Robin is a tiny human infant with brown curls, green eyes, navy cardigan and beige trousers, one sand stroller by the right wall. Phoenix has pale blonde hair, amber eyes, yellow bow and pale yellow cardigan, one separate wicker bassinet. Preserve both children and their clothes in every appearance.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 07» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Elsie at center of warm room, gesturing to two fully clothed students seated apart. Other students in background remain on their own teal mats. Balloon from Elsie. Print verbatim «Digan en voz alta algo que admiren de su pareja.»\nPanel 2. Pansy seated upright at arm’s length with hands on knees, looking toward Hermione with affectionate smile. Black chin bob, angular jaw, green eyes. Hermione’s curls in edge of frame. Balloon from Pansy. Print verbatim «Me gusta tu sonrisa.»\nPanel 3. Reverse view Hermione smiles with visible freckles and brown eyes. She keeps both hands on her own knees. Ivory tracksuit and white platinum sapphire at front. Balloon from Pansy, fuera de cuadro. Print verbatim «Y tus ojos cuando me retas.»\nPanel 4. Both seated separately, medium shot. Hermione thinks and laughs softly, Pansy listens. No physical pose change, only expressions. Balloon from Hermione. Print verbatim «Es difícil elegir solo una cosa.»\nPanel 5. Closer distinct faces at a comfortable conversational distance, no touching. Hermione’s brown eyes meet Pansy’s green eyes. Modest neckline, white platinum sapphire, bronze lamp blurred beyond. Balloon from Hermione. Print verbatim «Pero me gustan tus ojos, Pansy.»\nPanel 6. Elsie watches their shared smile with amused raised eyebrow. Warm light, school exercise mats and brass lamp at front left. Balloon from Elsie. Print verbatim «Y recuerden respirar.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-72160d40-cf35-4500-ac12-a5325aefdb65.png"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "image": "paginas/c11-p008.webp",
+      "sourcePdfPages": [
+        318,
+        319
+      ],
+      "summary": "Una lámpara interrumpe el taller. Robin está tranquilo, pero Katie y Diane esperan a las protagonistas en el pasillo.",
+      "panels": [
+        {
+          "scene": "The tall brass lamp crashes onto a vacant patch of flagstone at front left, far from mats and babies. Students in ivory tracksuits startle at safe distance. No fragments hit anyone.",
+          "printed": [
+            "¡CRASH!"
+          ]
+        },
+        {
+          "scene": "Elsie holds her wand down, concerned, while students nod and get their bearings. Katie and Diane exchange a subtle look in first row.",
+          "dialogue": [
+            "Elsie: ¿Todos se encuentran bien?"
+          ]
+        },
+        {
+          "scene": "Elsie repairs the lamp with small golden magic. Brass and glass pieces reassemble in the clear corner, people outside the effect.",
+          "dialogue": [
+            "Elsie: Reparo."
+          ]
+        },
+        {
+          "scene": "Hermione and Pansy in fully opaque ivory practice clothes lean over one sand stroller, Robin awake and happy inside. Human fingers, curls and green eyes, one small hand reaching. No other infant here.",
+          "dialogue": [
+            "Pansy: Hola, pequeño.",
+            "Robin: ¡Ba!"
+          ]
+        },
+        {
+          "scene": "Elsie addresses the group, students gather their things in ordinary opaque clothes, restored lamp stands firmly. One separate pram area at right, no one near the lamp.",
+          "dialogue": [
+            "Elsie: Por hoy terminamos. Practiquen la respiración durante la semana."
+          ]
+        },
+        {
+          "scene": "Pansy and Hermione leave through the oak door after changing off panel, in their complete ordinary school uniforms, pushing Robin in sand stroller. Warm room light behind them, cool corridor ahead.",
+          "caption": "Salieron de vuelta al pasillo del sexto piso."
+        },
+        {
+          "scene": "Wide reverse angle in stone corridor. Katie with high chestnut bun and Diane with long pale blonde hair stand in yellow and black school uniforms beside one low-floating wicker bassinet with blonde Phoenix. Hermione and Pansy pause with their separate sand stroller. No weapons or active confrontation yet.",
+          "caption": "Katie y Diane las estaban esperando."
+        }
+      ],
+      "transcript": "Capítulo 11 · 08\n\nUna lámpara interrumpe el taller. Robin está tranquilo, pero Katie y Diane esperan a las protagonistas en el pasillo.\n¡CRASH!\nElsie: ¿Todos se encuentran bien?\nElsie: Reparo.\nPansy: Hola, pequeño.\nRobin: ¡Ba!\nElsie: Por hoy terminamos. Practiquen la respiración durante la semana.\nNarración: Salieron de vuelta al pasillo del sexto piso.\nNarración: Katie y Diane las estaban esperando.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas, cabecera, onomatopeya, reparación, cartelas y globos completos. Regreso a los uniformes al salir al pasillo y cochecitos distintos de Robin y Phoenix.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p008.png",
+      "sha256": "2724a65aedd853ac8b6da11497eb9de0e97c96640750cb83f83a601d9ea0e93f",
+      "masterSha256": "fa9a434c10f5a20d9de89cd45ded9c37d90a68bf86a1976b3e200d7b89068524",
+      "ocrMissingCandidates": [
+        "crash"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Elsie’s face, gray bun and eagle pendant. Image 4 is reference for the sixth-floor corridor and Robin’s stroller. Image 5 is reference for Katie, Diane and Phoenix designs.\nSixth floor Hogwarts workshop, large warm stone classroom, brass standing lamp by front left row, five dark teal padded mats spaced in pairs, amber window light, oak door at rear and a pram area along right wall. Elsie Tanner is a mature healer with gray hair in a neat bun, glasses, modest closed blue robe and blue sapphire eagle pendant. Katie is chestnut high bun and brown eyes; Diane long pale blond waves and gray eyes. All exercise clothing is the same fully opaque, long sleeve, high-neck ivory athletic jacket and full-length ivory trousers, tiny house-color cuff accents, ordinary comfortable fit. Pairs sit separately on their own places with comfortable space. Robin is a tiny human infant with brown curls, green eyes, navy cardigan and beige trousers, one sand stroller by the right wall. Phoenix has pale blonde hair, amber eyes, yellow bow and pale yellow cardigan, one separate wicker bassinet. Preserve both children and their clothes in every appearance. Final panel outside the classroom, all four students back in their normal full school uniforms, green and silver Pansy, red and gold Hermione, yellow and black Katie and Diane.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 08» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. The tall brass lamp crashes onto a vacant patch of flagstone at front left, far from mats and babies. Students in ivory tracksuits startle at safe distance. No fragments hit anyone. Prop text verbatim «¡CRASH!»\nPanel 2. Elsie holds her wand down, concerned, while students nod and get their bearings. Katie and Diane exchange a subtle look in first row. Balloon from Elsie. Print verbatim «¿Todos se encuentran bien?»\nPanel 3. Elsie repairs the lamp with small golden magic. Brass and glass pieces reassemble in the clear corner, people outside the effect. Balloon from Elsie. Print verbatim «Reparo.»\nPanel 4. Hermione and Pansy in fully opaque ivory practice clothes lean over one sand stroller, Robin awake and happy inside. Human fingers, curls and green eyes, one small hand reaching. No other infant here. Balloon from Pansy. Print verbatim «Hola, pequeño.» Balloon from Robin. Print verbatim «¡Ba!»\nPanel 5. Elsie addresses the group, students gather their things in ordinary opaque clothes, restored lamp stands firmly. One separate pram area at right, no one near the lamp. Balloon from Elsie. Print verbatim «Por hoy terminamos. Practiquen la respiración durante la semana.»\nPanel 6. Pansy and Hermione leave through the oak door after changing off panel, in their complete ordinary school uniforms, pushing Robin in sand stroller. Warm room light behind them, cool corridor ahead. Caption verbatim «Salieron de vuelta al pasillo del sexto piso.»\nPanel 7. Wide reverse angle in stone corridor. Katie with high chestnut bun and Diane with long pale blonde hair stand in yellow and black school uniforms beside one low-floating wicker bassinet with blonde Phoenix. Hermione and Pansy pause with their separate sand stroller. No weapons or active confrontation yet. Caption verbatim «Katie y Diane las estaban esperando.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-4884e764-8b9c-4d72-be35-7174862982ab.png"
+        }
+      ]
+    }
+  ]
+}
