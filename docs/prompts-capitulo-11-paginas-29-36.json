@@ -1,0 +1,608 @@
+{
+  "chapter": 11,
+  "title": "Anatomía de un Rumor",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    29,
+    36
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 29,
+      "image": "paginas/c11-p029.webp",
+      "sourcePdfPages": [
+        351,
+        352,
+        353,
+        354,
+        355,
+        356
+      ],
+      "summary": "Daphne, Tracey y Astoria escuchan las dudas de Hermione y le animan a hablar con Pansy.",
+      "panels": [
+        {
+          "scene": "Daphne sits on rug at comfortable distance beside Hermione, both fully dressed. Tracey and Astoria listen on chairs. Warm fire and cool arched window, two sleeping cribs distant.",
+          "dialogue": [
+            "Daphne: Eres parte de este grupo, Hermione."
+          ]
+        },
+        {
+          "scene": "Hermione looks at her own hands, chestnut curls, gentle uncertain brown eyes, white platinum pendant. Two natural hands.",
+          "dialogue": [
+            "Hermione: Con Pansy, a veces me da miedo no saber qué decir."
+          ]
+        },
+        {
+          "scene": "Astoria blue-gray eyes, long brown waves, sits upright in green chair. Hermione in left foreground.",
+          "dialogue": [
+            "Astoria: Hablen de lo que sienten y de lo que esperan."
+          ]
+        },
+        {
+          "scene": "Tracey high ponytail smiles encouragingly. Green uniform, hands relaxed in lap. Fireplace behind.",
+          "dialogue": [
+            "Tracey: Está bien tener miedo. También pueden tomarse su tiempo."
+          ]
+        },
+        {
+          "scene": "Hermione lets out a quiet relieved smile. Daphne looks at her warmly. All seated, ordinary conversation.",
+          "dialogue": [
+            "Hermione: ¿Y si no sé cómo empezar?",
+            "Daphne: Empieza por lo que sientes."
+          ]
+        },
+        {
+          "scene": "Small gold magic sparkle beside green chair as adult elf Nodky's pointed ears peek around the armrest. Hermione turns toward him delighted. Stable room and no new people.",
+          "dialogue": [
+            "Hermione: ¡Nodky!"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 29\n\nDaphne, Tracey y Astoria escuchan las dudas de Hermione y le animan a hablar con Pansy.\nDaphne: Eres parte de este grupo, Hermione.\nHermione: Con Pansy, a veces me da miedo no saber qué decir.\nAstoria: Hablen de lo que sienten y de lo que esperan.\nTracey: Está bien tener miedo. También pueden tomarse su tiempo.\nHermione: ¿Y si no sé cómo empezar?\nDaphne: Empieza por lo que sientes.\nHermione: ¡Nodky!",
+      "actualPanelCount": 6,
+      "review": "Astoria recupera pelo castaño oscuro largo y rostro propio en el tercer cuadro. Las seis viñetas, globos y cuarto se mantienen.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p029.png",
+      "sha256": "3e5f7eaea20beb2cdbc23a35571f390f54d3b00fc39558c3292cf427731b12a6",
+      "masterSha256": "1de7abfdcbae3542042d0afdd73b1b6dc6b0779af51cd2d36c6ca6875a2cea3d",
+      "ocrMissingCandidates": [
+        "nodky"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. One ordinary conversation in six clear panels, 1024 by 1536 portrait, Spanish fantasy school comic. Image 1 fixes Hermione’s brown eyes, freckles and chestnut curls. Image 2 fixes the warm stone fireplace, green upholstered seating, arched blue-green window and individual faces of the four classmates. Image 3 fixes the small adult male elf Nodky, short brown hair, pointed ears, beige house clothes and half-human height. All four classmates remain in full opaque school uniform at conversational distance. Readable black Spanish text, white balloons, narrow cream gutters. Small top left header «Capítulo 11 · 29». Panel 1: blonde Daphne in green uniform speaks to Hermione in red beside the fireplace, «Eres parte de este grupo, Hermione.» Panel 2: Hermione reflects, «Con Pansy, a veces me da miedo no saber qué decir.» Panel 3: long dark brown-haired Astoria in green uniform listens and says «Hablen de lo que sienten y de lo que esperan.» Panel 4: Tracey with brown high ponytail, green uniform and kind smile says «Está bien tener miedo. También pueden tomarse su tiempo.» Panel 5: Hermione asks «¿Y si no sé cómo empezar?» and Daphne replies «Empieza por lo que sientes.» Panel 6: the adult elf Nodky peeks around a green armchair. Hermione smiles and says «¡Nodky!» Warm friendly discussion, no extra characters, no other text or footer.",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c01-p002.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p002.webp"
+          ],
+          "generatedMaster": "exec-aed147c8-8634-46b2-921b-1ad2139ff647.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: identity-preserve. Image 1 is the entire 1024x1536 comic edit target. Image 2 is reference only for Astoria, the long dark-brown-haired girl with blue-gray eyes at the far right of its lowest panel. In Image 1 change ONLY the speaker in panel 3, left half of the third row, who currently has a short black bob and green eyes. Replace her face and hair with Astoria's own distinct face, LONG dark brown waves below shoulders and BLUE-GRAY eyes from Image 2. Keep her existing green school uniform, pose, gaze, size, furniture, and exact existing balloon «Hablen de lo que sienten y de lo que esperan.» with the tail still pointing to her. Preserve all six panels, every word and accent, small header, Hermione, Daphne, Tracey, Nodky, backgrounds, faces, lighting and dimensions completely unchanged. No other changes or new figures.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-aed147c8-8634-46b2-921b-1ad2139ff647.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+          ],
+          "generatedMaster": "exec-f6bb7f94-dd90-4504-bd9c-37eb034297e1.png"
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "image": "paginas/c11-p030.webp",
+      "sourcePdfPages": [
+        357,
+        358
+      ],
+      "summary": "Nodky trae la capa de Harry y se ofrece a cuidar de Robin mientras el grupo sale.",
+      "panels": [
+        {
+          "scene": "Nodky walks around armchair carrying a wrapped parcel and two small closed wooden cases. Short adult elf, brown hair and beige clothes. Hermione takes a case.",
+          "dialogue": [
+            "Nodky: Traje el paquete de la señorita Ginny."
+          ]
+        },
+        {
+          "scene": "Nodky smiles proudly beside low table while Hermione opens wrapping. No open bottles, objects stay closed.",
+          "dialogue": [
+            "Nodky: ¡Hasta me dio un bocadillo de melaza!"
+          ]
+        },
+        {
+          "scene": "A folded silver gray shimmering fabric lies across the closed box on table. Daphne and Astoria lean forward to look, entirely dressed in normal clothes.",
+          "dialogue": [
+            "Daphne: ¿Qué es eso?"
+          ]
+        },
+        {
+          "scene": "Hermione lifts one corner of smooth silver cloth, long chestnut curls, calm mischievous smile and full uniform. Cloth drapes naturally, no disappearing bodies yet.",
+          "dialogue": [
+            "Hermione: La capa de invisibilidad de Harry."
+          ]
+        },
+        {
+          "scene": "Hermione turns to Nodky, holds folded cloak with one hand, gestures softly toward one sleeping Robin in moon-star crib. The second crib with Arianna stays separate farther back.",
+          "dialogue": [
+            "Hermione: ¿Puedes cuidar a Robin un rato?"
+          ]
+        },
+        {
+          "scene": "Nodky salutes solemnly at the crib, smiling proudly. Robin safely asleep, hands under cream blanket, small brown forelock, no toys in crib.",
+          "dialogue": [
+            "Nodky: ¡Puede contar conmigo!"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 30\n\nNodky trae la capa de Harry y se ofrece a cuidar de Robin mientras el grupo sale.\nNodky: Traje el paquete de la señorita Ginny.\nNodky: ¡Hasta me dio un bocadillo de melaza!\nDaphne: ¿Qué es eso?\nHermione: La capa de invisibilidad de Harry.\nHermione: ¿Puedes cuidar a Robin un rato?\nNodky: ¡Puede contar conmigo!",
+      "actualPanelCount": 6,
+      "review": "Nodky adulto conserva el traje beige y orejas puntiagudas. Capa y cajas coherentes. Cunas separadas, seis cuadros y texto completo.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p030.png",
+      "sha256": "c4a131734d72d830c5f1e0c2011f28e20d3c683f09758a1b9a42c35a2e6374fe",
+      "masterSha256": "3e01577f38353418133585fc529cf276540455f629aa5be8d1138d67d48c073c",
+      "ocrMissingCandidates": [
+        "hasta",
+        "invisibilidad",
+        "harry",
+        "puede"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the exact private bedroom, sleeping babies and each friend's current face. It also fixes the little charcoal Puffskein with green eyes. Image 4 fixes Nodky's individual adult face, pointed ears, brown hair, beige clothes and half-human height only.\nPrivate under-lake Daphne bedroom from previous page, left warm stone fireplace, green tufted sofa and armchair, dark canopy bed, one blue-green arched underwater window. Hermione in complete red-gold school uniform, oval sapphire on white platinum. Daphne long blonde blue eyes green uniform, Tracey high brown ponytail brown eyes green, Astoria long dark brown waves blue-gray eyes green. Robin in navy cardigan and beige trousers asleep in own moon-star crib; Arianna fair hair beige knit asleep in separate crib. All students fully dressed. Nodky is adult elf half their height, short brown hair, narrow adult face, pointed ears, brown eyes, neat beige clothes. Blaise dark skin, short black curls, green uniform. Only Pansy’s grapefruit-sized dark charcoal Puffskein form with green eyes, when present, no human Pansy.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 30» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Nodky walks around armchair carrying a wrapped parcel and two small closed wooden cases. Short adult elf, brown hair and beige clothes. Hermione takes a case. Balloon from Nodky. Print verbatim «Traje el paquete de la señorita Ginny.»\nPanel 2. Nodky smiles proudly beside low table while Hermione opens wrapping. No open bottles, objects stay closed. Balloon from Nodky. Print verbatim «¡Hasta me dio un bocadillo de melaza!»\nPanel 3. A folded silver gray shimmering fabric lies across the closed box on table. Daphne and Astoria lean forward to look, entirely dressed in normal clothes. Balloon from Daphne. Print verbatim «¿Qué es eso?»\nPanel 4. Hermione lifts one corner of smooth silver cloth, long chestnut curls, calm mischievous smile and full uniform. Cloth drapes naturally, no disappearing bodies yet. Balloon from Hermione. Print verbatim «La capa de invisibilidad de Harry.»\nPanel 5. Hermione turns to Nodky, holds folded cloak with one hand, gestures softly toward one sleeping Robin in moon-star crib. The second crib with Arianna stays separate farther back. Balloon from Hermione. Print verbatim «¿Puedes cuidar a Robin un rato?»\nPanel 6. Nodky salutes solemnly at the crib, smiling proudly. Robin safely asleep, hands under cream blanket, small brown forelock, no toys in crib. Balloon from Nodky. Print verbatim «¡Puede contar conmigo!»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p002.webp"
+          ],
+          "generatedMaster": "exec-fa53edaa-36d5-4ee8-9e9b-43a5d2c359af.png"
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "image": "paginas/c11-p031.webp",
+      "sourcePdfPages": [
+        358,
+        359,
+        360
+      ],
+      "summary": "Hermione explica el plan. Pansy viaja con ella bajo la capa y Blaise se queda con Nodky.",
+      "panels": [
+        {
+          "scene": "Hermione explains to the three friends near folded cloak on table. Daphne blonde, Tracey ponytail, Astoria dark long hair, all fully dressed.",
+          "dialogue": [
+            "Hermione: Tenemos que averiguar qué prepara Diane."
+          ]
+        },
+        {
+          "scene": "Blaise enters through oak door cradling one dark green-eyed Puffskein, no child in his arms. He looks at folded cloak skeptically.",
+          "dialogue": [
+            "Blaise: ¿Y cómo cruzarán el castillo sin que las vean?"
+          ]
+        },
+        {
+          "scene": "Hermione raises silver cloak to her shoulders, then show a single translucent full human silhouette with the stone room visible through it. Friends startled, no missing body parts.",
+          "caption": "La respuesta de Hermione fue ponerse la capa."
+        },
+        {
+          "scene": "Hermione lowers cloak hood and is fully visible again. Takes one little Puffskein securely in both hands, green eyes looking up. Warm faces and intact anatomy.",
+          "dialogue": [
+            "Hermione: Tú vienes conmigo."
+          ]
+        },
+        {
+          "scene": "Blaise in green uniform watches over the separate sleeping infants with adult elf Nodky. Same two moon-star cribs and warm bedroom, both babies supported.",
+          "caption": "Blaise se quedó con Nodky y los bebés."
+        },
+        {
+          "scene": "Night stone corridor, one big silver-gray cloak around four women with softly translucent entire figures, walking together. Hermione at front holds little charcoal green-eyed Puffskein. No extra people.",
+          "caption": "Diez minutos después, el plan estaba en marcha."
+        }
+      ],
+      "transcript": "Capítulo 11 · 31\n\nHermione explica el plan. Pansy viaja con ella bajo la capa y Blaise se queda con Nodky.\nHermione: Tenemos que averiguar qué prepara Diane.\nBlaise: ¿Y cómo cruzarán el castillo sin que las vean?\nNarración: La respuesta de Hermione fue ponerse la capa.\nHermione: Tú vienes conmigo.\nNarración: Blaise se quedó con Nodky y los bebés.\nNarración: Diez minutos después, el plan estaba en marcha.",
+      "actualPanelCount": 6,
+      "review": "Capa plata y cuatro siluetas completas. Blaise y Nodky cuidan a los dos bebés; Hermione lleva solo al Puffskein. Todos los textos revisados.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p031.png",
+      "sha256": "da8a8f6b11935cea1c3eecb466363191979019cd2b77f62990feb655f5ddeaf6",
+      "masterSha256": "b20a424fdac8a63557406890b04fa595cc14c4af8ecc0cd58a6822b373749bb6",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the exact private bedroom, sleeping babies and each friend's current face. It also fixes the little charcoal Puffskein with green eyes. Image 4 fixes Nodky's individual adult face, pointed ears, brown hair, beige clothes and half-human height only.\nPrivate under-lake Daphne bedroom from previous page, left warm stone fireplace, green tufted sofa and armchair, dark canopy bed, one blue-green arched underwater window. Hermione in complete red-gold school uniform, oval sapphire on white platinum. Daphne long blonde blue eyes green uniform, Tracey high brown ponytail brown eyes green, Astoria long dark brown waves blue-gray eyes green. Robin in navy cardigan and beige trousers asleep in own moon-star crib; Arianna fair hair beige knit asleep in separate crib. All students fully dressed. Nodky is adult elf half their height, short brown hair, narrow adult face, pointed ears, brown eyes, neat beige clothes. Blaise dark skin, short black curls, green uniform. Only Pansy’s grapefruit-sized dark charcoal Puffskein form with green eyes, when present, no human Pansy. One large silver-gray invisibility cloak. When worn, show gentle translucent outlines and refracted stone background, never disembodied body parts. At end four students Hermione, Daphne, Tracey and Astoria walk together under one cloak through empty torchlit stone corridor. Tiny dark furry Puffskein travels in Hermione's arms.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 31» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione explains to the three friends near folded cloak on table. Daphne blonde, Tracey ponytail, Astoria dark long hair, all fully dressed. Balloon from Hermione. Print verbatim «Tenemos que averiguar qué prepara Diane.»\nPanel 2. Blaise enters through oak door cradling one dark green-eyed Puffskein, no child in his arms. He looks at folded cloak skeptically. Balloon from Blaise. Print verbatim «¿Y cómo cruzarán el castillo sin que las vean?»\nPanel 3. Hermione raises silver cloak to her shoulders, then show a single translucent full human silhouette with the stone room visible through it. Friends startled, no missing body parts. Caption verbatim «La respuesta de Hermione fue ponerse la capa.»\nPanel 4. Hermione lowers cloak hood and is fully visible again. Takes one little Puffskein securely in both hands, green eyes looking up. Warm faces and intact anatomy. Balloon from Hermione. Print verbatim «Tú vienes conmigo.»\nPanel 5. Blaise in green uniform watches over the separate sleeping infants with adult elf Nodky. Same two moon-star cribs and warm bedroom, both babies supported. Caption verbatim «Blaise se quedó con Nodky y los bebés.»\nPanel 6. Night stone corridor, one big silver-gray cloak around four women with softly translucent entire figures, walking together. Hermione at front holds little charcoal green-eyed Puffskein. No extra people. Caption verbatim «Diez minutos después, el plan estaba en marcha.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p002.webp"
+          ],
+          "generatedMaster": "exec-ae7af4a7-b8bb-4cc0-8b54-f1627fa138fb.png"
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "image": "paginas/c11-p032.webp",
+      "sourcePdfPages": [
+        360,
+        361,
+        362
+      ],
+      "summary": "El grupo se acerca a la enfermería. Diane oye un susurro y busca a quien se esconde.",
+      "panels": [
+        {
+          "scene": "Wide quiet infirmary, Diane seated reading in near bed, Katie asleep in farther bed, restored face. Four translucent full figures under single silver cloak by left entrance, Hermione holding small Puffskein. Only reader sees them.",
+          "caption": "La enfermería estaba casi a oscuras."
+        },
+        {
+          "scene": "Close from inside cloak, Daphne's pale blonde waves and green tie, quiet amused whisper. Hermione signals calm with one open palm, Puffskein resting against arm.",
+          "dialogue": [
+            "Daphne: Qué nivel de drama."
+          ]
+        },
+        {
+          "scene": "Diane turns toward dark aisle and lowers book, eyes alert, fully opaque cardigan, no injury drawn. Katie still asleep behind.",
+          "dialogue": [
+            "Diane: ¿Quién está ahí?"
+          ]
+        },
+        {
+          "scene": "Diane points her wand toward empty curtain. A small pale blue light, no effect on cloak. The four wait under cloak at far edge.",
+          "dialogue": [
+            "Diane: ¡Accio!"
+          ]
+        },
+        {
+          "scene": "Low wide view of bedside curtain. Diane rises and looks toward the cream fabric as it rustles. A tiny separate gray mouse-shaped magical decoy hides near its hem, far from anyone. No scary teeth.",
+          "caption": "Un ruido junto a la cortina desvió su atención."
+        },
+        {
+          "scene": "Diane opens the curtain and a tiny gray magical mouse darts out away from people. Her surprised expression and the other students moving silently toward oak office door under cloak.",
+          "caption": "Hermione aprovechó el instante."
+        }
+      ],
+      "transcript": "Capítulo 11 · 32\n\nEl grupo se acerca a la enfermería. Diane oye un susurro y busca a quien se esconde.\nNarración: La enfermería estaba casi a oscuras.\nDaphne: Qué nivel de drama.\nDiane: ¿Quién está ahí?\nDiane: ¡Accio!\nNarración: Un ruido junto a la cortina desvió su atención.\nNarración: Hermione aprovechó el instante.",
+      "actualPanelCount": 6,
+      "review": "Seis cuadros legibles. Diane y Katie conservan su identidad, la capa y enfermería coinciden, y el ratón pequeño se distingue del Puffskein.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p032.png",
+      "sha256": "ba5e1db7250950ca06dd15a9afedd2beb011df9179f3ab4137134c5f029ed067",
+      "masterSha256": "e705455abd1f84862c4fee1a97dd358649a0db86968eae46151f31c84dd392c9",
+      "ocrMissingCandidates": [
+        "accio",
+        "ruido",
+        "junto",
+        "cortina",
+        "desvio",
+        "atencion",
+        "hermione",
+        "aprovecho",
+        "instante"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes Katie and Diane’s distinct faces and hairstyles only. Image 4 fixes Daphne, Tracey and Astoria’s faces and the tiny charcoal Puffskein only. The infirmary is a new room and contains no infants or cribs.\nHogwarts infirmary at night, long stone room, arched windows with blue moonlight, white beds separated by cream curtains, bedside brass lamps, oak nurse office door at far right. Diane long pale blonde waves and gray eyes wears opaque ivory long-sleeved hospital cardigan, small white cloth at cheek and neat wrapped sleeve. Katie long opaque hospital cardigan and blanket, chestnut high bun, brown eyes, human face restored after pumpkin. No babies in infirmary. Hermione full red-gold uniform, Daphne blonde, Tracey high brown ponytail, Astoria dark long brown hair under ONE silver invisibility cloak. Hermione carries only tiny charcoal Puffskein with green eyes. Render whole figures beneath the cloak using translucent outlines for reader. Everyone fully dressed.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 32» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide quiet infirmary, Diane seated reading in near bed, Katie asleep in farther bed, restored face. Four translucent full figures under single silver cloak by left entrance, Hermione holding small Puffskein. Only reader sees them. Caption verbatim «La enfermería estaba casi a oscuras.»\nPanel 2. Close from inside cloak, Daphne's pale blonde waves and green tie, quiet amused whisper. Hermione signals calm with one open palm, Puffskein resting against arm. Balloon from Daphne. Print verbatim «Qué nivel de drama.»\nPanel 3. Diane turns toward dark aisle and lowers book, eyes alert, fully opaque cardigan, no injury drawn. Katie still asleep behind. Balloon from Diane. Print verbatim «¿Quién está ahí?»\nPanel 4. Diane points her wand toward empty curtain. A small pale blue light, no effect on cloak. The four wait under cloak at far edge. Balloon from Diane. Print verbatim «¡Accio!»\nPanel 5. Low wide view of bedside curtain. Diane rises and looks toward the cream fabric as it rustles. A tiny separate gray mouse-shaped magical decoy hides near its hem, far from anyone. No scary teeth. Caption verbatim «Un ruido junto a la cortina desvió su atención.»\nPanel 6. Diane opens the curtain and a tiny gray magical mouse darts out away from people. Her surprised expression and the other students moving silently toward oak office door under cloak. Caption verbatim «Hermione aprovechó el instante.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+          ],
+          "generatedMaster": "exec-bcf08be2-fc6c-4968-9d07-6f5b6e9752f3.png"
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "image": "paginas/c11-p033.webp",
+      "sourcePdfPages": [
+        362,
+        363,
+        364
+      ],
+      "summary": "Después de la ronda de Pomfrey, Hermione se muestra ante Diane y Katie.",
+      "panels": [
+        {
+          "scene": "At oak nurse office door, Hermione under a pale silver cloak gestures quietly to the three friends, tiny Puffskein in Tracey’s arms under cloak. The gray decoy mouse vanishes into faint gold sparks near distant curtain.",
+          "dialogue": [
+            "Hermione: Vigilen la puerta."
+          ]
+        },
+        {
+          "scene": "Adult nurse Pomfrey in white cap and full burgundy long dress with apron enters oak office, looking at a closed ledger. Hermione waits out of her sight behind the side of wooden desk. No objects touched.",
+          "caption": "Pomfrey regresó a su despacho."
+        },
+        {
+          "scene": "Nurse Pomfrey passes two quiet beds, checks her clipboard, then exits through oak door. Diane and Katie in full white opaque cardigan, hands resting on blanket. No medical procedures.",
+          "caption": "Las cuatro esperaron a que terminara la ronda."
+        },
+        {
+          "scene": "Hermione steps out of the single silver cloak in empty aisle, Pansy in Puffskein form now supported in Tracey’s arms. Katie turns in surprise, human face.",
+          "dialogue": [
+            "Hermione: Brennan, creo que el naranja no es tu color."
+          ]
+        },
+        {
+          "scene": "Diane reaches toward empty bedside table and looks confused. Astoria across aisle holds two plain wooden wands at her own side. Daphne and Tracey step out of cloak.",
+          "dialogue": [
+            "Diane: ¿Vienes por un segundo asalto?"
+          ]
+        },
+        {
+          "scene": "Hermione at a comfortable distance from Diane’s bed, wand lowered and palms relaxed. Tracey and Astoria at side, one small green-eyed Puffskein in Tracey’s arms.",
+          "dialogue": [
+            "Hermione: Vine a hablar contigo."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 33\n\nDespués de la ronda de Pomfrey, Hermione se muestra ante Diane y Katie.\nHermione: Vigilen la puerta.\nNarración: Pomfrey regresó a su despacho.\nNarración: Las cuatro esperaron a que terminara la ronda.\nHermione: Brennan, creo que el naranja no es tu color.\nDiane: ¿Vienes por un segundo asalto?\nHermione: Vine a hablar contigo.",
+      "actualPanelCount": 6,
+      "review": "Seis cuadros. Pomfrey entra y sale en orden; cuatro visitantes, dos pacientes, mismo vestuario, portadora del Puffskein y texto íntegro.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p033.png",
+      "sha256": "4fbd7689c003955bdd3e97b2c7cac38cfb398e29508454e67a32bf1df10ce775",
+      "masterSha256": "f529ce8d00b9dc016d39c2d058e90d27dd234bf440baa9f2fb2f9d901ac78705",
+      "ocrMissingCandidates": [
+        "vigilen",
+        "puerta",
+        "pomfrey",
+        "regreso",
+        "despacho"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the same infirmary stone room, white beds, exact silver invisibility cloak, both Hufflepuffs' faces and opaque ivory cardigans, and the small charcoal Puffskein. Image 4 fixes individual Daphne, Tracey and Astoria faces only. No children or other patients appear.\nHogwarts infirmary at night, tall Gothic blue moonlit windows, white beds and cream curtains, bedside amber brass lamps, oak nurse office door. Keep exact room of earlier pages. Diane long pale blonde waves, gray eyes, opaque long-sleeve ivory cardigan and white cloth on cheek, sits upright on her bed. Katie chestnut high bun, brown eyes, restored human face, opaque ivory cardigan and blanket, on neighboring bed. Hermione red-gold school uniform, chestnut curls, brown eyes and sapphire white platinum. Daphne long blonde waves with tiny white flowers, blue eyes, green uniform. Tracey chestnut high ponytail, green uniform, holds one small charcoal fuzzy Puffskein with green eyes, which is Pansy. Astoria long dark brown waves, blue-gray eyes and green uniform. Everyone fully dressed in ordinary clothes. No babies in the infirmary. No human Pansy until morning. Use readable expressive close-ups and calm dialogue, with comfortable distance. Pomfrey is an older adult nurse with gray hair under a white nursing cap, opaque burgundy high neck long dress and white apron. Only in panels 2–3.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 33» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. At oak nurse office door, Hermione under a pale silver cloak gestures quietly to the three friends, tiny Puffskein in Tracey’s arms under cloak. The gray decoy mouse vanishes into faint gold sparks near distant curtain. Balloon from Hermione. Print verbatim «Vigilen la puerta.»\nPanel 2. Adult nurse Pomfrey in white cap and full burgundy long dress with apron enters oak office, looking at a closed ledger. Hermione waits out of her sight behind the side of wooden desk. No objects touched. Caption verbatim «Pomfrey regresó a su despacho.»\nPanel 3. Nurse Pomfrey passes two quiet beds, checks her clipboard, then exits through oak door. Diane and Katie in full white opaque cardigan, hands resting on blanket. No medical procedures. Caption verbatim «Las cuatro esperaron a que terminara la ronda.»\nPanel 4. Hermione steps out of the single silver cloak in empty aisle, Pansy in Puffskein form now supported in Tracey’s arms. Katie turns in surprise, human face. Balloon from Hermione. Print verbatim «Brennan, creo que el naranja no es tu color.»\nPanel 5. Diane reaches toward empty bedside table and looks confused. Astoria across aisle holds two plain wooden wands at her own side. Daphne and Tracey step out of cloak. Balloon from Diane. Print verbatim «¿Vienes por un segundo asalto?»\nPanel 6. Hermione at a comfortable distance from Diane’s bed, wand lowered and palms relaxed. Tracey and Astoria at side, one small green-eyed Puffskein in Tracey’s arms. Balloon from Hermione. Print verbatim «Vine a hablar contigo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bcf08be2-fc6c-4968-9d07-6f5b6e9752f3.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+          ],
+          "generatedMaster": "exec-6d184a2b-e239-4e0e-9d40-bc07bf26140d.png"
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "image": "paginas/c11-p034.webp",
+      "sourcePdfPages": [
+        364,
+        365,
+        366
+      ],
+      "summary": "La poción de la verdad revela quién tiró la lámpara y por qué las Hufflepuff esperaron en el pasillo.",
+      "panels": [
+        {
+          "scene": "Hermione questions Diane in quiet bedside light, arms loose. Diane looks puzzled, sitting fully dressed above blankets.",
+          "dialogue": [
+            "Hermione: ¿Cuál es tu sabor de helado favorito?"
+          ]
+        },
+        {
+          "scene": "Diane answers by surprise with eyebrows raised. Katie watches from nearby bed, looks at her own hands.",
+          "dialogue": [
+            "Diane: Doble chocolate oscuro."
+          ]
+        },
+        {
+          "scene": "Diane understands what happened, Hermione calm near bedside with hands visible, no vials, no preparation or consumption shown. Daphne and Tracey attentive.",
+          "dialogue": [
+            "Diane: Veritaserum."
+          ]
+        },
+        {
+          "scene": "Close of Diane admitting her action with tense eyes. Small conceptual inset within same frame of intact brass lamp from the workshop, background suggestion only.",
+          "dialogue": [
+            "Diane: La lámpara del taller no cayó sola. Fui yo."
+          ]
+        },
+        {
+          "scene": "Diane and Katie in separate beds. Katie uncomfortable, Diane explaining. Hermione and Daphne stand at a comfortable distance.",
+          "dialogue": [
+            "Diane: Esperábamos que Parkinson perdiera la paciencia. Nadie planeaba un duelo."
+          ]
+        },
+        {
+          "scene": "Daphne steps beside Hermione, fully clothed upright, looks directly at Diane. Tiny charcoal Puffskein watches from Tracey’s arm at edge of frame.",
+          "dialogue": [
+            "Daphne: Hermione es nuestra familia. Mide tus palabras."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 34\n\nLa poción de la verdad revela quién tiró la lámpara y por qué las Hufflepuff esperaron en el pasillo.\nHermione: ¿Cuál es tu sabor de helado favorito?\nDiane: Doble chocolate oscuro.\nDiane: Veritaserum.\nDiane: La lámpara del taller no cayó sola. Fui yo.\nDiane: Esperábamos que Parkinson perdiera la paciencia. Nadie planeaba un duelo.\nDaphne: Hermione es nuestra familia. Mide tus palabras.",
+      "actualPanelCount": 6,
+      "review": "Se recuperó la lámpara alta de bronce con pantalla de mosaico del taller en el recuadro de recuerdo. Las seis viñetas y todos los globos siguen completos.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p034.png",
+      "sha256": "49bc1d28382eee5ce6d8b298ea90b7b085a1e49e4d1c5c54628fbb6e428bfa6c",
+      "masterSha256": "513ce6ee25de81a7d386320b0aca9542c2ab1fbb30492a3ec2ac2ee430c9335d",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the same infirmary stone room, white beds, exact silver invisibility cloak, both Hufflepuffs' faces and opaque ivory cardigans, and the small charcoal Puffskein. Image 4 fixes individual Daphne, Tracey and Astoria faces only. No children or other patients appear.\nHogwarts infirmary at night, tall Gothic blue moonlit windows, white beds and cream curtains, bedside amber brass lamps, oak nurse office door. Keep exact room of earlier pages. Diane long pale blonde waves, gray eyes, opaque long-sleeve ivory cardigan and white cloth on cheek, sits upright on her bed. Katie chestnut high bun, brown eyes, restored human face, opaque ivory cardigan and blanket, on neighboring bed. Hermione red-gold school uniform, chestnut curls, brown eyes and sapphire white platinum. Daphne long blonde waves with tiny white flowers, blue eyes, green uniform. Tracey chestnut high ponytail, green uniform, holds one small charcoal fuzzy Puffskein with green eyes, which is Pansy. Astoria long dark brown waves, blue-gray eyes and green uniform. Everyone fully dressed in ordinary clothes. No babies in the infirmary. No human Pansy until morning. Use readable expressive close-ups and calm dialogue, with comfortable distance. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 34» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione questions Diane in quiet bedside light, arms loose. Diane looks puzzled, sitting fully dressed above blankets. Balloon from Hermione. Print verbatim «¿Cuál es tu sabor de helado favorito?»\nPanel 2. Diane answers by surprise with eyebrows raised. Katie watches from nearby bed, looks at her own hands. Balloon from Diane. Print verbatim «Doble chocolate oscuro.»\nPanel 3. Diane understands what happened, Hermione calm near bedside with hands visible, no vials, no preparation or consumption shown. Daphne and Tracey attentive. Balloon from Diane. Print verbatim «Veritaserum.»\nPanel 4. Close of Diane admitting her action with tense eyes. Small conceptual inset within same frame of intact brass lamp from the workshop, background suggestion only. Balloon from Diane. Print verbatim «La lámpara del taller no cayó sola. Fui yo.»\nPanel 5. Diane and Katie in separate beds. Katie uncomfortable, Diane explaining. Hermione and Daphne stand at a comfortable distance. Balloon from Diane. Print verbatim «Esperábamos que Parkinson perdiera la paciencia. Nadie planeaba un duelo.»\nPanel 6. Daphne steps beside Hermione, fully clothed upright, looks directly at Diane. Tiny charcoal Puffskein watches from Tracey’s arm at edge of frame. Balloon from Daphne. Print verbatim «Hermione es nuestra familia. Mide tus palabras.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bcf08be2-fc6c-4968-9d07-6f5b6e9752f3.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+          ],
+          "generatedMaster": "exec-d5534b3a-cfba-48de-8702-90893d25f689.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Image 1 is the complete Spanish comic edit target. Image 2 is reference ONLY for the brass floor lamp repaired in its second-row left panel. In Image 1 change only the small rectangular LAMP FLASHBACK INSET on the right side of panel 4, the one below the balloon «La lámpara del taller no cayó sola. Fui yo.» Replace the little articulated desk lamp in that inset with the exact standing brass lamp from Image 2, long vertical shaft, domed amber mosaic shade and round brass base on the stone floor. Render it entirely inside the same inset, recognizable at small size. Preserve everything outside that inset, all six panels, the complete original Spanish lettering, accents, header, faces, clothing, small charcoal Puffskein, hands, proportions, infirmary and full 1024 by 1536 dimensions. No new letters, people, crops or other changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d5534b3a-cfba-48de-8702-90893d25f689.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p008.webp"
+          ],
+          "generatedMaster": "exec-390fe7c0-2d55-475b-a31c-508439270371.png"
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "image": "paginas/c11-p035.webp",
+      "sourcePdfPages": [
+        366,
+        367,
+        368
+      ],
+      "summary": "Diane confiesa sus trampas y revela el giratiempo que permite a Lavender investigar el castillo.",
+      "panels": [
+        {
+          "scene": "Hermione asks from the aisle, arms folded naturally, stable clothes and faces.",
+          "dialogue": [
+            "Hermione: ¿Y tus notas de Transformaciones?"
+          ]
+        },
+        {
+          "scene": "Diane looks down at folded hands on blanket. Katie glances sideways from her own bed.",
+          "dialogue": [
+            "Diane: Pago a un estudiante para que me prepare los ensayos."
+          ]
+        },
+        {
+          "scene": "Tracey with high brown ponytail and fully dressed green uniform calmly watches Diane, holds the small Puffskein securely. Daphne beside her.",
+          "dialogue": [
+            "Tracey: ¿Y en Quidditch?"
+          ]
+        },
+        {
+          "scene": "Diane confesses, small narrative flashback silhouette of a distant practice pitch and magical bludger in background, no injuries or procedural detail.",
+          "dialogue": [
+            "Diane: Hicimos trampas con las bludgers. Queríamos ganar."
+          ]
+        },
+        {
+          "scene": "Daphne studies Diane from one side of the room. Her light blonde waves, blue eyes and white hair flowers. No touching anyone.",
+          "dialogue": [
+            "Daphne: ¿Cómo consigue Lavender tantos detalles?"
+          ]
+        },
+        {
+          "scene": "Diane speaks quietly, gives up trying to evade. Small conceptual inset of one gold hourglass inside two concentric rings, plain magical time-turner. Keep dialogue clearly readable.",
+          "dialogue": [
+            "Diane: Tiene un giratiempo. Ernie lo guarda en su habitación."
+          ]
+        },
+        {
+          "scene": "Hermione and Astoria exchange worried glances. Snug opaque uniforms, sapphire and existing room.",
+          "dialogue": [
+            "Hermione: Eso podría costarles la expulsión."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 35\n\nDiane confiesa sus trampas y revela el giratiempo que permite a Lavender investigar el castillo.\nHermione: ¿Y tus notas de Transformaciones?\nDiane: Pago a un estudiante para que me prepare los ensayos.\nTracey: ¿Y en Quidditch?\nDiane: Hicimos trampas con las bludgers. Queríamos ganar.\nDaphne: ¿Cómo consigue Lavender tantos detalles?\nDiane: Tiene un giratiempo. Ernie lo guarda en su habitación.\nHermione: Eso podría costarles la expulsión.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas legibles, confesiones y giratiempo. Se distingue a Daphne de Diane y a Tracey de Katie. El Puffskein conserva forma y portadora.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p035.png",
+      "sha256": "c4548dfe76c55ca5bec001576ae9f2957667c85ca33b6232d9e2aec77a55deb7",
+      "masterSha256": "932d01eadf34006f2eeeb2595c9c0bec1391a441fec2c13870c610a11f054845",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the same infirmary stone room, white beds, exact silver invisibility cloak, both Hufflepuffs' faces and opaque ivory cardigans, and the small charcoal Puffskein. Image 4 fixes individual Daphne, Tracey and Astoria faces only. No children or other patients appear.\nHogwarts infirmary at night, tall Gothic blue moonlit windows, white beds and cream curtains, bedside amber brass lamps, oak nurse office door. Keep exact room of earlier pages. Diane long pale blonde waves, gray eyes, opaque long-sleeve ivory cardigan and white cloth on cheek, sits upright on her bed. Katie chestnut high bun, brown eyes, restored human face, opaque ivory cardigan and blanket, on neighboring bed. Hermione red-gold school uniform, chestnut curls, brown eyes and sapphire white platinum. Daphne long blonde waves with tiny white flowers, blue eyes, green uniform. Tracey chestnut high ponytail, green uniform, holds one small charcoal fuzzy Puffskein with green eyes, which is Pansy. Astoria long dark brown waves, blue-gray eyes and green uniform. Everyone fully dressed in ordinary clothes. No babies in the infirmary. No human Pansy until morning. Use readable expressive close-ups and calm dialogue, with comfortable distance. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 35» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione asks from the aisle, arms folded naturally, stable clothes and faces. Balloon from Hermione. Print verbatim «¿Y tus notas de Transformaciones?»\nPanel 2. Diane looks down at folded hands on blanket. Katie glances sideways from her own bed. Balloon from Diane. Print verbatim «Pago a un estudiante para que me prepare los ensayos.»\nPanel 3. Tracey with high brown ponytail and fully dressed green uniform calmly watches Diane, holds the small Puffskein securely. Daphne beside her. Balloon from Tracey. Print verbatim «¿Y en Quidditch?»\nPanel 4. Diane confesses, small narrative flashback silhouette of a distant practice pitch and magical bludger in background, no injuries or procedural detail. Balloon from Diane. Print verbatim «Hicimos trampas con las bludgers. Queríamos ganar.»\nPanel 5. Daphne studies Diane from one side of the room. Her light blonde waves, blue eyes and white hair flowers. No touching anyone. Balloon from Daphne. Print verbatim «¿Cómo consigue Lavender tantos detalles?»\nPanel 6. Diane speaks quietly, gives up trying to evade. Small conceptual inset of one gold hourglass inside two concentric rings, plain magical time-turner. Keep dialogue clearly readable. Balloon from Diane. Print verbatim «Tiene un giratiempo. Ernie lo guarda en su habitación.»\nPanel 7. Hermione and Astoria exchange worried glances. Snug opaque uniforms, sapphire and existing room. Balloon from Hermione. Print verbatim «Eso podría costarles la expulsión.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bcf08be2-fc6c-4968-9d07-6f5b6e9752f3.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+          ],
+          "generatedMaster": "exec-3c69ac75-6e35-4ac8-8d0a-4f3267682d9c.png"
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "image": "paginas/c11-p036.webp",
+      "sourcePdfPages": [
+        368,
+        369,
+        370
+      ],
+      "summary": "El grupo descubre los manejos de la familia Westmeath y abandona la enfermería.",
+      "panels": [
+        {
+          "scene": "Astoria beside cream curtain turns to Diane, long dark brown waves and blue-gray eyes. Diane sits upright in ivory cardigan.",
+          "dialogue": [
+            "Astoria: ¿Por qué investigan a tu padre?"
+          ]
+        },
+        {
+          "scene": "Diane looks away sadly, one hand grips blanket edge. Katie listens in neighboring bed. No physical harm.",
+          "dialogue": [
+            "Diane: Desvió fondos del Ministerio. Mi familia intenta ocultarlo."
+          ]
+        },
+        {
+          "scene": "Hermione looks thoughtful, white platinum sapphire, close enough to converse, keeps hands away from beds.",
+          "dialogue": [
+            "Hermione: ¿Y qué sabes de nosotras?"
+          ]
+        },
+        {
+          "scene": "Diane's expression defeated. She looks toward Daphne and then Hermione. Quiet blue moonlight, warm bedside lamp.",
+          "dialogue": [
+            "Diane: Sabía lo de Sophie. Nada más que chismes."
+          ]
+        },
+        {
+          "scene": "Diane lifts eyes anxiously. Katie holds her own blanket, two separate students. Hermione calm in foreground, wand stays lowered.",
+          "dialogue": [
+            "Diane: ¿Vas a borrarnos la memoria?",
+            "Hermione: Quiero que recuerden esta noche."
+          ]
+        },
+        {
+          "scene": "Tracey holds one small charcoal Puffskein. Hermione, Daphne and Astoria stand together at far exit. One silver invisibility cloak folded over arm.",
+          "dialogue": [
+            "Hermione: Vámonos, chicas. Se hace tarde."
+          ]
+        },
+        {
+          "scene": "All four leave down an empty stone corridor as soft translucent complete silhouettes under the one silver cloak. Tracey supports Puffskein. Nighttime amber lamps and blue shadows.",
+          "caption": "Volvieron a las mazmorras en silencio."
+        }
+      ],
+      "transcript": "Capítulo 11 · 36\n\nEl grupo descubre los manejos de la familia Westmeath y abandona la enfermería.\nAstoria: ¿Por qué investigan a tu padre?\nDiane: Desvió fondos del Ministerio. Mi familia intenta ocultarlo.\nHermione: ¿Y qué sabes de nosotras?\nDiane: Sabía lo de Sophie. Nada más que chismes.\nDiane: ¿Vas a borrarnos la memoria?\nHermione: Quiero que recuerden esta noche.\nHermione: Vámonos, chicas. Se hace tarde.\nNarración: Volvieron a las mazmorras en silencio.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas completas. Los dos globos de la quinta se atribuyen bien. Las cuatro amigas y el Puffskein salen bajo la capa, con ropa y escena coherentes.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p036.png",
+      "sha256": "41182d898aa36e95f62fd83cab96b26cffbd4e6907d00dbf1649f6f28a348f3a",
+      "masterSha256": "d312853f758d8f0ac3ff7baa0b384409b49521977b69a2a983f15481fbfd3518",
+      "ocrMissingCandidates": [
+        "vamonos",
+        "chicas",
+        "tarde",
+        "volvieron",
+        "mazmorras",
+        "silencio"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the same infirmary stone room, white beds, exact silver invisibility cloak, both Hufflepuffs' faces and opaque ivory cardigans, and the small charcoal Puffskein. Image 4 fixes individual Daphne, Tracey and Astoria faces only. No children or other patients appear.\nHogwarts infirmary at night, tall Gothic blue moonlit windows, white beds and cream curtains, bedside amber brass lamps, oak nurse office door. Keep exact room of earlier pages. Diane long pale blonde waves, gray eyes, opaque long-sleeve ivory cardigan and white cloth on cheek, sits upright on her bed. Katie chestnut high bun, brown eyes, restored human face, opaque ivory cardigan and blanket, on neighboring bed. Hermione red-gold school uniform, chestnut curls, brown eyes and sapphire white platinum. Daphne long blonde waves with tiny white flowers, blue eyes, green uniform. Tracey chestnut high ponytail, green uniform, holds one small charcoal fuzzy Puffskein with green eyes, which is Pansy. Astoria long dark brown waves, blue-gray eyes and green uniform. Everyone fully dressed in ordinary clothes. No babies in the infirmary. No human Pansy until morning. Use readable expressive close-ups and calm dialogue, with comfortable distance. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 36» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Astoria beside cream curtain turns to Diane, long dark brown waves and blue-gray eyes. Diane sits upright in ivory cardigan. Balloon from Astoria. Print verbatim «¿Por qué investigan a tu padre?»\nPanel 2. Diane looks away sadly, one hand grips blanket edge. Katie listens in neighboring bed. No physical harm. Balloon from Diane. Print verbatim «Desvió fondos del Ministerio. Mi familia intenta ocultarlo.»\nPanel 3. Hermione looks thoughtful, white platinum sapphire, close enough to converse, keeps hands away from beds. Balloon from Hermione. Print verbatim «¿Y qué sabes de nosotras?»\nPanel 4. Diane's expression defeated. She looks toward Daphne and then Hermione. Quiet blue moonlight, warm bedside lamp. Balloon from Diane. Print verbatim «Sabía lo de Sophie. Nada más que chismes.»\nPanel 5. Diane lifts eyes anxiously. Katie holds her own blanket, two separate students. Hermione calm in foreground, wand stays lowered. Balloon from Diane. Print verbatim «¿Vas a borrarnos la memoria?» Balloon from Hermione. Print verbatim «Quiero que recuerden esta noche.»\nPanel 6. Tracey holds one small charcoal Puffskein. Hermione, Daphne and Astoria stand together at far exit. One silver invisibility cloak folded over arm. Balloon from Hermione. Print verbatim «Vámonos, chicas. Se hace tarde.»\nPanel 7. All four leave down an empty stone corridor as soft translucent complete silhouettes under the one silver cloak. Tracey supports Puffskein. Nighttime amber lamps and blue shadows. Caption verbatim «Volvieron a las mazmorras en silencio.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bcf08be2-fc6c-4968-9d07-6f5b6e9752f3.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+          ],
+          "generatedMaster": "exec-17806d39-9e94-407b-a477-831b6f749f93.png"
+        }
+      ]
+    }
+  ]
+}

@@ -66,3 +66,18 @@ El taller de Elsie se adapta como ejercicios de respiración, escucha y magia co
 | 28 | 348–349–350–351 | Las amigas hablan de Millicent en la habitación de Daphne. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-25-28.json).
+
+## Páginas 29–36
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 29 | 351–352–353–354–355–356 | Daphne, Tracey y Astoria escuchan las dudas de Hermione y le animan a hablar con Pansy. |
+| 30 | 357–358 | Nodky trae la capa de Harry y se ofrece a cuidar de Robin mientras el grupo sale. |
+| 31 | 358–359–360 | Hermione explica el plan. Pansy viaja con ella bajo la capa y Blaise se queda con Nodky. |
+| 32 | 360–361–362 | El grupo se acerca a la enfermería. Diane oye un susurro y busca a quien se esconde. |
+| 33 | 362–363–364 | Después de la ronda de Pomfrey, Hermione se muestra ante Diane y Katie. |
+| 34 | 364–365–366 | La poción de la verdad revela quién tiró la lámpara y por qué las Hufflepuff esperaron en el pasillo. |
+| 35 | 366–367–368 | Diane confiesa sus trampas y revela el giratiempo que permite a Lavender investigar el castillo. |
+| 36 | 368–369–370 | El grupo descubre los manejos de la familia Westmeath y abandona la enfermería. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-29-36.json).
