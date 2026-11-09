@@ -2205,7 +2205,40 @@
       ],
       "words": 36806,
       "plannedPages": 44,
-      "pages": []
+      "pages": [
+        {
+          "number": 1,
+          "image": "paginas/c11-p001.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 11, Anatomía de un Rumor. Página 1 del cómic.",
+          "transcript": "Capítulo 11 · 01\n\nDos semanas después, la rivalidad entre las dos familias domina las conversaciones de Hogwarts.\nNarración: Dos semanas después, la rivalidad recorría Hogwarts.\nGOSSIP WITCH\nLa pareja del invernadero\n¿Robin o Phoenix?\nNarración: Katie y Diane compartían consejos y conquistaban al colegio.\nNarración: En clase, Hermione y Pansy funcionaban como un equipo.\nNarración: Y la competencia por el bebé mejor vestido seguía abierta.\nHermione: Nos han convertido en sus rivales oficiales.\nPansy: Es el orden natural de las cosas, Granger."
+        },
+        {
+          "number": 2,
+          "image": "paginas/c11-p002.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 11, Anatomía de un Rumor. Página 2 del cómic.",
+          "transcript": "Capítulo 11 · 02\n\nNodky renueva el dormitorio bajo el lago y Robin convierte sus primeros gateos en un juego.\nNarración: A petición de Pansy, Nodky renovó el dormitorio.\nNodky: Ya está listo, señorita Pansy.\nNarración: Robin había aprendido a gatear.\nPansy: ¿Y ahora dónde se metió?\nHermione: ¡Ahí está!\nRobin: ¡Ba!\nPansy: Vas a hacer que nos aprendamos otro hechizo."
+        },
+        {
+          "number": 3,
+          "image": "paginas/c11-p003.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 11, Anatomía de un Rumor. Página 3 del cómic.",
+          "transcript": "Capítulo 11 · 03\n\nHermione va a los entrenamientos de Pansy. Alice se queda a cargo de Anders y Ron se aísla.\nNarración: Hermione se hizo habitual en los entrenamientos de Slytherin.\nNarración: Tenía una buena razón para ir.\nNarración: McGonagall dejó a Anders al cuidado de Alice.\nNarración: Desde entonces, Alice cuidaba sola de su hijo.\nNarración: Ron apenas hablaba con nadie.\nGinny: Cada vez es más difícil hablar con mi hermano."
+        },
+        {
+          "number": 4,
+          "image": "paginas/c11-p004.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 11, Anatomía de un Rumor. Página 4 del cómic.",
+          "transcript": "Capítulo 11 · 04\n\nLavender sigue buscando titulares. Hermione y Pansy escapan por un pasadizo del sexto piso.\nNarración: Lavender seguía buscando primicias para Gossip Witch.\nLavender: ¿Me concedes una pregunta, Hermione?\nHermione: Tengo que irme.\nPansy: ¿Otra vez Brown?\nHermione: Vamos por el pasadizo.\nNarración: El pasadizo desembocaba en el sexto piso.\nHermione: Busquemos un aula vacía.\nPansy: Por aquí.\nNarración: La primera puerta estaba entreabierta."
+        }
+      ]
     },
     {
       "number": 12,
