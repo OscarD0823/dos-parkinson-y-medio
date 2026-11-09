@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "reason": "El capítulo 8 del PDF y la primera aparición ilustrada fijan los iris azules de James.",
+  "pages": [
+    {
+      "chapter": 10,
+      "page": 16,
+      "original": "paginas/c10-p016.webp",
+      "image": "paginas/c10-p016-james-v2.webp",
+      "workingMaster": ".local/maestros/revision-james-2026-11-09/c10-p016-james-v2.png",
+      "panels": 9,
+      "review": "James recupera los iris azules en brazos de Harry. Se conservaron los nueve cuadros y los diálogos.",
+      "sourcePdfPages": [
+        269,
+        270
+      ],
+      "transcript": "Capítulo 10 · 16\n\nHermione y Pansy entran con Robin, ajenas al rumor, y recorren juntas el Gran Comedor.\nPansy: Admite que fue glorioso, Granger.\nHermione: ¡Derramó el té sobre documentos oficiales!\nPansy: Fue legítima defensa. Nadie amenaza a su familia.\nRobin: ¡Ba!\nHermione: Nos están mirando todos.\nPansy: Que miren.\nNarración: Pansy tomó a Robin y buscó la mano de Hermione.\nNarración: No necesitaban explicar nada al resto del comedor.\nParvati: Te lo dije.\nNarración: Sophie las vio pasar sin decir nada.",
+      "prompt": "Use the FIRST image as the precise edit target. Reproduce this complete finished Spanish comic page «Capítulo 10 · 16», original 1024×1536 portrait shape and margins. Preserve exactly all panels, crisp lettering including accents, visual composition, people, hair, costumes, limbs, expressions, colors, and locations. The second image is ONLY an eye color reference for baby James in Ginny's arms. Make this sole change to a few pixels of iris on the FIRST page: In the second to last row, rightmost panel only. Harry with round glasses is holding baby James, whose black hair, cream sweater and little fingers holding Harry's red-gold tie are exact. James's small dark green irises should be clear sky blue. Robin in gray knit and brown curls keeps his green eyes in every earlier panel. All else exactly identical. No added letters, signature, or new artwork.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-10-continuacion-2026-11-04/c10-p016.png",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+      ],
+      "sha256": "08f86991d0b46b5c0c0282707eac38cb9d835201f4f62ce2c3f3a27f2fa517aa",
+      "masterSha256": "a7583e20a836efcb5e5fe367c07a0222c7f9739b1b41ef6bd3f3eba1f38d9c5c",
+      "ocrMissingCandidates": [
+        "derramo",
+        "todos"
+      ]
+    },
+    {
+      "chapter": 10,
+      "page": 27,
+      "original": "paginas/c10-p027.webp",
+      "image": "paginas/c10-p027-james-v2.webp",
+      "workingMaster": ".local/maestros/revision-james-2026-11-09/c10-p027-james-v2.png",
+      "panels": 7,
+      "review": "Se revisó el aula completa y se conserva a James en brazos de Harry, con los iris azules y su ropa crema.",
+      "sourcePdfPages": [
+        292,
+        293
+      ],
+      "transcript": "Capítulo 10 · 27\n\nEn Herbología, Hermione se distrae entre la atención de Sophie y la rivalidad de Katie y Diane.\nNarración: Herbología. Las flores de Moly esperaban sobre las mesas.\nNarración: Katie Brennan y Diane Westmeath evitaban mirarlas.\nNarración: Pero era la mirada de Sophie la que la tenía desconcentrada.\nNarración: Lavender parecía tomar apuntes sobre todo, menos sobre las plantas.\nSprout: Hoy trabajaremos con Moly. Nada de hongos explosivos cerca de los bebés.\nPansy: Machacar florecitas… Qué emoción.\nTracey: Te vendrá bien una clase tranquila.\nSprout: ¿Qué poción utiliza esta flor como ingrediente principal?",
+      "prompt": "Use the FIRST image as the precise edit target. Reproduce this complete finished Spanish comic page «Capítulo 10 · 27», original 1024×1536 portrait shape and margins. Preserve exactly all panels, crisp lettering including accents, visual composition, people, hair, costumes, limbs, expressions, colors, and locations. The second image is ONLY an eye color reference for baby James in Ginny's arms. Make this sole change to a few pixels of iris on the FIRST page: In the third row, large LEFT panel under the caption about Lavender. Harry with round glasses is holding baby James in a cream knit sweater. Only James has black hair and his tiny green irises should become sky blue. The brown-haired baby Robin in gray in other panels remains green-eyed. All else exactly identical. No added letters, signature, or new artwork.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-10-continuacion-2026-11-04/c10-p027.png",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+      ],
+      "sha256": "0f3fddfe7ca63cbce967a6579dbee69969f75b0b51a9d3facd9096e175143aae",
+      "masterSha256": "6fef83944ecd2ebc5d119a81bb35dc02ceba94d9b3f01fa5b6097aeed46f8d56",
+      "ocrMissingCandidates": []
+    },
+    {
+      "chapter": 11,
+      "page": 40,
+      "original": "paginas/c11-p040.webp",
+      "image": "paginas/c11-p040-james-v2.webp",
+      "workingMaster": ".local/maestros/revision-james-2026-11-09/c11-p040-james-v2.png",
+      "panels": 6,
+      "review": "James recupera los iris azules en brazos de Ginny. Robin conserva los verdes y se mantienen los seis cuadros y el texto.",
+      "sourcePdfPages": [
+        385,
+        386
+      ],
+      "transcript": "Capítulo 11 · 40\n\nPansy se encarga de Robin. Al atardecer, los amigos bromean sobre la tardanza y hablan de las vacaciones.\nPansy: Yo me encargo de él esta mañana.\nNarración: Al atardecer, el grupo se reunió junto al fuego.\nGinny: ¡Y cincuenta puntos por aparecer a las diez!\nTheo: Les falta instinto de supervivencia.\nNarración: Pansy no habría cambiado aquella mañana.\nNarración: Solo faltaba una semana para las vacaciones de Navidad.",
+      "prompt": "Use the FIRST image as the precise edit target, a completely finished 1024×1536 Spanish comic page Capítulo 11 · 40. The second image is the original appearance of James Sirius Potter, the infant with black hair in Ginny's arms. Use image 2 strictly as an iris color swatch, never as a layout, clothing or hairstyle reference. Match James's original sky-blue irises on image 1. In panel 2 at far right on Ginny's lap and in panel 3 at lower left, the single black-curly-haired baby with a CREAM SWEATER is James. Recolor those tiny visible irises clear blue. Robin keeps GREEN eyes and brown curls and NAVY cardigan in panels 1, 2 and 5. The two small twins in matching navy sailor clothes keep their original blue eyes. Theo and all other faces unchanged. Identical complete page, every panel, margins, lettering, Spanish accents, background, costumes, hands and poses. Change only the named tiny irises. Keep the proportions 1024×1536. No added text or signature.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-45090f82-c3c8-49c7-885c-88be73226309.png",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+      ],
+      "sha256": "bddc31d1a626cee3a79fe061cdbde6c0db7e1edc9aafaa778db3cf7394d550ee",
+      "masterSha256": "656abbcb9ce70c6136f0cd65c8f20f6e6f155efc92efa578adfe41de617b8574",
+      "ocrMissingCandidates": [
+        "faltaba",
+        "semana",
+        "vacaciones",
+        "navidad"
+      ]
+    }
+  ]
+}
