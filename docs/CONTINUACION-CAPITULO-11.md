@@ -55,3 +55,14 @@ El taller de Elsie se adapta como ejercicios de respiración, escucha y magia co
 | 24 | 343–344–345 | Los amigos se reúnen en la sala de estudio. Robin protege a Pansy entre juguetes hasta que llega Millicent. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-17-24.json).
+
+## Páginas 25–28
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 25 | 345–346 | Millicent descubre el hechizo y culpa a Hermione. Sus amigos intervienen. |
+| 26 | 346–347 | La discusión se rompe y Hermione sigue a Millicent cuando abandona la sala. |
+| 27 | 347–348 | Hermione entiende los sentimientos de Millicent y afirma su decisión de estar con Pansy. |
+| 28 | 348–349–350–351 | Las amigas hablan de Millicent en la habitación de Daphne. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-25-28.json).

@@ -1,0 +1,311 @@
+{
+  "chapter": 11,
+  "title": "Anatomía de un Rumor",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    25,
+    28
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 25,
+      "image": "paginas/c11-p025.webp",
+      "sourcePdfPages": [
+        345,
+        346
+      ],
+      "summary": "Millicent descubre el hechizo y culpa a Hermione. Sus amigos intervienen.",
+      "panels": [
+        {
+          "scene": "Millicent crouches on rug by little Puffskein, concerned, hands open but not touching. Robin and Arianna by toy blocks.",
+          "dialogue": [
+            "Millicent: ¿Qué le pasó?"
+          ]
+        },
+        {
+          "scene": "Daphne answers by rug. The Puffskein looks toward Milli, Hermione on sofa in background.",
+          "dialogue": [
+            "Daphne: Brennan la transformó con un hechizo."
+          ]
+        },
+        {
+          "scene": "Millicent stands and turns toward Hermione, tense pointed finger, no contact. Hermione rises from sofa.",
+          "dialogue": [
+            "Millicent: ¡Tu trabajo era protegerla!"
+          ]
+        },
+        {
+          "scene": "Hermione stunned, little Puffskein stops nibbling and looks up. Quiet children safely beside it.",
+          "caption": "La acusación dejó a todos en silencio."
+        },
+        {
+          "scene": "Blaise stands from chair, face serious, dark skin short black curls. Millicent looks at him.",
+          "dialogue": [
+            "Blaise: Milli, basta. Las cosas no son así."
+          ]
+        },
+        {
+          "scene": "Tracey in green uniform and high brown ponytail steps forward calmly. Astoria next to her.",
+          "dialogue": [
+            "Tracey: Estás cruzando una línea, Millicent."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 25\n\nMillicent descubre el hechizo y culpa a Hermione. Sus amigos intervienen.\nMillicent: ¿Qué le pasó?\nDaphne: Brennan la transformó con un hechizo.\nMillicent: ¡Tu trabajo era protegerla!\nNarración: La acusación dejó a todos en silencio.\nBlaise: Milli, basta. Las cosas no son así.\nTracey: Estás cruzando una línea, Millicent.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas completas. Millicent conserva pelo oscuro y rostro propio, los amigos se distinguen y la sala de estudio coincide con la 24.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p025.png",
+      "sha256": "694f526cd16ada691e3eecab5aebf4f8fcb5ecfa22b10e567c590c0c32d5a266",
+      "masterSha256": "0b0c85e8358baa6de9b5a62b0ab3656ab987b4278fd46c2c81cdfaa9536789e7",
+      "ocrMissingCandidates": [
+        "trabajo",
+        "protegerla",
+        "acusacion",
+        "todos",
+        "silencio"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the study room architecture, the small charcoal Puffskein, the exact faces and clothes of the friends and children, and Millicent’s distinct dark curls and face in the final panel. Continue moments later.\nSame students as the preceding page in complete school uniforms. Hermione chestnut curls, brown eyes, freckles, red-gold and oval sapphire on white platinum. Millicent long dark brown curls half up, dark brown eyes and own broader face, green-silver. Daphne long blonde with blue eyes, Tracey high brown ponytail with brown eyes, Astoria long brown with blue-gray eyes, Blaise dark skin and short black curls, Draco platinum hair. Pansy only appears as one small grapefruit-size charcoal fluffy Puffskein with green eyes and tiny paws. Robin human infant, brown curls green eyes navy cardigan beige trousers. Arianna fair hair blue eyes beige knitwear. Babies remain human and safely supported. Slytherin study room, carved oak snake door, green tufted sofas, mahogany chairs, dark teal rug, arched underwater windows and brass lamps. Keep toy blocks and plush dragon, no party decorations.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 25» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Millicent crouches on rug by little Puffskein, concerned, hands open but not touching. Robin and Arianna by toy blocks. Balloon from Millicent. Print verbatim «¿Qué le pasó?»\nPanel 2. Daphne answers by rug. The Puffskein looks toward Milli, Hermione on sofa in background. Balloon from Daphne. Print verbatim «Brennan la transformó con un hechizo.»\nPanel 3. Millicent stands and turns toward Hermione, tense pointed finger, no contact. Hermione rises from sofa. Balloon from Millicent. Print verbatim «¡Tu trabajo era protegerla!»\nPanel 4. Hermione stunned, little Puffskein stops nibbling and looks up. Quiet children safely beside it. Caption verbatim «La acusación dejó a todos en silencio.»\nPanel 5. Blaise stands from chair, face serious, dark skin short black curls. Millicent looks at him. Balloon from Blaise. Print verbatim «Milli, basta. Las cosas no son así.»\nPanel 6. Tracey in green uniform and high brown ponytail steps forward calmly. Astoria next to her. Balloon from Tracey. Print verbatim «Estás cruzando una línea, Millicent.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0983fcbb-f577-43a6-872f-3a87f0397866.png"
+          ],
+          "generatedMaster": "exec-606ccebb-ae92-4e4e-8d48-146287afcda5.png"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "image": "paginas/c11-p026.webp",
+      "sourcePdfPages": [
+        346,
+        347
+      ],
+      "summary": "La discusión se rompe y Hermione sigue a Millicent cuando abandona la sala.",
+      "panels": [
+        {
+          "scene": "Astoria long brown hair offers a quiet open hand toward door, at a comfortable distance. Millicent tenses.",
+          "dialogue": [
+            "Astoria: Milli, salgamos a tomar un poco de aire."
+          ]
+        },
+        {
+          "scene": "Millicent faces Hermione, tears gathering, distinct dark versus chestnut curls, no contact.",
+          "dialogue": [
+            "Millicent: No perteneces a nuestro mundo. Nunca serás suficiente para ella."
+          ]
+        },
+        {
+          "scene": "Close reaction of shocked Hermione and silent Blaise. Sound effect from off frame. No physical impact shown.",
+          "printed": [
+            "¡ZAS!"
+          ]
+        },
+        {
+          "scene": "After the noise, Daphne lowers her hand and Blaise places one steady hand on her shoulder. Millicent steps back from Tracey's open hand, crying, no injury.",
+          "dialogue": [
+            "Millicent: ¡No me toques!"
+          ]
+        },
+        {
+          "scene": "Millicent heads out heavy carved snake door, hand on brass handle. Everyone else stays back, children safe.",
+          "caption": "Millicent se marchó dando un portazo."
+        },
+        {
+          "scene": "Hermione darts through the same door after her. Blaise reaches down to pick up the charcoal Puffskein next to Robin and Arianna.",
+          "caption": "Hermione salió detrás de ella."
+        }
+      ],
+      "transcript": "Capítulo 11 · 26\n\nLa discusión se rompe y Hermione sigue a Millicent cuando abandona la sala.\nAstoria: Milli, salgamos a tomar un poco de aire.\nMillicent: No perteneces a nuestro mundo. Nunca serás suficiente para ella.\n¡ZAS!\nMillicent: ¡No me toques!\nNarración: Millicent se marchó dando un portazo.\nNarración: Hermione salió detrás de ella.",
+      "actualPanelCount": 6,
+      "review": "Se retira la Hermione duplicada de los dos cuadros inferiores. La secuencia de salida, puerta, dos bebés y portador del Puffskein se conservan. Rotulación completa.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p026.png",
+      "sha256": "8c44f6680ee922f38f387f2aa6a50fbf838f28b2a81218fe6e58bc93a283a2e4",
+      "masterSha256": "8f514f9bf1e1babbd7bdbdbc3f7ec57298ec41d7d4608e47f7d4d64420e767fc",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the study room architecture, the small charcoal Puffskein, the exact faces and clothes of the friends and children, and Millicent’s distinct dark curls and face in the final panel. Continue moments later.\nSame students as the preceding page in complete school uniforms. Hermione chestnut curls, brown eyes, freckles, red-gold and oval sapphire on white platinum. Millicent long dark brown curls half up, dark brown eyes and own broader face, green-silver. Daphne long blonde with blue eyes, Tracey high brown ponytail with brown eyes, Astoria long brown with blue-gray eyes, Blaise dark skin and short black curls, Draco platinum hair. Pansy only appears as one small grapefruit-size charcoal fluffy Puffskein with green eyes and tiny paws. Robin human infant, brown curls green eyes navy cardigan beige trousers. Arianna fair hair blue eyes beige knitwear. Babies remain human and safely supported. Slytherin study room, carved oak snake door, green tufted sofas, mahogany chairs, dark teal rug, arched underwater windows and brass lamps. Keep toy blocks and plush dragon, no party decorations.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 26» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Astoria long brown hair offers a quiet open hand toward door, at a comfortable distance. Millicent tenses. Balloon from Astoria. Print verbatim «Milli, salgamos a tomar un poco de aire.»\nPanel 2. Millicent faces Hermione, tears gathering, distinct dark versus chestnut curls, no contact. Balloon from Millicent. Print verbatim «No perteneces a nuestro mundo. Nunca serás suficiente para ella.»\nPanel 3. Close reaction of shocked Hermione and silent Blaise. Sound effect from off frame. No physical impact shown. Prop text verbatim «¡ZAS!»\nPanel 4. After the noise, Daphne lowers her hand and Blaise places one steady hand on her shoulder. Millicent steps back from Tracey's open hand, crying, no injury. Balloon from Millicent. Print verbatim «¡No me toques!»\nPanel 5. Millicent heads out heavy carved snake door, hand on brass handle. Everyone else stays back, children safe. Caption verbatim «Millicent se marchó dando un portazo.»\nPanel 6. Hermione darts through the same door after her. Blaise reaches down to pick up the charcoal Puffskein next to Robin and Arianna. Caption verbatim «Hermione salió detrás de ella.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0983fcbb-f577-43a6-872f-3a87f0397866.png"
+          ],
+          "generatedMaster": "exec-26066e02-2194-401f-ae04-aac7e031e6b4.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Image 1 is the complete edit target. Edit only the two small areas at the extreme RIGHT edge of the TWO bottom panels. There is an accidental duplicate chestnut-curled red-trim Hermione shown from behind at the right edge of both bottom panels. Remove only that stationary partial red-trim, brown-curled figure from the right edge in each panel. In the lower LEFT panel preserve the real Hermione at the left by the green couch, and Millicent leaving at the door. In the lower RIGHT panel preserve the real Hermione running out at the door, Blaise holding the small charcoal Puffskein, both human infants and all friends. Replace only the duplicate areas with existing dark teal rug, floor and furniture behind. Preserve the full 1024x1536 canvas, exactly six panels, small header, all Spanish text and accents, layout, characters, poses, hands, doors, colors and lighting. All four upper panels completely unchanged. No other new figures or lettering.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-26066e02-2194-401f-ae04-aac7e031e6b4.png"
+          ],
+          "generatedMaster": "exec-7aa41ce4-ff4a-4001-a64d-f9cc5490f4a7.png"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "image": "paginas/c11-p027.webp",
+      "sourcePdfPages": [
+        347,
+        348
+      ],
+      "summary": "Hermione entiende los sentimientos de Millicent y afirma su decisión de estar con Pansy.",
+      "panels": [
+        {
+          "scene": "Millicent about to climb first stair at right. Hermione stops below her. Friends and supported babies well behind.",
+          "dialogue": [
+            "Hermione: Estás enamorada de ella."
+          ]
+        },
+        {
+          "scene": "Millicent turns on stair, hand on rail, long dark curls and teary eyes.",
+          "dialogue": [
+            "Millicent: ¿Y qué si lo estoy?"
+          ]
+        },
+        {
+          "scene": "Close Hermione speaks sincerely, hands lowered, chestnut curls and sapphire, warm firelight.",
+          "dialogue": [
+            "Hermione: Entiendo por qué es tan fácil enamorarse de Pansy."
+          ]
+        },
+        {
+          "scene": "Hermione stays below stairs, composed. Friends and a few listeners behind.",
+          "dialogue": [
+            "Hermione: Lo que siento por Pansy es asunto nuestro. No pienso dejarla ir."
+          ]
+        },
+        {
+          "scene": "Blaise holds little charcoal green-eyed Puffskein securely. One tear in its expressive eye. Daphne beside him holding Robin, Arianna supported on Blaise’s lap.",
+          "caption": "Pansy escuchó cada palabra."
+        },
+        {
+          "scene": "Hermione sets a boundary. Millicent on first step listens, upset and quiet.",
+          "dialogue": [
+            "Hermione: Respeto que seas su amiga. También te pido que me respetes."
+          ]
+        },
+        {
+          "scene": "Millicent ascends the dim stairs alone, from behind. Hermione and friends stay in main room.",
+          "caption": "Millicent se fue sin responder."
+        }
+      ],
+      "transcript": "Capítulo 11 · 27\n\nHermione entiende los sentimientos de Millicent y afirma su decisión de estar con Pansy.\nHermione: Estás enamorada de ella.\nMillicent: ¿Y qué si lo estoy?\nHermione: Entiendo por qué es tan fácil enamorarse de Pansy.\nHermione: Lo que siento por Pansy es asunto nuestro. No pienso dejarla ir.\nNarración: Pansy escuchó cada palabra.\nHermione: Respeto que seas su amiga. También te pido que me respetes.\nNarración: Millicent se fue sin responder.",
+      "actualPanelCount": 7,
+      "review": "El cuarto cuadro conserva al grupo y elimina la aparición humana anticipada de Pansy. Pansy sigue como un solo Puffskein con Blaise. Se leen los siete cuadros.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p027.png",
+      "sha256": "be7ba059d688d6fa53b9c85e38ab419e07507238bd6f6d77511778ad95d2945d",
+      "masterSha256": "88b136223ea1f958183c1be21fdefe249ead4ad66188ccd90474dcb48dd0aefc",
+      "ocrMissingCandidates": [
+        "respeto",
+        "amiga",
+        "tambien",
+        "respetes",
+        "millicent",
+        "responder"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is the common room and right staircase only. Image 4 fixes the charcoal Puffskein, dark-haired Millicent and distinct baby designs. Image 5 fixes supporting friend faces only. No human Pansy.\nSame students as the preceding page in complete school uniforms. Hermione chestnut curls, brown eyes, freckles, red-gold and oval sapphire on white platinum. Millicent long dark brown curls half up, dark brown eyes and own broader face, green-silver. Daphne long blonde with blue eyes, Tracey high brown ponytail with brown eyes, Astoria long brown with blue-gray eyes, Blaise dark skin and short black curls, Draco platinum hair. Pansy only appears as one small grapefruit-size charcoal fluffy Puffskein with green eyes and tiny paws. Robin human infant, brown curls green eyes navy cardigan beige trousers. Arianna fair hair blue eyes beige knitwear. Babies remain human and safely supported. Same Slytherin common room as chapter 10, left fireplace, green chairs, black sofa, right curved stairs and underwater windows. Friends stop at study door behind Hermione. Blaise supports one small Puffskein and Arianna, Daphne holds Robin. No human Pansy.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 27» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Millicent about to climb first stair at right. Hermione stops below her. Friends and supported babies well behind. Balloon from Hermione. Print verbatim «Estás enamorada de ella.»\nPanel 2. Millicent turns on stair, hand on rail, long dark curls and teary eyes. Balloon from Millicent. Print verbatim «¿Y qué si lo estoy?»\nPanel 3. Close Hermione speaks sincerely, hands lowered, chestnut curls and sapphire, warm firelight. Balloon from Hermione. Print verbatim «Entiendo por qué es tan fácil enamorarse de Pansy.»\nPanel 4. Hermione stays below stairs, composed. Friends and a few listeners behind. Balloon from Hermione. Print verbatim «Lo que siento por Pansy es asunto nuestro. No pienso dejarla ir.»\nPanel 5. Blaise holds little charcoal green-eyed Puffskein securely. One tear in its expressive eye. Daphne beside him holding Robin, Arianna supported on Blaise’s lap. Caption verbatim «Pansy escuchó cada palabra.»\nPanel 6. Hermione sets a boundary. Millicent on first step listens, upset and quiet. Balloon from Hermione. Print verbatim «Respeto que seas su amiga. También te pido que me respetes.»\nPanel 7. Millicent ascends the dim stairs alone, from behind. Hermione and friends stay in main room. Caption verbatim «Millicent se fue sin responder.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p040.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0983fcbb-f577-43a6-872f-3a87f0397866.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p044.webp"
+          ],
+          "generatedMaster": "exec-a9d25170-246e-4259-b79b-484acc9714f4.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Image 1 is the entire edit target. In PANEL FOUR ONLY, the right-hand panel in the second row, delete the accidental human black-bob green-uniform girl at the EXTREME RIGHT edge (human Pansy). Pansy is currently ONLY the small charcoal Puffskein shown in the next wide panel, which must remain unchanged. Keep the long brown-haired Astoria immediately to the right of Hermione, all other friends, Hermione in the foreground and the black sofa and windows. Fill only the removed area with continuation of sofa and blue-green room. Preserve the entire 1024 by 1536 image, all seven panels, small top header, every exact existing Spanish letter, accent, caption and balloon, faces, clothes, anatomy, both human babies and fur creature. No other change, no new people, no crop or redraw of other panels.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a9d25170-246e-4259-b79b-484acc9714f4.png"
+          ],
+          "generatedMaster": "exec-f261dea0-708e-419c-a1c3-e506f2dfcdc5.png"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "image": "paginas/c11-p028.webp",
+      "sourcePdfPages": [
+        348,
+        349,
+        350,
+        351
+      ],
+      "summary": "Las amigas hablan de Millicent en la habitación de Daphne.",
+      "panels": [
+        {
+          "scene": "Hermione sits on cushioned rug before fireplace. Daphne reclines fully clothed on sofa, Tracey in chair. Two separate cribs in safe background.",
+          "caption": "Más tarde, el fuego crepitaba en la habitación de Daphne."
+        },
+        {
+          "scene": "Cutaway elsewhere. Blaise opens a heavy spellbook at wooden desk. Single little dark Puffskein waiting beside book, green eyes, no infants in this separate room.",
+          "caption": "Blaise buscaba cómo revertir el hechizo."
+        },
+        {
+          "scene": "Back to Daphne room. Daphne lowers her arm and looks with quiet regret at Hermione.",
+          "dialogue": [
+            "Daphne: Perdón por no haberte contado lo de Millicent."
+          ]
+        },
+        {
+          "scene": "Hermione looks up from fire with sympathetic smile and white platinum sapphire. Tracey listens nearby.",
+          "dialogue": [
+            "Hermione: Entiendo que quisieran guardar el secreto. Es su amiga."
+          ]
+        },
+        {
+          "scene": "Astoria long brown hair comes in oak door, tired eyes and green uniform. Daphne looks over.",
+          "dialogue": [
+            "Astoria: Se encerró en su cuarto. No quiere hablar con nadie."
+          ]
+        },
+        {
+          "scene": "Hermione glances at Daphne with a cautious expression.",
+          "dialogue": [
+            "Hermione: ¿Alguna vez pasó algo entre ella y Pansy?"
+          ]
+        },
+        {
+          "scene": "Daphne speaks earnestly from the sofa, long blonde hair and blue eyes. Tracey and Astoria listen.",
+          "dialogue": [
+            "Daphne: Pansy siempre la vio como una amiga. Nadie elige de quién se enamora."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 28\n\nLas amigas hablan de Millicent en la habitación de Daphne.\nNarración: Más tarde, el fuego crepitaba en la habitación de Daphne.\nNarración: Blaise buscaba cómo revertir el hechizo.\nDaphne: Perdón por no haberte contado lo de Millicent.\nHermione: Entiendo que quisieran guardar el secreto. Es su amiga.\nAstoria: Se encerró en su cuarto. No quiere hablar con nadie.\nHermione: ¿Alguna vez pasó algo entre ella y Pansy?\nDaphne: Pansy siempre la vio como una amiga. Nadie elige de quién se enamora.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas. Dos cunas y bebés separados. Blaise y el Puffskein aparecen solo en el cuadro de otro cuarto. Diálogo y cuatro amigas comprobados.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p028.png",
+      "sha256": "f6ce47e3de12046a185221fcf0e090ce58c410edc0c2441710f991c04e959495",
+      "masterSha256": "b774c40ec516080db38557bafc55201278fa494642cf39bfcc1e27396f30da15",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 shows style of under-lake bedrooms and moon-star cribs only. Image 4 fixes Daphne, Tracey, Astoria, Blaise, Robin and Arianna, and the small charcoal Puffskein for the cutaway only. No human Pansy.\nSame students as the preceding page in complete school uniforms. Hermione chestnut curls, brown eyes, freckles, red-gold and oval sapphire on white platinum. Millicent long dark brown curls half up, dark brown eyes and own broader face, green-silver. Daphne long blonde with blue eyes, Tracey high brown ponytail with brown eyes, Astoria long brown with blue-gray eyes, Blaise dark skin and short black curls, Draco platinum hair. Pansy only appears as one small grapefruit-size charcoal fluffy Puffskein with green eyes and tiny paws. Robin human infant, brown curls green eyes navy cardigan beige trousers. Arianna fair hair blue eyes beige knitwear. Babies remain human and safely supported. Private Daphne bedroom under the lake with warm fireplace, green sofa and chair, dark canopy bed, two separate moon-star cribs and one arched underwater window. Four students stay in complete uniforms. Robin and Arianna sleeping separately. Pansy only seen in panel 2 in another room with Blaise.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 28» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione sits on cushioned rug before fireplace. Daphne reclines fully clothed on sofa, Tracey in chair. Two separate cribs in safe background. Caption verbatim «Más tarde, el fuego crepitaba en la habitación de Daphne.»\nPanel 2. Cutaway elsewhere. Blaise opens a heavy spellbook at wooden desk. Single little dark Puffskein waiting beside book, green eyes, no infants in this separate room. Caption verbatim «Blaise buscaba cómo revertir el hechizo.»\nPanel 3. Back to Daphne room. Daphne lowers her arm and looks with quiet regret at Hermione. Balloon from Daphne. Print verbatim «Perdón por no haberte contado lo de Millicent.»\nPanel 4. Hermione looks up from fire with sympathetic smile and white platinum sapphire. Tracey listens nearby. Balloon from Hermione. Print verbatim «Entiendo que quisieran guardar el secreto. Es su amiga.»\nPanel 5. Astoria long brown hair comes in oak door, tired eyes and green uniform. Daphne looks over. Balloon from Astoria. Print verbatim «Se encerró en su cuarto. No quiere hablar con nadie.»\nPanel 6. Hermione glances at Daphne with a cautious expression. Balloon from Hermione. Print verbatim «¿Alguna vez pasó algo entre ella y Pansy?»\nPanel 7. Daphne speaks earnestly from the sofa, long blonde hair and blue eyes. Tracey and Astoria listen. Balloon from Daphne. Print verbatim «Pansy siempre la vio como una amiga. Nadie elige de quién se enamora.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p025-diseno-v3.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0983fcbb-f577-43a6-872f-3a87f0397866.png"
+          ],
+          "generatedMaster": "exec-d6c63591-818a-408e-a95a-b563073daf0a.png"
+        }
+      ]
+    }
+  ]
+}
