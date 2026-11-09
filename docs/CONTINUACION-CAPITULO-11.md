@@ -81,3 +81,20 @@ El taller de Elsie se adapta como ejercicios de respiración, escucha y magia co
 | 36 | 368–369–370 | El grupo descubre los manejos de la familia Westmeath y abandona la enfermería. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-29-36.json).
+
+## Páginas 37–44
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 37 | 370–371–372 | El grupo regresa. Hermione lleva a Pansy con Robin y espera que el hechizo se disipe. |
+| 38 | 373–374–375–376–377–378–379 | Con la mañana, Pansy recupera su forma humana y recuerda lo que Hermione dijo en la escalera. |
+| 39 | 379–380–381–382–383–384 | Ginny y Astoria avisan que ya son casi las diez. Robin despierta al oírlas. |
+| 40 | 385–386 | Pansy se encarga de Robin. Al atardecer, los amigos bromean sobre la tardanza y hablan de las vacaciones. |
+| 41 | 386–387 | Los amigos comparten sus planes de Navidad. Hermione invita a Pansy y a Robin a conocer a sus padres. |
+| 42 | 387–388–389–390 | La visita a los Granger pone nerviosa a Pansy. Los amigos bromean con el recuerdo de Krum. |
+| 43 | 390–391 | De regreso en el dormitorio, Hermione recupera los folletos de Elsie y propone hablar con calma. |
+| 44 | 392–393 | Hermione y Pansy convierten la lectura en una conversación sincera. Termina «Anatomía de un Rumor». |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-37-44.json).
+
+Con estas 44 páginas queda completo el capítulo 11. La adaptación conserva las consecuencias del taller, las amistades y el regreso de Pansy a su forma humana. En las escenas privadas se mantienen las conversaciones y se usan elipsis. El interrogatorio de la enfermería conserva las revelaciones de la poción de la verdad.
