@@ -1,0 +1,584 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    1,
+    8
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 1,
+      "image": "paginas/c12-p001.webp",
+      "sourcePdfPages": [
+        394,
+        395
+      ],
+      "summary": "El Expreso de Hogwarts llega a Londres después de un viaje agotador con los bebés.",
+      "panels": [
+        {
+          "scene": "Cinematic wide red steam locomotive coming gently to stop under iron and glass station roof, wheel vapor, December light, bundled people waiting at safe distance. One small station placard says exactly 9¾.",
+          "printed": [
+            "9¾",
+            "HOGWARTS EXPRESS"
+          ],
+          "caption": "El Expreso de Hogwarts llegó envuelto en vapor."
+        },
+        {
+          "scene": "Montage flashback to a crowded but orderly narrow train aisle earlier. Students in warm coats maneuver luggage and baby bags, safely supported children, no falling person or luggage near infants.",
+          "caption": "Ocho horas de viaje habían agotado a todos."
+        },
+        {
+          "scene": "Daphne in dark green winter coat and cream scarf sits by frosty window, weary, holding fair-haired Arianna in beige with matching little frown. Blaise quietly waits nearby.",
+          "caption": "Daphne y Arianna compartían el mismo gesto."
+        },
+        {
+          "scene": "Draco disheveled platinum hair and crooked green tie, gray scarf, holding his head with one hand, while Astoria in dark coat safely cradles sleeping platinum Scorpius in cream.",
+          "caption": "Scorpius por fin se había dormido."
+        },
+        {
+          "scene": "Tracey with high brown ponytail in green winter coat opens compartment door. Wayne in mustard scarf supports ONE cream bundled Caitlyn. Both politely exhausted.",
+          "dialogue": [
+            "Tracey: ¿Podemos pedir asilo en este compartimento?"
+          ]
+        },
+        {
+          "scene": "Blaise glances toward everyone with amused tired eyes, hands lowered, dark coat. Daphne behind him and Arianna asleep safely.",
+          "dialogue": [
+            "Blaise: Hay sitio si nadie vuelve a dejar caer un baúl."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 01\n\nEl Expreso de Hogwarts llega a Londres después de un viaje agotador con los bebés.\nNarración: El Expreso de Hogwarts llegó envuelto en vapor.\n9¾\nHOGWARTS EXPRESS\nNarración: Ocho horas de viaje habían agotado a todos.\nNarración: Daphne y Arianna compartían el mismo gesto.\nNarración: Scorpius por fin se había dormido.\nTracey: ¿Podemos pedir asilo en este compartimento?\nBlaise: Hay sitio si nadie vuelve a dejar caer un baúl.",
+      "actualPanelCount": 6,
+      "review": "Se fija el aspecto del tren, del andén y de los abrigos. Se transcriben la placa 9¾ y el nombre de la locomotora.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p001.png",
+      "sha256": "c0e192c9a9d8ce91ce8f6dafc5033f9efd9cccb34dac069b56ba5e3a2c671b32",
+      "masterSha256": "35271b233ed92e16c3f0dc5ca8351538e3bb32058c14a14881b06d309fb8799a",
+      "ocrMissingCandidates": [
+        "express"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the individual friend faces and infant identities only, never its room or costumes. Image 4 fixes Daphne's long blonde hair, blue eyes, white hair flowers and distinct green-house palette, Blaise and Arianna, and Robin's navy clothes only. Use only the named cast in each panel. No Harry or Ron.\nA December journey on the red-and-black Hogwarts Express. Vintage British train, dark oak compartment trim, burgundy velvet seats, brass racks, big frosty windows, steam and iron-and-glass King’s Cross platform. Hermione burgundy wool coat and cream scarf over red-gold uniform, white platinum sapphire at chest when visible. Pansy tailored charcoal wool coat, dark forest-green scarf, black gloves over green-silver uniform, exact black chin bob, green eyes and angular jaw. Robin tiny human baby brown curls green eyes, navy knit cardigan, beige trousers and cream socks, warm cream blanket when on platform. Other friends keep their own faces and opaque winter coats over school colors. Daphne long blonde blue eyes with Arianna fair hair blue eyes beige. Blaise dark skin short black curls. Draco platinum hair blue-gray eyes and Astoria long brown waves blue-gray eyes with platinum Scorpius in cream. Tracey brown high ponytail, Wayne short light brown hair yellow-black, Caitlyn cream. Theo male short brown curls green eyes and Luna long pale blonde blue eyes, with distinct twins brown-haired Larson and fair Amelie in matching navy white. No extra named adults or duplicate infants. Only named figures in each close panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 01» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Cinematic wide red steam locomotive coming gently to stop under iron and glass station roof, wheel vapor, December light, bundled people waiting at safe distance. One small station placard says exactly 9¾. Caption verbatim «El Expreso de Hogwarts llegó envuelto en vapor.» Prop text verbatim «9¾»\nPanel 2. Montage flashback to a crowded but orderly narrow train aisle earlier. Students in warm coats maneuver luggage and baby bags, safely supported children, no falling person or luggage near infants. Caption verbatim «Ocho horas de viaje habían agotado a todos.»\nPanel 3. Daphne in dark green winter coat and cream scarf sits by frosty window, weary, holding fair-haired Arianna in beige with matching little frown. Blaise quietly waits nearby. Caption verbatim «Daphne y Arianna compartían el mismo gesto.»\nPanel 4. Draco disheveled platinum hair and crooked green tie, gray scarf, holding his head with one hand, while Astoria in dark coat safely cradles sleeping platinum Scorpius in cream. Caption verbatim «Scorpius por fin se había dormido.»\nPanel 5. Tracey with high brown ponytail in green winter coat opens compartment door. Wayne in mustard scarf supports ONE cream bundled Caitlyn. Both politely exhausted. Balloon from Tracey. Print verbatim «¿Podemos pedir asilo en este compartimento?»\nPanel 6. Blaise glances toward everyone with amused tired eyes, hands lowered, dark coat. Daphne behind him and Arianna asleep safely. Balloon from Blaise. Print verbatim «Hay sitio si nadie vuelve a dejar caer un baúl.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p044.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p024.webp"
+          ],
+          "generatedMaster": "exec-a9e88c97-9791-4773-99db-a7bb6c3a2a60.png"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "paginas/c12-p002.webp",
+      "sourcePdfPages": [
+        395,
+        396
+      ],
+      "summary": "Los cuentos de Hermione calman el vagón. Pansy busca a los Granger entre la gente del andén.",
+      "panels": [
+        {
+          "scene": "Hermione seated at compartment corner, burgundy coat open and cream scarf loose. One Robin sits supported on her lap, open fairy tale book on table next to them. Front cover partly visible, short title only.",
+          "printed": [
+            "Los cuentos de Beedle el Bardo"
+          ],
+          "caption": "Hermione leyó en voz alta durante buena parte del viaje."
+        },
+        {
+          "scene": "Fair-haired Arianna in beige on Daphne's lap listens wide-eyed. Blaise rests by them, captivated despite himself. Warm brass and frosted glass.",
+          "caption": "Hasta los más pequeños guardaron silencio."
+        },
+        {
+          "scene": "Theo and Luna listen from opposite seat, support their two distinct twins in navy white, human fingers and faces. Pansy is not in this frame.",
+          "caption": "A los padres tampoco les hizo falta que se lo pidieran."
+        },
+        {
+          "scene": "Astoria securely cradles one sleeping platinum Scorpius. Draco now rests his shoulders and closes his eyes, loose hair and tie. Compartment warm light.",
+          "caption": "Por fin hubo un rato de paz."
+        },
+        {
+          "scene": "Cut to present by station window. Pansy rigid beside frosted glass in charcoal coat and dark green scarf, black gloved fingers clutch coat hem. Blurred faces outside station glass.",
+          "caption": "A Pansy, en cambio, le esperaba otra prueba."
+        },
+        {
+          "scene": "Pansy peers out from window, green eyes worried but dignified, one dark coat and black chin bob. Small thought balloon clearly a thought.",
+          "dialogue": [
+            "Pansy, pensando: ¿Qué aspecto tiene un dentista?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 02\n\nLos cuentos de Hermione calman el vagón. Pansy busca a los Granger entre la gente del andén.\nNarración: Hermione leyó en voz alta durante buena parte del viaje.\nLos cuentos de Beedle el Bardo\nNarración: Hasta los más pequeños guardaron silencio.\nNarración: A los padres tampoco les hizo falta que se lo pidieran.\nNarración: Por fin hubo un rato de paz.\nNarración: A Pansy, en cambio, le esperaba otra prueba.\nPansy, pensando: ¿Qué aspecto tiene un dentista?",
+      "actualPanelCount": 6,
+      "review": "Los gemelos mantienen ojos azules y distintos colores de pelo. Draco lleva la bufanda gris de la página anterior. Se revisaron el título y los seis textos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p002.png",
+      "sha256": "633aae7bc74e1c8076b5694c673df3798f9340b3b9b931cb32e89898b8395929",
+      "masterSha256": "bd1bcf44fc71d867be9f032b6e003e7633877cdc323e7fc0c13de54aadb9b7fc",
+      "ocrMissingCandidates": [
+        "beedle",
+        "bardo"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the individual friend faces and infant identities only, never its room or costumes. Image 4 fixes Daphne's long blonde hair, blue eyes, white hair flowers and distinct green-house palette, Blaise and Arianna, and Robin's navy clothes only. Use only the named cast in each panel. No Harry or Ron.\nA December journey on the red-and-black Hogwarts Express. Vintage British train, dark oak compartment trim, burgundy velvet seats, brass racks, big frosty windows, steam and iron-and-glass King’s Cross platform. Hermione burgundy wool coat and cream scarf over red-gold uniform, white platinum sapphire at chest when visible. Pansy tailored charcoal wool coat, dark forest-green scarf, black gloves over green-silver uniform, exact black chin bob, green eyes and angular jaw. Robin tiny human baby brown curls green eyes, navy knit cardigan, beige trousers and cream socks, warm cream blanket when on platform. Other friends keep their own faces and opaque winter coats over school colors. Daphne long blonde blue eyes with Arianna fair hair blue eyes beige. Blaise dark skin short black curls. Draco platinum hair blue-gray eyes and Astoria long brown waves blue-gray eyes with platinum Scorpius in cream. Tracey brown high ponytail, Wayne short light brown hair yellow-black, Caitlyn cream. Theo male short brown curls green eyes and Luna long pale blonde blue eyes, with distinct twins brown-haired Larson and fair Amelie in matching navy white. No extra named adults or duplicate infants. Only named figures in each close panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 02» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione seated at compartment corner, burgundy coat open and cream scarf loose. One Robin sits supported on her lap, open fairy tale book on table next to them. Front cover partly visible, short title only. Caption verbatim «Hermione leyó en voz alta durante buena parte del viaje.» Prop text verbatim «Los cuentos de Beedle el Bardo»\nPanel 2. Fair-haired Arianna in beige on Daphne's lap listens wide-eyed. Blaise rests by them, captivated despite himself. Warm brass and frosted glass. Caption verbatim «Hasta los más pequeños guardaron silencio.»\nPanel 3. Theo and Luna listen from opposite seat, support their two distinct twins in navy white, human fingers and faces. Pansy is not in this frame. Caption verbatim «A los padres tampoco les hizo falta que se lo pidieran.»\nPanel 4. Astoria securely cradles one sleeping platinum Scorpius. Draco now rests his shoulders and closes his eyes, loose hair and tie. Compartment warm light. Caption verbatim «Por fin hubo un rato de paz.»\nPanel 5. Cut to present by station window. Pansy rigid beside frosted glass in charcoal coat and dark green scarf, black gloved fingers clutch coat hem. Blurred faces outside station glass. Caption verbatim «A Pansy, en cambio, le esperaba otra prueba.»\nPanel 6. Pansy peers out from window, green eyes worried but dignified, one dark coat and black chin bob. Small thought balloon clearly a thought. Balloon from Pansy, pensando. Print verbatim «¿Qué aspecto tiene un dentista?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p044.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p024.webp"
+          ],
+          "generatedMaster": "exec-86ed6e89-d9e5-4b23-8f68-5cad55ae4600.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use the first image as a finished 1024×1536 six-panel comic, Capítulo 12 · 02. Exact reproduction with just two extremely local consistency fixes, no other changes. In panel 3, the small boy in navy sailor knit with chestnut curls (Larson) at left is twin brother to fair blonde Amelie at right. Tint only his small visible irises light blue, same shade as her. Keep his hair chestnut, both outfits identical, both babies' anatomical hands and genuine soft human skin. The adult Theo holding him keeps moss green eyes. In panel 4 preserve Astoria's face and warm dark fur-trimmed coat, the peacefully sleeping platinum infant Scorpius and Draco's face with eyes closed. Change Draco's neck scarf ONLY from green striped to heather slate-gray wool as shown on Draco in the SECOND image, which is a color-only reference. Keep all other faces, costumes, hair, windows, lighting, the titled book, Spanish dialogue and captions exactly like the first image including accents. Keep the six panels and full margins. No watermarks.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-86ed6e89-d9e5-4b23-8f68-5cad55ae4600.png",
+            "C:/Users/odcon/.codex/generated_images/01a19aa4-9a27-7a72-95be-575f5e452ca3/exec-a9e88c97-9791-4773-99db-a7bb6c3a2a60.png"
+          ],
+          "generatedMaster": "exec-9b6ac933-0959-4967-aeb6-6cca251f4fc4.png"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "paginas/c12-p003.webp",
+      "sourcePdfPages": [
+        396,
+        397
+      ],
+      "summary": "Blaise se burla del discurso con el que Pansy intenta tranquilizarse.",
+      "panels": [
+        {
+          "scene": "Pansy sits beside frosty train window looking ahead, tiny frown, black gloves gripping charcoal coat. She mutters to herself, no strangers.",
+          "dialogue": [
+            "Pansy: Somos fuertes, implacables e indestructibles…"
+          ]
+        },
+        {
+          "scene": "Blaise dark skin short black curls lounges on opposite burgundy bench, smiles with one raised eyebrow, Daphne behind him closed-eyed with Arianna safe.",
+          "dialogue": [
+            "Blaise: Son un manojo de nervios."
+          ]
+        },
+        {
+          "scene": "Blaise continues speaking with a gently teasing smile, her black glove and coat edge in foreground.",
+          "dialogue": [
+            "Blaise: Vas a conocer a dos dentistas. En el peor caso, examinarán tu mordida."
+          ]
+        },
+        {
+          "scene": "Pansy tilts chin and presses lips with dignified green-eyed look. One black gloved hand loosens on coat.",
+          "dialogue": [
+            "Pansy: No estoy nerviosa."
+          ]
+        },
+        {
+          "scene": "Close black gloved hand smoothing wrinkled charcoal wool, little gold window reflection. Blaise's balloon from outside the frame.",
+          "dialogue": [
+            "Blaise, fuera de cuadro: ¿Es una técnica para quitar arrugas?"
+          ]
+        },
+        {
+          "scene": "Hermione across aisle lowers open Beedle book, smiles at the joke, Robin safely held in her lap, eyes green and brown curls. Pansy looks sideways while smiling despite herself.",
+          "caption": "Robin soltó una risita que pareció darle la razón a Blaise.",
+          "printed": [
+            "Beedle"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 03\n\nBlaise se burla del discurso con el que Pansy intenta tranquilizarse.\nPansy: Somos fuertes, implacables e indestructibles…\nBlaise: Son un manojo de nervios.\nBlaise: Vas a conocer a dos dentistas. En el peor caso, examinarán tu mordida.\nPansy: No estoy nerviosa.\nBlaise, fuera de cuadro: ¿Es una técnica para quitar arrugas?\nNarración: Robin soltó una risita que pareció darle la razón a Blaise.\nBeedle",
+      "actualPanelCount": 6,
+      "review": "Misma cabina de madera y terciopelo. La broma sale de fuera de cuadro en la quinta viñeta y Robin conserva rizos, ojos verdes y cárdigan azul.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p003.png",
+      "sha256": "8086893f02080dd81d54f3c95207d46156b8a7b32f27b54c3e989972dfab5493",
+      "masterSha256": "97bd9ef7bf50db51fdd70c3ec37c8a082825ccb1e22d33c72d54cea9cf7fa3bf",
+      "ocrMissingCandidates": [
+        "tecnica",
+        "quitar",
+        "arrugas",
+        "robin",
+        "solto",
+        "risita",
+        "parecio",
+        "darle",
+        "razon",
+        "blaise",
+        "beedle"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the individual friend faces and infant identities only, never its room or costumes. Image 4 fixes Daphne's long blonde hair, blue eyes, white hair flowers and distinct green-house palette, Blaise and Arianna, and Robin's navy clothes only. Use only the named cast in each panel. No Harry or Ron.\nA December journey on the red-and-black Hogwarts Express. Vintage British train, dark oak compartment trim, burgundy velvet seats, brass racks, big frosty windows, steam and iron-and-glass King’s Cross platform. Hermione burgundy wool coat and cream scarf over red-gold uniform, white platinum sapphire at chest when visible. Pansy tailored charcoal wool coat, dark forest-green scarf, black gloves over green-silver uniform, exact black chin bob, green eyes and angular jaw. Robin tiny human baby brown curls green eyes, navy knit cardigan, beige trousers and cream socks, warm cream blanket when on platform. Other friends keep their own faces and opaque winter coats over school colors. Daphne long blonde blue eyes with Arianna fair hair blue eyes beige. Blaise dark skin short black curls. Draco platinum hair blue-gray eyes and Astoria long brown waves blue-gray eyes with platinum Scorpius in cream. Tracey brown high ponytail, Wayne short light brown hair yellow-black, Caitlyn cream. Theo male short brown curls green eyes and Luna long pale blonde blue eyes, with distinct twins brown-haired Larson and fair Amelie in matching navy white. No extra named adults or duplicate infants. Only named figures in each close panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 03» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Pansy sits beside frosty train window looking ahead, tiny frown, black gloves gripping charcoal coat. She mutters to herself, no strangers. Balloon from Pansy. Print verbatim «Somos fuertes, implacables e indestructibles…»\nPanel 2. Blaise dark skin short black curls lounges on opposite burgundy bench, smiles with one raised eyebrow, Daphne behind him closed-eyed with Arianna safe. Balloon from Blaise. Print verbatim «Son un manojo de nervios.»\nPanel 3. Blaise continues speaking with a gently teasing smile, her black glove and coat edge in foreground. Balloon from Blaise. Print verbatim «Vas a conocer a dos dentistas. En el peor caso, examinarán tu mordida.»\nPanel 4. Pansy tilts chin and presses lips with dignified green-eyed look. One black gloved hand loosens on coat. Balloon from Pansy. Print verbatim «No estoy nerviosa.»\nPanel 5. Close black gloved hand smoothing wrinkled charcoal wool, little gold window reflection. Blaise's balloon from outside the frame. Balloon from Blaise, fuera de cuadro. Print verbatim «¿Es una técnica para quitar arrugas?»\nPanel 6. Hermione across aisle lowers open Beedle book, smiles at the joke, Robin safely held in her lap, eyes green and brown curls. Pansy looks sideways while smiling despite herself. Caption verbatim «Robin soltó una risita que pareció darle la razón a Blaise.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p044.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p024.webp"
+          ],
+          "generatedMaster": "exec-3307a008-175a-497e-be63-6830ba9293d6.png"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "paginas/c12-p004.webp",
+      "sourcePdfPages": [
+        397,
+        398
+      ],
+      "summary": "Los amigos se despiden hasta las vacaciones en Amalfi. Hermione y Pansy se quedan con Robin.",
+      "panels": [
+        {
+          "scene": "Train side door opens to busy platform with steam, warm bags and winter coats. Families depart with rolling trunks, no more than two figures close. View from inside.",
+          "caption": "En cuanto abrieron las puertas, el vagón empezó a vaciarse.",
+          "printed": [
+            "9¾"
+          ]
+        },
+        {
+          "scene": "In compartment Daphne stands with sleepy fair-haired Arianna securely in arms, cream scarf and green coat. Blaise takes her dark leather trunk. Hermione and Pansy still seated.",
+          "dialogue": [
+            "Daphne: Escríbannos en cuanto lleguen."
+          ]
+        },
+        {
+          "scene": "Tracey with Wayne and cream baby Caitlyn leave in distance, Draco and Astoria carrying Scorpius follow. Winter coats, luggage at ground level.",
+          "caption": "La despedida duraría hasta que volvieran a reunirse en Amalfi."
+        },
+        {
+          "scene": "Daphne pauses at compartment doorway and looks at Pansy with an amused reassuring expression. She supports one beige-clad Arianna. Pansy stiff by window in dark green scarf.",
+          "dialogue": [
+            "Daphne: Deja de parecer tan aterrada."
+          ]
+        },
+        {
+          "scene": "Pansy glances back dryly, keeps black gloves at hem. Hermione smiles, supports one tiny Robin in navy and beige.",
+          "dialogue": [
+            "Pansy: Te agradecería el consejo si supiera seguirlo."
+          ]
+        },
+        {
+          "scene": "Quiet empty compartment, gray steam outside frosted windows, Hermione puts book in bag with free hand, Robin on her lap. Pansy still seated facing open door, no other people.",
+          "caption": "Al final solo quedaron ellas y Robin."
+        }
+      ],
+      "transcript": "Capítulo 12 · 04\n\nLos amigos se despiden hasta las vacaciones en Amalfi. Hermione y Pansy se quedan con Robin.\nNarración: En cuanto abrieron las puertas, el vagón empezó a vaciarse.\n9¾\nDaphne: Escríbannos en cuanto lleguen.\nNarración: La despedida duraría hasta que volvieran a reunirse en Amalfi.\nDaphne: Deja de parecer tan aterrada.\nPansy: Te agradecería el consejo si supiera seguirlo.\nNarración: Al final solo quedaron ellas y Robin.",
+      "actualPanelCount": 6,
+      "review": "Tracey recupera el abrigo verde y Draco la bufanda gris. Se conservan el andén, los bebés y todos los globos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p004.png",
+      "sha256": "614295d5d8d0827353ba38b20e662bc29fd4ad415c10273c48828adbf191e27c",
+      "masterSha256": "06cff4f46649aa14caa8e5b43318e27de432c6ef82e314147980d3d012efd569",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the individual friend faces and infant identities only, never its room or costumes. Image 4 fixes Daphne's long blonde hair, blue eyes, white hair flowers and distinct green-house palette, Blaise and Arianna, and Robin's navy clothes only. Use only the named cast in each panel. No Harry or Ron.\nA December journey on the red-and-black Hogwarts Express. Vintage British train, dark oak compartment trim, burgundy velvet seats, brass racks, big frosty windows, steam and iron-and-glass King’s Cross platform. Hermione burgundy wool coat and cream scarf over red-gold uniform, white platinum sapphire at chest when visible. Pansy tailored charcoal wool coat, dark forest-green scarf, black gloves over green-silver uniform, exact black chin bob, green eyes and angular jaw. Robin tiny human baby brown curls green eyes, navy knit cardigan, beige trousers and cream socks, warm cream blanket when on platform. Other friends keep their own faces and opaque winter coats over school colors. Daphne long blonde blue eyes with Arianna fair hair blue eyes beige. Blaise dark skin short black curls. Draco platinum hair blue-gray eyes and Astoria long brown waves blue-gray eyes with platinum Scorpius in cream. Tracey brown high ponytail, Wayne short light brown hair yellow-black, Caitlyn cream. Theo male short brown curls green eyes and Luna long pale blonde blue eyes, with distinct twins brown-haired Larson and fair Amelie in matching navy white. No extra named adults or duplicate infants. Only named figures in each close panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 04» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Train side door opens to busy platform with steam, warm bags and winter coats. Families depart with rolling trunks, no more than two figures close. View from inside. Caption verbatim «En cuanto abrieron las puertas, el vagón empezó a vaciarse.»\nPanel 2. In compartment Daphne stands with sleepy fair-haired Arianna securely in arms, cream scarf and green coat. Blaise takes her dark leather trunk. Hermione and Pansy still seated. Balloon from Daphne. Print verbatim «Escríbannos en cuanto lleguen.»\nPanel 3. Tracey with Wayne and cream baby Caitlyn leave in distance, Draco and Astoria carrying Scorpius follow. Winter coats, luggage at ground level. Caption verbatim «La despedida duraría hasta que volvieran a reunirse en Amalfi.»\nPanel 4. Daphne pauses at compartment doorway and looks at Pansy with an amused reassuring expression. She supports one beige-clad Arianna. Pansy stiff by window in dark green scarf. Balloon from Daphne. Print verbatim «Deja de parecer tan aterrada.»\nPanel 5. Pansy glances back dryly, keeps black gloves at hem. Hermione smiles, supports one tiny Robin in navy and beige. Balloon from Pansy. Print verbatim «Te agradecería el consejo si supiera seguirlo.»\nPanel 6. Quiet empty compartment, gray steam outside frosted windows, Hermione puts book in bag with free hand, Robin on her lap. Pansy still seated facing open door, no other people. Caption verbatim «Al final solo quedaron ellas y Robin.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p044.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c11-p024.webp"
+          ],
+          "generatedMaster": "exec-16c7162e-3f3d-4ffc-88d4-5698b3e7c2dd.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Make one precision wardrobe consistency edit to the FIRST finished page Capítulo 12 · 04. The second page is the earlier scene, only a clothing reference. Reproduce the complete original portrait page, exactly six panels, all framing and positions, faces, babies, hands and text, in the same 1024×1536 layout. Only change the coat and scarf colors of the departing students in panels 1 and 3 as follows. Tracey, the young woman with a high chestnut ponytail carrying baby Caitlyn with a cream knit cap, wears the deep evergreen wool coat and green-gray knit scarf from the second reference. Her scarf is deep green, not burgundy. The young man with pale platinum hair in panel 3 is Draco; he keeps his dark coat and now wears the exact slate GRAY scarf from his appearance in the second reference, never green. Keep Wayne and his mustard scarf, Astoria and the cream-clothed platinum Scorpius, Daphne in green with a cream scarf, Blaise, Hermione, Robin and Pansy exactly as in the first page. Never change where they stand, which infant each holds, their anatomy, lettering, signs or background. Preserve text exact and sharp. No new footer.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-16c7162e-3f3d-4ffc-88d4-5698b3e7c2dd.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a9e88c97-9791-4773-99db-a7bb6c3a2a60.png"
+          ],
+          "generatedMaster": "exec-a8f17eb7-e2ff-41e5-ba32-7ce5917510b1.png"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "image": "paginas/c12-p005.webp",
+      "sourcePdfPages": [
+        398,
+        399
+      ],
+      "summary": "Hermione tranquiliza a Pansy antes de bajar. El equipaje revela cuánto ha preparado para Robin.",
+      "panels": [
+        {
+          "scene": "Hermione stands in empty compartment holding Robin securely with her left arm, offering her free right hand to seated Pansy. Pansy looks up nervously, black gloves.",
+          "dialogue": [
+            "Hermione: Mamá lleva semanas contando los días para conocerte."
+          ]
+        },
+        {
+          "scene": "Hermione smiles reassuringly, Robin grips her cream scarf with tiny fingers. Pansy remains seated, looking up.",
+          "dialogue": [
+            "Hermione: Papá hizo una lista de preguntas sobre el mundo mágico."
+          ]
+        },
+        {
+          "scene": "Pansy looks at the open compartment door, thin green eyes, one eyebrow up, hands relaxed.",
+          "dialogue": [
+            "Pansy: Eso último no me tranquiliza."
+          ]
+        },
+        {
+          "scene": "Pansy accepts Hermione’s hand and stands. Two properly connected hands in clasp, Robin safe against Hermione's other arm.",
+          "dialogue": [
+            "Hermione: Mis padres se dedican a arreglar dientes, Pansy."
+          ]
+        },
+        {
+          "scene": "Pansy raises her wand and exactly three dark leather trunks float safely in a line down the empty aisle, two large and one small. Hermione and Robin wait outside the luggage path.",
+          "caption": "Los dos baúles grandes iban seguidos por uno para Robin."
+        },
+        {
+          "scene": "Hermione raises her eyebrow fondly at luggage. Pansy glances back at her, black gloves and forest scarf, same baby in Hermione’s arms.",
+          "dialogue": [
+            "Hermione: Dijiste que solo habías empacado lo indispensable.",
+            "Pansy: Y lo hice."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 05\n\nHermione tranquiliza a Pansy antes de bajar. El equipaje revela cuánto ha preparado para Robin.\nHermione: Mamá lleva semanas contando los días para conocerte.\nHermione: Papá hizo una lista de preguntas sobre el mundo mágico.\nPansy: Eso último no me tranquiliza.\nHermione: Mis padres se dedican a arreglar dientes, Pansy.\nNarración: Los dos baúles grandes iban seguidos por uno para Robin.\nHermione: Dijiste que solo habías empacado lo indispensable.\nPansy: Y lo hice.",
+      "actualPanelCount": 6,
+      "review": "Hermione sostiene a Robin. El hechizo mueve exactamente dos baúles grandes y uno pequeño. Se conservan vestuario, lectura y réplicas.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p005.png",
+      "sha256": "f1529e5a96323b8c3321ba1eb5b606149fb3809de4263ce5e79410e9f5b07a59",
+      "masterSha256": "d94e0cad870581e3d7c4c83eba81ee45012125ddeee4acdf0516bc5e04ab796f",
+      "ocrMissingCandidates": [
+        "ultimo",
+        "tranquiliza",
+        "padres",
+        "dedican",
+        "arreglar",
+        "dientes",
+        "pansy"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the same train compartment, wool coats, scarves and lighting only.\nDecember King’s Cross platform with iron-and-glass arched roof, brick wall and red Hogwarts Express at right, gray steam and winter light. Hermione in long burgundy wool coat with cream scarf and full school clothes underneath, white platinum sapphire at front if visible. Pansy elegant charcoal wool coat and forest-green scarf with black gloves, distinct green eyes and flat black chin-length bob. Robin human small baby brown curls green eyes, navy cardigan beige trousers cream socks, wrapped loosely and securely in cream winter blanket outside. Exactly three dark leather trunks when visible, TWO large with small silver crests and ONE small for Robin. Jane Granger is a distinct middle-aged woman, shoulder length brown hair with subtle gray at temples, warm brown eyes and friendly adult face, camel wool coat and sage scarf. Malcolm is a middle-aged man, dark brown hair with light gray at temples, rectangular dark-rimmed glasses, brown eyes, charcoal overcoat and navy plaid scarf. Warm restrained fatherly expression. Both keep these appearances and clothes. Inside the empty compartment first, dark oak, burgundy bench, frosted window, brass luggage rack and side door. Only Hermione, Pansy and one Robin.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 05» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione stands in empty compartment holding Robin securely with her left arm, offering her free right hand to seated Pansy. Pansy looks up nervously, black gloves. Balloon from Hermione. Print verbatim «Mamá lleva semanas contando los días para conocerte.»\nPanel 2. Hermione smiles reassuringly, Robin grips her cream scarf with tiny fingers. Pansy remains seated, looking up. Balloon from Hermione. Print verbatim «Papá hizo una lista de preguntas sobre el mundo mágico.»\nPanel 3. Pansy looks at the open compartment door, thin green eyes, one eyebrow up, hands relaxed. Balloon from Pansy. Print verbatim «Eso último no me tranquiliza.»\nPanel 4. Pansy accepts Hermione’s hand and stands. Two properly connected hands in clasp, Robin safe against Hermione's other arm. Balloon from Hermione. Print verbatim «Mis padres se dedican a arreglar dientes, Pansy.»\nPanel 5. Pansy raises her wand and exactly three dark leather trunks float safely in a line down the empty aisle, two large and one small. Hermione and Robin wait outside the luggage path. Caption verbatim «Los dos baúles grandes iban seguidos por uno para Robin.»\nPanel 6. Hermione raises her eyebrow fondly at luggage. Pansy glances back at her, black gloves and forest scarf, same baby in Hermione’s arms. Balloon from Hermione. Print verbatim «Dijiste que solo habías empacado lo indispensable.» Balloon from Pansy. Print verbatim «Y lo hice.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a9e88c97-9791-4773-99db-a7bb6c3a2a60.png"
+          ],
+          "generatedMaster": "exec-e94a112a-a294-43d7-9900-315719e2de5c.png"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "image": "paginas/c12-p006.webp",
+      "sourcePdfPages": [
+        399,
+        400
+      ],
+      "summary": "Pansy recuerda el consejo de Eirena y baja al andén con Hermione y Robin.",
+      "panels": [
+        {
+          "scene": "Hermione and Pansy step down from red train into cold steam, safely holding Robin. Pansy in charcoal coat looks nervous, gray steam and families around.",
+          "caption": "El aire helado devolvió todos los nervios de Pansy."
+        },
+        {
+          "scene": "Flashback with cream tinted border. A few days earlier, Pansy fully clothed in green school uniform speaks to silver mirror on wooden table. Eirena inside mirror.",
+          "caption": "Recordó la conversación con sus padres."
+        },
+        {
+          "scene": "Close silver mirror. Mature Eirena in dark teal, pearl earrings, warm stern expression, speaks from mirror. Markus seated behind her tries not to smile.",
+          "dialogue": [
+            "Eirena: Cuida de Hermione y causa una buena primera impresión."
+          ]
+        },
+        {
+          "scene": "Pansy in full green uniform before mirror, chin raised. Eirena and Markus only reflections, not in room.",
+          "dialogue": [
+            "Pansy: No tienen de qué preocuparse."
+          ]
+        },
+        {
+          "scene": "Back to winter platform. Robin in Hermione's arms waves one tiny human hand toward steam locomotive, green eyes and brown curls, delighted.",
+          "caption": "Un balbuceo la devolvió al andén."
+        },
+        {
+          "scene": "Hermione spots her parents near brick wall, smiles toward them and offers Pansy her free hand. They head forward together, three trunks behind at safe distance.",
+          "dialogue": [
+            "Hermione: ¡Allí están!"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 06\n\nPansy recuerda el consejo de Eirena y baja al andén con Hermione y Robin.\nNarración: El aire helado devolvió todos los nervios de Pansy.\nNarración: Recordó la conversación con sus padres.\nEirena: Cuida de Hermione y causa una buena primera impresión.\nPansy: No tienen de qué preocuparse.\nNarración: Un balbuceo la devolvió al andén.\nHermione: ¡Allí están!",
+      "actualPanelCount": 6,
+      "review": "Se distinguen el recuerdo del espejo y el andén. Eirena y Markus conservan sus rasgos, Hermione sostiene a Robin y hay tres baúles.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p006.png",
+      "sha256": "b57a6bd3587b157686e84486895d46119834b948d6657b2550651e6f86d8eb5e",
+      "masterSha256": "28efab2d783815e2a49568af13cc12f66a7dcd0827699646deb28207b4778343",
+      "ocrMissingCandidates": [
+        "cuida",
+        "hermione",
+        "causa",
+        "buena",
+        "primera",
+        "impresion",
+        "tienen",
+        "preocuparse",
+        "balbuceo",
+        "anden",
+        "estan"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Eirena's individual mature face and hair only. Image 4 is reference for Markus's face, gray temples and goatee only. The final image reference fixes the SAME railway station, steam, burgundy wool coat and cream scarf for Hermione, and charcoal coat, green scarf and gloves for Pansy. Use it for location and clothes only.\nDecember King’s Cross platform with iron-and-glass arched roof, brick wall and red Hogwarts Express at right, gray steam and winter light. Hermione in long burgundy wool coat with cream scarf and full school clothes underneath, white platinum sapphire at front if visible. Pansy elegant charcoal wool coat and forest-green scarf with black gloves, distinct green eyes and flat black chin-length bob. Robin human small baby brown curls green eyes, navy cardigan beige trousers cream socks, wrapped loosely and securely in cream winter blanket outside. Exactly three dark leather trunks when visible, TWO large with small silver crests and ONE small for Robin. Jane Granger is a distinct middle-aged woman, shoulder length brown hair with subtle gray at temples, warm brown eyes and friendly adult face, camel wool coat and sage scarf. Malcolm is a middle-aged man, dark brown hair with light gray at temples, rectangular dark-rimmed glasses, brown eyes, charcoal overcoat and navy plaid scarf. Warm restrained fatherly expression. Both keep these appearances and clothes. Flashback only in panels 2–4, by a small ornate silver two-way mirror in a quiet school sitting corner. Eirena mature chestnut-brown hair in elegant low bun and clear blue eyes, tailored deep teal evening clothes and pearl earrings; Markus mature gray temples, brown hair and neat goatee, dark brown coat. Both appear INSIDE the mirror from home, not at the station.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 06» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione and Pansy step down from red train into cold steam, safely holding Robin. Pansy in charcoal coat looks nervous, gray steam and families around. Caption verbatim «El aire helado devolvió todos los nervios de Pansy.»\nPanel 2. Flashback with cream tinted border. A few days earlier, Pansy fully clothed in green school uniform speaks to silver mirror on wooden table. Eirena inside mirror. Caption verbatim «Recordó la conversación con sus padres.»\nPanel 3. Close silver mirror. Mature Eirena in dark teal, pearl earrings, warm stern expression, speaks from mirror. Markus seated behind her tries not to smile. Balloon from Eirena. Print verbatim «Cuida de Hermione y causa una buena primera impresión.»\nPanel 4. Pansy in full green uniform before mirror, chin raised. Eirena and Markus only reflections, not in room. Balloon from Pansy. Print verbatim «No tienen de qué preocuparse.»\nPanel 5. Back to winter platform. Robin in Hermione's arms waves one tiny human hand toward steam locomotive, green eyes and brown curls, delighted. Caption verbatim «Un balbuceo la devolvió al andén.»\nPanel 6. Hermione spots her parents near brick wall, smiles toward them and offers Pansy her free hand. They head forward together, three trunks behind at safe distance. Balloon from Hermione. Print verbatim «¡Allí están!»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p009.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a9e88c97-9791-4773-99db-a7bb6c3a2a60.png"
+          ],
+          "generatedMaster": "exec-b0e744f8-ad93-4001-be64-e0272b7166f3.png"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "image": "paginas/c12-p007.webp",
+      "sourcePdfPages": [
+        400,
+        401
+      ],
+      "summary": "Jane y Malcolm reciben a su hija y conocen a Robin y Pansy.",
+      "panels": [
+        {
+          "scene": "Wide station brick wall, Jane with warm brown hair graying at temples and sage scarf stands beside Malcolm with rectangular dark glasses, charcoal coat and navy plaid scarf. Both adults smile at approaching family.",
+          "caption": "Jane y Malcolm esperaban junto al muro de ladrillo."
+        },
+        {
+          "scene": "Malcolm glances briefly from the girls' clasped hands to Pansy, wary but courteous. Jane smiles with open warmth, eyes toward Hermione. No other people near their faces.",
+          "caption": "Pansy reconoció al instante la mirada protectora de Malcolm."
+        },
+        {
+          "scene": "Hermione approaches with one Robin held safely high against her chest, burgundy coat and cream scarf. Pansy walks a step behind in charcoal.",
+          "dialogue": [
+            "Hermione: ¡Mamá! ¡Papá!"
+          ]
+        },
+        {
+          "scene": "Jane hugs Hermione gently from one side, leaving plenty of room for securely supported Robin in Hermione’s arms. Adult Jane camel coat and sage scarf. Pansy and Malcolm stand clear.",
+          "dialogue": [
+            "Jane: ¡Qué alegría tenerte en casa!"
+          ]
+        },
+        {
+          "scene": "Jane leans back to admire Robin, offers one finger he lightly holds, tiny human fingers and green eyes. Hermione keeps supporting him.",
+          "dialogue": [
+            "Jane: Es precioso. Mira esos ojos, Malcolm."
+          ]
+        },
+        {
+          "scene": "Hermione hugs Malcolm with one arm, Robin safe in her other arm. Jane smiles nearby. Pansy waits poised with both black gloves relaxed.",
+          "caption": "Solo quedaba la presentación que Pansy llevaba horas ensayando."
+        }
+      ],
+      "transcript": "Capítulo 12 · 07\n\nJane y Malcolm reciben a su hija y conocen a Robin y Pansy.\nNarración: Jane y Malcolm esperaban junto al muro de ladrillo.\nNarración: Pansy reconoció al instante la mirada protectora de Malcolm.\nHermione: ¡Mamá! ¡Papá!\nJane: ¡Qué alegría tenerte en casa!\nJane: Es precioso. Mira esos ojos, Malcolm.\nNarración: Solo quedaba la presentación que Pansy llevaba horas ensayando.",
+      "actualPanelCount": 6,
+      "review": "Jane y Malcolm tienen rostros maduros diferenciados y vestuario fijo. Robin permanece en brazos de Hermione y conserva manos de aspecto humano.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p007.png",
+      "sha256": "e989b073278c35009f4a6ae5f17c5672c3907ba1f2522292d6c68368a35cf849",
+      "masterSha256": "6a4c72ccb811e8d3a0bec43067a1bf332e9577d1b3dbe5f1dc6f19701d4eca6d",
+      "ocrMissingCandidates": [
+        "precioso",
+        "quedaba",
+        "presentacion",
+        "llevaba",
+        "horas",
+        "ensayando"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Hermione and Robin’s individual faces only, no other figures. The final image reference fixes the SAME railway station, steam, burgundy wool coat and cream scarf for Hermione, and charcoal coat, green scarf and gloves for Pansy. Use it for location and clothes only.\nDecember King’s Cross platform with iron-and-glass arched roof, brick wall and red Hogwarts Express at right, gray steam and winter light. Hermione in long burgundy wool coat with cream scarf and full school clothes underneath, white platinum sapphire at front if visible. Pansy elegant charcoal wool coat and forest-green scarf with black gloves, distinct green eyes and flat black chin-length bob. Robin human small baby brown curls green eyes, navy cardigan beige trousers cream socks, wrapped loosely and securely in cream winter blanket outside. Exactly three dark leather trunks when visible, TWO large with small silver crests and ONE small for Robin. Jane Granger is a distinct middle-aged woman, shoulder length brown hair with subtle gray at temples, warm brown eyes and friendly adult face, camel wool coat and sage scarf. Malcolm is a middle-aged man, dark brown hair with light gray at temples, rectangular dark-rimmed glasses, brown eyes, charcoal overcoat and navy plaid scarf. Warm restrained fatherly expression. Both keep these appearances and clothes. No Ginny, Harry, Molly or Ron yet. Only Hermione, Pansy, Robin and both Grangers in close panels.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 07» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide station brick wall, Jane with warm brown hair graying at temples and sage scarf stands beside Malcolm with rectangular dark glasses, charcoal coat and navy plaid scarf. Both adults smile at approaching family. Caption verbatim «Jane y Malcolm esperaban junto al muro de ladrillo.»\nPanel 2. Malcolm glances briefly from the girls' clasped hands to Pansy, wary but courteous. Jane smiles with open warmth, eyes toward Hermione. No other people near their faces. Caption verbatim «Pansy reconoció al instante la mirada protectora de Malcolm.»\nPanel 3. Hermione approaches with one Robin held safely high against her chest, burgundy coat and cream scarf. Pansy walks a step behind in charcoal. Balloon from Hermione. Print verbatim «¡Mamá! ¡Papá!»\nPanel 4. Jane hugs Hermione gently from one side, leaving plenty of room for securely supported Robin in Hermione’s arms. Adult Jane camel coat and sage scarf. Pansy and Malcolm stand clear. Balloon from Jane. Print verbatim «¡Qué alegría tenerte en casa!»\nPanel 5. Jane leans back to admire Robin, offers one finger he lightly holds, tiny human fingers and green eyes. Hermione keeps supporting him. Balloon from Jane. Print verbatim «Es precioso. Mira esos ojos, Malcolm.»\nPanel 6. Hermione hugs Malcolm with one arm, Robin safe in her other arm. Jane smiles nearby. Pansy waits poised with both black gloves relaxed. Caption verbatim «Solo quedaba la presentación que Pansy llevaba horas ensayando.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p003.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a9e88c97-9791-4773-99db-a7bb6c3a2a60.png"
+          ],
+          "generatedMaster": "exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "image": "paginas/c12-p008.webp",
+      "sourcePdfPages": [
+        401,
+        402
+      ],
+      "summary": "Pansy intenta un saludo formal. Jane la abraza y Robin acaba por conquistar a los Granger.",
+      "panels": [
+        {
+          "scene": "Pansy faces Jane and Malcolm at friendly distance on station platform, black gloves and charcoal coat with green scarf, chin up, polished formal expression. Hermione holds Robin near Jane.",
+          "dialogue": [
+            "Pansy: Señora Granger, señor Granger. Es un placer conocerlos."
+          ]
+        },
+        {
+          "scene": "Jane in camel coat and sage scarf gives Pansy a brief side hug, both people upright, Pansy surprised but smiling. Hermione safely holds Robin separately nearby.",
+          "dialogue": [
+            "Jane: Teníamos muchas ganas de conocerte, cariño."
+          ]
+        },
+        {
+          "scene": "Malcolm offers his hand to Pansy with a small reserved smile. Exact two hands in handshake. Adult rectangular glasses distinct from any student.",
+          "dialogue": [
+            "Malcolm: Hermione también nos habla mucho de sus estudios."
+          ]
+        },
+        {
+          "scene": "Pansy smiles politely at him. Hermione gives her father a knowing glance, one Robin in her arms.",
+          "dialogue": [
+            "Pansy: No sería tan insensata como para competir con ellos."
+          ]
+        },
+        {
+          "scene": "Clearly shown handoff. Hermione gently transfers one baby Robin to Jane, both with natural supporting arms, Robin in navy and cream. Pansy and Malcolm hands down, no duplicate infant.",
+          "dialogue": [
+            "Jane: Ven aquí, pequeño."
+          ]
+        },
+        {
+          "scene": "Close Jane supports Robin against camel coat; he reaches one tiny finger to her sage scarf and smiles. Malcolm's expression softens at right. Pansy notices from beside Hermione.",
+          "caption": "Robin ya se había ganado a los Granger."
+        }
+      ],
+      "transcript": "Capítulo 12 · 08\n\nPansy intenta un saludo formal. Jane la abraza y Robin acaba por conquistar a los Granger.\nPansy: Señora Granger, señor Granger. Es un placer conocerlos.\nJane: Teníamos muchas ganas de conocerte, cariño.\nMalcolm: Hermione también nos habla mucho de sus estudios.\nPansy: No sería tan insensata como para competir con ellos.\nJane: Ven aquí, pequeño.\nNarración: Robin ya se había ganado a los Granger.",
+      "actualPanelCount": 6,
+      "review": "Jane y Malcolm mantienen los diseños del andén. El traspaso de Robin de Hermione a Jane se ve de forma explícita y con apoyo en brazos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p008.png",
+      "sha256": "8acca5d90ed7a44780eeeb91a23cefcd322e28b5ef5f214e80ecb6ba7e661d6c",
+      "masterSha256": "17377dcc53a401c0bff07a13291af412b6215071f63111e8aeb628783cc581dd",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Jane and Malcolm’s exact mature faces and wool coats, December platform and luggage, and the exact current coats, hairstyles and Robin cardigan from the immediately preceding page.\nDecember King’s Cross platform with iron-and-glass arched roof, brick wall and red Hogwarts Express at right, gray steam and winter light. Hermione in long burgundy wool coat with cream scarf and full school clothes underneath, white platinum sapphire at front if visible. Pansy elegant charcoal wool coat and forest-green scarf with black gloves, distinct green eyes and flat black chin-length bob. Robin human small baby brown curls green eyes, navy cardigan beige trousers cream socks, wrapped loosely and securely in cream winter blanket outside. Exactly three dark leather trunks when visible, TWO large with small silver crests and ONE small for Robin. Jane Granger is a distinct middle-aged woman, shoulder length brown hair with subtle gray at temples, warm brown eyes and friendly adult face, camel wool coat and sage scarf. Malcolm is a middle-aged man, dark brown hair with light gray at temples, rectangular dark-rimmed glasses, brown eyes, charcoal overcoat and navy plaid scarf. Warm restrained fatherly expression. Both keep these appearances and clothes. No Ginny, Harry, Molly or Ron yet. Jane holds Robin only after the visible handoff in panel 5. Keep one Robin.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 08» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Pansy faces Jane and Malcolm at friendly distance on station platform, black gloves and charcoal coat with green scarf, chin up, polished formal expression. Hermione holds Robin near Jane. Balloon from Pansy. Print verbatim «Señora Granger, señor Granger. Es un placer conocerlos.»\nPanel 2. Jane in camel coat and sage scarf gives Pansy a brief side hug, both people upright, Pansy surprised but smiling. Hermione safely holds Robin separately nearby. Balloon from Jane. Print verbatim «Teníamos muchas ganas de conocerte, cariño.»\nPanel 3. Malcolm offers his hand to Pansy with a small reserved smile. Exact two hands in handshake. Adult rectangular glasses distinct from any student. Balloon from Malcolm. Print verbatim «Hermione también nos habla mucho de sus estudios.»\nPanel 4. Pansy smiles politely at him. Hermione gives her father a knowing glance, one Robin in her arms. Balloon from Pansy. Print verbatim «No sería tan insensata como para competir con ellos.»\nPanel 5. Clearly shown handoff. Hermione gently transfers one baby Robin to Jane, both with natural supporting arms, Robin in navy and cream. Pansy and Malcolm hands down, no duplicate infant. Balloon from Jane. Print verbatim «Ven aquí, pequeño.»\nPanel 6. Close Jane supports Robin against camel coat; he reaches one tiny finger to her sage scarf and smiles. Malcolm's expression softens at right. Pansy notices from beside Hermione. Caption verbatim «Robin ya se había ganado a los Granger.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png"
+          ],
+          "generatedMaster": "exec-91e05dd3-35c6-4812-8a59-44489038b748.png"
+        }
+      ]
+    }
+  ]
+}
