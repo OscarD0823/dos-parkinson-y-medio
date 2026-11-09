@@ -1,0 +1,648 @@
+{
+  "chapter": 11,
+  "title": "Anatomía de un Rumor",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    9,
+    16
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 9,
+      "image": "paginas/c11-p009.webp",
+      "sourcePdfPages": [
+        319,
+        320,
+        321
+      ],
+      "summary": "Katie y Diane bloquean el pasillo. Hermione se pone seria cuando Diane sujeta a Pansy.",
+      "panels": [
+        {
+          "scene": "Wide shot outside the oak door. Pansy and Hermione beside their sand stroller in left foreground, both fully dressed. Katie and Diane block the aisle from the right, their one wicker bassinet behind them.",
+          "caption": "Las dos Hufflepuff les cerraban el paso."
+        },
+        {
+          "scene": "Close on Robin and Phoenix looking at each other from their two distinct strollers, small matching scowls as comedy. Navy Robin with green eyes and brown curls, pale yellow Phoenix with light hair and amber eyes.",
+          "caption": "Hasta los pequeños parecían haber tomado partido."
+        },
+        {
+          "scene": "Hermione looks politely unimpressed at the two rivals. Pansy beside her looks surprised and pleased. Both faces clear, robes and sapphire stable.",
+          "dialogue": [
+            "Hermione: Si esperaban otra lección, hoy no damos clases."
+          ]
+        },
+        {
+          "scene": "Diane, long light blonde waves, gray eyes and yellow-black uniform, attempts a practiced placating smile. Katie's chestnut high bun visible behind her.",
+          "dialogue": [
+            "Diane: Empezamos con el pie izquierdo."
+          ]
+        },
+        {
+          "scene": "Pansy takes the stroller handle and prepares to walk past. Hermione stays at her side. Two distinct children safely in separate strollers, no invented crowd.",
+          "dialogue": [
+            "Pansy: Muevan su canasta. Nos estorban."
+          ]
+        },
+        {
+          "scene": "Diane reaches out and briefly grasps Pansy by the upper uniform sleeve. Pansy looks down, pulls her own arm back and steps away. Clear natural hands and cuffs. No striking, only resistance.",
+          "caption": "Diane la detuvo por el brazo."
+        },
+        {
+          "scene": "Tense shoulder-up reverse angle. Hermione steps up beside Pansy and meets Diane's eyes firmly. Katie moves beside Diane. Everyone uninjured.",
+          "dialogue": [
+            "Hermione: No la toques."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 09\n\nKatie y Diane bloquean el pasillo. Hermione se pone seria cuando Diane sujeta a Pansy.\nNarración: Las dos Hufflepuff les cerraban el paso.\nNarración: Hasta los pequeños parecían haber tomado partido.\nHermione: Si esperaban otra lección, hoy no damos clases.\nDiane: Empezamos con el pie izquierdo.\nPansy: Muevan su canasta. Nos estorban.\nNarración: Diane la detuvo por el brazo.\nHermione: No la toques.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas y texto íntegros. Diane sujeta la manga de Pansy. Robin y Phoenix se distinguen por rostro, ropa y cochecito.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p009.png",
+      "sha256": "d83507a5c7a59a1474f450bfc58557faa39b0e13a74f8ab9bd6eeb5340968cfa",
+      "masterSha256": "6cd2e9f7515b2647cec7859074a4c3e3a3b434eee6446b87e7613404b12efcc7",
+      "ocrMissingCandidates": [
+        "hufflepuff",
+        "cerraban",
+        "hasta",
+        "pequenos",
+        "parecian",
+        "haber",
+        "tomado",
+        "partido",
+        "esperaban",
+        "leccion",
+        "damos",
+        "clases",
+        "empezamos",
+        "izquierdo",
+        "muevan",
+        "canasta",
+        "estorban",
+        "diane",
+        "detuvo",
+        "brazo",
+        "toques"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for sixth floor stonework, oak door, Zephyr and Robin's navy outfit only. Image 4 is reference for the four students' outfits and individual faces, Phoenix's human appearance only.\nThe same sixth-floor medieval stone corridor outside Elsie’s workshop. Warm narrow oak doorway on left, stone piers and iron wall torches, long cool flagstone aisle. Hermione red-gold school uniform and white platinum sapphire. Pansy green-silver school uniform. Katie yellow-black uniform, chestnut high bun, brown eyes. Diane yellow-black, long pale blonde waves, gray eyes. Both students wear opaque black trousers under their robes throughout the magical duel. Keep the girls' own faces and silhouettes. A single sand stroller Zephyr with Robin brown curls, green eyes, navy cardigan and beige trousers stays behind Hermione and Pansy. A separate low floating wicker bassinet with blonde amber-eyed Phoenix in pale yellow and yellow bow stays behind Katie and Diane. Both are human babies and sit safely clear of spells. Whimsical non-graphic magical school duel, show magic as colorful light, no blood or injuries. No spectators before page 12 final panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 09» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide shot outside the oak door. Pansy and Hermione beside their sand stroller in left foreground, both fully dressed. Katie and Diane block the aisle from the right, their one wicker bassinet behind them. Caption verbatim «Las dos Hufflepuff les cerraban el paso.»\nPanel 2. Close on Robin and Phoenix looking at each other from their two distinct strollers, small matching scowls as comedy. Navy Robin with green eyes and brown curls, pale yellow Phoenix with light hair and amber eyes. Caption verbatim «Hasta los pequeños parecían haber tomado partido.»\nPanel 3. Hermione looks politely unimpressed at the two rivals. Pansy beside her looks surprised and pleased. Both faces clear, robes and sapphire stable. Balloon from Hermione. Print verbatim «Si esperaban otra lección, hoy no damos clases.»\nPanel 4. Diane, long light blonde waves, gray eyes and yellow-black uniform, attempts a practiced placating smile. Katie's chestnut high bun visible behind her. Balloon from Diane. Print verbatim «Empezamos con el pie izquierdo.»\nPanel 5. Pansy takes the stroller handle and prepares to walk past. Hermione stays at her side. Two distinct children safely in separate strollers, no invented crowd. Balloon from Pansy. Print verbatim «Muevan su canasta. Nos estorban.»\nPanel 6. Diane reaches out and briefly grasps Pansy by the upper uniform sleeve. Pansy looks down, pulls her own arm back and steps away. Clear natural hands and cuffs. No striking, only resistance. Caption verbatim «Diane la detuvo por el brazo.»\nPanel 7. Tense shoulder-up reverse angle. Hermione steps up beside Pansy and meets Diane's eyes firmly. Katie moves beside Diane. Everyone uninjured. Balloon from Hermione. Print verbatim «No la toques.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-9a7d4c74-fbd4-4c3c-a5f7-b42f13ef13a0.png"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "image": "paginas/c11-p010.webp",
+      "sourcePdfPages": [
+        322,
+        323
+      ],
+      "summary": "La discusión escala. Hermione lanza el primer hechizo y protege el cochecito de Robin.",
+      "panels": [
+        {
+          "scene": "Katie high chestnut bun raises two open hands in a false conciliatory gesture, Diane beside her. Same cool stone corridor and door.",
+          "dialogue": [
+            "Katie: Dejen esta competencia. Podemos llevar la fiesta en paz."
+          ]
+        },
+        {
+          "scene": "Pansy smiles wryly, head angled, green eyes, slim black bob. Hermione stands behind her, hands relaxed.",
+          "dialogue": [
+            "Pansy: Nosotras no competimos. Nosotras sobresalimos."
+          ]
+        },
+        {
+          "scene": "Katie's placating smile falls. She points one finger at both girls, feet firmly on flagstone. Diane glances approvingly.",
+          "dialogue": [
+            "Katie: Esa pareja perfecta es una farsa para los periódicos."
+          ]
+        },
+        {
+          "scene": "Close on Hermione's angry brown eyes and one hand reaching for her slender wand under her robe. Diane draws her own wand across from her. Space between them.",
+          "caption": "Hermione desenfundó la varita."
+        },
+        {
+          "scene": "Wide side view, Hermione's small vivid lilac streak strikes a clean circular blue shield in front of Diane. Diane stays upright and slides one step back. Magic affects only shield, not people. Both strollers behind their families.",
+          "dialogue": [
+            "Diane: ¡Protego!"
+          ]
+        },
+        {
+          "scene": "Hermione turns her wand gently toward Robin’s sand stroller and surrounds the whole stroller with a clear GOLD protective sphere, Robin safe and calm inside. All rays point away.",
+          "dialogue": [
+            "Hermione: ¡Protego Máxima!"
+          ]
+        },
+        {
+          "scene": "Pansy draws the protected stroller a short distance behind the pair with her wand and positions herself next to Hermione. Across corridor Katie stands between her bassinet and the others. Focus on four separate silhouettes.",
+          "caption": "Pansy puso a Robin a resguardo y tomó su posición."
+        }
+      ],
+      "transcript": "Capítulo 11 · 10\n\nLa discusión escala. Hermione lanza el primer hechizo y protege el cochecito de Robin.\nKatie: Dejen esta competencia. Podemos llevar la fiesta en paz.\nPansy: Nosotras no competimos. Nosotras sobresalimos.\nKatie: Esa pareja perfecta es una farsa para los periódicos.\nNarración: Hermione desenfundó la varita.\nDiane: ¡Protego!\nHermione: ¡Protego Máxima!\nNarración: Pansy puso a Robin a resguardo y tomó su posición.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas. Se lee el reto y el inicio del duelo. Los dos escudos corresponden a Diane y al cochecito de Robin, respectivamente.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p010.png",
+      "sha256": "dae34c811e3a2ed00e1ba891dc18dc41e3b2ab66e445f67716e4d9f83fd1d749",
+      "masterSha256": "1e34efa6cc4ad7b0e5f77773577bcc8086ad00d4a53948518c72c5825eb48b12",
+      "ocrMissingCandidates": [
+        "protego",
+        "pansy",
+        "robin",
+        "resguardo",
+        "posicion"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for sixth floor stonework, oak door, Zephyr and Robin's navy outfit only. Image 4 is reference for the four students' outfits and individual faces, Phoenix's human appearance only.\nThe same sixth-floor medieval stone corridor outside Elsie’s workshop. Warm narrow oak doorway on left, stone piers and iron wall torches, long cool flagstone aisle. Hermione red-gold school uniform and white platinum sapphire. Pansy green-silver school uniform. Katie yellow-black uniform, chestnut high bun, brown eyes. Diane yellow-black, long pale blonde waves, gray eyes. Both students wear opaque black trousers under their robes throughout the magical duel. Keep the girls' own faces and silhouettes. A single sand stroller Zephyr with Robin brown curls, green eyes, navy cardigan and beige trousers stays behind Hermione and Pansy. A separate low floating wicker bassinet with blonde amber-eyed Phoenix in pale yellow and yellow bow stays behind Katie and Diane. Both are human babies and sit safely clear of spells. Whimsical non-graphic magical school duel, show magic as colorful light, no blood or injuries. No spectators before page 12 final panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 10» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Katie high chestnut bun raises two open hands in a false conciliatory gesture, Diane beside her. Same cool stone corridor and door. Balloon from Katie. Print verbatim «Dejen esta competencia. Podemos llevar la fiesta en paz.»\nPanel 2. Pansy smiles wryly, head angled, green eyes, slim black bob. Hermione stands behind her, hands relaxed. Balloon from Pansy. Print verbatim «Nosotras no competimos. Nosotras sobresalimos.»\nPanel 3. Katie's placating smile falls. She points one finger at both girls, feet firmly on flagstone. Diane glances approvingly. Balloon from Katie. Print verbatim «Esa pareja perfecta es una farsa para los periódicos.»\nPanel 4. Close on Hermione's angry brown eyes and one hand reaching for her slender wand under her robe. Diane draws her own wand across from her. Space between them. Caption verbatim «Hermione desenfundó la varita.»\nPanel 5. Wide side view, Hermione's small vivid lilac streak strikes a clean circular blue shield in front of Diane. Diane stays upright and slides one step back. Magic affects only shield, not people. Both strollers behind their families. Balloon from Diane. Print verbatim «¡Protego!»\nPanel 6. Hermione turns her wand gently toward Robin’s sand stroller and surrounds the whole stroller with a clear GOLD protective sphere, Robin safe and calm inside. All rays point away. Balloon from Hermione. Print verbatim «¡Protego Máxima!»\nPanel 7. Pansy draws the protected stroller a short distance behind the pair with her wand and positions herself next to Hermione. Across corridor Katie stands between her bassinet and the others. Focus on four separate silhouettes. Caption verbatim «Pansy puso a Robin a resguardo y tomó su posición.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-5cbc255c-8646-4cfb-9ba4-30e85218e56b.png"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "image": "paginas/c11-p011.webp",
+      "sourcePdfPages": [
+        323
+      ],
+      "summary": "Diane congela el suelo. Hermione responde con viento mientras Pansy intercepta a Katie.",
+      "panels": [
+        {
+          "scene": "Diane flicks her wand downward. A thin clear blue glaze spreads ONLY across empty flagstones in front of Hermione and Pansy. Their protected stroller remains well behind.",
+          "dialogue": [
+            "Diane: ¡Glisseo!"
+          ]
+        },
+        {
+          "scene": "Hermione crouches safely on one knee, turns her wand down the open aisle. Wind ribbons billow robes and blow out two torches; a spell streak passes overhead. No one struck.",
+          "dialogue": [
+            "Hermione: ¡Ventus Duo!"
+          ]
+        },
+        {
+          "scene": "Katie stands firmly between wind and her own wicker bassinet, with an amber shield over Phoenix. Diane steps sideways, hair flying. Both infants safe at opposite ends.",
+          "caption": "Katie protegió la canasta de Phoenix."
+        },
+        {
+          "scene": "Hermione rises, clear floor behind her after melting ice, determined expression and chestnut curls. Pansy visible behind her in green uniform. Hermione points her wand at Katie’s shield from a distance.",
+          "dialogue": [
+            "Hermione: ¡No conocen a Pansy! Ella es auténtica."
+          ]
+        },
+        {
+          "scene": "Diane's purple Expulso streak is deflected into a stone pier. A few large stone fragments fall into a clear space on floor away from people. Dim hall with torch smoke. No injury or body impact.",
+          "printed": [
+            "¡CRAC!"
+          ]
+        },
+        {
+          "scene": "From behind Katie, she raises wand toward Hermione’s back while Hermione faces Diane. Pansy notices from the other side. Four distinct readable silhouettes.",
+          "caption": "Pansy vio el ataque antes que Hermione."
+        },
+        {
+          "scene": "Pansy sweeps wand in a short amber arc toward Katie. Katie’s boots lift a few inches as her ankle levitates, full black trousers and uniform. Pansy’s green eyes, stance and hands clear.",
+          "dialogue": [
+            "Pansy: ¡Levicorpus!"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 11\n\nDiane congela el suelo. Hermione responde con viento mientras Pansy intercepta a Katie.\nDiane: ¡Glisseo!\nHermione: ¡Ventus Duo!\nNarración: Katie protegió la canasta de Phoenix.\nHermione: ¡No conocen a Pansy! Ella es auténtica.\n¡CRAC!\nNarración: Pansy vio el ataque antes que Hermione.\nPansy: ¡Levicorpus!",
+      "actualPanelCount": 7,
+      "review": "La edición recupera el borde dorado de protección de Robin en las tres viñetas donde se ve el cochecito. Siete viñetas y letras completas.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p011.png",
+      "sha256": "6344d155be9033507c4b52011dc0e9419c957d50bc84d093b3190bd025a5d9cf",
+      "masterSha256": "e571c8f29b2251f35e6372ea9b7b71cb23b5771bcc2a86f3a2d1f608b103a1df",
+      "ocrMissingCandidates": [
+        "glisseo",
+        "ventus",
+        "ataque",
+        "antes",
+        "hermione",
+        "levicorpus"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for sixth floor stonework, oak door, Zephyr and Robin's navy outfit only. Image 4 is reference for the four students' outfits and individual faces, Phoenix's human appearance only.\nThe same sixth-floor medieval stone corridor outside Elsie’s workshop. Warm narrow oak doorway on left, stone piers and iron wall torches, long cool flagstone aisle. Hermione red-gold school uniform and white platinum sapphire. Pansy green-silver school uniform. Katie yellow-black uniform, chestnut high bun, brown eyes. Diane yellow-black, long pale blonde waves, gray eyes. Both students wear opaque black trousers under their robes throughout the magical duel. Keep the girls' own faces and silhouettes. A single sand stroller Zephyr with Robin brown curls, green eyes, navy cardigan and beige trousers stays behind Hermione and Pansy. A separate low floating wicker bassinet with blonde amber-eyed Phoenix in pale yellow and yellow bow stays behind Katie and Diane. Both are human babies and sit safely clear of spells. Whimsical non-graphic magical school duel, show magic as colorful light, no blood or injuries. No spectators before page 12 final panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 11» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Diane flicks her wand downward. A thin clear blue glaze spreads ONLY across empty flagstones in front of Hermione and Pansy. Their protected stroller remains well behind. Balloon from Diane. Print verbatim «¡Glisseo!»\nPanel 2. Hermione crouches safely on one knee, turns her wand down the open aisle. Wind ribbons billow robes and blow out two torches; a spell streak passes overhead. No one struck. Balloon from Hermione. Print verbatim «¡Ventus Duo!»\nPanel 3. Katie stands firmly between wind and her own wicker bassinet, with an amber shield over Phoenix. Diane steps sideways, hair flying. Both infants safe at opposite ends. Caption verbatim «Katie protegió la canasta de Phoenix.»\nPanel 4. Hermione rises, clear floor behind her after melting ice, determined expression and chestnut curls. Pansy visible behind her in green uniform. Hermione points her wand at Katie’s shield from a distance. Balloon from Hermione. Print verbatim «¡No conocen a Pansy! Ella es auténtica.»\nPanel 5. Diane's purple Expulso streak is deflected into a stone pier. A few large stone fragments fall into a clear space on floor away from people. Dim hall with torch smoke. No injury or body impact. Prop text verbatim «¡CRAC!»\nPanel 6. From behind Katie, she raises wand toward Hermione’s back while Hermione faces Diane. Pansy notices from the other side. Four distinct readable silhouettes. Caption verbatim «Pansy vio el ataque antes que Hermione.»\nPanel 7. Pansy sweeps wand in a short amber arc toward Katie. Katie’s boots lift a few inches as her ankle levitates, full black trousers and uniform. Pansy’s green eyes, stance and hands clear. Balloon from Pansy. Print verbatim «¡Levicorpus!»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-6e932028-1c37-4e1d-8607-3299181cab49.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Image 1 is the complete edit target. In this entire existing 1024 by 1536 Spanish comic page, preserve exactly all seven panels, header and exact existing Spanish lettering, characters, faces, robes, expressions, anatomy, spells, aisle, position and size of both infants and their strollers. Only add the existing protective magic from the preceding page to Robin's sand stroller when visible in panel 1, panel 2 and the bottom panel. A thin transparent GOLD curved arc and a few tiny gold sparkles surrounding the stroller and infant, matching the established translucent safety bubble. Do not touch Katie's bright ankle spell or Phoenix's basket. No new people, no text additions, no other redraw or crop.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6e932028-1c37-4e1d-8607-3299181cab49.png"
+          ],
+          "generatedMaster": "exec-3aad7c87-96ec-4c9f-bc20-db4c41ebb5d6.png"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "image": "paginas/c11-p012.webp",
+      "sourcePdfPages": [
+        324,
+        325
+      ],
+      "summary": "Los hechizos llenan el corredor. El león de Hermione atrae a los primeros testigos.",
+      "panels": [
+        {
+          "scene": "Katie suspended head down by one boot, safely covered by opaque long black trousers and long yellow-trim uniform jacket. Comical surprised face, chestnut high bun, wand pointed away from stroller.",
+          "caption": "Katie quedó suspendida por el tobillo."
+        },
+        {
+          "scene": "Hermione deflects a small gray puff with an air shield and casts a flock of luminous magical birds across the empty aisle toward Diane’s shield. Birds never bite or touch a person. Same light and stone.",
+          "dialogue": [
+            "Hermione: ¡Avis!"
+          ]
+        },
+        {
+          "scene": "From Katie’s wand a blue jet splashes across Pansy’s green sleeve and spills into a puddle. Pansy steps back and braces a hand on stone. No violence injuries. Keep wet black bob from here onward.",
+          "dialogue": [
+            "Katie: ¡Aqua Eructo!"
+          ]
+        },
+        {
+          "scene": "Pansy kneels on damp stone, makes a wand movement with right hand, visibly wet black chin bob and clothes. Loops of golden magic restrain levitating Katie's wand arm without injury. Hermione across aisle.",
+          "dialogue": [
+            "Pansy: ¡Depulso! ¡Incarcerous!"
+          ]
+        },
+        {
+          "scene": "Diane points a wand at Hermione, a thin green streak parried safely upward. Hermione turns her wrist, bright gold magic building at her wand.",
+          "dialogue": [
+            "Diane: ¡Densaugeo!"
+          ]
+        },
+        {
+          "scene": "Heroic wide view. A huge translucent gold lion of light bursts from Hermione’s wand and stops at Diane’s clear shield, both luminous. Nobody is bitten or harmed. Both babies still safe behind their separate clear shields.",
+          "caption": "Un león de luz iluminó el corredor."
+        },
+        {
+          "scene": "Several Ravenclaw students in blue-bronze uniforms stop in the distance at the corner, watching from well away. Wet Pansy and Hermione face the rivals. Katie still floating near far wall. Clear damaged stone pier in the background.",
+          "caption": "El estruendo atrajo a los primeros testigos."
+        }
+      ],
+      "transcript": "Capítulo 11 · 12\n\nLos hechizos llenan el corredor. El león de Hermione atrae a los primeros testigos.\nNarración: Katie quedó suspendida por el tobillo.\nHermione: ¡Avis!\nKatie: ¡Aqua Eructo!\nPansy: ¡Depulso! ¡Incarcerous!\nDiane: ¡Densaugeo!\nNarración: Un león de luz iluminó el corredor.\nNarración: El estruendo atrajo a los primeros testigos.",
+      "actualPanelCount": 7,
+      "review": "Se elimina la Katie duplicada del segundo cuadro y se mantiene suspendida durante Aqua Eructo. El resto de poses, textos, león y testigos se conservan.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p012.png",
+      "sha256": "a322fc7b602283dacf76b33db881089e2b85de8e9d224fdee1dab655be7b5bdc",
+      "masterSha256": "f180157f25cfa751b522f0fada30b396a0f5601fb4a8d37560ecba81adc77c82",
+      "ocrMissingCandidates": [
+        "katie",
+        "quedo",
+        "suspendida",
+        "tobillo",
+        "eructo",
+        "depulso",
+        "incarcerous",
+        "densaugeo"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for sixth floor stonework, oak door, Zephyr and Robin's navy outfit only. Image 4 is reference for the four students' outfits and individual faces, Phoenix's human appearance only.\nThe same sixth-floor medieval stone corridor outside Elsie’s workshop. Warm narrow oak doorway on left, stone piers and iron wall torches, long cool flagstone aisle. Hermione red-gold school uniform and white platinum sapphire. Pansy green-silver school uniform. Katie yellow-black uniform, chestnut high bun, brown eyes. Diane yellow-black, long pale blonde waves, gray eyes. Both students wear opaque black trousers under their robes throughout the magical duel. Keep the girls' own faces and silhouettes. A single sand stroller Zephyr with Robin brown curls, green eyes, navy cardigan and beige trousers stays behind Hermione and Pansy. A separate low floating wicker bassinet with blonde amber-eyed Phoenix in pale yellow and yellow bow stays behind Katie and Diane. Both are human babies and sit safely clear of spells. Whimsical non-graphic magical school duel, show magic as colorful light, no blood or injuries. No spectators before page 12 final panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 12» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Katie suspended head down by one boot, safely covered by opaque long black trousers and long yellow-trim uniform jacket. Comical surprised face, chestnut high bun, wand pointed away from stroller. Caption verbatim «Katie quedó suspendida por el tobillo.»\nPanel 2. Hermione deflects a small gray puff with an air shield and casts a flock of luminous magical birds across the empty aisle toward Diane’s shield. Birds never bite or touch a person. Same light and stone. Balloon from Hermione. Print verbatim «¡Avis!»\nPanel 3. From Katie’s wand a blue jet splashes across Pansy’s green sleeve and spills into a puddle. Pansy steps back and braces a hand on stone. No violence injuries. Keep wet black bob from here onward. Balloon from Katie. Print verbatim «¡Aqua Eructo!»\nPanel 4. Pansy kneels on damp stone, makes a wand movement with right hand, visibly wet black chin bob and clothes. Loops of golden magic restrain levitating Katie's wand arm without injury. Hermione across aisle. Balloon from Pansy. Print verbatim «¡Depulso! ¡Incarcerous!»\nPanel 5. Diane points a wand at Hermione, a thin green streak parried safely upward. Hermione turns her wrist, bright gold magic building at her wand. Balloon from Diane. Print verbatim «¡Densaugeo!»\nPanel 6. Heroic wide view. A huge translucent gold lion of light bursts from Hermione’s wand and stops at Diane’s clear shield, both luminous. Nobody is bitten or harmed. Both babies still safe behind their separate clear shields. Caption verbatim «Un león de luz iluminó el corredor.»\nPanel 7. Several Ravenclaw students in blue-bronze uniforms stop in the distance at the corner, watching from well away. Wet Pansy and Hermione face the rivals. Katie still floating near far wall. Clear damaged stone pier in the background. Caption verbatim «El estruendo atrajo a los primeros testigos.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-4087af11-cf9d-4754-adf4-8dc837136fbe.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Image 1 is the complete edit target. Only fix Katie's pose continuity in TWO panels of this full Spanish 1024 by 1536 comic. She remains suspended head down by the same golden ankle spell until the next page. In panel 2 (top-right, «¡Avis!»), remove only the extra upright chestnut high-bun Katie at the far right edge behind blond Diane. Keep Diane, her shield and Phoenix. Katie is above this frame. In panel 3 (second-row left, «¡Aqua Eructo!»), show Katie at the top-left suspended HEAD DOWN from one golden ankle loop, with her high chestnut bun hanging down and her complete black trousers and yellow-trim uniform. Her wand still sends the existing blue water stream toward wet Pansy. Keep all other poses and people exactly as in Image 1. Preserve all seven panels, the small header, all the exact Spanish lettering/accents/balloons, two human babies, strollers and shields, gold lion, detailed environment and original dimensions. No additional figures, dialogue, cropping or rearrangement. The upside-down Katie in the other panels is correct and stays exactly as is.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4087af11-cf9d-4754-adf4-8dc837136fbe.png"
+          ],
+          "generatedMaster": "exec-786232fb-4e5d-4494-9a93-0a4b8459f23e.png"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "image": "paginas/c11-p013.webp",
+      "sourcePdfPages": [
+        325,
+        326
+      ],
+      "summary": "Diane libera a Katie. Pansy aparta a Hermione de un hechizo y llena el corredor de humo.",
+      "panels": [
+        {
+          "scene": "Diane, on one knee, casts upwards. Golden restraining loops break around Katie, who is lowered gently from the ankle spell. Katie wears long black trousers, no injury. Ravenclaws watch far away.",
+          "dialogue": [
+            "Diane: ¡Relashio!"
+          ]
+        },
+        {
+          "scene": "Diane rises and sends a narrow violet streak toward open air near Hermione’s back. Pansy in wet green uniform sees it and reaches toward Hermione’s shoulder.",
+          "caption": "Pansy vio el destello."
+        },
+        {
+          "scene": "Side view, Pansy moves Hermione sideways with both hands on her shoulders, out of the light streak's path. The magical ribbon curls around Pansy’s black boot. No painful contact.",
+          "dialogue": [
+            "Hermione: ¡Pansy!"
+          ]
+        },
+        {
+          "scene": "Pansy levitates briefly from the right boot, fully covered in black trousers and long green-trimmed jacket. Her wand hand makes a small counterspell arc. Comedic surprise, no injury.",
+          "dialogue": [
+            "Pansy: ¡Liberacorpus!"
+          ]
+        },
+        {
+          "scene": "Pansy on one knee after landing safely, wet black bob and green uniform, extends wand into the empty aisle. A dense dark-blue magical smoke cloud starts at her wand tip and spreads across stones.",
+          "dialogue": [
+            "Pansy: ¡Fumos Duo!"
+          ]
+        },
+        {
+          "scene": "Smoky wide frame, Hermione low on one knee behind clear shield, both strollers protected far back. Two dim wand sparks in distance. The rest of the group mostly silhouettes.",
+          "caption": "El humo se tragó el pasillo."
+        }
+      ],
+      "transcript": "Capítulo 11 · 13\n\nDiane libera a Katie. Pansy aparta a Hermione de un hechizo y llena el corredor de humo.\nDiane: ¡Relashio!\nNarración: Pansy vio el destello.\nHermione: ¡Pansy!\nPansy: ¡Liberacorpus!\nPansy: ¡Fumos Duo!\nNarración: El humo se tragó el pasillo.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas y hechizos legibles. Pansy conserva el pelo mojado. Los dos bebés quedan detrás de protecciones independientes.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p013.png",
+      "sha256": "107042fed8fb73c3fb8c1a535fcbd487683231b803f993a927caf5d44ad313b1",
+      "masterSha256": "a993f7e1f709ce1769b9b8d1b4ec29d013ee03b0b3095105b21964f7177f3032",
+      "ocrMissingCandidates": [
+        "relashio",
+        "pansy",
+        "destello",
+        "liberacorpus",
+        "fumos",
+        "trago",
+        "pasillo"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the corridor, stone and Robin’s stroller. Image 4 is reference for the four distinct faces and uniforms only.\nSame sixth-floor corridor and oak workshop door, cool stones, damaged pier, extinguished iron wall torches, water puddles. Hermione red-gold and sapphire white platinum; Pansy green-silver with wet black chin bob and sleeves after water spell. Katie chestnut high bun, brown eyes, yellow-black. Diane long pale blonde waves, gray eyes, yellow-black. Complete opaque school uniforms and trousers under robes. Robin brown curls, green eyes, navy cardigan and beige trousers in one sand stroller under transparent golden protection. Phoenix pale blonde, amber eyes, yellow bow and pale yellow clothes in separate wicker bassinet under transparent yellow protection. Both human infants stay away from magic. Ravenclaw onlookers at distant corner only. Non-graphic magical effects, nobody visibly hurt.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 13» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Diane, on one knee, casts upwards. Golden restraining loops break around Katie, who is lowered gently from the ankle spell. Katie wears long black trousers, no injury. Ravenclaws watch far away. Balloon from Diane. Print verbatim «¡Relashio!»\nPanel 2. Diane rises and sends a narrow violet streak toward open air near Hermione’s back. Pansy in wet green uniform sees it and reaches toward Hermione’s shoulder. Caption verbatim «Pansy vio el destello.»\nPanel 3. Side view, Pansy moves Hermione sideways with both hands on her shoulders, out of the light streak's path. The magical ribbon curls around Pansy’s black boot. No painful contact. Balloon from Hermione. Print verbatim «¡Pansy!»\nPanel 4. Pansy levitates briefly from the right boot, fully covered in black trousers and long green-trimmed jacket. Her wand hand makes a small counterspell arc. Comedic surprise, no injury. Balloon from Pansy. Print verbatim «¡Liberacorpus!»\nPanel 5. Pansy on one knee after landing safely, wet black bob and green uniform, extends wand into the empty aisle. A dense dark-blue magical smoke cloud starts at her wand tip and spreads across stones. Balloon from Pansy. Print verbatim «¡Fumos Duo!»\nPanel 6. Smoky wide frame, Hermione low on one knee behind clear shield, both strollers protected far back. Two dim wand sparks in distance. The rest of the group mostly silhouettes. Caption verbatim «El humo se tragó el pasillo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-f4b8da23-a4b8-4631-bd02-efacfa14e057.png"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "image": "paginas/c11-p014.webp",
+      "sourcePdfPages": [
+        326,
+        327
+      ],
+      "summary": "Hermione despeja el humo y descubre que Katie ha transformado a Pansy en un Puffskein.",
+      "panels": [
+        {
+          "scene": "Dark blue smoke and distant wand flashes. Hermione kneels behind a narrow shield, wand near her own shoulder. Only Pansy’s voice from smoke, no figure visible.",
+          "dialogue": [
+            "Pansy, fuera de cuadro: ¿Granger? ¿Dónde estás?"
+          ]
+        },
+        {
+          "scene": "Wide angle. Hermione stands and sweeps her wand in a semicircle. Dark smoke streams away to both walls and reveals the wet flagstone floor, empty of spells near children.",
+          "caption": "Hermione devolvió la luz al corredor."
+        },
+        {
+          "scene": "A small red flare bursts on open stone beside Katie’s boots. Katie in yellow uniform drops to seated position, unharmed. Diane lowers her wand, exhausted.",
+          "caption": "El duelo se detuvo de golpe."
+        },
+        {
+          "scene": "Hermione turns to the right where she last saw Pansy. On the empty floor is a tiny charcoal fur ball with four small paws in the air. Across from it, Robin watches from inside his golden protected stroller.",
+          "caption": "Pansy había desaparecido."
+        },
+        {
+          "scene": "Hermione cups the small dark Puffskein in both hands with wand tucked away. Close ordinary hands and furious green eyes on fluffy pet. Behind her is the stroller and visibly human Robin, distinct.",
+          "dialogue": [
+            "Hermione: ¿Pansy?"
+          ]
+        },
+        {
+          "scene": "Diane looks at Katie on the floor. Katie has high bun and yellow trim, wand now lowered. Diane raises one eyebrow, annoyed.",
+          "dialogue": [
+            "Diane: ¿En serio, Katie? ¿Un Puffskein?"
+          ]
+        },
+        {
+          "scene": "Katie shrugs defensively, Diane stands beside her. Hermione holding fluffy little Pansy at edge of frame, brown eyes turning stern.",
+          "dialogue": [
+            "Katie: ¡Fue el único animal que se me ocurrió!"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 14\n\nHermione despeja el humo y descubre que Katie ha transformado a Pansy en un Puffskein.\nPansy, fuera de cuadro: ¿Granger? ¿Dónde estás?\nNarración: Hermione devolvió la luz al corredor.\nNarración: El duelo se detuvo de golpe.\nNarración: Pansy había desaparecido.\nHermione: ¿Pansy?\nDiane: ¿En serio, Katie? ¿Un Puffskein?\nKatie: ¡Fue el único animal que se me ocurrió!",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas. El Puffskein oscuro de ojos verdes se distingue de Robin humano y aparece después de disipar el humo. Diálogos y cartelas completos.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p014.png",
+      "sha256": "20b183a74918c5d850afcff530152bfc928d8a84b683316a6a6b4982eb4550c2",
+      "masterSha256": "db377235a2acf72f821f5cf623ccdaf0c895b47c1796e939a22ba1e89f4fc132",
+      "ocrMissingCandidates": [
+        "granger",
+        "donde",
+        "estas",
+        "hermione",
+        "devolvio",
+        "corredor",
+        "duelo",
+        "detuvo",
+        "golpe",
+        "habia",
+        "desaparecido",
+        "unico",
+        "animal",
+        "ocurrio"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the corridor and sand stroller only. Image 4 is reference for the three remaining students and two infant faces only.\nSame sixth-floor corridor and oak workshop door, cool stones, damaged pier, extinguished iron wall torches, water puddles. Hermione red-gold and sapphire white platinum; Pansy green-silver with wet black chin bob and sleeves after water spell. Katie chestnut high bun, brown eyes, yellow-black. Diane long pale blonde waves, gray eyes, yellow-black. Complete opaque school uniforms and trousers under robes. Robin brown curls, green eyes, navy cardigan and beige trousers in one sand stroller under transparent golden protection. Phoenix pale blonde, amber eyes, yellow bow and pale yellow clothes in separate wicker bassinet under transparent yellow protection. Both human infants stay away from magic. Ravenclaw onlookers at distant corner only. Non-graphic magical effects, nobody visibly hurt. Puffskein-Pansy is a magical charcoal-gray fur ball the size of a grapefruit with tiny paws and expressive green eyes. It is entirely separate from human Robin. Once smoke clears Pansy appears only as the small magical animal, no second human Pansy.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 14» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Dark blue smoke and distant wand flashes. Hermione kneels behind a narrow shield, wand near her own shoulder. Only Pansy’s voice from smoke, no figure visible. Balloon from Pansy, fuera de cuadro. Print verbatim «¿Granger? ¿Dónde estás?»\nPanel 2. Wide angle. Hermione stands and sweeps her wand in a semicircle. Dark smoke streams away to both walls and reveals the wet flagstone floor, empty of spells near children. Caption verbatim «Hermione devolvió la luz al corredor.»\nPanel 3. A small red flare bursts on open stone beside Katie’s boots. Katie in yellow uniform drops to seated position, unharmed. Diane lowers her wand, exhausted. Caption verbatim «El duelo se detuvo de golpe.»\nPanel 4. Hermione turns to the right where she last saw Pansy. On the empty floor is a tiny charcoal fur ball with four small paws in the air. Across from it, Robin watches from inside his golden protected stroller. Caption verbatim «Pansy había desaparecido.»\nPanel 5. Hermione cups the small dark Puffskein in both hands with wand tucked away. Close ordinary hands and furious green eyes on fluffy pet. Behind her is the stroller and visibly human Robin, distinct. Balloon from Hermione. Print verbatim «¿Pansy?»\nPanel 6. Diane looks at Katie on the floor. Katie has high bun and yellow trim, wand now lowered. Diane raises one eyebrow, annoyed. Balloon from Diane. Print verbatim «¿En serio, Katie? ¿Un Puffskein?»\nPanel 7. Katie shrugs defensively, Diane stands beside her. Hermione holding fluffy little Pansy at edge of frame, brown eyes turning stern. Balloon from Katie. Print verbatim «¡Fue el único animal que se me ocurrió!»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p004.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp"
+          ],
+          "generatedMaster": "exec-2fdac56f-de75-474f-a8ad-92a55369238e.png"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "image": "paginas/c11-p015.webp",
+      "sourcePdfPages": [
+        327,
+        328
+      ],
+      "summary": "Hermione inmoviliza a Diane y convierte la cabeza de Katie en una calabaza. Llegan los profesores.",
+      "panels": [
+        {
+          "scene": "Hermione tucks the little dark Puffskein safely in her left arm, wand in right hand. She looks sternly at Diane and Katie across the wet floor. Protected strollers far behind.",
+          "caption": "Hermione levantó la varita una vez más."
+        },
+        {
+          "scene": "Blue light from Hermione’s wand spreads into thin ice around Diane’s boots and where her palms rest on stone. Diane is seated and temporarily pinned, fully clothed, no injury.",
+          "dialogue": [
+            "Hermione: ¡Glacius!"
+          ]
+        },
+        {
+          "scene": "Hermione casts toward Katie. Comedic orange puff of magic and one intact large pumpkin helmet now covers Katie’s head over the yellow-black uniform. Katie holds the sides of the pumpkin with both hands.",
+          "dialogue": [
+            "Hermione: ¡Melofors!"
+          ]
+        },
+        {
+          "scene": "Wide damaged corridor, only the two protected strollers away from the duel. Baby Robin looks curious; Phoenix reaches up calmly. Orange pumpkin on Katie and seated Diane in distance.",
+          "caption": "El corredor quedó en silencio."
+        },
+        {
+          "scene": "McGonagall strides around far stone corner with her green tartan cloak, Snape black coat and Dumbledore burgundy gold behind. Three distinct teacher silhouettes. Cold authority, no attack.",
+          "dialogue": [
+            "McGonagall: ¡¿Qué significa este espectáculo?!"
+          ]
+        },
+        {
+          "scene": "Hermione lowers her wand and holds the charcoal Puffskein, its green eyes displeased. Diane seated in ice and Katie with pumpkin stand well apart. Teachers survey the comic scene.",
+          "caption": "Estaban completamente arruinadas."
+        }
+      ],
+      "transcript": "Capítulo 11 · 15\n\nHermione inmoviliza a Diane y convierte la cabeza de Katie en una calabaza. Llegan los profesores.\nNarración: Hermione levantó la varita una vez más.\nHermione: ¡Glacius!\nHermione: ¡Melofors!\nNarración: El corredor quedó en silencio.\nMcGonagall: ¡¿Qué significa este espectáculo?!\nNarración: Estaban completamente arruinadas.",
+      "actualPanelCount": 6,
+      "review": "Se retiró el adulto duplicado del cuadro final. Quedan McGonagall, Snape y Dumbledore. La calabaza, el hielo, el Puffskein, los dos bebés y los textos se conservan en seis viñetas.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p015.png",
+      "sha256": "5548d04db2121cbe3e167ad5047803222eb3423e3be14463464239d2ac4207a3",
+      "masterSha256": "19b2c14e908b677bc3da9e4580dbda8225a75781b02f52495b8f269ae0daf542",
+      "ocrMissingCandidates": [
+        "glacius",
+        "melofors",
+        "significa",
+        "espectaculo",
+        "estaban",
+        "completamente",
+        "arruinadas"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the corridor, stroller and exact small charcoal round Puffskein with green eyes. Do not copy its page layout. Image 4 is reference for the three students and infants only. Image 5 is reference for McGonagall, Snape and Dumbledore’s individual faces and clothes only.\nSame sixth-floor corridor and oak workshop door, cool stones, damaged pier, extinguished iron wall torches, water puddles. Hermione red-gold and sapphire white platinum; Pansy green-silver with wet black chin bob and sleeves after water spell. Katie chestnut high bun, brown eyes, yellow-black. Diane long pale blonde waves, gray eyes, yellow-black. Complete opaque school uniforms and trousers under robes. Robin brown curls, green eyes, navy cardigan and beige trousers in one sand stroller under transparent golden protection. Phoenix pale blonde, amber eyes, yellow bow and pale yellow clothes in separate wicker bassinet under transparent yellow protection. Both human infants stay away from magic. Ravenclaw onlookers at distant corner only. Non-graphic magical effects, nobody visibly hurt. Hermione supports one grapefruit-sized charcoal Puffskein with green eyes in her left arm; it represents Pansy. Do not show a second human Pansy. Pumpkin effect is an intact whole orange magical pumpkin helmet, smooth skin and green stem, no carved horror face. McGonagall is mature with gray hair, green pointed hat and emerald tartan cloak. Snape wears plain black high collar and has shoulder length flat black hair. Dumbledore is an elderly white haired man with long beard, half-moon spectacles and embroidered burgundy and gold robes.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 15» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione tucks the little dark Puffskein safely in her left arm, wand in right hand. She looks sternly at Diane and Katie across the wet floor. Protected strollers far behind. Caption verbatim «Hermione levantó la varita una vez más.»\nPanel 2. Blue light from Hermione’s wand spreads into thin ice around Diane’s boots and where her palms rest on stone. Diane is seated and temporarily pinned, fully clothed, no injury. Balloon from Hermione. Print verbatim «¡Glacius!»\nPanel 3. Hermione casts toward Katie. Comedic orange puff of magic and one intact large pumpkin helmet now covers Katie’s head over the yellow-black uniform. Katie holds the sides of the pumpkin with both hands. Balloon from Hermione. Print verbatim «¡Melofors!»\nPanel 4. Wide damaged corridor, only the two protected strollers away from the duel. Baby Robin looks curious; Phoenix reaches up calmly. Orange pumpkin on Katie and seated Diane in distance. Caption verbatim «El corredor quedó en silencio.»\nPanel 5. McGonagall strides around far stone corner with her green tartan cloak, Snape black coat and Dumbledore burgundy gold behind. Three distinct teacher silhouettes. Cold authority, no attack. Balloon from McGonagall. Print verbatim «¡¿Qué significa este espectáculo?!»\nPanel 6. Hermione lowers her wand and holds the charcoal Puffskein, its green eyes displeased. Diane seated in ice and Katie with pumpkin stand well apart. Teachers survey the comic scene. Caption verbatim «Estaban completamente arruinadas.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2fdac56f-de75-474f-a8ad-92a55369238e.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p003.webp"
+          ],
+          "generatedMaster": "exec-e91d4a04-26dd-4468-8bb4-5faa2054c7f5.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Image 1 is the complete edit target. In the bottom-right final panel of this 1024 by 1536 Spanish comic page, there are TWO identical black-haired adults in the near foreground seen from behind. Delete ONLY the duplicate black-haired adult directly to the left of burgundy-robed Dumbledore. Reconstruct the revealed wet flagstone aisle and keep ONE black-haired Snape near the middle left. There must be exactly THREE adults in that foreground, green-hatted McGonagall on far left, ONE black-haired Snape, and white-haired burgundy Dumbledore on far right. Preserve Hermione holding the little charcoal Puffskein, Diane in blue ice and Katie with a pumpkin in the distance, both protected human babies and their separate strollers. Preserve all other panels, six frames, exact existing Spanish letters, accents, header and captions, expressions, clothes, hands, magic, stones, colors, composition and canvas size. Only remove that one duplicated foreground adult. No new figures, cropping or lettering.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e91d4a04-26dd-4468-8bb4-5faa2054c7f5.png"
+          ],
+          "generatedMaster": "exec-822eeabd-e7fd-4d49-aa59-fa41f5106a99.png"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "image": "paginas/c11-p016.webp",
+      "sourcePdfPages": [
+        329,
+        330
+      ],
+      "summary": "Dumbledore recibe al grupo en su despacho. McGonagall pide explicaciones por el duelo.",
+      "panels": [
+        {
+          "scene": "Wide office establishing shot from the door. Dumbledore at carved desk, McGonagall beside him, Snape in black near fire. Hermione and Zephyr on left. Pumpkin-head Katie, Diane and Phoenix on right. Silver instruments and portraits.",
+          "caption": "Unos minutos después, en el despacho del director."
+        },
+        {
+          "scene": "Robin human baby in his sand stroller, holding the small furry charcoal Puffskein with both hands gently. In the gold wall frame behind him a stern dark-haired older portrait with green eyes leans on a cane, raising an eyebrow. No other living person in frame.",
+          "caption": "Solo Robin parecía encantado con la visita."
+        },
+        {
+          "scene": "Sprout enters with brown patched pointed hat and earth colored clothes, startles at the whole pumpkin on Katie. Katie remains seated in yellow-black uniform, Phoenix’s bassinet distinct beside her.",
+          "dialogue": [
+            "Sprout: ¡Por las raíces de Mandrágora!"
+          ]
+        },
+        {
+          "scene": "McGonagall leans forward with two hands on wooden desk, stern and concerned. Dumbledore behind desk listens over half-moon glasses.",
+          "dialogue": [
+            "McGonagall: ¡Un duelo en un pasillo, con dos bebés allí!"
+          ]
+        },
+        {
+          "scene": "Diane lowers folded white cold cloth, points toward Hermione and looks upset. Katie's pumpkin visible beside her. No injuries depicted.",
+          "dialogue": [
+            "Diane: Fue Granger. Nos atacó primero."
+          ]
+        },
+        {
+          "scene": "Hermione with dusty red-gold robe, chestnut curls and brown eyes looks directly at teachers. Robin beside her calmly holds the dark Puffskein.",
+          "dialogue": [
+            "Hermione: Ellas nos esperaban al salir de clase."
+          ]
+        },
+        {
+          "scene": "Snape in black high-neck coat at right of fire steps forward, arms naturally folded, suspicious. Close stern adult face and long black hair, no student uniform.",
+          "dialogue": [
+            "Snape: No hay clase en el sexto piso a esta hora. ¿Qué hacían allí?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 16\n\nDumbledore recibe al grupo en su despacho. McGonagall pide explicaciones por el duelo.\nNarración: Unos minutos después, en el despacho del director.\nNarración: Solo Robin parecía encantado con la visita.\nSprout: ¡Por las raíces de Mandrágora!\nMcGonagall: ¡Un duelo en un pasillo, con dos bebés allí!\nDiane: Fue Granger. Nos atacó primero.\nHermione: Ellas nos esperaban al salir de clase.\nSnape: No hay clase en el sexto piso a esta hora. ¿Qué hacían allí?",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas. Dumbledore, McGonagall, Snape y Sprout conservan su identidad. El Puffskein sigue pequeño y separado de Robin. Diálogos, caras y distribución del despacho revisados.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p016.png",
+      "sha256": "4f757ed8b869e43ebd263d3ff5857087489b20538a2c28bc0ba08c262fc5cf5c",
+      "masterSha256": "def23c38701fb99dd7ba181102be9299ac2372774f79fe95ca02869490e2cdae",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the professors' individual faces and clothes only. Image 4 is reference for Sprout's patched hat and own mature face only. Image 5 is reference for Hermione, Katie and Diane’s individual faces, Robin and Phoenix, and the exact charcoal round Puffskein-Pansy with green eyes. Do not copy the corridor.\nDumbledore’s circular stone office with carved oak desk, tall curved bookcases, gold-framed sleeping headmaster portraits, silver whirring instruments and warm fire on right. Dumbledore behind desk with white beard, burgundy gold robes and half-moon glasses. McGonagall dark green hat and tartan, Snape tall black high collar by fire. Sprout is older and stocky with patched brown pointed hat. Hermione sits on LEFT, red-gold uniform dusty and sapphire in white platinum. One sand Zephyr next to her, human Robin brown curls green eyes navy cardigan with a little charcoal furry Puffskein-Pansy with green eyes next to him. NO human Pansy. On RIGHT side Katie in yellow-black still has whole orange pumpkin helmet, Diane long pale blonde hair with a folded white cold cloth at cheek, one pale yellow-clad blonde human Phoenix in separate wicker bassinet. Maintain seating and props.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 16» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide office establishing shot from the door. Dumbledore at carved desk, McGonagall beside him, Snape in black near fire. Hermione and Zephyr on left. Pumpkin-head Katie, Diane and Phoenix on right. Silver instruments and portraits. Caption verbatim «Unos minutos después, en el despacho del director.»\nPanel 2. Robin human baby in his sand stroller, holding the small furry charcoal Puffskein with both hands gently. In the gold wall frame behind him a stern dark-haired older portrait with green eyes leans on a cane, raising an eyebrow. No other living person in frame. Caption verbatim «Solo Robin parecía encantado con la visita.»\nPanel 3. Sprout enters with brown patched pointed hat and earth colored clothes, startles at the whole pumpkin on Katie. Katie remains seated in yellow-black uniform, Phoenix’s bassinet distinct beside her. Balloon from Sprout. Print verbatim «¡Por las raíces de Mandrágora!»\nPanel 4. McGonagall leans forward with two hands on wooden desk, stern and concerned. Dumbledore behind desk listens over half-moon glasses. Balloon from McGonagall. Print verbatim «¡Un duelo en un pasillo, con dos bebés allí!»\nPanel 5. Diane lowers folded white cold cloth, points toward Hermione and looks upset. Katie's pumpkin visible beside her. No injuries depicted. Balloon from Diane. Print verbatim «Fue Granger. Nos atacó primero.»\nPanel 6. Hermione with dusty red-gold robe, chestnut curls and brown eyes looks directly at teachers. Robin beside her calmly holds the dark Puffskein. Balloon from Hermione. Print verbatim «Ellas nos esperaban al salir de clase.»\nPanel 7. Snape in black high-neck coat at right of fire steps forward, arms naturally folded, suspicious. Close stern adult face and long black hair, no student uniform. Balloon from Snape. Print verbatim «No hay clase en el sexto piso a esta hora. ¿Qué hacían allí?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p003.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p027.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2fdac56f-de75-474f-a8ad-92a55369238e.png"
+          ],
+          "generatedMaster": "exec-5f6d20d0-b192-4522-9757-339b1a55b888.png"
+        }
+      ]
+    }
+  ]
+}

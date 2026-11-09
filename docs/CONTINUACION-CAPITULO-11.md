@@ -25,3 +25,18 @@ El taller de Elsie se adapta como ejercicios de respiración, escucha y magia co
 | 8 | 318–319 | Una lámpara interrumpe el taller. Robin está tranquilo, pero Katie y Diane esperan a las protagonistas en el pasillo. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-05-08.json).
+
+## Páginas 9–16
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 9 | 319–320–321 | Katie y Diane bloquean el pasillo. Hermione se pone seria cuando Diane sujeta a Pansy. |
+| 10 | 322–323 | La discusión escala. Hermione lanza el primer hechizo y protege el cochecito de Robin. |
+| 11 | 323 | Diane congela el suelo. Hermione responde con viento mientras Pansy intercepta a Katie. |
+| 12 | 324–325 | Los hechizos llenan el corredor. El león de Hermione atrae a los primeros testigos. |
+| 13 | 325–326 | Diane libera a Katie. Pansy aparta a Hermione de un hechizo y llena el corredor de humo. |
+| 14 | 326–327 | Hermione despeja el humo y descubre que Katie ha transformado a Pansy en un Puffskein. |
+| 15 | 327–328 | Hermione inmoviliza a Diane y convierte la cabeza de Katie en una calabaza. Llegan los profesores. |
+| 16 | 329–330 | Dumbledore recibe al grupo en su despacho. McGonagall pide explicaciones por el duelo. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-09-16.json).
