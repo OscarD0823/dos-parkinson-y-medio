@@ -40,3 +40,18 @@ El taller de Elsie se adapta como ejercicios de respiración, escucha y magia co
 | 16 | 329–330 | Dumbledore recibe al grupo en su despacho. McGonagall pide explicaciones por el duelo. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-09-16.json).
+
+## Páginas 17–24
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 17 | 331–332 | Elsie confirma que las cuatro alumnas estaban en su taller y deja sin respuesta a Snape. |
+| 18 | 332 | Elsie pregunta por qué volvieron las Hufflepuff. El grupo discute cómo ocurrieron las transformaciones. |
+| 19 | 333–334 | Pansy protesta incluso transformada. Dumbledore envía a Katie y Diane a la enfermería. |
+| 20 | 334–335 | Snape propone el Bosque Prohibido. Los adultos discrepan sobre la seguridad de Robin. |
+| 21 | 336–337–338 | Hermione defiende a Robin. Los profesores acuerdan decidir un castigo justo que tenga en cuenta a ambos bebés. |
+| 22 | 339–340 | Theo encuentra a Hermione y descubre la transformación de Pansy. Ginny se une a las bromas. |
+| 23 | 341–342–343 | Ginny trae la versión de Gossip Witch. Hermione admite que lanzó el primer hechizo y pide la capa de Harry. |
+| 24 | 343–344–345 | Los amigos se reúnen en la sala de estudio. Robin protege a Pansy entre juguetes hasta que llega Millicent. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-11-paginas-17-24.json).

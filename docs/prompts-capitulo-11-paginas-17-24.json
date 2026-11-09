@@ -1,0 +1,624 @@
+{
+  "chapter": 11,
+  "title": "Anatomía de un Rumor",
+  "date": "2026-11-08",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    17,
+    24
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 17,
+      "image": "paginas/c11-p017.webp",
+      "sourcePdfPages": [
+        331,
+        332
+      ],
+      "summary": "Elsie confirma que las cuatro alumnas estaban en su taller y deja sin respuesta a Snape.",
+      "panels": [
+        {
+          "scene": "Oak office door opens. Elsie enters upright in navy healer robe, gray bun glasses and eagle pendant. Hermione seated by sand stroller turns toward her. One small Puffskein and human Robin.",
+          "caption": "Antes de que Hermione respondiera, se abrió la puerta."
+        },
+        {
+          "scene": "Elsie addresses the director and teachers with a calm professional face. Hermione visibly relieved at left. Right side Katie still has the pumpkin helmet.",
+          "dialogue": [
+            "Elsie: Las cuatro estaban en mi taller, profesor."
+          ]
+        },
+        {
+          "scene": "Snape in plain black high collar near fireplace raises eyebrow. His long black hair is distinct from the student bob. McGonagall looks on.",
+          "dialogue": [
+            "Snape: ¿De qué clase estamos hablando?"
+          ]
+        },
+        {
+          "scene": "Elsie smiles pleasantly, folding hands at waist and addressing Snape. Two distinct adults, figures fully clothed.",
+          "dialogue": [
+            "Elsie: Respiración y comunicación. Puede acompañarnos el miércoles."
+          ]
+        },
+        {
+          "scene": "Snape takes half a step back, too surprised to respond. Dumbledore's eyes smile above half-moon glasses. One burly wood desk and silver instruments.",
+          "caption": "Snape no encontró una respuesta."
+        },
+        {
+          "scene": "McGonagall resumes questioning, stern hand on desk. Elsie nods seriously, not smiling now.",
+          "dialogue": [
+            "McGonagall: Eso no explica el duelo en el pasillo."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 17\n\nElsie confirma que las cuatro alumnas estaban en su taller y deja sin respuesta a Snape.\nNarración: Antes de que Hermione respondiera, se abrió la puerta.\nElsie: Las cuatro estaban en mi taller, profesor.\nSnape: ¿De qué clase estamos hablando?\nElsie: Respiración y comunicación. Puede acompañarnos el miércoles.\nNarración: Snape no encontró una respuesta.\nMcGonagall: Eso no explica el duelo en el pasillo.",
+      "actualPanelCount": 6,
+      "review": "Segundo intento de la conversación entre docentes. Las seis viñetas, cabecera y letras están completas y el despacho coincide con la 16.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p017.png",
+      "sha256": "ccddccdb52da639f1b517d0cdc619ed1d32e75466b0d22121ac3f44166b5450e",
+      "masterSha256": "5fc7a86480bc14bf66ca7cd64a80b567cf293fe53ea6732b3057b3ae064a9da9",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Draw one portrait 1024 by 1536 Spanish fantasy comic page, six regular panels. A calm academic discussion between ADULT teachers in a headmaster's office. Image 1 is reference for carved oak desk, old portraits, silver instruments, right fireplace, elderly white-bearded headmaster in burgundy, older woman in green hat and adult tall black-haired professor in black. Image 2 is reference only for Elsie, an older woman with gray bun, spectacles and a sapphire eagle pendant on her full dark blue robe. Fine ink, warm light, same shapes and colors. All figures in ordinary opaque school robes. Small upper left header «Capítulo 11 · 17». Exact readable Spanish text only, clear balloon tails, cream gutters. Panel 1: the older Elsie opens the oak door; a chestnut-curled student in red-trim school robes turns to see her, seated at left. Caption «Antes de que Hermione respondiera, se abrió la puerta.» Panel 2: Elsie addresses black-haired professor Snape. Elsie balloon «Las cuatro estaban en mi taller, profesor.» Panel 3: close-up Snape raises one eyebrow. Snape balloon «¿De qué clase estamos hablando?» Panel 4: Elsie calmly explains her breathing and communication lesson with one hand open. Elsie balloon «Respiración y comunicación. Puede acompañarnos el miércoles.» Panel 5: Snape is briefly speechless, Dumbledore with beard and half-moon spectacles listens behind the desk. Caption «Snape no encontró una respuesta.» Panel 6: McGonagall in green tartan and pointed hat addresses Elsie with a concerned expression. McGonagall balloon «Eso no explica el duelo en el pasillo.» Keep it a simple conversation with classroom props only. No new text, footer or watermark.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5f6d20d0-b192-4522-9757-339b1a55b888.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c03-p002.webp"
+          ],
+          "generatedMaster": "exec-d1ce869d-1c32-4d46-b5f6-68d088980e64.png"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "image": "paginas/c11-p018.webp",
+      "sourcePdfPages": [
+        332
+      ],
+      "summary": "Elsie pregunta por qué volvieron las Hufflepuff. El grupo discute cómo ocurrieron las transformaciones.",
+      "panels": [
+        {
+          "scene": "Elsie beside left edge of desk turns to Diane and pumpkin-head Katie on right. Diane holds folded cloth and listens with increasing unease.",
+          "dialogue": [
+            "Elsie: Ustedes salieron antes. Cuando yo me fui, el pasillo estaba vacío."
+          ]
+        },
+        {
+          "scene": "Close Elsie with calm investigative eyebrow, blue sapphire eagle pendant and gray bun. Diane's blond hair at edge.",
+          "dialogue": [
+            "Elsie: ¿Por qué regresaron?"
+          ]
+        },
+        {
+          "scene": "Diane stammers silently. Katie in intact orange pumpkin helmet lifts one hand and speaks, clear balloon tail toward pumpkin. Human Phoenix in wicker bassinet reaches for her from safe distance.",
+          "dialogue": [
+            "Katie: ¡Se nos olvidó un juguete de Phoenix!"
+          ]
+        },
+        {
+          "scene": "Dumbledore leans forward on the carved desk, hands apart, curious eyes, no malice. Both strollers outside framing.",
+          "dialogue": [
+            "Dumbledore: ¿Y cómo terminaron con un Puffskein y una calabaza?"
+          ]
+        },
+        {
+          "scene": "Hermione dust on red-gold robe, sapphire and curls intact. Robin cradles the charcoal green-eyed Puffskein beside her, upright in his sand stroller.",
+          "dialogue": [
+            "Hermione: Katie transformó a Pansy. Su hechizo tardará horas en pasar."
+          ]
+        },
+        {
+          "scene": "Diane raises her chin beside pumpkin-head Katie, looking toward Hermione. Small charcoal Puffskein in left foreground begins to bristle, separate from Robin.",
+          "dialogue": [
+            "Diane: Si controlaras tu carácter, esto no habría pasado."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 18\n\nElsie pregunta por qué volvieron las Hufflepuff. El grupo discute cómo ocurrieron las transformaciones.\nElsie: Ustedes salieron antes. Cuando yo me fui, el pasillo estaba vacío.\nElsie: ¿Por qué regresaron?\nKatie: ¡Se nos olvidó un juguete de Phoenix!\nDumbledore: ¿Y cómo terminaron con un Puffskein y una calabaza?\nHermione: Katie transformó a Pansy. Su hechizo tardará horas en pasar.\nDiane: Si controlaras tu carácter, esto no habría pasado.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas. La calabaza tiene la ranura de la página 16. Diane, Elsie y Dumbledore se distinguen. El Puffskein se ve separado de Robin.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p018.png",
+      "sha256": "febf230e3e6f9bd53dd3076d321e0b1443ac514422ff9b11d8f7ef06972d96d8",
+      "masterSha256": "94b08dbacb3ad94cc05a9863077c403ff909c7f4d6a210703c2f6401a980ceac",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the exact circular office layout, the carved desk, right fire, furniture, robes and individual faces of the returning teachers, the stroller and the little charcoal Puffskein with green eyes. Image 4 fixes Elsie's face, glasses, gray bun, dark blue robe and sapphire eagle pendant only. Follow Image 3 for Katie's smooth orange pumpkin helmet with one small rectangular opening for her eyes.\nSame circular Dumbledore office, carved oak desk at center, gold portraits, silver instruments, right fireplace, left oak door. Dumbledore has long white hair and beard, half-moon glasses, burgundy gold embroidered robes. McGonagall gray hair, green hat and tartan cloak. Snape tall, pale, shoulder-length black hair, plain black high collar near fireplace. Sprout mature stocky with patched brown pointed hat and earth robes. Elsie gray bun, spectacles, closed dark blue healer robe and eagle sapphire pendant. Hermione sits left in dusty red-gold full uniform, chestnut curls, freckles, white platinum sapphire. One sand stroller on left holds human Robin, brown curls and green eyes, navy cardigan beige trousers, and a separate grapefruit-sized round charcoal furry Puffskein-Pansy with GREEN eyes. No human Pansy while transformed. Katie chestnut high bun when human, yellow-black uniform; her face is completely covered by the intact orange pumpkin helmet throughout the office sequence. Diane long pale blonde waves gray eyes, yellow-black, folded white cloth to cheek. Their one separate wicker bassinet at right contains tiny human Phoenix with yellow bow and cardigan. Warm gold lighting and sober comedy. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 18» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Elsie beside left edge of desk turns to Diane and pumpkin-head Katie on right. Diane holds folded cloth and listens with increasing unease. Balloon from Elsie. Print verbatim «Ustedes salieron antes. Cuando yo me fui, el pasillo estaba vacío.»\nPanel 2. Close Elsie with calm investigative eyebrow, blue sapphire eagle pendant and gray bun. Diane's blond hair at edge. Balloon from Elsie. Print verbatim «¿Por qué regresaron?»\nPanel 3. Diane stammers silently. Katie in intact orange pumpkin helmet lifts one hand and speaks, clear balloon tail toward pumpkin. Human Phoenix in wicker bassinet reaches for her from safe distance. Balloon from Katie. Print verbatim «¡Se nos olvidó un juguete de Phoenix!»\nPanel 4. Dumbledore leans forward on the carved desk, hands apart, curious eyes, no malice. Both strollers outside framing. Balloon from Dumbledore. Print verbatim «¿Y cómo terminaron con un Puffskein y una calabaza?»\nPanel 5. Hermione dust on red-gold robe, sapphire and curls intact. Robin cradles the charcoal green-eyed Puffskein beside her, upright in his sand stroller. Balloon from Hermione. Print verbatim «Katie transformó a Pansy. Su hechizo tardará horas en pasar.»\nPanel 6. Diane raises her chin beside pumpkin-head Katie, looking toward Hermione. Small charcoal Puffskein in left foreground begins to bristle, separate from Robin. Balloon from Diane. Print verbatim «Si controlaras tu carácter, esto no habría pasado.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5f6d20d0-b192-4522-9757-339b1a55b888.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp"
+          ],
+          "generatedMaster": "exec-ef4d1579-e2ef-4cc1-b4f4-8bd29eaee37b.png"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "image": "paginas/c11-p019.webp",
+      "sourcePdfPages": [
+        333,
+        334
+      ],
+      "summary": "Pansy protesta incluso transformada. Dumbledore envía a Katie y Diane a la enfermería.",
+      "panels": [
+        {
+          "scene": "Small round charcoal Puffskein springs and catches only the loose yellow-trim fabric of Diane’s raised sleeve. Diane startled, no injury or skin bite. Hermione at left reaches out with one open hand.",
+          "dialogue": [
+            "Hermione: ¡Pansy, suéltala!"
+          ]
+        },
+        {
+          "scene": "Elsie lifts the little Puffskein away from the sleeve with a soft gold levitation charm. A harmless puff of black fur in air, green eyes and tiny paws, no other animal.",
+          "dialogue": [
+            "Elsie: Wingardium Leviosa."
+          ]
+        },
+        {
+          "scene": "Elsie sets the one puffskein down beside Robin in his sand stroller. Robin rests a tiny human hand gently on its fur. The baby has his normal smooth skin and human hands. McGonagall stern beyond.",
+          "dialogue": [
+            "McGonagall: ¡Cuatro de nuestras mejores alumnas!"
+          ]
+        },
+        {
+          "scene": "Dumbledore speaks from behind desk, serious with hands loosely folded. Hermione watches attentively. McGonagall and Elsie stand nearby.",
+          "dialogue": [
+            "Dumbledore: Las acciones tienen consecuencias."
+          ]
+        },
+        {
+          "scene": "Dumbledore gestures toward Sprout, an older woman in patched brown hat. Katie still pumpkin-headed and Diane holding white cloth sit on right.",
+          "dialogue": [
+            "Dumbledore: Pomona, acompáñelas a la enfermería."
+          ]
+        },
+        {
+          "scene": "Sprout leads Katie and Diane through the oak door. Diane gently guides pumpkin-head Katie by sleeve while their ONE wicker bassinet floats beside her with Phoenix. Hermione and her own family stay at left.",
+          "caption": "Katie y Diane salieron con la profesora Sprout."
+        }
+      ],
+      "transcript": "Capítulo 11 · 19\n\nPansy protesta incluso transformada. Dumbledore envía a Katie y Diane a la enfermería.\nHermione: ¡Pansy, suéltala!\nElsie: Wingardium Leviosa.\nMcGonagall: ¡Cuatro de nuestras mejores alumnas!\nDumbledore: Las acciones tienen consecuencias.\nDumbledore: Pomona, acompáñelas a la enfermería.\nNarración: Katie y Diane salieron con la profesora Sprout.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas. La tela de la manga y la levitación son legibles. Sprout acompaña a las dos alumnas y la canasta de Phoenix. No se duplican personajes.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p019.png",
+      "sha256": "cf5c418efcf07b88062a9a0888429ddd29ca0af3739478c195fa42b954532734",
+      "masterSha256": "3a0927eb83e2fd6883b1fb9b441c23dcd2e2e1ece54850ed2f8ed01ee3d17529",
+      "ocrMissingCandidates": [
+        "pansy",
+        "sueltala",
+        "wingardium",
+        "leviosa",
+        "cuatro"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the exact circular office layout, the carved desk, right fire, furniture, robes and individual faces of the returning teachers, the stroller and the little charcoal Puffskein with green eyes. Image 4 fixes Elsie's face, glasses, gray bun, dark blue robe and sapphire eagle pendant only. Follow Image 3 for Katie's smooth orange pumpkin helmet with one small rectangular opening for her eyes.\nSame circular Dumbledore office, carved oak desk at center, gold portraits, silver instruments, right fireplace, left oak door. Dumbledore has long white hair and beard, half-moon glasses, burgundy gold embroidered robes. McGonagall gray hair, green hat and tartan cloak. Snape tall, pale, shoulder-length black hair, plain black high collar near fireplace. Sprout mature stocky with patched brown pointed hat and earth robes. Elsie gray bun, spectacles, closed dark blue healer robe and eagle sapphire pendant. Hermione sits left in dusty red-gold full uniform, chestnut curls, freckles, white platinum sapphire. One sand stroller on left holds human Robin, brown curls and green eyes, navy cardigan beige trousers, and a separate grapefruit-sized round charcoal furry Puffskein-Pansy with GREEN eyes. No human Pansy while transformed. Katie chestnut high bun when human, yellow-black uniform; her face is completely covered by the intact orange pumpkin helmet throughout the office sequence. Diane long pale blonde waves gray eyes, yellow-black, folded white cloth to cheek. Their one separate wicker bassinet at right contains tiny human Phoenix with yellow bow and cardigan. Warm gold lighting and sober comedy. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 19» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Small round charcoal Puffskein springs and catches only the loose yellow-trim fabric of Diane’s raised sleeve. Diane startled, no injury or skin bite. Hermione at left reaches out with one open hand. Balloon from Hermione. Print verbatim «¡Pansy, suéltala!»\nPanel 2. Elsie lifts the little Puffskein away from the sleeve with a soft gold levitation charm. A harmless puff of black fur in air, green eyes and tiny paws, no other animal. Balloon from Elsie. Print verbatim «Wingardium Leviosa.»\nPanel 3. Elsie sets the one puffskein down beside Robin in his sand stroller. Robin rests a tiny human hand gently on its fur. The baby has his normal smooth skin and human hands. McGonagall stern beyond. Balloon from McGonagall. Print verbatim «¡Cuatro de nuestras mejores alumnas!»\nPanel 4. Dumbledore speaks from behind desk, serious with hands loosely folded. Hermione watches attentively. McGonagall and Elsie stand nearby. Balloon from Dumbledore. Print verbatim «Las acciones tienen consecuencias.»\nPanel 5. Dumbledore gestures toward Sprout, an older woman in patched brown hat. Katie still pumpkin-headed and Diane holding white cloth sit on right. Balloon from Dumbledore. Print verbatim «Pomona, acompáñelas a la enfermería.»\nPanel 6. Sprout leads Katie and Diane through the oak door. Diane gently guides pumpkin-head Katie by sleeve while their ONE wicker bassinet floats beside her with Phoenix. Hermione and her own family stay at left. Caption verbatim «Katie y Diane salieron con la profesora Sprout.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5f6d20d0-b192-4522-9757-339b1a55b888.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp"
+          ],
+          "generatedMaster": "exec-e90aca45-9068-4281-a84a-ad5da1156adf.png"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "image": "paginas/c11-p020.webp",
+      "sourcePdfPages": [
+        334,
+        335
+      ],
+      "summary": "Snape propone el Bosque Prohibido. Los adultos discrepan sobre la seguridad de Robin.",
+      "panels": [
+        {
+          "scene": "Snape black high collar stands at right by fireplace, hands tucked into black sleeves, stern. Now only Hermione and Robin’s stroller on student side. Dumbledore and McGonagall at desk, Elsie watches.",
+          "dialogue": [
+            "Snape: Que recolecten ingredientes en el Bosque Prohibido."
+          ]
+        },
+        {
+          "scene": "McGonagall turns sharply toward Snape. Tartan cloak, gray hair and pointed green hat, adult stern expression.",
+          "dialogue": [
+            "McGonagall: ¿De noche? ¿Con un bebé?"
+          ]
+        },
+        {
+          "scene": "Elsie steps forward with professional serious look. Her small gold eagle with blue stone is distinct from Hermione’s oval sapphire. Robin visible safely in his stroller in foreground.",
+          "dialogue": [
+            "Elsie: Soy responsable de su seguridad. Eso queda descartado."
+          ]
+        },
+        {
+          "scene": "Dumbledore looks at Snape calmly, hands on desk, burgundy and gold sleeves, white beard and half-moon glasses.",
+          "dialogue": [
+            "Dumbledore: No las enviaremos al bosque."
+          ]
+        },
+        {
+          "scene": "Close human Robin in navy cardigan, green eyes, brown curls, small hand raised, beside little charcoal green-eyed Puffskein. Warm gold lamp, distinct fur and human skin.",
+          "dialogue": [
+            "Robin: ¡Dah!"
+          ]
+        },
+        {
+          "scene": "Snape looks toward Elsie, jaw tight, dark black coat and shoulder-length hair. Use speech bubble tail clear to Snape.",
+          "dialogue": [
+            "Snape: Entonces usted puede cuidar al niño durante el castigo."
+          ]
+        },
+        {
+          "scene": "Hermione stands at left beside the stroller, direct brown eyes and one hand on its handle. Puffskein and Robin in stroller look up. Hermione's silver sapphire on chest visible.",
+          "dialogue": [
+            "Hermione: Robin se queda con nosotras."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 20\n\nSnape propone el Bosque Prohibido. Los adultos discrepan sobre la seguridad de Robin.\nSnape: Que recolecten ingredientes en el Bosque Prohibido.\nMcGonagall: ¿De noche? ¿Con un bebé?\nElsie: Soy responsable de su seguridad. Eso queda descartado.\nDumbledore: No las enviaremos al bosque.\nRobin: ¡Dah!\nSnape: Entonces usted puede cuidar al niño durante el castigo.\nHermione: Robin se queda con nosotras.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas completas. Quedan los cuatro docentes, Hermione, Robin y el Puffskein. Rostros, uniformes, ropa y ubicación coinciden.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p020.png",
+      "sha256": "26e819d070d82d349aa3b5cb6ea339a688b094152e4095c83229ed21047005cd",
+      "masterSha256": "1772515f32203c075d78f2bac1794aa64ebdce4dcb83497f8ccdb2ee15483fba",
+      "ocrMissingCandidates": [
+        "entonces",
+        "usted",
+        "puede",
+        "cuidar",
+        "durante",
+        "castigo",
+        "robin",
+        "nosotras"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the exact circular office layout, the carved desk, right fire, furniture, robes and individual faces of the returning teachers, the stroller and the little charcoal Puffskein with green eyes. Image 4 fixes Elsie's face, glasses, gray bun, dark blue robe and sapphire eagle pendant only. Only the four named teachers, Hermione, Robin and Puffskein-Pansy appear after the other students leave.\nSame circular Dumbledore office, carved oak desk at center, gold portraits, silver instruments, right fireplace, left oak door. Dumbledore has long white hair and beard, half-moon glasses, burgundy gold embroidered robes. McGonagall gray hair, green hat and tartan cloak. Snape tall, pale, shoulder-length black hair, plain black high collar near fireplace. Sprout mature stocky with patched brown pointed hat and earth robes. Elsie gray bun, spectacles, closed dark blue healer robe and eagle sapphire pendant. Hermione sits left in dusty red-gold full uniform, chestnut curls, freckles, white platinum sapphire. One sand stroller on left holds human Robin, brown curls and green eyes, navy cardigan beige trousers, and a separate grapefruit-sized round charcoal furry Puffskein-Pansy with GREEN eyes. No human Pansy while transformed. Warm gold lighting and sober comedy.  After Katie and Diane leave, show only Hermione, Robin, Puffskein, Dumbledore, McGonagall, Snape and Elsie. No Sprout, Katie, Diane or Phoenix.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 20» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Snape black high collar stands at right by fireplace, hands tucked into black sleeves, stern. Now only Hermione and Robin’s stroller on student side. Dumbledore and McGonagall at desk, Elsie watches. Balloon from Snape. Print verbatim «Que recolecten ingredientes en el Bosque Prohibido.»\nPanel 2. McGonagall turns sharply toward Snape. Tartan cloak, gray hair and pointed green hat, adult stern expression. Balloon from McGonagall. Print verbatim «¿De noche? ¿Con un bebé?»\nPanel 3. Elsie steps forward with professional serious look. Her small gold eagle with blue stone is distinct from Hermione’s oval sapphire. Robin visible safely in his stroller in foreground. Balloon from Elsie. Print verbatim «Soy responsable de su seguridad. Eso queda descartado.»\nPanel 4. Dumbledore looks at Snape calmly, hands on desk, burgundy and gold sleeves, white beard and half-moon glasses. Balloon from Dumbledore. Print verbatim «No las enviaremos al bosque.»\nPanel 5. Close human Robin in navy cardigan, green eyes, brown curls, small hand raised, beside little charcoal green-eyed Puffskein. Warm gold lamp, distinct fur and human skin. Balloon from Robin. Print verbatim «¡Dah!»\nPanel 6. Snape looks toward Elsie, jaw tight, dark black coat and shoulder-length hair. Use speech bubble tail clear to Snape. Balloon from Snape. Print verbatim «Entonces usted puede cuidar al niño durante el castigo.»\nPanel 7. Hermione stands at left beside the stroller, direct brown eyes and one hand on its handle. Puffskein and Robin in stroller look up. Hermione's silver sapphire on chest visible. Balloon from Hermione. Print verbatim «Robin se queda con nosotras.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5f6d20d0-b192-4522-9757-339b1a55b888.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp"
+          ],
+          "generatedMaster": "exec-15b56b2d-b65b-4a0e-a757-21f9524915de.png"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "image": "paginas/c11-p021.webp",
+      "sourcePdfPages": [
+        336,
+        337,
+        338
+      ],
+      "summary": "Hermione defiende a Robin. Los profesores acuerdan decidir un castigo justo que tenga en cuenta a ambos bebés.",
+      "panels": [
+        {
+          "scene": "Hermione speaks firmly beside Robin’s sand stroller, with the Puffskein visible in his arms. Snape listens at right. One natural hand resting on stroller handle.",
+          "dialogue": [
+            "Hermione: Aceptamos un castigo. El cuidado de Robin también es nuestra responsabilidad."
+          ]
+        },
+        {
+          "scene": "Elsie addresses the adults with calm professional look. Dumbledore listens. Warm office wall and silver instruments.",
+          "dialogue": [
+            "Elsie: También debemos tener en cuenta a Phoenix."
+          ]
+        },
+        {
+          "scene": "Dumbledore behind desk, folded hands and serious kind eyes. McGonagall at left, Snape at right, different expressions.",
+          "dialogue": [
+            "Dumbledore: Los tres jefes de casa decidirán juntos un castigo justo."
+          ]
+        },
+        {
+          "scene": "McGonagall raises an eyebrow, pondering. Elsie nods in approval. Hermione listens in left foreground.",
+          "dialogue": [
+            "McGonagall: ¿También con Pomona?",
+            "Dumbledore, fuera de cuadro: Las cuatro merecen un trato similar."
+          ]
+        },
+        {
+          "scene": "Dumbledore looks down past the desk toward tiny charcoal Puffskein in stroller beside Robin. Hermione supports the animal lightly with one hand.",
+          "dialogue": [
+            "Dumbledore: El hechizo debería pasar antes de dormir, señorita Parkinson."
+          ]
+        },
+        {
+          "scene": "Hermione looks down at the Puffskein. The tiny creature gives her an offended stare and gently tugs the edge of her sleeve with its small paws. Robin smiles.",
+          "dialogue": [
+            "Hermione: Pansy se portará bien, profesor."
+          ]
+        },
+        {
+          "scene": "Hermione pushes Zephyr through the oak door into a stone corridor, viewed from behind. Robin and the Puffskein safe in the stroller. Distant classmates look back and whisper.",
+          "caption": "Para entonces, Hogwarts entero hablaba del duelo."
+        }
+      ],
+      "transcript": "Capítulo 11 · 21\n\nHermione defiende a Robin. Los profesores acuerdan decidir un castigo justo que tenga en cuenta a ambos bebés.\nHermione: Aceptamos un castigo. El cuidado de Robin también es nuestra responsabilidad.\nElsie: También debemos tener en cuenta a Phoenix.\nDumbledore: Los tres jefes de casa decidirán juntos un castigo justo.\nMcGonagall: ¿También con Pomona?\nDumbledore, fuera de cuadro: Las cuatro merecen un trato similar.\nDumbledore: El hechizo debería pasar antes de dormir, señorita Parkinson.\nHermione: Pansy se portará bien, profesor.\nNarración: Para entonces, Hogwarts entero hablaba del duelo.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas, incluidas las dos réplicas de McGonagall y Dumbledore en la cuarta. Los ojos del Puffskein siguen verdes y su cuerpo no se mezcla con Robin.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p021.png",
+      "sha256": "e6519736f7c917495f2eebaace80fd50541948ec69517a925e0fa28fe7ea0013",
+      "masterSha256": "093582ce25543a0657dac89c5c30a7a5c486185e74a887547f6616f821dcc32c",
+      "ocrMissingCandidates": [
+        "pomona",
+        "cuatro",
+        "merecen",
+        "trato",
+        "similar",
+        "hechizo",
+        "deberia",
+        "pasar",
+        "antes",
+        "dormir",
+        "senorita",
+        "parkinson"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the same carved desk, office, right fireplace, individual teachers, infant stroller and little charcoal Puffskein. Follow only Hermione and the four specified adults in this scene. Image 4 fixes Elsie's face, glasses, gray bun, navy robe and eagle pendant.\nPansy remains a single charcoal furry round Puffskein, grapefruit sized, tiny paws and expressive green eyes, distinct from Robin. Human Robin is a tiny infant with brown curls, green eyes, navy cardigan and beige trousers, same sand Zephyr stroller. Keep Hermione’s full red-gold school uniform, chestnut curls, brown eyes, freckles and white platinum sapphire. No human Pansy yet. Same circular headmaster office, carved oak desk, portraits, silver instruments and right fireplace. Dumbledore white beard and burgundy gold, Snape black high collar, McGonagall green tartan, Elsie gray bun/glasses/navy/eagle. Only Hermione, Robin, the Puffskein and these four teachers. No other students or infants in the office.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 21» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Hermione speaks firmly beside Robin’s sand stroller, with the Puffskein visible in his arms. Snape listens at right. One natural hand resting on stroller handle. Balloon from Hermione. Print verbatim «Aceptamos un castigo. El cuidado de Robin también es nuestra responsabilidad.»\nPanel 2. Elsie addresses the adults with calm professional look. Dumbledore listens. Warm office wall and silver instruments. Balloon from Elsie. Print verbatim «También debemos tener en cuenta a Phoenix.»\nPanel 3. Dumbledore behind desk, folded hands and serious kind eyes. McGonagall at left, Snape at right, different expressions. Balloon from Dumbledore. Print verbatim «Los tres jefes de casa decidirán juntos un castigo justo.»\nPanel 4. McGonagall raises an eyebrow, pondering. Elsie nods in approval. Hermione listens in left foreground. Balloon from McGonagall. Print verbatim «¿También con Pomona?» Balloon from Dumbledore, fuera de cuadro. Print verbatim «Las cuatro merecen un trato similar.»\nPanel 5. Dumbledore looks down past the desk toward tiny charcoal Puffskein in stroller beside Robin. Hermione supports the animal lightly with one hand. Balloon from Dumbledore. Print verbatim «El hechizo debería pasar antes de dormir, señorita Parkinson.»\nPanel 6. Hermione looks down at the Puffskein. The tiny creature gives her an offended stare and gently tugs the edge of her sleeve with its small paws. Robin smiles. Balloon from Hermione. Print verbatim «Pansy se portará bien, profesor.»\nPanel 7. Hermione pushes Zephyr through the oak door into a stone corridor, viewed from behind. Robin and the Puffskein safe in the stroller. Distant classmates look back and whisper. Caption verbatim «Para entonces, Hogwarts entero hablaba del duelo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5f6d20d0-b192-4522-9757-339b1a55b888.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c03-p002.webp"
+          ],
+          "generatedMaster": "exec-6b44b22d-0e67-41c6-a8c9-162b55cf9230.png"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "image": "paginas/c11-p022.webp",
+      "sourcePdfPages": [
+        339,
+        340
+      ],
+      "summary": "Theo encuentra a Hermione y descubre la transformación de Pansy. Ginny se une a las bromas.",
+      "panels": [
+        {
+          "scene": "Theo runs around stone corner and stops next to Hermione's stroller, relieved. Fully dressed both, one stroller and clear aisle.",
+          "dialogue": [
+            "Theo: ¡Por Salazar! Creí que no saldrían nunca."
+          ]
+        },
+        {
+          "scene": "Theo leans a little toward Robin’s stroller, puzzled. The separate small round charcoal Puffskein looks up angrily beside Robin.",
+          "dialogue": [
+            "Theo: ¿Pans? ¿Qué te hicieron?"
+          ]
+        },
+        {
+          "scene": "Hermione explains with slight smile, one hand on stroller. Theo stands upright with incredulous expression.",
+          "dialogue": [
+            "Hermione: Fue Brennan. Por eso le puse una calabaza en la cabeza."
+          ]
+        },
+        {
+          "scene": "Ginny long copper hair approaches from the stairs, amused. Theo turns his head. The small baby stroller remains by Hermione.",
+          "dialogue": [
+            "Ginny: ¿Un Puffskein? ¿En serio?"
+          ]
+        },
+        {
+          "scene": "Ginny and Theo exchange an easy smile. Hermione looks surprised at how familiar they seem. Three different faces, colors and school ties.",
+          "dialogue": [
+            "Theo: Los amigos de Luna son mis amigos."
+          ]
+        },
+        {
+          "scene": "Ginny bends slightly toward the Puffskein in stroller with hands safely away. The little charcoal creature scowls. Robin human child watches.",
+          "dialogue": [
+            "Ginny: ¡Eres del tamaño de una Quaffle, Parkinson!"
+          ]
+        },
+        {
+          "scene": "Hermione tries not to laugh, hand near her own mouth. Puffskein gives her a deeply offended side glance. Theo covers a smile in background.",
+          "dialogue": [
+            "Hermione: Ya basta. No es tan gracioso."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 22\n\nTheo encuentra a Hermione y descubre la transformación de Pansy. Ginny se une a las bromas.\nTheo: ¡Por Salazar! Creí que no saldrían nunca.\nTheo: ¿Pans? ¿Qué te hicieron?\nHermione: Fue Brennan. Por eso le puse una calabaza en la cabeza.\nGinny: ¿Un Puffskein? ¿En serio?\nTheo: Los amigos de Luna son mis amigos.\nGinny: ¡Eres del tamaño de una Quaffle, Parkinson!\nHermione: Ya basta. No es tan gracioso.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas completas. Theo y Ginny conservan sus rostros, ojos y uniformes. Robin y Puffskein mantienen tamaño y ropa o pelaje.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p022.png",
+      "sha256": "02b6bf9035785482906c9bb7db6040faced7143ba0493b5fc7c9e35eb1698fdb",
+      "masterSha256": "c66a8e4d6837e83ab1d9f394f37b7825a24ed01ba3af337a842d18fc561a7f87",
+      "ocrMissingCandidates": [
+        "brennan",
+        "calabaza",
+        "cabeza",
+        "puffskein",
+        "serio"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes male Theo’s short brown curls, green eyes and green school uniform only. Image 4 fixes Ginny's long copper-red hair, blue eyes and own face only. Image 5 fixes the exact small charcoal furry Puffskein with green eyes, and Robin's stroller and outfit.\nPansy remains a single charcoal furry round Puffskein, grapefruit sized, tiny paws and expressive green eyes, distinct from Robin. Human Robin is a tiny infant with brown curls, green eyes, navy cardigan and beige trousers, same sand Zephyr stroller. Keep Hermione’s full red-gold school uniform, chestnut curls, brown eyes, freckles and white platinum sapphire. No human Pansy yet. Interior Hogwarts dungeon corridor at evening, warm torchlight, stone arches, few distant students. Theo male short brown curls and green eyes in green-silver uniform. Ginny long copper-red hair, blue eyes, freckles and red-gold uniform, distinct from Hermione.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 22» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Theo runs around stone corner and stops next to Hermione's stroller, relieved. Fully dressed both, one stroller and clear aisle. Balloon from Theo. Print verbatim «¡Por Salazar! Creí que no saldrían nunca.»\nPanel 2. Theo leans a little toward Robin’s stroller, puzzled. The separate small round charcoal Puffskein looks up angrily beside Robin. Balloon from Theo. Print verbatim «¿Pans? ¿Qué te hicieron?»\nPanel 3. Hermione explains with slight smile, one hand on stroller. Theo stands upright with incredulous expression. Balloon from Hermione. Print verbatim «Fue Brennan. Por eso le puse una calabaza en la cabeza.»\nPanel 4. Ginny long copper hair approaches from the stairs, amused. Theo turns his head. The small baby stroller remains by Hermione. Balloon from Ginny. Print verbatim «¿Un Puffskein? ¿En serio?»\nPanel 5. Ginny and Theo exchange an easy smile. Hermione looks surprised at how familiar they seem. Three different faces, colors and school ties. Balloon from Theo. Print verbatim «Los amigos de Luna son mis amigos.»\nPanel 6. Ginny bends slightly toward the Puffskein in stroller with hands safely away. The little charcoal creature scowls. Robin human child watches. Balloon from Ginny. Print verbatim «¡Eres del tamaño de una Quaffle, Parkinson!»\nPanel 7. Hermione tries not to laugh, hand near her own mouth. Puffskein gives her a deeply offended side glance. Theo covers a smile in background. Balloon from Hermione. Print verbatim «Ya basta. No es tan gracioso.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p040.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p003.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2fdac56f-de75-474f-a8ad-92a55369238e.png"
+          ],
+          "generatedMaster": "exec-aca987b3-535f-4073-aa46-f809d033f15b.png"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "image": "paginas/c11-p023.webp",
+      "sourcePdfPages": [
+        341,
+        342,
+        343
+      ],
+      "summary": "Ginny trae la versión de Gossip Witch. Hermione admite que lanzó el primer hechizo y pide la capa de Harry.",
+      "panels": [
+        {
+          "scene": "Close newspaper held by Ginny with masthead and one clear headline. Small black-and-white sketch of the sixth-floor corridor. No other readable print.",
+          "printed": [
+            "GOSSIP WITCH",
+            "Duelo en el sexto piso"
+          ],
+          "dialogue": [
+            "Ginny, fuera de cuadro: Lavender publicó la versión de Diane."
+          ]
+        },
+        {
+          "scene": "Hermione red-gold uniform, sapphire in white platinum, looks openly at Theo and Ginny. Robin and one charcoal Puffskein in stroller, away from faces.",
+          "dialogue": [
+            "Hermione: Nos insultaron, pero el primer hechizo lo lancé yo."
+          ]
+        },
+        {
+          "scene": "Theo looks at her in surprise with mouth slightly open. Ginny eyes widen. Both in correct uniforms.",
+          "dialogue": [
+            "Ginny: ¿Tú lanzaste el primero?"
+          ]
+        },
+        {
+          "scene": "Close Hermione, resolute brown eyes and arms folded naturally. Dark green-eyed Puffskein visible over stroller edge beside Robin.",
+          "dialogue": [
+            "Hermione: Nadie se mete con mi familia."
+          ]
+        },
+        {
+          "scene": "Ginny lowers folded newspaper, concerned. Theo listens beside her. Hermione keeps one hand on stroller handle.",
+          "dialogue": [
+            "Ginny: Diane sigue furiosa. Podría estar preparando algo."
+          ]
+        },
+        {
+          "scene": "Hermione turns to Theo in torchlit corridor, takes stroller handle. Theo listens, very little background.",
+          "dialogue": [
+            "Hermione: Diles a Blaise y a Daphne que nos vemos en la sala común."
+          ]
+        },
+        {
+          "scene": "Hermione meets Ginny's gaze with an expectant smile. Ginny nods, long copper hair and clear red-gold school uniform. Theo's bemused face at edge.",
+          "dialogue": [
+            "Hermione: Ginny, necesito la capa de Harry.",
+            "Ginny: Yo te la consigo."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 23\n\nGinny trae la versión de Gossip Witch. Hermione admite que lanzó el primer hechizo y pide la capa de Harry.\nGOSSIP WITCH\nDuelo en el sexto piso\nGinny, fuera de cuadro: Lavender publicó la versión de Diane.\nHermione: Nos insultaron, pero el primer hechizo lo lancé yo.\nGinny: ¿Tú lanzaste el primero?\nHermione: Nadie se mete con mi familia.\nGinny: Diane sigue furiosa. Podría estar preparando algo.\nHermione: Diles a Blaise y a Daphne que nos vemos en la sala común.\nHermione: Ginny, necesito la capa de Harry.\nGinny: Yo te la consigo.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas. Titular, globos, acentos y atribución comprobados. Theo, Ginny, Hermione y los dos ocupantes del cochecito siguen en el mismo pasillo.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p023.png",
+      "sha256": "59cb3a43176da594066059875273fe50d39def0ba204fb37a566398344decbb3",
+      "masterSha256": "e4f5eb60f6da75c30d2c37d772990c1f0838717dbbf05197ad0315417ac2cd80",
+      "ocrMissingCandidates": [
+        "gossip",
+        "hechizo",
+        "sigue",
+        "furiosa",
+        "podria",
+        "estar",
+        "preparando",
+        "vemos"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes male Theo’s short brown curls, green eyes and green school uniform only. Image 4 fixes Ginny's long copper-red hair, blue eyes and own face only. Image 5 fixes the exact small charcoal furry Puffskein with green eyes, and Robin's stroller and outfit.\nPansy remains a single charcoal furry round Puffskein, grapefruit sized, tiny paws and expressive green eyes, distinct from Robin. Human Robin is a tiny infant with brown curls, green eyes, navy cardigan and beige trousers, same sand Zephyr stroller. Keep Hermione’s full red-gold school uniform, chestnut curls, brown eyes, freckles and white platinum sapphire. No human Pansy yet. Interior Hogwarts dungeon corridor at evening, warm torchlight, stone arches, few distant students. Theo male short brown curls and green eyes in green-silver uniform. Ginny long copper-red hair, blue eyes, freckles and red-gold uniform, distinct from Hermione.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 23» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Close newspaper held by Ginny with masthead and one clear headline. Small black-and-white sketch of the sixth-floor corridor. No other readable print. Prop text verbatim «GOSSIP WITCH» Prop text verbatim «Duelo en el sexto piso» Balloon from Ginny, fuera de cuadro. Print verbatim «Lavender publicó la versión de Diane.»\nPanel 2. Hermione red-gold uniform, sapphire in white platinum, looks openly at Theo and Ginny. Robin and one charcoal Puffskein in stroller, away from faces. Balloon from Hermione. Print verbatim «Nos insultaron, pero el primer hechizo lo lancé yo.»\nPanel 3. Theo looks at her in surprise with mouth slightly open. Ginny eyes widen. Both in correct uniforms. Balloon from Ginny. Print verbatim «¿Tú lanzaste el primero?»\nPanel 4. Close Hermione, resolute brown eyes and arms folded naturally. Dark green-eyed Puffskein visible over stroller edge beside Robin. Balloon from Hermione. Print verbatim «Nadie se mete con mi familia.»\nPanel 5. Ginny lowers folded newspaper, concerned. Theo listens beside her. Hermione keeps one hand on stroller handle. Balloon from Ginny. Print verbatim «Diane sigue furiosa. Podría estar preparando algo.»\nPanel 6. Hermione turns to Theo in torchlit corridor, takes stroller handle. Theo listens, very little background. Balloon from Hermione. Print verbatim «Diles a Blaise y a Daphne que nos vemos en la sala común.»\nPanel 7. Hermione meets Ginny's gaze with an expectant smile. Ginny nods, long copper hair and clear red-gold school uniform. Theo's bemused face at edge. Balloon from Hermione. Print verbatim «Ginny, necesito la capa de Harry.» Balloon from Ginny. Print verbatim «Yo te la consigo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p040.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p003.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2fdac56f-de75-474f-a8ad-92a55369238e.png"
+          ],
+          "generatedMaster": "exec-27021eb5-42e0-4f61-acb1-f80be0ffcfea.png"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "image": "paginas/c11-p024.webp",
+      "sourcePdfPages": [
+        343,
+        344,
+        345
+      ],
+      "summary": "Los amigos se reúnen en la sala de estudio. Robin protege a Pansy entre juguetes hasta que llega Millicent.",
+      "panels": [
+        {
+          "scene": "Wide study room, parents watching padded rug. Blaise dark skin black curls laughs from green chair, Daphne kneels on rug. Robin and Arianna watch small charcoal Puffskein between them. Draco sits on mahogany chair, Tracey nearby.",
+          "caption": "Una hora después, en la sala de estudio de Slytherin."
+        },
+        {
+          "scene": "Daphne admires the small disgruntled fur ball. Both her hands clasped at chest, long blonde waves and green uniform, no grabbing. Human Robin and Arianna nearby.",
+          "dialogue": [
+            "Daphne: ¡Es la cosa más tierna que he visto!"
+          ]
+        },
+        {
+          "scene": "Human baby Arianna in beige offers one small breadcrumb to the charcoal Puffskein with natural tiny fingers, Daphne supervising a short distance away. Robin places a wooden block beside a plush dragon.",
+          "caption": "Arianna le ofreció pan. Robin le construyó una fortaleza."
+        },
+        {
+          "scene": "Draco platinum-haired in green school uniform, seated in mahogany chair with visible wooden armrest. Hermione listens tiredly from adjacent sofa. The small fur ball and babies stay at safe distance.",
+          "dialogue": [
+            "Draco: ¿Cómo pudo Brennan hacerle eso?",
+            "Hermione: Lanzó un hechizo a ciegas entre el humo."
+          ]
+        },
+        {
+          "scene": "Tracey high brown ponytail and brown eyes on green armrest, school uniform, asks Hermione who blushes mildly. Daphne beside them.",
+          "dialogue": [
+            "Tracey: ¿Y qué hacían en el sexto piso?"
+          ]
+        },
+        {
+          "scene": "Heavy carved oak door swings open. Millicent in green uniform, distinct long dark brown curls half up, stands in doorway looking alarmed. The room falls quiet. No one hurt.",
+          "dialogue": [
+            "Millicent: ¡Pansy!"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 11 · 24\n\nLos amigos se reúnen en la sala de estudio. Robin protege a Pansy entre juguetes hasta que llega Millicent.\nNarración: Una hora después, en la sala de estudio de Slytherin.\nDaphne: ¡Es la cosa más tierna que he visto!\nNarración: Arianna le ofreció pan. Robin le construyó una fortaleza.\nDraco: ¿Cómo pudo Brennan hacerle eso?\nHermione: Lanzó un hechizo a ciegas entre el humo.\nTracey: ¿Y qué hacían en el sexto piso?\nMillicent: ¡Pansy!",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas. Se conserva la sala de estudio y puerta de serpiente. Robin y Arianna tienen rasgos y ropa distintos. Millicent entra en el último cuadro.",
+      "workingMaster": ".local/maestros/capitulo-11-continuacion-2026-11-08/c11-p024.png",
+      "sha256": "5f5496ea54fd367c249cdcba2721399d21f5dcd2441beca8df51938e437d4c80",
+      "masterSha256": "491a62cd605ea5007ba641f4d459349472c9ee4b2795ea75ec40ea171526121d",
+      "ocrMissingCandidates": [
+        "hacian",
+        "sexto",
+        "pansy"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 fixes the study room and oak snake door, and Millicent’s dark curly hairstyle in its right-hand middle panel. Ignore birthday objects. Image 4 fixes the individual friends and infants only. Image 5 fixes the exact small charcoal Puffskein with green eyes only. No human Pansy appears.\nPansy remains a single charcoal furry round Puffskein, grapefruit sized, tiny paws and expressive green eyes, distinct from Robin. Human Robin is a tiny infant with brown curls, green eyes, navy cardigan and beige trousers, same sand Zephyr stroller. Keep Hermione’s full red-gold school uniform, chestnut curls, brown eyes, freckles and white platinum sapphire. No human Pansy yet. Slytherin study room from the birthday chapter, heavy dark oak door with carved snake, green tufted sofas, low wood table and teal underwater arched windows. No party food, decorations or birthday cake. The friends wear their usual school uniforms. Blaise dark skin short black curls, Daphne long blonde waves, Draco platinum hair, Astoria long brown, Tracey high brown ponytail. Robin and fair-haired blue-eyed Arianna in beige are foreground. Other infants may stay in supported laps in background. Millicent has her own dark brown long curls half up and dark brown eyes, green uniform, arrives ONLY in final panel.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 11 · 24» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Wide study room, parents watching padded rug. Blaise dark skin black curls laughs from green chair, Daphne kneels on rug. Robin and Arianna watch small charcoal Puffskein between them. Draco sits on mahogany chair, Tracey nearby. Caption verbatim «Una hora después, en la sala de estudio de Slytherin.»\nPanel 2. Daphne admires the small disgruntled fur ball. Both her hands clasped at chest, long blonde waves and green uniform, no grabbing. Human Robin and Arianna nearby. Balloon from Daphne. Print verbatim «¡Es la cosa más tierna que he visto!»\nPanel 3. Human baby Arianna in beige offers one small breadcrumb to the charcoal Puffskein with natural tiny fingers, Daphne supervising a short distance away. Robin places a wooden block beside a plush dragon. Caption verbatim «Arianna le ofreció pan. Robin le construyó una fortaleza.»\nPanel 4. Draco platinum-haired in green school uniform, seated in mahogany chair with visible wooden armrest. Hermione listens tiredly from adjacent sofa. The small fur ball and babies stay at safe distance. Balloon from Draco. Print verbatim «¿Cómo pudo Brennan hacerle eso?» Balloon from Hermione. Print verbatim «Lanzó un hechizo a ciegas entre el humo.»\nPanel 5. Tracey high brown ponytail and brown eyes on green armrest, school uniform, asks Hermione who blushes mildly. Daphne beside them. Balloon from Tracey. Print verbatim «¿Y qué hacían en el sexto piso?»\nPanel 6. Heavy carved oak door swings open. Millicent in green uniform, distinct long dark brown curls half up, stands in doorway looking alarmed. The room falls quiet. No one hurt. Balloon from Millicent. Print verbatim «¡Pansy!»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c05-p016-color-v2.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c10-p044.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2fdac56f-de75-474f-a8ad-92a55369238e.png"
+          ],
+          "generatedMaster": "exec-0983fcbb-f577-43a6-872f-3a87f0397866.png"
+        }
+      ]
+    }
+  ]
+}
