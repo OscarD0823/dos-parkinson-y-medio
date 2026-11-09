@@ -1,6 +1,6 @@
 # Continuación del capítulo 10
 
-**Rivales** sigue en elaboración. Este registro conserva el primer bloque (páginas 1–6) y documenta la continuación posterior. Las 44 páginas previstas son una estimación, no páginas ya dibujadas.
+**Rivales** está completo con 44 páginas ilustradas. Este registro reúne el primer bloque y las entregas que lo continuaron.
 
 Se utiliza la fuente completa verificada de 744 páginas, de Nicole_Winkel. Este bloque adapta las páginas 247–256 del PDF. Las escenas íntimas se resuelven con elipsis, como en el resto del lector, y se conserva la comedia familiar, la conversación y el desarrollo de la relación.
 
@@ -109,18 +109,17 @@ Páginas nuevas revisadas completas, con OCR adicional y referencia facial perma
 
 Los [prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-36-40.json) registran las correcciones de rotulación y continuidad. Los originales y todas las páginas ya publicadas permanecen intactos. El capítulo alcanza 40 páginas ilustradas.
 
-## Continuación preparada y límite de uso
+## Cierre en las páginas 41–44
 
-El 4 de noviembre de 2026 ImageGen integrada alcanzó su límite de uso. La herramienta informó la siguiente disponibilidad: **5 de noviembre de 2026 a las 06:50:11 de Bogotá** (11:50:11 UTC). No se cambió a una API de pago.
+El 8 de noviembre se retomaron los [borradores conservados el 4 de noviembre](prompts-capitulo-10-paginas-41-44-pendientes.json). En la página 41 se retiró a Draco y Astoria del primer cuadro para que su llegada ocurra en la 43. En la 44 se recuperó el platino blanco del collar de Hermione en el quinto cuadro y en el grupo final.
 
-Las páginas 41–44 ya tienen guion e imágenes generadas, guardadas en el proyecto como borradores PNG y WebP. Todavía no se incorporan al lector ni se cuentan como páginas publicadas. Se conserva el punto de continuación en la página 41.
+Páginas nuevas revisadas completas, con OCR adicional y referencia facial permanente en los originales del capítulo 1. Los bebés mantienen apariencia humana. El crédito de Nicole_Winkel se añade solo en la exportación.
 
-| Páginas | Revisión pendiente |
-| --- | --- |
-| 42–43 | Versiones revisadas, conservadas para incorporación consecutiva después de corregir la página anterior. |
-| 41 | Retirar a Draco y Astoria del primer cuadro; su llegada ocurre en la página 43. Conservar los ocho amigos y bebés presentes. |
-| 44 | Recuperar platino blanco con halo de diamantes en el collar de Hermione del quinto cuadro. Conservar la cabecera existente y el cierre completo. |
+| Página ilustrada | Fuente PDF | Escena |
+| --- | --- | --- |
+| 41 | 306–307 | Hermione y Pansy intentan explicar la consulta mientras sus amigos se divierten con su vergüenza. |
+| 42 | 307–307 | Luna atribuye los sentimientos del grupo a los nargles y convierte las bromas en una sorpresa para todos. |
+| 43 | 307–308 | La confesión de Luna sorprende a Theo. Draco y Astoria llegan justo cuando la conversación cambia de rumbo. |
+| 44 | 308–309 | Las bromas alcanzan a Draco y Astoria. Hermione disfruta de la familia que ha encontrado en sus amigos. |
 
-Los [guiones, prompts, borradores y decisiones pendientes](prompts-capitulo-10-paginas-41-44-pendientes.json) documentan el trabajo preparado. Los borradores están en `.local/borradores/capitulo-10-2026-11-04/`. La comprobación final de los PNG confirma que las cabeceras de las páginas 36–39 y 44 ya estaban presentes; se descarta la apreciación anterior de que faltaban. Los intentos innecesarios de añadirlas fueron bloqueados y no sustituyeron los originales. Las páginas 36–40 se incorporan con sus cabeceras originales.
-
-Tras cerrar las páginas 41–44, la adaptación continúa con el capítulo 11; los capítulos 11–13 aún no tienen páginas incorporadas.
+El capítulo termina en la página 44 y da paso a **Anatomía de un Rumor**. [Prompts, guiones, intentos y maestros](prompts-capitulo-10-paginas-41-44.json).
