@@ -82,3 +82,16 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 32 | 445–446–447 | Robin conserva su oso mientras pagan. En el estacionamiento, Jane sorprende a Pansy con una pregunta. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-29-32.json).
+
+## Páginas 33–38
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 33 | 447–448–449 | Jane ofrece a Pansy una primera práctica al volante. Hermione acepta acompañarlas con Robin. |
+| 34 | 450–451–452 | El automóvil avanza por el estacionamiento. Los limpiaparabrisas traicionan a Pansy durante el primer giro. |
+| 35 | 452–453–454 | Jane celebra el primer recorrido de Pansy. Hermione admite que ha salido mejor de lo que esperaba. |
+| 36 | 455–456–457 | La familia decora el árbol. Robin cuelga el búho que Hermione hizo de niña. |
+| 37 | 457–458–459 | Hermione confía a Robin a Malcolm. El abuelo se calma cuando el pequeño le toca la nariz. |
+| 38 | 459–460–461 | Se enciende el árbol. Pansy conserva el búho torcido y Jane captura el momento en una foto. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-33-38.json).

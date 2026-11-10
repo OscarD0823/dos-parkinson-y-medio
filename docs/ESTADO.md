@@ -15,12 +15,12 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 9 | Esmoquin, pañales y alta sociedad | 37 | 37 |
 | 10 | Rivales | 44 | 44 |
 | 11 | Anatomía de un Rumor | 44 | 44 |
-| 12 | Parkinson's Christmas | 95 | 32 |
+| 12 | Parkinson's Christmas | 95 | 38 |
 | 13 | La Dolce Vita | 88 | 0 |
 
 Herramienta: ImageGen integrada. Las imágenes publicadas se revisan antes de incorporarlas. La portada no cuenta como página de capítulo.
 
-Total: **335 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
+Total: **341 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
 
 La revisión del 3 de noviembre dejó 11 correcciones pendientes por el límite de uso de ImageGen y cinco páginas cuya edición fue rechazada por la herramienta. El [registro histórico](REVISION-CAPITULOS-02-09.md) enumera los casos originales.
 
@@ -42,4 +42,4 @@ El 8 de noviembre se completa el capítulo 10 con las páginas 41–44, revisada
 
 El capítulo 11 llega a 44 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-11.md).
 
-El capítulo 12 llega a 32 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-12.md).
+El capítulo 12 llega a 38 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-12.md).
