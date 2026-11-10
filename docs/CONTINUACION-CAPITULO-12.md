@@ -131,3 +131,18 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 60 | 514–515–516–517 | Pansy habla de sus planes y del trabajo de Eirena. La nieve se intensifica y las dos deciden regresar. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-49-60.json).
+
+## Páginas 61–68
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 61 | 518–519–520 | Al salir de la cafetería, la nieve le da a Hermione un momento de calma. Pansy la acompaña antes de buscar el coche. |
+| 62 | 520–521 | Hermione le entrega a Pansy las llaves y prepara el coche para el regreso. Pansy acepta conducir. |
+| 63 | 521–522–523 | Pansy se familiariza con el coche de Malcolm. Hermione la acompaña mientras salen de Londres. |
+| 64 | 524–525–526–527 | Hermione reconoce en Pansy la misma concentración de cuando vuela. La tormenta empieza a ganar fuerza al llegar a casa. |
+| 65 | 527–528–529 | Pansy sube las compras con magia y Hermione retira el hechizo del maletero. La casa sigue en silencio. |
+| 66 | 529–530 | La contestadora guarda dos mensajes. Jane cuenta que un árbol caído ha cerrado el camino de Derbyshire. |
+| 67 | 530–531 | Jane y Malcolm confirman que están a salvo. Hermione escucha reír a Robin al otro lado del teléfono. |
+| 68 | 531–532 | Hermione se entera de que Crookshanks viajó con ellos. Jane confirma que tienen lo necesario para la noche. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-61-68.json).
