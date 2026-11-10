@@ -1,0 +1,892 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    49,
+    60
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 49,
+      "image": "paginas/c12-p049.webp",
+      "sourcePdfPages": [
+        489,
+        490,
+        491
+      ],
+      "summary": "Hermione sorprende a Pansy con el automóvil que Malcolm les prestó. La nota del garaje deja claras sus condiciones.",
+      "panels": [
+        {
+          "scene": "The two older students are dressed to go out, walking beside a familiar oak door toward the attached garage. Pansy in charcoal and Hermione in taupe, no baby.",
+          "caption": "Cuando estuvieron listas, Hermione la llevó al garaje."
+        },
+        {
+          "scene": "Wide reveal of one black low sports coupé under neat warm garage lights, tool cabinet and shelving in background. Pansy stops with genuinely surprised green eyes, Hermione looks pleased.",
+          "dialogue": [
+            "Pansy: ¿En serio nos dejó el Porsche?"
+          ]
+        },
+        {
+          "scene": "Close paper note under wiper on parked car. Exact large neat handwritten Spanish «Con el depósito lleno. Sin comida dentro. Ni un rasguño.» Pansy's gray sleeve points near paper without obscuring it.",
+          "printed": [
+            "Con el depósito lleno. Sin comida dentro. Ni un rasguño."
+          ]
+        },
+        {
+          "scene": "Pansy stands near front right door with one brow lifted. Hermione at the same door on vehicle’s right has the keys held normally in one hand.",
+          "dialogue": [
+            "Hermione: Me hizo prometer que no tocarías el volante."
+          ]
+        },
+        {
+          "scene": "Pansy circles toward the left passenger door, looking across the roof at Hermione. Same black unbranded coupe.",
+          "dialogue": [
+            "Pansy: Espera. ¿Tú sabes conducir?"
+          ]
+        },
+        {
+          "scene": "Hermione smiles from beside the open driver’s door on vehicle right, Pansy reaches passenger door on opposite side, both remain dressed and smiling.",
+          "dialogue": [
+            "Hermione: Sube, Parkinson."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 49\n\nHermione sorprende a Pansy con el automóvil que Malcolm les prestó. La nota del garaje deja claras sus condiciones.\nNarración: Cuando estuvieron listas, Hermione la llevó al garaje.\nPansy: ¿En serio nos dejó el Porsche?\nCon el depósito lleno. Sin comida dentro. Ni un rasguño.\nHermione: Me hizo prometer que no tocarías el volante.\nPansy: Espera. ¿Tú sabes conducir?\nHermione: Sube, Parkinson.",
+      "actualPanelCount": 6,
+      "review": "Última fila separada para el orden Pansy → Hermione. Nota manuscrita completa, mismo coche y ropa.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p049.png",
+      "sha256": "70d42bd3e78be40566521cd840e463433c0dbf16288fed44fc61ace352f9b4b7",
+      "masterSha256": "6fabc5f2a03e5d03acac4dd771566d1eaaa46b8a8692ac468772e2a5806a155f",
+      "ocrMissingCandidates": [
+        "cuando",
+        "estuvieron",
+        "listas",
+        "hermione",
+        "llevo",
+        "garaje",
+        "serio",
+        "porsche",
+        "deposito",
+        "lleno",
+        "comida"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact house exterior and winter atmosphere only. Image 4 is reference for the lead faces and Granger home materials only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. A low glossy black classic sports coupé, rounded lamps, no logos, dark leather and one right-hand steering wheel. Hermione drives at the vehicle's right and Pansy is passenger at its left, both belted. In exterior head-on view Hermione is on viewer's left. Normal city streets, no risky maneuver or speeding. Granger home driveway and plain warm brick garage.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 49» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. The two older students are dressed to go out, walking beside a familiar oak door toward the attached garage. Pansy in charcoal and Hermione in taupe, no baby. Caption verbatim «Cuando estuvieron listas, Hermione la llevó al garaje.»\nPanel 2. Wide reveal of one black low sports coupé under neat warm garage lights, tool cabinet and shelving in background. Pansy stops with genuinely surprised green eyes, Hermione looks pleased. Balloon from Pansy. Print verbatim «¿En serio nos dejó el Porsche?»\nPanel 3. Close paper note under wiper on parked car. Exact large neat handwritten Spanish «Con el depósito lleno. Sin comida dentro. Ni un rasguño.» Pansy's gray sleeve points near paper without obscuring it. Prop text verbatim «Con el depósito lleno. Sin comida dentro. Ni un rasguño.»\nPanel 4. Pansy stands near front right door with one brow lifted. Hermione at the same door on vehicle’s right has the keys held normally in one hand. Balloon from Hermione. Print verbatim «Me hizo prometer que no tocarías el volante.»\nPanel 5. Pansy circles toward the left passenger door, looking across the roof at Hermione. Same black unbranded coupe. Balloon from Pansy. Print verbatim «Espera. ¿Tú sabes conducir?»\nPanel 6. Hermione smiles from beside the open driver’s door on vehicle right, Pansy reaches passenger door on opposite side, both remain dressed and smiling. Balloon from Hermione. Print verbatim «Sube, Parkinson.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p014.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp"
+          ],
+          "generatedMaster": "exec-0661f3a4-edb4-4545-afb0-ecc4b4f05f95.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Make a precision continuity edit of the FIRST full finished Spanish illustrated comic page «Capítulo 12 · 49», 1024×1536 portrait. Preserve the top four panels EXACTLY, including the note «Con el depósito lleno. Sin comida dentro. Ni un rasguño.», faces, color, snowy driveway, winter clothes, hair and keys. The sole change is in the BOTTOM WIDE PANEL: because the black coupé is a British right-hand-drive car, move the ONE steering wheel to the LEFT HALF of this HEAD-ON picture, directly in front of the left half's dark seat. Place Hermione, recognizable by the chestnut curls in a low ponytail, freckles, warm taupe coat and ivory scarf, by the LEFT open door in this picture, next to the wheel. Place Pansy, recognizable by the sleek chin-length black bob, green eyes and charcoal trench, by the RIGHT open door in this picture. Keep the exact words «Espera. ¿Tú sabes conducir?» in a white balloon above Pansy toward the upper right, and «Sube, Parkinson.» in a clearly LOWER white balloon above Hermione at the left, with tails directed to the respective speakers. This high-then-low order matters. The second reference is only for how the driver's right-hand wheel appears at the viewer's LEFT through the windshield in a head-on view; ignore other characters, vehicles and environments. A single black car, two people, one wheel, no added text. Preserve the exact art and cream margins of the first four panels.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0661f3a4-edb4-4545-afb0-ecc4b4f05f95.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p034.webp"
+          ],
+          "generatedMaster": "exec-bdfc2ecf-f1cb-42b9-8d23-37bced08635c.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Precise layout correction of this full Spanish comic page «Capítulo 12 · 49». Keep the upper FOUR panels EXACTLY as in the reference image, all their art, faces, clothing, car and Spanish text untouched. In the bottom row ONLY, split the wide picture into TWO distinct equal-width panels, with a vertical cream gutter in the same style as the rows above. This is for natural top-to-bottom and left-to-right reading. In the NEW panel 5, bottom LEFT, a three-quarter close side view of Pansy at the passenger door (sleek black bob, green eyes, charcoal trench, Pansy stays at the same car door on its left). Only Pansy clearly visible, windshield and wheel out of view. One balloon from Pansy «Espera. ¿Tú sabes conducir?» In the NEW panel 6, bottom RIGHT, a three-quarter close side view of Hermione by the driver door (low chestnut curly ponytail, brown eyes, freckles, taupe coat and ivory scarf, same door on the car’s right). Only Hermione clearly visible, windshield and wheel out of view. One balloon from Hermione «Sube, Parkinson.» Same black coupé, no other figure, same garage and winter colors. Six panels total. Keep the original header, full cream margins, same scale and sharp readable type.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bdfc2ecf-f1cb-42b9-8d23-37bced08635c.png"
+          ],
+          "generatedMaster": "exec-f1928a11-6e09-49f9-8bb6-15813bcf5b7e.png"
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "image": "paginas/c12-p050.webp",
+      "sourcePdfPages": [
+        491,
+        492,
+        493
+      ],
+      "summary": "Hermione conduce por Londres y las dos llegan a los escaparates iluminados de Harrods.",
+      "panels": [
+        {
+          "scene": "Wide street view of the single black coupe rolling normally past decorated Victorian shopfronts. Thin frost on sidewalks, no readable brands.",
+          "caption": "Londres estaba vestido de Navidad."
+        },
+        {
+          "scene": "Close parked-at-red-light view of Hermione at the right-hand wheel and Pansy passenger left, both belted. Hermione's curls gathered low, Pansy black bob.",
+          "dialogue": [
+            "Hermione: Llevas tres semáforos observándome."
+          ]
+        },
+        {
+          "scene": "Pansy looks out through passenger-side window, half-smile, sweater and trench coat exact. Hermione in safe background eyes forward.",
+          "dialogue": [
+            "Pansy: Estoy evaluando tu técnica."
+          ]
+        },
+        {
+          "scene": "After parking, wide street establishing view of grand ochre facade and Christmas windows on Brompton Road. One legible gold sign «Harrods». Pansy and Hermione stand on sidewalk, both backs recognizable.",
+          "printed": [
+            "Harrods"
+          ]
+        },
+        {
+          "scene": "At display window with a tiny train and snowy scenery. Hermione asks at left, Pansy replies at right. Two clear ordered balloons above distinct faces.",
+          "dialogue": [
+            "Hermione: ¿Está a la altura de tus estándares?",
+            "Pansy: No es terrible."
+          ]
+        },
+        {
+          "scene": "Enter interior through tall glazed doors. Marble aisle, brass display cases and hanging gold spheres. Both look up at architecture. Quiet shoppers in background.",
+          "caption": "Era lo más cercano a un elogio que Hermione esperaba."
+        }
+      ],
+      "transcript": "Capítulo 12 · 50\n\nHermione conduce por Londres y las dos llegan a los escaparates iluminados de Harrods.\nNarración: Londres estaba vestido de Navidad.\nHermione: Llevas tres semáforos observándome.\nPansy: Estoy evaluando tu técnica.\nHarrods\nHermione: ¿Está a la altura de tus estándares?\nPansy: No es terrible.\nNarración: Era lo más cercano a un elogio que Hermione esperaba.",
+      "actualPanelCount": 6,
+      "review": "Vista lateral del lado del pasajero y Hermione al volante, con cinturones. Fachada, escaparate y textos intactos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p050.png",
+      "sha256": "838eab2c00a2fb833bbc5217af06e44e0d0b8b9e9551d09184b0adc08356a933",
+      "masterSha256": "bd0077e6d4d35a3556b25779f2ec97aea330072f4cf233f12ea2897dd418c49b",
+      "ocrMissingCandidates": [
+        "harrods"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for winter architecture and dusk colors only. Image 4 is reference for the exact individual faces of Hermione and Pansy only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. A low glossy black classic sports coupé, rounded lamps, no logos, dark leather and one right-hand steering wheel. Hermione drives at the vehicle's right and Pansy is passenger at its left, both belted. In exterior head-on view Hermione is on viewer's left. Normal city streets, no risky maneuver or speeding. Granger home driveway and plain warm brick garage. London department store Christmas visit. Exterior ornate warm ochre brick facade outlined by rows of golden lights and street garlands. Festive windows with miniature train, snowy villages and toy animals. Interior continuity marble floors, clear glass cases, polished brass, airy high balconies with garlands and satin ornaments, warm display lamps. Quiet ordinary shoppers at a distance. Use only specified short sign or labels. Pansy and Hermione keep their outing outfits and faces throughout.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 50» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide street view of the single black coupe rolling normally past decorated Victorian shopfronts. Thin frost on sidewalks, no readable brands. Caption verbatim «Londres estaba vestido de Navidad.»\nPanel 2. Close parked-at-red-light view of Hermione at the right-hand wheel and Pansy passenger left, both belted. Hermione's curls gathered low, Pansy black bob. Balloon from Hermione. Print verbatim «Llevas tres semáforos observándome.»\nPanel 3. Pansy looks out through passenger-side window, half-smile, sweater and trench coat exact. Hermione in safe background eyes forward. Balloon from Pansy. Print verbatim «Estoy evaluando tu técnica.»\nPanel 4. After parking, wide street establishing view of grand ochre facade and Christmas windows on Brompton Road. One legible gold sign «Harrods». Pansy and Hermione stand on sidewalk, both backs recognizable. Prop text verbatim «Harrods»\nPanel 5. At display window with a tiny train and snowy scenery. Hermione asks at left, Pansy replies at right. Two clear ordered balloons above distinct faces. Balloon from Hermione. Print verbatim «¿Está a la altura de tus estándares?» Balloon from Pansy. Print verbatim «No es terrible.»\nPanel 6. Enter interior through tall glazed doors. Marble aisle, brass display cases and hanging gold spheres. Both look up at architecture. Quiet shoppers in background. Caption verbatim «Era lo más cercano a un elogio que Hermione esperaba.»\nUse the precise two winter outfits and black coupé shape from the top four panels of reference 5 only; IGNORE the windshield and positions in its final panel. For panel 2, use a centered camera behind the TWO front seats looking FORWARD toward the road. Hermione is on the RIGHT SIDE of panel 2 with the ONE steering wheel immediately in front of her. Pansy is in the LEFT seat, hands low and far away from wheel. Both belts visible. If any exterior frame shows the car head-on, this position reverses and Hermione and wheel appear at the LEFT of that exterior frame. Keep both faces recognizable by curls and bob. In panels 1, 3, 4, 5 and 6 avoid showing the steering wheel.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p014.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0661f3a4-edb4-4545-afb0-ecc4b4f05f95.png"
+          ],
+          "generatedMaster": "exec-9669c08e-8369-4cbf-a15e-2ebc60602b00.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Exact precision edit of this full six-panel Spanish comic page «Capítulo 12 · 50», 1024×1536 portrait. Preserve ALL the art, faces, accents, colors, clothing, Harrods sign, winter architecture and panel borders of panels 1, 3, 4, 5 and 6 pixel-for-pixel where possible. ONLY panel 2, upper right: change the camera to a close side-on view taken through the parked black coupé’s open LEFT passenger window. Pansy is in the near passenger seat at LEFT foreground, her black bob and charcoal coat, head turned toward the other seat. Hermione is in the other front seat on the far side, in THREE-QUARTER PROFILE with recognizable low chestnut ponytail, beige coat, ivory scarf, freckles, brown eyes, speaking. Both wearing ordinary belts. A slim right-hand steering wheel is in FRONT of Hermione only, cropped at the panel's far right edge. Do not show a frontal symmetric image or view out rear glass. Outside the far side window are soft reflections of Christmas lights and London street. One exact speech balloon from Hermione «Llevas tres semáforos observándome.» Keep everything else untouched.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9669c08e-8369-4cbf-a15e-2ebc60602b00.png"
+          ],
+          "generatedMaster": "exec-5673ddf9-33c8-4d82-9948-ede32f7f17ab.png"
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "image": "paginas/c12-p051.webp",
+      "sourcePdfPages": [
+        493,
+        494,
+        495,
+        496
+      ],
+      "summary": "Pansy distingue la confección de las promesas de un vendedor. La segunda asesora encuentra el abrigo adecuado.",
+      "panels": [
+        {
+          "scene": "In boutique with brass garment rails and ivory silk displays. Young adult salesman holds one elegant ivory coat toward Pansy. Hermione listens by rack.",
+          "dialogue": [
+            "Vendedor: Cachemira pura y forro de seda natural."
+          ]
+        },
+        {
+          "scene": "Pansy examines the lining and neatly made seam with two natural hands. Same ivory coat in her hands, no extra branding. Hermione's sleeve and curious look partly visible.",
+          "dialogue": [
+            "Pansy: El corte es bueno. El forro es de viscosa."
+          ]
+        },
+        {
+          "scene": "The salesman accepts back the same ivory coat, slightly embarrassed but polite. Pansy keeps her own trench, Hermione beside her.",
+          "dialogue": [
+            "Vendedor: Quizá prefiera conocer nuestra selección privada."
+          ]
+        },
+        {
+          "scene": "The older silver-haired advisor in emerald ribbon presents a separate black structured coat on a wooden hanger. The ivory garment is gone.",
+          "dialogue": [
+            "Asesora: Quizá este corte le interese."
+          ]
+        },
+        {
+          "scene": "Pansy tries on the black coat over her black turtleneck. Medium full figure by a large mirror, identifiable reflection aligned to her pose. Hermione's face visible from outside the mirror. Both fully dressed.",
+          "dialogue": [
+            "Pansy: Me lo llevo."
+          ]
+        },
+        {
+          "scene": "They leave boutique carrying one unbranded dark shopping bag, Pansy back in original charcoal trench, Hermione amused. Same marble arcade, satin gold décor.",
+          "dialogue": [
+            "Pansy: Podrías haber dicho que me veía hermosa."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 51\n\nPansy distingue la confección de las promesas de un vendedor. La segunda asesora encuentra el abrigo adecuado.\nVendedor: Cachemira pura y forro de seda natural.\nPansy: El corte es bueno. El forro es de viscosa.\nVendedor: Quizá prefiera conocer nuestra selección privada.\nAsesora: Quizá este corte le interese.\nPansy: Me lo llevo.\nPansy: Podrías haber dicho que me veía hermosa.",
+      "actualPanelCount": 6,
+      "review": "Reflejo y cambio de abrigo coherentes. La cola del último globo apunta ahora a Pansy.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p051.png",
+      "sha256": "552d1b03ce61b6697e82988d84869184a08d9ad8159f5e01070e66fb5ca9125b",
+      "masterSha256": "11eed623af6ab025d8e5f16b553357bc0d11a3bf2b2153d6ddf3cb9daf5fa4e5",
+      "ocrMissingCandidates": [
+        "llevo",
+        "podrias",
+        "haber",
+        "dicho",
+        "hermosa"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact individual Pansy and Hermione faces only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. London department store Christmas visit. Exterior ornate warm ochre brick facade outlined by rows of golden lights and street garlands. Festive windows with miniature train, snowy villages and toy animals. Interior continuity marble floors, clear glass cases, polished brass, airy high balconies with garlands and satin ornaments, warm display lamps. Quiet ordinary shoppers at a distance. Use only specified short sign or labels. Pansy and Hermione keep their outing outfits and faces throughout. In the same refined clothing salon, clear brass racks and upholstered benches. Salesman adult with neat brown hair and slate suit. Senior saleswoman adult with short silver waves, black suit and small emerald ribbon. Pansy wears her charcoal trench until trying a separate black structured coat with clean lines and marked waist. Hermione stays in taupe and ivory.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 51» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. In boutique with brass garment rails and ivory silk displays. Young adult salesman holds one elegant ivory coat toward Pansy. Hermione listens by rack. Balloon from Vendedor. Print verbatim «Cachemira pura y forro de seda natural.»\nPanel 2. Pansy examines the lining and neatly made seam with two natural hands. Same ivory coat in her hands, no extra branding. Hermione's sleeve and curious look partly visible. Balloon from Pansy. Print verbatim «El corte es bueno. El forro es de viscosa.»\nPanel 3. The salesman accepts back the same ivory coat, slightly embarrassed but polite. Pansy keeps her own trench, Hermione beside her. Balloon from Vendedor. Print verbatim «Quizá prefiera conocer nuestra selección privada.»\nPanel 4. The older silver-haired advisor in emerald ribbon presents a separate black structured coat on a wooden hanger. The ivory garment is gone. Balloon from Asesora. Print verbatim «Quizá este corte le interese.»\nPanel 5. Pansy tries on the black coat over her black turtleneck. Medium full figure by a large mirror, identifiable reflection aligned to her pose. Hermione's face visible from outside the mirror. Both fully dressed. Balloon from Pansy. Print verbatim «Me lo llevo.»\nPanel 6. They leave boutique carrying one unbranded dark shopping bag, Pansy back in original charcoal trench, Hermione amused. Same marble arcade, satin gold décor. Balloon from Pansy. Print verbatim «Podrías haber dicho que me veía hermosa.»\nUse the exact two winter outfits, ponytail and faces from the first row of the additional final reference only. Maintain exactly six separate panels, one bubble in each. In the mirror fitting, only Pansy is reflected, with the same black fitted coat and hands in the identical pose. Hermione stays out of the reflective surface.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0661f3a4-edb4-4545-afb0-ecc4b4f05f95.png"
+          ],
+          "generatedMaster": "exec-d6602f19-379b-40be-babb-de38a7c06618.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Tiny speech-tail correction of this finished six-panel Spanish comic page «Capítulo 12 · 51». Preserve the six panels, margins, text, clothes, poses, scenery, and all faces completely. Only in the sixth panel at bottom right, keep the exact balloon «Podrías haber dicho que me veía hermosa.» but move its tail from the left bottom edge to the RIGHT bottom edge, pointing unmistakably to the mouth/face of PANSY with sleek BLACK bob on the RIGHT side. The brunette in taupe on the LEFT is Hermione and remains laughing silently without any tail aimed at her. It is a local text-balloon-tail correction only, no other changes and no extra text.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6602f19-379b-40be-babb-de38a7c06618.png"
+          ],
+          "generatedMaster": "exec-ae6e2f6d-1d38-4cbd-8a05-1911add82bd9.png"
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "image": "paginas/c12-p052.webp",
+      "sourcePdfPages": [
+        496,
+        497,
+        498,
+        499
+      ],
+      "summary": "El recorrido pasa del calzado y la perfumería a una pausa de té. Pansy decide llevar regalos muggles a Italia.",
+      "panels": [
+        {
+          "scene": "Shoe department display. Pansy inspects a discreet seam on one black shoe and gives it back to the salesperson. Hermione has a few shopping bags.",
+          "dialogue": [
+            "Pansy: La costura es decorativa."
+          ]
+        },
+        {
+          "scene": "Perfume counter. An adult gray-haired specialist presents a test strip with one unmarked bottle. Pansy smells the paper strip with interested expression, Hermione smiles a few steps behind.",
+          "caption": "Pansy respetaba a quien sabía de lo que hablaba."
+        },
+        {
+          "scene": "Wide view of the two seated for tea in a warm formal salon with carved wood and crystal lights, folded coats on their chairs. One small silver tiered tray and cups, no other people close.",
+          "caption": "Hicieron una pausa en The Georgian."
+        },
+        {
+          "scene": "Pansy tastes a small bite of a scone, then glances at Hermione across the table. No extra food or hands.",
+          "dialogue": [
+            "Pansy: Los muggles saben cómo vivir."
+          ]
+        },
+        {
+          "scene": "Hermione at LEFT puts down tea and speaks, Pansy at RIGHT answers with amused chin raised. Several bags at edge of frame, no exact count visible.",
+          "dialogue": [
+            "Hermione: Llevas doce bolsas.",
+            "Pansy: Mi investigación es exhaustiva."
+          ]
+        },
+        {
+          "scene": "After tea, back in coats in the marble hallway toward brass elevator doors. Pansy carries two unbranded bags, Hermione one or two. Quiet holiday lights.",
+          "dialogue": [
+            "Pansy: Ahora busquemos los regalos para Italia."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 52\n\nEl recorrido pasa del calzado y la perfumería a una pausa de té. Pansy decide llevar regalos muggles a Italia.\nPansy: La costura es decorativa.\nNarración: Pansy respetaba a quien sabía de lo que hablaba.\nNarración: Hicieron una pausa en The Georgian.\nPansy: Los muggles saben cómo vivir.\nHermione: Llevas doce bolsas.\nPansy: Mi investigación es exhaustiva.\nPansy: Ahora busquemos los regalos para Italia.",
+      "actualPanelCount": 6,
+      "review": "Calzado, perfume y salón distintos. Los diálogos y la salida hacia los regalos se leen en orden.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p052.png",
+      "sha256": "596eb63ade5a3c65717dbad0c62b1815574b25871a05e4aa0ef5ca0e883f22dc",
+      "masterSha256": "ddcf5bf23980a965703c7db1df0c99c3dd38e356479644e322b62c13713fb8fd",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact individual Hermione and Pansy faces only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. London department store Christmas visit. Exterior ornate warm ochre brick facade outlined by rows of golden lights and street garlands. Festive windows with miniature train, snowy villages and toy animals. Interior continuity marble floors, clear glass cases, polished brass, airy high balconies with garlands and satin ornaments, warm display lamps. Quiet ordinary shoppers at a distance. Use only specified short sign or labels. Pansy and Hermione keep their outing outfits and faces throughout. Keep the original outing coats during shops. At the tea lounge they are seated in their sweaters with coats folded over chair backs, ivory scarf at Hermione's side. No baby. Fine tea ceramics, tiered silver tray with small sandwiches and scones, discreet chandeliers and piano silhouette.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 52» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Shoe department display. Pansy inspects a discreet seam on one black shoe and gives it back to the salesperson. Hermione has a few shopping bags. Balloon from Pansy. Print verbatim «La costura es decorativa.»\nPanel 2. Perfume counter. An adult gray-haired specialist presents a test strip with one unmarked bottle. Pansy smells the paper strip with interested expression, Hermione smiles a few steps behind. Caption verbatim «Pansy respetaba a quien sabía de lo que hablaba.»\nPanel 3. Wide view of the two seated for tea in a warm formal salon with carved wood and crystal lights, folded coats on their chairs. One small silver tiered tray and cups, no other people close. Caption verbatim «Hicieron una pausa en The Georgian.»\nPanel 4. Pansy tastes a small bite of a scone, then glances at Hermione across the table. No extra food or hands. Balloon from Pansy. Print verbatim «Los muggles saben cómo vivir.»\nPanel 5. Hermione at LEFT puts down tea and speaks, Pansy at RIGHT answers with amused chin raised. Several bags at edge of frame, no exact count visible. Balloon from Hermione. Print verbatim «Llevas doce bolsas.» Balloon from Pansy. Print verbatim «Mi investigación es exhaustiva.»\nPanel 6. After tea, back in coats in the marble hallway toward brass elevator doors. Pansy carries two unbranded bags, Hermione one or two. Quiet holiday lights. Balloon from Pansy. Print verbatim «Ahora busquemos los regalos para Italia.»\nUse the exact two winter outfits, ponytail and faces from the first row of the additional final reference only. Maintain exactly six separate panels. Use only the two specified captions and the exact five balloons, all Spanish accents. The caption «Hicieron una pausa en The Georgian.» is the sole text in the tea salon establishing panel.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0661f3a4-edb4-4545-afb0-ecc4b4f05f95.png"
+          ],
+          "generatedMaster": "exec-7705a28a-7158-4ae2-8c97-a5ce04e3e363.png"
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "image": "paginas/c12-p053.webp",
+      "sourcePdfPages": [
+        499,
+        500,
+        501
+      ],
+      "summary": "Pansy elige tres relojes para tres personalidades. Hermione empieza a entender por qué conoce tan bien los gustos de su familia.",
+      "panels": [
+        {
+          "scene": "Entering the watch salon, both older students by dark walnut display cases. Pansy indicates a group of different trays to the adult attendant. The women's exact shopping outfits are unchanged.",
+          "dialogue": [
+            "Pansy: Tres relojes. Distintos entre sí."
+          ]
+        },
+        {
+          "scene": "Detailed rose-gold wristwatch with an exposed sculptural astronomical movement, perched on dark green velvet. Pansy visible above the case at right, Hermione smiling at left. The main subject is one watch.",
+          "dialogue": [
+            "Pansy: Excesivo. Perfecto para Blaise."
+          ]
+        },
+        {
+          "scene": "A different watch on its own velvet, midnight-blue dial with miniature planets and a central gold sun. Pansy holds the tray steady with two natural hands. No rose-gold skeleton watch in this frame.",
+          "dialogue": [
+            "Pansy: A mi padre le encantará."
+          ]
+        },
+        {
+          "scene": "The third watch, simple silver bezel, small dark slate dial and a black leather strap. Pansy looks closely at it while Hermione watches.",
+          "dialogue": [
+            "Pansy: Este es para Caelum."
+          ]
+        },
+        {
+          "scene": "Three closed small gift boxes lined across the desk. Their receipt shows no readable text. Hermione speaks, freckled face genuinely surprised, Pansy signs the purchase in one controlled gesture.",
+          "dialogue": [
+            "Hermione: Estoy intentando no convertir esa cantidad a galeones."
+          ]
+        },
+        {
+          "scene": "Walking through a festive marble aisle, Pansy glances to Hermione, who has a wry smile. Three discreet dark bags visible with the attendant behind them.",
+          "dialogue": [
+            "Pansy: Es mejor que no lo hagas."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 53\n\nPansy elige tres relojes para tres personalidades. Hermione empieza a entender por qué conoce tan bien los gustos de su familia.\nPansy: Tres relojes. Distintos entre sí.\nPansy: Excesivo. Perfecto para Blaise.\nPansy: A mi padre le encantará.\nPansy: Este es para Caelum.\nHermione: Estoy intentando no convertir esa cantidad a galeones.\nPansy: Es mejor que no lo hagas.",
+      "actualPanelCount": 6,
+      "review": "Tres relojes con carátulas y materiales reconocibles. Se conservan los destinatarios y el diálogo en orden.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p053.png",
+      "sha256": "9ec2164a893bc00a0ba5ba7f533c98abfedf10ead6df61de55cc33b2e0cd6f01",
+      "masterSha256": "fed0e44ec5cd05c0f4dc766d7a691ff1f6f4ddc66a8323f6e9f36602bbd7b8e7",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the distinct lead faces only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. London department store Christmas visit. Exterior ornate warm ochre brick facade outlined by rows of golden lights and street garlands. Festive windows with miniature train, snowy villages and toy animals. Interior continuity marble floors, clear glass cases, polished brass, airy high balconies with garlands and satin ornaments, warm display lamps. Quiet ordinary shoppers at a distance. Use only specified short sign or labels. Pansy and Hermione keep their outing outfits and faces throughout. Inside a high watch salon, brass-rimmed horizontal glass cases and dark walnut panels, forest green velvet watch pads and tiny warm spotlights. Salesman is an adult clean-shaven with dark blond hair and charcoal suit. Unbranded faces, mechanically plausible watch cases, three very distinct watches. No extra legible text or prices.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 53» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Entering the watch salon, both older students by dark walnut display cases. Pansy indicates a group of different trays to the adult attendant. The women's exact shopping outfits are unchanged. Balloon from Pansy. Print verbatim «Tres relojes. Distintos entre sí.»\nPanel 2. Detailed rose-gold wristwatch with an exposed sculptural astronomical movement, perched on dark green velvet. Pansy visible above the case at right, Hermione smiling at left. The main subject is one watch. Balloon from Pansy. Print verbatim «Excesivo. Perfecto para Blaise.»\nPanel 3. A different watch on its own velvet, midnight-blue dial with miniature planets and a central gold sun. Pansy holds the tray steady with two natural hands. No rose-gold skeleton watch in this frame. Balloon from Pansy. Print verbatim «A mi padre le encantará.»\nPanel 4. The third watch, simple silver bezel, small dark slate dial and a black leather strap. Pansy looks closely at it while Hermione watches. Balloon from Pansy. Print verbatim «Este es para Caelum.»\nPanel 5. Three closed small gift boxes lined across the desk. Their receipt shows no readable text. Hermione speaks, freckled face genuinely surprised, Pansy signs the purchase in one controlled gesture. Balloon from Hermione. Print verbatim «Estoy intentando no convertir esa cantidad a galeones.»\nPanel 6. Walking through a festive marble aisle, Pansy glances to Hermione, who has a wry smile. Three discreet dark bags visible with the attendant behind them. Balloon from Pansy. Print verbatim «Es mejor que no lo hagas.»\nImage 4 is reference only for the first panel’s exact clothes: Pansy’s belted charcoal trench and black turtleneck, Hermione’s taupe coat, ivory scarf, beige knit and gathered chestnut ponytail. Image 5 is reference for the late-Christmas Harrods marble and brass interior in the bottom-right panel only. Use exactly six separated panels, cream gutters, no branding on the products.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bdfc2ecf-f1cb-42b9-8d23-37bced08635c.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9669c08e-8369-4cbf-a15e-2ebc60602b00.png"
+          ],
+          "generatedMaster": "exec-1325fe25-c41d-4a15-bab5-aa030f69d4f5.png"
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "image": "paginas/c12-p054.webp",
+      "sourcePdfPages": [
+        502,
+        503,
+        504
+      ],
+      "summary": "Los regalos para Chiara y las Greengrass reflejan sus gustos. Pansy escoge para Eirena un collar que deja ver el trabajo del orfebre.",
+      "panels": [
+        {
+          "scene": "Advisor shows Pansy one yellow-gold fan-motif necklace on plum velvet. Each fan has a pearl-like inlay. Hermione stands to the left and watches.",
+          "dialogue": [
+            "Pansy: Es para Chiara."
+          ]
+        },
+        {
+          "scene": "The advisor sets down a gold panther bracelet around a velvet cylinder and a separate slender white-gold chain with a panther pendant. Both objects clearly distinguishable and nowhere else in frame.",
+          "dialogue": [
+            "Pansy: El brazalete para Daphne. El collar para Lissandra."
+          ]
+        },
+        {
+          "scene": "Pansy asks to inspect a fourth different piece: a linked white-and-yellow gold necklace with tiny diamonds and fine parallel lines engraved in the surface. One finger touches the engraving, with other hand on the counter.",
+          "dialogue": [
+            "Pansy: Mamá mirará la técnica antes que las piedras."
+          ]
+        },
+        {
+          "scene": "Close macro of the fourth necklace catching the light across engraved fine gold textures, alternation between white and yellow, diamonds as tiny accents. No people needed.",
+          "caption": "El grabado parecía una tela delicada."
+        },
+        {
+          "scene": "Both women at the glass case, Hermione recognizably at LEFT with the first bubble, Pansy at RIGHT with the reply. Pansy is calm and matter-of-fact as she looks away from the velvet.",
+          "dialogue": [
+            "Hermione: Sabes exactamente lo que le gusta a cada uno.",
+            "Pansy: Son mi familia, Granger."
+          ]
+        },
+        {
+          "scene": "Pansy returns the pen to the advisor and takes one small unmarked forest-green bag. Hermione looks at the receipt with a faint smile. Keep no readable receipt text.",
+          "dialogue": [
+            "Pansy: La crisis habría sido regalarle algo que no le gustara."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 54\n\nLos regalos para Chiara y las Greengrass reflejan sus gustos. Pansy escoge para Eirena un collar que deja ver el trabajo del orfebre.\nPansy: Es para Chiara.\nPansy: El brazalete para Daphne. El collar para Lissandra.\nPansy: Mamá mirará la técnica antes que las piedras.\nNarración: El grabado parecía una tela delicada.\nHermione: Sabes exactamente lo que le gusta a cada uno.\nPansy: Son mi familia, Granger.\nPansy: La crisis habría sido regalarle algo que no le gustara.",
+      "actualPanelCount": 6,
+      "review": "Joyas distintas de Chiara, Daphne, Lissandra y Eirena, detalle del rigato. Se conserva el zafiro de Hermione y los globos correctos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p054.png",
+      "sha256": "92ceac5a0970342472a149b1ed7b1c9e56244755bcd9448df879e32ee124f372",
+      "masterSha256": "88cd9c256c58266955871d87f330e5b12e170f574821ecab4923c29de3085e20",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the distinct lead faces only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. London department store Christmas visit. Exterior ornate warm ochre brick facade outlined by rows of golden lights and street garlands. Festive windows with miniature train, snowy villages and toy animals. Interior continuity marble floors, clear glass cases, polished brass, airy high balconies with garlands and satin ornaments, warm display lamps. Quiet ordinary shoppers at a distance. Use only specified short sign or labels. Pansy and Hermione keep their outing outfits and faces throughout. Refined jewelry salon, dark wood, brass and velvets in plum and forest green. Silver-haired adult jewelry advisor in an ivory blouse and navy blazer. The necklaces and bracelets here are objects on separate pads, not worn by the two students. Hermione's own distinctive oval blue sapphire stays the same when visible.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 54» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Advisor shows Pansy one yellow-gold fan-motif necklace on plum velvet. Each fan has a pearl-like inlay. Hermione stands to the left and watches. Balloon from Pansy. Print verbatim «Es para Chiara.»\nPanel 2. The advisor sets down a gold panther bracelet around a velvet cylinder and a separate slender white-gold chain with a panther pendant. Both objects clearly distinguishable and nowhere else in frame. Balloon from Pansy. Print verbatim «El brazalete para Daphne. El collar para Lissandra.»\nPanel 3. Pansy asks to inspect a fourth different piece: a linked white-and-yellow gold necklace with tiny diamonds and fine parallel lines engraved in the surface. One finger touches the engraving, with other hand on the counter. Balloon from Pansy. Print verbatim «Mamá mirará la técnica antes que las piedras.»\nPanel 4. Close macro of the fourth necklace catching the light across engraved fine gold textures, alternation between white and yellow, diamonds as tiny accents. No people needed. Caption verbatim «El grabado parecía una tela delicada.»\nPanel 5. Both women at the glass case, Hermione recognizably at LEFT with the first bubble, Pansy at RIGHT with the reply. Pansy is calm and matter-of-fact as she looks away from the velvet. Balloon from Hermione. Print verbatim «Sabes exactamente lo que le gusta a cada uno.» Balloon from Pansy. Print verbatim «Son mi familia, Granger.»\nPanel 6. Pansy returns the pen to the advisor and takes one small unmarked forest-green bag. Hermione looks at the receipt with a faint smile. Keep no readable receipt text. Balloon from Pansy. Print verbatim «La crisis habría sido regalarle algo que no le gustara.»\nImage 4 is reference only for the first panel’s exact clothes: Pansy’s belted charcoal trench and black turtleneck, Hermione’s taupe coat, ivory scarf, beige knit and gathered chestnut ponytail. Image 5 is reference for the late-Christmas Harrods marble and brass interior in the bottom-right panel only. Use exactly six separated panels, cream gutters, no branding on the products.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bdfc2ecf-f1cb-42b9-8d23-37bced08635c.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9669c08e-8369-4cbf-a15e-2ebc60602b00.png"
+          ],
+          "generatedMaster": "exec-e69df9a3-901c-45df-9230-42eb47a42f0f.png"
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "image": "paginas/c12-p055.webp",
+      "sourcePdfPages": [
+        504,
+        505
+      ],
+      "summary": "Preparan tres conjuntos distintos para Robin, Arianna y Scorpius. El abrigo verde de Robin lleva cierres protegidos.",
+      "panels": [
+        {
+          "scene": "The attendant initially offers three small IDENTICAL ivory-brown coats on wooden hangers. Pansy looks politely unconvinced.",
+          "dialogue": [
+            "Pansy: No, gracias. Queremos tres conjuntos distintos."
+          ]
+        },
+        {
+          "scene": "Hermione draws out a small cream knit from the brass rack and Pansy compares a green coat. Both women in their unchanged outing clothes.",
+          "dialogue": [
+            "Hermione: Que se vean bien juntos, pero que cada uno sea diferente."
+          ]
+        },
+        {
+          "scene": "Close natural fingers of Pansy checking the stitched flap covering the green wool coat's secure fasteners. One simple rack background.",
+          "dialogue": [
+            "Pansy: Este tiene los broches protegidos."
+          ]
+        },
+        {
+          "scene": "Three clearly separated flat lays side by side: green coat and cream knit for Robin; rich wine-red dress with delicate gold embroidery and a cream coat for Arianna; navy coat, gray trousers and dark green knit for Scorpius. No tags, people or labels.",
+          "caption": "Verde para Robin, vino para Arianna y azul para Scorpius."
+        },
+        {
+          "scene": "Pansy studies the three outfits with a precise eye and an approving smile. Hermione laughs softly beside her.",
+          "dialogue": [
+            "Pansy: Así está mejor."
+          ]
+        },
+        {
+          "scene": "Attendant wraps three separate boxes. Only a glimpse of the green, wine and navy fabric before putting lids on. Pansy and Hermione look pleased.",
+          "dialogue": [
+            "Hermione: A Daphne y Astoria les va a encantar."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 55\n\nPreparan tres conjuntos distintos para Robin, Arianna y Scorpius. El abrigo verde de Robin lleva cierres protegidos.\nPansy: No, gracias. Queremos tres conjuntos distintos.\nHermione: Que se vean bien juntos, pero que cada uno sea diferente.\nPansy: Este tiene los broches protegidos.\nNarración: Verde para Robin, vino para Arianna y azul para Scorpius.\nPansy: Así está mejor.\nHermione: A Daphne y Astoria les va a encantar.",
+      "actualPanelCount": 6,
+      "review": "Se reconocen los tres conjuntos distintos, verde/crema, vino/crema y azul/gris, y la protección del cierre.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p055.png",
+      "sha256": "e744b859f8ead35f37602ea0f6f3c39cc60e88d39d49b66bbd20aa9db0ba68d2",
+      "masterSha256": "fc90594972d276b0a0aca37a14f9b302fdba947a5e30a6cb8161341d188a7094",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the distinct lead faces only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. London department store Christmas visit. Exterior ornate warm ochre brick facade outlined by rows of golden lights and street garlands. Festive windows with miniature train, snowy villages and toy animals. Interior continuity marble floors, clear glass cases, polished brass, airy high balconies with garlands and satin ornaments, warm display lamps. Quiet ordinary shoppers at a distance. Use only specified short sign or labels. Pansy and Hermione keep their outing outfits and faces throughout. Department store baby clothing floor with warm oak drawers, small brass racks, ivory display cloth, wrapped boxes and festive garland. Adult shop assistant dark auburn bun and cream blouse with navy vest. Only clothes displayed, no infant, child or baby-shaped mannequin. Exact three later gifts: Robin forest-green wool coat with hidden fastenings, cream jumper and light beige trousers. Arianna wine-red dress with gold details, cream coat and thick tights. Scorpius navy classic wool coat, gray trousers and dark green jumper.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 55» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. The attendant initially offers three small IDENTICAL ivory-brown coats on wooden hangers. Pansy looks politely unconvinced. Balloon from Pansy. Print verbatim «No, gracias. Queremos tres conjuntos distintos.»\nPanel 2. Hermione draws out a small cream knit from the brass rack and Pansy compares a green coat. Both women in their unchanged outing clothes. Balloon from Hermione. Print verbatim «Que se vean bien juntos, pero que cada uno sea diferente.»\nPanel 3. Close natural fingers of Pansy checking the stitched flap covering the green wool coat's secure fasteners. One simple rack background. Balloon from Pansy. Print verbatim «Este tiene los broches protegidos.»\nPanel 4. Three clearly separated flat lays side by side: green coat and cream knit for Robin; rich wine-red dress with delicate gold embroidery and a cream coat for Arianna; navy coat, gray trousers and dark green knit for Scorpius. No tags, people or labels. Caption verbatim «Verde para Robin, vino para Arianna y azul para Scorpius.»\nPanel 5. Pansy studies the three outfits with a precise eye and an approving smile. Hermione laughs softly beside her. Balloon from Pansy. Print verbatim «Así está mejor.»\nPanel 6. Attendant wraps three separate boxes. Only a glimpse of the green, wine and navy fabric before putting lids on. Pansy and Hermione look pleased. Balloon from Hermione. Print verbatim «A Daphne y Astoria les va a encantar.»\nImage 4 is reference only for the first panel’s exact clothes: Pansy’s belted charcoal trench and black turtleneck, Hermione’s taupe coat, ivory scarf, beige knit and gathered chestnut ponytail. Image 5 is reference for the late-Christmas Harrods marble and brass interior in the bottom-right panel only. Use exactly six separated panels, cream gutters, no branding on the products.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bdfc2ecf-f1cb-42b9-8d23-37bced08635c.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9669c08e-8369-4cbf-a15e-2ebc60602b00.png"
+          ],
+          "generatedMaster": "exec-e8329407-9fff-4458-b691-1836ee7ec80b.png"
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "image": "paginas/c12-p056.webp",
+      "sourcePdfPages": [
+        506,
+        507,
+        508
+      ],
+      "summary": "Las compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.",
+      "panels": [
+        {
+          "scene": "Establishing view at the FRONT of the black coupe, a row of shopping bags in mixed green, white and charcoal, most bags partly cropped off screen. Pansy lifts the low front hood, both recognizable winter outfits.",
+          "caption": "En el estacionamiento las esperaban veintidós bolsas."
+        },
+        {
+          "scene": "Hermione peers into the shallow front compartment at LEFT and speaks. Pansy studies the bags at RIGHT and replies. No extra arms or shoppers.",
+          "dialogue": [
+            "Hermione: Hay veintidós.",
+            "Pansy: Las cajas son demasiado grandes."
+          ]
+        },
+        {
+          "scene": "Hermione confirms the parking aisle is empty and lowers her wand into the open front compartment. One very small shimmer INSIDE the front compartment, no beam from the rear. Pansy watches.",
+          "dialogue": [
+            "Hermione: Un encantamiento de extensión indetectable."
+          ]
+        },
+        {
+          "scene": "Both women ease the last bag through the same front opening. The exterior remains the same scale. Pansy at left smiles at Hermione at right as the last bag goes in.",
+          "dialogue": [
+            "Pansy: Granger, eso ha sido brillante."
+          ]
+        },
+        {
+          "scene": "The same car with hood closed, both outside. Keep one shopping-free front trunk and untouched body. Pansy pats her coat pocket and looks hungry.",
+          "dialogue": [
+            "Pansy: Tengo hambre."
+          ]
+        },
+        {
+          "scene": "Transition to a small café garden sheltered by glass. Hermione and Pansy sit across an oak table in their beige and black sweaters, coats on their chair backs, two warm soups and winter ivy.",
+          "caption": "Se detuvieron a comer en una cafetería apartada."
+        }
+      ],
+      "transcript": "Capítulo 12 · 56\n\nLas compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.\nNarración: En el estacionamiento las esperaban veintidós bolsas.\nHermione: Hay veintidós.\nPansy: Las cajas son demasiado grandes.\nHermione: Un encantamiento de extensión indetectable.\nPansy: Granger, eso ha sido brillante.\nPansy: Tengo hambre.\nNarración: Se detuvieron a comer en una cafetería apartada.",
+      "actualPanelCount": 6,
+      "review": "Texto inicial corregido. Maletero delantero entre los faros y llegada a la cafetería con mesa redonda y sillas de mimbre.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p056.png",
+      "sha256": "bdcd13f1bd49ebc2f1acf1c16a3b67cf5fb9808b8a6c5d51294a40fef2deb37e",
+      "masterSha256": "2bd40ff7466464585a6ae997c996d325cb93a8a522a9a4e2f83204ac8425e4b3",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the distinct lead faces only.\nLondon winter morning after snowfall. Pansy has changed for the trip into black opaque turtleneck, dark tailored trousers, sleek belted charcoal trench coat and clean dark boots. Her original face has an angular chin, narrow moss-green eyes, sleek black side-parted chin bob, bare ears. Hermione changed to an opaque cream-beige fine-knit sweater, pale taupe wool trousers, long warm medium-taupe coat and thick ivory scarf. Her abundant chestnut curls are gathered in a low ponytail with escaping curls around the freckled brown-eyed face. Keep oval sapphire pendant on fine white platinum chain in front if visible, tucked partly by scarf outdoors. No Robin or other baby with the girls during this outing. A low glossy black classic sports coupé, rounded lamps, no logos, dark leather and one right-hand steering wheel. Hermione drives at the vehicle's right and Pansy is passenger at its left, both belted. In exterior head-on view Hermione is on viewer's left. Normal city streets, no risky maneuver or speeding. Afternoon light, parked black classic sports coupé in a quiet London covered car park. The rounded lamps and recognizable smooth low black hood are at the FRONT. The compartment open under that front hood, never under the rear engine cover. One discreet thin wand with small soft pearl glow. Final panel small brick café conservatory with ivy and overhead glass, two warm soups arrive on dark wood table. No alcohol shown. No children, no more than two visible people in the parking area after attendant leaves.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 56» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Establishing view at the FRONT of the black coupe, a row of shopping bags in mixed green, white and charcoal, most bags partly cropped off screen. Pansy lifts the low front hood, both recognizable winter outfits. Caption verbatim «En el estacionamiento los esperaban veintidós bolsas.»\nPanel 2. Hermione peers into the shallow front compartment at LEFT and speaks. Pansy studies the bags at RIGHT and replies. No extra arms or shoppers. Balloon from Hermione. Print verbatim «Hay veintidós.» Balloon from Pansy. Print verbatim «Las cajas son demasiado grandes.»\nPanel 3. Hermione confirms the parking aisle is empty and lowers her wand into the open front compartment. One very small shimmer INSIDE the front compartment, no beam from the rear. Pansy watches. Balloon from Hermione. Print verbatim «Un encantamiento de extensión indetectable.»\nPanel 4. Both women ease the last bag through the same front opening. The exterior remains the same scale. Pansy at left smiles at Hermione at right as the last bag goes in. Balloon from Pansy. Print verbatim «Granger, eso ha sido brillante.»\nPanel 5. The same car with hood closed, both outside. Keep one shopping-free front trunk and untouched body. Pansy pats her coat pocket and looks hungry. Balloon from Pansy. Print verbatim «Tengo hambre.»\nPanel 6. Transition to a small café garden sheltered by glass. Hermione and Pansy sit across an oak table in their beige and black sweaters, coats on their chair backs, two warm soups and winter ivy. Caption verbatim «Se detuvieron a comer en una cafetería apartada.»\nImage 4 is reference for their precise outing outfits and for the exact shape of the black sports coupé with circular headlights. Make it unmistakable in the parking panels that only the FRONT hood just above and between those round headlights is open. No view of the steering wheel needed. In the last panel, keep Hermione's chestnut curls gathered in a low ponytail and the blue pendant in front over cream-beige knit.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bdfc2ecf-f1cb-42b9-8d23-37bced08635c.png"
+          ],
+          "generatedMaster": "exec-3b32ef28-a315-44ec-836c-b714416b9de2.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Exact tiny lettering edit of this complete six-panel Spanish comic «Capítulo 12 · 56», portrait 1024×1536. Preserve ALL six panels, car, characters, facial features, color, dimensions, cream margins, and text EXACTLY, except for ONE letter in the rectangular caption in the top left panel. Replace «los esperaban» with «las esperaban» in that existing caption. It must read exactly «En el estacionamiento las esperaban veintidós bolsas.» with both lines and existing serif typography. Do not alter any illustration, any other lettering, accents or page header.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3b32ef28-a315-44ec-836c-b714416b9de2.png"
+          ],
+          "generatedMaster": "exec-ef96f08a-0118-4de8-9106-c90511acbc22.png"
+        }
+      ]
+    },
+    {
+      "page": 57,
+      "image": "paginas/c12-p057.webp",
+      "sourcePdfPages": [
+        508,
+        509,
+        510
+      ],
+      "summary": "Hermione le cuenta a Pansy que Jane le enseñó a conducir. El almuerzo en el jardín cubierto les da tiempo para hablar de su casa y de Hogwarts.",
+      "panels": [
+        {
+          "scene": "Wide, quiet brick conservatory; the two older students share a square oak table, steaming soup and slices of quiche. Their two winter coats lie separately on chair backs.",
+          "caption": "Bajo el techo de cristal, Londres quedó en silencio."
+        },
+        {
+          "scene": "Pansy at left sets her spoon down. Hermione at right looks up from her soup. Clearly ordered two speech bubbles.",
+          "dialogue": [
+            "Pansy: ¿Quién te enseñó a conducir?",
+            "Hermione: Mi madre."
+          ]
+        },
+        {
+          "scene": "Brief soft-edged warm memory, on a quiet leafy street in a parked ordinary dark gray British car. Jane with gray at temples and olive cardigan in the passenger seat, Hermione with distinct freckles and curls in driver seat on vehicle's right. View from behind center, both relaxed. This is a different car from the black sports coupé. Avoid duplicate steering wheel.",
+          "caption": "Jane le explicaba una cosa a la vez."
+        },
+        {
+          "scene": "Back in present café, close Hermione smiling, one natural hand sets a spoon by her bowl. Pansy just visible listening.",
+          "dialogue": [
+            "Hermione: Mi padre habría empezado por el manual."
+          ]
+        },
+        {
+          "scene": "Pansy at left with relaxed black bob and small smile, Hermione on right touches her water glass. Snow outside soft.",
+          "dialogue": [
+            "Pansy: ¿Extrañas esto cuando estás en Hogwarts?",
+            "Hermione: Sí. A mis padres, sobre todo."
+          ]
+        },
+        {
+          "scene": "Close on Hermione’s brown eyes, freckles and pendant. Pansy's hand and sleeve rest on her own side of the table. Ivy and snow in background.",
+          "dialogue": [
+            "Hermione: También mi habitación, mis libros y las cosas pequeñas."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 57\n\nHermione le cuenta a Pansy que Jane le enseñó a conducir. El almuerzo en el jardín cubierto les da tiempo para hablar de su casa y de Hogwarts.\nNarración: Bajo el techo de cristal, Londres quedó en silencio.\nPansy: ¿Quién te enseñó a conducir?\nHermione: Mi madre.\nNarración: Jane le explicaba una cosa a la vez.\nHermione: Mi padre habría empezado por el manual.\nPansy: ¿Extrañas esto cuando estás en Hogwarts?\nHermione: Sí. A mis padres, sobre todo.\nHermione: También mi habitación, mis libros y las cosas pequeñas.",
+      "actualPanelCount": 6,
+      "review": "Cafetería con mesa redonda y mimbre. El recuerdo de Jane queda separado y el diálogo conserva el orden.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p057.png",
+      "sha256": "63b3c73d34e4e9dfbbd7a70f6217c69f55cf97f25097576e1ee909e73182324a",
+      "masterSha256": "10d6c60d164159cd329142410ddc90ce83223a9fb35f3441053875fef88b135b",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact two lead faces only. Image 4 is reference for Jane’s mature face and graying chestnut hair only, for the one driving memory.\nSmall quiet London café, different from the department store's large tea salon. Intimate red brick garden conservatory with winter ivy, glass roof, strings of warm tiny lamps, wood floor, a few empty tables, one square oak table and two upholstered olive café chairs. Snow on the glass overhead gradually strengthens. Pansy has a black opaque ribbed turtleneck and dark trousers, charcoal belted coat folded over chair back, angular face, narrow green eyes, sleek black side-parted chin bob, no earrings. Hermione has a beige opaque sweater with the original oval blue sapphire on fine platinum at the front, pale taupe trousers, long taupe coat folded over chair back, ivory scarf on her chair. Hermione has chestnut curls in a low ponytail, freckles and brown eyes. Two ceramic soup bowls, two white plates with slices of quiche, two clear tumblers of water. Food naturally diminishes over time. No other person at their table. Keep expressive changes in face, hands and viewpoint. No alcohol visible. Use distinct left-and-right placement or separate panels for clear speaker order.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 57» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide, quiet brick conservatory; the two older students share a square oak table, steaming soup and slices of quiche. Their two winter coats lie separately on chair backs. Caption verbatim «Bajo el techo de cristal, Londres quedó en silencio.»\nPanel 2. Pansy at left sets her spoon down. Hermione at right looks up from her soup. Clearly ordered two speech bubbles. Balloon from Pansy. Print verbatim «¿Quién te enseñó a conducir?» Balloon from Hermione. Print verbatim «Mi madre.»\nPanel 3. Brief soft-edged warm memory, on a quiet leafy street in a parked ordinary dark gray British car. Jane with gray at temples and olive cardigan in the passenger seat, Hermione with distinct freckles and curls in driver seat on vehicle's right. View from behind center, both relaxed. This is a different car from the black sports coupé. Avoid duplicate steering wheel. Caption verbatim «Jane le explicaba una cosa a la vez.»\nPanel 4. Back in present café, close Hermione smiling, one natural hand sets a spoon by her bowl. Pansy just visible listening. Balloon from Hermione. Print verbatim «Mi padre habría empezado por el manual.»\nPanel 5. Pansy at left with relaxed black bob and small smile, Hermione on right touches her water glass. Snow outside soft. Balloon from Pansy. Print verbatim «¿Extrañas esto cuando estás en Hogwarts?» Balloon from Hermione. Print verbatim «Sí. A mis padres, sobre todo.»\nPanel 6. Close on Hermione’s brown eyes, freckles and pendant. Pansy's hand and sleeve rest on her own side of the table. Ivy and snow in background. Balloon from Hermione. Print verbatim «También mi habitación, mis libros y las cosas pequeñas.»\nThe final reference's bottom-right panel ONLY is the exact café design and outfits to continue: small brick-and-glass conservatory, ivy, round wooden table, lit little glass candle and small sprig on table, wicker chairs, Hermione's low ponytail, beige knit and frontal sapphire, Pansy's plain black turtleneck and sleek bob. Where the description differs, keep the round table and the wicker chairs from that reference; do not use any other panel of that reference, and do not include their car or shopping bags in this cafe. Memory panel 3, show only the two heads, shoulders and front road through the windshield from behind both seats; no steering wheel necessary in this panel. Jane is left of younger Hermione in the car’s own frame.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p035.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3b32ef28-a315-44ec-836c-b714416b9de2.png"
+          ],
+          "generatedMaster": "exec-e4fe5db9-b485-4954-92ac-da7b74831da8.png"
+        }
+      ]
+    },
+    {
+      "page": 58,
+      "image": "paginas/c12-p058.webp",
+      "sourcePdfPages": [
+        510,
+        511,
+        512
+      ],
+      "summary": "La conversación pasa de las comodidades muggles a las dificultades de vivir entre dos mundos.",
+      "panels": [
+        {
+          "scene": "Hermione at left names things from home. Pansy at right listens, amused, spoon at rest in her own bowl. Same oak table, clothing and winter ivy.",
+          "dialogue": [
+            "Hermione: El teléfono, la televisión, las computadoras."
+          ]
+        },
+        {
+          "scene": "Pansy deadpans over the rim of her clear water glass. Hermione chuckles, same café, both seated with natural posture.",
+          "dialogue": [
+            "Pansy: Después de la cafetera empecé a entenderlo."
+          ]
+        },
+        {
+          "scene": "Quiet symbolic visual, warm oak tabletop close-up with Hermione's black telephone beside her closed notebook and slender dark wand, a soft reflection of snow in the window. Two hands maximum, only one resting near the notebook.",
+          "dialogue": [
+            "Hermione: En Hogwarts extraño poder hablar con mis padres cuando quiero."
+          ]
+        },
+        {
+          "scene": "Pansy studies Hermione’s face, with a genuine curious expression. Side view from Hermione’s shoulder, no duplicate characters.",
+          "dialogue": [
+            "Pansy: Entonces, ¿no prefieres un mundo sobre el otro?"
+          ]
+        },
+        {
+          "scene": "Close Hermione’s brown eyes and smile as she explains, one natural palm on the table. Snow visible beyond conservatory.",
+          "dialogue": [
+            "Hermione: Mis padres son muggles y Hogwarts también forma parte de mi vida."
+          ]
+        },
+        {
+          "scene": "Wide balanced two-shot, both students in the same café. One small warm lamp reflection between them. Snow gradually more visible overhead.",
+          "dialogue": [
+            "Hermione: He aprendido a moverme en los dos mundos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 58\n\nLa conversación pasa de las comodidades muggles a las dificultades de vivir entre dos mundos.\nHermione: El teléfono, la televisión, las computadoras.\nPansy: Después de la cafetera empecé a entenderlo.\nHermione: En Hogwarts extraño poder hablar con mis padres cuando quiero.\nPansy: Entonces, ¿no prefieres un mundo sobre el otro?\nHermione: Mis padres son muggles y Hogwarts también forma parte de mi vida.\nHermione: He aprendido a moverme en los dos mundos.",
+      "actualPanelCount": 6,
+      "review": "Recuerdo claramente separado en casa de los Granger. El teléfono y contestadora coinciden con los accesorios de la llamada posterior.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p058.png",
+      "sha256": "58e7631c4c995fcf7114a06b2ab7e05f6f6436f86da8db806542aa970518ed1b",
+      "masterSha256": "64367f7d4e39c37885802e424287aba4ef0cfa67012e128fbab054c0159cd7e6",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact two lead faces only.\nSmall quiet London café, different from the department store's large tea salon. Intimate red brick garden conservatory with winter ivy, glass roof, strings of warm tiny lamps, wood floor, a few empty tables, one square oak table and two upholstered olive café chairs. Snow on the glass overhead gradually strengthens. Pansy has a black opaque ribbed turtleneck and dark trousers, charcoal belted coat folded over chair back, angular face, narrow green eyes, sleek black side-parted chin bob, no earrings. Hermione has a beige opaque sweater with the original oval blue sapphire on fine platinum at the front, pale taupe trousers, long taupe coat folded over chair back, ivory scarf on her chair. Hermione has chestnut curls in a low ponytail, freckles and brown eyes. Two ceramic soup bowls, two white plates with slices of quiche, two clear tumblers of water. Food naturally diminishes over time. No other person at their table. Keep expressive changes in face, hands and viewpoint. No alcohol visible. Use distinct left-and-right placement or separate panels for clear speaker order.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 58» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione at left names things from home. Pansy at right listens, amused, spoon at rest in her own bowl. Same oak table, clothing and winter ivy. Balloon from Hermione. Print verbatim «El teléfono, la televisión, las computadoras.»\nPanel 2. Pansy deadpans over the rim of her clear water glass. Hermione chuckles, same café, both seated with natural posture. Balloon from Pansy. Print verbatim «Después de la cafetera empecé a entenderlo.»\nPanel 3. Quiet symbolic visual, warm oak tabletop close-up with Hermione's black telephone beside her closed notebook and slender dark wand, a soft reflection of snow in the window. Two hands maximum, only one resting near the notebook. Balloon from Hermione. Print verbatim «En Hogwarts extraño poder hablar con mis padres cuando quiero.»\nPanel 4. Pansy studies Hermione’s face, with a genuine curious expression. Side view from Hermione’s shoulder, no duplicate characters. Balloon from Pansy. Print verbatim «Entonces, ¿no prefieres un mundo sobre el otro?»\nPanel 5. Close Hermione’s brown eyes and smile as she explains, one natural palm on the table. Snow visible beyond conservatory. Balloon from Hermione. Print verbatim «Mis padres son muggles y Hogwarts también forma parte de mi vida.»\nPanel 6. Wide balanced two-shot, both students in the same café. One small warm lamp reflection between them. Snow gradually more visible overhead. Balloon from Hermione. Print verbatim «He aprendido a moverme en los dos mundos.»\nThe final reference's bottom-right panel ONLY is the exact café design and outfits to continue: small brick-and-glass conservatory, ivy, round wooden table, lit little glass candle and small sprig on table, wicker chairs, Hermione's low ponytail, beige knit and frontal sapphire, Pansy's plain black turtleneck and sleek bob. Where the description differs, keep the round table and the wicker chairs from that reference; do not use any other panel of that reference, and do not include their car or shopping bags in this cafe.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3b32ef28-a315-44ec-836c-b714416b9de2.png"
+          ],
+          "generatedMaster": "exec-fefb8ee1-f486-41cf-af4b-2f13576a8908.png"
+        },
+        {
+          "selected": true,
+          "prompt": "One-panel continuity edit of the first complete six-panel Spanish page «Capítulo 12 · 58». Preserve all panels exactly except the middle-left panel 3. Make that one panel a clearly faded cream-edged memory insert of HERMIONE'S HOME, like a flashback, entirely distinct from the café. Show a compact rectangular charcoal corded landline with coiled cable and small matching rectangular answering machine with red LED on an oak side table in the warmly lit Granger sitting room, with blurred oak bookshelves and bay window behind, using the second reference ONLY for the room materials. No glass roof, candle, café sprig or food in the memory. Keep the notebook and slim wand on a separate front corner as symbolic details; no hand or person needed. Retain Hermione’s exact offscreen white balloon with its little tail directed left: «En Hogwarts extraño poder hablar con mis padres cuando quiero.» Keep panels 1, 2, 4, 5 and 6 completely intact, faces, meals, text, coats, snowy café and spacing, no other changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-fefb8ee1-f486-41cf-af4b-2f13576a8908.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p038.webp"
+          ],
+          "generatedMaster": "exec-714e62aa-9a8c-4576-ab0f-b846df49e507.png"
+        }
+      ]
+    },
+    {
+      "page": 59,
+      "image": "paginas/c12-p059.webp",
+      "sourcePdfPages": [
+        512,
+        513,
+        514
+      ],
+      "summary": "Pansy reconoce su crueldad en Hogwarts. Hermione explica qué quiere hacer para defender a las criaturas mágicas.",
+      "panels": [
+        {
+          "scene": "Pansy puts down her water glass, attentive green eyes, soft honest face. Hermione is recognizable in near profile at edge.",
+          "dialogue": [
+            "Pansy: Siempre admiré cómo te mueves entre ambos mundos."
+          ]
+        },
+        {
+          "scene": "Hermione answers seriously but calmly. Natural one hand on the edge of the cup, blue pendant visible. The other woman listens without interruption.",
+          "dialogue": [
+            "Hermione: Tú también me hiciste sentir que no pertenecía."
+          ]
+        },
+        {
+          "scene": "Close Pansy with no smirk, chin-length straight black hair and quiet remorse. The same room and black turtleneck.",
+          "dialogue": [
+            "Pansy: Fui cruel y estaba equivocada."
+          ]
+        },
+        {
+          "scene": "A quiet pause, table setting, their faces seen in profile. Hermione keeps space to answer and Pansy listens. The conversation eases.",
+          "caption": "Hermione dejó que el silencio durara un momento."
+        },
+        {
+          "scene": "Hermione shifts her gaze from the snowy roof back to Pansy. Her expression grows focused and open.",
+          "dialogue": [
+            "Hermione: Quiero continuar con la defensa de las criaturas mágicas."
+          ]
+        },
+        {
+          "scene": "Hermione at LEFT explains, Pansy at RIGHT replies with one softened smile. Same table after food, no other people. Ordered tails above the respective speakers.",
+          "dialogue": [
+            "Hermione: Quiero empezar por escucharlas.",
+            "Pansy: Entonces tendrás mi voto."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 59\n\nPansy reconoce su crueldad en Hogwarts. Hermione explica qué quiere hacer para defender a las criaturas mágicas.\nPansy: Siempre admiré cómo te mueves entre ambos mundos.\nHermione: Tú también me hiciste sentir que no pertenecía.\nPansy: Fui cruel y estaba equivocada.\nNarración: Hermione dejó que el silencio durara un momento.\nHermione: Quiero continuar con la defensa de las criaturas mágicas.\nHermione: Quiero empezar por escucharlas.\nPansy: Entonces tendrás mi voto.",
+      "actualPanelCount": 6,
+      "review": "Disculpa de Pansy y planes de Hermione en orden, con miradas, ropa y colgante consistentes.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p059.png",
+      "sha256": "601e831c64a2e47d339e81b2442709bad01c3e33db3e6c5aff23bc8edb29fa03",
+      "masterSha256": "938ccf5d8ee69746de9ddd877cf665b948772c1268f679ca46ad65e666ce1fe9",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact two lead faces only.\nSmall quiet London café, different from the department store's large tea salon. Intimate red brick garden conservatory with winter ivy, glass roof, strings of warm tiny lamps, wood floor, a few empty tables, one square oak table and two upholstered olive café chairs. Snow on the glass overhead gradually strengthens. Pansy has a black opaque ribbed turtleneck and dark trousers, charcoal belted coat folded over chair back, angular face, narrow green eyes, sleek black side-parted chin bob, no earrings. Hermione has a beige opaque sweater with the original oval blue sapphire on fine platinum at the front, pale taupe trousers, long taupe coat folded over chair back, ivory scarf on her chair. Hermione has chestnut curls in a low ponytail, freckles and brown eyes. Two ceramic soup bowls, two white plates with slices of quiche, two clear tumblers of water. Food naturally diminishes over time. No other person at their table. Keep expressive changes in face, hands and viewpoint. No alcohol visible. Use distinct left-and-right placement or separate panels for clear speaker order.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 59» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy puts down her water glass, attentive green eyes, soft honest face. Hermione is recognizable in near profile at edge. Balloon from Pansy. Print verbatim «Siempre admiré cómo te mueves entre ambos mundos.»\nPanel 2. Hermione answers seriously but calmly. Natural one hand on the edge of the cup, blue pendant visible. The other woman listens without interruption. Balloon from Hermione. Print verbatim «Tú también me hiciste sentir que no pertenecía.»\nPanel 3. Close Pansy with no smirk, chin-length straight black hair and quiet remorse. The same room and black turtleneck. Balloon from Pansy. Print verbatim «Fui cruel y estaba equivocada.»\nPanel 4. A quiet pause, table setting, their faces seen in profile. Hermione keeps space to answer and Pansy listens. The conversation eases. Caption verbatim «Hermione dejó que el silencio durara un momento.»\nPanel 5. Hermione shifts her gaze from the snowy roof back to Pansy. Her expression grows focused and open. Balloon from Hermione. Print verbatim «Quiero continuar con la defensa de las criaturas mágicas.»\nPanel 6. Hermione at LEFT explains, Pansy at RIGHT replies with one softened smile. Same table after food, no other people. Ordered tails above the respective speakers. Balloon from Hermione. Print verbatim «Quiero empezar por escucharlas.» Balloon from Pansy. Print verbatim «Entonces tendrás mi voto.»\nThe final reference's bottom-right panel ONLY is the exact café design and outfits to continue: small brick-and-glass conservatory, ivy, round wooden table, lit little glass candle and small sprig on table, wicker chairs, Hermione's low ponytail, beige knit and frontal sapphire, Pansy's plain black turtleneck and sleek bob. Where the description differs, keep the round table and the wicker chairs from that reference; do not use any other panel of that reference, and do not include their car or shopping bags in this cafe.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3b32ef28-a315-44ec-836c-b714416b9de2.png"
+          ],
+          "generatedMaster": "exec-d45bdaeb-bf8d-4ca9-8538-947f09ce12e5.png"
+        }
+      ]
+    },
+    {
+      "page": 60,
+      "image": "paginas/c12-p060.webp",
+      "sourcePdfPages": [
+        514,
+        515,
+        516,
+        517
+      ],
+      "summary": "Pansy habla de sus planes y del trabajo de Eirena. La nieve se intensifica y las dos deciden regresar.",
+      "panels": [
+        {
+          "scene": "Hermione at left asks with bright interest. Pansy at right answers comfortably. Keep the two bubbles above distinct heads and their clothes exact.",
+          "dialogue": [
+            "Hermione: ¿Y tú quieres jugar quidditch profesional?",
+            "Pansy: Me encanta jugar, pero también me atrae la moda."
+          ]
+        },
+        {
+          "scene": "Pansy speaks about family life, hands calm on the oak tabletop. Hermione listens carefully in the background.",
+          "dialogue": [
+            "Pansy: Mamá se ocupa del arte, las expediciones y muchos negocios de la familia."
+          ]
+        },
+        {
+          "scene": "Pansy says this matter-of-factly, gesturing lightly with one open hand. Hermione, freckles and brown eyes, surprised by what she hears. No characters imagined elsewhere.",
+          "dialogue": [
+            "Pansy: Somos dueños de los Oxford Occamies."
+          ]
+        },
+        {
+          "scene": "Hermione smiles, with genuine respect. Pansy’s proud but understated expression visible. Two plates and two tumblers remain.",
+          "dialogue": [
+            "Hermione: Tu madre es una mujer sumamente inteligente."
+          ]
+        },
+        {
+          "scene": "At the end, the waiter in a white shirt and apron addresses the table kindly. Both students look toward the snow building at the glass.",
+          "dialogue": [
+            "Camarero: El clima está empeorando más rápido de lo que dijeron."
+          ]
+        },
+        {
+          "scene": "Hermione puts on her taupe coat and ivory scarf, Pansy takes the same charcoal trench. They are walking toward the quiet café's oak and glass door. Snowy night just outside.",
+          "dialogue": [
+            "Hermione: Tenemos que irnos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 60\n\nPansy habla de sus planes y del trabajo de Eirena. La nieve se intensifica y las dos deciden regresar.\nHermione: ¿Y tú quieres jugar quidditch profesional?\nPansy: Me encanta jugar, pero también me atrae la moda.\nPansy: Mamá se ocupa del arte, las expediciones y muchos negocios de la familia.\nPansy: Somos dueños de los Oxford Occamies.\nHermione: Tu madre es una mujer sumamente inteligente.\nCamarero: El clima está empeorando más rápido de lo que dijeron.\nHermione: Tenemos que irnos.",
+      "actualPanelCount": 6,
+      "review": "Conversación con globos en orden, camarero identificable y cambio gradual a abrigos al salir por la nieve.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p060.png",
+      "sha256": "0741258a14b3346d2c02beac038821c6bc95b0859b955cb1991ceda65577f348",
+      "masterSha256": "ca26276d663b7d9968d27379c53fd1e7338e125920e59faede7f3a732b53e0a5",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact two lead faces only.\nSmall quiet London café, different from the department store's large tea salon. Intimate red brick garden conservatory with winter ivy, glass roof, strings of warm tiny lamps, wood floor, a few empty tables, one square oak table and two upholstered olive café chairs. Snow on the glass overhead gradually strengthens. Pansy has a black opaque ribbed turtleneck and dark trousers, charcoal belted coat folded over chair back, angular face, narrow green eyes, sleek black side-parted chin bob, no earrings. Hermione has a beige opaque sweater with the original oval blue sapphire on fine platinum at the front, pale taupe trousers, long taupe coat folded over chair back, ivory scarf on her chair. Hermione has chestnut curls in a low ponytail, freckles and brown eyes. Two ceramic soup bowls, two white plates with slices of quiche, two clear tumblers of water. Food naturally diminishes over time. No other person at their table. Keep expressive changes in face, hands and viewpoint. No alcohol visible. Use distinct left-and-right placement or separate panels for clear speaker order. At the end, a mature waiter with dark blond hair and white shirt under black apron comes to the table, then the two students put on their exact outing coats. Keep warm café foreground and cool snow in the windows.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 60» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione at left asks with bright interest. Pansy at right answers comfortably. Keep the two bubbles above distinct heads and their clothes exact. Balloon from Hermione. Print verbatim «¿Y tú quieres jugar quidditch profesional?» Balloon from Pansy. Print verbatim «Me encanta jugar, pero también me atrae la moda.»\nPanel 2. Pansy speaks about family life, hands calm on the oak tabletop. Hermione listens carefully in the background. Balloon from Pansy. Print verbatim «Mamá se ocupa del arte, las expediciones y muchos negocios de la familia.»\nPanel 3. Pansy says this matter-of-factly, gesturing lightly with one open hand. Hermione, freckles and brown eyes, surprised by what she hears. No characters imagined elsewhere. Balloon from Pansy. Print verbatim «Somos dueños de los Oxford Occamies.»\nPanel 4. Hermione smiles, with genuine respect. Pansy’s proud but understated expression visible. Two plates and two tumblers remain. Balloon from Hermione. Print verbatim «Tu madre es una mujer sumamente inteligente.»\nPanel 5. At the end, the waiter in a white shirt and apron addresses the table kindly. Both students look toward the snow building at the glass. Balloon from Camarero. Print verbatim «El clima está empeorando más rápido de lo que dijeron.»\nPanel 6. Hermione puts on her taupe coat and ivory scarf, Pansy takes the same charcoal trench. They are walking toward the quiet café's oak and glass door. Snowy night just outside. Balloon from Hermione. Print verbatim «Tenemos que irnos.»\nThe final reference's bottom-right panel ONLY is the exact café design and outfits to continue: small brick-and-glass conservatory, ivy, round wooden table, lit little glass candle and small sprig on table, wicker chairs, Hermione's low ponytail, beige knit and frontal sapphire, Pansy's plain black turtleneck and sleek bob. Where the description differs, keep the round table and the wicker chairs from that reference; do not use any other panel of that reference, and do not include their car or shopping bags in this cafe.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3b32ef28-a315-44ec-836c-b714416b9de2.png"
+          ],
+          "generatedMaster": "exec-022cabb6-2e2c-4149-8328-773590aad1af.png"
+        }
+      ]
+    }
+  ]
+}

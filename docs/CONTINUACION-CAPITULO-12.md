@@ -112,3 +112,22 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 48 | 486–487–488–489 | Jane y Malcolm se llevan a Robin a pasar el día. Crookshanks encuentra un lugar entre las mantas del coche. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-39-48.json).
+
+## Páginas 49–60
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 49 | 489–490–491 | Hermione sorprende a Pansy con el automóvil que Malcolm les prestó. La nota del garaje deja claras sus condiciones. |
+| 50 | 491–492–493 | Hermione conduce por Londres y las dos llegan a los escaparates iluminados de Harrods. |
+| 51 | 493–494–495–496 | Pansy distingue la confección de las promesas de un vendedor. La segunda asesora encuentra el abrigo adecuado. |
+| 52 | 496–497–498–499 | El recorrido pasa del calzado y la perfumería a una pausa de té. Pansy decide llevar regalos muggles a Italia. |
+| 53 | 499–500–501 | Pansy elige tres relojes para tres personalidades. Hermione empieza a entender por qué conoce tan bien los gustos de su familia. |
+| 54 | 502–503–504 | Los regalos para Chiara y las Greengrass reflejan sus gustos. Pansy escoge para Eirena un collar que deja ver el trabajo del orfebre. |
+| 55 | 504–505 | Preparan tres conjuntos distintos para Robin, Arianna y Scorpius. El abrigo verde de Robin lleva cierres protegidos. |
+| 56 | 506–507–508 | Las compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila. |
+| 57 | 508–509–510 | Hermione le cuenta a Pansy que Jane le enseñó a conducir. El almuerzo en el jardín cubierto les da tiempo para hablar de su casa y de Hogwarts. |
+| 58 | 510–511–512 | La conversación pasa de las comodidades muggles a las dificultades de vivir entre dos mundos. |
+| 59 | 512–513–514 | Pansy reconoce su crueldad en Hogwarts. Hermione explica qué quiere hacer para defender a las criaturas mágicas. |
+| 60 | 514–515–516–517 | Pansy habla de sus planes y del trabajo de Eirena. La nieve se intensifica y las dos deciden regresar. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-49-60.json).
