@@ -60,3 +60,14 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 24 | 433–434–435–436 | Pansy reconoce su crueldad de entonces. Hermione y sus padres escuchan cómo cambió su relación. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-20-24.json).
+
+## Páginas 25–28
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 25 | 436–437 | Pansy y Hermione reconocen lo que sienten. Malcolm aligera el momento y las hace sentirse en familia. |
+| 26 | 437–438 | Pansy descubre la cafetera de cápsulas y aprende a preparar el café de Hermione. |
+| 27 | 438–439–440 | El televisor fascina a Robin. Malcolm aprende quién decide qué se ve en la sala. |
+| 28 | 440–441 | Jane sale a hacer las compras navideñas con Hermione, Pansy y Robin. Las puertas automáticas intrigan a Pansy. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-25-28.json).

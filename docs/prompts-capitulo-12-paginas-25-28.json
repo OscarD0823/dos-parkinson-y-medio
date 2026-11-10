@@ -1,0 +1,294 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    25,
+    28
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 25,
+      "image": "paginas/c12-p025.webp",
+      "sourcePdfPages": [
+        436,
+        437
+      ],
+      "summary": "Pansy y Hermione reconocen lo que sienten. Malcolm aligera el momento y las hace sentirse en familia.",
+      "panels": [
+        {
+          "scene": "Close Pansy in evergreen looking honestly across the dining table at Hermione, one hand resting on the oak. The warm lamp behind and side of the pram remain from previous page.",
+          "dialogue": [
+            "Pansy: Ahora no puedo imaginar mi vida sin ti."
+          ]
+        },
+        {
+          "scene": "Pansy realizes what she said. She lowers her eyes, slightly flustered, and makes a small ordinary open-handed gesture. Jane and Malcolm listen kindly from across the table.",
+          "dialogue": [
+            "Pansy: Quiero decir… como equipo, por supuesto."
+          ]
+        },
+        {
+          "scene": "Close two hands on the table. Hermione’s hand in gray cuff reaches over and gently holds Pansy’s hand with dark green cuff. Each person has one well-defined hand visible and fingers anatomically correct.",
+          "caption": "Hermione le tomó la mano."
+        },
+        {
+          "scene": "Hermione smiles openly across the table. Brown eyes and freckles, both clothed and seated at a normal distance, sleeves and pendant visible.",
+          "dialogue": [
+            "Hermione: Yo tampoco puedo imaginar mi vida sin ti."
+          ]
+        },
+        {
+          "scene": "Wider view. Jane smiles beside her glass, Malcolm sets down a fork then looks warmly at the two. Robin still sleeps safely in the Zephyr beside them.",
+          "dialogue": [
+            "Malcolm: Menos mal que te gustan los automóviles. Parece que cenarás aquí a menudo."
+          ]
+        },
+        {
+          "scene": "Exterior wide view of the warm lit bay windows and evergreen wreath on the Granger house, seen quietly from the winter street. Exactly one house entrance, no people or extra lettering.",
+          "caption": "Tres días después, la Navidad ya estaba cerca."
+        }
+      ],
+      "transcript": "Capítulo 12 · 25\n\nPansy y Hermione reconocen lo que sienten. Malcolm aligera el momento y las hace sentirse en familia.\nPansy: Ahora no puedo imaginar mi vida sin ti.\nPansy: Quiero decir… como equipo, por supuesto.\nNarración: Hermione le tomó la mano.\nHermione: Yo tampoco puedo imaginar mi vida sin ti.\nMalcolm: Menos mal que te gustan los automóviles. Parece que cenarás aquí a menudo.\nNarración: Tres días después, la Navidad ya estaba cerca.",
+      "actualPanelCount": 6,
+      "review": "Se conserva la cena, el Zephyr, la posición natural de las manos y la fachada victoriana de la página 14. La cartela final marca el salto de tres días.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p025.png",
+      "sha256": "cf5c9c783a39bace09803195738de98b10f158739c7ce93c86d57dedd10c8dca",
+      "masterSha256": "0aebb2e6037af67adec9957dddf846c5569fc49c28ef3ddc6b8d29f0a0a896ef",
+      "ocrMissingCandidates": [
+        "hermione",
+        "tampoco"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact current four people at the round oak dinner table, the pendant, arch and same outfits. Image 4 is reference for the exact honey brick Victorian façade, dark green door, wreath and dusk palette for last panel only. Image 5 is reference for the same sand-and-brass pram only.\nSame Granger two-storey Victorian house with oak floor, oak bookcases, a dark green door with pine-and-berry wreath and brass lamps. Jane mature chestnut wavy hair with silver at temples, warm brown eyes, sage knit cardigan and ivory blouse indoors. Malcolm mature clean-shaven man, dark-gray temples and rectangular glasses, navy V-neck and light blue shirt indoors. Hermione brown eyes, freckles, distinctive chestnut curls and blue oval sapphire in white platinum halo pendant, front. Pansy narrow moss-green eyes, sleek side-parted black bob to chin, angular jaw and bare ears. Robin a small human baby, chestnut curly hair, green eyes, soft skin, correct anatomy and tiny natural hands. Exactly one Robin. First evening, the same round dark oak dinner table with brass pendant, white stoneware, glasses of water or dark fruit juice, pasta and bread. Pansy in an opaque evergreen crew-neck and charcoal trousers. Hermione in opaque gray sweatshirt and trousers, chestnut curls loosely gathered. Robin asleep in his own sand-cream Zephyr Grand Deluxe pram, cream canopy half-raised, black-brown handle and polished brass frame. His outfit is cream footed pajamas with small lion motifs. Only four adults/older students in dinner scenes.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 25» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Close Pansy in evergreen looking honestly across the dining table at Hermione, one hand resting on the oak. The warm lamp behind and side of the pram remain from previous page. Balloon from Pansy. Print verbatim «Ahora no puedo imaginar mi vida sin ti.»\nPanel 2. Pansy realizes what she said. She lowers her eyes, slightly flustered, and makes a small ordinary open-handed gesture. Jane and Malcolm listen kindly from across the table. Balloon from Pansy. Print verbatim «Quiero decir… como equipo, por supuesto.»\nPanel 3. Close two hands on the table. Hermione’s hand in gray cuff reaches over and gently holds Pansy’s hand with dark green cuff. Each person has one well-defined hand visible and fingers anatomically correct. Caption verbatim «Hermione le tomó la mano.»\nPanel 4. Hermione smiles openly across the table. Brown eyes and freckles, both clothed and seated at a normal distance, sleeves and pendant visible. Balloon from Hermione. Print verbatim «Yo tampoco puedo imaginar mi vida sin ti.»\nPanel 5. Wider view. Jane smiles beside her glass, Malcolm sets down a fork then looks warmly at the two. Robin still sleeps safely in the Zephyr beside them. Balloon from Malcolm. Print verbatim «Menos mal que te gustan los automóviles. Parece que cenarás aquí a menudo.»\nPanel 6. Exterior wide view of the warm lit bay windows and evergreen wreath on the Granger house, seen quietly from the winter street. Exactly one house entrance, no people or extra lettering. Caption verbatim «Tres días después, la Navidad ya estaba cerca.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p014.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-6ba154e5-cbe4-4f06-b98c-588e41a1b0ff.png"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "image": "paginas/c12-p026.webp",
+      "sourcePdfPages": [
+        437,
+        438
+      ],
+      "summary": "Pansy descubre la cafetera de cápsulas y aprende a preparar el café de Hermione.",
+      "panels": [
+        {
+          "scene": "Jane demonstrates a small metallic coffee capsule beside the compact machine on the limestone countertop. Pansy watches carefully, hands down. Cups neatly stacked, no logos.",
+          "caption": "El primer descubrimiento de Pansy fue la cafetera."
+        },
+        {
+          "scene": "Close espresso stream into one white cup, tendril of steam, no readable product labeling. Pansy’s observant green eyes above the machine in a separate plane.",
+          "caption": "Aquel ruido dejó de preocuparla cuando sintió el aroma."
+        },
+        {
+          "scene": "Pansy studies a few differently sized white ceramic cups in a neat row, hand resting on the counter. Jane in sage cardigan lifts an eyebrow at the collection.",
+          "dialogue": [
+            "Jane: Vas a empezar a escuchar colores si sigues bebiendo café."
+          ]
+        },
+        {
+          "scene": "Hermione enters through a wooden door in gray, hair loose. Pansy slides a single cream cup on its saucer toward her. Quiet warm kitchen light.",
+          "caption": "Cuando Hermione bajó, su taza ya la esperaba."
+        },
+        {
+          "scene": "Hermione takes one gentle sip from the mug, then sets it down and looks at Pansy with a pleased soft smile.",
+          "dialogue": [
+            "Hermione: Está perfecto."
+          ]
+        },
+        {
+          "scene": "Later morning insert. Two clean mugs side by side by the black machine on the same countertop, one sprig of pine beside a fruit bowl, visible winter sky.",
+          "caption": "Desde entonces, Jane dejó dos tazas junto a la cafetera."
+        }
+      ],
+      "transcript": "Capítulo 12 · 26\n\nPansy descubre la cafetera de cápsulas y aprende a preparar el café de Hermione.\nNarración: El primer descubrimiento de Pansy fue la cafetera.\nNarración: Aquel ruido dejó de preocuparla cuando sintió el aroma.\nJane: Vas a empezar a escuchar colores si sigues bebiendo café.\nNarración: Cuando Hermione bajó, su taza ya la esperaba.\nHermione: Está perfecto.\nNarración: Desde entonces, Jane dejó dos tazas junto a la cafetera.",
+      "actualPanelCount": 6,
+      "review": "Cocina cálida de madera, misma cafetera y tazas, Jane de salvia, Pansy de verde y Hermione con sus rizos y collar. Se conservaron las seis líneas.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p026.png",
+      "sha256": "c3c8c3269464e3f0c4d1ecc3b0208656ba063d7c4cc9babd0c228ba26e5fd6eb",
+      "masterSha256": "e2cc0cd2f5996b8819f4ec2f9feed633ccb860fa28a5020f2fd03cc850dde6d7",
+      "ocrMissingCandidates": [
+        "primer",
+        "descubrimiento",
+        "pansy",
+        "aquel",
+        "ruido",
+        "preocuparla",
+        "cuando",
+        "sintio",
+        "aroma",
+        "empezar",
+        "escuchar",
+        "colores",
+        "sigues",
+        "bebiendo",
+        "hermione",
+        "esperaba"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact family faces and colors of the home interior. Image 4 is reference for individual faces of Jane and Hermione only, no train setting.\nSame Granger two-storey Victorian house with oak floor, oak bookcases, a dark green door with pine-and-berry wreath and brass lamps. Jane mature chestnut wavy hair with silver at temples, warm brown eyes, sage knit cardigan and ivory blouse indoors. Malcolm mature clean-shaven man, dark-gray temples and rectangular glasses, navy V-neck and light blue shirt indoors. Hermione brown eyes, freckles, distinctive chestnut curls and blue oval sapphire in white platinum halo pendant, front. Pansy narrow moss-green eyes, sleek side-parted black bob to chin, angular jaw and bare ears. Robin a small human baby, chestnut curly hair, green eyes, soft skin, correct anatomy and tiny natural hands. Exactly one Robin. The next mornings in the Granger kitchen. Oak-and-cream cabinetry, limestone worktop, sage accents, kettle and a compact unbranded black capsule coffee maker. A muted winter dawn through a tall side window. Pansy forest-green long-sleeved knit and full dark trousers, no school robe. Hermione fully dressed in gray cotton sweatshirt and charcoal lounge trousers, chestnut curls down and slightly messy, sapphire visible. Jane wears sage cardigan and ivory blouse. No Robin on this page. No recipe, dosage, scales or technical graphics.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 26» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Jane demonstrates a small metallic coffee capsule beside the compact machine on the limestone countertop. Pansy watches carefully, hands down. Cups neatly stacked, no logos. Caption verbatim «El primer descubrimiento de Pansy fue la cafetera.»\nPanel 2. Close espresso stream into one white cup, tendril of steam, no readable product labeling. Pansy’s observant green eyes above the machine in a separate plane. Caption verbatim «Aquel ruido dejó de preocuparla cuando sintió el aroma.»\nPanel 3. Pansy studies a few differently sized white ceramic cups in a neat row, hand resting on the counter. Jane in sage cardigan lifts an eyebrow at the collection. Balloon from Jane. Print verbatim «Vas a empezar a escuchar colores si sigues bebiendo café.»\nPanel 4. Hermione enters through a wooden door in gray, hair loose. Pansy slides a single cream cup on its saucer toward her. Quiet warm kitchen light. Caption verbatim «Cuando Hermione bajó, su taza ya la esperaba.»\nPanel 5. Hermione takes one gentle sip from the mug, then sets it down and looks at Pansy with a pleased soft smile. Balloon from Hermione. Print verbatim «Está perfecto.»\nPanel 6. Later morning insert. Two clean mugs side by side by the black machine on the same countertop, one sprig of pine beside a fruit bowl, visible winter sky. Caption verbatim «Desde entonces, Jane dejó dos tazas junto a la cafetera.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ade55171-8c96-4c0b-94e8-8830a6c1e3d2.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png"
+          ],
+          "generatedMaster": "exec-7d8b91a5-4c11-452a-8565-f49d820b9b1f.png"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "image": "paginas/c12-p027.webp",
+      "sourcePdfPages": [
+        438,
+        439,
+        440
+      ],
+      "summary": "El televisor fascina a Robin. Malcolm aprende quién decide qué se ve en la sala.",
+      "panels": [
+        {
+          "scene": "Malcolm presses a button on the remote from beside the olive sofa. Pansy in green looks at the television with a puzzled expression. Hermione in gray sits on the rug supporting Robin. Warm low fireplace in background.",
+          "caption": "El segundo descubrimiento fue el televisor."
+        },
+        {
+          "scene": "The blue cartoon elephant appears on the TV. Robin, one small real-looking baby in lion-print pajamas, sits on the rug supported by Hermione’s hand at his waist. He waves one little hand.",
+          "caption": "Robin encontró su programa favorito."
+        },
+        {
+          "scene": "On the same screen an ordinary suited weather presenter appears instead of the cartoon. Malcolm holds the one remote, looks toward Robin who frowns. Natural expression, no distress beyond a quivering lip.",
+          "dialogue": [
+            "Malcolm: Solo quiero ver el pronóstico."
+          ]
+        },
+        {
+          "scene": "Same TV, blue elephant restored. Robin beams at the program from the same rug, Hermione at his side. Malcolm reluctantly smiles, lowers the remote.",
+          "dialogue": [
+            "Jane: Sabe perfectamente quién tiene el control remoto."
+          ]
+        },
+        {
+          "scene": "Close Pansy beside the sofa, one wry amused smile. Green eyes, black bob, full knitted sweater. Robin’s brown curls and cream cuff at frame edge, safely supported.",
+          "dialogue": [
+            "Pansy: Es un Parkinson."
+          ]
+        },
+        {
+          "scene": "Domestic wide shot near bay window later, warm books and folded blankets. Malcolm hums by the bookcase, Robin in Hermione’s arms, Jane and Pansy laugh on the sofa. No second baby and no extra toys.",
+          "caption": "Al día siguiente, Malcolm ya podía cantar la canción."
+        }
+      ],
+      "transcript": "Capítulo 12 · 27\n\nEl televisor fascina a Robin. Malcolm aprende quién decide qué se ve en la sala.\nNarración: El segundo descubrimiento fue el televisor.\nNarración: Robin encontró su programa favorito.\nMalcolm: Solo quiero ver el pronóstico.\nJane: Sabe perfectamente quién tiene el control remoto.\nPansy: Es un Parkinson.\nNarración: Al día siguiente, Malcolm ya podía cantar la canción.",
+      "actualPanelCount": 6,
+      "review": "Mismo salón, televisor y pijama de leones. Robin conserva piel y manos humanas y ojos verdes. Se entiende el cambio entre dibujo animado y pronóstico.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p027.png",
+      "sha256": "836dd3127114d9435b5f1b8229389f3ca06c3c033833a7de4afef4403d33804d",
+      "masterSha256": "4bff64558bf6e2944e102c8e41b4e444ffb7472cae8a19c33a01c4c84dabe641",
+      "ocrMissingCandidates": [
+        "quiero",
+        "pronostico",
+        "perfectamente",
+        "quien",
+        "tiene",
+        "control",
+        "remoto"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for precise living room layout, oak bookcases, red armchairs, dark olive sofa and television; family faces only.\nSame Granger two-storey Victorian house with oak floor, oak bookcases, a dark green door with pine-and-berry wreath and brass lamps. Jane mature chestnut wavy hair with silver at temples, warm brown eyes, sage knit cardigan and ivory blouse indoors. Malcolm mature clean-shaven man, dark-gray temples and rectangular glasses, navy V-neck and light blue shirt indoors. Hermione brown eyes, freckles, distinctive chestnut curls and blue oval sapphire in white platinum halo pendant, front. Pansy narrow moss-green eyes, sleek side-parted black bob to chin, angular jaw and bare ears. Robin a small human baby, chestnut curly hair, green eyes, soft skin, correct anatomy and tiny natural hands. Exactly one Robin. Three days later, afternoon. Same house sitting room with dark olive deep sofa, two burgundy upholstered chairs and bay window, warm brass lamps, framed family photos, oak shelves and low fireplace. Flat dark television on an oak stand, clearly separate from the fireplace. A gentle family setting. Robin wears his cream lion-print pajamas, seated upright supported on the activity rug beside Hermione. Hermione chestnut curls loose, gray sweatshirt and charcoal lounge trousers. Pansy evergreen crew-neck and dark trousers. Malcolm and Jane wear their established home clothes. The flat television shows one stylized blue cartoon elephant with cheerful simple outlines and muted other colors, visually different from human comic characters. One unbranded black remote in Malcolm’s hand when used.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 27» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Malcolm presses a button on the remote from beside the olive sofa. Pansy in green looks at the television with a puzzled expression. Hermione in gray sits on the rug supporting Robin. Warm low fireplace in background. Caption verbatim «El segundo descubrimiento fue el televisor.»\nPanel 2. The blue cartoon elephant appears on the TV. Robin, one small real-looking baby in lion-print pajamas, sits on the rug supported by Hermione’s hand at his waist. He waves one little hand. Caption verbatim «Robin encontró su programa favorito.»\nPanel 3. On the same screen an ordinary suited weather presenter appears instead of the cartoon. Malcolm holds the one remote, looks toward Robin who frowns. Natural expression, no distress beyond a quivering lip. Balloon from Malcolm. Print verbatim «Solo quiero ver el pronóstico.»\nPanel 4. Same TV, blue elephant restored. Robin beams at the program from the same rug, Hermione at his side. Malcolm reluctantly smiles, lowers the remote. Balloon from Jane. Print verbatim «Sabe perfectamente quién tiene el control remoto.»\nPanel 5. Close Pansy beside the sofa, one wry amused smile. Green eyes, black bob, full knitted sweater. Robin’s brown curls and cream cuff at frame edge, safely supported. Balloon from Pansy. Print verbatim «Es un Parkinson.»\nPanel 6. Domestic wide shot near bay window later, warm books and folded blankets. Malcolm hums by the bookcase, Robin in Hermione’s arms, Jane and Pansy laugh on the sofa. No second baby and no extra toys. Caption verbatim «Al día siguiente, Malcolm ya podía cantar la canción.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ade55171-8c96-4c0b-94e8-8830a6c1e3d2.png"
+          ],
+          "generatedMaster": "exec-ebb35029-2ac0-4f8f-922c-a3be3bd1ce95.png"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "image": "paginas/c12-p028.webp",
+      "sourcePdfPages": [
+        440,
+        441
+      ],
+      "summary": "Jane sale a hacer las compras navideñas con Hermione, Pansy y Robin. Las puertas automáticas intrigan a Pansy.",
+      "panels": [
+        {
+          "scene": "View inside the warm hall beside the dark green front door and oak floor. Hermione points her wand safely at the lower brass frame of the Zephyr. Subtle gold glint only on the newly visible four small wheels. Robin sits snug in the stroller. Pansy watches in her gray hoodie, jeans and black boots. Put Pansy on the LEFT with the first balloon and Hermione on the RIGHT with the reply, both visible in the same established vestibule.",
+          "dialogue": [
+            "Pansy: Esas ruedas arruinan el diseño.",
+            "Hermione: Evitan que alguien pregunte por qué flota."
+          ]
+        },
+        {
+          "scene": "Wide outside shot at a modern grocery storefront with glass sliding entrance, mild December decorations and no readable logo. Jane in camel holds a metal shopping cart. Hermione and Pansy arrive next to the one Zephyr. Both stroller and cart are distinct.",
+          "caption": "Jane quería hacer las últimas compras de Navidad."
+        },
+        {
+          "scene": "The front glass doors glide apart on a floor track. Pansy stands just outside, looking up at the small sensor, both hands relaxed at her sides. Hermione and one Robin in the pram stay clear of the panels.",
+          "dialogue": [
+            "Pansy: ¿Cómo supo que estaba aquí?"
+          ]
+        },
+        {
+          "scene": "Close angle from the safe side of the open door. Hermione points to a small black sensor above the doorway. Robin peeks out of the cream hood with a happy open smile.",
+          "dialogue": [
+            "Hermione: Tiene un sensor. Detecta cuando alguien se acerca."
+          ]
+        },
+        {
+          "scene": "Jane turns from inside by the neatly nested metal carts, smiling at Pansy. Orange and cream winter lights reflected in glass, no screen branding.",
+          "dialogue": [
+            "Jane: Primero los alimentos. La electrónica puede esperar."
+          ]
+        },
+        {
+          "scene": "Wide aisle of winter vegetables in wooden bins. Jane pushes one cart, Hermione places a green vegetable inside, Pansy in charcoal hoodie walks beside Robin's pram and glances toward shelves of colorful boxes in the distance.",
+          "dialogue": [
+            "Pansy: No prometo nada."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 28\n\nJane sale a hacer las compras navideñas con Hermione, Pansy y Robin. Las puertas automáticas intrigan a Pansy.\nPansy: Esas ruedas arruinan el diseño.\nHermione: Evitan que alguien pregunte por qué flota.\nNarración: Jane quería hacer las últimas compras de Navidad.\nPansy: ¿Cómo supo que estaba aquí?\nHermione: Tiene un sensor. Detecta cuando alguien se acerca.\nJane: Primero los alimentos. La electrónica puede esperar.\nPansy: No prometo nada.",
+      "actualPanelCount": 6,
+      "review": "El cochecito conserva su estructura y añade ruedas visibles al salir. Pansy mantiene sudadera gris y bufanda verde, Hermione abrigo burdeos y Jane abrigo camel. Se revisaron las puertas, el sensor y el orden de diálogo.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p028.png",
+      "sha256": "3e00a5c3616ee3b715c28cdd9de0854427b38fcbc92013416fd04c53e4b13a69",
+      "masterSha256": "aac203fa0121a2d355a56a7e498dd021b2be114a700b0e74d44363fda4a4afbc",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact family faces and outdoor clothes for Jane and Hermione, and Robin’s exact face. Image 4 is reference for winter palette and gray pavement only. Image 5 is reference for the exact sand and brass Zephyr silhouette, cream hood and dark handle only.\nSame Granger two-storey Victorian house with oak floor, oak bookcases, a dark green door with pine-and-berry wreath and brass lamps. Jane mature chestnut wavy hair with silver at temples, warm brown eyes, sage knit cardigan and ivory blouse indoors. Malcolm mature clean-shaven man, dark-gray temples and rectangular glasses, navy V-neck and light blue shirt indoors. Hermione brown eyes, freckles, distinctive chestnut curls and blue oval sapphire in white platinum halo pendant, front. Pansy narrow moss-green eyes, sleek side-parted black bob to chin, angular jaw and bare ears. Robin a small human baby, chestnut curly hair, green eyes, soft skin, correct anatomy and tiny natural hands. Exactly one Robin. One bright London supermarket on the same winter afternoon. Keep the trio and their outfits throughout the shopping scenes: Jane in her original camel coat and sage scarf, Pansy in a plain full-sleeved charcoal gray hoodie and dark-blue jeans, neat black leather boots and dark green scarf outdoors only. Hermione chestnut curls loose, plum winter coat, cream scarf and front platinum sapphire. Baby Robin in pale blue knit cardigan and cream lion-print footed pajamas with his green eyes and brown curls, cream lap blanket in pram. The same Zephyr cream/sand hood and brass frame as the reference, now has four normal rubber wheels visible to the shoppers. He remains securely seated in the pram until a handoff is shown on a later page. Jane pushes a separate metal shopping cart. Matte blue and cream fixtures, wide aisles, winter daylight at entrance. No readable store brands, no floating pram inside store.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 28» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. View inside the warm hall beside the dark green front door and oak floor. Hermione points her wand safely at the lower brass frame of the Zephyr. Subtle gold glint only on the newly visible four small wheels. Robin sits snug in the stroller. Pansy watches in her gray hoodie, jeans and black boots. Put Pansy on the LEFT with the first balloon and Hermione on the RIGHT with the reply, both visible in the same established vestibule. Balloon from Pansy. Print verbatim «Esas ruedas arruinan el diseño.» Balloon from Hermione. Print verbatim «Evitan que alguien pregunte por qué flota.»\nPanel 2. Wide outside shot at a modern grocery storefront with glass sliding entrance, mild December decorations and no readable logo. Jane in camel holds a metal shopping cart. Hermione and Pansy arrive next to the one Zephyr. Both stroller and cart are distinct. Caption verbatim «Jane quería hacer las últimas compras de Navidad.»\nPanel 3. The front glass doors glide apart on a floor track. Pansy stands just outside, looking up at the small sensor, both hands relaxed at her sides. Hermione and one Robin in the pram stay clear of the panels. Balloon from Pansy. Print verbatim «¿Cómo supo que estaba aquí?»\nPanel 4. Close angle from the safe side of the open door. Hermione points to a small black sensor above the doorway. Robin peeks out of the cream hood with a happy open smile. Balloon from Hermione. Print verbatim «Tiene un sensor. Detecta cuando alguien se acerca.»\nPanel 5. Jane turns from inside by the neatly nested metal carts, smiling at Pansy. Orange and cream winter lights reflected in glass, no screen branding. Balloon from Jane. Print verbatim «Primero los alimentos. La electrónica puede esperar.»\nPanel 6. Wide aisle of winter vegetables in wooden bins. Jane pushes one cart, Hermione places a green vegetable inside, Pansy in charcoal hoodie walks beside Robin's pram and glances toward shelves of colorful boxes in the distance. Balloon from Pansy. Print verbatim «No prometo nada.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f272efa6-7f83-432a-a89a-906a9de3062e.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-51b18024-c47f-450d-85b9-2c7f8e27801b.png"
+        }
+      ]
+    }
+  ]
+}
