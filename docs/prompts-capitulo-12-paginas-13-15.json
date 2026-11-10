@@ -1,0 +1,263 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    13,
+    15
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 13,
+      "image": "paginas/c12-p013.webp",
+      "sourcePdfPages": [
+        407,
+        408,
+        409,
+        410
+      ],
+      "summary": "Robin se acomoda en su silla. El primer viaje en automóvil de Pansy se convierte en una conversación sobre motores.",
+      "panels": [
+        {
+          "scene": "At the curb while the SUV is parked, Jane gently finishes settling Robin into the padded car seat. She uses only two visible hands, one supporting his shoulder. The baby is clearly safely seated, with a navy sweater, bare hands, and smooth human skin. Pansy looks on from outside, face intrigued.",
+          "caption": "Los Granger habían preparado un lugar para Robin."
+        },
+        {
+          "scene": "Inside the parked car, close two-shot Pansy sitting upright with her own seat belt drawn across wool coat; Hermione points at the buckle with one hand from her side, distance maintained. Robin in the rear-facing seat visible between them, not on a lap. No overlapping arms.",
+          "dialogue": [
+            "Pansy: Podía hacerlo sola.",
+            "Hermione: Por supuesto."
+          ]
+        },
+        {
+          "scene": "View from the curb of the graphite SUV moving through London winter lights at dusk. No people framed close. Wet paving, bus silhouette, passing terraces and early festive shop lights.",
+          "caption": "Las calles empezaron a deslizarse tras la ventanilla."
+        },
+        {
+          "scene": "Pansy watches with fascinated green eyes from the left rear passenger position, belted, one hand relaxed on her own knee. Malcolm's eyes in mirror toward road.",
+          "dialogue": [
+            "Pansy: ¿A qué velocidad vamos?",
+            "Malcolm: A unos cuarenta kilómetros por hora."
+          ]
+        },
+        {
+          "scene": "Small graphic cutaway showing stylized visual comparison only, vintage sports car on a road and polished wood racing broom silhouetted in the sky. Separate with reflected glass to make the analogy explicit. No people, no traffic stunt.",
+          "dialogue": [
+            "Pansy, fuera de cuadro: ¿Hay autos que superen los trescientos kilómetros por hora?",
+            "Malcolm, fuera de cuadro: Algunos."
+          ]
+        },
+        {
+          "scene": "Warm composition from front toward rear safely framed, Pansy smiles with new interest, Hermione's brown eyes look at her across the visible deep shell of Robin's seat. Malcolm smiles toward road seen in small mirror, no extra steering wheel.",
+          "dialogue": [
+            "Pansy: Por fin algo del mundo muggle tiene sentido."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 13\n\nRobin se acomoda en su silla. El primer viaje en automóvil de Pansy se convierte en una conversación sobre motores.\nNarración: Los Granger habían preparado un lugar para Robin.\nPansy: Podía hacerlo sola.\nHermione: Por supuesto.\nNarración: Las calles empezaron a deslizarse tras la ventanilla.\nPansy: ¿A qué velocidad vamos?\nMalcolm: A unos cuarenta kilómetros por hora.\nPansy, fuera de cuadro: ¿Hay autos que superen los trescientos kilómetros por hora?\nMalcolm, fuera de cuadro: Algunos.\nPansy: Por fin algo del mundo muggle tiene sentido.",
+      "actualPanelCount": 6,
+      "review": "Jane acomoda a Robin en la silla reclinada de la página 12. El respaldo la identifica cuando el plano se toma desde delante. Se conservan la ropa, el orden de los asientos y los diálogos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p013.png",
+      "sha256": "1d5554e8a330653d7fa14224da491ba93e41d174b81febc563819012fe69b1cf",
+      "masterSha256": "22383e594ed753a254eaf6ab478b143fdab21a1b282b4f12f98c49e7690453f7",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact Granger and student faces, clothes and Robin’s face only. Image 4 is reference for graphite SUV, late-afternoon street, dark leather cabin and baby carrier appearance only.\nHermione long burgundy double-breasted wool coat, cream scarf, front oval blue sapphire with diamond halo on thin white platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest-green scarf, narrow green eyes and short black bob with bare ears. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, charcoal wool coat and navy plaid scarf. Robin is a tiny human baby, chestnut curls, green eyes, navy knit cardigan, beige trousers and cream socks. His light cream blanket stays around his legs or securely tucked in an adult’s arms. Graphite-gray family SUV with dark charcoal leather, subtle wood trim and right-hand-drive UK configuration. No readable brand or screen text. In moving shots Malcolm is in front-right driving with eyes on road; Jane in front-left. Hermione and Pansy stay belted in the rear, Pansy passenger's left, Hermione passenger's right. Robin is in the middle rear position in a single deep-shell rear-facing infant car seat, reclined with correct fabric harness, blanket only over legs and clear face. Avoid any confusing extra people, seat belts or extra limbs. Amber London winter lights outside.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 13» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. At the curb while the SUV is parked, Jane gently finishes settling Robin into the padded car seat. She uses only two visible hands, one supporting his shoulder. The baby is clearly safely seated, with a navy sweater, bare hands, and smooth human skin. Pansy looks on from outside, face intrigued. Caption verbatim «Los Granger habían preparado un lugar para Robin.»\nPanel 2. Inside the parked car, close two-shot Pansy sitting upright with her own seat belt drawn across wool coat; Hermione points at the buckle with one hand from her side, distance maintained. Robin in the rear-facing seat visible between them, not on a lap. No overlapping arms. Balloon from Pansy. Print verbatim «Podía hacerlo sola.» Balloon from Hermione. Print verbatim «Por supuesto.»\nPanel 3. View from the curb of the graphite SUV moving through London winter lights at dusk. No people framed close. Wet paving, bus silhouette, passing terraces and early festive shop lights. Caption verbatim «Las calles empezaron a deslizarse tras la ventanilla.»\nPanel 4. Pansy watches with fascinated green eyes from the left rear passenger position, belted, one hand relaxed on her own knee. Malcolm's eyes in mirror toward road. Balloon from Pansy. Print verbatim «¿A qué velocidad vamos?» Balloon from Malcolm. Print verbatim «A unos cuarenta kilómetros por hora.»\nPanel 5. Small graphic cutaway showing stylized visual comparison only, vintage sports car on a road and polished wood racing broom silhouetted in the sky. Separate with reflected glass to make the analogy explicit. No people, no traffic stunt. Balloon from Pansy, fuera de cuadro. Print verbatim «¿Hay autos que superen los trescientos kilómetros por hora?» Balloon from Malcolm, fuera de cuadro. Print verbatim «Algunos.»\nPanel 6. Warm composition from front toward rear safely framed, Pansy smiles with new interest, Hermione's brown eyes look at her across the visible deep shell of Robin's seat. Malcolm smiles toward road seen in small mirror, no extra steering wheel. Balloon from Pansy. Print verbatim «Por fin algo del mundo muggle tiene sentido.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f272efa6-7f83-432a-a89a-906a9de3062e.png"
+          ],
+          "generatedMaster": "exec-5353ac64-f7b2-4d0c-a782-2fd06910c6e6.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Edit only the FIRST finished six-panel comic page Capítulo 12 · 13, portrait 1024×1536. Match every character's face, expression, seat, correct coat and scarf, glasses, hand, color, background, margins and all lettering exactly. The second image is solely a shape/material reference for the reclined gray infant carrier seen in its last panel. Specific visual continuity change: Only the gray infant carrier and its small occupant in panels 1, 2 and 6. In panel 1, the carrier is an infant bucket exactly like reference 2, tilted/reclined with tall curved charcoal shell, baby still supported facing up as Jane adjusts the soft straps while parked, shown in side profile. In panels 2 and 6, we are looking from the front of the car into the back row. In the center, show only the rounded smooth dark gray BACK OF THE ONE SAME CARRIER and a small edge of cream knit behind it because Robin is reclined inside facing the rear window. He is hidden behind its high curved shell from this camera angle. He remains present in his carrier. Do not add a second car seat, doll or baby. Never change seats or position of Pansy, Hermione, Jane or Malcolm. All other panels identical. Preserve the exact Spanish text and accents, same panels and dimensions. No added text.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5353ac64-f7b2-4d0c-a782-2fd06910c6e6.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f272efa6-7f83-432a-a89a-906a9de3062e.png"
+          ],
+          "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794278226,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":1440,\\\"resets_in_seconds\\\":48563}}\")"
+        },
+        {
+          "selected": true,
+          "prompt": "Edit only the FIRST finished six-panel comic page Capítulo 12 · 13, portrait 1024×1536. Match every character's face, expression, seat, correct coat and scarf, glasses, hand, color, background, margins and all lettering exactly. The second image is solely a shape/material reference for the reclined gray infant carrier seen in its last panel. Specific visual continuity change: Only the gray infant carrier and its small occupant in panels 1, 2 and 6. In panel 1, the carrier is an infant bucket exactly like reference 2, tilted/reclined with tall curved charcoal shell, baby still supported facing up as Jane adjusts the soft straps while parked, shown in side profile. In panels 2 and 6, we are looking from the front of the car into the back row. In the center, show only the rounded smooth dark gray BACK OF THE ONE SAME CARRIER and a small edge of cream knit behind it because Robin is reclined inside facing the rear window. He is hidden behind its high curved shell from this camera angle. He remains present in his carrier. Do not add a second car seat, doll or baby. Never change seats or position of Pansy, Hermione, Jane or Malcolm. All other panels identical. Preserve the exact Spanish text and accents, same panels and dimensions. No added text.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-12-borradores-2026-11-09\\c12-p013.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-12-continuacion-2026-11-08/c12-p012.png"
+          ],
+          "generatedMaster": "exec-85f9b553-42a3-460c-8881-17856ec7f27d.png"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "image": "paginas/c12-p014.webp",
+      "sourcePdfPages": [
+        410,
+        411,
+        412
+      ],
+      "summary": "Jane y Pansy descubren su interés por Florencia. La conversación distiende el viaje hasta la casa de los Granger.",
+      "panels": [
+        {
+          "scene": "Inside moving SUV seen in cropped shoulder-up close shots. Jane turns her chin from front-left passenger seat toward rear, warm profile. Pansy in back looks interested, charcoal coat and forest scarf.",
+          "dialogue": [
+            "Jane: También estuvimos en Florencia. Me pasé horas en la Galería Uffizi."
+          ]
+        },
+        {
+          "scene": "A cinematic memory insert of Florence at golden hour: stone museum colonnade and distant cathedral dome, no readable lettering, no extra speaking people.",
+          "dialogue": [
+            "Pansy, fuera de cuadro: Los frescos son mucho más impresionantes en persona."
+          ]
+        },
+        {
+          "scene": "Back in same car, Jane in warm passenger profile with sage scarf. Hermione and Pansy in rear look toward one another, the rear-facing seat shell between them. No overlapping hands.",
+          "dialogue": [
+            "Jane: En casa tenemos una biblioteca. Tendré que prestarte algo de Jane Austen."
+          ]
+        },
+        {
+          "scene": "Close view of Hermione's face by side window, burgundy coat and cream scarf, platinum sapphire at front. Street lights and window reflections behind.",
+          "dialogue": [
+            "Hermione: Me gusta verte con ellos."
+          ]
+        },
+        {
+          "scene": "Wide shot of the stationary graphite SUV in the driveway of the exact two-storey Victorian house. Hedges and pale brick, glowing bay windows, wreath on dark green door. One soft column of chimney smoke. The small distant figures through the closed windows are not readable.",
+          "dialogue": [
+            "Malcolm, desde el automóvil: Llegamos.",
+            "Pansy, desde el automóvil: ¿Ya?"
+          ]
+        },
+        {
+          "scene": "On sidewalk after parking, Malcolm in charcoal coat with rectangular glasses stands at the driver's door, with Pansy smiling from the side of the car. House entry with pine wreath behind. No baby in this framing.",
+          "dialogue": [
+            "Malcolm: Mañana puedo enseñarte el motor.",
+            "Pansy: Esperaba que lo ofrecieras."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 14\n\nJane y Pansy descubren su interés por Florencia. La conversación distiende el viaje hasta la casa de los Granger.\nJane: También estuvimos en Florencia. Me pasé horas en la Galería Uffizi.\nPansy, fuera de cuadro: Los frescos son mucho más impresionantes en persona.\nJane: En casa tenemos una biblioteca. Tendré que prestarte algo de Jane Austen.\nHermione: Me gusta verte con ellos.\nMalcolm, desde el automóvil: Llegamos.\nPansy, desde el automóvil: ¿Ya?\nMalcolm: Mañana puedo enseñarte el motor.\nPansy: Esperaba que lo ofrecieras.",
+      "actualPanelCount": 6,
+      "review": "Se mantiene la silla reclinada vista desde delante y se presenta la fachada victoriana. Se comprobaron los globos, la conversación sobre Florencia y las seis viñetas.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p014.png",
+      "sha256": "fff4ffe0f6591278a526271de8449062b9d3e9e52a8ded7fc5a4ff777f1b4a5a",
+      "masterSha256": "22c75064278b574bda146470619c4a33b90bdb55aa2e98b6c4fb0ef4122d523a",
+      "ocrMissingCandidates": [
+        "ellos"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact family faces, coats and baby colors. Image 4 is reference for exact SUV and wintry London dusk only.\nHermione long burgundy double-breasted wool coat, cream scarf, front oval blue sapphire with diamond halo on thin white platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest-green scarf, narrow green eyes and short black bob with bare ears. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, charcoal wool coat and navy plaid scarf. Robin is a tiny human baby, chestnut curls, green eyes, navy knit cardigan, beige trousers and cream socks. His light cream blanket stays around his legs or securely tucked in an adult’s arms. Graphite-gray family SUV with dark charcoal leather, subtle wood trim and right-hand-drive UK configuration. No readable brand or screen text. In moving shots Malcolm is in front-right driving with eyes on road; Jane in front-left. Hermione and Pansy stay belted in the rear, Pansy passenger's left, Hermione passenger's right. Robin is in the middle rear position in a single deep-shell rear-facing infant car seat, reclined with correct fabric harness, blanket only over legs and clear face. Avoid any confusing extra people, seat belts or extra limbs. Amber London winter lights outside. Two-storey Victorian London house of pale honey brick with a short hedge and iron gate, tall bay windows with cream curtains, dark green entrance door with pine wreath, red berries and burgundy velvet ribbon. Interior oak floor, thick russet and dark blue rugs, low amber brass lamps, quiet wood fireplace in adjoining sitting room, two upholstered armchairs and one deep gray-green sofa with folded knitted blankets, wall-high oak bookshelves full of old books, framed family photographs, stairs with a warm oak banister. Comfortable modest family scale. Never make it a huge castle or use magic effects. Coats come off inside only when noted.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 14» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Inside moving SUV seen in cropped shoulder-up close shots. Jane turns her chin from front-left passenger seat toward rear, warm profile. Pansy in back looks interested, charcoal coat and forest scarf. Balloon from Jane. Print verbatim «También estuvimos en Florencia. Me pasé horas en la Galería Uffizi.»\nPanel 2. A cinematic memory insert of Florence at golden hour: stone museum colonnade and distant cathedral dome, no readable lettering, no extra speaking people. Balloon from Pansy, fuera de cuadro. Print verbatim «Los frescos son mucho más impresionantes en persona.»\nPanel 3. Back in same car, Jane in warm passenger profile with sage scarf. Hermione and Pansy in rear look toward one another, the rear-facing seat shell between them. No overlapping hands. Balloon from Jane. Print verbatim «En casa tenemos una biblioteca. Tendré que prestarte algo de Jane Austen.»\nPanel 4. Close view of Hermione's face by side window, burgundy coat and cream scarf, platinum sapphire at front. Street lights and window reflections behind. Balloon from Hermione. Print verbatim «Me gusta verte con ellos.»\nPanel 5. Wide shot of the stationary graphite SUV in the driveway of the exact two-storey Victorian house. Hedges and pale brick, glowing bay windows, wreath on dark green door. One soft column of chimney smoke. The small distant figures through the closed windows are not readable. Balloon from Malcolm, desde el automóvil. Print verbatim «Llegamos.» Balloon from Pansy, desde el automóvil. Print verbatim «¿Ya?»\nPanel 6. On sidewalk after parking, Malcolm in charcoal coat with rectangular glasses stands at the driver's door, with Pansy smiling from the side of the car. House entry with pine wreath behind. No baby in this framing. Balloon from Malcolm. Print verbatim «Mañana puedo enseñarte el motor.» Balloon from Pansy. Print verbatim «Esperaba que lo ofrecieras.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4abfc3a7-940d-4910-8e12-31804fb6e34e.png"
+          ],
+          "generatedMaster": "exec-3e77f031-6d6d-4207-965e-df4d49ee9bd9.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Edit only the FIRST finished six-panel comic page Capítulo 12 · 14, portrait 1024×1536. Match every character's face, expression, seat, correct coat and scarf, glasses, hand, color, background, margins and all lettering exactly. The second image is solely a shape/material reference for the reclined gray infant carrier seen in its last panel. Specific visual continuity change: Only panel 3 at center left under Jane’s balloon about her library. In the middle of the rear bench, show the rounded smooth dark gray BACK OF THE infant carrier with a small edge of cream knit behind it. Robin is reclined in this one carrier and his face is occluded by the curved protective shell from this camera position, as he faces the rear window. Keep the carrier centered and reproduce its material from the empty car seat in reference 2. Keep Pansy at left and Hermione at right in the rear and Jane at left in the front, all same clothes and seatbelts. Do not alter any other aspect of panel 3 or any of the other five panels. Preserve the exact Spanish text and accents, same panels and dimensions. No added text.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3e77f031-6d6d-4207-965e-df4d49ee9bd9.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f272efa6-7f83-432a-a89a-906a9de3062e.png"
+          ],
+          "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794278226,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":1440,\\\"resets_in_seconds\\\":48559}}\")"
+        },
+        {
+          "selected": true,
+          "prompt": "Edit only the FIRST finished six-panel comic page Capítulo 12 · 14, portrait 1024×1536. Match every character's face, expression, seat, correct coat and scarf, glasses, hand, color, background, margins and all lettering exactly. The second image is solely a shape/material reference for the reclined gray infant carrier seen in its last panel. Specific visual continuity change: Only panel 3 at center left under Jane’s balloon about her library. In the middle of the rear bench, show the rounded smooth dark gray BACK OF THE infant carrier with a small edge of cream knit behind it. Robin is reclined in this one carrier and his face is occluded by the curved protective shell from this camera position, as he faces the rear window. Keep the carrier centered and reproduce its material from the empty car seat in reference 2. Keep Pansy at left and Hermione at right in the rear and Jane at left in the front, all same clothes and seatbelts. Do not alter any other aspect of panel 3 or any of the other five panels. Preserve the exact Spanish text and accents, same panels and dimensions. No added text.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-12-borradores-2026-11-09\\c12-p014.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-12-continuacion-2026-11-08/c12-p012.png"
+          ],
+          "generatedMaster": "exec-27b75e34-9846-44ce-a2ab-ad4b76a8930a.png"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "image": "paginas/c12-p015.webp",
+      "sourcePdfPages": [
+        412,
+        413,
+        414
+      ],
+      "summary": "Pansy descubre la casa sin magia, los recuerdos de Hermione y la calidez de los Granger.",
+      "panels": [
+        {
+          "scene": "Interior view toward dark green front door. Malcolm holds it open, one family arrives from the cold, Jane holding one Robin comfortably, Pansy and Hermione step onto oak floor and a rug. Rich natural lamp light and simple wood trim.",
+          "caption": "Adentro olía a cedro, libros y canela."
+        },
+        {
+          "scene": "Wide low warm shot of the sitting room, glowing fireplace, gray-green sofa and two armchairs, stacked books, oak shelves and family photographs. Pansy in charcoal and dark green scarf gazes around from the right.",
+          "caption": "La casa era más cálida de lo que Pansy había imaginado."
+        },
+        {
+          "scene": "Close oak bookshelf with two visible frames. One photo shows young Hermione clothed in school cardigan holding an unlettered certificate. The other shows a small young Hermione on Malcolm's shoulders beside a tree. Adult Pansy's face reflected softly in frame glass, if clear. Do not confuse child Hermione with present Hermione.",
+          "dialogue": [
+            "Hermione, fuera de cuadro: Puedes inspeccionar las fotografías humillantes después."
+          ]
+        },
+        {
+          "scene": "In the sitting room Hermione has removed coat and scarf and wears burgundy knit with blue sapphire on platinum chain. She stands by Pansy, who points at a dark blank television. Unlit screen, no supernatural images.",
+          "dialogue": [
+            "Pansy: ¿Qué es eso?",
+            "Hermione: Un televisor. Te lo enseñaré después."
+          ]
+        },
+        {
+          "scene": "Jane in sage cardigan and ivory blouse seated in one armchair with Robin upright and safely supported. Malcolm in charcoal coat and navy plaid scarf kneels next to the armchair and offers one index finger. Robin closes a tiny hand around it. The man's face shows a quiet smile.",
+          "dialogue": [
+            "Malcolm: Parece que alguien está contento de haber llegado."
+          ]
+        },
+        {
+          "scene": "Jane stands beside oak stairs with Robin snug in her arms. Malcolm with his coat still on looks back from beside the two large trunks and one small trunk. Pansy and Hermione turn toward Jane.",
+          "dialogue": [
+            "Jane: Pansy, cariño, ven conmigo. Te mostraré tu habitación."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 15\n\nPansy descubre la casa sin magia, los recuerdos de Hermione y la calidez de los Granger.\nNarración: Adentro olía a cedro, libros y canela.\nNarración: La casa era más cálida de lo que Pansy había imaginado.\nHermione, fuera de cuadro: Puedes inspeccionar las fotografías humillantes después.\nPansy: ¿Qué es eso?\nHermione: Un televisor. Te lo enseñaré después.\nMalcolm: Parece que alguien está contento de haber llegado.\nJane: Pansy, cariño, ven conmigo. Te mostraré tu habitación.",
+      "actualPanelCount": 6,
+      "review": "El globo alto de Pansy pregunta por el televisor antes de la respuesta de Hermione. Se mantienen el recibidor, las fotos, la escalera y el vestuario de interior. Robin pasa la página en brazos de Jane.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p015.png",
+      "sha256": "4138df6da92edcc7b00c12f92605f8ee5089db93737f00c47158e40006b938dc",
+      "masterSha256": "969fb50258730106e3cbecd810c66bf8c285aabb4f3d71c54651666cb3c70cfa",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact Granger faces, students’ faces, Robin’s face, current clothes and the three trunks only, never the station.\nHermione long burgundy double-breasted wool coat, cream scarf, front oval blue sapphire with diamond halo on thin white platinum chain, brown eyes and chestnut curls. Pansy charcoal wool coat, black leather gloves, forest-green scarf, narrow green eyes and short black bob with bare ears. Jane Granger middle aged, softly waved shoulder-length chestnut hair with silver streaks at the temples, brown eyes, warm rounded lined face, camel wool coat and sage scarf. Malcolm Granger middle aged, clean shaven, dark wavy hair with grey temples and rectangular dark glasses, charcoal wool coat and navy plaid scarf. Robin is a tiny human baby, chestnut curls, green eyes, navy knit cardigan, beige trousers and cream socks. His light cream blanket stays around his legs or securely tucked in an adult’s arms. Two-storey Victorian London house of pale honey brick with a short hedge and iron gate, tall bay windows with cream curtains, dark green entrance door with pine wreath, red berries and burgundy velvet ribbon. Interior oak floor, thick russet and dark blue rugs, low amber brass lamps, quiet wood fireplace in adjoining sitting room, two upholstered armchairs and one deep gray-green sofa with folded knitted blankets, wall-high oak bookshelves full of old books, framed family photographs, stairs with a warm oak banister. Comfortable modest family scale. Never make it a huge castle or use magic effects. Coats come off inside only when noted. Interior clothing Jane in sage cardigan over ivory blouse, Malcolm navy V-neck sweater over a pale blue button shirt, Hermione burgundy fine-knit school sweater and full gray trousers after removing coat and scarf, sapphire necklace front, Pansy forest-green school vest over long-sleeved white Oxford shirt and dark gray tailored trousers with green-silver tie under coat. At the beginning the station outerwear can still be seen. Jane has already taken Robin out of the parked car and holds him safely throughout this page. Show precisely two large dark leather trunks with brass corners and one small matching trunk in the entry only when visible. No train or car inside the house.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 15» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nPanel 1. Interior view toward dark green front door. Malcolm holds it open, one family arrives from the cold, Jane holding one Robin comfortably, Pansy and Hermione step onto oak floor and a rug. Rich natural lamp light and simple wood trim. Caption verbatim «Adentro olía a cedro, libros y canela.»\nPanel 2. Wide low warm shot of the sitting room, glowing fireplace, gray-green sofa and two armchairs, stacked books, oak shelves and family photographs. Pansy in charcoal and dark green scarf gazes around from the right. Caption verbatim «La casa era más cálida de lo que Pansy había imaginado.»\nPanel 3. Close oak bookshelf with two visible frames. One photo shows young Hermione clothed in school cardigan holding an unlettered certificate. The other shows a small young Hermione on Malcolm's shoulders beside a tree. Adult Pansy's face reflected softly in frame glass, if clear. Do not confuse child Hermione with present Hermione. Balloon from Hermione, fuera de cuadro. Print verbatim «Puedes inspeccionar las fotografías humillantes después.»\nPanel 4. In the sitting room Hermione has removed coat and scarf and wears burgundy knit with blue sapphire on platinum chain. She stands by Pansy, who points at a dark blank television. Unlit screen, no supernatural images. Balloon from Pansy. Print verbatim «¿Qué es eso?» Balloon from Hermione. Print verbatim «Un televisor. Te lo enseñaré después.»\nPanel 5. Jane in sage cardigan and ivory blouse seated in one armchair with Robin upright and safely supported. Malcolm in charcoal coat and navy plaid scarf kneels next to the armchair and offers one index finger. Robin closes a tiny hand around it. The man's face shows a quiet smile. Balloon from Malcolm. Print verbatim «Parece que alguien está contento de haber llegado.»\nPanel 6. Jane stands beside oak stairs with Robin snug in her arms. Malcolm with his coat still on looks back from beside the two large trunks and one small trunk. Pansy and Hermione turn toward Jane. Balloon from Jane. Print verbatim «Pansy, cariño, ven conmigo. Te mostraré tu habitación.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e348454e-ef93-4d10-be20-2c78e7e4724e.png"
+          ],
+          "generatedMaster": "exec-6cd09bb8-fcc7-4b48-beb4-d8dd93a14adf.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Precise lettering edit to the FIRST finished Spanish comic Capítulo 12 · 15, 1024×1536. Reproduce all six drawings, cream margins, poses, hands, Robin's green eyes, Granger family faces, interiors and lettering exactly. Only panel 4, row two on the right with a television, changes. Arrange those two existing balloons as a clear sequence: first, the highest is Pansy's small balloon «¿Qué es eso?» with its tail to the short-black-haired student on the right. Below it, Hermione's balloon «Un televisor. Te lo enseñaré después.» sits on the left with its tail to the chestnut-curly student. The question MUST be read before the reply. Remove the tiny brand-like speck from the bottom right TV bezel; the screen remains black. All other five panels and accents identical. No new text, signatures or footer.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-12-borradores-2026-11-09\\c12-p015.png"
+          ],
+          "generatedMaster": "exec-ade55171-8c96-4c0b-94e8-8830a6c1e3d2.png"
+        }
+      ]
+    }
+  ]
+}

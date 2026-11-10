@@ -27,3 +27,13 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 12 | 405–406–407 | Ante la camioneta de los Granger, Pansy preferiría una escoba. Jane les muestra el asiento que instalaron para Robin. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-09-12.json).
+
+## Páginas 13–15
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 13 | 407–408–409–410 | Robin se acomoda en su silla. El primer viaje en automóvil de Pansy se convierte en una conversación sobre motores. |
+| 14 | 410–411–412 | Jane y Pansy descubren su interés por Florencia. La conversación distiende el viaje hasta la casa de los Granger. |
+| 15 | 412–413–414 | Pansy descubre la casa sin magia, los recuerdos de Hermione y la calidez de los Granger. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-13-15.json).
