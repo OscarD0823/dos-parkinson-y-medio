@@ -1,0 +1,376 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    20,
+    24
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 20,
+      "image": "paginas/c12-p020.webp",
+      "sourcePdfPages": [
+        424,
+        425,
+        426,
+        427
+      ],
+      "summary": "Entre bromas por el pan y recuerdos de la consulta dental, Pansy descubre cómo conversan los Granger en casa.",
+      "panels": [
+        {
+          "scene": "View from table level, Hermione reaches with a single hand to take one slice of garlic bread from Pansy's plate. Pansy looks at her with affected indignation. The pram stays safe out of reach of food.",
+          "dialogue": [
+            "Jane: Hermione nunca compartía la comida."
+          ]
+        },
+        {
+          "scene": "Pansy gently slides her plate a few centimeters toward Hermione, soft smile. Hermione looks up with a piece of bread on her own small plate. Set the camera angle so Hermione is on the LEFT and speaks first, Pansy on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces.",
+          "dialogue": [
+            "Hermione: Lo tuyo sabe mejor.",
+            "Pansy: Es exactamente el mismo pan."
+          ]
+        },
+        {
+          "scene": "Malcolm starts explaining his work with a simple shape sketched on a paper napkin, no diagrams of procedures, no instruments. Pansy leans in curiously. Set the camera angle so Pansy is on the LEFT and speaks first, Jane on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces.",
+          "dialogue": [
+            "Pansy: ¿Todo eso sin encantamientos para el dolor?",
+            "Jane: Para eso tenemos anestesia."
+          ]
+        },
+        {
+          "scene": "Jane laughs as she tells a story, Malcolm lifts one eyebrow and extends one hand with a theatrical harmless frown. Present-day meal only, no flashback to harm. Set the camera angle so Jane is on the LEFT and speaks first, Malcolm on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces.",
+          "dialogue": [
+            "Jane: Una vez un niño le mordió el dedo.",
+            "Malcolm: Tenía la fuerza de mandíbula de un cerbero."
+          ]
+        },
+        {
+          "scene": "Hermione in gray smiles at Malcolm across the table, one familiar family gesture. Pansy listens, framed between both. The sleepers and food remain unchanged. Set the camera angle so Hermione is on the LEFT and speaks first, Malcolm on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces.",
+          "dialogue": [
+            "Hermione: A mí me hacías firmar una promesa. Tenía cinco años.",
+            "Malcolm: Y todos tus dientes."
+          ]
+        },
+        {
+          "scene": "Warm wide view of the four laughing around the dinner table, with the same pram beside the two students and Robin sleeping. Clear natural proportions and soft fireplace glow from adjoining room.",
+          "caption": "Pansy se rio con ellos."
+        }
+      ],
+      "transcript": "Capítulo 12 · 20\n\nEntre bromas por el pan y recuerdos de la consulta dental, Pansy descubre cómo conversan los Granger en casa.\nJane: Hermione nunca compartía la comida.\nHermione: Lo tuyo sabe mejor.\nPansy: Es exactamente el mismo pan.\nPansy: ¿Todo eso sin encantamientos para el dolor?\nJane: Para eso tenemos anestesia.\nJane: Una vez un niño le mordió el dedo.\nMalcolm: Tenía la fuerza de mandíbula de un cerbero.\nHermione: A mí me hacías firmar una promesa. Tenía cinco años.\nMalcolm: Y todos tus dientes.\nNarración: Pansy se rio con ellos.",
+      "actualPanelCount": 6,
+      "review": "Se conservan la mesa redonda, el Zephyr y el pijama de Robin. Las cuatro conversaciones con dos globos se leen de izquierda a derecha.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p020.png",
+      "sha256": "e045430979273c19ea7022ccd2fa6a13a16ea7f7282f6842490939ad2259e870",
+      "masterSha256": "d05430c6bb51e58f6e7a7bb049a75299558e764c2d7f9014d9b8d0a157abf664",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current round dinner table, four seats, four individual faces and sweaters, baby lion-print pajamas, Zephyr placement, arch, pendant and lighting only. Image 4 is reference for the same exact sand and brass Zephyr pram only.\nCozy lived-in Granger Victorian house, oak floor and amber lamps. Hermione recognizable face with brown eyes and freckles, abundant chestnut curls now in a loose high bun with escaping curls when wearing loungewear, oval blue sapphire on a thin white platinum chain in front. Pansy short sleek black bob, green narrow eyes, angular jaw and bare ears. Robin a single human small baby with brown curls and green eyes, now wears an opaque full soft cream footed sleeper patterned with tiny ochre lions when Hermione brings him back. Jane sage knit cardigan over ivory blouse, shoulder-length chestnut hair silver at temples, brown eyes. Malcolm clean-shaven mature man with dark gray-templed hair, rectangular glasses, navy V-neck sweater over pale blue shirt. Mature adult features kept distinct. Granger dining room with round dark oak table, a warm brass pendant, cream wall, narrow shelving and adjacent oak sitting room visible through a doorway. One stoneware pasta dish, bread basket, vegetables, roast, candles and quiet jazz implied by a turntable visible on living room side. Only four people at the table, Jane, Malcolm, Hermione and Pansy. Hermione keeps the same long gray cotton sweatshirt and gray trousers, chestnut curls in bun. Pansy has changed into an evergreen crewneck sweater and charcoal trousers before dinner. Robin wears the cream lion-print footed pajamas and sleeps in his one sand-colored Zephyr Grand Deluxe pram, antique brass frame, dark leather handle and cream hood halfway open, beside the table between Pansy and Hermione. No second baby, no pet near sleeping baby, no indoor smoke or magic sparks around Robin. Keep seats, dinner lighting, dishware and the same one pram. Drinking glasses are simple clear glasses with water or dark fruit juice. Within any two-dialogue panel, stage the first speaker at left and second speaker at right when possible. Clearly place the first balloon higher than the reply, separated vertically, with distinct tails. The panel text is read in the specified sequence.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 20» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. View from table level, Hermione reaches with a single hand to take one slice of garlic bread from Pansy's plate. Pansy looks at her with affected indignation. The pram stays safe out of reach of food. Balloon from Jane. Print verbatim «Hermione nunca compartía la comida.»\nPanel 2. Pansy gently slides her plate a few centimeters toward Hermione, soft smile. Hermione looks up with a piece of bread on her own small plate. Set the camera angle so Hermione is on the LEFT and speaks first, Pansy on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces. Balloon from Hermione. Print verbatim «Lo tuyo sabe mejor.» Balloon from Pansy. Print verbatim «Es exactamente el mismo pan.»\nPanel 3. Malcolm starts explaining his work with a simple shape sketched on a paper napkin, no diagrams of procedures, no instruments. Pansy leans in curiously. Set the camera angle so Pansy is on the LEFT and speaks first, Jane on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces. Balloon from Pansy. Print verbatim «¿Todo eso sin encantamientos para el dolor?» Balloon from Jane. Print verbatim «Para eso tenemos anestesia.»\nPanel 4. Jane laughs as she tells a story, Malcolm lifts one eyebrow and extends one hand with a theatrical harmless frown. Present-day meal only, no flashback to harm. Set the camera angle so Jane is on the LEFT and speaks first, Malcolm on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces. Balloon from Jane. Print verbatim «Una vez un niño le mordió el dedo.» Balloon from Malcolm. Print verbatim «Tenía la fuerza de mandíbula de un cerbero.»\nPanel 5. Hermione in gray smiles at Malcolm across the table, one familiar family gesture. Pansy listens, framed between both. The sleepers and food remain unchanged. Set the camera angle so Hermione is on the LEFT and speaks first, Malcolm on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces. Balloon from Hermione. Print verbatim «A mí me hacías firmar una promesa. Tenía cinco años.» Balloon from Malcolm. Print verbatim «Y todos tus dientes.»\nPanel 6. Warm wide view of the four laughing around the dinner table, with the same pram beside the two students and Robin sleeping. Clear natural proportions and soft fireplace glow from adjoining room. Caption verbatim «Pansy se rio con ellos.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-4b687647-b0b2-4306-be85-30ab793a1b70.png"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "image": "paginas/c12-p021.webp",
+      "sourcePdfPages": [
+        427,
+        428
+      ],
+      "summary": "Jane y Malcolm cuentan cómo recibieron la carta de Hogwarts. Pansy comprende qué les costó dejar partir a Hermione.",
+      "panels": [
+        {
+          "scene": "At the same oak dinner table, Jane calmly recalls the day the letter arrived. Her gray-streaked brown waves, ivory collar, sage sweater and warm older face match the reference exactly. Malcolm and Hermione listen, and Pansy looks over from her chair.",
+          "dialogue": [
+            "Jane: Cuando llegó tu carta de Hogwarts, pensamos que era una broma."
+          ]
+        },
+        {
+          "scene": "Visual insert, just a parchment envelope with deep green address strokes and burgundy wax seal on a small oak side table, two soft pools of lamplight. No people in this still life, no readable extra letters.",
+          "caption": "La carta venía con tinta verde y sello de cera."
+        },
+        {
+          "scene": "Storybook memory insert in the same oak sitting room: small healthy pink pig on the patterned rug where a low coffee table usually stands. One tiny harmless sparkle above the rug, hearth and bay window. No people in the picture. Jane narrates from off-panel.",
+          "dialogue": [
+            "Jane, fuera de cuadro: Después McGonagall convirtió la mesa de centro en un cerdo."
+          ]
+        },
+        {
+          "scene": "Return to the same dinner. Malcolm in a navy V-neck and pale blue shirt looks over his rectangular glasses toward Hermione. His expression is protective and thoughtful. Two natural hands resting by his place setting.",
+          "dialogue": [
+            "Malcolm: Nos costó confiarte a un mundo al que no podíamos seguirte."
+          ]
+        },
+        {
+          "scene": "Pansy at her seat in dark evergreen sweater, fingers resting on the table. She glances down toward a single small, fully clothed Robin sleeping comfortably in his own cream Zephyr pram, a quiet family moment.",
+          "dialogue": [
+            "Pansy: No sé si yo podría hacerlo."
+          ]
+        },
+        {
+          "scene": "Jane turns kindly toward Pansy. Both remain seated at the same dining table. Soft brass light and a few plates. Keep the mature Granger adult face and the two students' faces distinct.",
+          "dialogue": [
+            "Jane: Tendrías miedo. Y lo harías si fuera lo mejor para él."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 21\n\nJane y Malcolm cuentan cómo recibieron la carta de Hogwarts. Pansy comprende qué les costó dejar partir a Hermione.\nJane: Cuando llegó tu carta de Hogwarts, pensamos que era una broma.\nNarración: La carta venía con tinta verde y sello de cera.\nJane, fuera de cuadro: Después McGonagall convirtió la mesa de centro en un cerdo.\nMalcolm: Nos costó confiarte a un mundo al que no podíamos seguirte.\nPansy: No sé si yo podría hacerlo.\nJane: Tendrías miedo. Y lo harías si fuera lo mejor para él.",
+      "actualPanelCount": 6,
+      "review": "La carta y la transformación de la mesa se ilustran como recuerdos sin personas. La cena, los cuatro rostros, Robin y las seis líneas se mantienen.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p021.png",
+      "sha256": "fc4f2ba8c57a5606830a4e35cea11192691dc11c351d86f108823ac3cccf8c57",
+      "masterSha256": "d0a48d4e673925a0bbce89797d48b14aa34d3206e0d0318c61e3d97ab37584e4",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current round dinner table, four seats, four individual faces and sweaters, baby lion-print pajamas, Zephyr placement, arch, pendant and lighting only. Image 4 is reference for the same exact sand and brass Zephyr pram only. Image 5 is reference for the recognizable adult Professor McGonagall in green tartan and pointed hat only.\nCozy lived-in Granger home, amber lighting and oak finish. Continuing the same dinner at one round dark oak table with a brass pendant, white stoneware, bread, pasta and glasses of water or dark fruit juice. Same four people and one sand-colored Zephyr Grand Deluxe pram with brass frame and halfway-raised hood. One small human baby Robin, chestnut curls and green eyes, sleeps on his back in cream lion-print footed pajamas. Pram beside the table between Pansy and Hermione. Jane middle-aged shoulder-length chestnut hair silver at temples, sage cardigan and ivory blouse. Malcolm middle-aged clean-shaven, rectangular dark glasses, brown with grey temples, navy V-neck sweater and pale blue shirt. Hermione older student brown eyes freckles and chestnut curls in loose high bun with curls around the face, opaque long-sleeved gray sweatshirt, charcoal trousers, front oval sapphire with diamond halo on fine white platinum chain. Pansy older student sleek short black bob and narrow green eyes, angular jaw and bare ears, evergreen crewneck and charcoal trousers. Keep seats, character faces and objects across the dinner. Use distinct visual inset borders for memories, with younger Hermione and slightly younger adult parents; keep all fully clothed, warm domestic story.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 21» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Jane sets her glass down and looks toward Hermione with a thoughtful smile. Malcolm listens at her side. Pansy near the sleeping Robin turns to listen. Balloon from Jane. Print verbatim «Cuando llegó tu carta de Hogwarts, pensamos que era una broma.»\nPanel 2. A memory inset from years earlier. Close on parchment with green-address ink represented by faint strokes and a wax seal. Younger Hermione in a full burgundy cardigan, adult Jane and Malcolm look surprised in the same oak family room. Caption verbatim «La carta venía con tinta verde y sello de cera.»\nPanel 3. A second memory inset in the sitting room, Professor McGonagall in formal green tartan robes and pointed hat at safe distance, small pink pig on rug where the coffee table had been, younger Hermione smiles and both adult Grangers stare in surprise. Balloon from Jane, fuera de cuadro. Print verbatim «Después McGonagall convirtió la mesa de centro en un cerdo.»\nPanel 4. Return to the warm present-day dining room. Malcolm looks to Hermione, a quiet protective adult expression, hands resting naturally by his place setting. Balloon from Malcolm. Print verbatim «Nos costó confiarte a un mundo al que no podíamos seguirte.»\nPanel 5. Pansy looks down to sleeping Robin in the pram. The baby's face remains peaceful, no magic around him, low warm light on the hood. Balloon from Pansy. Print verbatim «No sé si yo podría hacerlo.»\nPanel 6. Jane gently turns toward Pansy, still seated. Pansy looks back from beside the pram and Hermione's shoulder, both expressions warm. Balloon from Jane. Print verbatim «Tendrías miedo. Y lo harías si fuera lo mejor para él.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c11-p016.webp"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": true,
+          "prompt": "Draw a single 1024×1536 six-panel illustrated Spanish comic page «Capítulo 12 · 21» continuing this ordinary family dinner. Match the exact four individual faces, clothing, oak dining room, books and brass pendant in the reference, used as a design reference only. Two brief memory inserts are simple still life pictures, without any people. All main characters sit fully clothed at their own places, calm expressive faces. One real-looking sleeping baby wears his full cream lion-print pajamas and is supported by his cream-and-brass pram beside the table. Keep the six panels clear in three rows, cream gutters, thin black outlines, readable exact Spanish, only one balloon or caption per panel. No extra words or footer.\nPanel 1. At the same oak dinner table, Jane calmly recalls the day the letter arrived. Her gray-streaked brown waves, ivory collar, sage sweater and warm older face match the reference exactly. Malcolm and Hermione listen, and Pansy looks over from her chair. Balloon from Jane «Cuando llegó tu carta de Hogwarts, pensamos que era una broma.»\nPanel 2. Visual insert, just a parchment envelope with deep green address strokes and burgundy wax seal on a small oak side table, two soft pools of lamplight. No people in this still life, no readable extra letters. Caption «La carta venía con tinta verde y sello de cera.»\nPanel 3. Storybook memory insert in the same oak sitting room: small healthy pink pig on the patterned rug where a low coffee table usually stands. One tiny harmless sparkle above the rug, hearth and bay window. No people in the picture. Jane narrates from off-panel. Balloon from Jane, fuera de cuadro «Después McGonagall convirtió la mesa de centro en un cerdo.»\nPanel 4. Return to the same dinner. Malcolm in a navy V-neck and pale blue shirt looks over his rectangular glasses toward Hermione. His expression is protective and thoughtful. Two natural hands resting by his place setting. Balloon from Malcolm «Nos costó confiarte a un mundo al que no podíamos seguirte.»\nPanel 5. Pansy at her seat in dark evergreen sweater, fingers resting on the table. She glances down toward a single small, fully clothed Robin sleeping comfortably in his own cream Zephyr pram, a quiet family moment. Balloon from Pansy «No sé si yo podría hacerlo.»\nPanel 6. Jane turns kindly toward Pansy. Both remain seated at the same dining table. Soft brass light and a few plates. Keep the mature Granger adult face and the two students' faces distinct. Balloon from Jane «Tendrías miedo. Y lo harías si fuera lo mejor para él.»",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png"
+          ],
+          "generatedMaster": "exec-2d99fe57-7e81-4496-bdb5-8622dba454e1.png"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "image": "paginas/c12-p022.webp",
+      "sourcePdfPages": [
+        429,
+        430,
+        431
+      ],
+      "summary": "Los Granger recuerdan la primera noticia sobre Robin. Malcolm y Pansy quedan para ver el motor antes de que Jane pregunte cómo se conocieron.",
+      "panels": [
+        {
+          "scene": "Malcolm pushes his glasses up by the bridge, smiling with recollection across the round table. Hermione looks slightly embarrassed.",
+          "dialogue": [
+            "Malcolm: Llegaste a decirnos que tenías un bebé y que Pansy era su otra madre."
+          ]
+        },
+        {
+          "scene": "Jane's warm smile toward Hermione and then Pansy, Robin's pram near edge of frame. Pansy raises an interested eyebrow.",
+          "dialogue": [
+            "Jane: Después nos hablaste de Robin durante cuarenta minutos."
+          ]
+        },
+        {
+          "scene": "At floor level, the sand-and-brass Zephyr hovers gently over the oak floor with its hood half raised, a natural illustration of fictional magic. Malcolm studies the frame at a distance, Pansy in green looks amused. Set the camera angle so Malcolm is on the LEFT and speaks first, Pansy on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces.",
+          "dialogue": [
+            "Malcolm: Todavía quiero saber cómo flota sin motor.",
+            "Pansy: Encantamientos de levitación."
+          ]
+        },
+        {
+          "scene": "Malcolm leans back smiling, no tools in hand. Pansy playfully lifts her chin, and Hermione hides a smile behind her glass of water. Set the camera angle so Malcolm is on the LEFT and speaks first, Pansy on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces.",
+          "dialogue": [
+            "Malcolm: Mañana te enseño un motor de verdad. A las nueve.",
+            "Pansy: A las ocho."
+          ]
+        },
+        {
+          "scene": "A quick warm cut as Malcolm nods, holding one hand relaxed at the edge of the table. Pansy smiles. Jane sets a folded napkin aside.",
+          "dialogue": [
+            "Malcolm: A las ocho."
+          ]
+        },
+        {
+          "scene": "Jane folds her hands and looks curiously from Pansy to Hermione. Both students look toward Jane. The two faces stay distinct.",
+          "dialogue": [
+            "Jane: Y cuéntenme, ¿cómo se conocieron?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 22\n\nLos Granger recuerdan la primera noticia sobre Robin. Malcolm y Pansy quedan para ver el motor antes de que Jane pregunte cómo se conocieron.\nMalcolm: Llegaste a decirnos que tenías un bebé y que Pansy era su otra madre.\nJane: Después nos hablaste de Robin durante cuarenta minutos.\nMalcolm: Todavía quiero saber cómo flota sin motor.\nPansy: Encantamientos de levitación.\nMalcolm: Mañana te enseño un motor de verdad. A las nueve.\nPansy: A las ocho.\nMalcolm: A las ocho.\nJane: Y cuéntenme, ¿cómo se conocieron?",
+      "actualPanelCount": 6,
+      "review": "En la demostración del Zephyr se ve una sola mesa y se preservan la ubicación de los cuatro personajes, el cochecito y los diálogos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p022.png",
+      "sha256": "949f9e8a2ddd4e209a0c41b3dd70db9abda1d08068f758a5b9d013fd965ba2ba",
+      "masterSha256": "14ebebf7ed404500f8359a6eafc7ccbb4c84eb7371ebf32179e51a350ef11957",
+      "ocrMissingCandidates": [
+        "cuentenme",
+        "conocieron"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current round dinner table, four seats, four individual faces and sweaters, baby lion-print pajamas, Zephyr placement, arch, pendant and lighting only. Image 4 is reference for the same exact sand and brass Zephyr pram only.\nCozy lived-in Granger home, amber lighting and oak finish. Continuing the same dinner at one round dark oak table with a brass pendant, white stoneware, bread, pasta and glasses of water or dark fruit juice. Same four people and one sand-colored Zephyr Grand Deluxe pram with brass frame and halfway-raised hood. One small human baby Robin, chestnut curls and green eyes, sleeps on his back in cream lion-print footed pajamas. Pram beside the table between Pansy and Hermione. Jane middle-aged shoulder-length chestnut hair silver at temples, sage cardigan and ivory blouse. Malcolm middle-aged clean-shaven, rectangular dark glasses, brown with grey temples, navy V-neck sweater and pale blue shirt. Hermione older student brown eyes freckles and chestnut curls in loose high bun with curls around the face, opaque long-sleeved gray sweatshirt, charcoal trousers, front oval sapphire with diamond halo on fine white platinum chain. Pansy older student sleek short black bob and narrow green eyes, angular jaw and bare ears, evergreen crewneck and charcoal trousers. Keep seats, character faces and objects across the dinner. Show the Zephyr secure on a small hover a few centimeters above floor only in panel 3; no glow, no change in hood.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 22» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Malcolm pushes his glasses up by the bridge, smiling with recollection across the round table. Hermione looks slightly embarrassed. Balloon from Malcolm. Print verbatim «Llegaste a decirnos que tenías un bebé y que Pansy era su otra madre.»\nPanel 2. Jane's warm smile toward Hermione and then Pansy, Robin's pram near edge of frame. Pansy raises an interested eyebrow. Balloon from Jane. Print verbatim «Después nos hablaste de Robin durante cuarenta minutos.»\nPanel 3. At floor level, the sand-and-brass Zephyr hovers gently over the oak floor with its hood half raised, a natural illustration of fictional magic. Malcolm studies the frame at a distance, Pansy in green looks amused. Set the camera angle so Malcolm is on the LEFT and speaks first, Pansy on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces. Balloon from Malcolm. Print verbatim «Todavía quiero saber cómo flota sin motor.» Balloon from Pansy. Print verbatim «Encantamientos de levitación.»\nPanel 4. Malcolm leans back smiling, no tools in hand. Pansy playfully lifts her chin, and Hermione hides a smile behind her glass of water. Set the camera angle so Malcolm is on the LEFT and speaks first, Pansy on the RIGHT and speaks second, without changing who sits where. The left balloon appears first, right balloon follows, both clear above faces. Balloon from Malcolm. Print verbatim «Mañana te enseño un motor de verdad. A las nueve.» Balloon from Pansy. Print verbatim «A las ocho.»\nPanel 5. A quick warm cut as Malcolm nods, holding one hand relaxed at the edge of the table. Pansy smiles. Jane sets a folded napkin aside. Balloon from Malcolm. Print verbatim «A las ocho.»\nPanel 6. Jane folds her hands and looks curiously from Pansy to Hermione. Both students look toward Jane. The two faces stay distinct. Balloon from Jane. Print verbatim «Y cuéntenme, ¿cómo se conocieron?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-260a4af7-0d2d-4707-a65c-30ee9a179025.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Exact precision edit of the FIRST 1024×1536 six-panel comic «Capítulo 12 · 22». The second image is ONLY a reference for the single dark oak dinner table and room. Reproduce panels 1, 2, 4, 5 and 6 unchanged, all panel shapes, text and accents, baby, faces, positions, costumes and fireplace. In panel 3 ONLY (middle row LEFT), remove the extra small cropped round table at the lower-left foreground, with its extra glass and plate, replacing it with Jane’s existing chair and ordinary oak floor. The main dark oak dining table remains on the RIGHT next to Hermione, the one sand-and-brass Zephyr with sleeping Robin floats a short distance above the open floor beside it, and the four people remain around that one table. Preserve the two existing balloons «Todavía quiero saber cómo flota sin motor.» and «Encantamientos de levitación.» with tails to Malcolm then Pansy. Preserve all other pixels of the scene visually. No added text.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-260a4af7-0d2d-4707-a65c-30ee9a179025.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png"
+          ],
+          "generatedMaster": "exec-5db10862-d817-4f4c-88e6-b4e0a35e624c.png"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "image": "paginas/c12-p023.webp",
+      "sourcePdfPages": [
+        432,
+        433
+      ],
+      "summary": "Hermione recuerda el primer encuentro, cuando ambas esperaban la selección en el Gran Comedor.",
+      "panels": [
+        {
+          "scene": "Present. Hermione begins the story, hands relaxed near her plate. Pansy looks up at her as if trying to place the memory. The pram is still beside the table.",
+          "dialogue": [
+            "Hermione: Nos conocimos antes de que nos asignaran una casa."
+          ]
+        },
+        {
+          "scene": "Memory. Large oak doors to the Great Hall, long row of fully clothed first-years in black robes, candles floating under a starry vaulted sky. Young Hermione and young Pansy stand beside each other near foreground. Distinct child faces.",
+          "caption": "Fue su primer día en Hogwarts."
+        },
+        {
+          "scene": "Memory. Young Hermione looks up with curiosity and speaks excitedly, pointing with one hand toward the star-like enchanted ceiling. Young Pansy turns toward her.",
+          "dialogue": [
+            "Hermione niña: El techo está encantado. Lo leí en Historia de Hogwarts."
+          ]
+        },
+        {
+          "scene": "Memory. Young Pansy gives a very direct green-eyed look, small frown, and clasps her own hands at waist. Young Hermione looks taken aback but attentive.",
+          "dialogue": [
+            "Pansy niña: Cualquiera con ojos puede ver que está encantado."
+          ]
+        },
+        {
+          "scene": "Back in present. Hermione, now older with hair in a loose bun, looks across at Pansy and remembers, a calm smile. Jane and Malcolm listen.",
+          "dialogue": [
+            "Hermione: Nunca había visto unos ojos de un verde tan intenso."
+          ]
+        },
+        {
+          "scene": "Present, tight on Pansy with green eyes and simple evergreen crewneck. She looks down at her place setting, thoughtful. Hermione sees the change in her expression.",
+          "dialogue": [
+            "Pansy: Eso no es todo."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 23\n\nHermione recuerda el primer encuentro, cuando ambas esperaban la selección en el Gran Comedor.\nHermione: Nos conocimos antes de que nos asignaran una casa.\nNarración: Fue su primer día en Hogwarts.\nHermione niña: El techo está encantado. Lo leí en Historia de Hogwarts.\nPansy niña: Cualquiera con ojos puede ver que está encantado.\nHermione: Nunca había visto unos ojos de un verde tan intenso.\nPansy: Eso no es todo.",
+      "actualPanelCount": 6,
+      "review": "La cena se alterna con el Gran Comedor. Los recuerdos muestran a las dos alumnas antes de la selección, sin insignias de casa. Se preservan los rasgos de ambas y el texto.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p023.png",
+      "sha256": "dbbdca24e4bf98267f4dd25e2f6df2b469a61f14ff81ba1092cba2c975d5ddee",
+      "masterSha256": "67d5f3142eb1c95786b01085ea63ba530cf3c5f63c744661b769ea92e6639a38",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current round dinner table, four seats, four individual faces and sweaters, baby lion-print pajamas, Zephyr placement, arch, pendant and lighting only. Image 4 is reference for the same exact sand and brass Zephyr pram only.\nCozy lived-in Granger home, amber lighting and oak finish. Continuing the same dinner at one round dark oak table with a brass pendant, white stoneware, bread, pasta and glasses of water or dark fruit juice. Same four people and one sand-colored Zephyr Grand Deluxe pram with brass frame and halfway-raised hood. One small human baby Robin, chestnut curls and green eyes, sleeps on his back in cream lion-print footed pajamas. Pram beside the table between Pansy and Hermione. Jane middle-aged shoulder-length chestnut hair silver at temples, sage cardigan and ivory blouse. Malcolm middle-aged clean-shaven, rectangular dark glasses, brown with grey temples, navy V-neck sweater and pale blue shirt. Hermione older student brown eyes freckles and chestnut curls in loose high bun with curls around the face, opaque long-sleeved gray sweatshirt, charcoal trousers, front oval sapphire with diamond halo on fine white platinum chain. Pansy older student sleek short black bob and narrow green eyes, angular jaw and bare ears, evergreen crewneck and charcoal trousers. Keep seats, character faces and objects across the dinner. Alternating present dinner and school memories. In panels 2–4 only, two clearly 11-year-old fully clothed first-year girls in undecorated dark school robes and white collared shirts, without house colors before sorting. Younger Hermione has frizzy chestnut curls, freckles and brown eyes. Younger Pansy has short black side part bob and recognizable green almond eyes. No children in the present-time dinner panels.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 23» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Present. Hermione begins the story, hands relaxed near her plate. Pansy looks up at her as if trying to place the memory. The pram is still beside the table. Balloon from Hermione. Print verbatim «Nos conocimos antes de que nos asignaran una casa.»\nPanel 2. Memory. Large oak doors to the Great Hall, long row of fully clothed first-years in black robes, candles floating under a starry vaulted sky. Young Hermione and young Pansy stand beside each other near foreground. Distinct child faces. Caption verbatim «Fue su primer día en Hogwarts.»\nPanel 3. Memory. Young Hermione looks up with curiosity and speaks excitedly, pointing with one hand toward the star-like enchanted ceiling. Young Pansy turns toward her. Balloon from Hermione niña. Print verbatim «El techo está encantado. Lo leí en Historia de Hogwarts.»\nPanel 4. Memory. Young Pansy gives a very direct green-eyed look, small frown, and clasps her own hands at waist. Young Hermione looks taken aback but attentive. Balloon from Pansy niña. Print verbatim «Cualquiera con ojos puede ver que está encantado.»\nPanel 5. Back in present. Hermione, now older with hair in a loose bun, looks across at Pansy and remembers, a calm smile. Jane and Malcolm listen. Balloon from Hermione. Print verbatim «Nunca había visto unos ojos de un verde tan intenso.»\nPanel 6. Present, tight on Pansy with green eyes and simple evergreen crewneck. She looks down at her place setting, thoughtful. Hermione sees the change in her expression. Balloon from Pansy. Print verbatim «Eso no es todo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-e8d6e001-fd19-4c58-99f0-b2b1b33c41c9.png"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "image": "paginas/c12-p024.webp",
+      "sourcePdfPages": [
+        433,
+        434,
+        435,
+        436
+      ],
+      "summary": "Pansy reconoce su crueldad de entonces. Hermione y sus padres escuchan cómo cambió su relación.",
+      "panels": [
+        {
+          "scene": "At the warm table Pansy places a glass on the wood. Her shoulders are straight and she looks at both Granger parents. Hermione listens. Robin sleeps in the same pram.",
+          "dialogue": [
+            "Pansy: Durante años la traté como si no tuviera derecho a pertenecer a nuestro mundo. Fui cruel."
+          ]
+        },
+        {
+          "scene": "Malcolm's face is serious behind his rectangular glasses. He takes a quiet breath. Jane listens with no smile, both seated and still.",
+          "dialogue": [
+            "Malcolm: Me cuesta imaginar que trataran así a nuestra hija. Pero Hermione confía en ti."
+          ]
+        },
+        {
+          "scene": "Hermione looks at her parents without looking away. Pansy glances at her in surprise. Hands at table, no overlap.",
+          "dialogue": [
+            "Hermione: Pansy me pidió perdón hace tiempo. Cambió por su cuenta."
+          ]
+        },
+        {
+          "scene": "Jane nods warmly across the table. Pansy lets her fingertips rest on the wood beside Hermione’s hand, with exactly two natural hands visible if shown.",
+          "dialogue": [
+            "Jane: Gracias por contárnoslo."
+          ]
+        },
+        {
+          "scene": "One quiet insert of Robin asleep in the pram under the cream hood, then Hermione in profile beside it looking at Pansy. Pansy turns toward her.",
+          "dialogue": [
+            "Hermione: El proyecto nos enseñó a cuidarnos. Pansy se queda incluso cuando tiene miedo."
+          ]
+        },
+        {
+          "scene": "Low warm close of Pansy looking at Hermione, her hands resting on the table. Hermione's brown eyes move toward her. One lamp glow, no baby in this close framing.",
+          "dialogue": [
+            "Pansy: Cuando los miro a los dos, sé dónde quiero estar."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 24\n\nPansy reconoce su crueldad de entonces. Hermione y sus padres escuchan cómo cambió su relación.\nPansy: Durante años la traté como si no tuviera derecho a pertenecer a nuestro mundo. Fui cruel.\nMalcolm: Me cuesta imaginar que trataran así a nuestra hija. Pero Hermione confía en ti.\nHermione: Pansy me pidió perdón hace tiempo. Cambió por su cuenta.\nJane: Gracias por contárnoslo.\nHermione: El proyecto nos enseñó a cuidarnos. Pansy se queda incluso cuando tiene miedo.\nPansy: Cuando los miro a los dos, sé dónde quiero estar.",
+      "actualPanelCount": 6,
+      "review": "Se revisó la conversación completa. La expresión y ubicación de cada persona siguen la cena anterior. Robin duerme en el Zephyr y las seis réplicas se conservan.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p024.png",
+      "sha256": "55b4404f3d1b0db9c3c3d64d9f88ce0b3589672d7a44fd48e8f70de0c7e9ab77",
+      "masterSha256": "4862e310ebd61cfa706670c006f7d85df175633d6f3f29f7f00798b34a0a8ce4",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current round dinner table, four seats, four individual faces and sweaters, baby lion-print pajamas, Zephyr placement, arch, pendant and lighting only. Image 4 is reference for the same exact sand and brass Zephyr pram only.\nCozy lived-in Granger home, amber lighting and oak finish. Continuing the same dinner at one round dark oak table with a brass pendant, white stoneware, bread, pasta and glasses of water or dark fruit juice. Same four people and one sand-colored Zephyr Grand Deluxe pram with brass frame and halfway-raised hood. One small human baby Robin, chestnut curls and green eyes, sleeps on his back in cream lion-print footed pajamas. Pram beside the table between Pansy and Hermione. Jane middle-aged shoulder-length chestnut hair silver at temples, sage cardigan and ivory blouse. Malcolm middle-aged clean-shaven, rectangular dark glasses, brown with grey temples, navy V-neck sweater and pale blue shirt. Hermione older student brown eyes freckles and chestnut curls in loose high bun with curls around the face, opaque long-sleeved gray sweatshirt, charcoal trousers, front oval sapphire with diamond halo on fine white platinum chain. Pansy older student sleek short black bob and narrow green eyes, angular jaw and bare ears, evergreen crewneck and charcoal trousers. Keep seats, character faces and objects across the dinner. Entire page is one sober family conversation at dinner. Emotion through face acting and silences. No school flashbacks, no contact except one resting hand near another.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 24» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. At the warm table Pansy places a glass on the wood. Her shoulders are straight and she looks at both Granger parents. Hermione listens. Robin sleeps in the same pram. Balloon from Pansy. Print verbatim «Durante años la traté como si no tuviera derecho a pertenecer a nuestro mundo. Fui cruel.»\nPanel 2. Malcolm's face is serious behind his rectangular glasses. He takes a quiet breath. Jane listens with no smile, both seated and still. Balloon from Malcolm. Print verbatim «Me cuesta imaginar que trataran así a nuestra hija. Pero Hermione confía en ti.»\nPanel 3. Hermione looks at her parents without looking away. Pansy glances at her in surprise. Hands at table, no overlap. Balloon from Hermione. Print verbatim «Pansy me pidió perdón hace tiempo. Cambió por su cuenta.»\nPanel 4. Jane nods warmly across the table. Pansy lets her fingertips rest on the wood beside Hermione’s hand, with exactly two natural hands visible if shown. Balloon from Jane. Print verbatim «Gracias por contárnoslo.»\nPanel 5. One quiet insert of Robin asleep in the pram under the cream hood, then Hermione in profile beside it looking at Pansy. Pansy turns toward her. Balloon from Hermione. Print verbatim «El proyecto nos enseñó a cuidarnos. Pansy se queda incluso cuando tiene miedo.»\nPanel 6. Low warm close of Pansy looking at Hermione, her hands resting on the table. Hermione's brown eyes move toward her. One lamp glow, no baby in this close framing. Balloon from Pansy. Print verbatim «Cuando los miro a los dos, sé dónde quiero estar.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8f48c2f3-8804-4781-acaa-561b40e4354c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-af8c0345-bf20-4c36-83c3-530db2dea603.png"
+        }
+      ]
+    }
+  ]
+}

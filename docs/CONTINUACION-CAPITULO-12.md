@@ -48,3 +48,15 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 19 | 421–422–423–424 | En la cena, Pansy explica los encantamientos del Zephyr y descubre el interés de Malcolm por la magia. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-16-19.json).
+
+## Páginas 20–24
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 20 | 424–425–426–427 | Entre bromas por el pan y recuerdos de la consulta dental, Pansy descubre cómo conversan los Granger en casa. |
+| 21 | 427–428 | Jane y Malcolm cuentan cómo recibieron la carta de Hogwarts. Pansy comprende qué les costó dejar partir a Hermione. |
+| 22 | 429–430–431 | Los Granger recuerdan la primera noticia sobre Robin. Malcolm y Pansy quedan para ver el motor antes de que Jane pregunte cómo se conocieron. |
+| 23 | 432–433 | Hermione recuerda el primer encuentro, cuando ambas esperaban la selección en el Gran Comedor. |
+| 24 | 433–434–435–436 | Pansy reconoce su crueldad de entonces. Hermione y sus padres escuchan cómo cambió su relación. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-20-24.json).
