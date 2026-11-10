@@ -95,3 +95,20 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 38 | 459–460–461 | Se enciende el árbol. Pansy conserva el búho torcido y Jane captura el momento en una foto. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-33-38.json).
+
+## Páginas 39–48
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 39 | 462–463–464 | La casa se queda en silencio. Con su pijama de reno, Robin se hace amigo de Crookshanks. |
+| 40 | 464–465–466 | Con chocolate frente al árbol, Pansy y Hermione planean ver los escaparates navideños de Harrods. |
+| 41 | 467–468–469 | Hermione recuerda cómo Crookshanks recibió a Viktor. Pansy descubre que el gato también sabe calmar a Robin. |
+| 42 | 470–471–472 | Hablan de Viktor y Draco. Pansy distingue el peso de las expectativas familiares de la posibilidad de elegir. |
+| 43 | 473–474–475–476 | Pansy y Hermione hablan de la confianza y de poder pedir tiempo. Entonces empieza a nevar. |
+| 44 | 476–477 | La primera nevada cierra la noche frente al árbol. Robin descansa mientras las dos contemplan el jardín. |
+| 45 | 478–479–480 | Jane encuentra a Hermione en la habitación de invitados tras una noche de cuidar a Robin. Las llama a desayunar. |
+| 46 | 480–481–482–483 | Durante el desayuno, Jane ofrece llevar a Robin a conocer a los cachorros. Hermione y Pansy acuerdan el plan. |
+| 47 | 484–485–486 | Pansy abriga a Robin y Hermione prepara todo para el viaje con sus abuelos. |
+| 48 | 486–487–488–489 | Jane y Malcolm se llevan a Robin a pasar el día. Crookshanks encuentra un lugar entre las mantas del coche. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-39-48.json).

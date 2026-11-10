@@ -1,0 +1,718 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    39,
+    48
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 39,
+      "image": "paginas/c12-p039.webp",
+      "sourcePdfPages": [
+        462,
+        463,
+        464
+      ],
+      "summary": "La casa se queda en silencio. Con su pijama de reno, Robin se hace amigo de Crookshanks.",
+      "panels": [
+        {
+          "scene": "After-dinner warm wide living room. Pansy in evergreen sits near one end of the olive sofa while fire and Christmas lights glow. Crookshanks pads from the rug toward the tree. No baby yet.",
+          "caption": "Después de cenar, la casa se quedó en silencio."
+        },
+        {
+          "scene": "Low angle on Robin crawling safely across the clear rug on four natural limbs in the soft reindeer pajamas, brown curls and open human green eyes visible. Pansy watches closely and leans forward.",
+          "caption": "Un pequeño reno apareció sobre la alfombra."
+        },
+        {
+          "scene": "Pansy kneels near Robin and supports his balance with one hand. Robin gently touches the side of Crookshanks, who sits upright and accepts the touch. No grabbing or overlap of faces.",
+          "caption": "Crookshanks se olvidó de los adornos."
+        },
+        {
+          "scene": "Close Pansy’s amused narrow green eyes and expressive black bob, one Robin's fabric antler in foreground, cat looking at Pansy from rug.",
+          "dialogue": [
+            "Pansy: Traidor."
+          ]
+        },
+        {
+          "scene": "Hermione enters in loose gray pajamas with two steaming mugs held safely away from the rug, smiles at Pansy. Cat near chair, Robin still attended by Pansy.",
+          "dialogue": [
+            "Hermione: Veo que se llevan mucho mejor."
+          ]
+        },
+        {
+          "scene": "The two adults set the mugs on the oak table above the rug level. Robin sits secure at Pansy's side on the sofa with one steady supporting arm. Crookshanks curls on a chair at a distance.",
+          "dialogue": [
+            "Pansy: Crookshanks y yo no hemos hecho nada."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 39\n\nLa casa se queda en silencio. Con su pijama de reno, Robin se hace amigo de Crookshanks.\nNarración: Después de cenar, la casa se quedó en silencio.\nNarración: Un pequeño reno apareció sobre la alfombra.\nNarración: Crookshanks se olvidó de los adornos.\nPansy: Traidor.\nHermione: Veo que se llevan mucho mejor.\nPansy: Crookshanks y yo no hemos hecho nada.",
+      "actualPanelCount": 6,
+      "review": "En la última viñeta quedan Hermione y Pansy, con Robin y Crookshanks separados. Robin tiene cara, piel y manos humanas, y las astas y la cola se identifican como partes del pijama.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p039.png",
+      "sha256": "63e05e311f54dedf14ab519445da567bc1115a56823538546a1281067e8f4814",
+      "masterSha256": "6e2d38f3caa535c69f4d7d06c460e2fc8dcfa8069edf95cb2e268179cead5be1",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact tree, low crooked cloth owl, ornament colors, fireplace, living room, adults, Robin and orange cat from the established Christmas scene. Image 4 is reference for exact furniture materials and window from house arrival only.\nWarm same Granger living room, oak bookcases, bay window with cream curtains, glowing fireplace, two burgundy armchairs, olive sofa, russet patterned rug and small oak table. One dark green Christmas tree at bay window with red and gold balls, cloth ornaments and a distinctive slightly crooked small beige and brown cloth owl on a low branch. Crookshanks is one huge shaggy ginger Persian-like cat, thick plume tail, yellow eyes and a flat muzzle. Hermione distinctive chestnut curls, freckles, brown eyes and oval blue sapphire on fine platinum chain. Pansy angular face with narrow moss-green eyes, bare ears and side-parted black chin bob. Jane mature shoulder-length chestnut waves with silver temples, sage cardigan and ivory blouse. Malcolm mature graying dark hair, rectangular glasses, navy V-neck and pale blue shirt. Robin one human small infant with chestnut curls, green eyes, natural smooth skin, tiny fingers and natural feet. Distinguish baby from fabric ornament and cat. After dinner, tree warm golden string lights and fireplace in same sitting room. Robin has changed into a full brown reindeer-themed footed sleeper with cream belly and soft plush antlers on an open hood, ONE visible human face and two tiny bare human hands. The antlers and fabric are a costume; skin remains human. Pansy wears same evergreen crewneck and charcoal trousers. Hermione in opaque gray long-sleeved pajamas with matching long pants, loose chestnut curls and platinum sapphire. Jane and Malcolm unchanged. Two chocolate mugs on the small table away from the baby's reach. Show Robin and Crookshanks at ease, under close adult supervision. The cat never lies on the child, baby never squeezes the cat, baby does not handle hot mugs or small decorations.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 39» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. After-dinner warm wide living room. Pansy in evergreen sits near one end of the olive sofa while fire and Christmas lights glow. Crookshanks pads from the rug toward the tree. No baby yet. Caption verbatim «Después de cenar, la casa se quedó en silencio.»\nPanel 2. Low angle on Robin crawling safely across the clear rug on four natural limbs in the soft reindeer pajamas, brown curls and open human green eyes visible. Pansy watches closely and leans forward. Caption verbatim «Un pequeño reno apareció sobre la alfombra.»\nPanel 3. Pansy kneels near Robin and supports his balance with one hand. Robin gently touches the side of Crookshanks, who sits upright and accepts the touch. No grabbing or overlap of faces. Caption verbatim «Crookshanks se olvidó de los adornos.»\nPanel 4. Close Pansy’s amused narrow green eyes and expressive black bob, one Robin's fabric antler in foreground, cat looking at Pansy from rug. Balloon from Pansy. Print verbatim «Traidor.»\nPanel 5. Hermione enters in loose gray pajamas with two steaming mugs held safely away from the rug, smiles at Pansy. Cat near chair, Robin still attended by Pansy. Balloon from Hermione. Print verbatim «Veo que se llevan mucho mejor.»\nPanel 6. The two adults set the mugs on the oak table above the rug level. Robin sits secure at Pansy's side on the sofa with one steady supporting arm. Crookshanks curls on a chair at a distance. Balloon from Pansy. Print verbatim «Crookshanks y yo no hemos hecho nada.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b2ac4178-5c94-4022-8ac9-01982bb45ae4.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp"
+          ],
+          "generatedMaster": "exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Precision edit to this exact finished six-panel Spanish comic page «Capítulo 12 · 39», full 1024×1536 portrait. Preserve first five panels, all lettering, margins, amber room, tree, cropped owl, fabrics, cat and Robin completely. In the LAST panel (bottom right), show precisely the TWO students from the preceding panel: on left chestnut-curly Hermione in her SAME full gray long-sleeved pajamas, brown eyes, freckles and small blue pendant, sitting beside the olive sofa and setting one chocolate mug on the low table, with one other mug already sitting there; on right black-bob Pansy in green knit, fully dressed, securely supports one green-eyed Robin in his exact plush-antler costume. There must be NO adults Jane or Malcolm in that final panel. They are elsewhere. Crookshanks stays on the separate burgundy chair. Keep dialogue exactly «Crookshanks y yo no hemos hecho nada.» with the tail to black-bob Pansy. Maintain the staging, lights and the separate human Robin. No other changes or new words.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png"
+          ],
+          "generatedMaster": "exec-b7aa7c83-9c46-4d17-bd4b-2138196610cf.png"
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "image": "paginas/c12-p040.webp",
+      "sourcePdfPages": [
+        464,
+        465,
+        466
+      ],
+      "summary": "Con chocolate frente al árbol, Pansy y Hermione planean ver los escaparates navideños de Harrods.",
+      "panels": [
+        {
+          "scene": "Warm living room. Hermione in gray at left looks toward Pansy at right on olive sofa. Pansy holds one Robin in brown reindeer pajamas. Two mugs on oak table.",
+          "dialogue": [
+            "Hermione: Mañana mis padres tienen cosas que hacer. Podemos salir un rato."
+          ]
+        },
+        {
+          "scene": "Close Pansy considers the warm tree lights, hand securely supporting Robin. Her face lights up as she names the place.",
+          "dialogue": [
+            "Pansy: Quiero ver los escaparates navideños de Harrods."
+          ]
+        },
+        {
+          "scene": "Angle with Hermione first on left and Pansy on right. Hermione smiles knowingly, then Pansy replies. Both full faces, two distinct bubbles left and right high above.",
+          "dialogue": [
+            "Hermione: Entre todos los lugares de Londres, escogiste el más exclusivo.",
+            "Pansy: Quiero ver si el lujo muggle está a mi altura."
+          ]
+        },
+        {
+          "scene": "Pansy smiles, Robin's tiny hands rest on her evergreen sleeve. Hermione answers while looking toward tree.",
+          "dialogue": [
+            "Hermione: Harrods será, entonces."
+          ]
+        },
+        {
+          "scene": "Jane and Malcolm stand beside the oak archway and wave good night. Malcolm smiles toward baby, the green tree and fireplace separate behind sofa.",
+          "dialogue": [
+            "Malcolm: Ese pequeño reno tiene energía para todos."
+          ]
+        },
+        {
+          "scene": "Quiet end. One Robin is drowsy in Pansy’s arms, his small nose and freckles visible, both teens fully dressed on sofa, mugs on table and sleepy orange cat on his chair.",
+          "caption": "Al fin, el pequeño reno empezó a quedarse dormido."
+        }
+      ],
+      "transcript": "Capítulo 12 · 40\n\nCon chocolate frente al árbol, Pansy y Hermione planean ver los escaparates navideños de Harrods.\nHermione: Mañana mis padres tienen cosas que hacer. Podemos salir un rato.\nPansy: Quiero ver los escaparates navideños de Harrods.\nHermione: Entre todos los lugares de Londres, escogiste el más exclusivo.\nPansy: Quiero ver si el lujo muggle está a mi altura.\nHermione: Harrods será, entonces.\nMalcolm: Ese pequeño reno tiene energía para todos.\nNarración: Al fin, el pequeño reno empezó a quedarse dormido.",
+      "actualPanelCount": 6,
+      "review": "Sofá, tazas, árbol, ropa y pijama de reno continúan desde la página 39. Los abuelos aparecen solo al despedirse y los globos se leen en orden.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p040.png",
+      "sha256": "940793f6128239d5a91da7a228c816e76e2156d55ab8a5ec7e7f5f2d14d7a4e0",
+      "masterSha256": "fd8303328732e0ebbc1d296da24d4e937b49137addecbbfc4671dab84dd20530",
+      "ocrMissingCandidates": [
+        "exclusivo",
+        "altura"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact family sitting room and two leads, Robin in his soft brown reindeer costume and Crookshanks ONLY from the first five panels, never the adults in the last frame. Image 4 is reference for the same tree lighting, low crooked cloth owl, furniture and warm winter colors only. Image 5 is reference for the exact cream-and-brass pram only.\nWarm same Granger living room, oak bookcases, bay window with cream curtains, glowing fireplace, two burgundy armchairs, olive sofa, russet patterned rug and small oak table. One dark green Christmas tree at bay window with red and gold balls, cloth ornaments and a distinctive slightly crooked small beige and brown cloth owl on a low branch. Crookshanks is one huge shaggy ginger Persian-like cat, thick plume tail, yellow eyes and a flat muzzle. Hermione distinctive chestnut curls, freckles, brown eyes and oval blue sapphire on fine platinum chain. Pansy angular face with narrow moss-green eyes, bare ears and side-parted black chin bob. Jane mature shoulder-length chestnut waves with silver temples, sage cardigan and ivory blouse. Malcolm mature graying dark hair, rectangular glasses, navy V-neck and pale blue shirt. Robin one human small infant with chestnut curls, green eyes, natural smooth skin, tiny fingers and natural feet. Distinguish baby from fabric ornament and cat. After dinner, tree warm golden string lights and fireplace in same sitting room. Robin has changed into a full brown reindeer-themed footed sleeper with cream belly and soft plush antlers on an open hood, ONE visible human face and two tiny bare human hands. The antlers and fabric are a costume; skin remains human. Pansy wears same evergreen crewneck and charcoal trousers. Hermione in opaque gray long-sleeved pajamas with matching long pants, loose chestnut curls and platinum sapphire. Jane and Malcolm unchanged. Two chocolate mugs on the small table away from the baby's reach. Pansy safely holds one Robin throughout this page, open hood antlers small and fabric, age and face unchanged. Crookshanks remains on a separate chair or nearby floor.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 40» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Warm living room. Hermione in gray at left looks toward Pansy at right on olive sofa. Pansy holds one Robin in brown reindeer pajamas. Two mugs on oak table. Balloon from Hermione. Print verbatim «Mañana mis padres tienen cosas que hacer. Podemos salir un rato.»\nPanel 2. Close Pansy considers the warm tree lights, hand securely supporting Robin. Her face lights up as she names the place. Balloon from Pansy. Print verbatim «Quiero ver los escaparates navideños de Harrods.»\nPanel 3. Angle with Hermione first on left and Pansy on right. Hermione smiles knowingly, then Pansy replies. Both full faces, two distinct bubbles left and right high above. Balloon from Hermione. Print verbatim «Entre todos los lugares de Londres, escogiste el más exclusivo.» Balloon from Pansy. Print verbatim «Quiero ver si el lujo muggle está a mi altura.»\nPanel 4. Pansy smiles, Robin's tiny hands rest on her evergreen sleeve. Hermione answers while looking toward tree. Balloon from Hermione. Print verbatim «Harrods será, entonces.»\nPanel 5. Jane and Malcolm stand beside the oak archway and wave good night. Malcolm smiles toward baby, the green tree and fireplace separate behind sofa. Balloon from Malcolm. Print verbatim «Ese pequeño reno tiene energía para todos.»\nPanel 6. Quiet end. One Robin is drowsy in Pansy’s arms, his small nose and freckles visible, both teens fully dressed on sofa, mugs on table and sleepy orange cat on his chair. Caption verbatim «Al fin, el pequeño reno empezó a quedarse dormido.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-65839436-6bf5-44b6-bdc7-14203c998325.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-5d298bbe-0585-4f42-83bd-82c24a01aeba.png"
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "image": "paginas/c12-p041.webp",
+      "sourcePdfPages": [
+        467,
+        468,
+        469
+      ],
+      "summary": "Hermione recuerda cómo Crookshanks recibió a Viktor. Pansy descubre que el gato también sabe calmar a Robin.",
+      "panels": [
+        {
+          "scene": "Quiet sofa conversation. Pansy at left holds one dozing Robin with soft antler hood, Hermione at right smiles. Crookshanks sits on the opposite chair.",
+          "dialogue": [
+            "Pansy: ¿Siempre ha sido tan territorial con tus visitas?"
+          ]
+        },
+        {
+          "scene": "Hermione sets her mug on the table, amused. Pansy lifts an eyebrow and keeps one hand on Robin's back.",
+          "dialogue": [
+            "Hermione: Con Ginny siempre fue cariñoso. Con Viktor fue otra historia."
+          ]
+        },
+        {
+          "scene": "Quick illustrated memory insert in the same sitting room some years earlier, one brass lamp tilted beside two fallen cushions and a vase in a few simple pieces. No people or action shown. Crookshanks on the chair in foreground with a satisfied expression.",
+          "caption": "Después de aquella visita, Viktor jamás volvió a quedarse a solas con él."
+        },
+        {
+          "scene": "Return to sofa. Pansy laughs and glances over toward Crookshanks. Robin stirs slightly with a tiny sleepy frown, comfortably held.",
+          "dialogue": [
+            "Pansy: ¿Una estrella del quidditch derrotada por tu gato?"
+          ]
+        },
+        {
+          "scene": "Pansy gently folds back Robin's soft antler hood, exposing his own human brown curls. Hermione looks down with a warm smile. The orange cat purrs nearby on a cushion, separated from baby.",
+          "dialogue": [
+            "Pansy: Tranquilo, pequeño."
+          ]
+        },
+        {
+          "scene": "A quiet close of Robin dozing in Pansy’s arms, folds of brown fabric and one natural small hand. Crookshanks in the separate chair in middle ground.",
+          "dialogue": [
+            "Pansy: Gracias, Crookshanks."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 41\n\nHermione recuerda cómo Crookshanks recibió a Viktor. Pansy descubre que el gato también sabe calmar a Robin.\nPansy: ¿Siempre ha sido tan territorial con tus visitas?\nHermione: Con Ginny siempre fue cariñoso. Con Viktor fue otra historia.\nNarración: Después de aquella visita, Viktor jamás volvió a quedarse a solas con él.\nPansy: ¿Una estrella del quidditch derrotada por tu gato?\nPansy: Tranquilo, pequeño.\nPansy: Gracias, Crookshanks.",
+      "actualPanelCount": 6,
+      "review": "El recuerdo vuelve a la sala sin el árbol ni el adorno actuales. Se conserva el diálogo, la capucha baja de Robin y Crookshanks aparte.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p041.png",
+      "sha256": "b2d00ac1e3a6977dca64512471acbb548bee46ec63f2b221da4db8a065cc82df",
+      "masterSha256": "2f27cb3215403edcd04facc7a8303c03366905506cce166830c26cb013f1f2e3",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact family sitting room and two leads, Robin in his soft brown reindeer costume and Crookshanks ONLY from the first five panels, never the adults in the last frame. Image 4 is reference for the same tree lighting, low crooked cloth owl, furniture and warm winter colors only. Image 5 is reference for the exact cream-and-brass pram only.\nSame Granger living room with oak bookshelves, fireplace, bay window, red and gold Christmas ornaments and one distinctive crooked small beige and brown cloth owl low on tree. Soft golden lights. Olive sofa, two rust-red chairs, one low oak table and two mugs on table. Pansy older student in fully opaque evergreen long-sleeved knit, charcoal trousers, angular face and moss-green eyes, sleek black bob with no earrings. Hermione older student in opaque gray long-sleeved pajamas and long gray trousers, chestnut curls loose and brown eyes, freckles, oval sapphire on fine platinum chain at front. Robin human baby brown curls, green eyes, soft natural skin and small human fingers, brown full reindeer-print footed sleeper, cream belly, plush antlers on open hood. Pansy supports him comfortably in arms while awake. One huge shaggy ginger Crookshanks, natural feline yellow eyes and plume tail, sits on separate chair or on rug. Close ordinary family conversation and winter night, no suggestive poses. Keep Robin's hood up in panels 1–4 and folded behind his shoulders in 5–6. No drawn incident or injured person. Keep the cat’s claws hidden.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 41» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Quiet sofa conversation. Pansy at left holds one dozing Robin with soft antler hood, Hermione at right smiles. Crookshanks sits on the opposite chair. Balloon from Pansy. Print verbatim «¿Siempre ha sido tan territorial con tus visitas?»\nPanel 2. Hermione sets her mug on the table, amused. Pansy lifts an eyebrow and keeps one hand on Robin's back. Balloon from Hermione. Print verbatim «Con Ginny siempre fue cariñoso. Con Viktor fue otra historia.»\nPanel 3. Quick illustrated memory insert in the same sitting room some years earlier, one brass lamp tilted beside two fallen cushions and a vase in a few simple pieces. No people or action shown. Crookshanks on the chair in foreground with a satisfied expression. Caption verbatim «Después de aquella visita, Viktor jamás volvió a quedarse a solas con él.»\nPanel 4. Return to sofa. Pansy laughs and glances over toward Crookshanks. Robin stirs slightly with a tiny sleepy frown, comfortably held. Balloon from Pansy. Print verbatim «¿Una estrella del quidditch derrotada por tu gato?»\nPanel 5. Pansy gently folds back Robin's soft antler hood, exposing his own human brown curls. Hermione looks down with a warm smile. The orange cat purrs nearby on a cushion, separated from baby. Balloon from Pansy. Print verbatim «Tranquilo, pequeño.»\nPanel 6. A quiet close of Robin dozing in Pansy’s arms, folds of brown fabric and one natural small hand. Crookshanks in the separate chair in middle ground. Balloon from Pansy. Print verbatim «Gracias, Crookshanks.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-65839436-6bf5-44b6-bdc7-14203c998325.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-5dcf1448-6dd3-4b6f-badb-b1eb40f935b2.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Exact precision continuity edit of the FIRST finished Spanish six-panel comic «Capítulo 12 · 41», 1024×1536. Preserve all lettering, human and cat faces, margins, clothes, hands, posture, Robin's same brown reindeer outfit, the two snowflake mugs, and the Christmas tree in ALL present-time panels. ONLY panel 3, middle row LEFT, is an older memory of a visit years before the current Christmas. In that one panel remove the present-day lit Christmas tree and the specific cloth owl ornament from the RIGHT BACKGROUND, and remove the tiny evergreen decoration on the mantel. Replace the area behind Crookshanks with the exact room's oak shelves, a bay window in soft dusk and warm ambient lamplight. Keep the ginger cat on the red chair, the cushions, tilted lamp and old broken vase on the empty rug, hearth, and the exact caption «Después de aquella visita, Viktor jamás volvió a quedarse a solas con él.» No baby or other person in that panel. Do not change any other panel or add text.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5dcf1448-6dd3-4b6f-badb-b1eb40f935b2.png"
+          ],
+          "generatedMaster": "exec-ff6cbfa4-7acd-4577-ab9f-6146a6c533bb.png"
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "image": "paginas/c12-p042.webp",
+      "sourcePdfPages": [
+        470,
+        471,
+        472
+      ],
+      "summary": "Hablan de Viktor y Draco. Pansy distingue el peso de las expectativas familiares de la posibilidad de elegir.",
+      "panels": [
+        {
+          "scene": "Pansy and Hermione on the olive sofa, slightly apart with Robin in Pansy’s supported arms. Pansy asks softly, looking toward tree.",
+          "dialogue": [
+            "Pansy: ¿Cómo era Viktor, en realidad?"
+          ]
+        },
+        {
+          "scene": "Close Hermione turns her brown eyes toward Pansy. Chestnut curls, gray sleeves, arm resting normally near her own side.",
+          "dialogue": [
+            "Hermione: Era amable conmigo. Su familia ya había hecho otros planes para él."
+          ]
+        },
+        {
+          "scene": "Pansy gazes at the old cloth owl low on the tree. Robin sleeps quietly, golden lights reflect softly on her green sweater.",
+          "dialogue": [
+            "Pansy: Es el peso del apellido. Todos creen saber qué papel debes cumplir."
+          ]
+        },
+        {
+          "scene": "Hermione listens, one elbow relaxed on sofa arm, no mug in hand. The window is dark and reflected in warm brass.",
+          "dialogue": [
+            "Hermione: ¿También fue así con Draco?"
+          ]
+        },
+        {
+          "scene": "Pansy in thoughtful close view, baby still supported beneath shoulders and legs. She looks at Hermione rather than away.",
+          "dialogue": [
+            "Pansy: Crecimos juntos. Nuestras familias daban por hecho que acabaríamos juntos."
+          ]
+        },
+        {
+          "scene": "Medium quiet two-shot, both look toward the tree. Pansy relaxes, Hermione listens and Crookshanks watches from the chair.",
+          "dialogue": [
+            "Pansy: Al final entendimos que podíamos elegir."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 42\n\nHablan de Viktor y Draco. Pansy distingue el peso de las expectativas familiares de la posibilidad de elegir.\nPansy: ¿Cómo era Viktor, en realidad?\nHermione: Era amable conmigo. Su familia ya había hecho otros planes para él.\nPansy: Es el peso del apellido. Todos creen saber qué papel debes cumplir.\nHermione: ¿También fue así con Draco?\nPansy: Crecimos juntos. Nuestras familias daban por hecho que acabaríamos juntos.\nPansy: Al final entendimos que podíamos elegir.",
+      "actualPanelCount": 6,
+      "review": "Se mantuvo el salón de Navidad y Robin sigue en brazos de Pansy, con la capucha bajada. Se conservan las seis réplicas y los rasgos de ambas.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p042.png",
+      "sha256": "b9325ffe0ae7846053b88b41e365557130ebc16072192db1f0d543aa29e06289",
+      "masterSha256": "b77d326c62391d6da102cc9d20e26b872d3796e8c2505e5c76f18f14eff13c56",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact family sitting room and two leads, Robin in his soft brown reindeer costume and Crookshanks ONLY from the first five panels, never the adults in the last frame. Image 4 is reference for the same tree lighting, low crooked cloth owl, furniture and warm winter colors only. Image 5 is reference for the exact cream-and-brass pram only.\nSame Granger living room with oak bookshelves, fireplace, bay window, red and gold Christmas ornaments and one distinctive crooked small beige and brown cloth owl low on tree. Soft golden lights. Olive sofa, two rust-red chairs, one low oak table and two mugs on table. Pansy older student in fully opaque evergreen long-sleeved knit, charcoal trousers, angular face and moss-green eyes, sleek black bob with no earrings. Hermione older student in opaque gray long-sleeved pajamas and long gray trousers, chestnut curls loose and brown eyes, freckles, oval sapphire on fine platinum chain at front. Robin human baby brown curls, green eyes, soft natural skin and small human fingers, brown full reindeer-print footed sleeper, cream belly, plush antlers on open hood. Pansy supports him comfortably in arms while awake. One huge shaggy ginger Crookshanks, natural feline yellow eyes and plume tail, sits on separate chair or on rug. Close ordinary family conversation and winter night, no suggestive poses. Do not show past dates, just quiet present family conversation. One Robin drowsy in Pansy’s arms with hood folded down.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 42» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy and Hermione on the olive sofa, slightly apart with Robin in Pansy’s supported arms. Pansy asks softly, looking toward tree. Balloon from Pansy. Print verbatim «¿Cómo era Viktor, en realidad?»\nPanel 2. Close Hermione turns her brown eyes toward Pansy. Chestnut curls, gray sleeves, arm resting normally near her own side. Balloon from Hermione. Print verbatim «Era amable conmigo. Su familia ya había hecho otros planes para él.»\nPanel 3. Pansy gazes at the old cloth owl low on the tree. Robin sleeps quietly, golden lights reflect softly on her green sweater. Balloon from Pansy. Print verbatim «Es el peso del apellido. Todos creen saber qué papel debes cumplir.»\nPanel 4. Hermione listens, one elbow relaxed on sofa arm, no mug in hand. The window is dark and reflected in warm brass. Balloon from Hermione. Print verbatim «¿También fue así con Draco?»\nPanel 5. Pansy in thoughtful close view, baby still supported beneath shoulders and legs. She looks at Hermione rather than away. Balloon from Pansy. Print verbatim «Crecimos juntos. Nuestras familias daban por hecho que acabaríamos juntos.»\nPanel 6. Medium quiet two-shot, both look toward the tree. Pansy relaxes, Hermione listens and Crookshanks watches from the chair. Balloon from Pansy. Print verbatim «Al final entendimos que podíamos elegir.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-65839436-6bf5-44b6-bdc7-14203c998325.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-74955e30-fd0c-41e2-a5f5-ddfcfac45a91.png"
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "image": "paginas/c12-p043.webp",
+      "sourcePdfPages": [
+        473,
+        474,
+        475,
+        476
+      ],
+      "summary": "Pansy y Hermione hablan de la confianza y de poder pedir tiempo. Entonces empieza a nevar.",
+      "panels": [
+        {
+          "scene": "Pansy settles one already sleeping Robin safely in his own sand-and-brass pram beside the sofa. His soft antler hood is folded down and face clear. Hermione keeps the path free.",
+          "dialogue": [
+            "Pansy: Para mí, confiar es saber que puedo pedir tiempo."
+          ]
+        },
+        {
+          "scene": "Pansy sits beside Hermione again. Quiet close of two fully dressed friends talking, each face clearly separate. Crookshanks on chair.",
+          "dialogue": [
+            "Hermione: A veces me preocupa hacer todo bien."
+          ]
+        },
+        {
+          "scene": "Pansy answers with a kind steady look, green eyes catching the warm light. Her hands rest on her own knees.",
+          "dialogue": [
+            "Pansy: No tienes que hacerlo todo perfectamente. Si algo te preocupa, me lo dices."
+          ]
+        },
+        {
+          "scene": "Hermione smiles with visible relief, looking toward Robin’s pram while Crookshanks yawns on his own chair.",
+          "dialogue": [
+            "Hermione: Eso sí puedo hacerlo."
+          ]
+        },
+        {
+          "scene": "Quiet visual pause of their two mugs on the oak table, lights reflected in window. Outside first white snowflakes catch the street lamps.",
+          "caption": "Los primeros copos cayeron sobre el jardín."
+        },
+        {
+          "scene": "Hermione looks up toward the bay window with surprise. Pansy turns her head in the same direction, both fully clothed at the fireplace.",
+          "dialogue": [
+            "Hermione: Está nevando."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 43\n\nPansy y Hermione hablan de la confianza y de poder pedir tiempo. Entonces empieza a nevar.\nPansy: Para mí, confiar es saber que puedo pedir tiempo.\nHermione: A veces me preocupa hacer todo bien.\nPansy: No tienes que hacerlo todo perfectamente. Si algo te preocupa, me lo dices.\nHermione: Eso sí puedo hacerlo.\nNarración: Los primeros copos cayeron sobre el jardín.\nHermione: Está nevando.",
+      "actualPanelCount": 6,
+      "review": "Robin descansa en su Zephyr y la conversación ocurre con las dos sentadas y plenamente vestidas. Se conservan el búho, el gato, las tazas y el comienzo de la nevada.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p043.png",
+      "sha256": "214463ae1dff8f4792063687c9ea1fd7b2bd859e9e918142d6d8cd2850f864dd",
+      "masterSha256": "fcc6614ee4e9fac739c79a5b8fae8fb2f6ccae427047942b85ea7cc96789bbd8",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact family sitting room and two leads, Robin in his soft brown reindeer costume and Crookshanks ONLY from the first five panels, never the adults in the last frame. Image 4 is reference for the same tree lighting, low crooked cloth owl, furniture and warm winter colors only. Image 5 is reference for the exact cream-and-brass pram only.\nSame Granger living room with oak bookshelves, fireplace, bay window, red and gold Christmas ornaments and one distinctive crooked small beige and brown cloth owl low on tree. Soft golden lights. Olive sofa, two rust-red chairs, one low oak table and two mugs on table. Pansy older student in fully opaque evergreen long-sleeved knit, charcoal trousers, angular face and moss-green eyes, sleek black bob with no earrings. Hermione older student in opaque gray long-sleeved pajamas and long gray trousers, chestnut curls loose and brown eyes, freckles, oval sapphire on fine platinum chain at front. Robin human baby brown curls, green eyes, soft natural skin and small human fingers, brown full reindeer-print footed sleeper, cream belly, plush antlers on open hood. Pansy supports him comfortably in arms while awake. One huge shaggy ginger Crookshanks, natural feline yellow eyes and plume tail, sits on separate chair or on rug. Close ordinary family conversation and winter night, no suggestive poses. All discussion is about emotional trust and taking time in ordinary relationships. No flashbacks or bodies overlapping. A sleeping infant is in his own pram from panel 1 onward.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 43» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy settles one already sleeping Robin safely in his own sand-and-brass pram beside the sofa. His soft antler hood is folded down and face clear. Hermione keeps the path free. Balloon from Pansy. Print verbatim «Para mí, confiar es saber que puedo pedir tiempo.»\nPanel 2. Pansy sits beside Hermione again. Quiet close of two fully dressed friends talking, each face clearly separate. Crookshanks on chair. Balloon from Hermione. Print verbatim «A veces me preocupa hacer todo bien.»\nPanel 3. Pansy answers with a kind steady look, green eyes catching the warm light. Her hands rest on her own knees. Balloon from Pansy. Print verbatim «No tienes que hacerlo todo perfectamente. Si algo te preocupa, me lo dices.»\nPanel 4. Hermione smiles with visible relief, looking toward Robin’s pram while Crookshanks yawns on his own chair. Balloon from Hermione. Print verbatim «Eso sí puedo hacerlo.»\nPanel 5. Quiet visual pause of their two mugs on the oak table, lights reflected in window. Outside first white snowflakes catch the street lamps. Caption verbatim «Los primeros copos cayeron sobre el jardín.»\nPanel 6. Hermione looks up toward the bay window with surprise. Pansy turns her head in the same direction, both fully clothed at the fireplace. Balloon from Hermione. Print verbatim «Está nevando.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-65839436-6bf5-44b6-bdc7-14203c998325.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-d98db130-bced-4513-accc-78e78ebb96cb.png"
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "image": "paginas/c12-p044.webp",
+      "sourcePdfPages": [
+        476,
+        477
+      ],
+      "summary": "La primera nevada cierra la noche frente al árbol. Robin descansa mientras las dos contemplan el jardín.",
+      "panels": [
+        {
+          "scene": "Wide bay window from inside, outdoors snowy hedges and lamplight, reflection of gold Christmas lights and two quiet silhouettes. No extra room people.",
+          "caption": "La nieve empezó a cubrir el camino."
+        },
+        {
+          "scene": "Detail the crooked cloth owl on one low pine branch and a warm soft glimpse of Crookshanks on the opposite chair. No infant under tree.",
+          "caption": "El búho seguía en su lugar."
+        },
+        {
+          "scene": "Hermione and Pansy sit comfortably side by side on olive sofa, one natural hand each linked at the cushion edge. They both look toward snow, fully opaque sweaters and trousers.",
+          "dialogue": [
+            "Hermione: Feliz primera nevada."
+          ]
+        },
+        {
+          "scene": "Close Pansy’s face turns to Hermione, green eyes and black hair defined by firelight. One gentle smile. Snow in soft distance.",
+          "dialogue": [
+            "Pansy: Feliz primera nevada, Granger."
+          ]
+        },
+        {
+          "scene": "Robin asleep in the sand-and-brass pram with soft golden light on his curls. Cream-edged reindeer pajamas, fabric antlers folded back, one tiny hand resting near his own chest.",
+          "caption": "Robin dormía tranquilo."
+        },
+        {
+          "scene": "Exterior front of honey-brick Victorian Granger house. Warm bay windows, pine wreath and snow dusting the low hedge. No people visible. Warm and cool balance, no logos.",
+          "caption": "Afuera, la nieve siguió cayendo."
+        }
+      ],
+      "transcript": "Capítulo 12 · 44\n\nLa primera nevada cierra la noche frente al árbol. Robin descansa mientras las dos contemplan el jardín.\nNarración: La nieve empezó a cubrir el camino.\nNarración: El búho seguía en su lugar.\nHermione: Feliz primera nevada.\nPansy: Feliz primera nevada, Granger.\nNarración: Robin dormía tranquilo.\nNarración: Afuera, la nieve siguió cayendo.",
+      "actualPanelCount": 6,
+      "review": "Capucha del pijama doblada, rizos y manos humanas visibles, y fachada con puerta verde y dos miradores a juego con la página 14.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p044.png",
+      "sha256": "663b21bcf4360646a2611fb66b72fce0d5e3a62d74086ddb8be07ed79fecd761",
+      "masterSha256": "89592b761a9cb0bab5bc62a82ed68fb712359419ff34d6b3786f0faf141a40dc",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact family sitting room and two leads, Robin in his soft brown reindeer costume and Crookshanks ONLY from the first five panels, never the adults in the last frame. Image 4 is reference for the same tree lighting, low crooked cloth owl, furniture and warm winter colors only. Image 5 is reference for the exact cream-and-brass pram only.\nSame Granger living room with oak bookshelves, fireplace, bay window, red and gold Christmas ornaments and one distinctive crooked small beige and brown cloth owl low on tree. Soft golden lights. Olive sofa, two rust-red chairs, one low oak table and two mugs on table. Pansy older student in fully opaque evergreen long-sleeved knit, charcoal trousers, angular face and moss-green eyes, sleek black bob with no earrings. Hermione older student in opaque gray long-sleeved pajamas and long gray trousers, chestnut curls loose and brown eyes, freckles, oval sapphire on fine platinum chain at front. Robin human baby brown curls, green eyes, soft natural skin and small human fingers, brown full reindeer-print footed sleeper, cream belly, plush antlers on open hood. Pansy supports him comfortably in arms while awake. One huge shaggy ginger Crookshanks, natural feline yellow eyes and plume tail, sits on separate chair or on rug. Close ordinary family conversation and winter night, no suggestive poses. Robin remains asleep in one pram, baby face not near any fabric other than pajamas. Keep a quiet winter family scene. No new person, no romantic contact beyond holding hands on sofa.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 44» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide bay window from inside, outdoors snowy hedges and lamplight, reflection of gold Christmas lights and two quiet silhouettes. No extra room people. Caption verbatim «La nieve empezó a cubrir el camino.»\nPanel 2. Detail the crooked cloth owl on one low pine branch and a warm soft glimpse of Crookshanks on the opposite chair. No infant under tree. Caption verbatim «El búho seguía en su lugar.»\nPanel 3. Hermione and Pansy sit comfortably side by side on olive sofa, one natural hand each linked at the cushion edge. They both look toward snow, fully opaque sweaters and trousers. Balloon from Hermione. Print verbatim «Feliz primera nevada.»\nPanel 4. Close Pansy’s face turns to Hermione, green eyes and black hair defined by firelight. One gentle smile. Snow in soft distance. Balloon from Pansy. Print verbatim «Feliz primera nevada, Granger.»\nPanel 5. Robin asleep in the sand-and-brass pram with soft golden light on his curls. Cream-edged reindeer pajamas, fabric antlers folded back, one tiny hand resting near his own chest. Caption verbatim «Robin dormía tranquilo.»\nPanel 6. Exterior front of honey-brick Victorian Granger house. Warm bay windows, pine wreath and snow dusting the low hedge. No people visible. Warm and cool balance, no logos. Caption verbatim «Afuera, la nieve siguió cayendo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-65839436-6bf5-44b6-bdc7-14203c998325.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-d90d7404-3abe-4cb5-8619-39503e5480b9.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Exact precision edit of the first finished six-panel Spanish comic «Capítulo 12 · 44», portrait 1024×1536. Second reference is ONLY for Robin's hood folded down in his pram and third only for the exterior façade. Preserve panels 1 through 4 EXACTLY, their lighting, people, faces, hands, room, captions, quiet snowfall, Crookshanks and tree. Bottom LEFT, keep the sleeping human baby’s face, hands, cream-and-brown reindeer sleeper and sand-and-brass pram, but the hood stays folded down behind his shoulders just as at the end of the preceding page: both ears and chestnut curls visible, no antlers over head. Keep «Robin dormía tranquilo.» Bottom RIGHT, maintain the night snow and caption, but show the EXACT Victorian home from reference 3, a wider view with one dark green central door under a semicircular transom and pine wreath, one tall bay on each side, gold lamps, honey-brick walls, dark iron fence and warm cream curtains. Keep golden tree light visible from the left bay. Preserve full margins and Spanish accents. Only those two localized corrections, no extra lettering.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d90d7404-3abe-4cb5-8619-39503e5480b9.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d98db130-bced-4513-accc-78e78ebb96cb.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p014.webp"
+          ],
+          "generatedMaster": "exec-54619729-a724-4f62-acba-f9e259791e9b.png"
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "image": "paginas/c12-p045.webp",
+      "sourcePdfPages": [
+        478,
+        479,
+        480
+      ],
+      "summary": "Jane encuentra a Hermione en la habitación de invitados tras una noche de cuidar a Robin. Las llama a desayunar.",
+      "panels": [
+        {
+          "scene": "Morning establishing view of the guest room. Pansy looks up from sitting near edge of green bed. Hermione has dozed in the moss reading chair, gray pajamas and a closed book on lap. One Robin sleeps in his own bassinet on separate floor space.",
+          "caption": "La luz de la mañana entró por las cortinas."
+        },
+        {
+          "scene": "Jane gently knocks on the partly open oak door, looks in with a kind amused smile. She sees her daughter in the reading chair and notices the quiet baby.",
+          "dialogue": [
+            "Jane: ¿Hermione? El desayuno está casi listo."
+          ]
+        },
+        {
+          "scene": "Pansy stands quietly beside chair and answers Jane at doorway. Hermione begins to stir, both fully clothed and distinct. The dark green single bed in background.",
+          "dialogue": [
+            "Pansy: Anoche lo ayudó a dormir y acabó quedándose en la butaca."
+          ]
+        },
+        {
+          "scene": "Jane steps away toward landing, one little smile. Pansy turns her eyes to Hermione. No other person or baby in hall.",
+          "dialogue": [
+            "Jane: Pueden bajar cuando estén listas."
+          ]
+        },
+        {
+          "scene": "Hermione wakes in the chair and smiles sleepily up at Pansy. Pansy’s visible hand rests on chair arm, not touching the other person.",
+          "dialogue": [
+            "Hermione: Cinco minutos."
+          ]
+        },
+        {
+          "scene": "Pansy gently lifts Robin with both hands from his own bassinet. He is now awake and looks up at her with a small yawn. Hermione stretches one arm normally in the background.",
+          "dialogue": [
+            "Pansy: Tenemos que levantarnos, Granger."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 45\n\nJane encuentra a Hermione en la habitación de invitados tras una noche de cuidar a Robin. Las llama a desayunar.\nNarración: La luz de la mañana entró por las cortinas.\nJane: ¿Hermione? El desayuno está casi listo.\nPansy: Anoche lo ayudó a dormir y acabó quedándose en la butaca.\nJane: Pueden bajar cuando estén listas.\nHermione: Cinco minutos.\nPansy: Tenemos que levantarnos, Granger.",
+      "actualPanelCount": 6,
+      "review": "Cambio de la noche a la mañana. Una sola cuna aparte, libro, habitación y tres personajes reconocibles. Diálogo íntegro.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p045.png",
+      "sha256": "7499d5fbbb281e7ef414adbeef2788e74cee7c049622a5851b515590a513143b",
+      "masterSha256": "bf849e5168b7e6260fc7d48bbaee17b36ac744e1eed1bc94e55712bb099c10c8",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact guest room geometry and bed, lamp, oak doorway. Image 4 is reference for the exact brown reindeer pajamas and Robin's face, and the two individual students' clothing and faces ONLY from the first five panels. Image 5 is reference for exact sand-and-brass bassinet only.\nSame familiar Granger Victorian house after the snowy night. Cream walls, oak stairs and amber wall lamps, early light on dark olive sofa and old bookshelves, wreath on dark green door. Guest room has a walnut single bed, forest green duvet, rust rug, beige-shaded lamp, small pine sprig, water jug and moss chair by the window. Hermione recognizable older student freckles, brown eyes, chestnut curls loose with front oval sapphire on thin platinum chain. Pansy black side-parted chin bob, angular jaw and narrow green eyes, ears bare. Jane mature warm face, shoulder-length chestnut waves gray at temples, brown eyes, sage cardigan over ivory blouse indoors, camel coat and sage scarf outdoors. Malcolm mature clean-shaven with rectangular dark glasses, grey temples, navy V-neck and light blue shirt indoors, charcoal coat and navy plaid scarf outdoors. Robin one human baby, curly chestnut hair and green eyes, small anatomical hands and smooth human skin. Crookshanks one large long-haired ginger cat with flat face and yellow eyes. The tiny brown teddy with yellow fabric star is a separate inanimate toy. Gentle morning family care. Hermione fully dressed in long opaque gray pajamas in the armchair; Pansy fully dressed in dark green knit and charcoal lounge trousers. Robin in brown footed reindeer pajamas with open hood and face clearly visible, asleep in his own infant bassinet until Pansy lifts him. No shared bedding.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 45» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Morning establishing view of the guest room. Pansy looks up from sitting near edge of green bed. Hermione has dozed in the moss reading chair, gray pajamas and a closed book on lap. One Robin sleeps in his own bassinet on separate floor space. Caption verbatim «La luz de la mañana entró por las cortinas.»\nPanel 2. Jane gently knocks on the partly open oak door, looks in with a kind amused smile. She sees her daughter in the reading chair and notices the quiet baby. Balloon from Jane. Print verbatim «¿Hermione? El desayuno está casi listo.»\nPanel 3. Pansy stands quietly beside chair and answers Jane at doorway. Hermione begins to stir, both fully clothed and distinct. The dark green single bed in background. Balloon from Pansy. Print verbatim «Anoche lo ayudó a dormir y acabó quedándose en la butaca.»\nPanel 4. Jane steps away toward landing, one little smile. Pansy turns her eyes to Hermione. No other person or baby in hall. Balloon from Jane. Print verbatim «Pueden bajar cuando estén listas.»\nPanel 5. Hermione wakes in the chair and smiles sleepily up at Pansy. Pansy’s visible hand rests on chair arm, not touching the other person. Balloon from Hermione. Print verbatim «Cinco minutos.»\nPanel 6. Pansy gently lifts Robin with both hands from his own bassinet. He is now awake and looks up at her with a small yawn. Hermione stretches one arm normally in the background. Balloon from Pansy. Print verbatim «Tenemos que levantarnos, Granger.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p016.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-ad588ea7-47cc-47e3-bff4-5fb1ea3c56fb.png"
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "image": "paginas/c12-p046.webp",
+      "sourcePdfPages": [
+        480,
+        481,
+        482,
+        483
+      ],
+      "summary": "Durante el desayuno, Jane ofrece llevar a Robin a conocer a los cachorros. Hermione y Pansy acuerdan el plan.",
+      "panels": [
+        {
+          "scene": "Robin is comfortably seated in his wooden high chair at the breakfast table. Jane bends toward him smiling. Pansy stands by coffee maker, Hermione and Malcolm at the table. No duplicate baby.",
+          "dialogue": [
+            "Jane: Buenos días, cielo."
+          ]
+        },
+        {
+          "scene": "Pansy brings one cream coffee mug to Hermione. Four bowls, a little toast, and winter daylight. Robin remains beside them in his chair.",
+          "dialogue": [
+            "Hermione: Gracias, Pans."
+          ]
+        },
+        {
+          "scene": "Malcolm folds his newspaper with small unreadable ink marks. Hermione explains the day, and Pansy listens from across her cup.",
+          "dialogue": [
+            "Hermione: Pensábamos ir a Harrods a ver los escaparates."
+          ]
+        },
+        {
+          "scene": "Jane in sage cardigan looks from Hermione to Robin. One human baby touches the high-chair tray. Malcolm in background looks kindly on.",
+          "dialogue": [
+            "Jane: Podemos llevar a Robin con nosotros. Conocerá a los cachorros."
+          ]
+        },
+        {
+          "scene": "Pansy and Hermione exchange a worried but trusting look. Hermione speaks first, on the left, Jane replies from right, clear left-to-right balloons. Place Hermione on left and Jane on right for the two balloons in that order.",
+          "dialogue": [
+            "Hermione: Es un trayecto largo, mamá.",
+            "Jane: Nos detendremos cuando haga falta."
+          ]
+        },
+        {
+          "scene": "Hermione glances at the folded diaper bag by stairs. Robin gives a sleepy smile, Jane nods.",
+          "dialogue": [
+            "Hermione: Está bien. Si se inquieta o cambia el clima, llámanos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 46\n\nDurante el desayuno, Jane ofrece llevar a Robin a conocer a los cachorros. Hermione y Pansy acuerdan el plan.\nJane: Buenos días, cielo.\nHermione: Gracias, Pans.\nHermione: Pensábamos ir a Harrods a ver los escaparates.\nJane: Podemos llevar a Robin con nosotros. Conocerá a los cachorros.\nHermione: Es un trayecto largo, mamá.\nJane: Nos detendremos cuando haga falta.\nHermione: Está bien. Si se inquieta o cambia el clima, llámanos.",
+      "actualPanelCount": 6,
+      "review": "Las dos intervenciones de la quinta viñeta se leen en el orden previsto. Se mantiene el pijama de la página anterior, la familia y el desayuno.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p046.png",
+      "sha256": "75a4b9cfac2957fe5ffa7899c3f076ea568a1117f63c2e3c106ce4843d9b8561",
+      "masterSha256": "aed289043d115d6ac9f0a23c3ea949d945034ae3b8d4d678f3866e46218d415e",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact four faces, adult clothes and one round oak table. Image 4 is reference for the exact morning kitchen, coffee machine, mug and daylight. Image 5 is reference for Robin's individual human face and exact reindeer outfit only.\nSame familiar Granger Victorian house after the snowy night. Cream walls, oak stairs and amber wall lamps, early light on dark olive sofa and old bookshelves, wreath on dark green door. Guest room has a walnut single bed, forest green duvet, rust rug, beige-shaded lamp, small pine sprig, water jug and moss chair by the window. Hermione recognizable older student freckles, brown eyes, chestnut curls loose with front oval sapphire on thin platinum chain. Pansy black side-parted chin bob, angular jaw and narrow green eyes, ears bare. Jane mature warm face, shoulder-length chestnut waves gray at temples, brown eyes, sage cardigan over ivory blouse indoors, camel coat and sage scarf outdoors. Malcolm mature clean-shaven with rectangular dark glasses, grey temples, navy V-neck and light blue shirt indoors, charcoal coat and navy plaid scarf outdoors. Robin one human baby, curly chestnut hair and green eyes, small anatomical hands and smooth human skin. Crookshanks one large long-haired ginger cat with flat face and yellow eyes. The tiny brown teddy with yellow fabric star is a separate inanimate toy. Same warm kitchen and dining room. Pansy evergreen sweater, Hermione gray loungewear, Jane and Malcolm home outfits. Robin in reindeer pajamas sits supported in a single wooden high chair with tray and no loose objects near face. He is supervised throughout.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 46» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Robin is comfortably seated in his wooden high chair at the breakfast table. Jane bends toward him smiling. Pansy stands by coffee maker, Hermione and Malcolm at the table. No duplicate baby. Balloon from Jane. Print verbatim «Buenos días, cielo.»\nPanel 2. Pansy brings one cream coffee mug to Hermione. Four bowls, a little toast, and winter daylight. Robin remains beside them in his chair. Balloon from Hermione. Print verbatim «Gracias, Pans.»\nPanel 3. Malcolm folds his newspaper with small unreadable ink marks. Hermione explains the day, and Pansy listens from across her cup. Balloon from Hermione. Print verbatim «Pensábamos ir a Harrods a ver los escaparates.»\nPanel 4. Jane in sage cardigan looks from Hermione to Robin. One human baby touches the high-chair tray. Malcolm in background looks kindly on. Balloon from Jane. Print verbatim «Podemos llevar a Robin con nosotros. Conocerá a los cachorros.»\nPanel 5. Pansy and Hermione exchange a worried but trusting look. Hermione speaks first, on the left, Jane replies from right, clear left-to-right balloons. Place Hermione on left and Jane on right for the two balloons in that order. Balloon from Hermione. Print verbatim «Es un trayecto largo, mamá.» Balloon from Jane. Print verbatim «Nos detendremos cuando haga falta.»\nPanel 6. Hermione glances at the folded diaper bag by stairs. Robin gives a sleepy smile, Jane nods. Balloon from Hermione. Print verbatim «Está bien. Si se inquieta o cambia el clima, llámanos.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p019.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p026.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03d7d3c1-aa06-4fb0-b065-c7e546d1c387.png"
+          ],
+          "generatedMaster": "exec-6ea2d076-fa8a-44ab-88a5-4354014b8367.png"
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "image": "paginas/c12-p047.webp",
+      "sourcePdfPages": [
+        484,
+        485,
+        486
+      ],
+      "summary": "Pansy abriga a Robin y Hermione prepara todo para el viaje con sus abuelos.",
+      "panels": [
+        {
+          "scene": "Robin in cream underlayer and trousers is supported sitting on the green duvet with Pansy in front of him. Pansy holds open the single navy sleeve for his hand.",
+          "dialogue": [
+            "Pansy: Necesito tu mano, pequeño."
+          ]
+        },
+        {
+          "scene": "He offers the opposite hand with a bright grin. Pansy laughs quietly and puts the navy sweater on him gently with two human hands.",
+          "caption": "Robin ofreció la otra mano."
+        },
+        {
+          "scene": "Hermione sorts two folded outfits, blue blanket and cloth book into one tan diaper bag on the side table. She has a concentrated practical expression. No quantities, formula instructions or medical equipment.",
+          "caption": "Hermione preparó la pañalera."
+        },
+        {
+          "scene": "Pansy holds Robin fully dressed with his blue cap and tiny boots. She watches Hermione place another neatly folded shirt in bag.",
+          "dialogue": [
+            "Pansy: Granger, irá a Derbyshire. No a Siberia."
+          ]
+        },
+        {
+          "scene": "The two come downstairs. Pansy supports Robin, Hermione has one diaper bag. Crookshanks watches the activity from the rug. Jane in camel coat approaches warmly.",
+          "dialogue": [
+            "Jane: Pero qué guapo estás."
+          ]
+        },
+        {
+          "scene": "A quiet close of Hermione closing the bag zipper by the dark green door. Jane listens attentively and Malcolm steps out toward the driveway.",
+          "dialogue": [
+            "Hermione: La manta azul es la que usa para dormir."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 47\n\nPansy abriga a Robin y Hermione prepara todo para el viaje con sus abuelos.\nPansy: Necesito tu mano, pequeño.\nNarración: Robin ofreció la otra mano.\nNarración: Hermione preparó la pañalera.\nPansy: Granger, irá a Derbyshire. No a Siberia.\nJane: Pero qué guapo estás.\nHermione: La manta azul es la que usa para dormir.",
+      "actualPanelCount": 6,
+      "review": "Robin vestido de azul, gesto natural y rostro humano, pañalera y cambio gradual de ropa para salir. Diálogo y acentos completos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p047.png",
+      "sha256": "758598e73cc50e51d44dd71afe176438e767ecec0bc7b84e494dc9b9417690c4",
+      "masterSha256": "7a7327a91dc83b029b8bab129642a9f8c54522515f7715be53c5a85cc605b561",
+      "ocrMissingCandidates": [
+        "hermione",
+        "preparo",
+        "panalera",
+        "granger",
+        "derbyshire",
+        "siberia",
+        "guapo",
+        "estas",
+        "manta",
+        "dormir"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact warm guest room, bedroom placement, furniture and faces. Image 4 is reference for the exact dark green front door, stair banister and Christmas interior.\nSame familiar Granger Victorian house after the snowy night. Cream walls, oak stairs and amber wall lamps, early light on dark olive sofa and old bookshelves, wreath on dark green door. Guest room has a walnut single bed, forest green duvet, rust rug, beige-shaded lamp, small pine sprig, water jug and moss chair by the window. Hermione recognizable older student freckles, brown eyes, chestnut curls loose with front oval sapphire on thin platinum chain. Pansy black side-parted chin bob, angular jaw and narrow green eyes, ears bare. Jane mature warm face, shoulder-length chestnut waves gray at temples, brown eyes, sage cardigan over ivory blouse indoors, camel coat and sage scarf outdoors. Malcolm mature clean-shaven with rectangular dark glasses, grey temples, navy V-neck and light blue shirt indoors, charcoal coat and navy plaid scarf outdoors. Robin one human baby, curly chestnut hair and green eyes, small anatomical hands and smooth human skin. Crookshanks one large long-haired ginger cat with flat face and yellow eyes. The tiny brown teddy with yellow fabric star is a separate inanimate toy. Morning guest room and warm entry. Robin fully dressed at every moment, cream knit long-sleeve base layer from first panel, then little navy pullover, beige trousers, blue knit hat and ivory booties. Tiny brown star bear is separate. Pansy evergreen sweater and dark trousers inside, charcoal coat later; Hermione gray long-sleeves inside, coat later. No bathing illustrated.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 47» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Robin in cream underlayer and trousers is supported sitting on the green duvet with Pansy in front of him. Pansy holds open the single navy sleeve for his hand. Balloon from Pansy. Print verbatim «Necesito tu mano, pequeño.»\nPanel 2. He offers the opposite hand with a bright grin. Pansy laughs quietly and puts the navy sweater on him gently with two human hands. Caption verbatim «Robin ofreció la otra mano.»\nPanel 3. Hermione sorts two folded outfits, blue blanket and cloth book into one tan diaper bag on the side table. She has a concentrated practical expression. No quantities, formula instructions or medical equipment. Caption verbatim «Hermione preparó la pañalera.»\nPanel 4. Pansy holds Robin fully dressed with his blue cap and tiny boots. She watches Hermione place another neatly folded shirt in bag. Balloon from Pansy. Print verbatim «Granger, irá a Derbyshire. No a Siberia.»\nPanel 5. The two come downstairs. Pansy supports Robin, Hermione has one diaper bag. Crookshanks watches the activity from the rug. Jane in camel coat approaches warmly. Balloon from Jane. Print verbatim «Pero qué guapo estás.»\nPanel 6. A quiet close of Hermione closing the bag zipper by the dark green door. Jane listens attentively and Malcolm steps out toward the driveway. Balloon from Hermione. Print verbatim «La manta azul es la que usa para dormir.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p016.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp"
+          ],
+          "generatedMaster": "exec-9eb53d73-5e7f-40f0-9192-04e0697e0586.png"
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "image": "paginas/c12-p048.webp",
+      "sourcePdfPages": [
+        486,
+        487,
+        488,
+        489
+      ],
+      "summary": "Jane y Malcolm se llevan a Robin a pasar el día. Crookshanks encuentra un lugar entre las mantas del coche.",
+      "panels": [
+        {
+          "scene": "Malcolm places light pet carriers and blankets in the open rear hatch. Crookshanks pads in under view of camera and settles on the blanket inside the open carrier, no person notices.",
+          "caption": "Crookshanks también encontró un sitio para el viaje."
+        },
+        {
+          "scene": "Through parked rear passenger door. One Robin is supported in the charcoal rear-facing baby seat, blue cap and navy pullover visible. Pansy gives him the small tawny teddy with one clear star.",
+          "dialogue": [
+            "Pansy: Pórtate bien con tus abuelos."
+          ]
+        },
+        {
+          "scene": "Jane leans toward Robin at his open door from a safe distance. Hermione stands by the car with cream scarf, anxious but smiling.",
+          "dialogue": [
+            "Hermione: Si necesitas algo, llámame, mamá."
+          ]
+        },
+        {
+          "scene": "Jane in camel turns toward Hermione, a reassuring brown-eyed smile. The driver's side open in distance, snow on hedge.",
+          "dialogue": [
+            "Jane: Lo haré. Volveremos antes de cenar."
+          ]
+        },
+        {
+          "scene": "Wide, SUV drives away slowly down the snowy street. Pansy and Hermione stand together on the private pavement and wave. One warm house entrance behind them.",
+          "caption": "La camioneta dobló la esquina."
+        },
+        {
+          "scene": "Pansy and Hermione by the dark green door. Their shoulders near, one naturally drawn hand gently takes the other, coats and faces clear, no infant present. Place Hermione on left and Pansy on right for the two balloons in that order.",
+          "dialogue": [
+            "Hermione: Es extraño verlo marcharse sin nosotras.",
+            "Pansy: También para mí."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 48\n\nJane y Malcolm se llevan a Robin a pasar el día. Crookshanks encuentra un lugar entre las mantas del coche.\nNarración: Crookshanks también encontró un sitio para el viaje.\nPansy: Pórtate bien con tus abuelos.\nHermione: Si necesitas algo, llámame, mamá.\nJane: Lo haré. Volveremos antes de cenar.\nNarración: La camioneta dobló la esquina.\nHermione: Es extraño verlo marcharse sin nosotras.\nPansy: También para mí.",
+      "actualPanelCount": 6,
+      "review": "Crookshanks en el transportín, Robin sujeto con el oso separado, abrigo y fachada de referencia, orden de los dos globos finales correcto.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p048.png",
+      "sha256": "bb0a9fd8db93491dfd35574c9a332c1602c2dfac64bac2827229752133398e59",
+      "masterSha256": "4a9b3fbe2e8058dfdf37777d842e1c451f44c3bcfc886dd1c166389005c94c06",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for same graphite SUV and gray infant carrier. Image 4 is reference for exact Victorian facade, entrance and winter palette. Image 5 is reference for exact Crookshanks only.\nSame familiar Granger Victorian house after the snowy night. Cream walls, oak stairs and amber wall lamps, early light on dark olive sofa and old bookshelves, wreath on dark green door. Guest room has a walnut single bed, forest green duvet, rust rug, beige-shaded lamp, small pine sprig, water jug and moss chair by the window. Hermione recognizable older student freckles, brown eyes, chestnut curls loose with front oval sapphire on thin platinum chain. Pansy black side-parted chin bob, angular jaw and narrow green eyes, ears bare. Jane mature warm face, shoulder-length chestnut waves gray at temples, brown eyes, sage cardigan over ivory blouse indoors, camel coat and sage scarf outdoors. Malcolm mature clean-shaven with rectangular dark glasses, grey temples, navy V-neck and light blue shirt indoors, charcoal coat and navy plaid scarf outdoors. Robin one human baby, curly chestnut hair and green eyes, small anatomical hands and smooth human skin. Crookshanks one large long-haired ginger cat with flat face and yellow eyes. The tiny brown teddy with yellow fabric star is a separate inanimate toy. Parked graphite-gray SUV from pages 12–14, snowy quiet driveway and same rear-facing gray infant seat. Jane camel coat and Malcolm charcoal coat. Hermione burgundy coat cream scarf, Pansy charcoal coat forest-green scarf. Robin wearing navy pullover, beige trousers and blue hat, with small brown toy bear. Crookshanks slips unnoticed into the wide open pet carrier tucked with the blankets in the enclosed passenger cargo area. The vehicle is parked during loading.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 48» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Malcolm places light pet carriers and blankets in the open rear hatch. Crookshanks pads in under view of camera and settles on the blanket inside the open carrier, no person notices. Caption verbatim «Crookshanks también encontró un sitio para el viaje.»\nPanel 2. Through parked rear passenger door. One Robin is supported in the charcoal rear-facing baby seat, blue cap and navy pullover visible. Pansy gives him the small tawny teddy with one clear star. Balloon from Pansy. Print verbatim «Pórtate bien con tus abuelos.»\nPanel 3. Jane leans toward Robin at his open door from a safe distance. Hermione stands by the car with cream scarf, anxious but smiling. Balloon from Hermione. Print verbatim «Si necesitas algo, llámame, mamá.»\nPanel 4. Jane in camel turns toward Hermione, a reassuring brown-eyed smile. The driver's side open in distance, snow on hedge. Balloon from Jane. Print verbatim «Lo haré. Volveremos antes de cenar.»\nPanel 5. Wide, SUV drives away slowly down the snowy street. Pansy and Hermione stand together on the private pavement and wave. One warm house entrance behind them. Caption verbatim «La camioneta dobló la esquina.»\nPanel 6. Pansy and Hermione by the dark green door. Their shoulders near, one naturally drawn hand gently takes the other, coats and faces clear, no infant present. Place Hermione on left and Pansy on right for the two balloons in that order. Balloon from Hermione. Print verbatim «Es extraño verlo marcharse sin nosotras.» Balloon from Pansy. Print verbatim «También para mí.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p012.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p014.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p016.webp"
+          ],
+          "generatedMaster": "exec-8f6f7789-edd7-439d-a464-eba4576273ea.png"
+        }
+      ]
+    }
+  ]
+}
