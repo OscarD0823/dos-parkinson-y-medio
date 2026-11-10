@@ -1,0 +1,309 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    29,
+    32
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 29,
+      "image": "paginas/c12-p029.webp",
+      "sourcePdfPages": [
+        441,
+        442
+      ],
+      "summary": "Pansy descubre el pasillo del café y encuentra en Jane una aliada para elegir las cápsulas.",
+      "panels": [
+        {
+          "scene": "Wide aisle with a full wall of tastefully colored coffee capsule boxes. Pansy has stopped in delighted concentration. Hermione walks ahead of her a few steps with Jane and the shopping cart, Zephyr near Pansy.",
+          "caption": "La lista dejó de importar al llegar al pasillo del café."
+        },
+        {
+          "scene": "Pansy takes one pale brown box from the shelf. It reads exactly «Pan de jengibre» in simple short type. Robin watches from his own cream canopy.",
+          "dialogue": [
+            "Pansy: Esta tiene notas de pan de jengibre."
+          ],
+          "printed": [
+            "Pan de jengibre"
+          ]
+        },
+        {
+          "scene": "Hermione has returned with her hands relaxed on the shopping cart's handle. She raises an amused eyebrow toward Pansy. Jane is just beyond the frame.",
+          "dialogue": [
+            "Hermione: Ya tenemos café en casa."
+          ]
+        },
+        {
+          "scene": "Pansy holding one box in her left hand and a second in the crook of the other arm, with a small knowing smile. A coherent aisle, no extra boxes in her hands.",
+          "dialogue": [
+            "Pansy: Ninguna cápsula sabe a pan de jengibre."
+          ],
+          "printed": [
+            "Pan de jengibre"
+          ]
+        },
+        {
+          "scene": "Jane gently places a modest hazelnut box into the cart, label exactly «Avellana». Hermione turns to her mother. One safe Robin and Pansy in background. Frame Jane at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed.",
+          "dialogue": [
+            "Jane: La de avellana es buena.",
+            "Hermione: ¡Mamá!"
+          ],
+          "printed": [
+            "Avellana"
+          ]
+        },
+        {
+          "scene": "Rear three-quarter view of the trio moving past the long coffee aisle. Vegetables, bread and several distinct coffee boxes sit in the ordinary grocery cart. Robin smiles from his pram.",
+          "dialogue": [
+            "Pansy: Tu madre posee un criterio excelente."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 29\n\nPansy descubre el pasillo del café y encuentra en Jane una aliada para elegir las cápsulas.\nNarración: La lista dejó de importar al llegar al pasillo del café.\nPan de jengibre\nPansy: Esta tiene notas de pan de jengibre.\nHermione: Ya tenemos café en casa.\nPan de jengibre\nPansy: Ninguna cápsula sabe a pan de jengibre.\nAvellana\nJane: La de avellana es buena.\nHermione: ¡Mamá!\nPansy: Tu madre posee un criterio excelente.",
+      "actualPanelCount": 6,
+      "review": "Se conservan el cochecito, el carrito, la ropa y las seis viñetas. Pan de jengibre y Avellana se leen en las cajas. Robin mantiene sus ojos y manos humanas.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p029.png",
+      "sha256": "0b457436b6ca824ab5d0e3ad3e5279b5066371c4f8e09d0601053460181447ff",
+      "masterSha256": "16b6469843d59d1ee0956330999fb38f9c3c8f134c1712a1f07f400f4077f1c4",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current supermarket layout and winter lighting, outfits and separate faces of Jane, Hermione, Pansy and Robin, exact pram with new rubber wheels and the separate grocery cart only. Image 4 is reference for the exact sand-and-brass stroller, not older clothes or people.\nSame bright London supermarket as previous page. Winter daylight. Keep Jane's mature chestnut waves with silver temples, camel wool coat and sage scarf. Pansy keeps a plain charcoal-gray long-sleeved hoodie with a loosely wrapped dark forest-green scarf, dark-blue jeans, neat black leather boots, short black bob, narrow moss-green eyes, angular jaw, no earrings. Hermione's chestnut curls loose, brown eyes, freckles, plum wool coat and cream scarf. Oval blue sapphire on a fine platinum chain at her front. Robin is a very small human baby with curly chestnut hair, green eyes, natural tiny fingers, soft human skin, pale blue knit cardigan, cream lion-print footed pajamas. One Robin. The Zephyr is one sand-and-brass pram with a cream canopy, dark brown leather grip and four visually ordinary wheels during this outing. Jane has a separate metal grocery cart. Keep matte blue and cream store fixtures, wide clean aisles, warm lights, Christmas details and no commercial logos. Robin is securely seated in the Zephyr beside the three people throughout. Use only clear generic short product text «Pan de jengibre» and «Avellana» when specified.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 29» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide aisle with a full wall of tastefully colored coffee capsule boxes. Pansy has stopped in delighted concentration. Hermione walks ahead of her a few steps with Jane and the shopping cart, Zephyr near Pansy. Caption verbatim «La lista dejó de importar al llegar al pasillo del café.»\nPanel 2. Pansy takes one pale brown box from the shelf. It reads exactly «Pan de jengibre» in simple short type. Robin watches from his own cream canopy. Prop text verbatim «Pan de jengibre» Balloon from Pansy. Print verbatim «Esta tiene notas de pan de jengibre.»\nPanel 3. Hermione has returned with her hands relaxed on the shopping cart's handle. She raises an amused eyebrow toward Pansy. Jane is just beyond the frame. Balloon from Hermione. Print verbatim «Ya tenemos café en casa.»\nPanel 4. Pansy holding one box in her left hand and a second in the crook of the other arm, with a small knowing smile. A coherent aisle, no extra boxes in her hands. Balloon from Pansy. Print verbatim «Ninguna cápsula sabe a pan de jengibre.»\nPanel 5. Jane gently places a modest hazelnut box into the cart, label exactly «Avellana». Hermione turns to her mother. One safe Robin and Pansy in background. Frame Jane at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed. Prop text verbatim «Avellana» Balloon from Jane. Print verbatim «La de avellana es buena.» Balloon from Hermione. Print verbatim «¡Mamá!»\nPanel 6. Rear three-quarter view of the trio moving past the long coffee aisle. Vegetables, bread and several distinct coffee boxes sit in the ordinary grocery cart. Robin smiles from his pram. Balloon from Pansy. Print verbatim «Tu madre posee un criterio excelente.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-51b18024-c47f-450d-85b9-2c7f8e27801b.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-831eb292-aca0-4881-98f4-b532060b3c05.png"
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "image": "paginas/c12-p030.webp",
+      "sourcePdfPages": [
+        442,
+        443
+      ],
+      "summary": "Pansy y Robin quedan fascinados con los televisores. Hermione recibe dos votos en contra.",
+      "panels": [
+        {
+          "scene": "Pansy near the electronics aisle gently lifts a single tiny Robin from the parked cream pram with both arms. Jane stands by with groceries and Hermione approaches in the distance.",
+          "caption": "Al fondo del supermercado empezaba la electrónica."
+        },
+        {
+          "scene": "Wide perspective of a wall of generic flat televisions showing colorful landscapes, weather and sports-like silhouettes. From behind, Pansy cradles Robin, separated from the screens by a normal aisle.",
+          "dialogue": [
+            "Pansy: Sí, yo también lo veo."
+          ]
+        },
+        {
+          "scene": "Close Pansy’s astonished green eyes and Robin's face in her arms. Both look toward a blue cartoon elephant on just one screen. Robin raises one small natural hand.",
+          "dialogue": [
+            "Pansy: Voy a instalar uno en nuestra habitación."
+          ]
+        },
+        {
+          "scene": "Hermione stops by the shopping cart, smiling but skeptical. Pansy and Robin turn slightly toward her.",
+          "dialogue": [
+            "Hermione: Los aparatos muggles no funcionan bien en Hogwarts."
+          ]
+        },
+        {
+          "scene": "Pansy glances back at the televisions with an amused smile, still supporting Robin. Hermione in plum coat and Jane behind the cart. No extra characters.",
+          "dialogue": [
+            "Pansy: Para eso está la bruja más brillante de nuestra generación."
+          ]
+        },
+        {
+          "scene": "Close Robin points at the blue elephant while Pansy holds him, Hermione laughs near them, clear everyday gestures. Frame Hermione at LEFT for the first balloon, Pansy at RIGHT for the reply, their faces unobstructed.",
+          "dialogue": [
+            "Hermione: No pienso pasar las noches viendo animales de colores.",
+            "Pansy: Dos votos contra uno."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 30\n\nPansy y Robin quedan fascinados con los televisores. Hermione recibe dos votos en contra.\nNarración: Al fondo del supermercado empezaba la electrónica.\nPansy: Sí, yo también lo veo.\nPansy: Voy a instalar uno en nuestra habitación.\nHermione: Los aparatos muggles no funcionan bien en Hogwarts.\nPansy: Para eso está la bruja más brillante de nuestra generación.\nHermione: No pienso pasar las noches viendo animales de colores.\nPansy: Dos votos contra uno.",
+      "actualPanelCount": 6,
+      "review": "Se ve cómo Pansy levanta a Robin del cochecito. Lo sostiene en el pasillo de televisores. El elefante coincide con la página 27 y las réplicas finales conservan su orden.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p030.png",
+      "sha256": "4905feefeb1e395d319d69fa76b877e40827a6f83f08088ae6a5e358b4256e52",
+      "masterSha256": "b0d39e751dd8728207bebb57578566a804a8b2d6539852beecda7626ba7f9eaa",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current supermarket layout and winter lighting, outfits and separate faces of Jane, Hermione, Pansy and Robin, exact pram with new rubber wheels and the separate grocery cart only. Image 4 is reference for the exact sand-and-brass stroller, not older clothes or people.\nSame bright London supermarket as previous page. Winter daylight. Keep Jane's mature chestnut waves with silver temples, camel wool coat and sage scarf. Pansy keeps a plain charcoal-gray long-sleeved hoodie with a loosely wrapped dark forest-green scarf, dark-blue jeans, neat black leather boots, short black bob, narrow moss-green eyes, angular jaw, no earrings. Hermione's chestnut curls loose, brown eyes, freckles, plum wool coat and cream scarf. Oval blue sapphire on a fine platinum chain at her front. Robin is a very small human baby with curly chestnut hair, green eyes, natural tiny fingers, soft human skin, pale blue knit cardigan, cream lion-print footed pajamas. One Robin. The Zephyr is one sand-and-brass pram with a cream canopy, dark brown leather grip and four visually ordinary wheels during this outing. Jane has a separate metal grocery cart. Keep matte blue and cream store fixtures, wide clean aisles, warm lights, Christmas details and no commercial logos. One separate human Robin. In panel 1 Pansy visibly lifts Robin from the stopped pram with two safe hands. From then Pansy holds him securely. The same stroller with wheels is empty and nearby when in frame. No second baby or reflection as a separate baby.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 30» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy near the electronics aisle gently lifts a single tiny Robin from the parked cream pram with both arms. Jane stands by with groceries and Hermione approaches in the distance. Caption verbatim «Al fondo del supermercado empezaba la electrónica.»\nPanel 2. Wide perspective of a wall of generic flat televisions showing colorful landscapes, weather and sports-like silhouettes. From behind, Pansy cradles Robin, separated from the screens by a normal aisle. Balloon from Pansy. Print verbatim «Sí, yo también lo veo.»\nPanel 3. Close Pansy’s astonished green eyes and Robin's face in her arms. Both look toward a blue cartoon elephant on just one screen. Robin raises one small natural hand. Balloon from Pansy. Print verbatim «Voy a instalar uno en nuestra habitación.»\nPanel 4. Hermione stops by the shopping cart, smiling but skeptical. Pansy and Robin turn slightly toward her. Balloon from Hermione. Print verbatim «Los aparatos muggles no funcionan bien en Hogwarts.»\nPanel 5. Pansy glances back at the televisions with an amused smile, still supporting Robin. Hermione in plum coat and Jane behind the cart. No extra characters. Balloon from Pansy. Print verbatim «Para eso está la bruja más brillante de nuestra generación.»\nPanel 6. Close Robin points at the blue elephant while Pansy holds him, Hermione laughs near them, clear everyday gestures. Frame Hermione at LEFT for the first balloon, Pansy at RIGHT for the reply, their faces unobstructed. Balloon from Hermione. Print verbatim «No pienso pasar las noches viendo animales de colores.» Balloon from Pansy. Print verbatim «Dos votos contra uno.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-51b18024-c47f-450d-85b9-2c7f8e27801b.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-67135476-7835-440e-b726-da717284dcd0.png"
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "image": "paginas/c12-p031.webp",
+      "sourcePdfPages": [
+        443,
+        444,
+        445
+      ],
+      "summary": "Pansy se interesa por una licuadora. Robin encuentra un oso que canta cuando se enciende su estrella.",
+      "panels": [
+        {
+          "scene": "At the demonstration counter, an employee in a plain blue apron stands behind a closed transparent blender pitcher of fruit. Pansy approaches, with Robin securely in the Zephyr, Hermione and Jane nearby.",
+          "caption": "El siguiente descubrimiento fue la licuadora."
+        },
+        {
+          "scene": "Pansy looks at the unbranded blender with great concentration. Hermione leans on the cart handle, glass pitcher safely closed and countertop high above the pram. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed.",
+          "dialogue": [
+            "Pansy: ¿Qué hace?",
+            "Hermione: Batidos."
+          ]
+        },
+        {
+          "scene": "Jane gives Pansy a small sample cup across the clean counter. Hermione smiles and Robin stays comfortable in his stroller, no food in his hands. Frame Pansy at LEFT for the first balloon, Jane at RIGHT for the reply, their faces unobstructed.",
+          "dialogue": [
+            "Pansy: ¿Tenemos una en casa?",
+            "Jane: Sí."
+          ]
+        },
+        {
+          "scene": "A few minutes later, at the edge of the toy aisle, Jane lifts Robin from the parked Zephyr with two clear hands and supports him upright. His blue cardigan, human face and brown curls are unchanged.",
+          "caption": "Una canción suave llamó la atención de Robin."
+        },
+        {
+          "scene": "Close shelf with several ordinary plush bears. One small tawny teddy has a sewn yellow star on its belly, emitting a gentle light. Robin reaches one little hand from Jane's arms in the foreground.",
+          "dialogue": [
+            "Jane: ¿Qué ocurre, cariño?"
+          ]
+        },
+        {
+          "scene": "Jane holds Robin and offers the small cloth bear, his green eyes and small bare hands visible as he hugs it. Hermione stands beside Pansy.",
+          "dialogue": [
+            "Jane: Su abuela se lo va a regalar por Navidad."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 31\n\nPansy se interesa por una licuadora. Robin encuentra un oso que canta cuando se enciende su estrella.\nNarración: El siguiente descubrimiento fue la licuadora.\nPansy: ¿Qué hace?\nHermione: Batidos.\nPansy: ¿Tenemos una en casa?\nJane: Sí.\nNarración: Una canción suave llamó la atención de Robin.\nJane: ¿Qué ocurre, cariño?\nJane: Su abuela se lo va a regalar por Navidad.",
+      "actualPanelCount": 6,
+      "review": "El traspaso de Robin del Zephyr a Jane queda visible. El oso de estrella amarilla es claramente un juguete separado del bebé, con manos y piel humanas. Se conserva ropa, carro y supermercado.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p031.png",
+      "sha256": "f8f1d44ebc65f0d4412676ba180433d645b9aa506e28d911845a9c4d809936f4",
+      "masterSha256": "9356414c33b9b5499f7170243464ba439a89b21edde6a0063a0994fa49262e68",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current supermarket layout and winter lighting, outfits and separate faces of Jane, Hermione, Pansy and Robin, exact pram with new rubber wheels and the separate grocery cart only. Image 4 is reference for the exact sand-and-brass stroller, not older clothes or people.\nSame bright London supermarket as previous page. Winter daylight. Keep Jane's mature chestnut waves with silver temples, camel wool coat and sage scarf. Pansy keeps a plain charcoal-gray long-sleeved hoodie with a loosely wrapped dark forest-green scarf, dark-blue jeans, neat black leather boots, short black bob, narrow moss-green eyes, angular jaw, no earrings. Hermione's chestnut curls loose, brown eyes, freckles, plum wool coat and cream scarf. Oval blue sapphire on a fine platinum chain at her front. Robin is a very small human baby with curly chestnut hair, green eyes, natural tiny fingers, soft human skin, pale blue knit cardigan, cream lion-print footed pajamas. One Robin. The Zephyr is one sand-and-brass pram with a cream canopy, dark brown leather grip and four visually ordinary wheels during this outing. Jane has a separate metal grocery cart. Keep matte blue and cream store fixtures, wide clean aisles, warm lights, Christmas details and no commercial logos. Start with Robin visibly back in his same stroller and a small gray toy hippogriff on his lap. Jane lifts him with both natural hands in panel 4. Keep one human Robin distinct from the toy. No running blades exposed and no procedures.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 31» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. At the demonstration counter, an employee in a plain blue apron stands behind a closed transparent blender pitcher of fruit. Pansy approaches, with Robin securely in the Zephyr, Hermione and Jane nearby. Caption verbatim «El siguiente descubrimiento fue la licuadora.»\nPanel 2. Pansy looks at the unbranded blender with great concentration. Hermione leans on the cart handle, glass pitcher safely closed and countertop high above the pram. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed. Balloon from Pansy. Print verbatim «¿Qué hace?» Balloon from Hermione. Print verbatim «Batidos.»\nPanel 3. Jane gives Pansy a small sample cup across the clean counter. Hermione smiles and Robin stays comfortable in his stroller, no food in his hands. Frame Pansy at LEFT for the first balloon, Jane at RIGHT for the reply, their faces unobstructed. Balloon from Pansy. Print verbatim «¿Tenemos una en casa?» Balloon from Jane. Print verbatim «Sí.»\nPanel 4. A few minutes later, at the edge of the toy aisle, Jane lifts Robin from the parked Zephyr with two clear hands and supports him upright. His blue cardigan, human face and brown curls are unchanged. Caption verbatim «Una canción suave llamó la atención de Robin.»\nPanel 5. Close shelf with several ordinary plush bears. One small tawny teddy has a sewn yellow star on its belly, emitting a gentle light. Robin reaches one little hand from Jane's arms in the foreground. Balloon from Jane. Print verbatim «¿Qué ocurre, cariño?»\nPanel 6. Jane holds Robin and offers the small cloth bear, his green eyes and small bare hands visible as he hugs it. Hermione stands beside Pansy. Balloon from Jane. Print verbatim «Su abuela se lo va a regalar por Navidad.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-51b18024-c47f-450d-85b9-2c7f8e27801b.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp"
+          ],
+          "generatedMaster": "exec-b1fd2556-09e2-4402-a257-447784f8fa34.png"
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "image": "paginas/c12-p032.webp",
+      "sourcePdfPages": [
+        445,
+        446,
+        447
+      ],
+      "summary": "Robin conserva su oso mientras pagan. En el estacionamiento, Jane sorprende a Pansy con una pregunta.",
+      "panels": [
+        {
+          "scene": "At checkout the three queue with one cart. Jane keeps Robin in her arms and he hugs the bear. The empty Zephyr with cream hood is parked aside, distinct from the shopping cart.",
+          "caption": "Robin no soltó su oso al llegar a la caja."
+        },
+        {
+          "scene": "A cashier moves a plain coffee box past the fixed barcode reader on the conveyor. Pansy leans slightly toward Hermione, fascinated. Keep safe ordinary checkout, no readable prices or numbers. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed.",
+          "dialogue": [
+            "Pansy: ¿Cómo sabe cuánto cuesta?",
+            "Hermione: Por el código de barras."
+          ]
+        },
+        {
+          "scene": "The cashier uses a small hand scanner near the tag on the toy bear, angled away from Robin's eyes. Jane holds Robin safely. Pansy watches the little toy star glow.",
+          "dialogue": [
+            "Jane: No se lo vamos a quitar, cariño."
+          ]
+        },
+        {
+          "scene": "Pansy looks at Hermione across the end of the conveyor. She holds a single printed receipt with unreadable fine marks, Hermione smiles without encouraging a new machine. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed.",
+          "dialogue": [
+            "Pansy: Necesitamos uno de esos lectores.",
+            "Hermione: Ni siquiera quiero saber para qué."
+          ]
+        },
+        {
+          "scene": "Outside supermarket at winter dusk. Pansy and Hermione set paper grocery bags in the open rear cargo area of the same graphite SUV. Jane stands clear of the tailgate in camel coat.",
+          "dialogue": [
+            "Pansy: Las cápsulas van encima."
+          ]
+        },
+        {
+          "scene": "Jane beside the closed SUV tailgate, holding a single set of keys near her coat pocket. Pansy turns with clear green eyes and quiet surprise by the closed side door. Empty aisle in the parking lot, lamps reflecting in wet paving.",
+          "dialogue": [
+            "Jane: Pansy, ¿te gustaría aprender a conducir?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 32\n\nRobin conserva su oso mientras pagan. En el estacionamiento, Jane sorprende a Pansy con una pregunta.\nNarración: Robin no soltó su oso al llegar a la caja.\nPansy: ¿Cómo sabe cuánto cuesta?\nHermione: Por el código de barras.\nJane: No se lo vamos a quitar, cariño.\nPansy: Necesitamos uno de esos lectores.\nHermione: Ni siquiera quiero saber para qué.\nPansy: Las cápsulas van encima.\nJane: Pansy, ¿te gustaría aprender a conducir?",
+      "actualPanelCount": 6,
+      "review": "El oso y Robin permanecen distintos durante el pago. Se mantiene a Jane como portadora, los globos siguen su orden, y el paso al estacionamiento usa la camioneta grafito.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p032.png",
+      "sha256": "5e43bbc926636d0b12e4db201a9873192e6a43e6b052bdcb64a4c56a57fa69c9",
+      "masterSha256": "befe191042919af1dceab9081c39d194cf8246ba3f89c4e1cf267d99c06ff5f5",
+      "ocrMissingCandidates": [
+        "cuanto",
+        "cuesta",
+        "codigo",
+        "barras"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT current supermarket layout and winter lighting, outfits and separate faces of Jane, Hermione, Pansy and Robin, exact pram with new rubber wheels and the separate grocery cart only. Image 4 is reference for the exact sand-and-brass stroller, not older clothes or people. Image 5 is reference for same graphite SUV and gray reclined baby carrier only. Image 6 is reference for the exact small tawny musical bear with pale yellow star, the established light blue cardigan and cream lion-print pajamas, and the correct Jane carrying Robin.\nSame bright London supermarket as previous page. Winter daylight. Keep Jane's mature chestnut waves with silver temples, camel wool coat and sage scarf. Pansy keeps a plain charcoal-gray long-sleeved hoodie with a loosely wrapped dark forest-green scarf, dark-blue jeans, neat black leather boots, short black bob, narrow moss-green eyes, angular jaw, no earrings. Hermione's chestnut curls loose, brown eyes, freckles, plum wool coat and cream scarf. Oval blue sapphire on a fine platinum chain at her front. Robin is a very small human baby with curly chestnut hair, green eyes, natural tiny fingers, soft human skin, pale blue knit cardigan, cream lion-print footed pajamas. One Robin. The Zephyr is one sand-and-brass pram with a cream canopy, dark brown leather grip and four visually ordinary wheels during this outing. Jane has a separate metal grocery cart. Keep matte blue and cream store fixtures, wide clean aisles, warm lights, Christmas details and no commercial logos. One human Robin with blue cardigan and cream pajamas holding the same much smaller tawny teddy with yellow fabric star. Jane supports Robin throughout checkout. Final panel Robin has already been put in the same gray reclined child carrier in the parked graphite SUV, visible only if composition permits. No other children.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 32» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. At checkout the three queue with one cart. Jane keeps Robin in her arms and he hugs the bear. The empty Zephyr with cream hood is parked aside, distinct from the shopping cart. Caption verbatim «Robin no soltó su oso al llegar a la caja.»\nPanel 2. A cashier moves a plain coffee box past the fixed barcode reader on the conveyor. Pansy leans slightly toward Hermione, fascinated. Keep safe ordinary checkout, no readable prices or numbers. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed. Balloon from Pansy. Print verbatim «¿Cómo sabe cuánto cuesta?» Balloon from Hermione. Print verbatim «Por el código de barras.»\nPanel 3. The cashier uses a small hand scanner near the tag on the toy bear, angled away from Robin's eyes. Jane holds Robin safely. Pansy watches the little toy star glow. Balloon from Jane. Print verbatim «No se lo vamos a quitar, cariño.»\nPanel 4. Pansy looks at Hermione across the end of the conveyor. She holds a single printed receipt with unreadable fine marks, Hermione smiles without encouraging a new machine. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed. Balloon from Pansy. Print verbatim «Necesitamos uno de esos lectores.» Balloon from Hermione. Print verbatim «Ni siquiera quiero saber para qué.»\nPanel 5. Outside supermarket at winter dusk. Pansy and Hermione set paper grocery bags in the open rear cargo area of the same graphite SUV. Jane stands clear of the tailgate in camel coat. Balloon from Pansy. Print verbatim «Las cápsulas van encima.»\nPanel 6. Jane beside the closed SUV tailgate, holding a single set of keys near her coat pocket. Pansy turns with clear green eyes and quiet surprise by the closed side door. Empty aisle in the parking lot, lamps reflecting in wet paving. Balloon from Jane. Print verbatim «Pansy, ¿te gustaría aprender a conducir?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-51b18024-c47f-450d-85b9-2c7f8e27801b.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c08-p009-color-v2-personajes-v2.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f272efa6-7f83-432a-a89a-906a9de3062e.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b1fd2556-09e2-4402-a257-447784f8fa34.png"
+          ],
+          "error": "ImageGen no produjo una imagen"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact supermarket entrance, people, coats, infant and pram with wheels only. Image 4 is reference for exact graphite SUV and reclining infant seat only. Image 5 is reference for same small tawny star bear and Jane's way of holding the distinct blue-cardigan Robin only.\nSame bright London supermarket as previous page. Winter daylight. Keep Jane's mature chestnut waves with silver temples, camel wool coat and sage scarf. Pansy keeps a plain charcoal-gray long-sleeved hoodie with a loosely wrapped dark forest-green scarf, dark-blue jeans, neat black leather boots, short black bob, narrow moss-green eyes, angular jaw, no earrings. Hermione's chestnut curls loose, brown eyes, freckles, plum wool coat and cream scarf. Oval blue sapphire on a fine platinum chain at her front. Robin is a very small human baby with curly chestnut hair, green eyes, natural tiny fingers, soft human skin, pale blue knit cardigan, cream lion-print footed pajamas. One Robin. The Zephyr is one sand-and-brass pram with a cream canopy, dark brown leather grip and four visually ordinary wheels during this outing. Jane has a separate metal grocery cart. Keep matte blue and cream store fixtures, wide clean aisles, warm lights, Christmas details and no commercial logos. One human Robin with blue cardigan and cream pajamas holding the same much smaller tawny teddy with yellow fabric star. Jane supports Robin throughout checkout. Final panel Robin has already been put in the same gray reclined child carrier in the parked graphite SUV, visible only if composition permits. No other children.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 32» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. At checkout the three queue with one cart. Jane keeps Robin in her arms and he hugs the bear. The empty Zephyr with cream hood is parked aside, distinct from the shopping cart. Caption verbatim «Robin no soltó su oso al llegar a la caja.»\nPanel 2. A cashier moves a plain coffee box past the fixed barcode reader on the conveyor. Pansy leans slightly toward Hermione, fascinated. Keep safe ordinary checkout, no readable prices or numbers. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed. Balloon from Pansy. Print verbatim «¿Cómo sabe cuánto cuesta?» Balloon from Hermione. Print verbatim «Por el código de barras.»\nPanel 3. The cashier uses a small hand scanner near the tag on the toy bear, angled away from Robin's eyes. Jane holds Robin safely. Pansy watches the little toy star glow. Balloon from Jane. Print verbatim «No se lo vamos a quitar, cariño.»\nPanel 4. Pansy looks at Hermione across the end of the conveyor. She holds a single printed receipt with unreadable fine marks, Hermione smiles without encouraging a new machine. Frame Pansy at LEFT for the first balloon, Hermione at RIGHT for the reply, their faces unobstructed. Balloon from Pansy. Print verbatim «Necesitamos uno de esos lectores.» Balloon from Hermione. Print verbatim «Ni siquiera quiero saber para qué.»\nPanel 5. Outside supermarket at winter dusk. Pansy and Hermione set paper grocery bags in the open rear cargo area of the same graphite SUV. Jane stands clear of the tailgate in camel coat. Balloon from Pansy. Print verbatim «Las cápsulas van encima.»\nPanel 6. Jane beside the closed SUV tailgate, holding a single set of keys near her coat pocket. Pansy turns with clear green eyes and quiet surprise by the closed side door. Empty aisle in the parking lot, lamps reflecting in wet paving. Balloon from Jane. Print verbatim «Pansy, ¿te gustaría aprender a conducir?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-51b18024-c47f-450d-85b9-2c7f8e27801b.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p012.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b1fd2556-09e2-4402-a257-447784f8fa34.png"
+          ],
+          "generatedMaster": "exec-e3aba03d-ed3b-45c5-a1e2-e6eaf0211a2a.png"
+        }
+      ]
+    }
+  ]
+}

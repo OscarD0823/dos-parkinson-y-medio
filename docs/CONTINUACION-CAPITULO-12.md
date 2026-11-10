@@ -71,3 +71,14 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 28 | 440–441 | Jane sale a hacer las compras navideñas con Hermione, Pansy y Robin. Las puertas automáticas intrigan a Pansy. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-25-28.json).
+
+## Páginas 29–32
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 29 | 441–442 | Pansy descubre el pasillo del café y encuentra en Jane una aliada para elegir las cápsulas. |
+| 30 | 442–443 | Pansy y Robin quedan fascinados con los televisores. Hermione recibe dos votos en contra. |
+| 31 | 443–444–445 | Pansy se interesa por una licuadora. Robin encuentra un oso que canta cuando se enciende su estrella. |
+| 32 | 445–446–447 | Robin conserva su oso mientras pagan. En el estacionamiento, Jane sorprende a Pansy con una pregunta. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-29-32.json).
