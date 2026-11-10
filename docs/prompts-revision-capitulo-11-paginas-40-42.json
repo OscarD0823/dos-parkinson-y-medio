@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-09",
+  "tool": "ImageGen integrada",
+  "reason": "El capítulo 8 del PDF fija los ojos azules de James y Ginny. Robin tiene los ojos verdes.",
+  "pages": [
+    {
+      "chapter": 11,
+      "page": 40,
+      "original": "paginas/c11-p040-james-v2.webp",
+      "image": "paginas/c11-p040-ginny-v3.webp",
+      "workingMaster": ".local/maestros/revision-continuidad-capitulo-11-2026-11-09/c11-p040-ginny-v3.png",
+      "panels": 6,
+      "review": "Ginny recupera los ojos azules y James conserva los suyos. Los ojos de Robin se mantienen verdes. Se revisaron los seis cuadros y el texto.",
+      "sourcePdfPages": [
+        385,
+        386
+      ],
+      "transcript": "Capítulo 11 · 40\n\nPansy se encarga de Robin. Al atardecer, los amigos bromean sobre la tardanza y hablan de las vacaciones.\nPansy: Yo me encargo de él esta mañana.\nNarración: Al atardecer, el grupo se reunió junto al fuego.\nGinny: ¡Y cincuenta puntos por aparecer a las diez!\nTheo: Les falta instinto de supervivencia.\nNarración: Pansy no habría cambiado aquella mañana.\nNarración: Solo faltaba una semana para las vacaciones de Navidad.",
+      "prompt": "Make an extremely local precision edit to the FIRST finished six-panel Spanish comic «Capítulo 11 · 40». The second page is a color swatch solely for the blue iris of long copper-red-haired Ginny, seen in its second row on the right. On the FIRST page, Ginny is the red-haired student on the LEFT of panel 3, under «¡Y cincuenta puntos por aparecer a las diez!», holding a brass cup. Recolor only the small visible green iris of adult-sized Ginny to her original medium blue, preserving pupil, shape, eyelashes, position and expression. The black-curly baby James beside her in cream has already been correctly revised to blue; leave his eyes, Robin's moss-green eyes, Theo and the two twins and everyone else exactly as they are. Preserve all people, clothing, proportions, all six panel shapes, exact text and accents, hearth, lake windows and gold room details. Full 1024×1536 page. No additions.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/revision-james-2026-11-09/c11-p040-james-v2.png",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-11-continuacion-2026-11-08/c11-p041.png"
+      ],
+      "sha256": "c21be4338c088729ccfe05238239b63d3ca5c6827083d504c1f2254db4fdfc6f",
+      "masterSha256": "4abc5071e55c8a37928d5bb44769a88ffe65b80cfd99a550aa71d7d30dd4e506",
+      "ocrMissingCandidates": []
+    },
+    {
+      "chapter": 11,
+      "page": 41,
+      "original": "paginas/c11-p041.webp",
+      "image": "paginas/c11-p041-james-v2.webp",
+      "workingMaster": ".local/maestros/revision-continuidad-capitulo-11-2026-11-09/c11-p041-james-v2.png",
+      "panels": 7,
+      "review": "James recupera los ojos azules en brazos de Ginny. Se conservan las siete viñetas, los otros bebés y los diálogos.",
+      "sourcePdfPages": [
+        386,
+        387
+      ],
+      "transcript": "Capítulo 11 · 41\n\nLos amigos comparten sus planes de Navidad. Hermione invita a Pansy y a Robin a conocer a sus padres.\nAstoria: Primero Londres y luego los Alpes franceses.\nLuna: Los gemelos conocerán los bosques de Suecia.\nTracey: Navidad con los Hopkins. Después iremos a Brasil.\nBlaise: Nosotros iremos a Amalfi.\nGinny: Visitaremos a Charlie y sus dragones en Rumanía.\nPansy: Mis padres suelen preferir Suiza.\nHermione: Mis padres quieren conocerte. A ti y a Robin.",
+      "prompt": "Use the FIRST image as the precise edit target, a completely finished 1024×1536 Spanish comic page Capítulo 11 · 41. The second image is the original appearance of James Sirius Potter, the infant with black hair in Ginny's arms. Use image 2 strictly as an iris color swatch, never as a layout, clothing or hairstyle reference. Match James's original sky-blue irises on image 1. The baby James appears only in panel 5, the right panel in row 2 under «Visitaremos a Charlie y sus dragones en Rumanía.» He has dark black curls, cream knit clothes, and is in red-haired Ginny's arms. Tint only his tiny irises clear blue. Preserve the brown-curly baby Robin in NAVY with moss green eyes at the bottom, and all other characters and infants exactly. Identical complete page, every panel, margins, lettering, Spanish accents, background, costumes, hands and poses. Change only the named tiny irises. Keep the proportions 1024×1536. No added text or signature.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-11-continuacion-2026-11-08/c11-p041.png",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c08-p009-color-v2-personajes-v2.webp"
+      ],
+      "sha256": "52bff40a742706e1fbccc811b5dde3ad09521a2054ced7d57fdb3e514d4f4457",
+      "masterSha256": "7ebc4f708f2a9168f228e44aa059827ee6d721beb7cdca2ac71bcbdd8ba09c4a",
+      "ocrMissingCandidates": []
+    },
+    {
+      "chapter": 11,
+      "page": 42,
+      "original": "paginas/c11-p042.webp",
+      "image": "paginas/c11-p042-james-v2.webp",
+      "workingMaster": ".local/maestros/revision-continuidad-capitulo-11-2026-11-09/c11-p042-james-v2.png",
+      "panels": 7,
+      "review": "Ginny y James mantienen ojos azules. Robin conserva pelo castaño, ropa azul y ojos verdes en las tres vistas. Se verificaron los siete cuadros y el texto.",
+      "sourcePdfPages": [
+        387,
+        388,
+        389,
+        390
+      ],
+      "transcript": "Capítulo 11 · 42\n\nLa visita a los Granger pone nerviosa a Pansy. Los amigos bromean con el recuerdo de Krum.\nPansy: ¿Tus padres?\nDaphne: ¡Pansy Parkinson va a conocer a sus suegros!\nAstoria: ¿Y qué suelen hacer en Navidad?\nHermione: Vemos las luces de Londres y visitamos museos.\nGinny: La mamá de Hermione te va a adorar. Malcolm es un poco más protector.\nGinny: Basta recordar cuando Hermione salía con Krum.\nHermione: Fue en cuarto. Al final, yo prefería mis libros.\nBlaise: Es oficial, la perdimos.",
+      "prompt": "Extremely local eye-color edit to the FIRST completed seven-panel page «Capítulo 11 · 42», 1024×1536. Reference two is used only for blue in the eyes of copper-haired Ginny and green in the eyes of Robin, never for layout or composition. In panels 4 and 5, Ginny is the copper-red-haired older student speaking about Hermione's parents and Krum. Her visible iris color should be medium sky BLUE. In panel 6 (wide second-to-last panel under «Fue en cuarto...»), Robin is the chestnut-curly small baby wearing NAVY held by Hermione. His currently cyan irises should be MOSS GREEN, matching his own eyes in panels 1 and 3 of this very page. In panel 4 leave the black-curly infant James in CREAM with the exact corrected blue eyes. Preserve every panel and all words, accents, outfits, faces, anatomy, fireplace and scene geometry. Tiny iris changes ONLY. No additional lettering.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9a166126-7208-451a-b639-371f16989e41.png",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-11-continuacion-2026-11-08/c11-p041.png"
+      ],
+      "sha256": "026f2eca8c3e1eb84b42b03afcc7e9b4bc6df78c89159fa8eaf5e72575f2826c",
+      "masterSha256": "2068100878681dfe17fcf0dbce96495822942667d45d20e7379b0d5dfbae85b7",
+      "ocrMissingCandidates": [
+        "pansy",
+        "preferia"
+      ]
+    }
+  ]
+}
