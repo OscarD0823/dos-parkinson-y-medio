@@ -37,3 +37,14 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 15 | 412–413–414 | Pansy descubre la casa sin magia, los recuerdos de Hermione y la calidez de los Granger. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-13-15.json).
+
+## Páginas 16–19
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 16 | 414–415–416 | Jane muestra la habitación de invitados. Cuando Pansy se queda sola, aparece Crookshanks. |
+| 17 | 416–417–418 | Malcolm trae un baúl y hace sentir bienvenida a Pansy. Crookshanks decide que el equipaje es suyo. |
+| 18 | 418–419–420–421 | Pansy admite que se siente a gusto en casa de Hermione. Crookshanks abandona el baúl y se instala cerca de ellas. |
+| 19 | 421–422–423–424 | En la cena, Pansy explica los encantamientos del Zephyr y descubre el interés de Malcolm por la magia. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-16-19.json).
