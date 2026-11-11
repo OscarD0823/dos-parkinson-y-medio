@@ -222,3 +222,13 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 92 | 566–567 | Pansy cuenta la costumbre que rompieron sus padres y explica que mandó diseñar el anillo para Hermione como una promesa propia. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-89-92.json).
+
+## Páginas 93–95
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 93 | 567–568 | Pansy elige a Hermione y Robin como su familia. Le entrega el anillo de promesa y dice que la ama. |
+| 94 | 568–569 | Hermione corresponde con un beso breve. Robin vuelve a decir mamá y, horas después, la familia descansa con los pijamas rojos. |
+| 95 | 569–570–571 | Preparan la salida al traslador y la reunión en Amalfi. Bajo el muérdago, Hermione y Pansy se desean una feliz Navidad. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-93-95.json).

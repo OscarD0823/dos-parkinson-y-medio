@@ -29,6 +29,12 @@ Los bebés son mágicos dentro del proyecto escolar, pero conservan apariencia h
 
 El collar regalado a Hermione es un zafiro oval azul medianoche con halo de diamantes claros, montura y cadena fina de platino blanco. El colgante cae sobre la parte frontal del pecho. En una vista de espaldas puede quedar oculto; no se traslada a la espalda ni al hombro. Pansy mantiene su pequeño diamante propio y las orejas sin joyas. En los recuerdos de la gala se conserva también el vestuario de los invitados, incluido el vestido lavanda de manga larga y pelo rubio suelto con flores de Daphne y el traje azul de terciopelo de Blaise.
 
+## Continuidad de Navidad y de las joyas
+
+Desde la página 72 del capítulo 12, Hermione lleva un suéter rojo, Pansy verde bosque y Robin burdeos con pantalones crema. Los tres tienen un reno pequeño bordado en hilo dorado. Hermione recoge sus rizos en un moño suelto. Pansy usa un pasador fino de oro y diamantes sobre su oreja izquierda anatómica, manteniendo las orejas sin pendientes. Al final de la página 94 cambian a pijamas rojos largos con iniciales H, P y R.
+
+Desde la página 86, Pansy conserva en la muñeca izquierda una cadena fina de oro blanco con las letras H, R y P. Desde la página 93, Hermione lleva un anillo de promesa: diamante oval incoloro con halo de piedras claras y aro fino blanco, distinto de su zafiro azul frontal. Se fija el anular izquierdo como decisión de continuidad gráfica; el PDF no especifica mano ni dedo. Mantener un solo anillo y un solo brazalete. [Entrega y primeros planos](prompts-capitulo-12-paginas-93-95.json).
+
 ## Qué cambió y por qué
 
 La comparación visual muestra que Pansy fue adquiriendo mejillas más redondas, ojos más grandes y un corte de pelo abombado. En Hermione se suavizaron los rasgos y varió el volumen y acabado del cabello. Hay variaciones menores incluso entre páginas del capítulo 1.
