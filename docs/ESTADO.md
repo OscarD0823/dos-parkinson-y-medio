@@ -16,11 +16,11 @@ La obra tiene 13 capítulos originales. Las páginas previstas son una estimaci�
 | 10 | Rivales | 44 | 44 |
 | 11 | Anatomía de un Rumor | 44 | 44 |
 | 12 | Parkinson's Christmas | 99 | 99 |
-| 13 | La Dolce Vita | 88 | 8 |
+| 13 | La Dolce Vita | 88 | 12 |
 
 Herramienta: ImageGen integrada. Las imágenes publicadas se revisan antes de incorporarlas. La portada no cuenta como página de capítulo.
 
-Total: **410 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
+Total: **414 páginas ilustradas**. El 3 de noviembre de 2026 se compararon las 174 páginas de los capítulos 2–8 y 1–14 del 9 pendientes en la nueva revisión de identidad. Se incorporaron 66 correcciones de ese tramo y una mejora adicional del capítulo 1, página 13. Se conservan el recuento de páginas y sus transcripciones.
 
 La revisión del 3 de noviembre dejó 11 correcciones pendientes por el límite de uso de ImageGen y cinco páginas cuya edición fue rechazada por la herramienta. El [registro histórico](REVISION-CAPITULOS-02-09.md) enumera los casos originales.
 
@@ -50,4 +50,4 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 
 Se revisan otra vez las páginas56 y65 tras la observación del usuario sobre el tamaño del capó abierto y de la carga. Se fija el mismo auto abierto/cerrado a igual escala: tapa curva más contenida, abertura baja entre guardabarros, bolsas de tamaño normal y geometría exterior constante. Las versionesv4 se conservan como historial. [Registro de la geometría del automóvil](prompts-correccion-geometria-auto-capitulo-12-paginas-56-65-v5.json).
 
-El capítulo 13 llega a 8 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-13.md).
+El capítulo 13 llega a 12 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-13.md).

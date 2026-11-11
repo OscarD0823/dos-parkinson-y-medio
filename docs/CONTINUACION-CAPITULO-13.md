@@ -23,3 +23,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 8 | 578 | Daphne y Chiara ven el anillo. Tras felicitar un supuesto compromiso, Pansy aclara que es una promesa; siguen las bromas sobre el diamante. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-05-08.json).
+
+## Páginas 9–12
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 9 | 579 | Daphne bromea sobre el diamante y Chiara propone celebrar la promesa con una cena familiar. Pansy defiende la privacidad y Robin atrae la atención. |
+| 10 | 580 | Robin repite mamá. Hermione cuenta cómo empezó a llamar así a las dos en Navidad; Daphne y Chiara lo celebran, hasta oír a Blaise en el corredor. |
+| 11 | 581–582 | Blaise llega con Arianna en conjuntos de lino oliva y saluda con una reverencia teatral. Chiara recibe a su nieta. |
+| 12 | 582 | Chiara saluda a Arianna. Blaise abraza a Pansy y las amigas lo hacen bromear sobre sus discusiones con los cocineros y una cuchara. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-09-12.json).
