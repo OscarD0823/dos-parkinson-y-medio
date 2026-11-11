@@ -1,0 +1,155 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-11",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "placement": {
+    "after": 71,
+    "before": 72
+  },
+  "editorialReview": "Ampliación romántica de diálogo y reflexión elegida por el usuario. Páginas intermedias estables sin renumerar las existentes. No se representan actos sexuales. La confesión de enamoramiento se condensa y las cartelas sintetizan los pensamientos del texto.",
+  "pages": [
+    {
+      "page": "71a",
+      "chapter": 12,
+      "image": "paginas/c12-p071a.webp",
+      "sourcePdfPages": [
+        536,
+        537
+      ],
+      "summary": "Hermione prolonga sus cumplidos. Pansy reconoce su enamoramiento y la inseguridad que acompaña sus sentimientos; ambas se ríen de sus nervios.",
+      "panels": [
+        {
+          "scene": "Hermione at LEFT speaks warmly to Pansy at RIGHT, standing beside the green chair, fully dressed exactly as reference. Her hands rest by her own sides, sapphire front, two individual faces.",
+          "dialogue": [
+            "Hermione: También lo pensé cuando conducías. Y ahora no consigo pensar en otra cosa."
+          ]
+        },
+        {
+          "scene": "Pansy looks shyly pleased by the compliment, ordinary close portrait of face and closed navy collar, narrow green eyes and angular jaw preserved.",
+          "dialogue": [
+            "Pansy: Consigues que me enamore todavía más de ti."
+          ]
+        },
+        {
+          "scene": "Pansy smiles a little more and adds the source's admission while Hermione listens from a comfortable distance, original clothes unchanged.",
+          "dialogue": [
+            "Pansy: Pero, sea lo que sea, lo lograste."
+          ]
+        },
+        {
+          "scene": "Hermione answers only with a kind smile, brown eyes and freckles, hands loosely resting together at her own lap while standing. Warm shaded lamp and snowy window behind.",
+          "caption": "Hermione le respondió con una sonrisa."
+        },
+        {
+          "scene": "Pansy glances down thoughtfully, her own hands loosely clasped in front of her robe, conversational distance from Hermione, no contact.",
+          "dialogue": [
+            "Pansy: Nunca me había sentido tan insegura."
+          ]
+        },
+        {
+          "scene": "Pansy raises one eyebrow at her own unusual nervousness, small natural hand gesture toward herself, Hermione smiles beside green chair.",
+          "dialogue": [
+            "Pansy: Es una combinación bastante irritante."
+          ]
+        },
+        {
+          "scene": "The two women laugh softly at the awkward admission while standing separately, same clothes and original faces, warm room and snow, only normal conversational gestures.",
+          "caption": "La torpeza terminó haciéndolas reír."
+        }
+      ],
+      "transcript": "Capítulo 12 · 71a\n\nHermione prolonga sus cumplidos. Pansy reconoce su enamoramiento y la inseguridad que acompaña sus sentimientos; ambas se ríen de sus nervios.\nHermione: También lo pensé cuando conducías. Y ahora no consigo pensar en otra cosa.\nPansy: Consigues que me enamore todavía más de ti.\nPansy: Pero, sea lo que sea, lo lograste.\nNarración: Hermione le respondió con una sonrisa.\nPansy: Nunca me había sentido tan insegura.\nPansy: Es una combinación bastante irritante.\nNarración: La torpeza terminó haciéndolas reír.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas completas y OCR de apoyo. Conversación afectiva sin contacto: confesión, inseguridad y risas; Pansy con bata cerrada y Hermione gris, mismos rostros, manos, cuarto, zafiro y sin joyas futuras. Texto y acentos revisados.",
+      "workingMaster": ".local/maestros/intermedias-capitulo-12-2026-11-11/c12-p071a.png",
+      "selectedAttempt": "c12_p071_a_r2.json",
+      "sha256": "54530cf986bcf8b45c6e2f502674924b19823db1ac68601afb3151a20b50b193",
+      "masterSha256": "7f368942980804e4589baa34a3446e74eb73ef99df4faf4fcbfe9ee86dc9394b",
+      "ocrMissingCandidates": [
+        "combinacion",
+        "bastante",
+        "irritante",
+        "torpeza",
+        "termino",
+        "haciendolas"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "error": "El primer planteamiento fue rechazado por moderación; se cambió materialmente la acción a una conversación sin contacto físico."
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact bedroom, gray full pajamas and securely closed navy robe only. Image 4 is reference for original facial proportions, same hairstyles and ordinary fully clothed conversation; continue after Harrods compliment.\nAn ordinary quiet conversation in the SAME Granger guest room: walnut bed/forest-green duvet in background, cream walls, oak door/wardrobe, russet rug, small warm lamp, pitcher/pine sprig, green chair with cream towel, snow outside. Hermione original brown eyes, freckles and loose chestnut curls, FULL opaque gray long-sleeved pajama top and full gray trousers, blue sapphire on fine white platinum chain at front. Pansy original angular chin, narrow green eyes, sleek straight side-parted chin black bob, bare ears, FULL opaque navy long-sleeved ankle-length house robe closed high and securely tied, plain slippers. No later gift jewelry: no finger rings, wrist bracelet or hairclip. They stand a comfortable conversational distance apart throughout, hands at own sides or naturally gesturing, ordinary calm posture. Page shows ONLY dialogue and facial reactions, with no physical contact between them. Robin is away with the grandparents and absent.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 71a» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione at LEFT speaks warmly to Pansy at RIGHT, standing beside the green chair, fully dressed exactly as reference. Her hands rest by her own sides, sapphire front, two individual faces. Balloon from Hermione. Print verbatim «También lo pensé cuando conducías. Y ahora no consigo pensar en otra cosa.»\nPanel 2. Pansy looks shyly pleased by the compliment, ordinary close portrait of face and closed navy collar, narrow green eyes and angular jaw preserved. Balloon from Pansy. Print verbatim «Consigues que me enamore todavía más de ti.»\nPanel 3. Pansy smiles a little more and adds the source's admission while Hermione listens from a comfortable distance, original clothes unchanged. Balloon from Pansy. Print verbatim «Pero, sea lo que sea, lo lograste.»\nPanel 4. Hermione answers only with a kind smile, brown eyes and freckles, hands loosely resting together at her own lap while standing. Warm shaded lamp and snowy window behind. Caption verbatim «Hermione le respondió con una sonrisa.»\nPanel 5. Pansy glances down thoughtfully, her own hands loosely clasped in front of her robe, conversational distance from Hermione, no contact. Balloon from Pansy. Print verbatim «Nunca me había sentido tan insegura.»\nPanel 6. Pansy raises one eyebrow at her own unusual nervousness, small natural hand gesture toward herself, Hermione smiles beside green chair. Balloon from Pansy. Print verbatim «Es una combinación bastante irritante.»\nPanel 7. The two women laugh softly at the awkward admission while standing separately, same clothes and original faces, warm room and snow, only normal conversational gestures. Caption verbatim «La torpeza terminó haciéndolas reír.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-da4a2ea6-f766-4c00-9d8f-86ccd38d378a.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-be192073-7b22-48d6-8bc7-2a19db00dc84.png"
+          ],
+          "generatedMaster": "exec-c3e3d36d-fa69-41a1-9342-3b9c5f9ab8ab.png"
+        }
+      ]
+    },
+    {
+      "page": "71b",
+      "chapter": 12,
+      "image": "paginas/c12-p071b.webp",
+      "sourcePdfPages": [
+        545,
+        546
+      ],
+      "summary": "Pansy recuerda cómo el duelo y la vida compartida con Robin cambiaron su relación con Hermione. Reconoce la confianza que ha aprendido a sentir a su lado.",
+      "panels": [
+        {
+          "scene": "Close Pansy's ordinary thoughtful face looking toward Hermione beside her, fine angular jaw, narrow green eyes, closed navy collar. Warm tender PG expression, no sensuality.",
+          "caption": "La certeza llevaba tiempo creciendo dentro de ella."
+        },
+        {
+          "scene": "Small soft sepia/cream-edged MEMORY of the established classroom duel from reference5: Hermione and Pansy in black school robes and their own red/green ties hold wands across a cluttered stone classroom. One faint spell flare between wands, no injuries, no new people or printed words.",
+          "caption": "Hasta aquel absurdo duelo en Transformaciones las había llevado hasta allí."
+        },
+        {
+          "scene": "Soft cream-edged earlier FAMILY MEMORY copied from reference4's first panel: Hermione with hair in loose bun and gray sweater holds ONE HUMAN Robin in cream lion sleeper with natural tiny hands, Pansy in green long knit stands beside empty sand/gold Zephyr being taken from trunk. This is clearly the earlier visit, NOT present night. No duplicate baby.",
+          "caption": "Cada mañana compartida con Robin las había acercado."
+        },
+        {
+          "scene": "Return to PRESENT NIGHT: Hermione loose chestnut curls and full gray pajamas smiles at Pansy in securely closed full navy robe, two hands loosely joined between them. Same bedroom, no child.",
+          "caption": "Con Hermione había aprendido a bajar la guardia."
+        },
+        {
+          "scene": "One ordinary gentle fully clothed standing embrace beside the green chair: shoulders and covered upper bodies only, normal calm posture, kind faces. Both hands rest at upper back/shoulder, no torso/waist focus, no reclining or bed scene.",
+          "caption": "Había palabras que Pansy todavía no se atrevía a pronunciar."
+        },
+        {
+          "scene": "Quiet snowy London view THROUGH the same guest room window, small lamp/pitcher/pine sprig on sill inside and snow covering neighboring rooflines outside. NO people or silhouettes visible, no other action.",
+          "caption": "Afuera, la nieve continuaba cayendo sobre Londres."
+        }
+      ],
+      "transcript": "Capítulo 12 · 71b\n\nPansy recuerda cómo el duelo y la vida compartida con Robin cambiaron su relación con Hermione. Reconoce la confianza que ha aprendido a sentir a su lado.\nNarración: La certeza llevaba tiempo creciendo dentro de ella.\nNarración: Hasta aquel absurdo duelo en Transformaciones las había llevado hasta allí.\nNarración: Cada mañana compartida con Robin las había acercado.\nNarración: Con Hermione había aprendido a bajar la guardia.\nNarración: Había palabras que Pansy todavía no se atrevía a pronunciar.\nNarración: Afuera, la nieve continuaba cayendo sobre Londres.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas completas y OCR completo: reflexión, duelo de2p8 y memoria de12p19 claramente diferenciados. Robin solo en recuerdo, humano, no en presente; mismo cuarto/ropa y abrazo cotidiano completamente vestidos. Texto íntegro.",
+      "workingMaster": ".local/maestros/intermedias-capitulo-12-2026-11-11/c12-p071b.png",
+      "selectedAttempt": "c12_p071_b.json",
+      "sha256": "81051381ee70bf8f3f6ebfae62ecbc1abeba135472156649c8aa358cf23c68e5",
+      "masterSha256": "dff435ffe28aa73cef46dc78a10ad091c3cda9dfa0209036a49c7e3d7635f464",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact current-night bedroom, original faces, gray full pajamas and high closed navy robe. Image 4 is reference for ONLY the earlier FAMILY MEMORY in panel3: Hermione gray sweater/bun holds smooth HUMAN Robin in cream lion sleeper, Pansy green sweater and empty sand/gold Zephyr beside trunk. Image 5 is reference for ONLY the earlier DUEL MEMORY in panel2: exact classroom, black school robes and red/green house colors, existing magic/wand positions, no new dialogue.\nContinue the original Granger guest bedroom on the SAME snowy evening after comic page71: walnut bed with tidy forest-green duvet, cream walls, oak door/wardrobe, russet rug, warm small shaded lamp, pitcher/pine sprig, green reading chair with cream towel, snowy window. Same ORIGINAL Hermione brown eyes, freckles, abundant loose chestnut curls, opaque FULL gray long-sleeved pajama top and long gray trousers, original oval midnight-blue sapphire/clear halo on thin WHITE PLATINUM chain FRONT. Same ORIGINAL Pansy angular tapered jaw, narrow moss-green eyes, sleek chin-length side-parted BLACK bob, bare ears, ordinary opaque FULL-LENGTH navy house robe completely CLOSED HIGH and FIRMLY TIED, full long sleeves and dark slippers. Skin only ordinary face and hands. No rings, wrist bracelets or hairclip yet (those are later Christmas gifts). Gentle PG teen romance: fully clothed ordinary standing posture, kind expressions, modest gestures and at most ONE brief closed-mouth kiss, no sexual activity, undressing, arousal, steam, wet skin, suggestive framing or body emphasis. They remain beside the bed/chair, not lying together on the bed. Robin remains AWAY with grandparents and is never in this present room. Same hands/anatomy, two arms each, no additional people. ONLY panels2and3 are clearly faded cream-edged MEMORIES of earlier ordinary school/family events, not present-night action. Panel2 uniforms from source duel; panel3 exact earlier gray/green clothes and HUMAN Robin in cream lion sleeper from reference4. Present night clothing remains full gray/navy in panels1,4,5; Robin absent in present.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 71b» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Close Pansy's ordinary thoughtful face looking toward Hermione beside her, fine angular jaw, narrow green eyes, closed navy collar. Warm tender PG expression, no sensuality. Caption verbatim «La certeza llevaba tiempo creciendo dentro de ella.»\nPanel 2. Small soft sepia/cream-edged MEMORY of the established classroom duel from reference5: Hermione and Pansy in black school robes and their own red/green ties hold wands across a cluttered stone classroom. One faint spell flare between wands, no injuries, no new people or printed words. Caption verbatim «Hasta aquel absurdo duelo en Transformaciones las había llevado hasta allí.»\nPanel 3. Soft cream-edged earlier FAMILY MEMORY copied from reference4's first panel: Hermione with hair in loose bun and gray sweater holds ONE HUMAN Robin in cream lion sleeper with natural tiny hands, Pansy in green long knit stands beside empty sand/gold Zephyr being taken from trunk. This is clearly the earlier visit, NOT present night. No duplicate baby. Caption verbatim «Cada mañana compartida con Robin las había acercado.»\nPanel 4. Return to PRESENT NIGHT: Hermione loose chestnut curls and full gray pajamas smiles at Pansy in securely closed full navy robe, two hands loosely joined between them. Same bedroom, no child. Caption verbatim «Con Hermione había aprendido a bajar la guardia.»\nPanel 5. One ordinary gentle fully clothed standing embrace beside the green chair: shoulders and covered upper bodies only, normal calm posture, kind faces. Both hands rest at upper back/shoulder, no torso/waist focus, no reclining or bed scene. Caption verbatim «Había palabras que Pansy todavía no se atrevía a pronunciar.»\nPanel 6. Quiet snowy London view THROUGH the same guest room window, small lamp/pitcher/pine sprig on sill inside and snow covering neighboring rooflines outside. NO people or silhouettes visible, no other action. Caption verbatim «Afuera, la nieve continuaba cayendo sobre Londres.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-da4a2ea6-f766-4c00-9d8f-86ccd38d378a.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p019.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c02-p008.webp"
+          ],
+          "generatedMaster": "exec-b941ec87-f931-4e47-925d-1fafd81bfe19.png"
+        }
+      ]
+    }
+  ]
+}

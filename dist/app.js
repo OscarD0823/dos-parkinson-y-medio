@@ -11,11 +11,22 @@
   let activeTurn, gesture, suppressTouchClickUntil = 0;
   const storageKey = 'dos-parkinson-y-medio:lectura:v1';
   const available = () => book.chapters.filter(c => c.pages.length);
+  const pageToken = (c,index) => String(c.pages[index]?.number ?? index+1);
+  const pageIndexFor = (c,value) => {
+    const token=String(value ?? '').toLowerCase();
+    const exact=c.pages.findIndex(p=>String(p.number).toLowerCase()===token);
+    if(exact>=0)return exact;
+    const number=Math.max(1,Math.floor(Number(value)||1));
+    const numbered=c.pages.filter(p=>typeof p.number==='number'&&Number.isFinite(p.number));
+    const nearest=numbered.find(p=>p.number>=number)||numbered.at(-1);
+    return Math.max(0,c.pages.indexOf(nearest));
+  };
   const saved = () => { try { return JSON.parse(localStorage.getItem(storageKey) || 'null'); } catch { return null; } };
-  const save = () => { try { localStorage.setItem(storageKey,JSON.stringify({chapter:chapter.number,page:pageIndex+1,mode})); } catch {} };
+  const save = () => { try { localStorage.setItem(storageKey,JSON.stringify({chapter:chapter.number,page:pageIndex+1,pageId:pageToken(chapter,pageIndex),mode})); } catch {} };
   const element = (tag, className, text) => { const e=document.createElement(tag); if(className)e.className=className;if(text!==undefined)e.textContent=text;return e; };
   const route = (number,index=0,newMode=mode,replace=false,turnDirection=0) => {
-    const hash=`#capitulo=${number}&pagina=${index+1}&modo=${newMode}`;
+    const target=book.chapters.find(c=>c.number===number);
+    const hash=`#capitulo=${number}&pagina=${encodeURIComponent(target?pageToken(target,index):String(index+1))}&modo=${newMode}`;
     if(replace){history.replaceState(null,'',hash);readRoute(turnDirection);}
     else if(location.hash===hash)readRoute(turnDirection);else{history.pushState(history.state,'',hash);readRoute(turnDirection);}
   };
@@ -58,7 +69,7 @@
     const progress=saved();const resumable=progress&&available().some(c=>c.number===progress.chapter);
     ui.empezar.disabled=!total;
     ui.empezar.textContent=total?(resumable?'Continuar leyendo →':'Empezar a leer →'):'Preparando las primeras páginas';
-    ui.empezar.onclick=()=>{if(resumable){const c=book.chapters.find(c=>c.number===progress.chapter);route(c.number,Math.min(Math.max(0,Number(progress.page)-1||0),c.pages.length-1),progress.mode==='vertical'?'vertical':'pagina');}else if(available().length)route(available()[0].number);};
+    ui.empezar.onclick=()=>{if(resumable){const c=book.chapters.find(c=>c.number===progress.chapter);route(c.number,pageIndexFor(c,progress.pageId??progress.page),progress.mode==='vertical'?'vertical':'pagina');}else if(available().length)route(available()[0].number);};
   }
   function showLibrary(){
     cancelPageTurn();gesture=null;
@@ -78,7 +89,7 @@
     ui['zoom-title'].textContent=`Capítulo ${chapter.number} · Página ${p.number}`;
     for(const [id,direction] of [['zoom-previous',-1],['zoom-next',1]]){
       const destination=pageDestination(direction,index);ui[id].disabled=!destination;
-      ui[id].setAttribute('aria-label',destination?.chapter!==chapter&&destination?`${direction>0?'Siguiente capítulo':'Capítulo anterior'}: ${destination.chapter.title}`:`Página ${direction>0?'siguiente':'anterior'}${destination?`, página ${destination.index+1}`:''}`);
+      ui[id].setAttribute('aria-label',destination?.chapter!==chapter&&destination?`${direction>0?'Siguiente capítulo':'Capítulo anterior'}: ${destination.chapter.title}`:`Página ${direction>0?'siguiente':'anterior'}${destination?`, página ${pageToken(destination.chapter,destination.index)}`:''}`);
     }
     applyZoom();ui['zoom-dialog'].querySelector('.zoom-content').scrollTo(0,0);
   }
@@ -161,7 +172,7 @@
       zone.type='button';zone.disabled=!destination;
       zone.setAttribute('aria-label',destination&&destination.chapter!==chapter
         ?`${direction>0?'Siguiente capítulo':'Capítulo anterior'}: ${destination.chapter.title}`
-        :`Página ${direction>0?'siguiente':'anterior'}${destination?`, página ${destination.index+1}`:''}`);
+        :`Página ${direction>0?'siguiente':'anterior'}${destination?`, página ${pageToken(destination.chapter,destination.index)}`:''}`);
       const arrow=element('span','',direction<0?'‹':'›');arrow.setAttribute('aria-hidden','true');zone.append(arrow);
       zone.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();stepReader(direction);});
       frame.append(zone);
@@ -202,8 +213,8 @@
     for(const c of book.chapters){const option=element('option','',`${c.number}. ${c.title}${c.pages.length?'':' · En preparación'}`);option.value=c.number;option.disabled=!c.pages.length;ui['chapter-select'].append(option);}
     ui['chapter-select'].value=chapter.number;
     ui['modo-pagina'].setAttribute('aria-pressed',String(mode==='pagina'));ui['modo-vertical'].setAttribute('aria-pressed',String(mode==='vertical'));
-    ui['page-select'].replaceChildren();for(let i=0;i<chapter.pages.length;i++){const option=element('option','',String(i+1));option.value=i;ui['page-select'].append(option);}
-    ui['page-total'].textContent=`de ${chapter.pages.length}`;
+    ui['page-select'].replaceChildren();for(let i=0;i<chapter.pages.length;i++){const option=element('option','',pageToken(chapter,i));option.value=i;ui['page-select'].append(option);}
+    ui['page-total'].textContent=chapter.pages.some(p=>typeof p.number!=='number')?`· ${chapter.pages.length} páginas`:`de ${chapter.pages.length}`;
     ui.pages.replaceChildren(...(mode==='vertical'?chapter.pages.map((p,i)=>makePage(p,i)):[makePage(chapter.pages[pageIndex],pageIndex)]));
     $('page-navigation').hidden=mode==='vertical';
     const previous=pageDestination(-1),nextPage=pageDestination(1),nextChapter=adjacentChapter(1);
@@ -218,7 +229,7 @@
     if(mode==='vertical'){
       observer=new IntersectionObserver(entries=>{
         const visible=entries.filter(e=>e.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio);
-        if(visible.length){pageIndex=Number(visible[0].target.dataset.index);setProgress();history.replaceState(null,'',`#capitulo=${chapter.number}&pagina=${pageIndex+1}&modo=vertical`);}
+        if(visible.length){pageIndex=Number(visible[0].target.dataset.index);setProgress();history.replaceState(null,'',`#capitulo=${chapter.number}&pagina=${encodeURIComponent(pageToken(chapter,pageIndex))}&modo=vertical`);}
       },{threshold:[.15,.3,.5,.7]});
       ui.pages.querySelectorAll('figure').forEach(e=>observer.observe(e));
       requestAnimationFrame(()=>$(`pagina-${chapter.pages[pageIndex].number}`).scrollIntoView({behavior:'instant',block:'start'}));
@@ -234,7 +245,7 @@
     const params=new URLSearchParams(location.hash.slice(1));const number=Number(params.get('capitulo'));
     const found=available().find(c=>c.number===number);
     if(!found){showLibrary();return;}
-    const nextIndex=Math.min(Math.max(0,Math.floor(Number(params.get('pagina'))||1)-1),found.pages.length-1);
+    const nextIndex=pageIndexFor(found,params.get('pagina'));
     const nextMode=params.get('modo')==='vertical'?'vertical':'pagina';
     const preservePagePosition=!ui.lector.hidden&&mode==='pagina'&&nextMode==='pagina'&&((chapter===found&&nextIndex!==pageIndex)||(chapter!==found&&turnDirection!==0));
     const turn=preservePagePosition&&!ui['zoom-dialog'].open;
