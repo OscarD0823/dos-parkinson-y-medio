@@ -45,3 +45,13 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 16 | 586 | Chiara y Blaise acercan a Arianna y Robin. Los bebés se ríen y Robin intenta agarrar los moños de Arianna mientras Blaise le habla en italiano. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-13-16.json).
+
+## Páginas 17–19
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 17 | 586–587 | Pansy y Daphne bromean sobre los discursos italianos de Blaise. Él defiende que Arianna reconoce su voz mientras Chiara recupera su brazalete. |
+| 18 | 587–588 | Markus y Eirena llegan juntos. Robin reconoce a sus abuelos y Eirena lo recibe mientras Pansy espera, ofendida, que la saluden. |
+| 19 | 589 | Eirena abraza a Hermione y agradece compartir las vacaciones con Robin. Markus saluda a ambas jóvenes y Pansy protesta por quedar detrás del nieto. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-17-19.json).
