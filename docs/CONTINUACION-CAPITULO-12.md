@@ -156,3 +156,14 @@ Las páginas 56 y 65 recuperan las proporciones del 911 negro mostrado en 49 y 6
 [Prompts, fuentes, transcripciones, maestros y revisión](prompts-correccion-capitulo-12-paginas-45-56-65.json).
 
 Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermione queda de pie junto al coche, separada del guardabarros. El capó se reconstruye como una pieza completa con sus bisagras junto al parabrisas. [Registro de la revisión del capó](prompts-correccion-capo-capitulo-12-paginas-56-65.json).
+
+## Páginas 69–72
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 69 | 532–533–534 | Pansy elige su pijama frente al espejo. La noticia de que Robin pasará la noche en Derbyshire interrumpe las prendas que hacía flotar. |
+| 70 | 534–535 | Hermione explica por qué la nevada impide el regreso. Saber que Robin está abrigado y acompañado las tranquiliza. |
+| 71 | 535–536–537–538–539–540–541–542–543–544–545–546 | El alivio devuelve las bromas. Hermione expresa lo que quiso decir durante el día y el relato deja la noche en una elipsis. |
+| 72 | 546–547 | La mañana de Navidad devuelve el movimiento a la casa. Hermione estrena el suéter rojo que Pansy le regaló y oye a los cachorros. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-69-72.json).

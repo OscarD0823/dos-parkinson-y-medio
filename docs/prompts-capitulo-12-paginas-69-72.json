@@ -1,0 +1,311 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-10",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    69,
+    72
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 69,
+      "image": "paginas/c12-p069.webp",
+      "sourcePdfPages": [
+        532,
+        533,
+        534
+      ],
+      "summary": "Pansy elige su pijama frente al espejo. La noticia de que Robin pasará la noche en Derbyshire interrumpe las prendas que hacía flotar.",
+      "panels": [
+        {
+          "scene": "Hermione knocks at the partly open oak door, holding an ivory towel normally on one forearm. We see her in gray pajamas from the side, standing outside. Pansy speaks from inside the bedroom OFFSCREEN, balloon tail directed beyond the right edge through the doorway.",
+          "dialogue": [
+            "Pansy: Pasa."
+          ]
+        },
+        {
+          "scene": "Pansy in her completely closed opaque navy house robe faces the vanity near open wardrobe. She holds a small towel near the ends of her black bob. Four spare garments hover separately beside the wardrobe: dark trousers, two pajama shirts and a black T-shirt. One tiny restrained magic glow supports the clothes, no hangers.",
+          "dialogue": [
+            "Pansy: No consigo decidir qué ponerme."
+          ]
+        },
+        {
+          "scene": "Pansy turns toward Hermione with a quietly amused eyebrow, robe still closed high and tied, hands rest naturally at waist level. Only head and shoulders with wardrobe behind, no exaggerated body angle. Hermione listens from the doorway.",
+          "dialogue": [
+            "Pansy: Granger, si sigues mirándome así, voy a pensar que la bata acaba de ganar la competencia."
+          ]
+        },
+        {
+          "scene": "Hermione on LEFT answers a little flustered. Pansy on RIGHT replies gently, no romantic touching. Hermione now lays her ivory towel over the green reading chair's back. Two ordered balloons, robes and gray pajamas fully cover them.",
+          "dialogue": [
+            "Hermione: Yo no estaba…",
+            "Pansy: Tienes que mejorar esa mentira."
+          ]
+        },
+        {
+          "scene": "Hermione in gray pajamas becomes serious, hands free at rest by the reading chair. Her ivory towel is on the chair back, not in her hands. Same snowy guest window and lamp.",
+          "dialogue": [
+            "Hermione: Mis padres no van a volver esta noche."
+          ]
+        },
+        {
+          "scene": "Pansy in the closed navy robe turns with concern, one small towel still in her hand. Spare pajama shirts drop loosely and rumpled onto the green duvet while trousers and T-shirt fall partly out of frame toward the rug, no clothing on a person changes.",
+          "dialogue": [
+            "Pansy: ¿Qué ocurrió? ¿Robin está bien?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 69\n\nPansy elige su pijama frente al espejo. La noticia de que Robin pasará la noche en Derbyshire interrumpe las prendas que hacía flotar.\nPansy: Pasa.\nPansy: No consigo decidir qué ponerme.\nPansy: Granger, si sigues mirándome así, voy a pensar que la bata acaba de ganar la competencia.\nHermione: Yo no estaba…\nPansy: Tienes que mejorar esa mentira.\nHermione: Mis padres no van a volver esta noche.\nPansy: ¿Qué ocurrió? ¿Robin está bien?",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas completas: bata azul marino cerrada de Pansy, pijama gris y zafiro de Hermione, ropa flotante y caída, diálogo fiel a PDF 532–534. Anatomía, escenarios y texto revisados.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p069.png",
+      "sha256": "dad80eb02153fbaf6cfc034b26f2e740449627c53d363fb3ffdfd06eded183b3",
+      "masterSha256": "9a6ff1cf2928b2a312bbace806b214871fb50ad3aec934f35dfa978bdb6ba11f",
+      "ocrMissingCandidates": [
+        "consigo",
+        "decidir",
+        "ponerme"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact guest bedroom and furniture. Image 4 is reference for the same faces, oak doorway, lamps and Hermione's gray pajamas only.\nExact Granger guest room from pages 16 and 45: honey-oak doorway, walnut single bed with dark evergreen duvet, cream walls, soft russet rug, reading chair near snowy bay window, warm shaded lamp and pine sprig. Standing wooden vanity with mirror and tall walnut wardrobe. Pansy is recognizable with narrow green eyes, angular chin, black side-parted chin-length bob and bare ears. Her hair is a bit damp at ends. She wears a fully opaque deep midnight navy buttoned long-sleeved pajama shirt with collar, opaque full-length dark blue trousers, dark slippers. Hermione with loose damp chestnut curls, freckles, brown eyes and oval sapphire on fine white platinum at front. Fully opaque heather gray long-sleeved pajama shirt and full-length gray trousers, gray slippers, separate white towel. All fully clothed, with fabric covering shoulders, chest, waist and legs. Quiet emotional conversation, gestures ordinary. Robin is safe in Derbyshire and never physically in this room. No animal or other person in the guest room. Avoid any sharing of bedding or suggestive pose. Clothes hover lightly at the wardrobe, one midnight shirt, one gray and a pair of loose pajama trousers, nothing translucent. The mirror reflection only when camera and pose fit, never a third copy of either character.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 69» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione knocks on the partly open walnut door with one hand while holding the folded towel in her other hand. Green duvet in background, no other person in hall. Balloon from Pansy. Print verbatim «Pasa.»\nPanel 2. Pansy stands facing the tall wardrobe, black bob and buttoned navy pajamas, holding one dry towel. Three different folded opaque pajama pieces hover in a neat row beside her; she evaluates an alternate blue shirt. Balloon from Pansy. Print verbatim «No consigo decidir qué ponerme.»\nPanel 3. Hermione leans on the doorframe, fully clothed with pendant visible and a small uncertain smile. Her towel now hangs over the reading chair’s back. Caption verbatim «Hermione dejó la toalla sobre la silla.»\nPanel 4. At the vanity, Pansy turns her head to look at Hermione standing well apart. Her eyebrows lift, amused. Mirror mostly out of frame, no duplicate figure. Balloon from Pansy. Print verbatim «Tienes que mejorar esa mentira.»\nPanel 5. Close Hermione, turns serious and speaks, looking at Pansy. Same gray shirt and dry towel separate. Balloon from Hermione. Print verbatim «Mis padres no van a volver esta noche.»\nPanel 6. Pansy spins to face her with genuine concern, still fully dressed in navy. The spare clothes drop onto the green duvet, separated from her arms and hands. Balloon from Pansy. Print verbatim «¿Qué ocurrió? ¿Robin está bien?»\nArrange six clearly separated panels. No kiss or implied intimacy, both dress like usual around family at home. Pansy always wears the opaque full navy buttoned pajama top and long trousers. Hermione stays in the gray clothing of page 45. In panel 4 Pansy’s line is playful, not angry.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p016.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p045.webp"
+          ],
+          "generatedMaster": "exec-0845a68d-0262-4da8-b32a-4d70870e0793.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Precise continuity edit of this complete six-panel Spanish comic «Capítulo 12 · 69», portrait 1024×1536. Keep the precise faces, gray and navy full ordinary pajama outfits, room, margins, layout and all Spanish text, except the one specified line. Panel 2 upper-right: keep three pieces of spare clothes but make them FLOAT loose in a row a few inches out from the open walnut wardrobe, rather than hanging from rails or hangers. Pansy gestures toward them with her one hand, her second hand is by her waist. No extra fingers. Panel 4 middle-right only change the text inside Pansy's existing speech balloon to «¿Qué ocurre, Granger?» without quote marks. Panel 5 bottom-left Hermione already left the ivory towel on the reading chair, so remove towel from her hand here and show her same gray sleeve with her own hand gently at her sternum. Panel 6 bottom-right, same two spare shirts are slightly rumpled on the green duvet as if just fallen, not in a tidy fold. Keep Pansy’s fully covered midnight-blue collared shirt and long trousers. Preserve all other details, room layout, Spanish accents, words and faces.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0845a68d-0262-4da8-b32a-4d70870e0793.png"
+          ],
+          "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794365175,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":1440,\\\"resets_in_seconds\\\":79865}}\")"
+        }
+      ]
+    },
+    {
+      "page": 70,
+      "image": "paginas/c12-p070.webp",
+      "sourcePdfPages": [
+        534,
+        535
+      ],
+      "summary": "Hermione explica por qué la nevada impide el regreso. Saber que Robin está abrigado y acompañado las tranquiliza.",
+      "panels": [
+        {
+          "scene": "Hermione at LEFT reassures Pansy at RIGHT, both standing by the bed without touching the bedding, two natural hands each and room between them.",
+          "dialogue": [
+            "Hermione: Está bien. Lo escuché riéndose durante la llamada."
+          ]
+        },
+        {
+          "scene": "Pansy looks concerned but listens closely. Mirror reflects only part of the lamp and empty wardrobe, with no extra person.",
+          "dialogue": [
+            "Pansy: Entonces, ¿por qué no regresan?"
+          ]
+        },
+        {
+          "scene": "Hermione speaks calmly with the snowy window behind. Her hands rest on the back of the green reading chair, sapphire in front over gray pajamas.",
+          "dialogue": [
+            "Hermione: La nevada derribó un árbol sobre el camino. Se quedarán en casa de mi tía."
+          ]
+        },
+        {
+          "scene": "Pansy asks her practical questions, standing in the source's dark robe tied firmly closed with a small towel in one hand. Gentle anxious face, no body-focused camera.",
+          "dialogue": [
+            "Pansy: ¿La casa tiene calefacción? ¿Empacaste su pijama?"
+          ]
+        },
+        {
+          "scene": "Two-shot. Hermione at LEFT smiles as she adds this. Pansy at RIGHT looks surprised. Keep direct reading order and separate balloon tails.",
+          "dialogue": [
+            "Hermione: Además, Crookshanks está con ellos.",
+            "Pansy: ¿Qué?"
+          ]
+        },
+        {
+          "scene": "Pansy glances toward the empty oak doorway, beginning to smile with relief. Hermione near the reading chair, snow and warmth continuous. One precise balloon from Pansy.",
+          "dialogue": [
+            "Pansy: Esa criatura planeó su fuga mientras nosotras empacábamos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 70\n\nHermione explica por qué la nevada impide el regreso. Saber que Robin está abrigado y acompañado las tranquiliza.\nHermione: Está bien. Lo escuché riéndose durante la llamada.\nPansy: Entonces, ¿por qué no regresan?\nHermione: La nevada derribó un árbol sobre el camino. Se quedarán en casa de mi tía.\nPansy: ¿La casa tiene calefacción? ¿Empacaste su pijama?\nHermione: Además, Crookshanks está con ellos.\nPansy: ¿Qué?\nPansy: Esa criatura planeó su fuga mientras nosotras empacábamos.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas completas, mismo cuarto y ropa de 69. Padres a salvo, árbol caído, pijama y Crookshanks. Globos, acentos, caras y manos revisados.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p070.png",
+      "sha256": "ff3516b6742b8b05b831bd92f9a8df0d05a73c2590609874f18cef0c11b6ea5c",
+      "masterSha256": "11686c4f49f40857bac4df9bfcfd3634d739b0b609f99f858cf6c148d0a40db6",
+      "ocrMissingCandidates": [
+        "escuche",
+        "riendose",
+        "durante",
+        "llamada",
+        "entonces",
+        "regresan",
+        "ademas",
+        "crookshanks",
+        "ellos",
+        "criatura",
+        "planeo",
+        "mientras",
+        "nosotras",
+        "empacabamos"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact guest room only. Image 4 is reference for the distinct lead faces and gray pajamas only.\nExact Granger guest room from pages 16 and 45: honey-oak doorway, walnut single bed with dark evergreen duvet, cream walls, soft russet rug, reading chair near snowy bay window, warm shaded lamp and pine sprig. Standing wooden vanity with mirror and tall walnut wardrobe. Pansy is recognizable with narrow green eyes, angular chin, black side-parted chin-length bob and bare ears. Her hair is a bit damp at ends. She wears a fully opaque deep midnight navy buttoned long-sleeved pajama shirt with collar, opaque full-length dark blue trousers, dark slippers. Hermione with loose damp chestnut curls, freckles, brown eyes and oval sapphire on fine white platinum at front. Fully opaque heather gray long-sleeved pajama shirt and full-length gray trousers, gray slippers, separate white towel. All fully clothed, with fabric covering shoulders, chest, waist and legs. Quiet emotional conversation, gestures ordinary. Robin is safe in Derbyshire and never physically in this room. No animal or other person in the guest room. Avoid any sharing of bedding or suggestive pose. Both wear the same opaque pajamas. No bed poses; standing or in separate chair. They fold the spare shirts to put them away. Only their faces and natural gestures are prominent.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 70» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione at the left side of room speaks calmly, Pansy at the right takes a breath. Keep the two women a natural distance apart, folded towel on chair. Balloon from Hermione. Print verbatim «Está bien. Lo escuché riéndose durante la llamada.»\nPanel 2. Pansy asks with genuine anxiety, natural hands at waist over her navy top. Hermione’s profile in view, no overt intimacy. Balloon from Pansy. Print verbatim «¿La casa tiene calefacción? ¿Llevan suficiente para mañana?»\nPanel 3. Hermione tells her about the warm house, glad to reassure. Snowy window behind her and one shaded lamp. Balloon from Hermione. Print verbatim «Tienen comida, calefacción y todo lo que Robin necesita.»\nPanel 4. In the same room, Hermione at left says this with an amused smile. Pansy at right looks genuinely surprised. Clear ordered distinct balloons above them. Balloon from Hermione. Print verbatim «Además, Crookshanks está con ellos.» Balloon from Pansy. Print verbatim «¿Qué?»\nPanel 5. Pansy smiles with a little relief, glancing to empty open doorway, green eyes and navy pajama collar. One caption only. Balloon from Pansy. Print verbatim «Esa criatura planeó su fuga mientras empacábamos.»\nPanel 6. Both casually fold the spare opaque clothes on top of a wooden dresser. One visible navy shirt and gray shirt. Hermione first to left, Pansy at right with affectionate dry humor, both fully clothed. Balloon from Hermione. Print verbatim «Eso ha sonado casi como un cumplido.» Balloon from Pansy. Print verbatim «Si se lo dices, negaré cada palabra.»\nReference 4 (chapter 12 page 69) specifies the exact fully opaque long-sleeved midnight navy pajama with matching dark trousers, gray pajamas, and warm guest room. Preserve both recognizable faces, covered clothing, and room. Separate seated positions and ordinary conversation only. No towel in Hermione’s hands, it is already draped over the reading chair. Keep the full six panels, the final two environmental panels without people when specified.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p016.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0845a68d-0262-4da8-b32a-4d70870e0793.png"
+          ],
+          "error": "ImageGen no produjo una imagen"
+        }
+      ]
+    },
+    {
+      "page": 71,
+      "image": "paginas/c12-p071.webp",
+      "sourcePdfPages": [
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546
+      ],
+      "summary": "El alivio devuelve las bromas. Hermione expresa lo que quiso decir durante el día y el relato deja la noche en una elipsis.",
+      "panels": [
+        {
+          "scene": "Hermione at LEFT smiles about the cat and Pansy at RIGHT answers with her usual dry humor, standing in their same fully covered clothing. Two clearly ordered speech balloons.",
+          "dialogue": [
+            "Hermione: Eso ha sonado casi como un cumplido.",
+            "Pansy: Si se lo dices, negaré cada palabra."
+          ]
+        },
+        {
+          "scene": "Hermione picks up one loose opaque black pajama shirt from the green duvet and holds it out normally by the collar and hem for Pansy to take. Pansy keeps her house robe fully closed. Focus on faces and the one garment.",
+          "dialogue": [
+            "Hermione: Creo que esta era la que estabas considerando."
+          ]
+        },
+        {
+          "scene": "Close Hermione's brown eyes, freckles and warm honest smile as she tells Pansy her compliment. Her blue pendant and gray long-sleeved top remain unchanged.",
+          "dialogue": [
+            "Hermione: Eres hermosa."
+          ]
+        },
+        {
+          "scene": "Hermione at LEFT speaks fondly, Pansy at RIGHT smiles with quiet amusement. Their bodies remain at a natural distance, wardrobe and lamp behind. Two short ordered bubbles.",
+          "dialogue": [
+            "Hermione: Caminabas por Harrods como si el edificio te perteneciera.",
+            "Pansy: Estaba evaluando la posibilidad de adquirirlo."
+          ]
+        },
+        {
+          "scene": "Close shaded lamp and one closed book on the bedside table by the pitcher. Snowflakes beyond the glass, no people or silhouette.",
+          "caption": "La nieve siguió cayendo."
+        },
+        {
+          "scene": "Exterior of the exact symmetrical honey-brick house, dark green door, two bays and pine wreath, snow in blue night and warm amber windows. No person or silhouette visible.",
+          "caption": "Aquella noche tuvieron tiempo para ellas."
+        }
+      ],
+      "transcript": "Capítulo 12 · 71\n\nEl alivio devuelve las bromas. Hermione expresa lo que quiso decir durante el día y el relato deja la noche en una elipsis.\nHermione: Eso ha sonado casi como un cumplido.\nPansy: Si se lo dices, negaré cada palabra.\nHermione: Creo que esta era la que estabas considerando.\nHermione: Eres hermosa.\nHermione: Caminabas por Harrods como si el edificio te perteneciera.\nPansy: Estaba evaluando la posibilidad de adquirirlo.\nNarración: La nieve siguió cayendo.\nNarración: Aquella noche tuvieron tiempo para ellas.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas, mismos rostros y ropa; conserva cumplidos y Harrods, camisa opaca ofrecida y elipsis con lámpara y fachada. Texto completo revisado.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p071.png",
+      "sha256": "42dfb364e9d56c2058b4d0c50180704e9886b55da552e3f7918e2f422ad91bb4",
+      "masterSha256": "9763bc0e14e77fa09402ee9f8d772457f43e1b5d5cd19d4b1c3136a8de11e169",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact guest room. Image 4 is reference for distinct faces and Hermione gray pajamas. Image 5 is reference for snowfall and house from the exterior last panel only.\nExact Granger guest room from pages 16 and 45: honey-oak doorway, walnut single bed with dark evergreen duvet, cream walls, soft russet rug, reading chair near snowy bay window, warm shaded lamp and pine sprig. Standing wooden vanity with mirror and tall walnut wardrobe. Pansy is recognizable with narrow green eyes, angular chin, black side-parted chin-length bob and bare ears. Her hair is a bit damp at ends. She wears a fully opaque deep midnight navy buttoned long-sleeved pajama shirt with collar, opaque full-length dark blue trousers, dark slippers. Hermione with loose damp chestnut curls, freckles, brown eyes and oval sapphire on fine white platinum at front. Fully opaque heather gray long-sleeved pajama shirt and full-length gray trousers, gray slippers, separate white towel. All fully clothed, with fabric covering shoulders, chest, waist and legs. Quiet emotional conversation, gestures ordinary. Robin is safe in Derbyshire and never physically in this room. No animal or other person in the guest room. Avoid any sharing of bedding or suggestive pose. Frame them individually or side by side seated in two separate chairs facing a fireplace-free snowy window. Their gentle conversation is ordinary and wholly clothed. Keep their hands visibly on chair arms, book or cup, with room between chairs. No kissing, touching body, clothing changes or suggestive camera. End with two environmental panels, no people in either.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 71» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione lays the last folded spare shirt on the vanity and speaks with a small sincere smile. Pansy looks up from a separate chair. Balloon from Hermione. Print verbatim «Eres hermosa.»\nPanel 2. Close Hermione in the gray opaque top, brown eyes, freckles and sapphire. She admits the thought without theatrics. Same snowy window. Balloon from Hermione. Print verbatim «Lo pensé cuando te probaste la gabardina.»\nPanel 3. Pansy replies quietly, nervous amusement shows through. Black chin bob, green eyes, deep navy buttoned shirt, no visible jewelry. Balloon from Pansy. Print verbatim «Estaba evaluando la posibilidad de comprar Harrods.»\nPanel 4. They sit in separate chairs watching the same snowy window, hands at rest on their own chairs. Calm faces in warm light. Hermione on left, Pansy on right with one exact dialogue from her. Balloon from Pansy. Print verbatim «Siempre consigues sorprenderme, Granger.»\nPanel 5. A quiet view of the lamp and open book on a side table, beyond the bare window snow softens the other houses. No visible people or silhouettes. Caption verbatim «La nieve siguió cayendo.»\nPanel 6. Full exterior of the symmetrical familiar two-bay brick home, green door and small tree glow. Night snow, then very faint light of dawn toward horizon. No people visible. Caption verbatim «Afuera, la calle quedó en silencio.»\nReference 4 (chapter 12 page 69) specifies the exact fully opaque long-sleeved midnight navy pajama with matching dark trousers, gray pajamas, and warm guest room. Preserve both recognizable faces, covered clothing, and room. Separate seated positions and ordinary conversation only. No towel in Hermione’s hands, it is already draped over the reading chair. Keep the full six panels, the final two environmental panels without people when specified.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p016.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0845a68d-0262-4da8-b32a-4d70870e0793.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p044.webp"
+          ],
+          "error": "ImageGen no produjo una imagen"
+        }
+      ]
+    },
+    {
+      "page": 72,
+      "image": "paginas/c12-p072.webp",
+      "sourcePdfPages": [
+        546,
+        547
+      ],
+      "summary": "La mañana de Navidad devuelve el movimiento a la casa. Hermione estrena el suéter rojo que Pansy le regaló y oye a los cachorros.",
+      "panels": [
+        {
+          "scene": "Daybreak, wide view of the Granger house. Thin snow covers branches and hedge. The gray family SUV has returned and is parked still in driveway at far left. No people visible.",
+          "caption": "La mañana de Navidad, la carretera volvió a abrirse."
+        },
+        {
+          "scene": "Close on folded deep red sweater on an oak console, exact tiny gold reindeer embroidery and one burgundy wrapping ribbon beside it, no box label.",
+          "caption": "Pansy había escogido un regalo para Hermione."
+        },
+        {
+          "scene": "Hermione descends familiar oak staircase, gently smoothing one red sleeve with natural fingers. Same sapphire pendant visible, curls in relaxed bun with tendrils, warm smile.",
+          "caption": "Un reno bordado con hilo dorado."
+        },
+        {
+          "scene": "A set of puppy paw prints near front mat, a red ornament rolls across a rug, the far edge of an orange tail vanishes past a rust armchair. No baby or other creature visible.",
+          "caption": "Entonces oyó varias patas sobre la madera."
+        },
+        {
+          "scene": "Two small tricolor Bernese puppies enter together on rug, ears lifted, tails wag. Different white stripes, no cloned duplicate. Hermione smiles behind them.",
+          "caption": "Jane y Malcolm habían traído a los dos cachorros."
+        },
+        {
+          "scene": "Crookshanks makes one nimble hop onto the rust armchair. Two distinct tricolor puppies stay on the rug and look up. Hermione in red approaches, smiling at the commotion.",
+          "caption": "Para ellos, era un juego. Para Crookshanks, otra historia."
+        }
+      ],
+      "transcript": "Capítulo 12 · 72\n\nLa mañana de Navidad devuelve el movimiento a la casa. Hermione estrena el suéter rojo que Pansy le regaló y oye a los cachorros.\nNarración: La mañana de Navidad, la carretera volvió a abrirse.\nNarración: Pansy había escogido un regalo para Hermione.\nNarración: Un reno bordado con hilo dorado.\nNarración: Entonces oyó varias patas sobre la madera.\nNarración: Jane y Malcolm habían traído a los dos cachorros.\nNarración: Para ellos, era un juego. Para Crookshanks, otra historia.",
+      "actualPanelCount": 6,
+      "review": "Elipsis a la mañana de Navidad. Suéter rojo con reno de hilo dorado, dos cachorros de Berna distintos y Crookshanks en su sillón.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p072.png",
+      "sha256": "8b1feeab78b14f9c408a87826426ec96786be51ccc62a874c1e9dd0d038c6dc8",
+      "masterSha256": "e1ef9cd543197f8c1480e63398e65b4ed3a12ebd8d493e90f60927cf7649c3c5",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for exact front facade and green door, snow only. Image 4 is reference for oak staircase and framed photos. Image 5 is reference for precise decorated Christmas tree and room.\nChristmas morning in the same symmetrical Victorian Granger home, front green door with wreath, honey-brick and two bays, white snow softened by sun. Inside same oak stairs and bookcases, warm olive couch, rust armchairs and red/gold tree with crooked cream owl. Christmas outfits begin here. Hermione brown eyes, freckles and abundant chestnut curls in a relaxed chestnut bun with curled tendrils, deep red knitted opaque long-sleeved sweater with ONE discreet small gold embroidered reindeer centered high, dark trousers, original oval blue sapphire on fine white platinum at front. Pansy exact sleek black bob, green eyes, dark green knit with one matching gold reindeer and a small subtle gold-and-diamond hair slide, no earrings. Robin tiny human, brown curls and green eyes, later burgundy knit with one small gold reindeer. Two Bernese Mountain Dog puppies, black, tan eyebrows and cheeks, white chest and muzzle blazes, four natural limbs each, distinct markings. Crookshanks shaggy flat-face orange cat with yellow eyes. Only Hermione and animals clearly visible in this page after establishing morning. Other family is in next room. No puppies on stairs near baby, no baby in this page.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 72» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Daybreak, wide view of the Granger house. Thin snow covers branches and hedge. The gray family SUV has returned and is parked still in driveway at far left. No people visible. Caption verbatim «La mañana de Navidad, la carretera volvió a abrirse.»\nPanel 2. Close on folded deep red sweater on an oak console, exact tiny gold reindeer embroidery and one burgundy wrapping ribbon beside it, no box label. Caption verbatim «Pansy había escogido un regalo para Hermione.»\nPanel 3. Hermione descends familiar oak staircase, gently smoothing one red sleeve with natural fingers. Same sapphire pendant visible, curls in relaxed bun with tendrils, warm smile. Caption verbatim «Un reno bordado con hilo dorado.»\nPanel 4. A set of puppy paw prints near front mat, a red ornament rolls across a rug, the far edge of an orange tail vanishes past a rust armchair. No baby or other creature visible. Caption verbatim «Entonces oyó varias patas sobre la madera.»\nPanel 5. Two small tricolor Bernese puppies enter together on rug, ears lifted, tails wag. Different white stripes, no cloned duplicate. Hermione smiles behind them. Caption verbatim «Jane y Malcolm habían traído a los dos cachorros.»\nPanel 6. Crookshanks makes one nimble hop onto the rust armchair. Two distinct tricolor puppies stay on the rug and look up. Hermione in red approaches, smiling at the commotion. Caption verbatim «Para ellos, era un juego. Para Crookshanks, otra historia.»\nUse the Christmas morning shift as a clear scene break, first light with snow. Crookshanks and both dogs look like distinct real pets, no chibi aesthetic. The two Bernese puppies are littermates, one with a broad stripe and more white on nose, one with a thin stripe. Hermione has exactly one little gold embroidered reindeer on RED sweater; it is embroidery, not a patch or actual animal. Add no other person or labels.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p044.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p015.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p038.webp"
+          ],
+          "generatedMaster": "exec-9f5ef4e8-c413-4102-8f43-853cda8edecc.png"
+        }
+      ]
+    }
+  ]
+}
