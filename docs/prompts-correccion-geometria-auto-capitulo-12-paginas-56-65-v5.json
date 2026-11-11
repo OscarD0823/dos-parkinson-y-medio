@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-11",
+  "tool": "ImageGen integrada",
+  "reason": "El usuario rechazó las proporciones de la revisión v4 al cargar y descargar respecto del auto cerrado. Se fijó una referencia del mismo Porsche abierto/cerrado a igual escala antes de rehacer las páginas; el hechizo no amplía el exterior.",
+  "pages": [
+    {
+      "chapter": 12,
+      "page": 56,
+      "original": "paginas/c12-p056-auto-v4.webp",
+      "image": "paginas/c12-p056-auto-v5.webp",
+      "workingMaster": ".local/maestros/correcciones-geometria-auto-2026-11-11/c12-p056-auto-v5.png",
+      "actualPanelCount": 6,
+      "sourcePdfPages": [
+        506,
+        507,
+        508
+      ],
+      "panels": [
+        {
+          "scene": "Realistic three-quarter view of the black 911, tall open front lid based on the photo. Both women stand fully outside at left with boots visible and floor gap. One watch box and two small bags initially fit in the front luggage compartment.",
+          "caption": "En el estacionamiento las esperaban veintidós bolsas."
+        },
+        {
+          "scene": "Hermione peers into the shallow front compartment at LEFT and speaks. Pansy studies the bags at RIGHT and replies. No extra arms or shoppers.",
+          "dialogue": [
+            "Hermione: Hay veintidós.",
+            "Pansy: Las cajas son demasiado grandes."
+          ]
+        },
+        {
+          "scene": "Hermione stands fully beside the front fender, torso and legs outside, reaching only her wand arm over the luggage rim. Same realistic full open lid and small initial load.",
+          "dialogue": [
+            "Hermione: Un encantamiento de extensión indetectable."
+          ]
+        },
+        {
+          "scene": "Both women remain outside the car on opposite sides, reaching hands naturally over the luggage rim to place the final green bag.",
+          "dialogue": [
+            "Pansy: Granger, eso ha sido brillante."
+          ]
+        },
+        {
+          "scene": "The same car with hood closed, both outside. Keep one shopping-free front trunk and untouched body. Pansy pats her coat pocket and looks hungry.",
+          "dialogue": [
+            "Pansy: Tengo hambre."
+          ]
+        },
+        {
+          "scene": "Transition to a small café garden sheltered by glass. Hermione and Pansy sit across an oak table in their beige and black sweaters, coats on their chair backs, two warm soups and winter ivy.",
+          "caption": "Se detuvieron a comer en una cafetería apartada."
+        }
+      ],
+      "transcript": "Capítulo 12 · 56\n\nLas compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.\nNarración: En el estacionamiento las esperaban veintidós bolsas.\nHermione: Hay veintidós.\nPansy: Las cajas son demasiado grandes.\nHermione: Un encantamiento de extensión indetectable.\nPansy: Granger, eso ha sido brillante.\nPansy: Tengo hambre.\nNarración: Se detuvieron a comer en una cafetería apartada.",
+      "review": "Revisión completa y OCR sin faltantes: carrocería compacta constante, capó fino de inclinación moderada según modelo abierto/cerrado, boca normal y bolsas proporcionadas sin ampliar exterior. Caras, ropa, manos fuera del coche, café y todos los textos intactos.",
+      "selectedAttempt": "c12_p056_auto_v5",
+      "prompt": "Use case: precise-object-edit. EDIT TARGET IMAGE1: the COMPLETE six-panel comic page56. The user says its front hood/compartment becomes disproportionately HUGE when bags go in, compared with the closed car. Correct the CAR GEOMETRY ONLY using IMAGE2, the locked SAME-CAR OPEN/CLOSED reference. IMAGE3 fixes the original car identity closed. Images4and5 are original faces, preserve those. Keep every six-panel boundary, all EXACT existing Spanish words, header, faces, hair, clothing/scarf/necklace, every ordinary human hand, Harrods covered parking and final café scene. Final reading page1024x1536, no watermark/footer.\nCrucial: copy the actual WHOLE car from model sheet2, not the old wrong car in target1. Use the sheet's SAME slightly elevated front-left three-quarter camera for the car in panels1,3,4and5, with modest crops as needed. Exactly same compact classic911 body, roof, round headlights, normal sloping narrow nose, thin bumper, track and front fenders whether open or closed. The bonnet is ONE THIN CURVED panel, correct tapered/rounded outline and modest size of the panel when closed, hinged at WINDSCREEN/cowl. Open angle and dark underside EXACTLY as bottom row of image2. Do not make it tall, broad or rectangular. The opening remains a normal SHALLOW CARPETED BOWL strictly between unchanged fenders; same outer rim/width/depth as image2. NO huge deep vertical box, new sidewalls or increased nose/body size. The magical extension is UNDETECTABLE OUTSIDE: it changes invisible capacity, never the physical opening/body/hood dimensions. Only a few NORMAL-SIZED shopping bags remain visible low below the rim, all others fit magically without stretching the car.\nPanel1: same two women outside beside compact car, open bonnet from sheet2, correctly scaled relative to standing humans, normal few small bags in compartment and on floor. Panel2: retain women's close-up and dialogue, ordinary curved front rim only, not giant bin. Panel3: Hermione stands fully OUTSIDE the left fender, boots on floor, only her hand and short wand extend above normal rim for spell; whole body clear, no car intersection. Panel4: both women stay outside opposite fenders, gently lower one NORMAL shopping bag about forearm length into SAME small opening; hands/forearms above rim only, no elbows/torso penetrating body. No compartment growth. Panel5: same fixed-size body CLOSED, closed bonnet exactly top row sheet2 and matches preceding open panel's dimensions. Panel6 café ENTIRELY UNCHANGED. Keep all existing dialogue/accents verbatim, no extra words.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p056-auto-v4.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-11/911-mismo-auto-abierto-cerrado-v1.png",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p049.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c01-p002.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c01-p001.webp"
+      ],
+      "referenceSources": [
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+          "url": "https://forums.pelicanparts.com/porsche-911-technical-forum/800021-h4-headlight-upgrade-sugar-scoops.html",
+          "role": "Owner photograph of classic black 911 with full front lid open"
+        },
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg",
+          "url": "https://www.hexagonclassics.com/car/porsche-911-3-2-carrera-cabriolet-supersport--sse---1987",
+          "role": "Dealer photograph of actual front luggage well and body rim"
+        }
+      ],
+      "sha256": "cf44f3cf7e772c7d3d53709c6d67c273fb5f5856edb8d1bc0fc05f665dd5ac69",
+      "masterSha256": "41bee27d1e811118f4508063cf9915cf6871bc2316d52a9d7d248bd999876255",
+      "ocrMissingCandidates": []
+    },
+    {
+      "chapter": 12,
+      "page": 65,
+      "original": "paginas/c12-p065-auto-v4.webp",
+      "image": "paginas/c12-p065-auto-v5.webp",
+      "workingMaster": ".local/maestros/correcciones-geometria-auto-2026-11-11/c12-p065-auto-v5.png",
+      "actualPanelCount": 6,
+      "sourcePdfPages": [
+        527,
+        528,
+        529
+      ],
+      "panels": [
+        {
+          "scene": "A clear wide three-quarter garage view, both women stand visibly on the garage floor OUTSIDE to the left of the car, with a floor gap to the fender. Pansy levitates bags from the normal front compartment. The black 911 and its raised bonnet follow the real photograph, including the full lid and hinge geometry.",
+          "dialogue": [
+            "Pansy: En ocasiones olvidas que somos brujas, Granger."
+          ]
+        },
+        {
+          "scene": "Bag procession floats upstairs past the oak banister and wreath. View from below. Nobody walking under the bags, one soft golden glow.",
+          "caption": "Las bolsas subieron sin rozar las paredes."
+        },
+        {
+          "scene": "A three-quarter side garage view of Hermione standing entirely outside the front fender, boots visible on the floor, one forearm extended normally over the edge as her wand removes the spell from the empty front compartment. Realistic full-size raised lid, fixed fenders and bumper.",
+          "caption": "Hermione retiró el encantamiento."
+        },
+        {
+          "scene": "The two women talk standing beside the closed car, entirely outside its outline. Only a small normal black hood corner at the lower right, no body cut by the fender.",
+          "dialogue": [
+            "Hermione: Tú tampoco vas a decir nada.",
+            "Pansy: No diré nada."
+          ]
+        },
+        {
+          "scene": "Dim front sitting room. Hermione looks toward the wall clock and snowy windows. Pansy has taken off her trench and is by the coat hook, black turtleneck clear.",
+          "dialogue": [
+            "Hermione: Todavía no llegan."
+          ]
+        },
+        {
+          "scene": "By the oak stairs, Pansy holds up her coat cuff with amused disgust, Hermione smiles at her. Both fully clothed in sweaters and trousers, snowy lights behind.",
+          "dialogue": [
+            "Pansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 65\n\nPansy sube las compras con magia y Hermione retira el hechizo del maletero. La casa sigue en silencio.\nPansy: En ocasiones olvidas que somos brujas, Granger.\nNarración: Las bolsas subieron sin rozar las paredes.\nNarración: Hermione retiró el encantamiento.\nHermione: Tú tampoco vas a decir nada.\nPansy: No diré nada.\nHermione: Todavía no llegan.\nPansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería.",
+      "review": "Revisión completa y OCR sin faltantes: mismo Porsche y capó moderado de56v5/modelo, bolsas salen de boca normal y compartimento vacío al retirar hechizo. Hermione fuera de carrocería. Escalera, escenas interiores, ropa, joyas y diálogo intactos.",
+      "selectedAttempt": "c12_p065_auto_v5",
+      "prompt": "Use case: precise-object-edit. EDIT TARGET IMAGE1: complete six-panel page65. User says its open hood and huge cargo opening are disproportionate relative to CLOSED car and to bags being unloaded. Correct ONLY the CAR and physically necessary hand placement, using image2's locked SAME-CAR OPEN/CLOSED geometry and image3's newly corrected loading page56. Images4and5 fix original Hermione/Pansy faces. Keep all existing EXACT Spanish text/accents, six panel outlines, header, hair/clothes/sapphire/boots, original Granger GARAGE not Harrods, red tool cabinet, the staircase, house, keys and coat scenes. 1024x1536 full page, no watermark/footer.\nCOPY the compact BLACK classic911 from image2. Open and closed are same body, width, track, low roof, narrow sloping nose, lamps and fenders, never stretched. The one THIN curved front bonnet is the small original body panel between lamps, hinged at WINDSCREEN/cowl, raised at the moderate angle shown in image2 bottom row, not a tall rectangular lid. Normal SHALLOW dark-carpeted compartment between UNCHANGED fenders, sloping wheel arches and little rear fluid hump, correct low front latch rim. It is never a giant vertical rectangular bin and never widens or deepens visibly. Magical extra capacity stays invisible. Use same fixed natural front-left three-quarter viewpoint and proportions for car shots1,3and4 so OPEN in1/3 and CLOSED in4 clearly match. No new cameras that turn nose into a different model.\nPanel1: both women stand fully OUTSIDE the left fender on garage floor, visible boots and gap between coats/hips and body. Pansy reaches ONLY hand/wand over normal rim, levitates ordinary forearm-sized shopping bags up from normal SMALL opening. Bags rise through the clear opening, not through bonnet or metal; no person/arm intersects car. Keep the existing magical bag path, one wand, two adult arms each.\nPanel2 staircase and bag procession UNCHANGED.\nPanel3: Hermione stands entirely OUTSIDE left fender, only wrist/wand extends over original shallow rim. Show SAME small front trunk now COMPLETELY EMPTY of bags, carpet floor visible like image2. The external geometry never changes when removing spell. Correct compact hood and roof, no new bench/door/body parts.\nPanel4: hood CLOSED is exactly image2 top row, same body as1/3, understated crop with correct round lamp/nose scale; women and dialogue/key hand unchanged. Do not blow up the nose to fill this panel.\nPanels5and6 indoors ENTIRELY UNCHANGED. Preserve every dialogue, face and ordinary hand, no new text.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p065-auto-v4.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-11/911-mismo-auto-abierto-cerrado-v1.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a66595fc-a1ec-46e0-bc51-d58b29272db5.png",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c01-p002.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c01-p001.webp"
+      ],
+      "referenceSources": [
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+          "url": "https://forums.pelicanparts.com/porsche-911-technical-forum/800021-h4-headlight-upgrade-sugar-scoops.html",
+          "role": "Owner photograph of classic black 911 with full front lid open"
+        },
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg",
+          "url": "https://www.hexagonclassics.com/car/porsche-911-3-2-carrera-cabriolet-supersport--sse---1987",
+          "role": "Dealer photograph of actual front luggage well and body rim"
+        }
+      ],
+      "sha256": "781ae0a103ff9f1de2dce4a3dd3244747dbc98d18f102877f7c49e5c6d80f07e",
+      "masterSha256": "29164dc6a9d5ca26d61db6aec18f7fe0fa5f0ba476b6653cb0c10c1ad7c2a6fd",
+      "ocrMissingCandidates": []
+    }
+  ],
+  "geometryReference": {
+    "workingImage": ".local/referencias-auto-2026-11-11/911-mismo-auto-abierto-cerrado-v1.png",
+    "prompt": "Use case: product-mockup. Create a precise visual continuity MODEL SHEET for the existing BLACK classic Porsche911 in the supplied COMIC, for correcting the comic's impossible changing hood proportions. Reference1 and2 define the exact car identity CLOSED: same rounded black classic911 coupe, narrow sloping nose, two upright round lamps, thin bumper with black rubber strip and amber signals, silver wheels, exact roof/windscreen/fender silhouette. References3and4 are REAL photos of its mechanical front trunk: use only hinge and compartment geometry, not the photo white body color. NO people, no text, no numbers, no logos added, no bags or magic. Wide1536x1024 canvas, TWO EQUAL HORIZONTAL PANELS top and bottom on neutral warm-gray studio floor/background. TOP: full car CLOSED from a natural slightly elevated front-left three-quarter camera, both front wheels and cabin visible. BOTTOM: EXACT SAME car in EXACT SAME position, scale, camera/lens/perspective and body outline, only its FRONT BONNET is OPEN. Treat both renders as mechanically locked copies. Headlamp centers, tire centers, bumper, windshield, roof and fender dimensions must be pixel-aligned between rows. The original rigid SINGLE hood panel rotates up on two hinges beside the windshield, as in the real black photo; its actual length, width, curved thin sheet-metal outline and rounded front corners stay IDENTICAL to the panel lying between the lamps when closed. Not an oversized vertical rectangular lid, not a luggage case, not a giant screen. Open lid only moderately tilted, accurate black underside bracing and modest metal support, lower edge remains at rear/cowl hinge axis. Frunk opening is confined strictly BETWEEN the two original fenders, with natural dark carpeted SHALLOW bowl, normal sloping wheel-arch sides, front latch lip and little brake-fluid hump at rear. Opening does NOT extend under/beyond headlamps or grow nose/body height. External wheelbase/track/nose length NEVER changes. Match fine comic ink with controlled painterly automotive realism and readable structural edges, not hyperreflective mush. This is a geometry reference, no narrative or dialogue.",
+    "references": [
+      "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p049.webp",
+      "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p062.webp",
+      "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+      "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg"
+    ]
+  }
+}

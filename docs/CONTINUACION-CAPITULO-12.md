@@ -232,3 +232,5 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 95 | 569–570–571 | Preparan la salida al traslador y la reunión en Amalfi. Bajo el muérdago, Hermione y Pansy se desean una feliz Navidad. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-93-95.json).
+
+Se revisan otra vez las páginas56 y65 tras la observación del usuario sobre el tamaño del capó abierto y de la carga. Se fija el mismo auto abierto/cerrado a igual escala: tapa curva más contenida, abertura baja entre guardabarros, bolsas de tamaño normal y geometría exterior constante. Las versionesv4 se conservan como historial. [Registro de la geometría del automóvil](prompts-correccion-geometria-auto-capitulo-12-paginas-56-65-v5.json).

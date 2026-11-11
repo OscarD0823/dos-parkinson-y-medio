@@ -47,3 +47,5 @@ El capítulo 12 llega a 95 páginas ilustradas. [Registro de continuación](CONT
 Se revisan las páginas 45, 56 y 65 del capítulo 12 a petición del 10 de noviembre. La 45 recupera la escena original de la cama y sus diálogos. La 56 y la 65 corrigen las proporciones del automóvil. El total sigue en 371 páginas. [Registro de las correcciones](prompts-correccion-capitulo-12-paginas-45-56-65.json).
 
 Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermione queda de pie junto al coche, separada del guardabarros. El capó se reconstruye como una pieza completa con sus bisagras junto al parabrisas. [Registro de la revisión del capó](prompts-correccion-capo-capitulo-12-paginas-56-65.json).
+
+Se revisan otra vez las páginas56 y65 tras la observación del usuario sobre el tamaño del capó abierto y de la carga. Se fija el mismo auto abierto/cerrado a igual escala: tapa curva más contenida, abertura baja entre guardabarros, bolsas de tamaño normal y geometría exterior constante. Las versionesv4 se conservan como historial. [Registro de la geometría del automóvil](prompts-correccion-geometria-auto-capitulo-12-paginas-56-65-v5.json).
