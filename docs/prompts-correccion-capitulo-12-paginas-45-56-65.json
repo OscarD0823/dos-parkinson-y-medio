@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-10",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "findings": [
+    {
+      "page": 45,
+      "sourcePdfPages": [
+        478,
+        479,
+        480
+      ],
+      "issue": "La escena publicada sustituye la cama compartida por butaca y cuna, e inventa una explicación que no aparece en el PDF.",
+      "required": "Recuperar la situación familiar y los diálogos de la mañana, incluidos Jane protegiendo el secreto ante Malcolm y el sobresalto de Hermione."
+    },
+    {
+      "page": 56,
+      "sourcePdfPages": [
+        506,
+        507
+      ],
+      "issue": "Frontal, faros, capó y borde del maletero desproporcionados y variables.",
+      "required": "Unificar geometría con el coche de 49 y 62. La extensión mágica cambia el espacio interior sin deformar el automóvil."
+    },
+    {
+      "page": 65,
+      "sourcePdfPages": [
+        527,
+        528
+      ],
+      "issue": "Repite el frontal deformado de 56.",
+      "required": "Usar el mismo automóvil corregido de 56 en el garaje."
+    }
+  ],
+  "pages": [
+    {
+      "chapter": 12,
+      "page": 45,
+      "original": "paginas/c12-p045.webp",
+      "image": "paginas/c12-p045-fuente-v2.webp",
+      "workingMaster": ".local/maestros/correcciones-capitulo-12-2026-11-10/c12-p045-fuente-v2.png",
+      "actualPanelCount": 8,
+      "summary": "Jane encuentra a Hermione, Pansy y Robin dormidos en la cama de Pansy y las cubre ante Malcolm antes de que bajen a desayunar.",
+      "sourcePdfPages": [
+        478,
+        479,
+        480
+      ],
+      "panels": [
+        {
+          "scene": "Pansy opens her green eyes in her own familiar walnut bed under the dark green duvet. Hermione, in full gray long-sleeved pajamas, and one human Robin in brown reindeer pajamas with hood folded down sleep beside her. Only heads, shoulders, covered arms and baby's natural face are prominent. Ordinary quiet morning, all three on the same mattress.",
+          "caption": "Hermione y Robin estaban en su cama.",
+          "dialogue": [
+            "Jane: Hermione…"
+          ]
+        },
+        {
+          "scene": "Jane peers around the partly opened oak door, recognizes the three in bed and smiles. Pansy raises her head, startled and a little embarrassed. Hermione and Robin remain asleep. Jane's first bubble is upper left, Pansy's small reply below it, Jane's second line lower right.",
+          "dialogue": [
+            "Jane: Pansy, cariño, ¿sabes dónde está…?",
+            "Pansy: Jane, yo…"
+          ]
+        },
+        {
+          "scene": "View from inside the bedroom toward the partly open door. Jane hears Malcolm calling from the landing, while Pansy looks startled from the bed in the foreground. Malcolm remains outside and offscreen. His small offscreen balloon first, Jane's low whisper below, directed into the room.",
+          "dialogue": [
+            "Malcolm: ¿Encontraste a Hermione?",
+            "Jane: Despiértalos. El desayuno está servido."
+          ]
+        },
+        {
+          "scene": "In the corridor outside the room, Jane closes the bedroom door and answers Malcolm, who stands by the oak stairs in glasses and navy V-neck. Jane is at right, Malcolm at left, only Jane has a speech balloon.",
+          "dialogue": [
+            "Jane: Se están arreglando, Malcolm. Bajan en unos minutos."
+          ]
+        },
+        {
+          "scene": "Back in the same bed. Pansy speaks softly at LEFT, Hermione at RIGHT opens one sleepy eye and keeps a hand lightly near Robin, who stays plainly visible between them. Body poses natural and fully covered below the shoulders. Two ordered balloons.",
+          "dialogue": [
+            "Pansy: Granger. Tenemos que levantarnos.",
+            "Hermione: Cinco minutos."
+          ]
+        },
+        {
+          "scene": "The same close bedside view, Hermione now looks startled, Pansy replies with faint relief. The baby remains in the exact same place and same clothing, with hood down. Pansy's first bubble upper left, Hermione second upper right, Pansy's short reply clearly lower.",
+          "dialogue": [
+            "Pansy: Tu madre acaba de encontrarnos.",
+            "Hermione: ¿Y mi padre?",
+            "Pansy: Por fortuna, no."
+          ]
+        },
+        {
+          "scene": "Hermione has woken fully, still seated under the green duvet in gray pajamas, and smiles with relief at Pansy. Pansy relaxes too, the brown-clad human baby between them. The same warm morning view with both adults covered and ordinary sleepy faces.",
+          "dialogue": [
+            "Hermione: Mi madre no dirá nada.",
+            "Pansy: Eso espero."
+          ]
+        },
+        {
+          "scene": "Hermione smiles with relief sitting upright under the duvet at left. Pansy is at the bed edge on right, gently lifting one now-awake Robin with both arms. Robin's curls, green eyes, natural hands and brown reindeer sleeper with hood folded behind neck are clear. Same window and bedside lamp. They are about to go downstairs.",
+          "dialogue": [],
+          "caption": "Entre las dos despertaron a Robin."
+        }
+      ],
+      "previousTranscript": "Capítulo 12 · 45\n\nJane encuentra a Hermione en la habitación de invitados tras una noche de cuidar a Robin. Las llama a desayunar.\nNarración: La luz de la mañana entró por las cortinas.\nJane: ¿Hermione? El desayuno está casi listo.\nPansy: Anoche lo ayudó a dormir y acabó quedándose en la butaca.\nJane: Pueden bajar cuando estén listas.\nHermione: Cinco minutos.\nPansy: Tenemos que levantarnos, Granger.",
+      "transcript": "Capítulo 12 · 45\n\nJane encuentra a Hermione, Pansy y Robin dormidos en la cama de Pansy y las cubre ante Malcolm antes de que bajen a desayunar.\nNarración: Hermione y Robin estaban en su cama.\nJane: Hermione…\nJane: Pansy, cariño, ¿sabes dónde está…?\nPansy: Jane, yo…\nMalcolm: ¿Encontraste a Hermione?\nJane: Despiértalos. El desayuno está servido.\nJane: Se están arreglando, Malcolm. Bajan en unos minutos.\nPansy: Granger. Tenemos que levantarnos.\nHermione: Cinco minutos.\nPansy: Tu madre acaba de encontrarnos.\nHermione: ¿Y mi padre?\nPansy: Por fortuna, no.\nHermione: Mi madre no dirá nada.\nPansy: Eso espero.\nNarración: Entre las dos despertaron a Robin.",
+      "review": "Ocho viñetas según PDF 478–480. Los tres despiertan en la misma cama, Jane los encuentra y responde a Malcolm desde el pasillo. Capucha bajada, rasgos y ropa continuos. Se corrigieron el globo añadido y el orden de las réplicas.",
+      "prompt": "Precision text and speech-balloon edit of this complete EIGHT-panel Spanish comic «Capítulo 12 · 45», 1024×1536. Preserve the beautiful artwork, all people and human baby, eight-panel layout, green bed, room, pajamas, faces, hands, lighting and cream margins. Correct only these four lettering details. (1) Panel 1 upper-left: the small balloon «Hermione…» is an OFFSCREEN call from Jane in the corridor. Point its tail out of the LEFT panel edge toward the door, not at anyone in bed. (2) Panel 2 upper-right: COMPLETELY remove the extra lower balloon «Os están esperando en el desayuno.» and restore only the green duvet behind that balloon. Keep only Jane's «Pansy, cariño, ¿sabes dónde está…?» and Pansy's «Jane, yo…» in this panel. (3) Panel 7 bottom-left: carefully rearrange the two existing bubbles so Hermione on the RIGHT clearly speaks FIRST, her «Mi madre no dirá nada.» in one wide bubble at the TOP of that panel with a tail to her face. Pansy’s «Eso espero.» is the SECOND short single-line bubble, centered well BELOW the first bubble and with a tail toward her face at left. Keep both faces visible. The vertical order must be unmistakable. (4) Panel 8 bottom-right: replace its caption with exactly «Entre las dos despertaron a Robin.» in the same cream box and serif type. Every other word in the page stays identical with correct Spanish accents. Do not add other words or balloons.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8c67e2ae-b17a-483a-a8b9-79e2a3d5fb2e.png"
+      ],
+      "selectedAttempt": "c12_p045_fuente_v3",
+      "sha256": "4199fc9c533de28550cb1f4a45a4445967a132e9b30b197beec3909c0413d1dc",
+      "masterSha256": "9697a0b10b58241b291ee794e3c5e0c55b49598954d8d167d7d7dc757538a249",
+      "ocrMissingCandidates": []
+    },
+    {
+      "chapter": 12,
+      "page": 56,
+      "original": "paginas/c12-p056.webp",
+      "image": "paginas/c12-p056-auto-v3.webp",
+      "workingMaster": ".local/maestros/correcciones-capitulo-12-2026-11-10/c12-p056-auto-v3.png",
+      "actualPanelCount": 6,
+      "summary": "Las compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.",
+      "sourcePdfPages": [
+        506,
+        507,
+        508
+      ],
+      "panels": [
+        {
+          "scene": "Establishing view at the FRONT of the black coupe, a row of shopping bags in mixed green, white and charcoal, most bags partly cropped off screen. Pansy lifts the low front hood, both recognizable winter outfits.",
+          "caption": "En el estacionamiento las esperaban veintidós bolsas."
+        },
+        {
+          "scene": "Hermione peers into the shallow front compartment at LEFT and speaks. Pansy studies the bags at RIGHT and replies. No extra arms or shoppers.",
+          "dialogue": [
+            "Hermione: Hay veintidós.",
+            "Pansy: Las cajas son demasiado grandes."
+          ]
+        },
+        {
+          "scene": "Hermione confirms the parking aisle is empty and lowers her wand into the open front compartment. One very small shimmer INSIDE the front compartment, no beam from the rear. Pansy watches.",
+          "dialogue": [
+            "Hermione: Un encantamiento de extensión indetectable."
+          ]
+        },
+        {
+          "scene": "Both women ease the last bag through the same front opening. The exterior remains the same scale. Pansy at left smiles at Hermione at right as the last bag goes in.",
+          "dialogue": [
+            "Pansy: Granger, eso ha sido brillante."
+          ]
+        },
+        {
+          "scene": "The same car with hood closed, both outside. Keep one shopping-free front trunk and untouched body. Pansy pats her coat pocket and looks hungry.",
+          "dialogue": [
+            "Pansy: Tengo hambre."
+          ]
+        },
+        {
+          "scene": "Transition to a small café garden sheltered by glass. Hermione and Pansy sit across an oak table in their beige and black sweaters, coats on their chair backs, two warm soups and winter ivy.",
+          "caption": "Se detuvieron a comer en una cafetería apartada."
+        }
+      ],
+      "previousTranscript": "Capítulo 12 · 56\n\nLas compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.\nNarración: En el estacionamiento las esperaban veintidós bolsas.\nHermione: Hay veintidós.\nPansy: Las cajas son demasiado grandes.\nHermione: Un encantamiento de extensión indetectable.\nPansy: Granger, eso ha sido brillante.\nPansy: Tengo hambre.\nNarración: Se detuvieron a comer en una cafetería apartada.",
+      "transcript": "Capítulo 12 · 56\n\nLas compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.\nNarración: En el estacionamiento las esperaban veintidós bolsas.\nHermione: Hay veintidós.\nPansy: Las cajas son demasiado grandes.\nHermione: Un encantamiento de extensión indetectable.\nPansy: Granger, eso ha sido brillante.\nPansy: Tengo hambre.\nNarración: Se detuvieron a comer en una cafetería apartada.",
+      "review": "Frontal, faros, capó, paragolpes y compartimento delantero coherentes con el 911 de 49 y 62. Se revisaron manos, escala, todas las viñetas y el texto.",
+      "prompt": "Use case: precise-object-edit. Edit the FIRST complete finished six-panel Spanish comic page «Capítulo 12 · 56», 1024×1536 portrait. References 2 and 3 are ONLY for the car’s correct appearance. The existing car in the top-right panel of page 49 and first panel of page 62 fixes the coupe's identity and scale: black classic Porsche 911, ordinary low coupe with cabin, compact integrated round headlamps at the tops of front fenders, an appropriately narrow tapered central hood, low black bumper with amber indicators. Correct the overall perspective to coherent normal proportions with the same cabin, wheelbase and front fenders in every view. The raised front lid pivots close to the windshield, its narrower front edge lifted above the front bumper. The luggage opening sits under that lid between the fixed fenders; it does not swallow the headlamps or replace the whole nose. The front bumper stays visible where the crop allows it. The external car shape stays normal while magic changes luggage-space depth. Bags are normal shopping-bag scale and pass inside the compartment. Avoid fisheye, oversized close-up headlights, toy car shapes, stretched fenders or shifting hood hinges.\nIn panels 1, 2, 3 and 4, correct the open hood, luggage opening, headlamp size, bumper and front fenders as one continuous SAME parked car. Keep panel 2 mostly the women's faces and upper lip of luggage opening; no giant car nose in that crop. In panel 3 one ordinary wand aims inside the compartment with a small glow. In panel 4 keep Pansy's and Hermione's hands placing the bag, draw the luggage rim lower so hands don't merge into it. In panel 5 keep the lid closed but replace the distorted nose with the same scale and front of the references. Panel 6 café scene is completely untouched. Preserve every word, including «En el estacionamiento las esperaban veintidós bolsas.», «Hay veintidós.», «Las cajas son demasiado grandes.», «Un encantamiento de extensión indetectable.», «Granger, eso ha sido brillante.», «Tengo hambre.» and «Se detuvieron a comer en una cafetería apartada.»\nPreserve all people, expressions, poses, body scale, hands, Hermione's taupe coat and ivory scarf and ponytail, Pansy's belted charcoal trench and black bob, the frontal sapphire pendant, the same setting and lighting, all speech balloons, exact words, accents, order, six-panel layout, black borders and cream margins. No added labels, logos or watermark. Keep upper/body areas of the people fixed while rebuilding only the car and tiny adjacent reflections needed for perspective. All other artwork remains exactly as in the target.",
+      "references": [
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p056.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p049.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p062.webp"
+      ],
+      "selectedAttempt": "c12_p056_auto_v3",
+      "sha256": "34cece4e86bdfde48af8c21d5a8a71a8ce3de55eae7c8f5da79fca28a010c558",
+      "masterSha256": "d189247d529e917167009fa4e13aca6466455800e4b8b008b48ad29b7d9af8f0",
+      "ocrMissingCandidates": []
+    },
+    {
+      "chapter": 12,
+      "page": 65,
+      "original": "paginas/c12-p065.webp",
+      "image": "paginas/c12-p065-auto-v2.webp",
+      "workingMaster": ".local/maestros/correcciones-capitulo-12-2026-11-10/c12-p065-auto-v2.png",
+      "actualPanelCount": 6,
+      "summary": "Pansy sube las compras con magia y Hermione retira el hechizo del maletero. La casa sigue en silencio.",
+      "sourcePdfPages": [
+        527,
+        528,
+        529
+      ],
+      "panels": [
+        {
+          "scene": "Inside garage beside the stopped black coupé, Pansy gestures with her wand. Several green and charcoal shopping bags lift in an orderly line out of the open FRONT hood between the round headlights. Hermione watches, same winter clothes.",
+          "dialogue": [
+            "Pansy: En ocasiones olvidas que somos brujas, Granger."
+          ]
+        },
+        {
+          "scene": "Bag procession floats upstairs past the oak banister and wreath. View from below. Nobody walking under the bags, one soft golden glow.",
+          "caption": "Las bolsas subieron sin rozar las paredes."
+        },
+        {
+          "scene": "Hermione alone by the FRONT trunk. She points her wand briefly at its interior, a small silver glimmer disappearing as the compartment returns to normal depth.",
+          "caption": "Hermione retiró el encantamiento."
+        },
+        {
+          "scene": "Near the closed hood, Hermione at LEFT asks Pansy at RIGHT not to mention it. Pansy holds the keys with a small amused smile. Two ordered white balloons.",
+          "dialogue": [
+            "Hermione: Tú tampoco vas a decir nada.",
+            "Pansy: No diré nada."
+          ]
+        },
+        {
+          "scene": "Dim front sitting room. Hermione looks toward the wall clock and snowy windows. Pansy has taken off her trench and is by the coat hook, black turtleneck clear.",
+          "dialogue": [
+            "Hermione: Todavía no llegan."
+          ]
+        },
+        {
+          "scene": "By the oak stairs, Pansy holds up her coat cuff with amused disgust, Hermione smiles at her. Both fully clothed in sweaters and trousers, snowy lights behind.",
+          "dialogue": [
+            "Pansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería."
+          ]
+        }
+      ],
+      "previousTranscript": "Capítulo 12 · 65\n\nPansy sube las compras con magia y Hermione retira el hechizo del maletero. La casa sigue en silencio.\nPansy: En ocasiones olvidas que somos brujas, Granger.\nNarración: Las bolsas subieron sin rozar las paredes.\nNarración: Hermione retiró el encantamiento.\nHermione: Tú tampoco vas a decir nada.\nPansy: No diré nada.\nHermione: Todavía no llegan.\nPansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería.",
+      "transcript": "Capítulo 12 · 65\n\nPansy sube las compras con magia y Hermione retira el hechizo del maletero. La casa sigue en silencio.\nPansy: En ocasiones olvidas que somos brujas, Granger.\nNarración: Las bolsas subieron sin rozar las paredes.\nNarración: Hermione retiró el encantamiento.\nHermione: Tú tampoco vas a decir nada.\nPansy: No diré nada.\nHermione: Todavía no llegan.\nPansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería.",
+      "review": "Usa el automóvil corregido de 56. Bolsas levitando y compartimento vacío después de subirlas. Se preservan sala, escalera, personajes, seis viñetas y todos los diálogos.",
+      "prompt": "Precision continuity edit of the complete six-panel Spanish comic «Capítulo 12 · 65». Preserve the corrected black Porsche, all six panel borders, the same shapes and proportions, people, gestures, faces, clothes, text and setting. Only in panel 3, MIDDLE LEFT, remove the remaining shopping bags INSIDE the open front luggage compartment, because all bags have already floated out and upstairs in the preceding two panels. Restore the empty dark carpet-lined compartment under the same raised front lid, with the small wand sparkle inside. Keep Hermione’s hand and wand unchanged. Leave the bags in panels 1 and 2 exactly as they are. Keep the caption «Hermione retiró el encantamiento.» and every other word and accent untouched. No other changes.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-45686531-7cb9-4086-8321-0f51b0189389.png"
+      ],
+      "selectedAttempt": "c12_p065_auto_v3",
+      "sha256": "c703cb236c2e5204a16273d635f4fdb8765b541e9592aa4023a41a7ff5e12a20",
+      "masterSha256": "e6126c32fb70e6a83e2603ba997dbca76ac06ca020ef3d82a912008b8849bb2c",
+      "ocrMissingCandidates": [
+        "todavia",
+        "llegan",
+        "quiero",
+        "robin",
+        "madre",
+        "reemplazada",
+        "perfumeria"
+      ]
+    }
+  ]
+}

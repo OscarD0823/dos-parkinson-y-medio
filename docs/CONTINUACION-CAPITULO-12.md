@@ -106,7 +106,7 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 42 | 470–471–472 | Hablan de Viktor y Draco. Pansy distingue el peso de las expectativas familiares de la posibilidad de elegir. |
 | 43 | 473–474–475–476 | Pansy y Hermione hablan de la confianza y de poder pedir tiempo. Entonces empieza a nevar. |
 | 44 | 476–477 | La primera nevada cierra la noche frente al árbol. Robin descansa mientras las dos contemplan el jardín. |
-| 45 | 478–479–480 | Jane encuentra a Hermione en la habitación de invitados tras una noche de cuidar a Robin. Las llama a desayunar. |
+| 45 | 478–479–480 | Jane encuentra a Hermione, Pansy y Robin dormidos en la cama de Pansy y las cubre ante Malcolm antes de que bajen a desayunar. |
 | 46 | 480–481–482–483 | Durante el desayuno, Jane ofrece llevar a Robin a conocer a los cachorros. Hermione y Pansy acuerdan el plan. |
 | 47 | 484–485–486 | Pansy abriga a Robin y Hermione prepara todo para el viaje con sus abuelos. |
 | 48 | 486–487–488–489 | Jane y Malcolm se llevan a Robin a pasar el día. Crookshanks encuentra un lugar entre las mantas del coche. |
@@ -146,3 +146,11 @@ Adaptación del capítulo 12 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 68 | 531–532 | Hermione se entera de que Crookshanks viajó con ellos. Jane confirma que tienen lo necesario para la noche. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-61-68.json).
+
+## Revisión del 10 de noviembre de 2026
+
+La página 45 recupera la mañana de las páginas 478–480 del PDF. Hermione, Pansy y Robin despiertan en la misma cama y Jane las cubre ante Malcolm. La reconstrucción usa ocho viñetas para conservar el orden de las intervenciones.
+
+Las páginas 56 y 65 recuperan las proporciones del 911 negro mostrado en 49 y 62. Se revisan el frontal, los faros, el capó y el compartimento delantero, incluida la salida de las bolsas antes de retirar el hechizo.
+
+[Prompts, fuentes, transcripciones, maestros y revisión](prompts-correccion-capitulo-12-paginas-45-56-65.json).

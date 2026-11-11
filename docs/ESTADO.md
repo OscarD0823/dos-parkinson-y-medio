@@ -43,3 +43,5 @@ El 8 de noviembre se completa el capítulo 10 con las páginas 41–44, revisada
 El capítulo 11 llega a 44 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-11.md).
 
 El capítulo 12 llega a 68 páginas ilustradas. [Registro de continuación](CONTINUACION-CAPITULO-12.md).
+
+Se revisan las páginas 45, 56 y 65 del capítulo 12 a petición del 10 de noviembre. La 45 recupera la escena original de la cama y sus diálogos. La 56 y la 65 corrigen las proporciones del automóvil. El total sigue en 371 páginas. [Registro de las correcciones](prompts-correccion-capitulo-12-paginas-45-56-65.json).
