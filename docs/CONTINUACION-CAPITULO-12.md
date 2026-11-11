@@ -178,3 +178,14 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 76 | 550–551 | Robin aplaude los encantamientos. Jane añade regalos al árbol y el suéter de Malcolm provoca una nueva broma antes de la cena. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-73-76.json).
+
+## Páginas 77–80
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 77 | 552 | Antes de sentarse a cenar, Jane les entrega un regalo que lleva horas queriendo mostrarles. |
+| 78 | 552–553 | La fotografía de la noche del árbol reúne a los tres en el instante en que Robin colocó el búho. |
+| 79 | 553–554 | Robin mira a Hermione y a Pansy en la foto y dice su primera palabra. Las dos la oyen al mismo tiempo. |
+| 80 | 554–555 | La familia celebra la primera palabra de Robin y se sienta a cenar. Malcolm empieza a contar una historia de Hermione. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-77-80.json).

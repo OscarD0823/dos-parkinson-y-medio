@@ -1,0 +1,284 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-10",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    77,
+    80
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 77,
+      "image": "paginas/c12-p077.webp",
+      "sourcePdfPages": [
+        552
+      ],
+      "summary": "Antes de sentarse a cenar, Jane les entrega un regalo que lleva horas queriendo mostrarles.",
+      "panels": [
+        {
+          "scene": "Serving platters settle one by one on the single dining table. Hermione lowers her wand. Pansy holds Robin a few feet behind and he happily claps his tiny natural hands.",
+          "caption": "Robin siguió cada fuente con la mirada."
+        },
+        {
+          "scene": "Jane steps out with one flat cream-paper package with tiny holly sprig prints and a single red bow. Pansy looks intrigued, baby supported.",
+          "dialogue": [
+            "Jane: Pensaba darles esto después de la cena."
+          ]
+        },
+        {
+          "scene": "Close Jane smiles at the pair with genuine excitement. Present centered in the frame, all of her fingers appropriately curled underneath.",
+          "dialogue": [
+            "Jane: Pero quiero ver sus caras ahora."
+          ]
+        },
+        {
+          "scene": "Malcolm at left with light-up sweater makes the first remark. Jane at right gives the dry reply. Fully clothed, both keep exact mature hair and proportions.",
+          "dialogue": [
+            "Malcolm: Tu madre pasó tres horas escogiendo ese papel.",
+            "Jane: Navidad también tiene límites."
+          ]
+        },
+        {
+          "scene": "Pansy hands human Robin to Hermione with a gentle two-adult handoff, one woman supports torso and one supports legs. Jane holds the thin wrapped package separately, never both person and gift in the same arms.",
+          "caption": "Hermione tomó a Robin para que Pansy abriera el regalo."
+        },
+        {
+          "scene": "Pansy places the flat gift on the low oak table and loosens its single red bow with her TWO natural hands. Beside her, Hermione securely holds Robin; one of the baby's two tiny hands takes one short loose ribbon end. Ribbon is not tied or looped around anyone.",
+          "caption": "Robin no le quitaba los ojos al lazo rojo."
+        }
+      ],
+      "transcript": "Capítulo 12 · 77\n\nAntes de sentarse a cenar, Jane les entrega un regalo que lleva horas queriendo mostrarles.\nNarración: Robin siguió cada fuente con la mirada.\nJane: Pensaba darles esto después de la cena.\nJane: Pero quiero ver sus caras ahora.\nMalcolm: Tu madre pasó tres horas escogiendo ese papel.\nJane: Navidad también tiene límites.\nNarración: Hermione tomó a Robin para que Pansy abriera el regalo.\nNarración: Robin no le quitaba los ojos al lazo rojo.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas, regalo plano y lazo rojo, traspaso explícito de Robin con apoyo de ambas. Ropa, pasador, caras de mayores y reno luminoso fieles; anatomía y texto revisados.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p077.png",
+      "sha256": "565b6b04196d8d1c4eefcda8bf6c73f4c661c87a0a604d7714f3996f411b2287",
+      "masterSha256": "7b59372db9cbdd8deb11cf8b6a308ec5e156640b127da1d1857f90f2caf95a4c",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the earlier photographed tree-decorating moment and room only: gray loose-haired Hermione, plain green Pansy without clip, plain burgundy Robin, no gold reindeer in this OLD photograph. Image 4 is reference for the Christmas grandparents' mature faces, Malcolm's enormous reindeer sweater, Crookshanks red bow and gold bell, current outfits and exact home. Image 5 is reference for the CURRENT mother's and baby's exact Christmas clothes, Pansy's LEFT-side barrette, gold thread reindeer, Hermione's bun, sapphire, human baby hands and face.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at ANATOMICAL LEFT chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right in frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Robin may hold one short loose red ribbon after the gift is untied, as in the source, while securely held by Hermione; no ribbon tied around him. Other wrapping lies on the low table. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 77» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Serving platters settle one by one on the single dining table. Hermione lowers her wand. Pansy holds Robin a few feet behind and he happily claps his tiny natural hands. Caption verbatim «Robin siguió cada fuente con la mirada.»\nPanel 2. Jane steps out with one flat cream-paper package with tiny holly sprig prints and a single red bow. Pansy looks intrigued, baby supported. Balloon from Jane. Print verbatim «Pensaba darles esto después de la cena.»\nPanel 3. Close Jane smiles at the pair with genuine excitement. Present centered in the frame, all of her fingers appropriately curled underneath. Balloon from Jane. Print verbatim «Pero quiero ver sus caras ahora.»\nPanel 4. Malcolm at left with light-up sweater makes the first remark. Jane at right gives the dry reply. Fully clothed, both keep exact mature hair and proportions. Balloon from Malcolm. Print verbatim «Tu madre pasó tres horas escogiendo ese papel.» Balloon from Jane. Print verbatim «Navidad también tiene límites.»\nPanel 5. Pansy hands human Robin to Hermione with a gentle two-adult handoff, one woman supports torso and one supports legs. Jane holds the thin wrapped package separately, never both person and gift in the same arms. Caption verbatim «Hermione tomó a Robin para que Pansy abriera el regalo.»\nPanel 6. Pansy places the flat gift on the low oak table and loosens its single red bow with her TWO natural hands. Beside her, Hermione securely holds Robin; one of the baby's two tiny hands takes one short loose ribbon end. Ribbon is not tied or looped around anyone. Caption verbatim «Robin no le quitaba los ojos al lazo rojo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p038.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ac068686-a967-4c6b-a0a9-4b90b8f5de27.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-29f8fec5-f873-4d75-8b80-bd30ab20fa41.png"
+          ],
+          "generatedMaster": "exec-90e4ffbc-996a-411e-93c2-96633ac5acd5.png"
+        }
+      ]
+    },
+    {
+      "page": 78,
+      "image": "paginas/c12-p078.webp",
+      "sourcePdfPages": [
+        552,
+        553
+      ],
+      "summary": "La fotografía de la noche del árbol reúne a los tres en el instante en que Robin colocó el búho.",
+      "panels": [
+        {
+          "scene": "Pansy pulls plain tissue aside from the flat box on low table, finds dark oak framed still photo with narrow brass accents. Current clothes and hair exact. Hermione holds Robin beside her.",
+          "caption": "Dentro había un marco de madera oscura."
+        },
+        {
+          "scene": "Close straight view of the ONE still photo under its glass. Hermione with chestnut curls loose, gray sweater and frontal sapphire holds Robin safely, he reaches toward ONE crooked cloth owl low on tree, Pansy in plain green looks at them with softened smile. No words on photo, no additional camera flash or figure.",
+          "caption": "Era la noche en que Robin colocó su búho."
+        },
+        {
+          "scene": "Pansy holds frame level against her chest and traces one corner with a natural thumb. The framed picture partly visible. She looks quietly moved, same hair clip and sweater.",
+          "caption": "La foto muggle no se movía."
+        },
+        {
+          "scene": "Hermione smiles beside Pansy, still holding Robin. Jane’s warm eyes visible at right, her face mature.",
+          "dialogue": [
+            "Hermione: Mamá, es hermosa."
+          ]
+        },
+        {
+          "scene": "Pansy looks up at Jane from just beside low table. Jane returns a small warm smile. Exactly one frame in Pansy's two hands.",
+          "dialogue": [
+            "Pansy: Gracias, Jane. No podrías haber elegido un regalo mejor."
+          ]
+        },
+        {
+          "scene": "Pansy holds the frame lower, angled toward Robin at Hermione's shoulder height. Baby's green eyes focus on the photograph, one short red ribbon rests loosely in the baby's other hand at waist level, never tied.",
+          "caption": "Robin se quedó mirando las figuras detrás del cristal."
+        }
+      ],
+      "transcript": "Capítulo 12 · 78\n\nLa fotografía de la noche del árbol reúne a los tres en el instante en que Robin colocó el búho.\nNarración: Dentro había un marco de madera oscura.\nNarración: Era la noche en que Robin colocó su búho.\nNarración: La foto muggle no se movía.\nHermione: Mamá, es hermosa.\nPansy: Gracias, Jane. No podrías haber elegido un regalo mejor.\nNarración: Robin se quedó mirando las figuras detrás del cristal.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas y foto quieta con marco roble oscuro/dorado. Foto antigua distingue ropa sin renos, Hermione gris/rizos sueltos, Pansy verde/sin pasador y Robin burdeos; presente rojo y recogido. Texto y bebés/manos íntegros.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p078.png",
+      "sha256": "89aa4645717b68cc1595d696fd7056c4921ed8465b69673bb0346ef8266201e6",
+      "masterSha256": "325c07c383c6c0f52cdbfb252cd532979d51777ab9e24d8648d90734845912c6",
+      "ocrMissingCandidates": [
+        "dentro",
+        "habia",
+        "marco",
+        "madera",
+        "oscura",
+        "noche",
+        "coloco",
+        "muggle",
+        "movia",
+        "hermosa"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the earlier photographed tree-decorating moment and room only: gray loose-haired Hermione, plain green Pansy without clip, plain burgundy Robin, no gold reindeer in this OLD photograph. Image 4 is reference for the Christmas grandparents' mature faces, Malcolm's enormous reindeer sweater, Crookshanks red bow and gold bell, current outfits and exact home. Image 5 is reference for the CURRENT mother's and baby's exact Christmas clothes, Pansy's LEFT-side barrette, gold thread reindeer, Hermione's bun, sapphire, human baby hands and face.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at ANATOMICAL LEFT chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right in frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Robin may hold one short loose red ribbon after the gift is untied, as in the source, while securely held by Hermione; no ribbon tied around him. Other wrapping lies on the low table. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 78» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy pulls plain tissue aside from the flat box on low table, finds dark oak framed still photo with narrow brass accents. Current clothes and hair exact. Hermione holds Robin beside her. Caption verbatim «Dentro había un marco de madera oscura.»\nPanel 2. Close straight view of the ONE still photo under its glass. Hermione with chestnut curls loose, gray sweater and frontal sapphire holds Robin safely, he reaches toward ONE crooked cloth owl low on tree, Pansy in plain green looks at them with softened smile. No words on photo, no additional camera flash or figure. Caption verbatim «Era la noche en que Robin colocó su búho.»\nPanel 3. Pansy holds frame level against her chest and traces one corner with a natural thumb. The framed picture partly visible. She looks quietly moved, same hair clip and sweater. Caption verbatim «La foto muggle no se movía.»\nPanel 4. Hermione smiles beside Pansy, still holding Robin. Jane’s warm eyes visible at right, her face mature. Balloon from Hermione. Print verbatim «Mamá, es hermosa.»\nPanel 5. Pansy looks up at Jane from just beside low table. Jane returns a small warm smile. Exactly one frame in Pansy's two hands. Balloon from Pansy. Print verbatim «Gracias, Jane. No podrías haber elegido un regalo mejor.»\nPanel 6. Pansy holds the frame lower, angled toward Robin at Hermione's shoulder height. Baby's green eyes focus on the photograph, one short red ribbon rests loosely in the baby's other hand at waist level, never tied. Caption verbatim «Robin se quedó mirando las figuras detrás del cristal.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p038.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ac068686-a967-4c6b-a0a9-4b90b8f5de27.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-29f8fec5-f873-4d75-8b80-bd30ab20fa41.png"
+          ],
+          "generatedMaster": "exec-59d33c6e-7572-4a24-8757-401c12ab63af.png"
+        }
+      ]
+    },
+    {
+      "page": 79,
+      "image": "paginas/c12-p079.webp",
+      "sourcePdfPages": [
+        553,
+        554
+      ],
+      "summary": "Robin mira a Hermione y a Pansy en la foto y dice su primera palabra. Las dos la oyen al mismo tiempo.",
+      "panels": [
+        {
+          "scene": "Close Robin’s tiny human index finger touches the glass over Hermione’s pictured curls. In current scene his tiny sleeve is burgundy. The glass is intact and frame held steady by Pansy's hand.",
+          "caption": "Primero tocó la figura de Hermione."
+        },
+        {
+          "scene": "Robin shifts his palm toward Pansy's pictured profile, then looks up. Both real women's nearby outlines distinct from still photo. Only one little speech balloon from baby.",
+          "dialogue": [
+            "Robin: Ma…"
+          ]
+        },
+        {
+          "scene": "Close Robin's recognizable human face, round green eyes and softly parted lips, with Hermione’s safe arms around him. He says the exact word tentatively. No added words or sound effects.",
+          "dialogue": [
+            "Robin: Ma-má."
+          ]
+        },
+        {
+          "scene": "Hermione on LEFT holds Robin, Pansy on RIGHT grips the frame. Both look surprised and moved, distinct expressions. Two exact balloons in natural order.",
+          "dialogue": [
+            "Hermione: ¿Lo escuchaste?",
+            "Pansy: Por Merlín…"
+          ]
+        },
+        {
+          "scene": "Jane turns from armchair and calls toward the kitchen, delighted. Malcolm only begins to appear at the arch, no duplication. Malcolm carries one wine bottle and one small corkscrew normally, as in the source.",
+          "dialogue": [
+            "Jane: ¡Malcolm, ven! ¡Robin acaba de decir su primera palabra!"
+          ]
+        },
+        {
+          "scene": "Robin repeats with more confidence from Hermione's arms, one real tiny hand near her red gold-thread sweater, Pansy close by with frame. The exact one-line speech.",
+          "dialogue": [
+            "Robin: Ma-má."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 79\n\nRobin mira a Hermione y a Pansy en la foto y dice su primera palabra. Las dos la oyen al mismo tiempo.\nNarración: Primero tocó la figura de Hermione.\nRobin: Ma…\nRobin: Ma-má.\nHermione: ¿Lo escuchaste?\nPansy: Por Merlín…\nJane: ¡Malcolm, ven! ¡Robin acaba de decir su primera palabra!\nRobin: Ma-má.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas, foto idéntica de 78, Robin toca a ambas y pronuncia Ma-má; Jane llama a Malcolm con vino y sacacorchos. Bebé humano, joyas, ropa y texto íntegros.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p079.png",
+      "sha256": "4c50f2bddf201863de3c820ac1e2b14ee5a33c20fedab22bf93c2420fcca13d8",
+      "masterSha256": "94d81ec847f6dea85a1303526e0e3c17eaad2929843aef51a040bf49c049320b",
+      "ocrMissingCandidates": [
+        "malcolm",
+        "robin"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact dark oak and gold frame, the STILL photo and its OLD plain outfits, plus current Christmas faces, bun and barrette; keep the scene inside the photo identical. Image 4 is reference for the Christmas grandparents' mature faces, Malcolm's enormous reindeer sweater, Crookshanks red bow and gold bell, current outfits and exact home. Image 5 is reference for the CURRENT mother's and baby's exact Christmas clothes, Pansy's LEFT-side barrette, gold thread reindeer, Hermione's bun, sapphire, human baby hands and face.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at ANATOMICAL LEFT chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right in frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Robin may hold one short loose red ribbon after the gift is untied, as in the source, while securely held by Hermione; no ribbon tied around him. Other wrapping lies on the low table. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 79» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Close Robin’s tiny human index finger touches the glass over Hermione’s pictured curls. In current scene his tiny sleeve is burgundy. The glass is intact and frame held steady by Pansy's hand. Caption verbatim «Primero tocó la figura de Hermione.»\nPanel 2. Robin shifts his palm toward Pansy's pictured profile, then looks up. Both real women's nearby outlines distinct from still photo. Only one little speech balloon from baby. Balloon from Robin. Print verbatim «Ma…»\nPanel 3. Close Robin's recognizable human face, round green eyes and softly parted lips, with Hermione’s safe arms around him. He says the exact word tentatively. No added words or sound effects. Balloon from Robin. Print verbatim «Ma-má.»\nPanel 4. Hermione on LEFT holds Robin, Pansy on RIGHT grips the frame. Both look surprised and moved, distinct expressions. Two exact balloons in natural order. Balloon from Hermione. Print verbatim «¿Lo escuchaste?» Balloon from Pansy. Print verbatim «Por Merlín…»\nPanel 5. Jane turns from armchair and calls toward the kitchen, delighted. Malcolm only begins to appear at the arch, no duplication. Malcolm carries one wine bottle and one small corkscrew normally, as in the source. Balloon from Jane. Print verbatim «¡Malcolm, ven! ¡Robin acaba de decir su primera palabra!»\nPanel 6. Robin repeats with more confidence from Hermione's arms, one real tiny hand near her red gold-thread sweater, Pansy close by with frame. The exact one-line speech. Balloon from Robin. Print verbatim «Ma-má.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-59d33c6e-7572-4a24-8757-401c12ab63af.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ac068686-a967-4c6b-a0a9-4b90b8f5de27.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-29f8fec5-f873-4d75-8b80-bd30ab20fa41.png"
+          ],
+          "generatedMaster": "exec-ccf4aa39-d053-4a66-8aed-883c5a3b7a34.png"
+        }
+      ]
+    },
+    {
+      "page": 80,
+      "image": "paginas/c12-p080.webp",
+      "sourcePdfPages": [
+        554,
+        555
+      ],
+      "summary": "La familia celebra la primera palabra de Robin y se sienta a cenar. Malcolm empieza a contar una historia de Hermione.",
+      "panels": [
+        {
+          "scene": "Malcolm now in living room, dark glasses and reindeer sweater with red bulb, asks warmly. Jane smiles by him. Pansy and Hermione with Robin across room. Malcolm has a wine bottle and a small corkscrew, held normally far from baby.",
+          "dialogue": [
+            "Malcolm: ¿Qué dijo?"
+          ]
+        },
+        {
+          "scene": "Close both young women reply at the same instant, Hermione at left supporting Robin, Pansy at right. One single white balloon with two clear tails, one toward each adult, no arrow to baby.",
+          "dialogue": [
+            "Hermione y Pansy: Mamá."
+          ]
+        },
+        {
+          "scene": "Jane puts photo in a safe place on the low cabinet by tree. Malcolm looks at Robin affectionately, then gestures toward dinner with one open hand. Baby is comfortably held by Hermione.",
+          "dialogue": [
+            "Malcolm: Cuando aprenden una palabra, no dejan de repetirla."
+          ]
+        },
+        {
+          "scene": "Dinner establishing view, one table, four adults in recognizable outfits and one Robin in highchair close to his mothers. Pansy near him. One pudding still on separate sideboard, roast at center.",
+          "caption": "Por fin se sentaron a cenar."
+        },
+        {
+          "scene": "Robin pats his own chair tray with two small human hands, green eyes watching Hermione and Pansy, cheeks bright. No hands from other people in the frame.",
+          "dialogue": [
+            "Robin: Ma-ma-ma."
+          ]
+        },
+        {
+          "scene": "Malcolm at one end of table starts an old story. Hermione at near left lowers a single fork and looks a little suspicious. Pansy listens with amused green eyes.",
+          "dialogue": [
+            "Malcolm: Hermione tenía siete años cuando empezó a investigar a Santa Claus."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 80\n\nLa familia celebra la primera palabra de Robin y se sienta a cenar. Malcolm empieza a contar una historia de Hermione.\nMalcolm: ¿Qué dijo?\nHermione y Pansy: Mamá.\nMalcolm: Cuando aprenden una palabra, no dejan de repetirla.\nNarración: Por fin se sentaron a cenar.\nRobin: Ma-ma-ma.\nMalcolm: Hermione tenía siete años cuando empezó a investigar a Santa Claus.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas: globo compartido Mamá con dos colas, foto guardada, una mesa de cena con cuatro adultos y Robin en periquera, Malcolm inicia historia. Texto, caras, manos y entornos revisados.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p080.png",
+      "sha256": "165af9b6a4feb21230c8feb47685394c6e441aa6d95226377b1e2ad8dab97896",
+      "masterSha256": "e0ec1da291612e9a4ca129594505426609b9fcef916c4ef6c4cf23efda3a2a5f",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact single dining table, chairs and arch. Image 4 is reference for Malcolm and Jane's mature faces and current reindeer sweater; dining room, clothes and cat bow. Image 5 is reference for the dark oak photo frame and all CURRENT mother's and baby's Christmas designs.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at ANATOMICAL LEFT chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right in frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Robin may hold one short loose red ribbon after the gift is untied, as in the source, while securely held by Hermione; no ribbon tied around him. Other wrapping lies on the low table. \nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 80» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Malcolm now in living room, dark glasses and reindeer sweater with red bulb, asks warmly. Jane smiles by him. Pansy and Hermione with Robin across room. Malcolm has a wine bottle and a small corkscrew, held normally far from baby. Balloon from Malcolm. Print verbatim «¿Qué dijo?»\nPanel 2. Close both young women reply at the same instant, Hermione at left supporting Robin, Pansy at right. One single white balloon with two clear tails, one toward each adult, no arrow to baby. Balloon from Hermione y Pansy. Print verbatim «Mamá.»\nPanel 3. Jane puts photo in a safe place on the low cabinet by tree. Malcolm looks at Robin affectionately, then gestures toward dinner with one open hand. Baby is comfortably held by Hermione. Balloon from Malcolm. Print verbatim «Cuando aprenden una palabra, no dejan de repetirla.»\nPanel 4. Dinner establishing view, one table, four adults in recognizable outfits and one Robin in highchair close to his mothers. Pansy near him. One pudding still on separate sideboard, roast at center. Caption verbatim «Por fin se sentaron a cenar.»\nPanel 5. Robin pats his own chair tray with two small human hands, green eyes watching Hermione and Pansy, cheeks bright. No hands from other people in the frame. Balloon from Robin. Print verbatim «Ma-ma-ma.»\nPanel 6. Malcolm at one end of table starts an old story. Hermione at near left lowers a single fork and looks a little suspicious. Pansy listens with amused green eyes. Balloon from Malcolm. Print verbatim «Hermione tenía siete años cuando empezó a investigar a Santa Claus.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c12-p019.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ac068686-a967-4c6b-a0a9-4b90b8f5de27.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-59d33c6e-7572-4a24-8757-401c12ab63af.png"
+          ],
+          "generatedMaster": "exec-5576df36-936d-4868-ae3a-d00f6c16d856.png"
+        }
+      ]
+    }
+  ]
+}
