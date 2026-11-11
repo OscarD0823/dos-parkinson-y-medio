@@ -189,3 +189,14 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 80 | 554–555 | La familia celebra la primera palabra de Robin y se sienta a cenar. Malcolm empieza a contar una historia de Hermione. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-77-80.json).
+
+## Páginas 81–84
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 81 | 555–556 | Malcolm y Jane recuerdan cómo Hermione, a los siete años, intentó explicar el recorrido de Santa Claus. |
+| 82 | 556–557–558 | Pansy responde con magia a las preguntas que quedaron de la infancia de Hermione. El resto de la mesa se sorprende. |
+| 83 | 559–560 | Pansy declara una tregua con Crookshanks. Jane cuenta cómo el gato se quedó cerca de Robin en Derbyshire. |
+| 84 | 560–561 | Jane reparte sus regalos. Las notas que dejó en los libros hacen que Pansy sienta que la escucharon. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-81-84.json).
