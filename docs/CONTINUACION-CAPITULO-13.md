@@ -34,3 +34,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 12 | 582 | Chiara saluda a Arianna. Blaise abraza a Pansy y las amigas lo hacen bromear sobre sus discusiones con los cocineros y una cuchara. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-09-12.json).
+
+## Páginas 13–16
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 13 | 583 | Blaise saluda a Hermione con un abrazo efusivo y descubre el diamante. Daphne aclara que fue una promesa de Navidad, pero él empieza a hacer planes. |
+| 14 | 584 | Blaise se ofrece como padrino y custodio de las alianzas, bromea sobre Robin y los gemelos de camisa de Draco, y descubre el brazalete H/R/P. |
+| 15 | 585 | Blaise reconoce el significado de ambos regalos. Pansy abraza a Hermione por la cintura y las bromas sobre la ceremonia continúan hasta que los bebés se reconocen. |
+| 16 | 586 | Chiara y Blaise acercan a Arianna y Robin. Los bebés se ríen y Robin intenta agarrar los moños de Arianna mientras Blaise le habla en italiano. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-13-16.json).
