@@ -211,3 +211,14 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 88 | 563–564 | El cronógrafo de Malcolm abre la conversación sobre el coche. El hechizo del maletero deja de ser un secreto. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-85-88.json).
+
+## Páginas 89–92
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 89 | 564–565 | Malcolm descubrió que el encantamiento seguía en el maletero. Pansy presenta a Robin una Snitch pequeña con encantamientos de localización. |
+| 90 | 565–566 | La Snitch es de las dos madres. Pansy sostiene a Robin mientras intenta alcanzarla y Crookshanks calcula cómo cazar el nuevo juguete. |
+| 91 | 566 | Solo queda una caja de terciopelo verde. Pansy presenta el anillo y aclara ante los Granger el sentido de su regalo. |
+| 92 | 566–567 | Pansy cuenta la costumbre que rompieron sus padres y explica que mandó diseñar el anillo para Hermione como una promesa propia. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-89-92.json).

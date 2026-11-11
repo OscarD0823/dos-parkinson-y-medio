@@ -1,0 +1,300 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-11",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    89,
+    92
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 89,
+      "image": "paginas/c12-p089.webp",
+      "sourcePdfPages": [
+        564,
+        565
+      ],
+      "summary": "Malcolm descubrió que el encantamiento seguía en el maletero. Pansy presenta a Robin una Snitch pequeña con encantamientos de localización.",
+      "panels": [
+        {
+          "scene": "Malcolm in glowing reindeer sweater smiles by the low table, wristwatch new. Hermione in red is caught off guard, at left, Pansy at edge amused. Two balloons from Hermione then Malcolm.",
+          "dialogue": [
+            "Hermione: ¿Cómo lo supiste?",
+            "Malcolm: La capacidad del compartimento se triplicó."
+          ]
+        },
+        {
+          "scene": "Hermione insists from left, Malcolm at right gives a dry calm reply. Pansy green remains nearby, no image of car needed.",
+          "dialogue": [
+            "Hermione: ¡Quité el hechizo!",
+            "Malcolm: Sigue ahí."
+          ]
+        },
+        {
+          "scene": "Pansy lifts ONE natural hand as Hermione gives her an accusing look; both still in Christmas sweaters, fine bracelet on Pansy's LEFT wrist.",
+          "dialogue": [
+            "Pansy: Yo prometí no decirle nada y cumplí."
+          ]
+        },
+        {
+          "scene": "Pansy sits on rug close to one human Robin in burgundy and cream with separate blue elephant in his lap. She opens a small plain gift box on rug, dark green foam inside, while Hermione sits nearby.",
+          "caption": "El siguiente regalo pertenecía a Robin."
+        },
+        {
+          "scene": "Close Pansy holds a SMALL gold Snitch ball with two delicate silver-gold wings in one palm, checking it with her other hand holding a short wand. Fine bracelet on her left wrist, no rings. Wings separate from her two hands.",
+          "caption": "Pansy revisó por última vez los encantamientos."
+        },
+        {
+          "scene": "Small golden winged toy floats gently in front of Robin at a comfortable distance. Pansy's supporting hand behind his back; he reaches with one tiny natural hand, blue elephant separate on lap. Hermione watches attentively.",
+          "dialogue": [
+            "Pansy: También funciona como localizador."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 89\n\nMalcolm descubrió que el encantamiento seguía en el maletero. Pansy presenta a Robin una Snitch pequeña con encantamientos de localización.\nHermione: ¿Cómo lo supiste?\nMalcolm: La capacidad del compartimento se triplicó.\nHermione: ¡Quité el hechizo!\nMalcolm: Sigue ahí.\nPansy: Yo prometí no decirle nada y cumplí.\nNarración: El siguiente regalo pertenecía a Robin.\nNarración: Pansy revisó por última vez los encantamientos.\nPansy: También funciona como localizador.",
+      "actualPanelCount": 6,
+      "review": "Seis cuadros revisados. Humor del hechizo residual, caja y Snitch pequeña con dos alas. Robin humano separado de elefante, gato y dos cachorros. Brazalete/reloj izquierdos y texto completo.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p089.png",
+      "sha256": "d9bd0dc6cdde8fb6d5e32b25e0817668e3d13551ead6471af15300bc7ef39997",
+      "masterSha256": "cb1bc1ce034ed0b7fe8351753103e79e9eadef00729c38579707b0227d3b8cf2",
+      "ocrMissingCandidates": [
+        "quite"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the new black chronograph on Malcolm's LEFT wrist, exact current grandparents and mother's faces and Christmas outfits, single room. Image 4 is reference for the fine white-gold H/R/P charm bracelet on Pansy's anatomical LEFT wrist, current mother's face, hair and sweater; keep LEFT hair clip and no earrings. Image 5 is reference for the one blue elephant plush, clearly separate HUMAN Robin, exact room, baby clothes and two distinct Bernese pups.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at left chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right on frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Keep present gift wrapping and discarded paper only on the low table or away from pets. One separate soft dusty-blue elephant with pink/lilac inner ears, short curved trunk and white toes belongs to Robin now. Pansy wears a FINE WHITE GOLD CHAIN BRACELET on her ANATOMICAL LEFT wrist with three small individual clear charms H, R, P from page 86. Malcolm now has a black chronograph on his LEFT wrist. Hermione has NO RING until page 93. Jewelry is not duplicated. No new wrapped books or extra gifts. Baby remains human, held or sitting on the rug right next to his mothers.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 89» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Malcolm in glowing reindeer sweater smiles by the low table, wristwatch new. Hermione in red is caught off guard, at left, Pansy at edge amused. Two balloons from Hermione then Malcolm. Balloon from Hermione. Print verbatim «¿Cómo lo supiste?» Balloon from Malcolm. Print verbatim «La capacidad del compartimento se triplicó.»\nPanel 2. Hermione insists from left, Malcolm at right gives a dry calm reply. Pansy green remains nearby, no image of car needed. Balloon from Hermione. Print verbatim «¡Quité el hechizo!» Balloon from Malcolm. Print verbatim «Sigue ahí.»\nPanel 3. Pansy lifts ONE natural hand as Hermione gives her an accusing look; both still in Christmas sweaters, fine bracelet on Pansy's LEFT wrist. Balloon from Pansy. Print verbatim «Yo prometí no decirle nada y cumplí.»\nPanel 4. Pansy sits on rug close to one human Robin in burgundy and cream with separate blue elephant in his lap. She opens a small plain gift box on rug, dark green foam inside, while Hermione sits nearby. Caption verbatim «El siguiente regalo pertenecía a Robin.»\nPanel 5. Close Pansy holds a SMALL gold Snitch ball with two delicate silver-gold wings in one palm, checking it with her other hand holding a short wand. Fine bracelet on her left wrist, no rings. Wings separate from her two hands. Caption verbatim «Pansy revisó por última vez los encantamientos.»\nPanel 6. Small golden winged toy floats gently in front of Robin at a comfortable distance. Pansy's supporting hand behind his back; he reaches with one tiny natural hand, blue elephant separate on lap. Hermione watches attentively. Balloon from Pansy. Print verbatim «También funciona como localizador.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4359cb58-7e3e-453d-94c8-c942431b9b80.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dd15671f-8e8c-4764-8c42-65d91207caf4.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7673b325-5bd7-48fd-9b2b-ce8ca58855ec.png"
+          ],
+          "generatedMaster": "exec-a11083ac-592d-4c09-a9d0-e2bcb3fd66bc.png"
+        }
+      ]
+    },
+    {
+      "page": 90,
+      "image": "paginas/c12-p090.webp",
+      "sourcePdfPages": [
+        565,
+        566
+      ],
+      "summary": "La Snitch es de las dos madres. Pansy sostiene a Robin mientras intenta alcanzarla y Crookshanks calcula cómo cazar el nuevo juguete.",
+      "panels": [
+        {
+          "scene": "Hermione sits to the LEFT of Pansy on rug beside child, smiles admiringly toward the small Snitch. Pansy green at right, Robin between them supported.",
+          "dialogue": [
+            "Hermione: Pensaste en todo."
+          ]
+        },
+        {
+          "scene": "Pansy meets Hermione's eyes, one hand supports baby's back and the other rests on her own lap, bracelet at anatomical left.",
+          "dialogue": [
+            "Pansy: Pensamos. Es de parte de las dos."
+          ]
+        },
+        {
+          "scene": "Robin leans toward the slow Snitch, TWO natural hands in front, and Pansy places ONE hand across his little belly to support him. He remains seated on rug, toy wings separate from baby's fingers. Blue elephant beside his knee.",
+          "dialogue": [
+            "Pansy: Con calma, cariño. No tienes que atraparla esta noche."
+          ]
+        },
+        {
+          "scene": "Crookshanks crouches on his own rust chair, yellow eyes follow the distant small gold toy. Red velvet bow and gold bell distinct. Pansy's voice comes clearly from offscreen left, no figure added.",
+          "dialogue": [
+            "Pansy: Ni se te ocurra."
+          ]
+        },
+        {
+          "scene": "Hermione smiles looking from cat to Robin, safely supported by Pansy beside her. Baby is a human infant, holds blue elephant again.",
+          "dialogue": [
+            "Hermione: Creo que acabas de asegurar que nunca pierda de vista a Robin."
+          ]
+        },
+        {
+          "scene": "Pansy looks at cat then toward child with mock confidence, same left bracelet, Hermione rests head lightly on her shoulder for a moment.",
+          "dialogue": [
+            "Pansy: Voy a fingir que esa medida de seguridad también formaba parte del diseño."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 90\n\nLa Snitch es de las dos madres. Pansy sostiene a Robin mientras intenta alcanzarla y Crookshanks calcula cómo cazar el nuevo juguete.\nHermione: Pensaste en todo.\nPansy: Pensamos. Es de parte de las dos.\nPansy: Con calma, cariño. No tienes que atraparla esta noche.\nPansy: Ni se te ocurra.\nHermione: Creo que acabas de asegurar que nunca pierda de vista a Robin.\nPansy: Voy a fingir que esa medida de seguridad también formaba parte del diseño.",
+      "actualPanelCount": 6,
+      "review": "Seis cuadros, regalo de ambas, mano de apoyo al bebé al alcanzar Snitch, elefante distinto y reacción de Crookshanks. Ropa, caras, manos, diálogo y acentos íntegros.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p090.png",
+      "sha256": "62b4dc00989ced01d30e3af86d92e61494402a85bd8f5ed4367fadfa745ea10a",
+      "masterSha256": "3592ecb14501e73c311df926901953506c4adc4544efb7189ba934ba97ab764b",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the new black chronograph on Malcolm's LEFT wrist, exact current grandparents and mother's faces and Christmas outfits, single room. Image 4 is reference for the fine white-gold H/R/P charm bracelet on Pansy's anatomical LEFT wrist, current mother's face, hair and sweater; keep LEFT hair clip and no earrings. Image 5 is reference for the one blue elephant plush, clearly separate HUMAN Robin, exact room, baby clothes and two distinct Bernese pups.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at left chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right on frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Keep present gift wrapping and discarded paper only on the low table or away from pets. One separate soft dusty-blue elephant with pink/lilac inner ears, short curved trunk and white toes belongs to Robin now. Pansy wears a FINE WHITE GOLD CHAIN BRACELET on her ANATOMICAL LEFT wrist with three small individual clear charms H, R, P from page 86. Malcolm now has a black chronograph on his LEFT wrist. Hermione has NO RING until page 93. Jewelry is not duplicated. No new wrapped books or extra gifts. Baby remains human, held or sitting on the rug right next to his mothers.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 90» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione sits to the LEFT of Pansy on rug beside child, smiles admiringly toward the small Snitch. Pansy green at right, Robin between them supported. Balloon from Hermione. Print verbatim «Pensaste en todo.»\nPanel 2. Pansy meets Hermione's eyes, one hand supports baby's back and the other rests on her own lap, bracelet at anatomical left. Balloon from Pansy. Print verbatim «Pensamos. Es de parte de las dos.»\nPanel 3. Robin leans toward the slow Snitch, TWO natural hands in front, and Pansy places ONE hand across his little belly to support him. He remains seated on rug, toy wings separate from baby's fingers. Blue elephant beside his knee. Balloon from Pansy. Print verbatim «Con calma, cariño. No tienes que atraparla esta noche.»\nPanel 4. Crookshanks crouches on his own rust chair, yellow eyes follow the distant small gold toy. Red velvet bow and gold bell distinct. Pansy's voice comes clearly from offscreen left, no figure added. Balloon from Pansy. Print verbatim «Ni se te ocurra.»\nPanel 5. Hermione smiles looking from cat to Robin, safely supported by Pansy beside her. Baby is a human infant, holds blue elephant again. Balloon from Hermione. Print verbatim «Creo que acabas de asegurar que nunca pierda de vista a Robin.»\nPanel 6. Pansy looks at cat then toward child with mock confidence, same left bracelet, Hermione rests head lightly on her shoulder for a moment. Balloon from Pansy. Print verbatim «Voy a fingir que esa medida de seguridad también formaba parte del diseño.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4359cb58-7e3e-453d-94c8-c942431b9b80.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dd15671f-8e8c-4764-8c42-65d91207caf4.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7673b325-5bd7-48fd-9b2b-ce8ca58855ec.png"
+          ],
+          "generatedMaster": "exec-e423f8df-8ddb-4fa5-ac81-14de0717b1a7.png"
+        }
+      ]
+    },
+    {
+      "page": 91,
+      "image": "paginas/c12-p091.webp",
+      "sourcePdfPages": [
+        566
+      ],
+      "summary": "Solo queda una caja de terciopelo verde. Pansy presenta el anillo y aclara ante los Granger el sentido de su regalo.",
+      "panels": [
+        {
+          "scene": "Pansy has picked up the LAST small closed DARK GREEN velvet jewelry box, nervous smile becoming earnest. Hermione sits back on olive sofa with Robin close to her on rug. No ring yet on Hermione.",
+          "caption": "Solo quedaba una caja."
+        },
+        {
+          "scene": "Pansy sits on EDGE of low oak coffee table facing Hermione on sofa, fully clothed, feet on rug, box in her two hands. Jane and Malcolm in separate rust chairs exchange a look, Malcolm straightens.",
+          "caption": "Malcolm reconoció la forma antes de que se abriera."
+        },
+        {
+          "scene": "Macro open dark green velvet box containing ONE delicate ring: CLEAR COLORLESS OVAL DIAMOND, small clear diamond halo, fine white-metal band. Christmas light reflections, no blue gemstone (blue sapphire stays on Hermione's necklace).",
+          "caption": "El diamante atrapó la luz del árbol."
+        },
+        {
+          "scene": "Pansy at left holds the open box and briefly glances toward Malcolm at right, who is clearly listening. One exact balloon from Pansy.",
+          "dialogue": [
+            "Pansy: Antes de que alguien entre en pánico, no es un anillo de compromiso."
+          ]
+        },
+        {
+          "scene": "Malcolm gives visible relieved exhale and Jane gently nudges his covered upper arm with her elbow, amused reproach. Both mature faces and his glowing reindeer nose. No balloon.",
+          "caption": "Jane tuvo que darle un pequeño golpe con el codo."
+        },
+        {
+          "scene": "Pansy returns her gaze to Hermione, box remains steady in her hands, fine left wrist bracelet visible. Hermione listens without interrupting.",
+          "dialogue": [
+            "Pansy: En mi familia, las joyas solían entregarse para cerrar acuerdos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 91\n\nSolo queda una caja de terciopelo verde. Pansy presenta el anillo y aclara ante los Granger el sentido de su regalo.\nNarración: Solo quedaba una caja.\nNarración: Malcolm reconoció la forma antes de que se abriera.\nNarración: El diamante atrapó la luz del árbol.\nPansy: Antes de que alguien entre en pánico, no es un anillo de compromiso.\nNarración: Jane tuvo que darle un pequeño golpe con el codo.\nPansy: En mi familia, las joyas solían entregarse para cerrar acuerdos.",
+      "actualPanelCount": 6,
+      "review": "Seis cuadros: caja verde oscuro con borde oro y anillo claro oval de halo, familia escucha y Malcolm reacciona; Pansy aclara que no es compromiso. Texto y joyas revisados, Hermione aún sin anillo.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p091.png",
+      "sha256": "9de9820426d2cd5187026871be8f151f76afc5d2391eb4b8aa1c5eb6024f0b2c",
+      "masterSha256": "b74733a4d4e9275c9d3a2dde143dfce32a3e4c821a1d44b43f9ecc54f42da317",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the new black chronograph on Malcolm's LEFT wrist, exact current grandparents and mother's faces and Christmas outfits, single room. Image 4 is reference for the fine white-gold H/R/P charm bracelet on Pansy's anatomical LEFT wrist, current mother's face, hair and sweater; keep LEFT hair clip and no earrings. Image 5 is reference for the one blue elephant plush, clearly separate HUMAN Robin, exact room, baby clothes and two distinct Bernese pups.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at left chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right on frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Keep present gift wrapping and discarded paper only on the low table or away from pets. One separate soft dusty-blue elephant with pink/lilac inner ears, short curved trunk and white toes belongs to Robin now. Pansy wears a FINE WHITE GOLD CHAIN BRACELET on her ANATOMICAL LEFT wrist with three small individual clear charms H, R, P from page 86. Malcolm now has a black chronograph on his LEFT wrist. Hermione has NO RING until page 93. Jewelry is not duplicated. No new wrapped books or extra gifts. Baby remains human, held or sitting on the rug right next to his mothers.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 91» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy has picked up the LAST small closed DARK GREEN velvet jewelry box, nervous smile becoming earnest. Hermione sits back on olive sofa with Robin close to her on rug. No ring yet on Hermione. Caption verbatim «Solo quedaba una caja.»\nPanel 2. Pansy sits on EDGE of low oak coffee table facing Hermione on sofa, fully clothed, feet on rug, box in her two hands. Jane and Malcolm in separate rust chairs exchange a look, Malcolm straightens. Caption verbatim «Malcolm reconoció la forma antes de que se abriera.»\nPanel 3. Macro open dark green velvet box containing ONE delicate ring: CLEAR COLORLESS OVAL DIAMOND, small clear diamond halo, fine white-metal band. Christmas light reflections, no blue gemstone (blue sapphire stays on Hermione's necklace). Caption verbatim «El diamante atrapó la luz del árbol.»\nPanel 4. Pansy at left holds the open box and briefly glances toward Malcolm at right, who is clearly listening. One exact balloon from Pansy. Balloon from Pansy. Print verbatim «Antes de que alguien entre en pánico, no es un anillo de compromiso.»\nPanel 5. Malcolm gives visible relieved exhale and Jane gently nudges his covered upper arm with her elbow, amused reproach. Both mature faces and his glowing reindeer nose. No balloon. Caption verbatim «Jane tuvo que darle un pequeño golpe con el codo.»\nPanel 6. Pansy returns her gaze to Hermione, box remains steady in her hands, fine left wrist bracelet visible. Hermione listens without interrupting. Balloon from Pansy. Print verbatim «En mi familia, las joyas solían entregarse para cerrar acuerdos.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4359cb58-7e3e-453d-94c8-c942431b9b80.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dd15671f-8e8c-4764-8c42-65d91207caf4.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7673b325-5bd7-48fd-9b2b-ce8ca58855ec.png"
+          ],
+          "generatedMaster": "exec-0bfccf3e-658e-4ceb-b9de-2a58172a4a77.png"
+        }
+      ]
+    },
+    {
+      "page": 92,
+      "image": "paginas/c12-p092.webp",
+      "sourcePdfPages": [
+        566,
+        567
+      ],
+      "summary": "Pansy cuenta la costumbre que rompieron sus padres y explica que mandó diseñar el anillo para Hermione como una promesa propia.",
+      "panels": [
+        {
+          "scene": "Pansy speaks quietly while seated at edge of coffee table. Hermione opposite on olive sofa. Same two faces and exact outfits, Pansy's gold barrette above LEFT ear.",
+          "dialogue": [
+            "Pansy: Mis padres consideraron que era una tradición absurda."
+          ]
+        },
+        {
+          "scene": "Pansy open palm in a restrained natural gesture beside the open box resting on her lap, no one kneels, no ring on Hermione.",
+          "dialogue": [
+            "Pansy: Me enseñaron que se entrega cuando estás dispuesto a prometer algo de verdad."
+          ]
+        },
+        {
+          "scene": "Close Pansy's anatomical LEFT wrist with FINE white-gold chain and three small H, R, P individual charms; her right thumb lightly touches the charms. Box on her fully clothed lap. One balloon from Pansy.",
+          "dialogue": [
+            "Pansy: Mandé diseñarlo únicamente para ti."
+          ]
+        },
+        {
+          "scene": "Ring macro in open dark green box: one transparent oval diamond, clear halo, fine white band, no extra rings. Pansy's natural two fingertips near rim, not inside stone.",
+          "dialogue": [
+            "Pansy: La piedra, el corte, cada detalle... todo fue escogido pensando en ti."
+          ]
+        },
+        {
+          "scene": "Pansy's angular face more vulnerable, green eyes toward Hermione, barrette tiny and left. No extra jewelry on ears.",
+          "dialogue": [
+            "Pansy: La promesa es mía. Este anillo es la forma de hacerla tangible."
+          ]
+        },
+        {
+          "scene": "Hermione freckles and brown eyes filling with happy tears, listens with lips gently parted. Her blue sapphire and white platinum chain remain at front. Balloon clearly from off-frame Pansy at left.",
+          "dialogue": [
+            "Pansy: Una familia es el lugar donde puedes bajar la guardia."
+          ]
+        },
+        {
+          "scene": "Wider intimate family room view, mothers face each other, human Robin beside Hermione with blue elephant, cat and two pups in distinct places, grandparents quietly listening from chairs.",
+          "dialogue": [
+            "Pansy: Una cena, un árbol, una cafetera absurdamente fascinante..."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 92\n\nPansy cuenta la costumbre que rompieron sus padres y explica que mandó diseñar el anillo para Hermione como una promesa propia.\nPansy: Mis padres consideraron que era una tradición absurda.\nPansy: Me enseñaron que se entrega cuando estás dispuesto a prometer algo de verdad.\nPansy: Mandé diseñarlo únicamente para ti.\nPansy: La piedra, el corte, cada detalle... todo fue escogido pensando en ti.\nPansy: La promesa es mía. Este anillo es la forma de hacerla tangible.\nPansy: Una familia es el lugar donde puedes bajar la guardia.\nPansy: Una cena, un árbol, una cafetera absurdamente fascinante...",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas revisadas: colas de las dos frases de Pansy corregidas, Pansy en borde de una sola mesa frente a Hermione, sin banco/mesa adicional. Anillo oval incoloro, caja verde/borde oro, brazalete y textos exactos.",
+      "workingMaster": ".local/maestros/capitulo-12-continuacion-2026-11-08/c12-p092.png",
+      "sha256": "b804f79fe8fe86da3c07515845595bd8f95035a4cf5fc95f490c8019e4262ae6",
+      "masterSha256": "64fbb7b51cd19ad0129c4033934f8e43f5f38f65fc3ea25723ab521b76aa132a",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 7-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the EXACT green velvet gold-edged box and single CLEAR OVAL diamond halo RING with fine white-metal band; ring must look identical, not blue. Also same faces and current Christmas sitting room. Image 4 is reference for Pansy's one fine WHITE GOLD H/R/P charm bracelet on her ANATOMICAL LEFT wrist and original faces. Image 5 is reference for the exact separate blue elephant toy, smooth HUMAN Robin, clothes, room and two distinct puppies.\nChristmas evening in the exact Granger sitting room, tall oak bookcases, hearth, olive sofa, separate rust-red patterned chairs, snowy bay, lit red-and-gold tree and one distinctive crooked cream/brown cloth owl on a low branch. Hermione original brown eyes, freckles, chestnut curls in a loose bun with tendrils, deep red fully opaque sweater with ONE small gold-thread reindeer at left chest, dark trousers, original oval midnight-blue sapphire with diamond halo on fine white platinum at FRONT. Pansy original angular jaw, narrow moss-green eyes, sleek side-parted chin black bob, bare ears and one slim gold/diamond barrette above her ANATOMICAL LEFT ear, image right on frontal shots. Fully opaque forest-green knit with one identical small gold reindeer and dark trousers. Jane mature brown-eyed face, shoulder-length chestnut waves gray at temples, sage cardigan and ivory blouse, small gold earrings. Malcolm mature clean-shaven with gray temples, rectangular dark glasses, humorous navy sweater with huge tan reindeer, green scarf and glowing little red bulb nose. Robin one HUMAN infant, smooth skin, individual tiny fingers, chestnut curls and green eyes, burgundy knit with ONE matching small gold reindeer and cream trousers, cream socks. Two Bernese pups with distinct white blaze widths on rug, one ginger flat-face long-haired Crookshanks with yellow eyes, red velvet bow and gold bell on his separate chair. Baby always held or supported on lap or rug close to an adult. Keep present gift wrapping and discarded paper only on the low table or away from pets. One separate soft dusty-blue elephant with pink/lilac inner ears, short curved trunk and white toes belongs to Robin now. Pansy wears a FINE WHITE GOLD CHAIN BRACELET on her ANATOMICAL LEFT wrist with three small individual clear charms H, R, P from page 86. Malcolm now has a black chronograph on his LEFT wrist. Hermione has NO RING until page 93. Jewelry is not duplicated. No new wrapped books or extra gifts. Baby remains human, held or sitting on the rug right next to his mothers.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 92» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy speaks quietly while seated at edge of coffee table. Hermione opposite on olive sofa. Same two faces and exact outfits, Pansy's gold barrette above LEFT ear. Balloon from Pansy. Print verbatim «Mis padres consideraron que era una tradición absurda.»\nPanel 2. Pansy open palm in a restrained natural gesture beside the open box resting on her lap, no one kneels, no ring on Hermione. Balloon from Pansy. Print verbatim «Me enseñaron que se entrega cuando estás dispuesto a prometer algo de verdad.»\nPanel 3. Close Pansy's anatomical LEFT wrist with FINE white-gold chain and three small H, R, P individual charms; her right thumb lightly touches the charms. Box on her fully clothed lap. One balloon from Pansy. Balloon from Pansy. Print verbatim «Mandé diseñarlo únicamente para ti.»\nPanel 4. Ring macro in open dark green box: one transparent oval diamond, clear halo, fine white band, no extra rings. Pansy's natural two fingertips near rim, not inside stone. Balloon from Pansy. Print verbatim «La piedra, el corte, cada detalle... todo fue escogido pensando en ti.»\nPanel 5. Pansy's angular face more vulnerable, green eyes toward Hermione, barrette tiny and left. No extra jewelry on ears. Balloon from Pansy. Print verbatim «La promesa es mía. Este anillo es la forma de hacerla tangible.»\nPanel 6. Hermione freckles and brown eyes filling with happy tears, listens with lips gently parted. Her blue sapphire and white platinum chain remain at front. Balloon clearly from off-frame Pansy at left. Balloon from Pansy. Print verbatim «Una familia es el lugar donde puedes bajar la guardia.»\nPanel 7. Wider intimate family room view, mothers face each other, human Robin beside Hermione with blue elephant, cat and two pups in distinct places, grandparents quietly listening from chairs. Balloon from Pansy. Print verbatim «Una cena, un árbol, una cafetera absurdamente fascinante...»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0bfccf3e-658e-4ceb-b9de-2a58172a4a77.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dd15671f-8e8c-4764-8c42-65d91207caf4.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7673b325-5bd7-48fd-9b2b-ce8ca58855ec.png"
+          ],
+          "generatedMaster": "exec-2a7fb327-9212-4e7e-bf1d-f63c4ef00ea2.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: precise-object-edit. Edit target: the supplied COMPLETE comic page 92. Keep 1024x1536, exactly seven panels, every Spanish text and accent verbatim, all faces/eye colors, Christmas clothes, thin white platinum sapphire necklace, left hair clip, left H/R/P bracelet, exact clear oval diamond halo ring and green velvet/gold-edged box. Make two continuity corrections: (A) In panel 6 the line «Una familia es el lugar donde puedes bajar la guardia.» is said by PANSY OFFSCREEN ON THE LEFT, not by Hermione. Redirect that bubble's tail clearly LEFTWARD toward the visible dark bob/green shoulder at left edge, not toward Hermione's face. Keep Hermione listening tearfully. (B) In panel 7 the line «Una cena, un árbol, una cafetera absurdamente fascinante...» is said by PANSY in green, not by Hermione. Give it one unambiguous tail to Pansy's mouth. Also preserve the source staging in the full seated shots (panels 1, 2, 7): Hermione sits on the olive sofa, Pansy sits OPPOSITE her on the EDGE of the LOW OAK COFFEE TABLE facing her, knees/feet at natural floor height, holding box on own lap, not alongside Hermione on the sofa. Reframe these three shots only as needed to show their facing seats; retain grandparents on separate rust chairs and baby near Hermione on rug/held, two pups on floor and one cat on own chair. Close shots 3–6 otherwise unchanged. Natural two arms/hands each. No text changed, no new words, no footer/watermark.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2a7fb327-9212-4e7e-bf1d-f63c4ef00ea2.png"
+          ],
+          "generatedMaster": "exec-f17dd5cc-0b93-4edb-9cc8-990dbe330179.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. EDIT TARGET is this complete comic page92. ONE remaining furniture/seat correction only in full seated shots 1(top-left),2(top-right),7(bottom-wide). Hermione remains on her OLIVE SOFA at image LEFT. Pansy must sit OPPOSITE her at image RIGHT, on the edge of the SAME SINGLE LOW RECTANGULAR OAK COFFEE TABLE, facing her. There is NO wooden bench, ottoman or second table. In panel1 the prior edit mistakenly left a gift table at bottom-left AND a separate small bench under Pansy: merge them into ONE continuous low OAK coffee table extending into the space between them; Pansy sits on its right-hand edge, legs down, feet on rug, gift paper on its far end. Do not add any other table. Panel2 is a close shot: retain faces and gestures, remove the green sofa back directly behind Pansy, she is still seated on table edge facing Hermione. Panel7 keep Hermione and baby at left on sofa, but Pansy at right sits on the front edge of the SINGLE oak coffee table, facing Hermione, naturally angled toward her; no green sofa behind Pansy. Jane and Malcolm remain in separate rust chairs behind/right, two pups on rug and one cat on own chair. Keep every panel boundary, seven panels, all exact texts and especially the CORRECTED bubble tails in panels6and7, all faces/eye colors, freckled Hermione and blue sapphire, left hairclip, left H/R/P bracelet, green velvet/gold box and clear oval halo ring unchanged. Panels3–6 unchanged. No added words, footer or watermark.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f17dd5cc-0b93-4edb-9cc8-990dbe330179.png"
+          ],
+          "generatedMaster": "exec-e2e2ed91-9a27-4ba8-8e68-ded02c80b819.png"
+        }
+      ]
+    }
+  ]
+}
