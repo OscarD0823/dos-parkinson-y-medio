@@ -3373,7 +3373,40 @@
       ],
       "words": 63406,
       "plannedPages": 88,
-      "pages": []
+      "pages": [
+        {
+          "number": 1,
+          "image": "paginas/c13-p001.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 1 del cómic.",
+          "transcript": "Capítulo 13 · 01\n\nEl traslador deja a la familia en Amalfi. El Zephyr se adapta al clima; Hermione y Pansy conversan sin recortar sus réplicas sobre comprobar a Robin y la buena compra.\nNarración: El viaje en traslador terminó con un tirón.\nNarración: El Zephyr se ajustó al cambio de temperatura.\nPansy: El Zephyr hizo el cambio de temperatura en cuanto llegamos. Aun así, no esperaba que confiaras en él sin comprobarlo por tu cuenta.\nHermione: Confiar en el cochecito y revisar a nuestro hijo no son cosas incompatibles. Además, después de escucharte hablar durante dos semanas sobre cada una de sus funciones, sé perfectamente que puedes utilizar mi preocupación como prueba de que hiciste una buena compra.\nPansy: La excelencia merece ser reconocida.\nPansy: Al menos alguien en esta familia aprecia las cosas buenas.\nNarración: Más allá de la terraza se extendía el mar Tirreno."
+        },
+        {
+          "number": 2,
+          "image": "paginas/c13-p002.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 2 del cómic.",
+          "transcript": "Capítulo 13 · 02\n\nHermione admira Amalfi. Pansy anuncia el recorrido y Chiara les da la bienvenida completa antes de saludar a Robin.\nHermione: Ahora entiendo por qué estabas tan ansiosa por llegar.\nPansy: Todavía no has visto los jardines ni la playa. Espera a que Chiara comience el recorrido. Nadie muestra una propiedad con mayor entusiasmo que ella, sobre todo cuando la propiedad es suya.\nChiara: Llegaron justo a tiempo. Estaba a punto de pedir que prepararan otra ronda de bebidas, y habría sido imperdonable que comenzaran sus vacaciones sin una copa en la mano.\nChiara: Mírate, piccolo. Cada vez que te veo estás más grande."
+        },
+        {
+          "number": 3,
+          "image": "paginas/c13-p003.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 3 del cómic.",
+          "transcript": "Capítulo 13 · 03\n\nLa atención de Robin y las bromas sobre el gusto de Chiara y los colores familiares se conservan completas; Chiara elogia el conjunto de Hermione.\nHermione: Le gusta recibir atención.\nPansy: Le gusta que lo admiren. Es una diferencia importante.\nPansy: Ese color fue hecho para ti. Aunque sospecho que escogiste el vestido para demostrarlo.\nChiara: El vestido ya era perfecto cuando lo encontré. Yo solo tuve el buen juicio de comprarlo. Tú también te ves preciosa. El azul es una buena elección para Amalfi.\nChiara: No puedo creer que consiguieras vestirlo a juego contigo sin incluir el verde.\nPansy: Estoy intentando enseñarle que existe vida más allá de Slytherin.\nChiara: Eso es muy generoso de tu parte.\nChiara: Hermione, estás espectacular. El color te queda maravillosamente y ese corte resalta tu figura. Espero que hayas traído más prendas como esta."
+        },
+        {
+          "number": 4,
+          "image": "paginas/c13-p004.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 4 del cómic.",
+          "transcript": "Capítulo 13 · 04\n\nHermione agradece el consejo de Pansy y Chiara bromea sobre su influencia. Daphne llega, abraza a ambas y cuenta cuánto las extrañó.\nHermione: Muchas gracias, Chiara. Todavía estoy acostumbrándome a viajar con tanta ropa, pero admito que Pansy tenía razón sobre este conjunto.\nChiara: Se nota que has tenido una buena influencia.\nPansy: Siempre la tengo.\nChiara: También se nota que Hermione sabe exactamente cuáles de tus consejos vale la pena aceptar. Eso es todavía más importante.\nDaphne: Por fin llegaron.\nDaphne: Las extrañé mucho. Estuve contando los días para que llegaran. Las vacaciones se sienten extrañas cuando no estamos todos en el mismo lugar."
+        }
+      ]
     }
   ]
 }
