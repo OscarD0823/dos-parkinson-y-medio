@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-10",
+  "tool": "ImageGen integrada",
+  "reason": "El usuario detectó que Hermione atravesaba el automóvil y que el capó carecía de una geometría realista. Se recompusieron las vistas con separación entre las figuras y la carrocería y fotografías del 911.",
+  "pages": [
+    {
+      "chapter": 12,
+      "page": 56,
+      "original": "paginas/c12-p056-auto-v3.webp",
+      "image": "paginas/c12-p056-auto-v4.webp",
+      "workingMaster": ".local/maestros/correcciones-capitulo-12-2026-11-10/c12-p056-auto-v4.png",
+      "actualPanelCount": 6,
+      "sourcePdfPages": [
+        506,
+        507,
+        508
+      ],
+      "panels": [
+        {
+          "scene": "Realistic three-quarter view of the black 911, tall open front lid based on the photo. Both women stand fully outside at left with boots visible and floor gap. One watch box and two small bags initially fit in the front luggage compartment.",
+          "caption": "En el estacionamiento las esperaban veintidós bolsas."
+        },
+        {
+          "scene": "Hermione peers into the shallow front compartment at LEFT and speaks. Pansy studies the bags at RIGHT and replies. No extra arms or shoppers.",
+          "dialogue": [
+            "Hermione: Hay veintidós.",
+            "Pansy: Las cajas son demasiado grandes."
+          ]
+        },
+        {
+          "scene": "Hermione stands fully beside the front fender, torso and legs outside, reaching only her wand arm over the luggage rim. Same realistic full open lid and small initial load.",
+          "dialogue": [
+            "Hermione: Un encantamiento de extensión indetectable."
+          ]
+        },
+        {
+          "scene": "Both women remain outside the car on opposite sides, reaching hands naturally over the luggage rim to place the final green bag.",
+          "dialogue": [
+            "Pansy: Granger, eso ha sido brillante."
+          ]
+        },
+        {
+          "scene": "The same car with hood closed, both outside. Keep one shopping-free front trunk and untouched body. Pansy pats her coat pocket and looks hungry.",
+          "dialogue": [
+            "Pansy: Tengo hambre."
+          ]
+        },
+        {
+          "scene": "Transition to a small café garden sheltered by glass. Hermione and Pansy sit across an oak table in their beige and black sweaters, coats on their chair backs, two warm soups and winter ivy.",
+          "caption": "Se detuvieron a comer en una cafetería apartada."
+        }
+      ],
+      "transcript": "Capítulo 12 · 56\n\nLas compras desbordan el maletero delantero. Hermione resuelve el problema antes de llevar a Pansy a una cafetería tranquila.\nNarración: En el estacionamiento las esperaban veintidós bolsas.\nHermione: Hay veintidós.\nPansy: Las cajas son demasiado grandes.\nHermione: Un encantamiento de extensión indetectable.\nPansy: Granger, eso ha sido brillante.\nPansy: Tengo hambre.\nNarración: Se detuvieron a comer en una cafetería apartada.",
+      "review": "Segunda revisión tras la observación del usuario. Capó completo y compartimento delantero reconstruidos con fotografías reales del 911. Hermione queda fuera del guardabarros y se ven sus pies y el suelo. Se revisaron las seis viñetas y todo el texto.",
+      "selectedAttempt": "c12_p056_auto_v4",
+      "prompt": "Use case: precise-object-edit with corrected scene blocking. Correct ONLY the car scenes in the FIRST complete six-panel Spanish comic page «Capítulo 12 · 56», 1024×1536. Image 2 is the newly approved matching comic car on page 65, with correct tall open lid and people outside. Image 3 is the actual classic BLACK 911 with open FRONT lid, and image 4 shows the actual carpeted luggage well and body rim. Use their physical structure faithfully. The real front lid is a full-size curved central metal panel, hinged near the windshield and raised high above the front luggage well, its whole reinforced underside visible in perspective. It is not a short low flap at the bumper. Fixed fenders, round lamps and black impact bumper remain in place. Keep our story's BLACK coupe and roof, never a white cabriolet. Match normal scale with the women.\nPANEL 1 upper left: recompose as a normal-lens wide three-quarter view, car toward the RIGHT with its nose pointing lower-right, BOTH women standing visibly OUTSIDE to the LEFT, their trouser legs and boots on the car park floor, with an obvious floor gap between coats and fender. The fully raised central lid and trunk structure match real photo 3 and approved comic 2. Hermione in taupe and ivory, Pansy in charcoal. Only one watch box and two small bags fit initially in the luggage well; other shopping bags may be partly cropped at far left near their boots. Preserve the caption. This is still the warm brick-and-steel shopping car park in image 1, not the house garage.\nPANEL 2 upper right: preserve the existing two expressive faces and the two EXACT bubbles, with the same black rim and small bags visible below. Keep it a tight view, no forced large car nose.\nPANEL 3 middle left: a clear three-quarter side view, Hermione stands entirely LEFT of the fender, boots and full outside contour visible, and reaches only her wand hand over the rim into the luggage well. The rest of her body remains separate from metal, with floor visible between her and car. Same real full-size raised lid, hinge location and fixed headlamps as in panel 1. A small magic sparkle inside, and the few bags already placed remain at the bottom. Pansy stands separately nearby and watches. Keep exact spell balloon.\nPANEL 4 middle right: the women stand outside on opposite sides of the front luggage well, their hands placing the last normal green shopping bag over the rim. Arms can reach above the rim naturally, bodies and coats remain fully outside the car. Same actual hood, fender, lamps and well perspective. Magic affects only the internal storage depth; car exterior stays normal. Preserve Pansy's «Granger, eso ha sido brillante.» with her own tail.\nPanels 5 and 6 in the bottom row are already approved and stay completely intact, including closed car and café. Preserve all faces, original expressions, clothes, jewelry, gestures where compatible with corrected staging, all text, accents, balloons and six-panel grid. Exact existing wording only: «En el estacionamiento las esperaban veintidós bolsas.» «Hay veintidós.» «Las cajas son demasiado grandes.» «Un encantamiento de extensión indetectable.» «Granger, eso ha sido brillante.» «Tengo hambre.» «Se detuvieron a comer en una cafetería apartada.» Fine ink and painterly warm comic color, cream borders, no added words or watermarks.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f3b26f49-112d-471b-bb6c-a85c44ed8f7a.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7d20cf13-fa2a-42fe-bbfb-968c24c29878.png",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg"
+      ],
+      "referenceSources": [
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+          "url": "https://forums.pelicanparts.com/porsche-911-technical-forum/800021-h4-headlight-upgrade-sugar-scoops.html",
+          "role": "Owner photograph of classic black 911 with full front lid open"
+        },
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg",
+          "url": "https://www.hexagonclassics.com/car/porsche-911-3-2-carrera-cabriolet-supersport--sse---1987",
+          "role": "Dealer photograph of actual front luggage well and body rim"
+        }
+      ],
+      "sha256": "686a36d5fa678f29655600b5844ad57c5dd40ef09795fd96b9c42c53665914bd",
+      "masterSha256": "f7c6455451b489eeb2b91e1da8bafa90c4e5ab40a7f0d23952dc6123c08dc874",
+      "ocrMissingCandidates": [
+        "encantamiento",
+        "extension",
+        "indetectable",
+        "granger",
+        "brillante"
+      ]
+    },
+    {
+      "chapter": 12,
+      "page": 65,
+      "original": "paginas/c12-p065-auto-v2.webp",
+      "image": "paginas/c12-p065-auto-v4.webp",
+      "workingMaster": ".local/maestros/correcciones-capitulo-12-2026-11-10/c12-p065-auto-v4.png",
+      "actualPanelCount": 6,
+      "sourcePdfPages": [
+        527,
+        528,
+        529
+      ],
+      "panels": [
+        {
+          "scene": "A clear wide three-quarter garage view, both women stand visibly on the garage floor OUTSIDE to the left of the car, with a floor gap to the fender. Pansy levitates bags from the normal front compartment. The black 911 and its raised bonnet follow the real photograph, including the full lid and hinge geometry.",
+          "dialogue": [
+            "Pansy: En ocasiones olvidas que somos brujas, Granger."
+          ]
+        },
+        {
+          "scene": "Bag procession floats upstairs past the oak banister and wreath. View from below. Nobody walking under the bags, one soft golden glow.",
+          "caption": "Las bolsas subieron sin rozar las paredes."
+        },
+        {
+          "scene": "A three-quarter side garage view of Hermione standing entirely outside the front fender, boots visible on the floor, one forearm extended normally over the edge as her wand removes the spell from the empty front compartment. Realistic full-size raised lid, fixed fenders and bumper.",
+          "caption": "Hermione retiró el encantamiento."
+        },
+        {
+          "scene": "The two women talk standing beside the closed car, entirely outside its outline. Only a small normal black hood corner at the lower right, no body cut by the fender.",
+          "dialogue": [
+            "Hermione: Tú tampoco vas a decir nada.",
+            "Pansy: No diré nada."
+          ]
+        },
+        {
+          "scene": "Dim front sitting room. Hermione looks toward the wall clock and snowy windows. Pansy has taken off her trench and is by the coat hook, black turtleneck clear.",
+          "dialogue": [
+            "Hermione: Todavía no llegan."
+          ]
+        },
+        {
+          "scene": "By the oak stairs, Pansy holds up her coat cuff with amused disgust, Hermione smiles at her. Both fully clothed in sweaters and trousers, snowy lights behind.",
+          "dialogue": [
+            "Pansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 65\n\nPansy sube las compras con magia y Hermione retira el hechizo del maletero. La casa sigue en silencio.\nPansy: En ocasiones olvidas que somos brujas, Granger.\nNarración: Las bolsas subieron sin rozar las paredes.\nNarración: Hermione retiró el encantamiento.\nHermione: Tú tampoco vas a decir nada.\nPansy: No diré nada.\nHermione: Todavía no llegan.\nPansy: No quiero que Robin crea que su madre fue reemplazada por la perfumería.",
+      "review": "Segunda revisión tras la observación del usuario. Capó completo y compartimento delantero reconstruidos con fotografías reales del 911. Hermione queda fuera del guardabarros y se ven sus pies y el suelo. Se revisaron las seis viñetas y todo el texto.",
+      "selectedAttempt": "c12_p065_auto_v4",
+      "prompt": "Use case: illustration-story with precise object and blocking correction. Recompose only the GARAGE panels 1, 3 and 4 of the FIRST six-panel Spanish comic «Capítulo 12 · 65», portrait 1024×1536. The current illustration has two concrete errors: Hermione's coat/body intersects the car, and the front lid is shortened and warped. Correct the staging, not just surface paint.\nREFERENCE ROLES. Image 1 fixes exact people, typography, six-panel layout and house. Image 2 is an actual classic black 911 photographed with the FRONT bonnet open: use this real photograph as the structural blueprint for body proportions, the whole raised central lid, its curvature and bracing, hinge position by windshield, the fixed fenders, round lamps and bumper. Image 3 is a real close-up of the same generation's front luggage well and fixed body rim; use its construction and depth, but keep BLACK paint. Image 4 fixes our story's black coupe identity and roof, image 5 fixes original faces only.\nPANEL 1 TOP LEFT. New normal-lens three-quarter wide view, like photo 2. Put the CAR toward the RIGHT of the panel, its front pointing diagonally to the lower right, with the complete raised lid in perspective as in photo 2. Put BOTH women standing on the LEFT on the visible garage floor, separated from the car by an obvious strip of floor. Show Hermione's taupe trouser legs and boots, with an unbroken outside contour from head to feet. Pansy is beside her, holding the wand that levitates the bags from the front luggage opening. Their bodies never sit inside, behind or through a front fender. The car's FRONT lid is one full-size curved metal panel lifted high from the rear hinges near the windshield exactly as in photo 2; no short flap at the bumper. Dark reinforced underside and natural metal thickness, one lid only. Garage red tool chest and warm lamps remain.\nPANEL 3 MIDDLE LEFT. A similar normal three-quarter view with Hermione standing to the LEFT entirely OUTSIDE the car, both boots clearly on the floor and a visible gap between her coat/trousers and the front fender. She may reach ONE arm naturally over the near side of the EMPTY front luggage well, pointing the small wand into the well. Only her hand, forearm and wand extend over it. The rest of her body is clear of bodywork. Same realistic raised full lid, with the same hinges and the same size as panel 1. Empty carpeted luggage well with just the small spell sparkle, since the bags have gone upstairs.\nPANEL 4 MIDDLE RIGHT. Hermione and Pansy stand beside the now closed coupe, completely outside its outline. Show only a small corner of normal closed hood at the lower-right foreground, with clear separation from their coats. Preserve the keys in Pansy's hand and their exact conversation. The overall normal body length and windshield stay credible when visible.\nPanels 2, 5 and 6 (stairs, living room, perfume remark) stay EXACTLY untouched. Keep Hermione's chestnut ponytail, brown eyes, taupe coat, ivory scarf, blue sapphire and trousers; Pansy's black chin bob, green eyes, black turtleneck and belted charcoal trench, all faces and natural hands. Keep the fine ink/painterly color of the comic, do not make a photo collage. Preserve all text EXACTLY, balloon tails and order, all accents, six borders and cream margins. Header «Capítulo 12 · 65». Existing words only: «En ocasiones olvidas que somos brujas, Granger.» «Las bolsas subieron sin rozar las paredes.» «Hermione retiró el encantamiento.» «Tú tampoco vas a decir nada.» «No diré nada.» «Todavía no llegan.» «No quiero que Robin crea que su madre fue reemplazada por la perfumería.» No new lettering, emblems or watermarks.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-be8f07a3-5364-4d17-b284-7b6dc8a3a2d3.png",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+        "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p049.webp",
+        "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c01-p002.webp"
+      ],
+      "referenceSources": [
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-sc-capo-abierto-pelican.jpg",
+          "url": "https://forums.pelicanparts.com/porsche-911-technical-forum/800021-h4-headlight-upgrade-sugar-scoops.html",
+          "role": "Owner photograph of classic black 911 with full front lid open"
+        },
+        {
+          "path": "F:/Proyectos/dos-parkinson-y-medio/.local/referencias-auto-2026-11-10/911-frontal-maletero-hexagon.jpg",
+          "url": "https://www.hexagonclassics.com/car/porsche-911-3-2-carrera-cabriolet-supersport--sse---1987",
+          "role": "Dealer photograph of actual front luggage well and body rim"
+        }
+      ],
+      "sha256": "d44954f61edd3df7bda5384a739bfd9b177acf3cfd3e7d5cb6ca5daa320b6d76",
+      "masterSha256": "42b36f3efbac71ab5e2446ba636e55c4331b9a93a5ae2661f5fa311824d32d4a",
+      "ocrMissingCandidates": [
+        "ocasiones",
+        "olvidas",
+        "somos",
+        "brujas",
+        "granger",
+        "bolsas",
+        "subieron",
+        "rozar",
+        "paredes",
+        "todavia",
+        "llegan",
+        "quiero",
+        "robin",
+        "madre",
+        "reemplazada",
+        "perfumeria"
+      ]
+    }
+  ]
+}

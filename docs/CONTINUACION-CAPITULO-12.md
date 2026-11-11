@@ -154,3 +154,5 @@ La página 45 recupera la mañana de las páginas 478–480 del PDF. Hermione, P
 Las páginas 56 y 65 recuperan las proporciones del 911 negro mostrado en 49 y 62. Se revisan el frontal, los faros, el capó y el compartimento delantero, incluida la salida de las bolsas antes de retirar el hechizo.
 
 [Prompts, fuentes, transcripciones, maestros y revisión](prompts-correccion-capitulo-12-paginas-45-56-65.json).
+
+Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermione queda de pie junto al coche, separada del guardabarros. El capó se reconstruye como una pieza completa con sus bisagras junto al parabrisas. [Registro de la revisión del capó](prompts-correccion-capo-capitulo-12-paginas-56-65.json).
