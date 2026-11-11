@@ -167,3 +167,14 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 72 | 546–547 | La mañana de Navidad devuelve el movimiento a la casa. Hermione estrena el suéter rojo que Pansy le regaló y oye a los cachorros. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-69-72.json).
+
+## Páginas 73–76
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 73 | 547 | Hermione distrae a los dos cachorros para que dejen tranquilo a Crookshanks. Después oye a Pansy en la cocina. |
+| 74 | 547–548 | Pansy y Robin terminan el pudín sobre la encimera. Hermione los encuentra con los tres suéteres navideños a juego. |
+| 75 | 548–549–550 | Hermione limpia el azúcar de Robin. Pansy le dice que el suéter rojo le queda hermoso y levanta al pequeño. |
+| 76 | 550–551 | Robin aplaude los encantamientos. Jane añade regalos al árbol y el suéter de Malcolm provoca una nueva broma antes de la cena. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-73-76.json).
