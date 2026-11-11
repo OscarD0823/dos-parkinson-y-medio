@@ -2568,7 +2568,7 @@
         571
       ],
       "words": 64382,
-      "plannedPages": 97,
+      "plannedPages": 99,
       "pages": [
         {
           "number": 1,
@@ -3124,27 +3124,43 @@
         },
         {
           "number": 70,
-          "image": "paginas/c12-p070.webp",
+          "image": "paginas/c12-p070-dialogos-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 12, Parkinson's Christmas. Página 70 del cómic.",
-          "transcript": "Capítulo 12 · 70\n\nHermione explica por qué la nevada impide el regreso. Saber que Robin está abrigado y acompañado las tranquiliza.\nHermione: Está bien. Lo escuché riéndose durante la llamada.\nPansy: Entonces, ¿por qué no regresan?\nHermione: La nevada derribó un árbol sobre el camino. Se quedarán en casa de mi tía.\nPansy: ¿La casa tiene calefacción? ¿Empacaste su pijama?\nHermione: Además, Crookshanks está con ellos.\nPansy: ¿Qué?\nPansy: Esa criatura planeó su fuga mientras nosotras empacábamos."
+          "transcript": "Capítulo 12 · 70\n\nHermione confirma que Robin está bien y explica el cierre de la carretera. Pansy pregunta por la calefacción, la fórmula y el pijama.\nHermione: Está bien. Lo escuché riéndose durante la llamada.\nPansy: Entonces, ¿por qué no regresan?\nHermione: La nevada derribó un árbol sobre el camino de acceso. Las autoridades cerraron la carretera y no podrán retirarlo hasta mañana.\nHermione: Mis padres decidieron quedarse en casa de mi tía.\nPansy: ¿La casa tiene calefacción? ¿Llevan suficiente fórmula? ¿Empacaste su pijama?\nHermione: Tienen calefacción y comida."
+        },
+        {
+          "number": "70a",
+          "image": "paginas/c12-p070a.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 12, Parkinson's Christmas. Página intermedia 70a del cómic.",
+          "transcript": "Capítulo 12 · 70a\n\nHermione detalla el cuidado de Robin, confirma que lo oyó reír y cuenta cómo Crookshanks llegó a Derbyshire escondido en la camioneta.\nHermione: Robin comió a su hora y la pañalera lleva todo lo que necesitará hasta mañana.\nHermione: Mi madre cree que dormirá bien porque pasó el día jugando con los perros.\nPansy: ¿Estás segura de que estaba tranquilo?\nHermione: Lo escuché. Parecía estar divirtiéndose más que cualquiera de nosotros.\nHermione: Además, Crookshanks está con ellos.\nPansy: ¿Qué?\nHermione: Se escondió en la camioneta. Lo descubrieron al llegar.\nPansy: Esa criatura planeó su fuga mientras nosotras empacábamos.\nHermione: Mi madre dice que se instaló junto a Robin y no permite que los perros se acerquen sin vigilarlos."
+        },
+        {
+          "number": "70b",
+          "image": "paginas/c12-p070b.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 12, Parkinson's Christmas. Página intermedia 70b del cómic.",
+          "transcript": "Capítulo 12 · 70b\n\nPansy reconoce a regañadientes que el gato protege a Robin. Hermione lo toma como un cumplido y amenaza con contárselo.\nPansy: Por una vez, sus delirios de autoridad pueden resultar útiles.\nPansy: Si alguno de esos cachorros intenta molestar a Robin, Crookshanks lo atacará antes de que tus padres alcancen a levantarse.\nHermione: Eso ha sonado casi como un cumplido.\nPansy: No exageres. Reconocí una sola cualidad aceptable de la pequeña bestia.\nHermione: Voy a decírselo cuando vuelva.\nPansy: Si lo haces, negaré cada palabra."
         },
         {
           "number": 71,
-          "image": "paginas/c12-p071.webp",
+          "image": "paginas/c12-p071-dialogos-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 12, Parkinson's Christmas. Página 71 del cómic.",
-          "transcript": "Capítulo 12 · 71\n\nEl alivio devuelve las bromas. Hermione expresa lo que quiso decir durante el día y el relato deja la noche en una elipsis.\nHermione: Eso ha sonado casi como un cumplido.\nPansy: Si se lo dices, negaré cada palabra.\nHermione: Creo que esta era la que estabas considerando.\nHermione: Eres hermosa.\nHermione: Caminabas por Harrods como si el edificio te perteneciera.\nPansy: Estaba evaluando la posibilidad de adquirirlo.\nNarración: La nieve siguió cayendo.\nNarración: Aquella noche tuvieron tiempo para ellas."
+          "transcript": "Capítulo 12 · 71\n\nCon la preocupación aliviada, Pansy deja su toalla y Hermione recoge una prenda. Hermione expresa los cumplidos de la gabardina, Harrods y la conducción.\nNarración: Pansy dejó la toalla sobre el tocador.\nHermione: Creo que esta era la que estabas considerando.\nHermione: Eres hermosa.\nHermione: Lo pensé cuando te probaste la gabardina.\nHermione: Caminabas por Harrods como si el edificio te perteneciera.\nPansy: Estaba evaluando la posibilidad de adquirirlo.\nHermione: También lo pensé cuando conducías."
         },
         {
           "number": "71a",
-          "image": "paginas/c12-p071a.webp",
+          "image": "paginas/c12-p071a-dialogos-v2.webp",
           "width": 1024,
           "height": 1536,
           "alt": "Capítulo 12, Parkinson's Christmas. Página intermedia 71a del cómic.",
-          "transcript": "Capítulo 12 · 71a\n\nHermione prolonga sus cumplidos. Pansy reconoce su enamoramiento y la inseguridad que acompaña sus sentimientos; ambas se ríen de sus nervios.\nHermione: También lo pensé cuando conducías. Y ahora no consigo pensar en otra cosa.\nPansy: Consigues que me enamore todavía más de ti.\nPansy: Pero, sea lo que sea, lo lograste.\nNarración: Hermione le respondió con una sonrisa.\nPansy: Nunca me había sentido tan insegura.\nPansy: Es una combinación bastante irritante.\nNarración: La torpeza terminó haciéndolas reír."
+          "transcript": "Capítulo 12 · 71a\n\nHermione prolonga sus cumplidos. Pansy reconoce su enamoramiento y la inseguridad que acompaña sus sentimientos; ambas se ríen de sus nervios.\nHermione: Y ahora… Ahora no consigo pensar en otra cosa.\nPansy: Honestamente, Hermione… Consigues que me enamore todavía más de ti.\nPansy: Pero, sea lo que sea, lo lograste.\nNarración: Hermione le respondió con una sonrisa.\nPansy: Nunca me había sentido tan insegura.\nPansy: Es una combinación bastante irritante.\nNarración: La torpeza terminó haciéndolas reír."
         },
         {
           "number": "71b",

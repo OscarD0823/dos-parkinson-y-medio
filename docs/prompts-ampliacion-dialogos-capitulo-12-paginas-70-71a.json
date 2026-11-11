@@ -1,0 +1,588 @@
+{
+  "chapter": 12,
+  "title": "Parkinson's Christmas",
+  "date": "2026-11-11",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "userFragmentSha256": "27fdd6d4bcf331f2128c3f197998ca76a18c9cfc8fbf9fe3f57c61aeed7bca63",
+  "sequence": [
+    70,
+    "70a",
+    "70b",
+    71,
+    "71a",
+    "71b",
+    72
+  ],
+  "editorialScope": {
+    "restored": [
+      "Explicación completa de la carretera y estancia con la tía",
+      "Tres preguntas de Pansy y respuestas sobre calor, comida, fórmula y pañalera",
+      "Tranquilidad de Robin y traslado/vigilancia de Crookshanks",
+      "Intercambio completo sobre el cumplido al gato",
+      "Gabardina, Harrods, conducción y continuación de los sentimientos"
+    ],
+    "condensed": [
+      "Confesión afectiva de Pansy en 71a, señalada en la tabla de cobertura"
+    ],
+    "notAdapted": [
+      "Secuencia sexual explícita del fragmento y alusiones directas a esos actos"
+    ],
+    "completeFragment": false
+  },
+  "dialogueCoverage": [
+    {
+      "page": 70,
+      "speaker": "Hermione",
+      "text": "Está bien. Lo escuché riéndose durante la llamada.",
+      "mode": "literal"
+    },
+    {
+      "page": 70,
+      "speaker": "Pansy",
+      "text": "Entonces, ¿por qué no regresan?",
+      "mode": "literal"
+    },
+    {
+      "page": 70,
+      "speaker": "Hermione",
+      "text": "La nevada derribó un árbol sobre el camino de acceso. Las autoridades cerraron la carretera y no podrán retirarlo hasta mañana.",
+      "mode": "literal"
+    },
+    {
+      "page": 70,
+      "speaker": "Hermione",
+      "text": "Mis padres decidieron quedarse en casa de mi tía.",
+      "mode": "literal"
+    },
+    {
+      "page": 70,
+      "speaker": "Pansy",
+      "text": "¿La casa tiene calefacción? ¿Llevan suficiente fórmula? ¿Empacaste su pijama?",
+      "mode": "literal"
+    },
+    {
+      "page": 70,
+      "speaker": "Hermione",
+      "text": "Tienen calefacción y comida.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Hermione",
+      "text": "Robin comió a su hora y la pañalera lleva todo lo que necesitará hasta mañana.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Hermione",
+      "text": "Mi madre cree que dormirá bien porque pasó el día jugando con los perros.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Pansy",
+      "text": "¿Estás segura de que estaba tranquilo?",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Hermione",
+      "text": "Lo escuché. Parecía estar divirtiéndose más que cualquiera de nosotros.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Hermione",
+      "text": "Además, Crookshanks está con ellos.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Pansy",
+      "text": "¿Qué?",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Hermione",
+      "text": "Se escondió en la camioneta. Lo descubrieron al llegar.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Pansy",
+      "text": "Esa criatura planeó su fuga mientras nosotras empacábamos.",
+      "mode": "literal"
+    },
+    {
+      "page": "70a",
+      "speaker": "Hermione",
+      "text": "Mi madre dice que se instaló junto a Robin y no permite que los perros se acerquen sin vigilarlos.",
+      "mode": "literal"
+    },
+    {
+      "page": "70b",
+      "speaker": "Pansy",
+      "text": "Por una vez, sus delirios de autoridad pueden resultar útiles.",
+      "mode": "literal"
+    },
+    {
+      "page": "70b",
+      "speaker": "Pansy",
+      "text": "Si alguno de esos cachorros intenta molestar a Robin, Crookshanks lo atacará antes de que tus padres alcancen a levantarse.",
+      "mode": "literal"
+    },
+    {
+      "page": "70b",
+      "speaker": "Hermione",
+      "text": "Eso ha sonado casi como un cumplido.",
+      "mode": "literal"
+    },
+    {
+      "page": "70b",
+      "speaker": "Pansy",
+      "text": "No exageres. Reconocí una sola cualidad aceptable de la pequeña bestia.",
+      "mode": "literal"
+    },
+    {
+      "page": "70b",
+      "speaker": "Hermione",
+      "text": "Voy a decírselo cuando vuelva.",
+      "mode": "literal"
+    },
+    {
+      "page": "70b",
+      "speaker": "Pansy",
+      "text": "Si lo haces, negaré cada palabra.",
+      "mode": "literal"
+    },
+    {
+      "page": 71,
+      "speaker": "Hermione",
+      "text": "Creo que esta era la que estabas considerando.",
+      "mode": "literal"
+    },
+    {
+      "page": 71,
+      "speaker": "Hermione",
+      "text": "Eres hermosa.",
+      "mode": "literal"
+    },
+    {
+      "page": 71,
+      "speaker": "Hermione",
+      "text": "Lo pensé cuando te probaste la gabardina.",
+      "mode": "literal"
+    },
+    {
+      "page": 71,
+      "speaker": "Hermione",
+      "text": "Caminabas por Harrods como si el edificio te perteneciera.",
+      "mode": "literal"
+    },
+    {
+      "page": 71,
+      "speaker": "Pansy",
+      "text": "Estaba evaluando la posibilidad de adquirirlo.",
+      "mode": "literal"
+    },
+    {
+      "page": 71,
+      "speaker": "Hermione",
+      "text": "También lo pensé cuando conducías.",
+      "mode": "literal"
+    },
+    {
+      "page": "71a",
+      "speaker": "Hermione",
+      "text": "Y ahora… Ahora no consigo pensar en otra cosa.",
+      "mode": "fragmentos unidos sin acotación"
+    },
+    {
+      "page": "71a",
+      "speaker": "Pansy",
+      "text": "Honestamente, Hermione… Consigues que me enamore todavía más de ti.",
+      "mode": "confesión condensada sin alusión sexual"
+    },
+    {
+      "page": "71a",
+      "speaker": "Pansy",
+      "text": "Pero, sea lo que sea, lo lograste.",
+      "mode": "literal"
+    },
+    {
+      "page": "71a",
+      "speaker": "Pansy",
+      "text": "Nunca me había sentido tan insegura.",
+      "mode": "fragmento literal"
+    },
+    {
+      "page": "71a",
+      "speaker": "Pansy",
+      "text": "Es una combinación bastante irritante.",
+      "mode": "literal"
+    }
+  ],
+  "pages": [
+    {
+      "page": 70,
+      "chapter": 12,
+      "original": "paginas/c12-p070.webp",
+      "image": "paginas/c12-p070-dialogos-v2.webp",
+      "sourcePdfPages": [
+        534,
+        535
+      ],
+      "summary": "Hermione confirma que Robin está bien y explica el cierre de la carretera. Pansy pregunta por la calefacción, la fórmula y el pijama.",
+      "panels": [
+        {
+          "scene": "Hermione at LEFT reassures Pansy at RIGHT, same exact room and clothes, conversational distance, one small natural open-palmed gesture. Pansy concerned, her plain cream towel on forearm.",
+          "dialogue": [
+            "Hermione: Está bien. Lo escuché riéndose durante la llamada."
+          ]
+        },
+        {
+          "scene": "Pansy's concerned original green eyes toward Hermione, navy high closed collar and sleek bob, not a different face.",
+          "dialogue": [
+            "Pansy: Entonces, ¿por qué no regresan?"
+          ]
+        },
+        {
+          "scene": "Hermione beside snowy window explains the weather; outside only ordinary London snow and distant roofs, no new scene/people.",
+          "dialogue": [
+            "Hermione: La nevada derribó un árbol sobre el camino de acceso. Las autoridades cerraron la carretera y no podrán retirarlo hasta mañana."
+          ]
+        },
+        {
+          "scene": "Hermione continues calmly while Pansy listens, same bed and lamp from previous panel, both original faces visible.",
+          "dialogue": [
+            "Hermione: Mis padres decidieron quedarse en casa de mi tía."
+          ]
+        },
+        {
+          "scene": "Pansy asks all THREE questions with concerned but controlled expression, one hand lightly gesturing, small cream towel remains over other forearm. Large readable balloon.",
+          "dialogue": [
+            "Pansy: ¿La casa tiene calefacción? ¿Llevan suficiente fórmula? ¿Empacaste su pijama?"
+          ]
+        },
+        {
+          "scene": "Hermione offers a reassuring smile and lightly rests one ordinary hand on Pansy's clothed forearm. Pansy begins to relax. Natural hands, no extra limbs.",
+          "dialogue": [
+            "Hermione: Tienen calefacción y comida."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 70\n\nHermione confirma que Robin está bien y explica el cierre de la carretera. Pansy pregunta por la calefacción, la fórmula y el pijama.\nHermione: Está bien. Lo escuché riéndose durante la llamada.\nPansy: Entonces, ¿por qué no regresan?\nHermione: La nevada derribó un árbol sobre el camino de acceso. Las autoridades cerraron la carretera y no podrán retirarlo hasta mañana.\nHermione: Mis padres decidieron quedarse en casa de mi tía.\nPansy: ¿La casa tiene calefacción? ¿Llevan suficiente fórmula? ¿Empacaste su pijama?\nHermione: Tienen calefacción y comida.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas: cierre de carretera completo, tía y tres preguntas sobre calefacción/fórmula/pijama. Respuesta inicial y apoyo de antebrazo. Texto y acentos completos, dos toallas y ropa/rostros/cuarto conservados.",
+      "workingMaster": ".local/maestros/dialogos-capitulo-12-2026-11-11/c12-p070-dialogos-v2.png",
+      "selectedAttempt": "c12_p070_dialogos_v3.json",
+      "prompt": "Use case: precise-object-edit. Recompose EDIT TARGET IMAGE3 as one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for EDIT TARGET the old page70: replace its abbreviated panel sequence with the exact NEW panel list, preserve original people/room/clothes. Image 4 is reference for the exact current-night room, faces, high closed navy robe, gray full pajamas and two towels. Image 5 is reference for the same faces and exact room furnishings only, do not copy its old dialogue.\nSame quiet snowy evening in the original Granger guest bedroom: walnut bed and forest-green duvet, cream walls, oak door/wardrobe, russet rug, warm small shaded lamp, white pitcher and pine sprig, green reading chair with Hermione's cream towel, snowy window. Hermione has original brown eyes/freckles, abundant loose chestnut curls, FULL gray long-sleeved opaque pajama top and long gray trousers, original oval midnight-blue sapphire with clear halo on thin WHITE PLATINUM chain at front. Pansy has original angular tapered chin, narrow moss-green eyes, sleek straight side-parted chin-length black bob, bare ears. Ordinary FULL navy ankle-length long-sleeved house robe CLOSED HIGH, firmly tied, dark slippers. One small plain cream towel is over Pansy's forearm until she sets it on vanity in page71. She is covered normally for a family evening. No rings, wrist bracelets or hairclips yet. They have a normal conversation about Robin and the grandparents; relaxed natural gestures, two arms each. Robin, grandparents, Crookshanks and puppies are AWAY and not physically in this room. Exact original faces, no new people. Keep the same two distinct towels: Hermione's on chair, Pansy's on forearm then vanity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 70» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione at LEFT reassures Pansy at RIGHT, same exact room and clothes, conversational distance, one small natural open-palmed gesture. Pansy concerned, her plain cream towel on forearm. Balloon from Hermione. Print verbatim «Está bien. Lo escuché riéndose durante la llamada.»\nPanel 2. Pansy's concerned original green eyes toward Hermione, navy high closed collar and sleek bob, not a different face. Balloon from Pansy. Print verbatim «Entonces, ¿por qué no regresan?»\nPanel 3. Hermione beside snowy window explains the weather; outside only ordinary London snow and distant roofs, no new scene/people. Balloon from Hermione. Print verbatim «La nevada derribó un árbol sobre el camino de acceso. Las autoridades cerraron la carretera y no podrán retirarlo hasta mañana.»\nPanel 4. Hermione continues calmly while Pansy listens, same bed and lamp from previous panel, both original faces visible. Balloon from Hermione. Print verbatim «Mis padres decidieron quedarse en casa de mi tía.»\nPanel 5. Pansy asks all THREE questions with concerned but controlled expression, one hand lightly gesturing, small cream towel remains over other forearm. Large readable balloon. Balloon from Pansy. Print verbatim «¿La casa tiene calefacción? ¿Llevan suficiente fórmula? ¿Empacaste su pijama?»\nPanel 6. Hermione offers a reassuring smile and lightly rests one ordinary hand on Pansy's clothed forearm. Pansy begins to relax. Natural hands, no extra limbs. Balloon from Hermione. Print verbatim «Tienen calefacción y comida.»",
+      "references": [
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-184c8c82-e74e-41bb-b62c-1fd326dc4d0c.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-da4a2ea6-f766-4c00-9d8f-86ccd38d378a.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-be192073-7b22-48d6-8bc7-2a19db00dc84.png"
+      ],
+      "sha256": "8b3eebdf07b655f41a4c50da5951c144af9868d561a136c92080981698facb68",
+      "masterSha256": "199e321fe14bd1619827324235834a31bfc88128f2566fce0f3d329a19004eab",
+      "ocrMissingCandidates": [
+        "escuche",
+        "riendose",
+        "durante",
+        "llamada",
+        "entonces",
+        "regresan"
+      ]
+    },
+    {
+      "page": "70a",
+      "chapter": 12,
+      "original": null,
+      "image": "paginas/c12-p070a.webp",
+      "sourcePdfPages": [
+        534,
+        535
+      ],
+      "summary": "Hermione detalla el cuidado de Robin, confirma que lo oyó reír y cuenta cómo Crookshanks llegó a Derbyshire escondido en la camioneta.",
+      "panels": [
+        {
+          "scene": "Hermione continues her reassurance to Pansy, original full gray pajamas and sapphire. Same room, natural two hands.",
+          "dialogue": [
+            "Hermione: Robin comió a su hora y la pañalera lleva todo lo que necesitará hasta mañana."
+          ]
+        },
+        {
+          "scene": "Hermione smiles at the memory of her mother's call, Pansy listens attentively with towel on forearm. No images of dogs/baby physically in room.",
+          "dialogue": [
+            "Hermione: Mi madre cree que dormirá bien porque pasó el día jugando con los perros."
+          ]
+        },
+        {
+          "scene": "Pansy asks one final worried question, green almond eyes, angular face and navy closed robe exact.",
+          "dialogue": [
+            "Pansy: ¿Estás segura de que estaba tranquilo?"
+          ]
+        },
+        {
+          "scene": "Hermione answers warmly, one small open gesture, Pansy's shoulders relaxing.",
+          "dialogue": [
+            "Hermione: Lo escuché. Parecía estar divirtiéndose más que cualquiera de nosotros."
+          ]
+        },
+        {
+          "scene": "Hermione LEFT adds the surprising news, Pansy RIGHT responds, two separate readable balloons in order.",
+          "dialogue": [
+            "Hermione: Además, Crookshanks está con ellos.",
+            "Pansy: ¿Qué?"
+          ]
+        },
+        {
+          "scene": "Hermione explains, Pansy briefly glances toward the OPEN oak door as if she expected the cat, but there is NO cat here.",
+          "dialogue": [
+            "Hermione: Se escondió en la camioneta. Lo descubrieron al llegar."
+          ]
+        },
+        {
+          "scene": "Pansy's surprise becomes her familiar dry amusement, sleek bob, bare ears, towel still on forearm.",
+          "dialogue": [
+            "Pansy: Esa criatura planeó su fuga mientras nosotras empacábamos."
+          ]
+        },
+        {
+          "scene": "Hermione continues from beside the green chair, same snowy window and warm lamp; no other figures.",
+          "dialogue": [
+            "Hermione: Mi madre dice que se instaló junto a Robin y no permite que los perros se acerquen sin vigilarlos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 70a\n\nHermione detalla el cuidado de Robin, confirma que lo oyó reír y cuenta cómo Crookshanks llegó a Derbyshire escondido en la camioneta.\nHermione: Robin comió a su hora y la pañalera lleva todo lo que necesitará hasta mañana.\nHermione: Mi madre cree que dormirá bien porque pasó el día jugando con los perros.\nPansy: ¿Estás segura de que estaba tranquilo?\nHermione: Lo escuché. Parecía estar divirtiéndose más que cualquiera de nosotros.\nHermione: Además, Crookshanks está con ellos.\nPansy: ¿Qué?\nHermione: Se escondió en la camioneta. Lo descubrieron al llegar.\nPansy: Esa criatura planeó su fuga mientras nosotras empacábamos.\nHermione: Mi madre dice que se instaló junto a Robin y no permite que los perros se acerquen sin vigilarlos.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas completas y legibles: comida/pañalera, perros, tranquilidad deRobin, gato escondido en camioneta y vigilancia. Globos atribuidos en orden, Robin y gato siguen ausentes; manos, dos toallas, joya frontal y vestuario correctos.",
+      "workingMaster": ".local/maestros/dialogos-capitulo-12-2026-11-11/c12-p070a.png",
+      "selectedAttempt": "c12_p070_a.json",
+      "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact room, two original characters and current covered clothes. Image 4 is reference for the ongoing family phone-call conversation and towel positions only. Image 5 is reference for same faces and room, no later Christmas gifts.\nSame quiet snowy evening in the original Granger guest bedroom: walnut bed and forest-green duvet, cream walls, oak door/wardrobe, russet rug, warm small shaded lamp, white pitcher and pine sprig, green reading chair with Hermione's cream towel, snowy window. Hermione has original brown eyes/freckles, abundant loose chestnut curls, FULL gray long-sleeved opaque pajama top and long gray trousers, original oval midnight-blue sapphire with clear halo on thin WHITE PLATINUM chain at front. Pansy has original angular tapered chin, narrow moss-green eyes, sleek straight side-parted chin-length black bob, bare ears. Ordinary FULL navy ankle-length long-sleeved house robe CLOSED HIGH, firmly tied, dark slippers. One small plain cream towel is over Pansy's forearm until she sets it on vanity in page71. She is covered normally for a family evening. No rings, wrist bracelets or hairclips yet. They have a normal conversation about Robin and the grandparents; relaxed natural gestures, two arms each. Robin, grandparents, Crookshanks and puppies are AWAY and not physically in this room. Exact original faces, no new people. Keep the same two distinct towels: Hermione's on chair, Pansy's on forearm then vanity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 70a» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Hermione continues her reassurance to Pansy, original full gray pajamas and sapphire. Same room, natural two hands. Balloon from Hermione. Print verbatim «Robin comió a su hora y la pañalera lleva todo lo que necesitará hasta mañana.»\nPanel 2. Hermione smiles at the memory of her mother's call, Pansy listens attentively with towel on forearm. No images of dogs/baby physically in room. Balloon from Hermione. Print verbatim «Mi madre cree que dormirá bien porque pasó el día jugando con los perros.»\nPanel 3. Pansy asks one final worried question, green almond eyes, angular face and navy closed robe exact. Balloon from Pansy. Print verbatim «¿Estás segura de que estaba tranquilo?»\nPanel 4. Hermione answers warmly, one small open gesture, Pansy's shoulders relaxing. Balloon from Hermione. Print verbatim «Lo escuché. Parecía estar divirtiéndose más que cualquiera de nosotros.»\nPanel 5. Hermione LEFT adds the surprising news, Pansy RIGHT responds, two separate readable balloons in order. Balloon from Hermione. Print verbatim «Además, Crookshanks está con ellos.» Balloon from Pansy. Print verbatim «¿Qué?»\nPanel 6. Hermione explains, Pansy briefly glances toward the OPEN oak door as if she expected the cat, but there is NO cat here. Balloon from Hermione. Print verbatim «Se escondió en la camioneta. Lo descubrieron al llegar.»\nPanel 7. Pansy's surprise becomes her familiar dry amusement, sleek bob, bare ears, towel still on forearm. Balloon from Pansy. Print verbatim «Esa criatura planeó su fuga mientras nosotras empacábamos.»\nPanel 8. Hermione continues from beside the green chair, same snowy window and warm lamp; no other figures. Balloon from Hermione. Print verbatim «Mi madre dice que se instaló junto a Robin y no permite que los perros se acerquen sin vigilarlos.»",
+      "references": [
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-da4a2ea6-f766-4c00-9d8f-86ccd38d378a.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-184c8c82-e74e-41bb-b62c-1fd326dc4d0c.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-be192073-7b22-48d6-8bc7-2a19db00dc84.png"
+      ],
+      "sha256": "ba72ad351131c2b24538cd0eb8a2f2a9b8d8f54204cfd95d8000e6cb35ea7710",
+      "masterSha256": "394dc7741861da0397637170d4b5ab1df035b927a33a6e62b7de3cb54adb9550",
+      "ocrMissingCandidates": []
+    },
+    {
+      "page": "70b",
+      "chapter": 12,
+      "original": null,
+      "image": "paginas/c12-p070b.webp",
+      "sourcePdfPages": [
+        535
+      ],
+      "summary": "Pansy reconoce a regañadientes que el gato protege a Robin. Hermione lo toma como un cumplido y amenaza con contárselo.",
+      "panels": [
+        {
+          "scene": "Pansy allows a small approving smile while discussing the absent cat, still same closed navy robe and towel. Hermione listens.",
+          "dialogue": [
+            "Pansy: Por una vez, sus delirios de autoridad pueden resultar útiles."
+          ]
+        },
+        {
+          "scene": "Pansy delivers a dry joke, ONE restrained hand gesture; no fight or animal scene, only this conversation in the guest room.",
+          "dialogue": [
+            "Pansy: Si alguno de esos cachorros intenta molestar a Robin, Crookshanks lo atacará antes de que tus padres alcancen a levantarse."
+          ]
+        },
+        {
+          "scene": "Hermione smiles amused at LEFT, Pansy at RIGHT looks back, same faces and jewels.",
+          "dialogue": [
+            "Hermione: Eso ha sonado casi como un cumplido."
+          ]
+        },
+        {
+          "scene": "Pansy replies with one raised eyebrow, still unmistakable angular face, navy collar closed, no new jewelry.",
+          "dialogue": [
+            "Pansy: No exageres. Reconocí una sola cualidad aceptable de la pequeña bestia."
+          ]
+        },
+        {
+          "scene": "Hermione playfully says she will tell the cat, no pointing at a cat that is not here, just normal hand at own side.",
+          "dialogue": [
+            "Hermione: Voy a decírselo cuando vuelva."
+          ]
+        },
+        {
+          "scene": "Pansy answers, barely hiding a smile. Hermione laughs softly beside the green chair. Small towel still on Pansy's forearm until NEXT page.",
+          "dialogue": [
+            "Pansy: Si lo haces, negaré cada palabra."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 70b\n\nPansy reconoce a regañadientes que el gato protege a Robin. Hermione lo toma como un cumplido y amenaza con contárselo.\nPansy: Por una vez, sus delirios de autoridad pueden resultar útiles.\nPansy: Si alguno de esos cachorros intenta molestar a Robin, Crookshanks lo atacará antes de que tus padres alcancen a levantarse.\nHermione: Eso ha sonado casi como un cumplido.\nPansy: No exageres. Reconocí una sola cualidad aceptable de la pequeña bestia.\nHermione: Voy a decírselo cuando vuelva.\nPansy: Si lo haces, negaré cada palabra.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas: dos frases completas de protección deCrookshanks y todo el intercambio de cumplido/contárselo/negarlo. Diálogos literales, rostros/cabello, toalla y habitación intactos.",
+      "workingMaster": ".local/maestros/dialogos-capitulo-12-2026-11-11/c12-p070b.png",
+      "selectedAttempt": "c12_p070_b.json",
+      "prompt": "Use case: illustration-story. Create one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for the exact room, original faces and full gray/navy covered clothes. Image 4 is reference for the preceding conversation's body/cloth continuity and two towels. Image 5 is reference for the dry humorous facial expressions only, use new full dialogue.\nSame quiet snowy evening in the original Granger guest bedroom: walnut bed and forest-green duvet, cream walls, oak door/wardrobe, russet rug, warm small shaded lamp, white pitcher and pine sprig, green reading chair with Hermione's cream towel, snowy window. Hermione has original brown eyes/freckles, abundant loose chestnut curls, FULL gray long-sleeved opaque pajama top and long gray trousers, original oval midnight-blue sapphire with clear halo on thin WHITE PLATINUM chain at front. Pansy has original angular tapered chin, narrow moss-green eyes, sleek straight side-parted chin-length black bob, bare ears. Ordinary FULL navy ankle-length long-sleeved house robe CLOSED HIGH, firmly tied, dark slippers. One small plain cream towel is over Pansy's forearm until she sets it on vanity in page71. She is covered normally for a family evening. No rings, wrist bracelets or hairclips yet. They have a normal conversation about Robin and the grandparents; relaxed natural gestures, two arms each. Robin, grandparents, Crookshanks and puppies are AWAY and not physically in this room. Exact original faces, no new people. Keep the same two distinct towels: Hermione's on chair, Pansy's on forearm then vanity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 70b» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy allows a small approving smile while discussing the absent cat, still same closed navy robe and towel. Hermione listens. Balloon from Pansy. Print verbatim «Por una vez, sus delirios de autoridad pueden resultar útiles.»\nPanel 2. Pansy delivers a dry joke, ONE restrained hand gesture; no fight or animal scene, only this conversation in the guest room. Balloon from Pansy. Print verbatim «Si alguno de esos cachorros intenta molestar a Robin, Crookshanks lo atacará antes de que tus padres alcancen a levantarse.»\nPanel 3. Hermione smiles amused at LEFT, Pansy at RIGHT looks back, same faces and jewels. Balloon from Hermione. Print verbatim «Eso ha sonado casi como un cumplido.»\nPanel 4. Pansy replies with one raised eyebrow, still unmistakable angular face, navy collar closed, no new jewelry. Balloon from Pansy. Print verbatim «No exageres. Reconocí una sola cualidad aceptable de la pequeña bestia.»\nPanel 5. Hermione playfully says she will tell the cat, no pointing at a cat that is not here, just normal hand at own side. Balloon from Hermione. Print verbatim «Voy a decírselo cuando vuelva.»\nPanel 6. Pansy answers, barely hiding a smile. Hermione laughs softly beside the green chair. Small towel still on Pansy's forearm until NEXT page. Balloon from Pansy. Print verbatim «Si lo haces, negaré cada palabra.»",
+      "references": [
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-da4a2ea6-f766-4c00-9d8f-86ccd38d378a.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-184c8c82-e74e-41bb-b62c-1fd326dc4d0c.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-be192073-7b22-48d6-8bc7-2a19db00dc84.png"
+      ],
+      "sha256": "70ca18cef9ebe4196996393bda79a49925d99317082c6d8c16f6fdb6c1cd07ce",
+      "masterSha256": "819d0ddececc7754a100b13e0e674a8c59697f1a32f4a8dc4188718096572d33",
+      "ocrMissingCandidates": []
+    },
+    {
+      "page": 71,
+      "chapter": 12,
+      "original": "paginas/c12-p071.webp",
+      "image": "paginas/c12-p071-dialogos-v2.webp",
+      "sourcePdfPages": [
+        535,
+        536
+      ],
+      "summary": "Con la preocupación aliviada, Pansy deja su toalla y Hermione recoge una prenda. Hermione expresa los cumplidos de la gabardina, Harrods y la conducción.",
+      "panels": [
+        {
+          "scene": "Pansy sets HER small cream towel on the wooden VANITY, still fully covered in securely tied navy robe. Hermione stands beside the walnut bed, gray full pajamas. Hermione's OTHER cream towel remains on green chair. Tidy two-arm anatomy.",
+          "caption": "Pansy dejó la toalla sobre el tocador."
+        },
+        {
+          "scene": "Hermione picks up the opaque BLACK long-sleeved pajama shirt from green duvet and holds it out normally to Pansy. No wardrobe change or removal. Source objects exact.",
+          "dialogue": [
+            "Hermione: Creo que esta era la que estabas considerando."
+          ]
+        },
+        {
+          "scene": "Hermione looks warmly at Pansy's FACE from an ordinary conversational distance, sapphire front, own hands resting by her sides.",
+          "dialogue": [
+            "Hermione: Eres hermosa."
+          ]
+        },
+        {
+          "scene": "Hermione continues a sincere ordinary compliment, Pansy surprised and a little shy. Both dressed exactly, same guest room.",
+          "dialogue": [
+            "Hermione: Lo pensé cuando te probaste la gabardina."
+          ]
+        },
+        {
+          "scene": "Hermione LEFT and Pansy RIGHT share the source's Harrods joke with two clear ordered balloons; same original faces.",
+          "dialogue": [
+            "Hermione: Caminabas por Harrods como si el edificio te perteneciera.",
+            "Pansy: Estaba evaluando la posibilidad de adquirirlo."
+          ]
+        },
+        {
+          "scene": "Hermione adds the driving compliment with a soft smile, Pansy listens, same room and full covering clothes, no contact.",
+          "dialogue": [
+            "Hermione: También lo pensé cuando conducías."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 12 · 71\n\nCon la preocupación aliviada, Pansy deja su toalla y Hermione recoge una prenda. Hermione expresa los cumplidos de la gabardina, Harrods y la conducción.\nNarración: Pansy dejó la toalla sobre el tocador.\nHermione: Creo que esta era la que estabas considerando.\nHermione: Eres hermosa.\nHermione: Lo pensé cuando te probaste la gabardina.\nHermione: Caminabas por Harrods como si el edificio te perteneciera.\nPansy: Estaba evaluando la posibilidad de adquirirlo.\nHermione: También lo pensé cuando conducías.",
+      "actualPanelCount": 6,
+      "review": "Seis viñetas: deja su toalla en tocador; camisa ofrecida, Eres hermosa, gabardina, Harrods y conducción. Ya no repite broma del gato ni adelanta elipsis. Todos los textos y anatomía revisados.",
+      "workingMaster": ".local/maestros/dialogos-capitulo-12-2026-11-11/c12-p071-dialogos-v2.png",
+      "selectedAttempt": "c12_p071_dialogos_v3.json",
+      "prompt": "Use case: precise-object-edit. Recompose EDIT TARGET IMAGE3 as one complete 6-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for EDIT TARGET old page71: replace its first joke and last exterior inserts with the NEW exact source sequence, keep people/clothes/room. Image 4 is reference for the exact current-night room, high tied navy robe, gray pajamas, two towels and original faces. Image 5 is reference for same ordinary dialogue setting and exact clothes, not the old abbreviated wording.\nSame quiet snowy evening in the original Granger guest bedroom: walnut bed and forest-green duvet, cream walls, oak door/wardrobe, russet rug, warm small shaded lamp, white pitcher and pine sprig, green reading chair with Hermione's cream towel, snowy window. Hermione has original brown eyes/freckles, abundant loose chestnut curls, FULL gray long-sleeved opaque pajama top and long gray trousers, original oval midnight-blue sapphire with clear halo on thin WHITE PLATINUM chain at front. Pansy has original angular tapered chin, narrow moss-green eyes, sleek straight side-parted chin-length black bob, bare ears. Ordinary FULL navy ankle-length long-sleeved house robe CLOSED HIGH, firmly tied, dark slippers. One small plain cream towel is over Pansy's forearm until she sets it on vanity in page71. She is covered normally for a family evening. No rings, wrist bracelets or hairclips yet. They have a normal conversation about Robin and the grandparents; relaxed natural gestures, two arms each. Robin, grandparents, Crookshanks and puppies are AWAY and not physically in this room. Exact original faces, no new people. Keep the same two distinct towels: Hermione's on chair, Pansy's on forearm then vanity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 12 · 71» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy sets HER small cream towel on the wooden VANITY, still fully covered in securely tied navy robe. Hermione stands beside the walnut bed, gray full pajamas. Hermione's OTHER cream towel remains on green chair. Tidy two-arm anatomy. Caption verbatim «Pansy dejó la toalla sobre el tocador.»\nPanel 2. Hermione picks up the opaque BLACK long-sleeved pajama shirt from green duvet and holds it out normally to Pansy. No wardrobe change or removal. Source objects exact. Balloon from Hermione. Print verbatim «Creo que esta era la que estabas considerando.»\nPanel 3. Hermione looks warmly at Pansy's FACE from an ordinary conversational distance, sapphire front, own hands resting by her sides. Balloon from Hermione. Print verbatim «Eres hermosa.»\nPanel 4. Hermione continues a sincere ordinary compliment, Pansy surprised and a little shy. Both dressed exactly, same guest room. Balloon from Hermione. Print verbatim «Lo pensé cuando te probaste la gabardina.»\nPanel 5. Hermione LEFT and Pansy RIGHT share the source's Harrods joke with two clear ordered balloons; same original faces. Balloon from Hermione. Print verbatim «Caminabas por Harrods como si el edificio te perteneciera.» Balloon from Pansy. Print verbatim «Estaba evaluando la posibilidad de adquirirlo.»\nPanel 6. Hermione adds the driving compliment with a soft smile, Pansy listens, same room and full covering clothes, no contact. Balloon from Hermione. Print verbatim «También lo pensé cuando conducías.»",
+      "references": [
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+        "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-be192073-7b22-48d6-8bc7-2a19db00dc84.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-da4a2ea6-f766-4c00-9d8f-86ccd38d378a.png",
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-184c8c82-e74e-41bb-b62c-1fd326dc4d0c.png"
+      ],
+      "sha256": "792040f4a18a72ab9d326debc320c330817e75dbb77a36f466c40d7c86cdde56",
+      "masterSha256": "1518733a410e6f31c5d9e0d72d65d61a8fbd6ab662dd5be8de55c15444ec65ec",
+      "ocrMissingCandidates": [
+        "pansy",
+        "toalla",
+        "sobre",
+        "tocador",
+        "estabas",
+        "considerando",
+        "hermosa",
+        "probaste",
+        "gabardina"
+      ]
+    },
+    {
+      "page": "71a",
+      "chapter": 12,
+      "original": "paginas/c12-p071a.webp",
+      "image": "paginas/c12-p071a-dialogos-v2.webp",
+      "sourcePdfPages": [
+        536,
+        537
+      ],
+      "summary": "Hermione prolonga sus cumplidos. Pansy reconoce su enamoramiento y la inseguridad que acompaña sus sentimientos; ambas se ríen de sus nervios.",
+      "panels": [
+        {
+          "scene": "Hermione at LEFT speaks warmly to Pansy at RIGHT, standing beside the green chair, fully dressed exactly as reference. Her hands rest by her own sides, sapphire front, two individual faces.",
+          "dialogue": [
+            "Hermione: Y ahora… Ahora no consigo pensar en otra cosa."
+          ]
+        },
+        {
+          "scene": "Pansy looks shyly pleased by the compliment, ordinary close portrait of face and closed navy collar, narrow green eyes and angular jaw preserved.",
+          "dialogue": [
+            "Pansy: Honestamente, Hermione… Consigues que me enamore todavía más de ti."
+          ]
+        },
+        {
+          "scene": "Pansy smiles a little more and adds the source's admission while Hermione listens from a comfortable distance, original clothes unchanged.",
+          "dialogue": [
+            "Pansy: Pero, sea lo que sea, lo lograste."
+          ]
+        },
+        {
+          "scene": "Hermione answers only with a kind smile, brown eyes and freckles, hands loosely resting together at her own lap while standing. Warm shaded lamp and snowy window behind.",
+          "caption": "Hermione le respondió con una sonrisa."
+        },
+        {
+          "scene": "Pansy glances down thoughtfully, her own hands loosely clasped in front of her robe, conversational distance from Hermione, no contact.",
+          "dialogue": [
+            "Pansy: Nunca me había sentido tan insegura."
+          ]
+        },
+        {
+          "scene": "Pansy raises one eyebrow at her own unusual nervousness, small natural hand gesture toward herself, Hermione smiles beside green chair.",
+          "dialogue": [
+            "Pansy: Es una combinación bastante irritante."
+          ]
+        },
+        {
+          "scene": "The two women laugh softly at the awkward admission while standing separately, same clothes and original faces, warm room and snow, only normal conversational gestures.",
+          "caption": "La torpeza terminó haciéndolas reír."
+        }
+      ],
+      "transcript": "Capítulo 12 · 71a\n\nHermione prolonga sus cumplidos. Pansy reconoce su enamoramiento y la inseguridad que acompaña sus sentimientos; ambas se ríen de sus nervios.\nHermione: Y ahora… Ahora no consigo pensar en otra cosa.\nPansy: Honestamente, Hermione… Consigues que me enamore todavía más de ti.\nPansy: Pero, sea lo que sea, lo lograste.\nNarración: Hermione le respondió con una sonrisa.\nPansy: Nunca me había sentido tan insegura.\nPansy: Es una combinación bastante irritante.\nNarración: La torpeza terminó haciéndolas reír.",
+      "actualPanelCount": 7,
+      "review": "Siete viñetas preservadas. Solo primeros dos globos cambian para enlazar conducción sin repetirla y añadir Honestamente,Hermione; se mantiene condensación no explícita de la confesión. Texto correcto y resto de página sin regresiones.",
+      "workingMaster": ".local/maestros/dialogos-capitulo-12-2026-11-11/c12-p071a-dialogos-v2.png",
+      "selectedAttempt": "c12_p071_a_dialogos_v3.json",
+      "prompt": "Use case: precise-object-edit. Edit only TWO SPEECH BALLOONS on this complete seven-panel Spanish conversation page71a. This is an ordinary fully dressed conversation, keep all standing positions and expressions unchanged. Panel1 TOP-LEFT, Hermione's balloon: REPLACE its words with exactly «Y ahora… Ahora no consigo pensar en otra cosa.» Panel2 TOP-RIGHT, Pansy's balloon: REPLACE its words with exactly «Honestamente, Hermione… Consigues que me enamore todavía más de ti.» Preserve ALL other text and accents, seven panels, header «Capítulo 12 · 71a», original faces/brown and green eyes, chestnut curls/black bob, full gray pajamas and high closed navy house robe, sapphire/white platinum, warm room, snowy window, two towels, arm/hand anatomy and the whole composition. No added words or jewelry, no new gestures/characters, no footer/watermark, keep1024x1536. The new adjacent page71 already contains the driving compliment, so do not repeat that phrase here.",
+      "references": [
+        "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-c3e3d36d-fa69-41a1-9342-3b9c5f9ab8ab.png"
+      ],
+      "sha256": "20199fc04972df804784c724981df11b2e3f9c885b7e33044ea26134eff0ee11",
+      "masterSha256": "2354c671963f8d57f7f17891c2ba8fd9c30c5611b44208d87c2d94f5ac44efce",
+      "ocrMissingCandidates": [
+        "combinacion",
+        "bastante",
+        "irritante",
+        "torpeza",
+        "termino",
+        "haciendolas"
+      ]
+    }
+  ]
+}

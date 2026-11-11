@@ -238,3 +238,7 @@ Se revisan otra vez las páginas56 y65 tras la observación del usuario sobre el
 ## Páginas intermedias 71a–71b
 
 A petición del usuario se amplía la conversación y el desarrollo emocional antes de la mañana de Navidad. Las páginas 71a y 71b se leen entre 71 y 72; las páginas anteriores conservan números, enlaces, imágenes y transcripciones. El capítulo contiene 97 ilustraciones. [Guiones, prompts y revisión](prompts-capitulo-12-intermedias-71a-71b.json).
+
+## Restitución de los diálogos de la noche
+
+Se añaden 70a y 70b, se rehacen 70 y 71 y se ajusta el inicio de 71a para recuperar en orden la llamada, el cuidado de Robin, las bromas de Crookshanks y los cumplidos. La secuencia es 70 → 70a → 70b → 71 → 71a → 71b → 72. El capítulo contiene 99 ilustraciones. No se adapta el fragmento completo: permanece la elipsis de la secuencia sexual y se señala la condensación de la confesión afectiva. [Cobertura de diálogos, prompts y revisión](prompts-ampliacion-dialogos-capitulo-12-paginas-70-71a.json).
