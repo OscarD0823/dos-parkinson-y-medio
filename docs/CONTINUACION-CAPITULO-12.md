@@ -200,3 +200,14 @@ Se revisan de nuevo las páginas 56 y 65 con fotografías de un 911 real. Hermio
 | 84 | 560–561 | Jane reparte sus regalos. Las notas que dejó en los libros hacen que Pansy sienta que la escucharon. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-81-84.json).
+
+## Páginas 85–88
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 85 | 561 | Robin reconoce el elefante de su programa. Hermione entrega a Jane su perfume favorito y a Malcolm una nueva pala. |
+| 86 | 561–562 | Hermione le entrega a Pansy un brazalete con tres iniciales. Pansy responde a la incertidumbre sobre el final del proyecto. |
+| 87 | 562–563 | El regalo de Pansy para Jane es un First Folio. Jane comprende el cuidado que llevó la elección. |
+| 88 | 563–564 | El cronógrafo de Malcolm abre la conversación sobre el coche. El hechizo del maletero deja de ser un secreto. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-12-paginas-85-88.json).
