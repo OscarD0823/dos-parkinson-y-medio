@@ -55,3 +55,15 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 19 | 589 | Eirena abraza a Hermione y agradece compartir las vacaciones con Robin. Markus saluda a ambas jóvenes y Pansy protesta por quedar detrás del nieto. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-17-19.json).
+
+## Páginas 20–24
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 20 | 590 | Robin vuelve a llamar mamá ante sus abuelos. Las amigas bromean sobre oírlo de madrugada y Hermione pregunta por Draco, Astoria y Scorpius. |
+| 21 | 591 | Bromean sobre el paseo de Draco y Astoria. Chiara anuncia la mesa, manda retirar el equipaje y la familia baja por la galería abierta al mar. |
+| 22 | 592 | Mientras bajan, Blaise describe los atardeceres de Amalfi y Pansy bromea sobre su discurso. Llegan al arco del comedor abierto a los jardines. |
+| 23 | 593–594 | Hermione descubre la pérgola, las flores flotantes y el banquete. Blaise acomoda la silla de Daphne y Pansy hace lo mismo con Hermione. |
+| 24 | 594–595 | Eirena elige un babero blanco y azul con limones para Robin. Markus hace girar las flores y Pansy pide que los dos bebés puedan tocarlas. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-20-24.json).
