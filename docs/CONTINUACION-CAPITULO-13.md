@@ -78,3 +78,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 28 | 598–599 | Astoria saluda a Pansy. Draco y Scorpius llegan sonrosados por el sol y sus amigos bromean sobre sus colores a juego. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-25-28.json).
+
+## Páginas 29–32
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 29 | 599–600 | Las bromas sobre el sol y las cremas de Narcissa continúan. Astoria humedece una servilleta y cuida con ternura el rostro sonrosado de Draco. |
+| 30 | 600 | Un elfo trae un moisés para Scorpius y Draco lo acuesta con cuidado. Chiara se levanta para dar la bienvenida y anuncia un discurso breve. |
+| 31 | 601 | Chiara recuerda la tradición de vacaciones y da la bienvenida a Hermione, Pansy y Robin. La familia brinda reunida bajo la pérgola. |
+| 32 | 602 | Blaise guía a Hermione por la mesa: scialatielli con frutos del mar y espaguetis con colatura de anchoas. Daphne recibe su porción y Hermione escucha con curiosidad. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-29-32.json).
