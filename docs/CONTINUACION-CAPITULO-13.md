@@ -89,3 +89,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 32 | 602 | Blaise guía a Hermione por la mesa: scialatielli con frutos del mar y espaguetis con colatura de anchoas. Daphne recibe su porción y Hermione escucha con curiosidad. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-29-32.json).
+
+## Páginas 33–36
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 33 | 603 | Hermione pregunta por la colatura. Blaise explica la preparación y la pasta al limón; Draco y Daphne lo interrumpen con sus bromas. |
+| 34 | 603–604 | Blaise presenta el pescado en agua loca y explica su origen. Chiara aclara con humor cómo preparan esa tradición en su cocina. |
+| 35 | 604–605 | Blaise explica los calamares con patatas y Daphne le recuerda el vino blanco. Luego un elfo presenta dos botellas y comienza la explicación del vino de la región. |
+| 36 | 605 | Blaise presenta el vino tinto de Tramonti, explica los viñedos en terrazas y elige comenzar con el blanco para los seis jóvenes. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-33-36.json).
