@@ -67,3 +67,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 24 | 594–595 | Eirena elige un babero blanco y azul con limones para Robin. Markus hace girar las flores y Pansy pide que los dos bebés puedan tocarlas. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-20-24.json).
+
+## Páginas 25–28
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 25 | 595–596 | Lissandra y Caelum llegan al comedor. La seda del vestido toma los colores de los limones y las flores; Lissandra saluda a Daphne, Hermione y Pansy. |
+| 26 | 596–597 | Pansy pregunta por la seda cambiante y conversa con Lissandra sobre el diseño. La madre de Daphne le propone trabajar con ella una temporada. |
+| 27 | 597–598 | Caelum saluda a Hermione y bromea con Chiara sobre el recorrido. Astoria llega deprisa para abrazar a Hermione, seguida por Draco con Scorpius. |
+| 28 | 598–599 | Astoria saluda a Pansy. Draco y Scorpius llegan sonrosados por el sol y sus amigos bromean sobre sus colores a juego. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-25-28.json).

@@ -1,0 +1,419 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-15",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    25,
+    28
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 25,
+      "image": "paginas/c13-p025.webp",
+      "sourcePdfPages": [
+        595,
+        596
+      ],
+      "summary": "Lissandra y Caelum llegan al comedor. La seda del vestido toma los colores de los limones y las flores; Lissandra saluda a Daphne, Hermione y Pansy.",
+      "panels": [
+        {
+          "scene": "FULL-WIDTH under SAME dining arch, Lissandra andCaelum FIRST APPEAR, exact mature faces from middle family panel reference9p21. L BLONDE elegant updo/light eyes, few small earrings, NEW flowing opaque SILK ankle dress that turns from soft gardenGREEN edge to soft LEMON YELLOW under pergola with white/pink floral glints, palegold HEELS. C clean-shaven mature brown/gray swept hair, NEW BEIGE linen jacket/trousers over ivory open-collar shirt, no Markusgoatee/sunglasses. One ordinary hand at wife's COVERED lowerback. Existing nine adults/two babies total, no Malfoys yet.",
+          "caption": "Lissandra y Caelum llegaron bajo la pérgola."
+        },
+        {
+          "scene": "Medium fashion detail, fully clothed Lissandra's same silk skirt moving gracefully, soft YELLOW base with WHITE/PINK glints near hem reflecting real floating flowers/lemonfruits; no exposed legs/underwear, no glow on skin/hair or other clothes. Same longtable/arches/sea."
+        },
+        {
+          "scene": "Daphne stands from her seat, Lissandra gives normal cheek greeting and smooths daughter PEACH dress fabric near shoulder with two fingers; original BLONDEupdo mature mother vs longBLONDEwaves BLUE-eyed youngerD distinct.",
+          "dialogue": [
+            "Lissandra: Elegiste bien."
+          ],
+          "sourceFragments": [
+            "Elegiste bien"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Lissandra LEFT takes Hermione RIGHT hands warmly, adult welcome, H ivory/frontsapphire/ONE clearLEFT ring, original brown eyes/curls, Lyellowdress. Big clear complete balloon, no words omitted.",
+          "dialogue": [
+            "Lissandra: Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez."
+          ],
+          "sourceFragments": [
+            "Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez"
+          ]
+        },
+        {
+          "scene": "Lissandra gives H normal brief cheek greeting then retains ONE hand gently, fully clothed family welcome, background food/flowers and correct babies safely in OWN chairs. No extra pose/clone."
+        },
+        {
+          "scene": "FULL-WIDTH H LEFT replies with sincere delight to L RIGHT who follows warmly. SAME long rectangular table/cream runners/pergola, two source-order spacious balloons.",
+          "dialogue": [
+            "Hermione: Todo es precioso. Desde que llegamos no he podido decidir qué parte observar primero.",
+            "Lissandra: Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada."
+          ],
+          "sourceFragments": [
+            "Todo es precioso",
+            "Desde que llegamos no he podido decidir qué parte observar primero",
+            "Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada"
+          ]
+        },
+        {
+          "scene": "Lissandra andPansy exchange normal friendly hug, both fully clothed, distinct mature blondeupdo vsyoungblackbobgreeneyes. P blue-white/LEFT H-R-P bracelet/LEFT clip/bare fingers, Lsoftyellow silk. No text."
+        },
+        {
+          "scene": "Pansy notices L changing skirt, waits for invitation; L extends a small draped section of skirt fabric with one hand, fully covering legs/body. P examines fabric near her blue sleeve with gentle fingertip, tiny blue glint appears only on silk, SAME table/flowers. No text."
+        }
+      ],
+      "transcript": "Capítulo 13 · 25\n\nLissandra y Caelum llegan al comedor. La seda del vestido toma los colores de los limones y las flores; Lissandra saluda a Daphne, Hermione y Pansy.\nNarración: Lissandra y Caelum llegaron bajo la pérgola.\nLissandra: Elegiste bien.\nLissandra: Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez.\nHermione: Todo es precioso. Desde que llegamos no he podido decidir qué parte observar primero.\nLissandra: Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas revisadas completas. Las cuatro réplicas de PDF595–596 y la cartela están íntegras y legibles. R2 elimina un Caelum duplicado en la primera viñeta y una invitada de pelo oscuro que aparecía antes de tiempo en la quinta. Se conservan los saludos, la seda amarilla cambiante, los nueve adultos y los dos bebés humanos con sus diseños y babero. Astoria, Draco y Scorpius todavía no han llegado.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p025.png",
+      "sha256": "72049f1a1a9b338faae3ca5f49adbcd4d5102d2b4a145157ce49611318669b52",
+      "masterSha256": "b90c283272e453e989f52de375d2fa6faac264a8b586bd9d22d11d077d78275d",
+      "ocrMissingCandidates": [
+        "alegra",
+        "mucho",
+        "verte"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for immediately preceding APPROVED13p24R4: exact seven existing familyfaces/newlinenoutfits/LEFTjewels, HUMAN Robinlemonbib andAriannaOLIVE/TWObows inownlemonchairs. FINALfamilygroupmoment onlyforidentities/props, NOTpermanentseating; dininggeometryfromimage5. Newcouplearrivesasdescribed. Image 4 is reference for ONLY originalmatureLissandraBLONDEupdo andCaelumclean-shavenbrown-gray facesinMIDDLECENTERfamily panel. Alsofor27/28only: MIDDLELEFTDracoPLATINUM/AstoriaDARKBROWN/ScorpiusPLATINUM/GRAYBLUE identities. NEWsourceclothes/humanbabyskin, NOToldSAGE/NAVYgala outfits orclothdolls. Image 5 is reference for ONLY exact NEWLOWERdininglayout/longRECTANGULARwalnut table/CREAMrunners/BLUE-YELLOWrimplates/woodcanechairs/food/woodpergola/lemon-whiteflowers/sea. H/Pmiddleside FACING D/Bopposite; RobinBETWEENM/E, AriannanextChiara. RobinNOWhaswhiteBLUElemonbibfromimage3.\nOriginal lead faces from images1/2 ALWAYS take priority: Hermione BROWN eyes/freckles/abundant loose chestnut curls, individual nose/cheeks. Pansy narrow GREEN almond eyes/angular tapered chin/flat sleek side-parted BLACK chin-length bob/bare ears, no cloned faces. Other family faces use their own earlier approved references and mature ages. Same arrival afternoon travel outfits throughout: H opaque IVORY fitted-waist blouse and long wide-leg IVORY trousers/cream closed flat shoes/loose curls. P SKY BLUE linen button shirt sleeves rolled to elbows/full WHITE trousers/white loafers. Daphne long golden blonde waves/BLUE eyes/plain PEACH calf-length dress/light sandals/thin necklace. Blaise young BLACK/dark brown eyes/short relaxed BLACK twists with front strands/OLIVE linen open-collar shirt sleeves rolled to elbows and OLIVE trousers. Chiara mature BLACK/brown eyes/braids in updo under wide CHAMPAGNE hat/matching CHAMPAGNE modest top and ankle skirt/gold sandals/earrings/stacked gold bangles/dark-red lips. Markus mature GREEN eyes/swept brown hair/GRAY temples/neat dark goatee/BLACK open-collar linen shirt/BEIGE trousers/sunglasses. Eirena mature GREEN eyes/soft loose BLACK updo/blue drop earrings/DARK TERRACOTTA flowing ankle dress with deep V fully covering breasts, gathered waist and airy sleeves, distinct older face from P. H frontal oval MIDNIGHT BLUE sapphire clear halo on thin WHITE PLATINUM chain, ONE separate CLEAR oval diamond halo ring on ANATOMICAL LEFT RING FINGER. P fine white-gold chain bracelet with tiny H/R/P letters on LEFT WRIST, fine gold/diamond barrette above LEFT EAR. P fingers completely BARE, no ear jewelry, no duplicate ring. Do not switch jewelry to right hands. NEW LOWER dining room open on TWO sides through WHITE arches to olive-garden terraces and deep blue Tyrrhenian sea. ONE long RECTANGULAR dark WALNUT table with visible grain and CREAM linen runners, under pale WOOD PERGOLA wrapped in WHITE bougainvillea and fruiting lemon branches. Small WHITE/PINK/YELLOW flowers magically float near pergola. White dishes handpainted BLUE/YELLOW rims, clear stemware. At least TEN ordinary Italian serving platters: mussels/clams/calamari/shrimp/datterini tomatoes, pastas/fish/warm bread/thin pizzas with zucchini flowers/smoked cheese/anchovy/lemon, cheese boards/figs/pears/grapes/walnuts/candied fruit. Realistic food/table scale and normal perspective. H/P/D pale-yellow ice/mint/lemon LIMONATA in stemmed goblets, Chiara WHITE WINE separate. ADULT house-elves in cream/gold tunics serve, no invented human guests. No Granger furniture/pets/Christmas decor, no round upstairs coffee table or luggage/Zephyr in dining room. Stable dining blocking: Chiara at FAR short end, Arianna wooden highchair next to her on one side. Markus and Eirena at opposite NEAR end with Robin wooden highchair BETWEEN them. H/P sit together along middle of one LONG side, facing D/B sitting together on opposite LONG side. Room remains for later guests. Two current wooden baby highchairs with light cushions/small trays/painted lemon backs and secure support. By24 both babies seated safely in own chairs, NEVER on tabletop. Robin's NEW WHITE LINEN BIB with BLUE edging/tiny embroidered lemons appears during24 after Eirena chooses it; not before. Arianna retains OLIVE clothes. Characters may be cropped off panel but never cloned, swapped or scaled arbitrarily. From25 Lissandra mature BLONDEupdo/individualface/limitedjewelry/opaqueankle SILK dress turning softGREEN toLEMONYELLOW, localWHITE-PINK/BLUE/PEACH/ORANGE reflections only in silk/palegoldheels; Caelum matureclean-shaven brown-grayface/BEIGE linen jacket andtrousers/ivory openshirt. CURRENTBABYPOSITIONS: RobinWHITE-BLUE/GREEN/WHITElemonbibBLUEedge safelyinOWNwoodhighchairBETWEENMarkus/Eirena, AriannaOLIVE/BLUE/TWObows safelyinOWNchairnextChiara. Neitherbabyinadultarmsnow. P25-28NOnewbassinetorspoon yet, EMPTYZephyr/luggage stayupstairs. OnlyNINEadults/twoHUMANinfants. Lissandra/Caelum standgreetinganddiscussfabric; others maybecropped. Astoria/Draco/ScorpiusNOTARRIVEDyet. Allsourceutterances complete/readable. Magic changesONLYLissandrasilkcolor, NOTskin/hair/otherclothes.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 25» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. FULL-WIDTH under SAME dining arch, Lissandra andCaelum FIRST APPEAR, exact mature faces from middle family panel reference9p21. L BLONDE elegant updo/light eyes, few small earrings, NEW flowing opaque SILK ankle dress that turns from soft gardenGREEN edge to soft LEMON YELLOW under pergola with white/pink floral glints, palegold HEELS. C clean-shaven mature brown/gray swept hair, NEW BEIGE linen jacket/trousers over ivory open-collar shirt, no Markusgoatee/sunglasses. One ordinary hand at wife's COVERED lowerback. Existing nine adults/two babies total, no Malfoys yet. Caption verbatim «Lissandra y Caelum llegaron bajo la pérgola.»\nPanel 2. Medium fashion detail, fully clothed Lissandra's same silk skirt moving gracefully, soft YELLOW base with WHITE/PINK glints near hem reflecting real floating flowers/lemonfruits; no exposed legs/underwear, no glow on skin/hair or other clothes. Same longtable/arches/sea.\nPanel 3. Daphne stands from her seat, Lissandra gives normal cheek greeting and smooths daughter PEACH dress fabric near shoulder with two fingers; original BLONDEupdo mature mother vs longBLONDEwaves BLUE-eyed youngerD distinct. Balloon from Lissandra. Print verbatim «Elegiste bien.»\nPanel 4. FULL-WIDTH Lissandra LEFT takes Hermione RIGHT hands warmly, adult welcome, H ivory/frontsapphire/ONE clearLEFT ring, original brown eyes/curls, Lyellowdress. Big clear complete balloon, no words omitted. Balloon from Lissandra. Print verbatim «Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez.»\nPanel 5. Lissandra gives H normal brief cheek greeting then retains ONE hand gently, fully clothed family welcome, background food/flowers and correct babies safely in OWN chairs. No extra pose/clone.\nPanel 6. FULL-WIDTH H LEFT replies with sincere delight to L RIGHT who follows warmly. SAME long rectangular table/cream runners/pergola, two source-order spacious balloons. Balloon from Hermione. Print verbatim «Todo es precioso. Desde que llegamos no he podido decidir qué parte observar primero.» Balloon from Lissandra. Print verbatim «Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada.»\nPanel 7. Lissandra andPansy exchange normal friendly hug, both fully clothed, distinct mature blondeupdo vsyoungblackbobgreeneyes. P blue-white/LEFT H-R-P bracelet/LEFT clip/bare fingers, Lsoftyellow silk. No text.\nPanel 8. Pansy notices L changing skirt, waits for invitation; L extends a small draped section of skirt fabric with one hand, fully covering legs/body. P examines fabric near her blue sleeve with gentle fingertip, tiny blue glint appears only on silk, SAME table/flowers. No text.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p024_r4.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c09-p021-personajes-v4.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p023.png"
+          ],
+          "generatedMaster": "exec-28b4fb63-c4c3-45f2-bd5e-73ad16e6e9d5.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. IMAGE3 is the EDIT TARGET complete EIGHT-panel chapter13page25. Correct ONLY TWO accidental EXTRA PEOPLE. Keep every other panel/pixel as closely as possible, exact dialogue/accents/header/caption, all original main faces/hair/eyes/poses/clothes/jewelry and both HUMAN babies/table/food/pergola.\n1. PANEL1 (TOP WIDE ROW): CAELUM already correctly stands in BEIGE beside LISSANDRA in YELLOW at upper-left/center. KEEP that standing Caelum unchanged. There is a SECOND unwanted gray-haired clean-shaven male head and partial beige shoulder BETWEEN blonde DAPHNE in PEACH and BLACK BLAISE in OLIVE on the RIGHT (approximately x745-813,y135-291 in1024x1536). DELETE ONLY this duplicated man. Fill his place naturally with the existing white arch/blue sea/greenery or unobtrusive empty cane-chair background. No replacement person, face or head. Top row should have exactly the NINE invited adults: Markus, Eirena, Lissandra, Caelum, Hermione, Pansy, Daphne, Blaise and Chiara, plus the two babies Robin and Arianna.\n2. PANEL5 (WIDE FOURTH ROW with Lissandra giving Hermione a normal cheek greeting): DELETE the unwanted LONG DARK-HAIRED young woman BETWEEN PANSY (short BLACK bob/BLUE shirt) and DAPHNE (long BLONDE/PEACH), approximately x551-620,y902-1080. This extra woman arrived too early; Astoria is NOT present in chapter13page25. Fill only that removed girl's head/partial body with matching quiet pergola/sea/chair background, no new person. Keep Pansy and Daphne untouched; keep Lissandra/Hermione cheek greeting, every other guest and both babies exactly. Caelum may remain off camera in this panel; do not insert him.\nAll OTHER SIX PANELS are locked unchanged, including the yellow color-changing SILK skirt, 'Elegiste bien', full welcome to Hermione, both replies, normal friendly Pansy hug and fabric examination. Do not alter the eight-panel layout or text. No clones, no Astoria/Draco/Scorpius yet. Images1/2 original lead face refs; image4 current family faces/clothes; image5 exact mature Lissandra/Caelum faces. Only remove the two specified accidental extras.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-28b4fb63-c4c3-45f2-bd5e-73ad16e6e9d5.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p024_r4.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c09-p021-personajes-v4.webp"
+          ],
+          "generatedMaster": "exec-343005f5-ee5b-42c8-928f-057677c8bdfc.png"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "image": "paginas/c13-p026.webp",
+      "sourcePdfPages": [
+        596,
+        597
+      ],
+      "summary": "Pansy pregunta por la seda cambiante y conversa con Lissandra sobre el diseño. La madre de Daphne le propone trabajar con ella una temporada.",
+      "panels": [
+        {
+          "scene": "Pansy LEFT examines invited draped section of Lissandra skirt at RIGHT, YELLOW silk becomes deeper gold with a small BLUE reflection near P BLUE sleeve. Modest normal fabric design demonstration, no body emphasis or exposed legs. Pbare fingers/LEFT bracelet exact.",
+          "dialogue": [
+            "Pansy: ¿Reacciona a la luz o a los colores que tiene cerca?"
+          ],
+          "sourceFragments": [
+            "¿Reacciona a la luz o a los colores que tiene cerca?"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH L LEFT explains carefully to P RIGHT, draped fabric in natural hands, yellow silk/blue glint limited to cloth, no changes of hair/skin colors. Mature original face and tiny jewelry, exact source balloon.",
+          "dialogue": [
+            "Lissandra: A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella."
+          ],
+          "sourceFragments": [
+            "A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella"
+          ]
+        },
+        {
+          "scene": "Lissandra turns slightly near Daphne PEACH dress, her own silk keeps paleYELLOW with local PEACH highlight near side approaching D. P watches change with interest. Clothing stays opaque/anklelong, no candles lit yet. No text."
+        },
+        {
+          "scene": "Pansy looks thoughtfully at changing silk, same blue-white outfit and left jewelry, one small clear balloon.",
+          "dialogue": [
+            "Pansy: Quiero verla cuando enciendan las velas."
+          ],
+          "sourceFragments": [
+            "Quiero verla cuando enciendan las velas"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Lissandra explains to P and H nearby, SAME still daytime lemonpergola/table. Do NOT light candles or add night scene. Large complete balloon above faces.",
+          "dialogue": [
+            "Lissandra: La seda conserva el último color del día y lo mezcla con la luz del fuego. El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas."
+          ],
+          "sourceFragments": [
+            "La seda conserva el último color del día y lo mezcla con la luz del fuego",
+            "El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas"
+          ]
+        },
+        {
+          "scene": "Pansy smiles approvingly at L, L returns skirt to naturalfall, slow return toward LEMONYELLOW. Original faces, no added guest.",
+          "dialogue": [
+            "Pansy: Hiciste bien. Perdería todo el encanto si pudiera predecirse."
+          ],
+          "sourceFragments": [
+            "Hiciste bien. Perdería todo el encanto si pudiera predecirse"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH L LEFT rests ONE natural hand on P covered shoulder and offers collaboration; P RIGHT replies smiling, bare fingers/left bracelet, H nearby. Two complete ordered balloons.",
+          "dialogue": [
+            "Lissandra: Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.",
+            "Pansy: Envíame una propuesta que esté a la altura del vestido."
+          ],
+          "sourceFragments": [
+            "Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras",
+            "Envíame una propuesta que esté a la altura del vestido"
+          ]
+        },
+        {
+          "scene": "Lissandra smiles with satisfaction, original mature blondeupdo, silk fully restored soft LEMONYELLOW under pergola, Caelum beige nearby preparing to greet H. Same seated family/babies with correct holders/chairs in background.",
+          "dialogue": [
+            "Lissandra: Ya pensaba hacerlo."
+          ],
+          "sourceFragments": [
+            "Ya pensaba hacerlo"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 26\n\nPansy pregunta por la seda cambiante y conversa con Lissandra sobre el diseño. La madre de Daphne le propone trabajar con ella una temporada.\nPansy: ¿Reacciona a la luz o a los colores que tiene cerca?\nLissandra: A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella.\nPansy: Quiero verla cuando enciendan las velas.\nLissandra: La seda conserva el último color del día y lo mezcla con la luz del fuego. El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas.\nPansy: Hiciste bien. Perdería todo el encanto si pudiera predecirse.\nLissandra: Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.\nPansy: Envíame una propuesta que esté a la altura del vestido.\nLissandra: Ya pensaba hacerlo.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas completas revisadas. Las ocho intervenciones de PDF596–597 permanecen íntegras y legibles, incluidas las explicaciones de la seda y la propuesta laboral. Los reflejos azul y durazno afectan solo a la seda amarilla de Lissandra; no alteran piel, pelo ni ropa de las demás. Se mantienen los nueve adultos, dos bebés humanos, vestuario, joyas y comedor. No aparecen todavía los Malfoy.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p026.png",
+      "sha256": "10b432fdc8f988a22a9f5a63728c393c17c894e147535e259342c28254531f9d",
+      "masterSha256": "3ad1d6d4f0ae7e7462bf5f200fb0dba6e4086522009645f6528419ba6e82936a",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for immediately preceding APPROVED13p25R2: EXACT mature Lissandra blondeupdo/ownface/limitedjewelry/flowing LEMONYELLOW SILKwithpinkwhiteglints andCaelum cleangraybrown/BEIGE linen, H/P/D/B/C/M/E exactfaces/newoutfits/leftjewels. Same LOWER rectangularbanquettable/pergola/highchairs: Robinlemonbib/green andAriannaOLIVE/twobows/blue seated safely. Keep onlynineadults/twoinfants; no duplicates or Astoria/Draco yet. Magiccolor only Lsilk whennearfabrics. Image 4 is reference for ONLY originalmatureLissandraBLONDEupdo andCaelumclean-shavenbrown-gray facesinMIDDLECENTERfamily panel. Alsofor27/28only: MIDDLELEFTDracoPLATINUM/AstoriaDARKBROWN/ScorpiusPLATINUM/GRAYBLUE identities. NEWsourceclothes/humanbabyskin, NOToldSAGE/NAVYgala outfits orclothdolls. Image 5 is reference for ONLY exact NEWLOWERdininglayout/longRECTANGULARwalnut table/CREAMrunners/BLUE-YELLOWrimplates/woodcanechairs/food/woodpergola/lemon-whiteflowers/sea. H/Pmiddleside FACING D/Bopposite; RobinBETWEENM/E, AriannanextChiara. RobinNOWhaswhiteBLUElemonbibfromimage3.\nOriginal lead faces from images1/2 ALWAYS take priority: Hermione BROWN eyes/freckles/abundant loose chestnut curls, individual nose/cheeks. Pansy narrow GREEN almond eyes/angular tapered chin/flat sleek side-parted BLACK chin-length bob/bare ears, no cloned faces. Other family faces use their own earlier approved references and mature ages. Same arrival afternoon travel outfits throughout: H opaque IVORY fitted-waist blouse and long wide-leg IVORY trousers/cream closed flat shoes/loose curls. P SKY BLUE linen button shirt sleeves rolled to elbows/full WHITE trousers/white loafers. Daphne long golden blonde waves/BLUE eyes/plain PEACH calf-length dress/light sandals/thin necklace. Blaise young BLACK/dark brown eyes/short relaxed BLACK twists with front strands/OLIVE linen open-collar shirt sleeves rolled to elbows and OLIVE trousers. Chiara mature BLACK/brown eyes/braids in updo under wide CHAMPAGNE hat/matching CHAMPAGNE modest top and ankle skirt/gold sandals/earrings/stacked gold bangles/dark-red lips. Markus mature GREEN eyes/swept brown hair/GRAY temples/neat dark goatee/BLACK open-collar linen shirt/BEIGE trousers/sunglasses. Eirena mature GREEN eyes/soft loose BLACK updo/blue drop earrings/DARK TERRACOTTA flowing ankle dress with deep V fully covering breasts, gathered waist and airy sleeves, distinct older face from P. H frontal oval MIDNIGHT BLUE sapphire clear halo on thin WHITE PLATINUM chain, ONE separate CLEAR oval diamond halo ring on ANATOMICAL LEFT RING FINGER. P fine white-gold chain bracelet with tiny H/R/P letters on LEFT WRIST, fine gold/diamond barrette above LEFT EAR. P fingers completely BARE, no ear jewelry, no duplicate ring. Do not switch jewelry to right hands. NEW LOWER dining room open on TWO sides through WHITE arches to olive-garden terraces and deep blue Tyrrhenian sea. ONE long RECTANGULAR dark WALNUT table with visible grain and CREAM linen runners, under pale WOOD PERGOLA wrapped in WHITE bougainvillea and fruiting lemon branches. Small WHITE/PINK/YELLOW flowers magically float near pergola. White dishes handpainted BLUE/YELLOW rims, clear stemware. At least TEN ordinary Italian serving platters: mussels/clams/calamari/shrimp/datterini tomatoes, pastas/fish/warm bread/thin pizzas with zucchini flowers/smoked cheese/anchovy/lemon, cheese boards/figs/pears/grapes/walnuts/candied fruit. Realistic food/table scale and normal perspective. H/P/D pale-yellow ice/mint/lemon LIMONATA in stemmed goblets, Chiara WHITE WINE separate. ADULT house-elves in cream/gold tunics serve, no invented human guests. No Granger furniture/pets/Christmas decor, no round upstairs coffee table or luggage/Zephyr in dining room. Stable dining blocking: Chiara at FAR short end, Arianna wooden highchair next to her on one side. Markus and Eirena at opposite NEAR end with Robin wooden highchair BETWEEN them. H/P sit together along middle of one LONG side, facing D/B sitting together on opposite LONG side. Room remains for later guests. Two current wooden baby highchairs with light cushions/small trays/painted lemon backs and secure support. By24 both babies seated safely in own chairs, NEVER on tabletop. Robin's NEW WHITE LINEN BIB with BLUE edging/tiny embroidered lemons appears during24 after Eirena chooses it; not before. Arianna retains OLIVE clothes. Characters may be cropped off panel but never cloned, swapped or scaled arbitrarily. From25 Lissandra mature BLONDEupdo/individualface/limitedjewelry/opaqueankle SILK dress turning softGREEN toLEMONYELLOW, localWHITE-PINK/BLUE/PEACH/ORANGE reflections only in silk/palegoldheels; Caelum matureclean-shaven brown-grayface/BEIGE linen jacket andtrousers/ivory openshirt. CURRENTBABYPOSITIONS: RobinWHITE-BLUE/GREEN/WHITElemonbibBLUEedge safelyinOWNwoodhighchairBETWEENMarkus/Eirena, AriannaOLIVE/BLUE/TWObows safelyinOWNchairnextChiara. Neitherbabyinadultarmsnow. P25-28NOnewbassinetorspoon yet, EMPTYZephyr/luggage stayupstairs. OnlyNINEadults/twoHUMANinfants. Lissandra/Caelum standgreetinganddiscussfabric; others maybecropped. Astoria/Draco/ScorpiusNOTARRIVEDyet. Allsourceutterances complete/readable. Magic changesONLYLissandrasilkcolor, NOTskin/hair/otherclothes.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 26» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy LEFT examines invited draped section of Lissandra skirt at RIGHT, YELLOW silk becomes deeper gold with a small BLUE reflection near P BLUE sleeve. Modest normal fabric design demonstration, no body emphasis or exposed legs. Pbare fingers/LEFT bracelet exact. Balloon from Pansy. Print verbatim «¿Reacciona a la luz o a los colores que tiene cerca?»\nPanel 2. FULL-WIDTH L LEFT explains carefully to P RIGHT, draped fabric in natural hands, yellow silk/blue glint limited to cloth, no changes of hair/skin colors. Mature original face and tiny jewelry, exact source balloon. Balloon from Lissandra. Print verbatim «A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella.»\nPanel 3. Lissandra turns slightly near Daphne PEACH dress, her own silk keeps paleYELLOW with local PEACH highlight near side approaching D. P watches change with interest. Clothing stays opaque/anklelong, no candles lit yet. No text.\nPanel 4. Pansy looks thoughtfully at changing silk, same blue-white outfit and left jewelry, one small clear balloon. Balloon from Pansy. Print verbatim «Quiero verla cuando enciendan las velas.»\nPanel 5. FULL-WIDTH Lissandra explains to P and H nearby, SAME still daytime lemonpergola/table. Do NOT light candles or add night scene. Large complete balloon above faces. Balloon from Lissandra. Print verbatim «La seda conserva el último color del día y lo mezcla con la luz del fuego. El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas.»\nPanel 6. Pansy smiles approvingly at L, L returns skirt to naturalfall, slow return toward LEMONYELLOW. Original faces, no added guest. Balloon from Pansy. Print verbatim «Hiciste bien. Perdería todo el encanto si pudiera predecirse.»\nPanel 7. FULL-WIDTH L LEFT rests ONE natural hand on P covered shoulder and offers collaboration; P RIGHT replies smiling, bare fingers/left bracelet, H nearby. Two complete ordered balloons. Balloon from Lissandra. Print verbatim «Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.» Balloon from Pansy. Print verbatim «Envíame una propuesta que esté a la altura del vestido.»\nPanel 8. Lissandra smiles with satisfaction, original mature blondeupdo, silk fully restored soft LEMONYELLOW under pergola, Caelum beige nearby preparing to greet H. Same seated family/babies with correct holders/chairs in background. Balloon from Lissandra. Print verbatim «Ya pensaba hacerlo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p025_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c09-p021-personajes-v4.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p023.png"
+          ],
+          "generatedMaster": "exec-ecf1e822-36a3-4cfd-9eee-41641d1b99ab.png"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "image": "paginas/c13-p027.webp",
+      "sourcePdfPages": [
+        597,
+        598
+      ],
+      "summary": "Caelum saluda a Hermione y bromea con Chiara sobre el recorrido. Astoria llega deprisa para abrazar a Hermione, seguida por Draco con Scorpius.",
+      "panels": [
+        {
+          "scene": "FULL-WIDTH Caelum LEFT in BEIGE linen first shakes Hermione RIGHT LEFT hand gently then gives ordinary cheek welcome; capture ONE handshake moment, no duplicatepose. Mature clean-shaven brown-gray face reference9p21 distinctfromMarkus, Horiginal ivory/frontsapphire/oneLEFTdiamond. Full clear source balloon.",
+          "dialogue": [
+            "Caelum: Bienvenida a Amalfi. Supongo que Chiara ya te explicó dónde está el acceso privado al mar y te ofreció el yate."
+          ],
+          "sourceFragments": [
+            "Bienvenida a Amalfi. Supongo que Chiara ya te explicó dónde está el acceso privado al mar y te ofreció el yate"
+          ]
+        },
+        {
+          "scene": "Chiara at assigned end seat lifts white-wine goblet from diningtable and replies, samechampagnehat/braids/matureBLACKface, humanAriannaOLIVE/TWObows seatedsafely besideher, noAinlap.",
+          "dialogue": [
+            "Chiara: También le mostré los jardines desde el salón."
+          ],
+          "sourceFragments": [
+            "También le mostré los jardines desde el salón"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Caelum LEFT makes dryly serious joke to H RIGHT, Lissandra nearby smiles, Chiara visible at end. Same creamrunners/blueyellowrimplates/tenplatters/table.",
+          "dialogue": [
+            "Caelum: Entonces consiguió limitar el recorrido a una sola habitación. Debemos reconocer el esfuerzo que hizo para traerte a la mesa antes de enseñarte el resto de la villa."
+          ],
+          "sourceFragments": [
+            "Entonces consiguió limitar el recorrido a una sola habitación. Debemos reconocer el esfuerzo que hizo para traerte a la mesa antes de enseñarte el resto de la villa"
+          ]
+        },
+        {
+          "scene": "Chiara LEFT lightly replies to Caelum/H at RIGHT, warm familylaughter, no new people yet. Complete two-sentence balloon, same daylight.",
+          "dialogue": [
+            "Chiara: Mis invitados disfrutan más el recorrido después de comer. Además, tengo varios días para mostrarle todo lo demás."
+          ],
+          "sourceFragments": [
+            "Mis invitados disfrutan más el recorrido después de comer",
+            "Además, tengo varios días para mostrarle todo lo demás"
+          ]
+        },
+        {
+          "scene": "Caelum draws Lissandra chair next to matureMarkus/Eirena seatingzone, she sits and he takes adjacent seat. Her YELLOW silk gains local ORANGE glints near E terracotta dress; same blondeupdo identity. HumanRobin lemonbib betweengrandparents/ AolivebyChiara secure, H/Pmiddle oppositeD/B. No text."
+        },
+        {
+          "scene": "Astoria FIRST appears at top of SAME gallery stair arch, long nearly-straight DARKBROWN hair loosely half-up with loose strands, STEEL GRAY-BLUE eyes/own older-studentface, NEW airy PALEPOWDERBLUE calf/ankle dress/lightshoes. She beams towardH and raises skirtedge todescendquickly, fullyclothed.",
+          "dialogue": [
+            "Astoria: ¡Hermione!"
+          ],
+          "sourceFragments": [
+            "¡Hermione!"
+          ]
+        },
+        {
+          "scene": "Astoria ahead on broad safe stairs; SEVERAL steps behind Draco FIRST appears carrying HUMAN SLEEPING Scorpius securely against chest. Draco original PLATINUMshort hair/STEELGRAYBLUEeyes, WHITE openneck linen shirt/PALEGRAY trousers/cream loafers; S PLATINUMtuft/smoothhumanface/CREAM babyclothes with IVORY lightweight muslin shading face, NO toy skin. No text."
+        },
+        {
+          "scene": "FULL-WIDTH Hermione has stood from own chair and Astoria greets her with normal warm FRIENDLY embrace/two cheek kisses, keep one hugmoment/normalarmownership. H reply before smiling Aseparates, two complete source-order balloons. Draco/Scorpiusstill approachinginbackground notduplicated. H/Pjewels unchanged.",
+          "dialogue": [
+            "Astoria: Me alegra muchísimo que hayan llegado. Quería estar aquí para recibirlas, pero el paseo se extendió mucho más de lo que esperaba.",
+            "Hermione: Nosotras acabamos de sentarnos. Llegaron a tiempo."
+          ],
+          "sourceFragments": [
+            "Me alegra muchísimo que hayan llegado. Quería estar aquí para recibirlas, pero el paseo se extendió mucho más de lo que esperaba",
+            "Nosotras acabamos de sentarnos",
+            "Llegaron a tiempo"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 27\n\nCaelum saluda a Hermione y bromea con Chiara sobre el recorrido. Astoria llega deprisa para abrazar a Hermione, seguida por Draco con Scorpius.\nCaelum: Bienvenida a Amalfi. Supongo que Chiara ya te explicó dónde está el acceso privado al mar y te ofreció el yate.\nChiara: También le mostré los jardines desde el salón.\nCaelum: Entonces consiguió limitar el recorrido a una sola habitación. Debemos reconocer el esfuerzo que hizo para traerte a la mesa antes de enseñarte el resto de la villa.\nChiara: Mis invitados disfrutan más el recorrido después de comer. Además, tengo varios días para mostrarle todo lo demás.\nAstoria: ¡Hermione!\nAstoria: Me alegra muchísimo que hayan llegado. Quería estar aquí para recibirlas, pero el paseo se extendió mucho más de lo que esperaba.\nHermione: Nosotras acabamos de sentarnos. Llegaron a tiempo.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas completas revisadas y siete réplicas de PDF597–598 conservadas. Caelum y Chiara mantienen el intercambio completo sobre el recorrido. Astoria aparece desde la sexta viñeta, con pelo castaño oscuro y ojos gris azulados comprobados en una ampliación; Draco llega detrás con Scorpius humano dormido y bien sostenido. «¡Hermione!» está visible aunque OCR lo marque como candidato ausente. No se adelantan invitados ni se alteran ropa, joyas o escenarios.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p027.png",
+      "sha256": "1e495019e22f34cd622dcfb52ce8844798ff1cc9b287428f84d5ca661c2fdda9",
+      "masterSha256": "11a20d527672a3b61efa9b5b03eb1b911a5260c4e81355149a7d98123d949fff",
+      "ocrMissingCandidates": [
+        "hermione"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for immediately preceding APPROVED13p26: exact nine current adult faces/clothes, mature LissandraBLONDEupdo/YELLOWsilk andCaelumcleanshaven/BEIGE, H/P/D/B/C/M/E identities and LEFTjewels, correct two HUMANbabies inownchairs/Robinlemonbib andAriannaOLIVE/TWObows, same lowerrectangularbanquettable/pergola. ONLYthese9adults inpanels1-5. AstoriaDARKBROWN/GRAYBLUE/PALEBLUE firstpanel6, DracoPLATINUM/WHITE-GRAY andhumanSleepingScorpiusCREAMfirstpanel7, fromimage4 middle-left family. No duplicate people. Image 4 is reference for ONLY originalmatureLissandraBLONDEupdo andCaelumclean-shavenbrown-gray facesinMIDDLECENTERfamily panel. Alsofor27/28only: MIDDLELEFTDracoPLATINUM/AstoriaDARKBROWN/ScorpiusPLATINUM/GRAYBLUE identities. NEWsourceclothes/humanbabyskin, NOToldSAGE/NAVYgala outfits orclothdolls. Image 5 is reference for ONLY exact NEWLOWERdininglayout/longRECTANGULARwalnut table/CREAMrunners/BLUE-YELLOWrimplates/woodcanechairs/food/woodpergola/lemon-whiteflowers/sea. H/Pmiddleside FACING D/Bopposite; RobinBETWEENM/E, AriannanextChiara. RobinNOWhaswhiteBLUElemonbibfromimage3.\nOriginal lead faces from images1/2 ALWAYS take priority: Hermione BROWN eyes/freckles/abundant loose chestnut curls, individual nose/cheeks. Pansy narrow GREEN almond eyes/angular tapered chin/flat sleek side-parted BLACK chin-length bob/bare ears, no cloned faces. Other family faces use their own earlier approved references and mature ages. Same arrival afternoon travel outfits throughout: H opaque IVORY fitted-waist blouse and long wide-leg IVORY trousers/cream closed flat shoes/loose curls. P SKY BLUE linen button shirt sleeves rolled to elbows/full WHITE trousers/white loafers. Daphne long golden blonde waves/BLUE eyes/plain PEACH calf-length dress/light sandals/thin necklace. Blaise young BLACK/dark brown eyes/short relaxed BLACK twists with front strands/OLIVE linen open-collar shirt sleeves rolled to elbows and OLIVE trousers. Chiara mature BLACK/brown eyes/braids in updo under wide CHAMPAGNE hat/matching CHAMPAGNE modest top and ankle skirt/gold sandals/earrings/stacked gold bangles/dark-red lips. Markus mature GREEN eyes/swept brown hair/GRAY temples/neat dark goatee/BLACK open-collar linen shirt/BEIGE trousers/sunglasses. Eirena mature GREEN eyes/soft loose BLACK updo/blue drop earrings/DARK TERRACOTTA flowing ankle dress with deep V fully covering breasts, gathered waist and airy sleeves, distinct older face from P. H frontal oval MIDNIGHT BLUE sapphire clear halo on thin WHITE PLATINUM chain, ONE separate CLEAR oval diamond halo ring on ANATOMICAL LEFT RING FINGER. P fine white-gold chain bracelet with tiny H/R/P letters on LEFT WRIST, fine gold/diamond barrette above LEFT EAR. P fingers completely BARE, no ear jewelry, no duplicate ring. Do not switch jewelry to right hands. NEW LOWER dining room open on TWO sides through WHITE arches to olive-garden terraces and deep blue Tyrrhenian sea. ONE long RECTANGULAR dark WALNUT table with visible grain and CREAM linen runners, under pale WOOD PERGOLA wrapped in WHITE bougainvillea and fruiting lemon branches. Small WHITE/PINK/YELLOW flowers magically float near pergola. White dishes handpainted BLUE/YELLOW rims, clear stemware. At least TEN ordinary Italian serving platters: mussels/clams/calamari/shrimp/datterini tomatoes, pastas/fish/warm bread/thin pizzas with zucchini flowers/smoked cheese/anchovy/lemon, cheese boards/figs/pears/grapes/walnuts/candied fruit. Realistic food/table scale and normal perspective. H/P/D pale-yellow ice/mint/lemon LIMONATA in stemmed goblets, Chiara WHITE WINE separate. ADULT house-elves in cream/gold tunics serve, no invented human guests. No Granger furniture/pets/Christmas decor, no round upstairs coffee table or luggage/Zephyr in dining room. Stable dining blocking: Chiara at FAR short end, Arianna wooden highchair next to her on one side. Markus and Eirena at opposite NEAR end with Robin wooden highchair BETWEEN them. H/P sit together along middle of one LONG side, facing D/B sitting together on opposite LONG side. Room remains for later guests. Two current wooden baby highchairs with light cushions/small trays/painted lemon backs and secure support. By24 both babies seated safely in own chairs, NEVER on tabletop. Robin's NEW WHITE LINEN BIB with BLUE edging/tiny embroidered lemons appears during24 after Eirena chooses it; not before. Arianna retains OLIVE clothes. Characters may be cropped off panel but never cloned, swapped or scaled arbitrarily. From25 Lissandra mature BLONDEupdo/individualface/limitedjewelry/opaqueankle SILK dress turning softGREEN toLEMONYELLOW, localWHITE-PINK/BLUE/PEACH/ORANGE reflections only in silk/palegoldheels; Caelum matureclean-shaven brown-grayface/BEIGE linen jacket andtrousers/ivory openshirt. From27 Astoria DARKBROWNlongnearlystraight half-up hair/STEELGRAYBLUEeyes/PALEPOWDERBLUE airyankledress; Draco PLATINUMshort hair/STEELGRAYBLUEeyes/WHITElinenopenshirt/PALEGRAYtrousers/creamloafers, mildrosycheeks/nose afterwalk. Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes CLOSEDasleep/CREAMoutfit/IVORYlightmuslin, mildrosynose/cheeks, NOinjury/blisters. Families keep own originalfaces, not clones. CURRENTBABYPOSITIONS: RobinWHITE-BLUE/GREEN/WHITElemonbibBLUEedge safelyinOWNwoodhighchairBETWEENMarkus/Eirena, AriannaOLIVE/BLUE/TWObows safelyinOWNchairnextChiara. Neitherbabyinadultarmsnow. P25-28NOnewbassinetorspoon yet, EMPTYZephyr/luggage stayupstairs. At27panel6Astoriafirstappears, panel7DracoapproachescarryingHUMANsleepingScorpius. FromthenELEVENadults/THREEinfants. On28SstayssecureinDracoarms, no bassinet yet. Lissandra/CaelumseatednearM/E from27panel5. Allsourceutterances complete/readable. Magic changesONLYLissandrasilkcolor, NOTskin/hair/otherclothes.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 27» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. FULL-WIDTH Caelum LEFT in BEIGE linen first shakes Hermione RIGHT LEFT hand gently then gives ordinary cheek welcome; capture ONE handshake moment, no duplicatepose. Mature clean-shaven brown-gray face reference9p21 distinctfromMarkus, Horiginal ivory/frontsapphire/oneLEFTdiamond. Full clear source balloon. Balloon from Caelum. Print verbatim «Bienvenida a Amalfi. Supongo que Chiara ya te explicó dónde está el acceso privado al mar y te ofreció el yate.»\nPanel 2. Chiara at assigned end seat lifts white-wine goblet from diningtable and replies, samechampagnehat/braids/matureBLACKface, humanAriannaOLIVE/TWObows seatedsafely besideher, noAinlap. Balloon from Chiara. Print verbatim «También le mostré los jardines desde el salón.»\nPanel 3. FULL-WIDTH Caelum LEFT makes dryly serious joke to H RIGHT, Lissandra nearby smiles, Chiara visible at end. Same creamrunners/blueyellowrimplates/tenplatters/table. Balloon from Caelum. Print verbatim «Entonces consiguió limitar el recorrido a una sola habitación. Debemos reconocer el esfuerzo que hizo para traerte a la mesa antes de enseñarte el resto de la villa.»\nPanel 4. Chiara LEFT lightly replies to Caelum/H at RIGHT, warm familylaughter, no new people yet. Complete two-sentence balloon, same daylight. Balloon from Chiara. Print verbatim «Mis invitados disfrutan más el recorrido después de comer. Además, tengo varios días para mostrarle todo lo demás.»\nPanel 5. Caelum draws Lissandra chair next to matureMarkus/Eirena seatingzone, she sits and he takes adjacent seat. Her YELLOW silk gains local ORANGE glints near E terracotta dress; same blondeupdo identity. HumanRobin lemonbib betweengrandparents/ AolivebyChiara secure, H/Pmiddle oppositeD/B. No text.\nPanel 6. Astoria FIRST appears at top of SAME gallery stair arch, long nearly-straight DARKBROWN hair loosely half-up with loose strands, STEEL GRAY-BLUE eyes/own older-studentface, NEW airy PALEPOWDERBLUE calf/ankle dress/lightshoes. She beams towardH and raises skirtedge todescendquickly, fullyclothed. Balloon from Astoria. Print verbatim «¡Hermione!»\nPanel 7. Astoria ahead on broad safe stairs; SEVERAL steps behind Draco FIRST appears carrying HUMAN SLEEPING Scorpius securely against chest. Draco original PLATINUMshort hair/STEELGRAYBLUEeyes, WHITE openneck linen shirt/PALEGRAY trousers/cream loafers; S PLATINUMtuft/smoothhumanface/CREAM babyclothes with IVORY lightweight muslin shading face, NO toy skin. No text.\nPanel 8. FULL-WIDTH Hermione has stood from own chair and Astoria greets her with normal warm FRIENDLY embrace/two cheek kisses, keep one hugmoment/normalarmownership. H reply before smiling Aseparates, two complete source-order balloons. Draco/Scorpiusstill approachinginbackground notduplicated. H/Pjewels unchanged. Balloon from Astoria. Print verbatim «Me alegra muchísimo que hayan llegado. Quería estar aquí para recibirlas, pero el paseo se extendió mucho más de lo que esperaba.» Balloon from Hermione. Print verbatim «Nosotras acabamos de sentarnos. Llegaron a tiempo.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p026.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c09-p021-personajes-v4.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p023.png"
+          ],
+          "generatedMaster": "exec-c516dc1f-c081-4e98-88ec-0dfcefdbd0f5.png"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "image": "paginas/c13-p028.webp",
+      "sourcePdfPages": [
+        598,
+        599
+      ],
+      "summary": "Astoria saluda a Pansy. Draco y Scorpius llegan sonrosados por el sol y sus amigos bromean sobre sus colores a juego.",
+      "panels": [
+        {
+          "scene": "Pansy LEFT now standing gives Astoria RIGHT normal short friendly side hug, bothfullyclothed. Pblue-white/leftbracelet/clip/barefingers, AownDARKBROWNnearlystraight half-up hair/STEELGRAYBLUEeyes/PALEBLUE dress distinctfromHchestnutcurls/browneyes andDblonde/BLUE. Same diningroom.",
+          "dialogue": [
+            "Pansy: El sol te sentó bien."
+          ],
+          "sourceFragments": [
+            "El sol te sentó bien"
+          ]
+        },
+        {
+          "scene": "Astoria answers P while glancing over shoulder toward approaching Draco carrying sleeping Scorpius, same hair/face/PALEBLUE dress.",
+          "dialogue": [
+            "Astoria: A mí sí. Descubrimos que no todos compartimos la misma resistencia."
+          ],
+          "sourceFragments": [
+            "A mí sí",
+            "Descubrimos que no todos compartimos la misma resistencia"
+          ]
+        },
+        {
+          "scene": "Draco at diningtable carefully folds IVORY lightweight MUSLIN off Scorpius face. Father and HUMANsleepingbaby have mild rosy cheeks/nose/forehead after sun, NOT burns/blisters/injury. DracoPLATINUMgrayblue/WHITEshirtGRAYtrousers, S PLATINUMtinyhair/eyesCLOSED/CREAMclothes. Natural child head/back/body support and tiny hands/feet. No text."
+        },
+        {
+          "scene": "FULL-WIDTH Blaise LEFT jokes to Draco just offright, Pansy RIGHT raises pale-yellow mintlemonlimonata to hide grin whileaddingreply. Two clear source-order balloons, no extra objects.",
+          "dialogue": [
+            "Blaise: Merlín, Draco. Una hora bajo el sol y finalmente encontraste un color que no sabes llevar.",
+            "Pansy: No seas cruel, Blaise. El rosa combina muy bien con sus ojos."
+          ],
+          "sourceFragments": [
+            "Merlín, Draco. Una hora bajo el sol y finalmente encontraste un color que no sabes llevar",
+            "No seas cruel, Blaise. El rosa combina muy bien con sus ojos"
+          ]
+        },
+        {
+          "scene": "Blaise LEFT evaluates father/babysamepinktone with mocksolemnity; Pansy RIGHT gently leans nearer to SEE baby without takinghim fromDraco. Robinbrown/green/lemonbib andAriannaoliveblue remainSEATED inownchairselsewhere, notthesehands. Twoorderedballoons.",
+          "dialogue": [
+            "Blaise: Tienes razón. Además, Scorpius lleva el mismo tono. Es un detalle familiar encantador.",
+            "Pansy: Perfectamente coordinados. Narcissa estaría orgullosa."
+          ],
+          "sourceFragments": [
+            "Tienes razón. Además, Scorpius lleva el mismo tono. Es un detalle familiar encantador",
+            "Perfectamente coordinados. Narcissa estaría orgullosa"
+          ]
+        },
+        {
+          "scene": "Draco briefly closes own eyes resignedly and cradles HUMANsleepingScorpius a little closer, babyeyeCLOSED/rosynose/PLATINUMtuft/CREAM. One complete balloon, natural arms.",
+          "dialogue": [
+            "Draco: Si consiguen terminar antes de que mi hijo despierte y descubra que sus tíos se burlan de él, lo agradecería."
+          ],
+          "sourceFragments": [
+            "Si consiguen terminar antes de que mi hijo despierte y descubra que sus tíos se burlan de él, lo agradecería"
+          ]
+        },
+        {
+          "scene": "Pansy and Blaise exchange their two complete lines in a small frame with only their faces and empty hands/table; Scorpius is OFF CAMERA still safely held by Draco, not in Pansy's arms. Same left jewelry/current clothes/room. No child in this one cropped panel.",
+          "dialogue": [
+            "Pansy: Nadie se está burlando de Scorpius. Él se ve adorable.",
+            "Blaise: Toda la responsabilidad estética recae sobre ti."
+          ],
+          "sourceFragments": [
+            "Nadie se está burlando de Scorpius",
+            "Él se ve adorable",
+            "Toda la responsabilidad estética recae sobre ti"
+          ]
+        },
+        {
+          "scene": "Warm final family laughter framing main H/P/D/B/Astoria/Draco around assigned middle table area, Draco nowsoftlysmilesbehind sleepingS head. TWO other HUMANbabies safely in ownchairs at ends, RobinWHITE-BLUE/lemonbib, A OLIVE/TWObows. Other grownups can be cropped offshot, no need cramall. SAME ONE long rectangular table/pergola/food/sky, no new text."
+        }
+      ],
+      "transcript": "Capítulo 13 · 28\n\nAstoria saluda a Pansy. Draco y Scorpius llegan sonrosados por el sol y sus amigos bromean sobre sus colores a juego.\nPansy: El sol te sentó bien.\nAstoria: A mí sí. Descubrimos que no todos compartimos la misma resistencia.\nBlaise: Merlín, Draco. Una hora bajo el sol y finalmente encontraste un color que no sabes llevar.\nPansy: No seas cruel, Blaise. El rosa combina muy bien con sus ojos.\nBlaise: Tienes razón. Además, Scorpius lleva el mismo tono. Es un detalle familiar encantador.\nPansy: Perfectamente coordinados. Narcissa estaría orgullosa.\nDraco: Si consiguen terminar antes de que mi hijo despierte y descubra que sus tíos se burlan de él, lo agradecería.\nPansy: Nadie se está burlando de Scorpius. Él se ve adorable.\nBlaise: Toda la responsabilidad estética recae sobre ti.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas completas revisadas. Las nueve réplicas de PDF598–599 permanecen íntegras, con sus acentos. R2 elimina a Scorpius de la pequeña viñeta de Pansy y Blaise, donde parecía cambiar de portador; queda fuera de ese encuadre y sigue dormido en brazos de Draco en las demás viñetas. Los tres bebés conservan aspecto humano y diseños distintos. Ropa, joyas, piel sonrosada, escenario y textos no presentan regresiones.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p028.png",
+      "sha256": "e6fd3e8b03768139aa67dcd7149c14c5726400c3c6dcaa41c59a0ae5911c1043",
+      "masterSha256": "8cdf3911aad4f9ca23ba6932628fec3e0931354e7064e1e670fa172fecd6393e",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for immediately preceding APPROVED13p27: EXACT new Astoria LONGDARKBROWNnearlystraightloosehalf-uphair/STEELGRAYBLUEeyes/PALEBLUEairydress, Draco PLATINUM/STEELGRAYBLUE/WHITEshirt-PALEGRAYtrousers carrying ONE HUMAN SLEEPING Scorpius PLATINUM/CREAM/IVORYmuslin. Same original H/P andothersfaces/currentclothes/LEFTjewels/lowerbanquetroom. Existing Robinlemonbib andAriannaOLIVE remain OWNhighchairs. No woodbassinet yet. Image 4 is reference for ONLY originalmatureLissandraBLONDEupdo andCaelumclean-shavenbrown-gray facesinMIDDLECENTERfamily panel. Alsofor27/28only: MIDDLELEFTDracoPLATINUM/AstoriaDARKBROWN/ScorpiusPLATINUM/GRAYBLUE identities. NEWsourceclothes/humanbabyskin, NOToldSAGE/NAVYgala outfits orclothdolls Do NOT include Lucius or Narcissa behind older family reference; Narcissa is only mentioned in dialogue, not present here.. Image 5 is reference for ONLY exact NEWLOWERdininglayout/longRECTANGULARwalnut table/CREAMrunners/BLUE-YELLOWrimplates/woodcanechairs/food/woodpergola/lemon-whiteflowers/sea. H/Pmiddleside FACING D/Bopposite; RobinBETWEENM/E, AriannanextChiara. RobinNOWhaswhiteBLUElemonbibfromimage3.\nOriginal lead faces from images1/2 ALWAYS take priority: Hermione BROWN eyes/freckles/abundant loose chestnut curls, individual nose/cheeks. Pansy narrow GREEN almond eyes/angular tapered chin/flat sleek side-parted BLACK chin-length bob/bare ears, no cloned faces. Other family faces use their own earlier approved references and mature ages. Same arrival afternoon travel outfits throughout: H opaque IVORY fitted-waist blouse and long wide-leg IVORY trousers/cream closed flat shoes/loose curls. P SKY BLUE linen button shirt sleeves rolled to elbows/full WHITE trousers/white loafers. Daphne long golden blonde waves/BLUE eyes/plain PEACH calf-length dress/light sandals/thin necklace. Blaise young BLACK/dark brown eyes/short relaxed BLACK twists with front strands/OLIVE linen open-collar shirt sleeves rolled to elbows and OLIVE trousers. Chiara mature BLACK/brown eyes/braids in updo under wide CHAMPAGNE hat/matching CHAMPAGNE modest top and ankle skirt/gold sandals/earrings/stacked gold bangles/dark-red lips. Markus mature GREEN eyes/swept brown hair/GRAY temples/neat dark goatee/BLACK open-collar linen shirt/BEIGE trousers/sunglasses. Eirena mature GREEN eyes/soft loose BLACK updo/blue drop earrings/DARK TERRACOTTA flowing ankle dress with deep V fully covering breasts, gathered waist and airy sleeves, distinct older face from P. H frontal oval MIDNIGHT BLUE sapphire clear halo on thin WHITE PLATINUM chain, ONE separate CLEAR oval diamond halo ring on ANATOMICAL LEFT RING FINGER. P fine white-gold chain bracelet with tiny H/R/P letters on LEFT WRIST, fine gold/diamond barrette above LEFT EAR. P fingers completely BARE, no ear jewelry, no duplicate ring. Do not switch jewelry to right hands. NEW LOWER dining room open on TWO sides through WHITE arches to olive-garden terraces and deep blue Tyrrhenian sea. ONE long RECTANGULAR dark WALNUT table with visible grain and CREAM linen runners, under pale WOOD PERGOLA wrapped in WHITE bougainvillea and fruiting lemon branches. Small WHITE/PINK/YELLOW flowers magically float near pergola. White dishes handpainted BLUE/YELLOW rims, clear stemware. At least TEN ordinary Italian serving platters: mussels/clams/calamari/shrimp/datterini tomatoes, pastas/fish/warm bread/thin pizzas with zucchini flowers/smoked cheese/anchovy/lemon, cheese boards/figs/pears/grapes/walnuts/candied fruit. Realistic food/table scale and normal perspective. H/P/D pale-yellow ice/mint/lemon LIMONATA in stemmed goblets, Chiara WHITE WINE separate. ADULT house-elves in cream/gold tunics serve, no invented human guests. No Granger furniture/pets/Christmas decor, no round upstairs coffee table or luggage/Zephyr in dining room. Stable dining blocking: Chiara at FAR short end, Arianna wooden highchair next to her on one side. Markus and Eirena at opposite NEAR end with Robin wooden highchair BETWEEN them. H/P sit together along middle of one LONG side, facing D/B sitting together on opposite LONG side. Room remains for later guests. Two current wooden baby highchairs with light cushions/small trays/painted lemon backs and secure support. By24 both babies seated safely in own chairs, NEVER on tabletop. Robin's NEW WHITE LINEN BIB with BLUE edging/tiny embroidered lemons appears during24 after Eirena chooses it; not before. Arianna retains OLIVE clothes. Characters may be cropped off panel but never cloned, swapped or scaled arbitrarily. From25 Lissandra mature BLONDEupdo/individualface/limitedjewelry/opaqueankle SILK dress turning softGREEN toLEMONYELLOW, localWHITE-PINK/BLUE/PEACH/ORANGE reflections only in silk/palegoldheels; Caelum matureclean-shaven brown-grayface/BEIGE linen jacket andtrousers/ivory openshirt. From27 Astoria DARKBROWNlongnearlystraight half-up hair/STEELGRAYBLUEeyes/PALEPOWDERBLUE airyankledress; Draco PLATINUMshort hair/STEELGRAYBLUEeyes/WHITElinenopenshirt/PALEGRAYtrousers/creamloafers, mildrosycheeks/nose afterwalk. Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes CLOSEDasleep/CREAMoutfit/IVORYlightmuslin, mildrosynose/cheeks, NOinjury/blisters. Families keep own originalfaces, not clones. CURRENTBABYPOSITIONS: RobinWHITE-BLUE/GREEN/WHITElemonbibBLUEedge safelyinOWNwoodhighchairBETWEENMarkus/Eirena, AriannaOLIVE/BLUE/TWObows safelyinOWNchairnextChiara. Neitherbabyinadultarmsnow. P25-28NOnewbassinetorspoon yet, EMPTYZephyr/luggage stayupstairs. At27panel6Astoriafirstappears, panel7DracoapproachescarryingHUMANsleepingScorpius. FromthenELEVENadults/THREEinfants. On28SstayssecureinDracoarms, no bassinet yet. Lissandra/CaelumseatednearM/E from27panel5. Allsourceutterances complete/readable. Magic changesONLYLissandrasilkcolor, NOTskin/hair/otherclothes.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 28» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Pansy LEFT now standing gives Astoria RIGHT normal short friendly side hug, bothfullyclothed. Pblue-white/leftbracelet/clip/barefingers, AownDARKBROWNnearlystraight half-up hair/STEELGRAYBLUEeyes/PALEBLUE dress distinctfromHchestnutcurls/browneyes andDblonde/BLUE. Same diningroom. Balloon from Pansy. Print verbatim «El sol te sentó bien.»\nPanel 2. Astoria answers P while glancing over shoulder toward approaching Draco carrying sleeping Scorpius, same hair/face/PALEBLUE dress. Balloon from Astoria. Print verbatim «A mí sí. Descubrimos que no todos compartimos la misma resistencia.»\nPanel 3. Draco at diningtable carefully folds IVORY lightweight MUSLIN off Scorpius face. Father and HUMANsleepingbaby have mild rosy cheeks/nose/forehead after sun, NOT burns/blisters/injury. DracoPLATINUMgrayblue/WHITEshirtGRAYtrousers, S PLATINUMtinyhair/eyesCLOSED/CREAMclothes. Natural child head/back/body support and tiny hands/feet. No text.\nPanel 4. FULL-WIDTH Blaise LEFT jokes to Draco just offright, Pansy RIGHT raises pale-yellow mintlemonlimonata to hide grin whileaddingreply. Two clear source-order balloons, no extra objects. Balloon from Blaise. Print verbatim «Merlín, Draco. Una hora bajo el sol y finalmente encontraste un color que no sabes llevar.» Balloon from Pansy. Print verbatim «No seas cruel, Blaise. El rosa combina muy bien con sus ojos.»\nPanel 5. Blaise LEFT evaluates father/babysamepinktone with mocksolemnity; Pansy RIGHT gently leans nearer to SEE baby without takinghim fromDraco. Robinbrown/green/lemonbib andAriannaoliveblue remainSEATED inownchairselsewhere, notthesehands. Twoorderedballoons. Balloon from Blaise. Print verbatim «Tienes razón. Además, Scorpius lleva el mismo tono. Es un detalle familiar encantador.» Balloon from Pansy. Print verbatim «Perfectamente coordinados. Narcissa estaría orgullosa.»\nPanel 6. Draco briefly closes own eyes resignedly and cradles HUMANsleepingScorpius a little closer, babyeyeCLOSED/rosynose/PLATINUMtuft/CREAM. One complete balloon, natural arms. Balloon from Draco. Print verbatim «Si consiguen terminar antes de que mi hijo despierte y descubra que sus tíos se burlan de él, lo agradecería.»\nPanel 7. Pansy LEFT sincerely smiles at baby heldbyDraco thenBlaise RIGHT nods solemnly, two clear complete balloons; same newlinenclothes and lefthandjewels. Balloon from Pansy. Print verbatim «Nadie se está burlando de Scorpius. Él se ve adorable.» Balloon from Blaise. Print verbatim «Toda la responsabilidad estética recae sobre ti.»\nPanel 8. Warm final family laughter framing main H/P/D/B/Astoria/Draco around assigned middle table area, Draco nowsoftlysmilesbehind sleepingS head. TWO other HUMANbabies safely in ownchairs at ends, RobinWHITE-BLUE/lemonbib, A OLIVE/TWObows. Other grownups can be cropped offshot, no need cramall. SAME ONE long rectangular table/pergola/food/sky, no new text.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p027.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c09-p021-personajes-v4.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p023.png"
+          ],
+          "generatedMaster": "exec-6521eed6-437e-42b9-a0d7-b90be997693c.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. IMAGE3 is the EDIT TARGET entire EIGHT-panel Spanish comic chapter13page28. Fix ONLY the SMALL BOTTOM-LEFT PANEL (panel7, left rectangle of last row, approximately x12-328,y1144-1526). It currently wrongly shows SLEEPING BLOND BABY SCORPIUS nestled against PANSY's BLUE shirt. The story never hands him to Pansy; DRACO holds Scorpius throughout this page.\nWithin ONLY this small panel7, REMOVE that baby head and cream wrap from in front of Pansy's chest/lap (approx x110-242,y1360-1518). Continue Pansy's SAME BLUE button shirt and/or unobtrusive existing table/background naturally into the removed area. Show only PANSY at LEFT and BLAISE at RIGHT speaking their existing lines. Pansy's hands may remain below crop or rest empty on table; NO baby in this particular cropped panel, NO new person or extra limbs. Her face/bob/GREEN eyes/LEFT hairclip/LEFT H-R-P bracelet/BARE fingers unchanged.\nKeep BOTH exact existing balloons and tails in panel7: Pansy «Nadie se está burlando de Scorpius. Él se ve adorable.» and Blaise «Toda la responsabilidad estética recae sobre ti.»\nALL OTHER SEVEN PANELS, header and every other word/accent/drawing are locked unchanged. Scorpius MUST remain unchanged IN DRACO'S ARMS in panels3,4,5,6 and8: human sleeping PLATINUM baby/CREAM clothes/soft rosy cheeks, not toy material. Robin remains in own lemon-bib highchair and Arianna in own olive/two-bow highchair where shown. Do NOT remove Scorpius from any other panel or put him with another person. Image4 previous page confirms correct Draco/Scorpius hold; images1/2 original lead faces. No layout change, no added words/footer/watermark. Only remove the misplaced baby from small bottom-left panel7 and restore the blue blouse underneath.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6521eed6-437e-42b9-a0d7-b90be997693c.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p027.png"
+          ],
+          "generatedMaster": "exec-68c80d75-334f-4947-9101-d71f75062a52.png"
+        }
+      ]
+    }
+  ]
+}
