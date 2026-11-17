@@ -212,3 +212,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 76 | 643 | Hermione y Pansy retoman la broma del agua de manantial. Los bebés siguen jugando mientras las parejas se acomodan y Gnocchi recoge las copas. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-73-76.json).
+
+## Páginas 77–80
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 77 | 644 | La música rompe la calma de la cala. La familia se levanta con los bebés y descubre un yate blanco con una gran bandera italiana; una joven vestida de rojo los reconoce. |
+| 78 | 645 | Valentina llama a Blaise y Allegra reconoce a Pansy desde el yate. Hermione y Daphne comparten una mirada al ver la sorpresa de sus parejas. |
+| 79 | 646 | Los cuatro elfos desaparecen al reconocer a las visitantes. Valentina y Allegra dejan sus cosas en el yate y se lanzan al agua para acercarse a la familia. |
+| 80 | 647 | Las hermanas se acercan a la orilla mientras Pansy intenta encontrar una explicación. Draco y Astoria regresan a cubierta y descubren la llegada de Valentina y Allegra. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-77-80.json).

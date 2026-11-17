@@ -1,0 +1,348 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-17",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    77,
+    80
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 77,
+      "image": "paginas/c13-p077.webp",
+      "sourcePdfPages": [
+        644
+      ],
+      "summary": "La música rompe la calma de la cala. La familia se levanta con los bebés y descubre un yate blanco con una gran bandera italiana; una joven vestida de rojo los reconoce.",
+      "panels": [
+        {
+          "scene": "H hears approaching musicandraisesface towardCOVEentrance, PturnsfromRobin/B&Daphsitup, Ari slightfrown atnoise. SameLOWrock/creamTOWELS/smallwraps/NAVYcapR. No musicallyrics or inventedshouts.",
+          "caption": "La música rompió por completo la calma del lugar.",
+          "sourceFragments": [
+            "La música rompió por completo la calma del lugar."
+          ]
+        },
+        {
+          "scene": "H chestnutBUN/CREAMtowel/OLIVE looksatcoveentrance andcommentsONEfullshortballoon, tailH. Otherfamilyalertnotfrightened, no newboatfullyrevealedyet.",
+          "dialogue": [
+            "Hermione: Eso está demasiado cerca."
+          ],
+          "sourceFragments": [
+            "Eso está demasiado cerca."
+          ]
+        },
+        {
+          "scene": "ClearSOURCEstandup/carrierchange. HholdsROBIN creamwrap/DUCKS/NAVYhat, DaphholdsARI paleTURQ, B NOW NAVY LINENSHIRT/BLACKglasses holdsSCORPIUSgraywrap/platinum. Pfreehands adjustsOPENBLACKshirt andwalkstowardgangway. FOURnamedyoungadults/THREEhumanbabies, don'tinventfifthunnamedadult. Sameblackbarrette/jewels/outfits, no duplicates."
+        },
+        {
+          "scene": "Exactly FOUR SMALL MATURE TAUPEelfcrew gathernearLOWrock/woodgangway, looktowardcoveentry: ONE SHORTPLUMP GNOCCHI withtray/oversizedvisor plusTHREESLIMadultelves/pointedears/visors. Height~0.55human ifhumanpartialreferencevisible; no giants/children/goldrobes. Sourceauthorizescrewashore now."
+        },
+        {
+          "scene": "Wide establishingview fromrockedge: fourfamilyadults/threeheldbabies atLOWrocksbesideanchoredNAVYWOODketchgangway. BOW ofaSEPARATE LARGE MODERN WHITE MOTOR YACHT roundsROCKatcoveentrance. Coherentwhitehull/blackwindowband/metalrail/twodecks/no sails, calm water, smallfamilyfiguresnotgiants."
+        },
+        {
+          "scene": "H supportsRobin chestnutGREEN/CREAMwrap/NAVYcap ashepointsONEtinyhand toward the LARGE ITALIANflag atWHITEYACHTSTERN, vertical GREEN-WHITE-RED. H fullshortballoon/tailH, childdoesnot speak.",
+          "dialogue": [
+            "Hermione: Sí, es una bandera."
+          ],
+          "sourceFragments": [
+            "Sí, es una bandera"
+          ]
+        },
+        {
+          "scene": "WIDE WHITE MOTORYACHT turns/slows revealingSAME2decks/sternplatform/shortstairs/darkwindows/stainlessrails/ITALIANflag. ATLEAST12smallordinaryyoungpartyguests aroundtable/seats/railing, cups/conversation/dancing, naturalboat-to-people proportions. VALENTINA RED nearPROW, noAllegrafocusyet. FamilyNAVYketch remainsseparateanchoredelsewhere, no color/hullmorph."
+        },
+        {
+          "scene": "Medium FACE-FOCUSED Valentina standingnearWHITEYACHTPROW recognizesfamilyandsmiles. Tannedolive/fullovalface/DARKBLACKHIGHBUN/LARGEBLACKglasses/REDopaque swimsuittop/goldbanglesRIGHTwrist/earsbared. Noaddedwords yet, nocurved-bodyfocus. Sameboatmetalrail/darkglassbluewaterbehind."
+        }
+      ],
+      "transcript": "Capítulo 13 · 77\n\nLa música rompe la calma de la cala. La familia se levanta con los bebés y descubre un yate blanco con una gran bandera italiana; una joven vestida de rojo los reconoce.\nNarración: La música rompió por completo la calma del lugar.\nHermione: Eso está demasiado cerca.\nHermione: Sí, es una bandera.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR y2turnosH+caption fuentesíntegras/tildes/colasHnoR. R3corrige5familiaDEPIE tras3; R4restauraFLAGITALIANAgrandeGREEN-WHITE-REDstern7 sinrevertirpostura. NAVYWOODketch2mástilesFURLADOseparadodeWHITEpartyMOTORYACHTrealista2niveles/darkwindows/sternplatform-stairs/stainlessrail/atleast12smallguests, proporcionescoherentes. EXACT4elfosadultosmadurosTAUPE/viseras1Gnocchiplump+3slim, nohumanosgigantesni5thcrew. NUEVOSportadores3enadelanteH-RCREAM/NAVYcapDUCKS/Daph-AriTURQ/B-SPLATINUMGRAY, PfreeBLACKshirt. Bnavycamisa/glassesvolvieronbeforelater645/648, sourceimpliedtiming. Valentina77p8tanned/DARKHIGHBUN/blackglassesEYES/REDtop/stackGOLD RIGHTbangles/barefingers-ears, ordinaryfacefocusedgreeting; nuevo diseño aceptado. H/Pfaces-leftjewels/barePneck/fingerspreserved, babieshumanosnaturales.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p077.png",
+      "sha256": "f33fcfaaea3f0ff6b15bbbe25aa03095324f0def2c491c455d42cf1ff8e38011",
+      "masterSha256": "cae7ddb3aa845eeba698473dd7c66243738d734aceef7eadb5998a1d22d31402",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED76 faces/inkpaintstyle/cove/drywraps/Hcreamtowel/Pblackshirt. NewSOURCE644 carriers are HROBIN/DaphARI/BS andPfree, notoldseating. H/PLEFTjewels and PBARENECK remain. BreturnsNAVYshirt+BLACKglasses beforelater645-648source.. Image 4 is reference for Approved60R3 GnocchiMATURESHORTPLUMP/visorTAUPEandotherelfadultfaces/TAUPElinen; sourcecrew4TOTAL1plump+3slim, allstanding~0.55humanheight. SAMEclassicNAVYWOOD2mastfamilyketch/furledsails/gangway. New WHITE MOTOR YACHT is a separatevessel, not replacement/paintjob.. Image 5 is reference for PRIVATE handjewelsonly: H ONELEFT RINGfinger diamond/barewrist, P fingersALLplain/LEFT fineWHITEGOLD HRP BRACELET/NECKBARE. Do notprintlabels/copystyle..\nContinue SOURCE644-647 at same LiGalli cove/daylight/TURQUOISE sea/LOW smooth pale rocks/shade/creamTOWELS. Family classic Sangermani anchored NAVYHULL/DARKVARNISHEDWOOD/WHITEtrim/BRONZE/TWO MASTS/ALLIVORYSAILSFURLED/stable WOODPLANK-paleROPE gangway to LOWrock. Separate NEW vessel: LARGE MODERN WHITE MOTOR YACHT, TWO coherent decks/dark glazed windowband/STAINLESSmetal railings/broad LOWER STERN SWIM PLATFORM withSHORTSTAIRS fromupperdeck, NOsails, enormous ITALIAN flag atSTERN withVERTICAL GREEN-WHITE-RED bands (notblue), at least12youngpartyguests inordinaryopaque beachclothes holdingcups/talking/dancing, notcrowdedgiants. Samewhiteboatgeometry acrossviews, outsidefamilyprotectionboundary atcoveentrance. H chestnutMESSYBUN/freckles/BROWN eyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal MIDNIGHTBLUEsapphire-clearhalo WHITEPLATINUMchainONLYnecklace/ONE LEFT RING-finger diamond/BAREwrists/noBLUEearring. P original BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece&LOOSE OPEN BLACKbeachshirt/LEFTfineWHITEGOLD HRP BRACELET only/PLAINfingers/BAREneck-ears. Daph LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendantNOsapphire. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/NAVYswimshorts; NAVYLINENcollaredSHIRT andBLACK adultSUNGLASSES returnasfamilyrises644 (inferredtiming, impliedbyglasses645/shirt648). SOURCE644explicitCARERS: H NOWHOLDS HUMAN ROBIN CHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVY CAPTAINHAT GOLDanchor/BRIMUP. Daph holds HUMAN ARIANNA LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit-PALETURQwrap. B holds HUMAN SCORPIUS PLATINUM/STEELGRAYBLUE/GRAYshorts-PALEGRAYwrap AGAINSTNAVYSHIRT. Pfreehands. Allsmoothhumanskin/naturalindividualfingers/feet/safesupport, no toyknit/pillowbabies/no infantglasses. Four SMALL MATURE adultELFcrew TAUPElinen/visors/barefeet nowreactandgatheratROCK/GANGWAYsource644-646; GnocchiSHORTPLUMP/wrinkledkindface/pointedears/toolargevisor/tray, otherTHREESLIMADULTS; standingheight0.55ofhumanadult, no giantpeople/childfaces. TheyALLvanish646beforeguestsarrive, keep actual4total. Draco/Astoria remainOFFSCREENLOWERCABINS until80source647. No privateactivityshown. Onlyordinaryfamily/greeting/swimming/wideorface-focusedsummerstorytelling. No addedlyrics/speech orsexualizedbodyframing. NEW SISTERS fromWHITEpartyYACHT, distinctfromfamily: VALENTINA tannedwarmOLIVEskin/DARKnearlyBLACKhairinHIGHBUNwithfewstrands/DARKBROWNeyes(inferred)/fullerovalface/ordinaryopaque RED TWO-PIECEswimsuit/LARGE BLACKsunglasses/stackGOLD bangles RIGHTWRIST (sideinferred)/BAREears-nofingerrings. Glasses initiallyEYES77, perchTOPofHEAD afterlifting78, leaveonSEAT79beforedive; goldbanglesstay. ALLEGRA slightlyyoungersister/softangularface/LONG LOOSE CHESTNUT hair/DARKBROWNeyes(inferred)/ordinaryopaque TERRACOTTA TWO-PIECEswimsuit/fineGOLDWAISTCHAIN/ONEGOLDLEFTbangle removedontoSEAT79/BAREears-norings; noHfreckles/bluependant andnoAstoriaearthscarf. Nonsexual ordinarybeachposes; camera emphasizesrecognition/faces/waves, neverfigurecurves. Keep sourcewardrobepalette, notsuggestiveposes. Valentina firstappears77, Allegraonly78onward.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 77» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. H hears approaching musicandraisesface towardCOVEentrance, PturnsfromRobin/B&Daphsitup, Ari slightfrown atnoise. SameLOWrock/creamTOWELS/smallwraps/NAVYcapR. No musicallyrics or inventedshouts. Caption verbatim «La música rompió por completo la calma del lugar.»\nPanel 2. H chestnutBUN/CREAMtowel/OLIVE looksatcoveentrance andcommentsONEfullshortballoon, tailH. Otherfamilyalertnotfrightened, no newboatfullyrevealedyet. Balloon from Hermione. Print verbatim «Eso está demasiado cerca.»\nPanel 3. ClearSOURCEstandup/carrierchange. HholdsROBIN creamwrap/DUCKS/NAVYhat, DaphholdsARI paleTURQ, B NOW NAVY LINENSHIRT/BLACKglasses holdsSCORPIUSgraywrap/platinum. Pfreehands adjustsOPENBLACKshirt andwalkstowardgangway. FOURnamedyoungadults/THREEhumanbabies, don'tinventfifthunnamedadult. Sameblackbarrette/jewels/outfits, no duplicates.\nPanel 4. Exactly FOUR SMALL MATURE TAUPEelfcrew gathernearLOWrock/woodgangway, looktowardcoveentry: ONE SHORTPLUMP GNOCCHI withtray/oversizedvisor plusTHREESLIMadultelves/pointedears/visors. Height~0.55human ifhumanpartialreferencevisible; no giants/children/goldrobes. Sourceauthorizescrewashore now.\nPanel 5. Wide establishingview fromrockedge: fourfamilyadults/threeheldbabies atLOWrocksbesideanchoredNAVYWOODketchgangway. BOW ofaSEPARATE LARGE MODERN WHITE MOTOR YACHT roundsROCKatcoveentrance. Coherentwhitehull/blackwindowband/metalrail/twodecks/no sails, calm water, smallfamilyfiguresnotgiants.\nPanel 6. H supportsRobin chestnutGREEN/CREAMwrap/NAVYcap ashepointsONEtinyhand toward the LARGE ITALIANflag atWHITEYACHTSTERN, vertical GREEN-WHITE-RED. H fullshortballoon/tailH, childdoesnot speak. Balloon from Hermione. Print verbatim «Sí, es una bandera.»\nPanel 7. WIDE WHITE MOTORYACHT turns/slows revealingSAME2decks/sternplatform/shortstairs/darkwindows/stainlessrails/ITALIANflag. ATLEAST12smallordinaryyoungpartyguests aroundtable/seats/railing, cups/conversation/dancing, naturalboat-to-people proportions. VALENTINA RED nearPROW, noAllegrafocusyet. FamilyNAVYketch remainsseparateanchoredelsewhere, no color/hullmorph.\nPanel 8. Medium FACE-FOCUSED Valentina standingnearWHITEYACHTPROW recognizesfamilyandsmiles. Tannedolive/fullovalface/DARKBLACKHIGHBUN/LARGEBLACKglasses/REDopaque swimsuittop/goldbanglesRIGHTwrist/earsbared. Noaddedwords yet, nocurved-bodyfocus. Sameboatmetalrail/darkglassbluewaterbehind.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p076.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p060_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete EIGHT-panel Spanish family comic page77,1024x1536, same ink/painterly colors as approved images. Image1 previous76 fixes familyfaces/currentcoveredbeachclothes. Image2 identifies Gnocchi/matureelfcrew and NAVYWOODfamilySangermani ketch. Image3 ONLY left-hand jewelry, notlabels/style.\nHeader topcream «Capítulo 13 · 77». Thin black panelborders/creamgutters and large readable exact balloons/caption, Spanishaccents, nofooter/watermark/extraquotes/musiclyrics.\nH chestnutBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/BLUEsapphireONLYnecklace/ONELEFT RINGdiamond/barewrists.\nP BLACKCHINBOB/BLACKglasses/leftgoldclip/OPEN BLACKBEACHSHIRT overblacksuit/PLAINfingers/LEFTWHITEGOLD HRP BRACELET/NECKbare.\nDaph LONG BLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain. B DARKskin/shortBLACKtwists/DARKBROWN/NAVYlinenSHIRT now/NAVYshorts/BLACKglasses/BAREHEAD.\nFrom panel3 source644: HholdsHUMAN ROBIN chestnutGREEN/BLUEshortsYELLOWDUCKS/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchor-BRIMUP; DaphholdsHUMAN ARIANNA LIGHTGOLDENBLUE/TURQUOISE-PALETURQwrap; BholdsHUMAN SCORPIUS PLATINUMGRAYBLUE/GRAYsmallwrap againstNAVYshirt. Pfreehands. Naturalhumanskin/tinyfingers/secureparentalsupport, noinfantglasses.\nSamecalmTURQUOISE LiGalli cove/LOWsmoothrocks/shade. Family anchored classic NAVYHULL-DARKWOOD TWO-MAST ketch/ALLSAILSFURLED/woodropegangwaytoLOWrock.\nNEW SEPARATE ONE WHITE PARTY MOTOR YACHT: realisticTWOdecks/darkwindowband/stainlessrails/wide LOWSTERN swim-platform/shortstairs/NOsails/LARGE ITALIANFLAGatSTERN VERTICALGREEN-WHITE-RED. FamilyNAVYboat staysseparate, no hullmorph or collision. Naturalboatscale, smallcrowdonwhiteyacht.\nPanels:\n1 Hfirsthearsdistantmusic andlooks toentrance, familyraisesheads. Caption EXACT «La música rompió por completo la calma del lugar.» Music notprinted aslyrics.\n2 Hfacesentrance, ONEHballoonexact «Eso está demasiado cerca.»\n3 Clearstandup/handover: HNOWRobin, DaphNOWAri, BNAVYshirt-blackglassesNOWScorpius; Pfreehandsadjustsblackshirt. ExactlyFOURhumanparents/THREEheldbabies, noextrafifthadult.\n4 ExactlyFOUR SHORT MATURE ADULTELVES atLOWrock/gangway lookingout: GNOCCHIplump/wrinkledkindface/pointedears/oversizedTAUPEvisor/tray plusTHREEslimmatureelves/TAUPElinen-visors/barefeet. Height0.55humanadult, nevergiants/children. Crewsourceisfourtotal.\n5 WIDEview: familyatLOWrocksbesideNAVYWOODboat. BOWoftheSEPARATEWHITE MOTORYACHT roundslargerockatcoveentrance. Coherenthull/decks/rail/scalewithpeople. Nospeech.\n6 HholdsRobinwhopointsONEtinyhand towardhugeITALIANFLAG onWHITEyachtSTERN. VERTICALGREEN-WHITE-RED. ONEHballoonexact «Sí, es una bandera.» TailHnotbaby.\n7 WIDEWHITEyachtturns/slows revealingwholeSAME2decks/windowband/sternstairs-platform/Italianflag. ATLEAST12 smallpartyguests inordinaryopaque summerclothes holdingcups/talking/dancing, nogiants. One REDswimsuitwomannearPROW. Noquotedshouts.\n8 FACE-FOCUSED portrait of NEW VALENTINA atWHITEyachtPROW: tannedwarmolive/DARKBLACKhairHIGHBUN/LARGEBLACKsunglasses/ordinaryRED swimsuit shoulderstraps/stackGOLDbanglesRIGHTwrist/bareears,nofingerrings. Friendlysmile ofrecognition towardfamily. Noothernewcharacter orwords yet.",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p076.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p060_r3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-d7ed38d0-0eae-4c88-9523-dae046d29846.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: precise-object-edit. Correct ONLY PANEL5 (third row RIGHT, the wide rear view of family watching WHITE yacht) of this EXACT8-panel comic page77.\nThe family has ALREADY STOOD UP in panel3 and must remain STANDING at LOWrockedge besidegangway inpanel5, not seatedagain. Redraw ONLY their foreground poses as FOUR STANDING PARENTS viewed from BEHIND/three-quarter-back, LOWER BODIES may cropbelowframe, no raised seatedknees. Same identities/carriers aspanel3: H CREAMPshouldertowel/OLIVE/chestnutBUN holdsROBINCREAMwrap/NAVYcaptainhat/DUCKshorts; DaphLONG BLONDE/TURQUOISE holdsARI paleTURQwrap; BNAVYlinenSHIRT/BLACKtwists-GLASSES holdsSCORPIUSPLATINUM/GRAYwrap; PBLACKbob/OPENBLACKshirt hasFREEhands. All3babies secure inparentsarms, nofifthadult/extra infants.\nKeep the exact boat/background arrangement in thispanel: classicNAVYWOODfamilyketch LEFT/furledsails/woodropegangway toLOWrock, SEPARATE approachingWHITE MOTORYACHT bow RIGHT beyondrock, turquoise water/scale.\nEvery OTHER PANEL and allprintedtext is COMPLETELY UNCHANGED:8borders/layout/header«Capítulo13·77»/caption/2exactSpanishturns/tails/ValentinaRED-DARKbun-blackglasses-GOLDrightbangles/FOURsmallmaturetaupeelves/Gnocchiplump/ItalianGREEN-WHITE-REDflag/alljewels/faces/colors/1024x1536crop. No new words or jewelry.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d7ed38d0-0eae-4c88-9523-dae046d29846.png"
+          ],
+          "generatedMaster": "exec-a197baf5-e99d-4317-8d2f-31d040996472.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. IMAGE1 is the EXACT target complete8-panel comic page77, keep it. Restore ONE missing object only in PANEL7, FOURTH ROW RIGHT, the full WHITE PARTY YACHT view: a LARGE ITALIAN FLAG on a pole at the boat's STERN/LEFT CORNER beside the stern stairs. IMAGE2 is reference ONLY for this flag's original correct size/placement/colors. Restore that flag as in image2, three VERTICAL GREEN-WHITE-RED bands on cloth moving with breeze, GREEN/WHITE/RED NOT blue. The flag is what Robin points to in panel6. Do not change the yacht/guests or any other object. Crucially KEEP IMAGE1's correct STANDING family in PANEL5; do NOT copy image2's old seated family. Every other pixel/panel/face/infant/holder/jewel/wardrobe/boat/crew4/Valentina/2Spanishdialogues/caption/header/layout1024x1536 stays unchanged. No new text or people.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a197baf5-e99d-4317-8d2f-31d040996472.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d7ed38d0-0eae-4c88-9523-dae046d29846.png"
+          ],
+          "generatedMaster": "exec-2e9c655f-3dda-434e-93ea-d886665eb5e3.png"
+        }
+      ]
+    },
+    {
+      "page": 78,
+      "image": "paginas/c13-p078.webp",
+      "sourcePdfPages": [
+        645
+      ],
+      "summary": "Valentina llama a Blaise y Allegra reconoce a Pansy desde el yate. Hermione y Daphne comparten una mirada al ver la sorpresa de sus parejas.",
+      "panels": [
+        {
+          "scene": "VALENTINA onWHITEYACHT liftsLARGEBLACKglasses fromeyes toTOPofHEAD/DARKbun, revealingDARKBROWNeyes; turns towardyachtstairs andcallsONEsourceballoon withbothnames/punctuation. REDtop/goldbanglesRIGHT, face-focusedgreeting.",
+          "dialogue": [
+            "Valentina: ¡Allegra!, ¡Allegra!"
+          ],
+          "sourceFragments": [
+            "¡Allegra!, ¡Allegra!"
+          ]
+        },
+        {
+          "scene": "NEW ALLEGRA emergesupWHITEyachtstairs holdingadultCUP. LONGLOOSECHESTNUT/DARKBROWNeyes/softangularface/TERRACOTTAopaque2piece/fineGOLDwaistchain/ONEGOLDLEFTbangle, bareears/norings. Ordinarymedium-wide summerfashion/noanatomyfocus. ShelookswhereVpointed. NoHbluependant/Astoriascarf."
+        },
+        {
+          "scene": "VRED/DARKbun/glassesTOPHEAD wavesONEarmaboveshoulder towardfamily andcallsB sourceONEword. TailspecificallyV, nooneelse speaks. Samewhiteyachtdeck/metalrail.",
+          "dialogue": [
+            "Valentina: ¡Blaise!"
+          ],
+          "sourceFragments": [
+            "¡Blaise!"
+          ]
+        },
+        {
+          "scene": "VsmilebroadenswhenBrecognises, shewavesagainatWHITEbarandal, ONEfullsourcecallwithextactsurname. Naturalordinaryface/shoulderpose, noaddedwords.",
+          "dialogue": [
+            "Valentina: ¡Blaise Zabini!"
+          ],
+          "sourceFragments": [
+            "¡Blaise Zabini!"
+          ]
+        },
+        {
+          "scene": "B onLOWrocksNAVYlinenSHIRT/NAVYshorts/BAREHEAD holdingHUMAN SCORPIUSplatinumGRAYwrap againstchest, lowersBLACKsunglasses toNOSETIP andasksONEshortquestion, tailB. DistinctsourcebabySnotR/nohat, noadultNAVYcap.",
+          "dialogue": [
+            "Blaise: ¿Valentina?"
+          ],
+          "sourceFragments": [
+            "¿Valentina?"
+          ]
+        },
+        {
+          "scene": "ALLEGRA seesPfromWHITEYACHT, putsadultcupontable andcrossesdeckquicklygrippingrailforbalance. CHESTNUTLONG/TERRACOTTA/finegoldwaistchain/LEFTbangle intact, VREDcanbeoffcrop. OneAllegra only/no motionduplicates."
+        },
+        {
+          "scene": "FULL-WIDTH Allegra reachesWHITEyachtrail andwavesBOTHhands towardPsmilingdelighted, ONEfullsourcecall/tailAllegra. Pmaybesmallforeground/BLACKbob-shirt onROCK butnoincorrectAllegra→H. Mediumwideordinarygreeting.",
+          "dialogue": [
+            "Allegra: ¡Pansy!"
+          ],
+          "sourceFragments": [
+            "¡Pansy!"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH familyreaction onLOWrocks: HholdsROBIN/NAVYcap/creamwrap andDaphholdsARI/TURQexchangeonebriefraised-eyebrowlook; PBLACKbob-shirt freehands freezeslookingatAllegra, BnavySHIRT/glassesLOWnose holdsSCORPIUSGRAY andlooksastonished. Exactly4youngadults/3heldhumanbabies, noextrafigure, no dialogue. Hbluependantonly/PHRPleftwristnotneck."
+        }
+      ],
+      "transcript": "Capítulo 13 · 78\n\nValentina llama a Blaise y Allegra reconoce a Pansy desde el yate. Hermione y Daphne comparten una mirada al ver la sorpresa de sus parejas.\nValentina: ¡Allegra!, ¡Allegra!\nValentina: ¡Blaise!\nValentina: ¡Blaise Zabini!\nBlaise: ¿Valentina?\nAllegra: ¡Pansy!",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR/5turnos íntegros:V¡Allegra!,¡Allegra!/¡Blaise!/¡BlaiseZabini!/B¿Valentina?/A¡Pansy!, tildes ycolas correctas. R2restauraPBLACKglassesBAJADASnose8/GREENeyesvisibles, Hbrown/bluechestpendant-only, DaphBLUEconfirmadoinspection-78-daphne-eyes/nogreenclone, AriBLUE/Sgrayblue/RGREENhumanos. NuevoAllegraLONGCHESTNUT/DARKBROWN/softangularface/TERRACOTTA/GOLDwaistchain/ONELEFTbangle, nocamisaPniAstoriascarf. ValentinaRED/DARKBUN/tannedGOLDRIGHTbangles/glassesTOPHEAD/eyesdarkbrown, misma77. BnavySHIRT/glassesLOWnose/bareheadconSPLATINUMGRAYwrap, HROBINcreamNAVYcapDUCKS,DaphARI TURQ,Pfree. Whiteyachtstairs/stainlessrails coherentes/reference77, rostros/manosnaturales/noaddedjewels. Sourcecasosfueracrop geografía2boats establecida77se mantiene.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p078.png",
+      "sha256": "11ccbaa5acf495811bdb449742ef1746432be6b5be3c2c2c527966c0103e3dc9",
+      "masterSha256": "e5bd21ac4495a603081dc15767dd1407e86e5a504ac56dc7f30211988ee61f08",
+      "ocrMissingCandidates": [
+        "allegra",
+        "valentina",
+        "pansy"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page77: La música rompe la calma de la cala. La familia se levanta con los bebés y descubre un yate blanco con una gran bandera italiana; una joven vestida de rojo los reconoce. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for CurrentfamilyDRYfaces/holdingcolors from73 only; SOURCE645 standingHROBIN/DaphARI/BS/Pfree, BLACKglassesBon/lowerednose, nooldseating.. Image 5 is reference for PRIVATE handjewelsonly: H ONELEFT RINGfinger diamond/barewrist, P fingersALLplain/LEFT fineWHITEGOLD HRP BRACELET/NECKBARE. Do notprintlabels/copystyle..\nContinue SOURCE644-647 at same LiGalli cove/daylight/TURQUOISE sea/LOW smooth pale rocks/shade/creamTOWELS. Family classic Sangermani anchored NAVYHULL/DARKVARNISHEDWOOD/WHITEtrim/BRONZE/TWO MASTS/ALLIVORYSAILSFURLED/stable WOODPLANK-paleROPE gangway to LOWrock. Separate NEW vessel: LARGE MODERN WHITE MOTOR YACHT, TWO coherent decks/dark glazed windowband/STAINLESSmetal railings/broad LOWER STERN SWIM PLATFORM withSHORTSTAIRS fromupperdeck, NOsails, enormous ITALIAN flag atSTERN withVERTICAL GREEN-WHITE-RED bands (notblue), at least12youngpartyguests inordinaryopaque beachclothes holdingcups/talking/dancing, notcrowdedgiants. Samewhiteboatgeometry acrossviews, outsidefamilyprotectionboundary atcoveentrance. H chestnutMESSYBUN/freckles/BROWN eyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal MIDNIGHTBLUEsapphire-clearhalo WHITEPLATINUMchainONLYnecklace/ONE LEFT RING-finger diamond/BAREwrists/noBLUEearring. P original BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece&LOOSE OPEN BLACKbeachshirt/LEFTfineWHITEGOLD HRP BRACELET only/PLAINfingers/BAREneck-ears. Daph LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendantNOsapphire. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/NAVYswimshorts; NAVYLINENcollaredSHIRT andBLACK adultSUNGLASSES returnasfamilyrises644 (inferredtiming, impliedbyglasses645/shirt648). SOURCE644explicitCARERS: H NOWHOLDS HUMAN ROBIN CHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVY CAPTAINHAT GOLDanchor/BRIMUP. Daph holds HUMAN ARIANNA LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit-PALETURQwrap. B holds HUMAN SCORPIUS PLATINUM/STEELGRAYBLUE/GRAYshorts-PALEGRAYwrap AGAINSTNAVYSHIRT. Pfreehands. Allsmoothhumanskin/naturalindividualfingers/feet/safesupport, no toyknit/pillowbabies/no infantglasses. Four SMALL MATURE adultELFcrew TAUPElinen/visors/barefeet nowreactandgatheratROCK/GANGWAYsource644-646; GnocchiSHORTPLUMP/wrinkledkindface/pointedears/toolargevisor/tray, otherTHREESLIMADULTS; standingheight0.55ofhumanadult, no giantpeople/childfaces. TheyALLvanish646beforeguestsarrive, keep actual4total. Draco/Astoria remainOFFSCREENLOWERCABINS until80source647. No privateactivityshown. Onlyordinaryfamily/greeting/swimming/wideorface-focusedsummerstorytelling. No addedlyrics/speech orsexualizedbodyframing. NEW SISTERS fromWHITEpartyYACHT, distinctfromfamily: VALENTINA tannedwarmOLIVEskin/DARKnearlyBLACKhairinHIGHBUNwithfewstrands/DARKBROWNeyes(inferred)/fullerovalface/ordinaryopaque RED TWO-PIECEswimsuit/LARGE BLACKsunglasses/stackGOLD bangles RIGHTWRIST (sideinferred)/BAREears-nofingerrings. Glasses initiallyEYES77, perchTOPofHEAD afterlifting78, leaveonSEAT79beforedive; goldbanglesstay. ALLEGRA slightlyyoungersister/softangularface/LONG LOOSE CHESTNUT hair/DARKBROWNeyes(inferred)/ordinaryopaque TERRACOTTA TWO-PIECEswimsuit/fineGOLDWAISTCHAIN/ONEGOLDLEFTbangle removedontoSEAT79/BAREears-norings; noHfreckles/bluependant andnoAstoriaearthscarf. Nonsexual ordinarybeachposes; camera emphasizesrecognition/faces/waves, neverfigurecurves. Keep sourcewardrobepalette, notsuggestiveposes. Valentina firstappears77, Allegraonly78onward.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 78» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. VALENTINA onWHITEYACHT liftsLARGEBLACKglasses fromeyes toTOPofHEAD/DARKbun, revealingDARKBROWNeyes; turns towardyachtstairs andcallsONEsourceballoon withbothnames/punctuation. REDtop/goldbanglesRIGHT, face-focusedgreeting. Balloon from Valentina. Print verbatim «¡Allegra!, ¡Allegra!»\nPanel 2. NEW ALLEGRA emergesupWHITEyachtstairs holdingadultCUP. LONGLOOSECHESTNUT/DARKBROWNeyes/softangularface/TERRACOTTAopaque2piece/fineGOLDwaistchain/ONEGOLDLEFTbangle, bareears/norings. Ordinarymedium-wide summerfashion/noanatomyfocus. ShelookswhereVpointed. NoHbluependant/Astoriascarf.\nPanel 3. VRED/DARKbun/glassesTOPHEAD wavesONEarmaboveshoulder towardfamily andcallsB sourceONEword. TailspecificallyV, nooneelse speaks. Samewhiteyachtdeck/metalrail. Balloon from Valentina. Print verbatim «¡Blaise!»\nPanel 4. VsmilebroadenswhenBrecognises, shewavesagainatWHITEbarandal, ONEfullsourcecallwithextactsurname. Naturalordinaryface/shoulderpose, noaddedwords. Balloon from Valentina. Print verbatim «¡Blaise Zabini!»\nPanel 5. B onLOWrocksNAVYlinenSHIRT/NAVYshorts/BAREHEAD holdingHUMAN SCORPIUSplatinumGRAYwrap againstchest, lowersBLACKsunglasses toNOSETIP andasksONEshortquestion, tailB. DistinctsourcebabySnotR/nohat, noadultNAVYcap. Balloon from Blaise. Print verbatim «¿Valentina?»\nPanel 6. ALLEGRA seesPfromWHITEYACHT, putsadultcupontable andcrossesdeckquicklygrippingrailforbalance. CHESTNUTLONG/TERRACOTTA/finegoldwaistchain/LEFTbangle intact, VREDcanbeoffcrop. OneAllegra only/no motionduplicates.\nPanel 7. FULL-WIDTH Allegra reachesWHITEyachtrail andwavesBOTHhands towardPsmilingdelighted, ONEfullsourcecall/tailAllegra. Pmaybesmallforeground/BLACKbob-shirt onROCK butnoincorrectAllegra→H. Mediumwideordinarygreeting. Balloon from Allegra. Print verbatim «¡Pansy!»\nPanel 8. FULL-WIDTH familyreaction onLOWrocks: HholdsROBIN/NAVYcap/creamwrap andDaphholdsARI/TURQexchangeonebriefraised-eyebrowlook; PBLACKbob-shirt freehands freezeslookingatAllegra, BnavySHIRT/glassesLOWnose holdsSCORPIUSGRAY andlooksastonished. Exactly4youngadults/3heldhumanbabies, noextrafigure, no dialogue. Hbluependantonly/PHRPleftwristnotneck.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p077_r4.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p073_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-b200bb81-c812-415d-af87-d26b8b345d96.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Add ONE missing accessory ONLY in LAST PANEL8 of this EXACT complete comic page78. PANSY is the BLACK CHIN-BOB woman in OPEN BLACKSHIRT, third adult fromleft inlastpanel (between BLONDE Daphne and DARK-SKINNED Blaise). Restore her usual BLACK SUNGLASSES, lowered on NOSETIP like Blaise's, so her GREEN eyes remain visible ABOVE the lenses and her surprised expression stays. Blackframes/temples naturallyoverears. Do not add glasses to anyoneelse orchangeanyexistingglasses. Preserve her face/hair/goldbarrette/BAREneck/leftwristbracelet/plainfingers. All other pixels/panels/8borders/5exactSpanishturns/accents/balloontails/header«Capítulo13·78»/ValentinaRED-DARKbun-goldbangles/AllegraTERRACOTTA-longCHESTNUT-waistchain-leftbangle/boat/familyinfants/carriers/colors remain EXACTLYunchanged, same1024x1536crop.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b200bb81-c812-415d-af87-d26b8b345d96.png"
+          ],
+          "generatedMaster": "exec-599b844c-b118-49d0-bccd-0edb6b6d4852.png"
+        }
+      ]
+    },
+    {
+      "page": 79,
+      "image": "paginas/c13-p079.webp",
+      "sourcePdfPages": [
+        646
+      ],
+      "summary": "Los cuatro elfos desaparecen al reconocer a las visitantes. Valentina y Allegra dejan sus cosas en el yate y se lanzan al agua para acercarse a la familia.",
+      "panels": [
+        {
+          "scene": "Gnocchi SHORTPLUMP matureTAUPEelf seesapproachingWHITEpartyboat, gripsvisorONEhand andvanisheswithTRAY inonefaintsmallbluepoof. ExactlyTHREEOTHER slimadultTAUPEelves stillvisiblebehindwatching, totalcrew4. Family3heldbabies sourcepositions nearby/offcrop, nohumangiants."
+        },
+        {
+          "scene": "OtherTHREESLIMadultelves vanishalmosttogether, THREEtinyfaintpoofs/carryingtowels-cups vanishwiththem. Gnocchialreadygone, nofifthelf. BnavySHIRT& Pblackshirt turnatpops; H/DaphstillwatchWHITEyacht. CreamtowelslyingunusedONROCKremain, babieswrapsstillwiththem. No wand/words."
+        },
+        {
+          "scene": "Sourceinfantreaction/clearthreeholderportraits inONEwidepanel: HholdsRobinCREAM/NAVYcap lookingoverHshoulderatnoise; DaphholdsAriTURQturningheadtowardabandonedtowels; B NAVYshirt holdsSPLATINUMGRAYwho blinksandsettlesagainsthisNAVYfabric. Exactly3babies/3carriers/naturalneckangles. Pfreehandsoutsidecrop."
+        },
+        {
+          "scene": "OnWHITEYACHT, VRED/DARKbun/goldRIGHTbangles/glassesTOPHEAD descendsSHORTSTAIRS toLOWERSTERNPLATFORM, ALLEGRA CHESTNUTlong/TERRACOTTA/goldwaistchain/LEFTbangle followsbehind. Naturalwide/beachtravelpose, nobody-focus. Sameyacht2decks/darkglass/stainlessrail/Italianflag."
+        },
+        {
+          "scene": "VremovesBLACKglasses fromTOPHEAD andleavesthemonaWHITEYACHTSEAT. Ananonymousordinaryyoungpartyguest fartherabovegestureswait/pointswater butNOinventedquote. ValentinaREDsmilesreadytodive; noinfantsonthepartyboat."
+        },
+        {
+          "scene": "ONE ValentinaRED makescleanfictionaldive fromLOWSTERNPLATFORM intoOPENsea, TWOnaturalarms/legs, no duplicatedmotionfigures. SameWHITEyachtstillfinishingstop, no land/rockimpact, wideordinaryswimmingstoryshot. GoldRIGHTbanglesstay."
+        },
+        {
+          "scene": "V surfacesseveralmetersahead andbeginsSWIMMINGtowardcove, DARKbunwithloosewetstrands/noglasses. ALLEGRA staysonplatformbehind, setsONEGOLDLEFTbangleonSEAT beforejumping; shekeepsfineGOLDwaistchain/TERRACOTTA2piece/CHESTNUTlonghair. TWOdistinctsisters onlyoneofeach."
+        },
+        {
+          "scene": "ONE ALLEGRA divesoffSAMELOWSTERNplatform, naturalbody/TERRACOTTA/longCHESTNUT followsmotion, biggerharmlessSPLASHthansister. Valentinaalreadyfurtheraheadswimmingcanbecropped, oneAllegraonly. WHITEboatguests smile/noquote, BLACKVglasses&AllegraLEFTbangleONSEAT, goldwaistchainstays. NOspeech/captions/lyrics/soundwords."
+        }
+      ],
+      "transcript": "Capítulo 13 · 79\n\nLos cuatro elfos desaparecen al reconocer a las visitantes. Valentina y Allegra dejan sus cosas en el yate y se lanzan al agua para acercarse a la familia.",
+      "actualPanelCount": 8,
+      "review": "Revisióncompleta8viñetasREALES/sinréplicasfuente646/OCRheader único,sinSFXletrasinventadas. R2divideúltimorectánguloen7y8congutter: AcolocabangleenSEAT7/Vlejananada;Adive8 unafigura, yaNOclonesmismocuadro. RestauraGOLD RIGHTstackV5/6, otroWRISTplain; gafasBLACKV ybangleLEFTA dejanSEAT, Awaistchainpermanece. Exact4elfosadultosTAUPE: Gnocchiplumpvanish1+otros3slimvanish2, noquintafigura/gigantes; toallaspuestasroca permanecen. H-RCREAM/NAVYcapDUCKS/GREEN,Daph-ARITURQ/goldenBLUE,B-SPLATINUMGRAYcontraNAVYshirt,Pfree, infantes humanosnaturales/apoyos/carassinrotacionesimposibles. VeleroNAVYWOODfurlado separadoWHITEpartyboat2levels/sternplatformstairs/ITALIANflag/colors/personscale coherentes. VRED/DARKbun yAterra/longCHESTNUT enaccionesdenadonosexuales, anatomíacorrectasinmiembrosextra. Textoúnicamenteheader79.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p079.png",
+      "sha256": "f0446699dacf30ad0e2242adec03d149e6fe24b30530877a81f8781e0a5d84e2",
+      "masterSha256": "29157beedd25c0807f84f26b7f948cbad4679c0087ea5bdb04f0c23ebc02b911",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page78: Valentina llama a Blaise y Allegra reconoce a Pansy desde el yate. Hermione y Daphne comparten una mirada al ver la sorpresa de sus parejas. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved60R3 GnocchiMATURESHORTPLUMP/visorTAUPEandotherelfadultfaces/TAUPElinen; sourcecrew4TOTAL1plump+3slim, allstanding~0.55humanheight. SAMEclassicNAVYWOOD2mastfamilyketch/furledsails/gangway. New WHITE MOTOR YACHT is a separatevessel, not replacement/paintjob.. Image 5 is reference for Approved77R4 WHITEpartyMOTORYACHTgeometry TWOlevels/darkwindowband/metalrail/lowSTERNplatform+SHORTstairs/largeITALIAN GREEN-WHITE-RED sternflag andValentinaRED/DARKbun/GOLD RIGHTbangles. Current79glassesleaveSEAT/dives/4elvesvanish, notoldposes. KeepCLASSIC NAVYWOODketchseparate/furled..\nContinue SOURCE644-647 at same LiGalli cove/daylight/TURQUOISE sea/LOW smooth pale rocks/shade/creamTOWELS. Family classic Sangermani anchored NAVYHULL/DARKVARNISHEDWOOD/WHITEtrim/BRONZE/TWO MASTS/ALLIVORYSAILSFURLED/stable WOODPLANK-paleROPE gangway to LOWrock. Separate NEW vessel: LARGE MODERN WHITE MOTOR YACHT, TWO coherent decks/dark glazed windowband/STAINLESSmetal railings/broad LOWER STERN SWIM PLATFORM withSHORTSTAIRS fromupperdeck, NOsails, enormous ITALIAN flag atSTERN withVERTICAL GREEN-WHITE-RED bands (notblue), at least12youngpartyguests inordinaryopaque beachclothes holdingcups/talking/dancing, notcrowdedgiants. Samewhiteboatgeometry acrossviews, outsidefamilyprotectionboundary atcoveentrance. H chestnutMESSYBUN/freckles/BROWN eyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal MIDNIGHTBLUEsapphire-clearhalo WHITEPLATINUMchainONLYnecklace/ONE LEFT RING-finger diamond/BAREwrists/noBLUEearring. P original BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece&LOOSE OPEN BLACKbeachshirt/LEFTfineWHITEGOLD HRP BRACELET only/PLAINfingers/BAREneck-ears. Daph LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendantNOsapphire. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/NAVYswimshorts; NAVYLINENcollaredSHIRT andBLACK adultSUNGLASSES returnasfamilyrises644 (inferredtiming, impliedbyglasses645/shirt648). SOURCE644explicitCARERS: H NOWHOLDS HUMAN ROBIN CHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVY CAPTAINHAT GOLDanchor/BRIMUP. Daph holds HUMAN ARIANNA LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit-PALETURQwrap. B holds HUMAN SCORPIUS PLATINUM/STEELGRAYBLUE/GRAYshorts-PALEGRAYwrap AGAINSTNAVYSHIRT. Pfreehands. Allsmoothhumanskin/naturalindividualfingers/feet/safesupport, no toyknit/pillowbabies/no infantglasses. Four SMALL MATURE adultELFcrew TAUPElinen/visors/barefeet nowreactandgatheratROCK/GANGWAYsource644-646; GnocchiSHORTPLUMP/wrinkledkindface/pointedears/toolargevisor/tray, otherTHREESLIMADULTS; standingheight0.55ofhumanadult, no giantpeople/childfaces. TheyALLvanish646beforeguestsarrive, keep actual4total. Draco/Astoria remainOFFSCREENLOWERCABINS until80source647. No privateactivityshown. Onlyordinaryfamily/greeting/swimming/wideorface-focusedsummerstorytelling. No addedlyrics/speech orsexualizedbodyframing. NEW SISTERS fromWHITEpartyYACHT, distinctfromfamily: VALENTINA tannedwarmOLIVEskin/DARKnearlyBLACKhairinHIGHBUNwithfewstrands/DARKBROWNeyes(inferred)/fullerovalface/ordinaryopaque RED TWO-PIECEswimsuit/LARGE BLACKsunglasses/stackGOLD bangles RIGHTWRIST (sideinferred)/BAREears-nofingerrings. Glasses initiallyEYES77, perchTOPofHEAD afterlifting78, leaveonSEAT79beforedive; goldbanglesstay. ALLEGRA slightlyyoungersister/softangularface/LONG LOOSE CHESTNUT hair/DARKBROWNeyes(inferred)/ordinaryopaque TERRACOTTA TWO-PIECEswimsuit/fineGOLDWAISTCHAIN/ONEGOLDLEFTbangle removedontoSEAT79/BAREears-norings; noHfreckles/bluependant andnoAstoriaearthscarf. Nonsexual ordinarybeachposes; camera emphasizesrecognition/faces/waves, neverfigurecurves. Keep sourcewardrobepalette, notsuggestiveposes. Valentina firstappears77, Allegraonly78onward.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 79» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Gnocchi SHORTPLUMP matureTAUPEelf seesapproachingWHITEpartyboat, gripsvisorONEhand andvanisheswithTRAY inonefaintsmallbluepoof. ExactlyTHREEOTHER slimadultTAUPEelves stillvisiblebehindwatching, totalcrew4. Family3heldbabies sourcepositions nearby/offcrop, nohumangiants.\nPanel 2. OtherTHREESLIMadultelves vanishalmosttogether, THREEtinyfaintpoofs/carryingtowels-cups vanishwiththem. Gnocchialreadygone, nofifthelf. BnavySHIRT& Pblackshirt turnatpops; H/DaphstillwatchWHITEyacht. CreamtowelslyingunusedONROCKremain, babieswrapsstillwiththem. No wand/words.\nPanel 3. Sourceinfantreaction/clearthreeholderportraits inONEwidepanel: HholdsRobinCREAM/NAVYcap lookingoverHshoulderatnoise; DaphholdsAriTURQturningheadtowardabandonedtowels; B NAVYshirt holdsSPLATINUMGRAYwho blinksandsettlesagainsthisNAVYfabric. Exactly3babies/3carriers/naturalneckangles. Pfreehandsoutsidecrop.\nPanel 4. OnWHITEYACHT, VRED/DARKbun/goldRIGHTbangles/glassesTOPHEAD descendsSHORTSTAIRS toLOWERSTERNPLATFORM, ALLEGRA CHESTNUTlong/TERRACOTTA/goldwaistchain/LEFTbangle followsbehind. Naturalwide/beachtravelpose, nobody-focus. Sameyacht2decks/darkglass/stainlessrail/Italianflag.\nPanel 5. VremovesBLACKglasses fromTOPHEAD andleavesthemonaWHITEYACHTSEAT. Ananonymousordinaryyoungpartyguest fartherabovegestureswait/pointswater butNOinventedquote. ValentinaREDsmilesreadytodive; noinfantsonthepartyboat.\nPanel 6. ONE ValentinaRED makescleanfictionaldive fromLOWSTERNPLATFORM intoOPENsea, TWOnaturalarms/legs, no duplicatedmotionfigures. SameWHITEyachtstillfinishingstop, no land/rockimpact, wideordinaryswimmingstoryshot. GoldRIGHTbanglesstay.\nPanel 7. V surfacesseveralmetersahead andbeginsSWIMMINGtowardcove, DARKbunwithloosewetstrands/noglasses. ALLEGRA staysonplatformbehind, setsONEGOLDLEFTbangleonSEAT beforejumping; shekeepsfineGOLDwaistchain/TERRACOTTA2piece/CHESTNUTlonghair. TWOdistinctsisters onlyoneofeach.\nPanel 8. ONE ALLEGRA divesoffSAMELOWSTERNplatform, naturalbody/TERRACOTTA/longCHESTNUT followsmotion, biggerharmlessSPLASHthansister. Valentinaalreadyfurtheraheadswimmingcanbecropped, oneAllegraonly. WHITEboatguests smile/noquote, BLACKVglasses&AllegraLEFTbangleONSEAT, goldwaistchainstays. NOspeech/captions/lyrics/soundwords.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p078_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p060_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p077_r4.png"
+          ],
+          "generatedMaster": "exec-03c37e9c-9357-417c-a893-d82d60778131.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct this EXACT wordless comic page79 with THREE precise local changes, preserving all existing faces/figures/boats except requested small movement.\n1 The BOTTOM-RIGHT panel accidentally contains Allegra twice in two consecutive moments. SPLIT this one rectangle into TWO STACKED distinct panels with a narrow CREAM HORIZONTAL GUTTER and thin BLACK borders at approximately y1336..1344 across x522..1012. Thus the complete page has EIGHT panels, notseven.\nTOP newpanel7 shows ONE ALLEGRA on WHITEyachtplatform behindbench putting her GOLD LEFT bangle onseat nexttoValentinaBLACKglasses. Keep her CHESTNUTlonghair/TERRACOTTA2piece/GOLDwaistchain. Move the tiny distant swimmer VALENTINA at far-right water UP about45pixels so she is clearly INSIDE topnewpanel7, notcut bynewgutter; oneVfaraway swimming.\nBOTTOM newpanel8 shows ONE ALLEGRA diving/making bigger splash, CHESTNUTlonghair/TERRACOTTA2piece/GOLDwaistchain; NO secondAllegra onplatform in this lowerpanel. Existing upperstandingA andlowerdivingA are now separateconsecutivevignettes, nottwopeopleinoneframe. Keep natural bodies/water.\n2 Restore VALENTINA'S stack of GOLD BANGLES on her RIGHT WRIST in PANEL5 (third rowRIGHT, DARKbun/RED woman leans toleaveBLACKglassesonseat): her RIGHT hand at lowerLEFT sideofherbody touches lowrail, addsamebangles aspanel4. Leave her LEFTwristplain.\n3 Restore same GOLD RIGHTWRIST BANGLES on VALENTINA in PANEL6 (BOTTOM-LEFT large dive). She is RED/DARKbun/tanned; onlyONE wrist hasgoldstack, otherplain. Her goldbangles staywhen diving, ONLY her sunglasses wereleftonseat.\nKeep EVERY OTHER panel/shape/picture completelyunchanged, especially sourcefourELVES1Gnocchi+3othersvanish, HROBIN/NAVYcap-DaphARI-BSCORPIUS/navyshirt/Pfree, babywraps/leftHdiamond/Pplainfingers/BARENECK/whitepartyboat/Italianflag/classicNAVYketch. Exactheader«Capítulo13·79», NO addedwords/captions/balloons/lyrics, same1024x1536crop.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-03c37e9c-9357-417c-a893-d82d60778131.png"
+          ],
+          "generatedMaster": "exec-e46f3b9f-ba89-469d-aecd-81f66424e7b2.png"
+        }
+      ]
+    },
+    {
+      "page": 80,
+      "image": "paginas/c13-p080.webp",
+      "sourcePdfPages": [
+        647
+      ],
+      "summary": "Las hermanas se acercan a la orilla mientras Pansy intenta encontrar una explicación. Draco y Astoria regresan a cubierta y descubren la llegada de Valentina y Allegra.",
+      "panels": [
+        {
+          "scene": "Widecoveapproach: VRED/DARKbunwetstrands swimsseveralmetersAHEAD ofALLEGRA TERRACOTTA/LONGCHESTNUT. SameWHITEpartyboatoutsidemouthbehind, NAVYfamilyketchanchoredside/ALLSAILSFURLED. Oneeach/naturalstroke/ordinarysummerstory/noquotes."
+        },
+        {
+          "scene": "Sistersreachshallows andstand/approachtowardLOWrockshore. Wideface-focusedbeachgreeting, watercoverslowerbodies; VRED/tannedDARKbun/goldRIGHTbangles infront, Aterracotta/CHESTNUTlong/finewaistchain behind, noVglasses/noAllegraLEFTbangle. Noarousingbodyframing."
+        },
+        {
+          "scene": "Daph BLONDE/BLUE/TURQonepiece-creamPAREO holdsAriTURQ andLOWERSadultcup withoutdrinking, faintincredulouslook. HnearbyholdsRobinCREAM/NAVYcap/BLUEducks andwaitsquietly, PblackshirtlooksAllegra. Sourcefamilyclothes/jewels/threecarriers unchanged."
+        },
+        {
+          "scene": "PBLACKbob-shirt triesopenmouthtoexplain thenstops, HraisesONEeyebrow lookingfromPtoapproachingsisters, HRobinsecurechest. Oneofeachperson/quietnaturalfaces/nospeechbubblebecausePdoesn'tsaywords."
+        },
+        {
+          "scene": "NAVYWOODfamilyketchdeck ONLY Draco& Astoria emergefromwoodcompanionway. D lightBLUE-WHITE narrowstripeLINENshirt/CREAMshorts partlybuttoned/PLATINUMGRAYBLUE. A EARTHscarf/longDARKBROWNGRAYBLUE/TERRACOTTAonepiece/CREAMearth-borderPAREO, loosewetstrands. NOchildren/elfcrew/newguestsaboard."
+        },
+        {
+          "scene": "D closesfinalshirtbutton ashewalkstoNAVYketchrail, seesWHITEpartyboat/2sisters/shoreB&P allinonewideview, ONE D figure. A followsnearby, relaxedsmilefadestorecognition. Plausiblefamily2masts/furledsails/woodbronze details, no oldDracoinfantcarrier."
+        },
+        {
+          "scene": "Close D PLATINUM/STEELGRAYBLUE atwoodrailrecognizessisters, expressionquietalarm/awkwardsurprise, ONEshortsourceballoon/tailD. ShirtlightSTRIPEDbuttonednow, nophotorealactor.",
+          "dialogue": [
+            "Draco: Oh, no."
+          ],
+          "sourceFragments": [
+            "Oh, no."
+          ]
+        },
+        {
+          "scene": "AstandsbesideDandlooksdownfollowinghisgaze, STEELGRAYBLUEeyes/morenascaf/earthPAREO, ONEshortquestion/tailA notD. NOchildrenbystanders, sourcerushdownbridgecontinuesNEXTpage648.",
+          "dialogue": [
+            "Astoria: ¿Qué ocurre?"
+          ],
+          "sourceFragments": [
+            "¿Qué ocurre?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 80\n\nLas hermanas se acercan a la orilla mientras Pansy intenta encontrar una explicación. Draco y Astoria regresan a cubierta y descubren la llegada de Valentina y Allegra.\nDraco: Oh, no.\nAstoria: ¿Qué ocurre?",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCRsin faltantes/2réplicasD-A íntegros«Oh,no.»/«¿Quéocurre?» tildes/colas correctas. R2quitaHRIGHT/UPPERring3/4; quedaSOLOLEFT/LOWERanular en3, manos/apoyosRnaturales. V/AllegrairisesDARKBROWN restablecidos1/2, noPgreen; DaphBLUE/AriBLUE/RGREEN/HBROWN/Pgreen yD-ASTEELGRAYBLUEconservados. VRED/DARKbun/goldRIGHTbangles/noglasses yAllegraTERRA/LONGCHESTNUT/waistchain/noleftbangle después79, approachshallowstorynosex. HholdsRcream/NAVYcapDUCKS, DaphAriTURQyadultcupORANGE propiofueraalcance, B-Sfueraencuadreenalgunosshots noasignarnuevocarrier. D/AreturnchildlessNAVYWOODdeck: DlightBLUE-WHITESTRIPELINEN/CREAMshorts(partlybuttoned5thenclosed7)/PLATINUMGRAYBLUE; AEARTHscarf/LONGDARKBROWNGRAYBLUE/TERRACOTTAfrenteabotonado bajoCREAMearthpatternPAREO, artinferidocoherente. 4elfossiguenGONE. BoatsNAVYclassicketchfurlado/WHITEparty2decksItalianflagseparados/proporcionescorrectas, no actividadprivada.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p080.png",
+      "sha256": "4b8073ce18c645d1695ab59dcc02d14ff694b17551066ee0b576d92554f239b2",
+      "masterSha256": "0c1d31cb30c2f799e9fc06846b0ffd6a2e617cb62ae749b28d138a84be04fde6",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page79: Los cuatro elfos desaparecen al reconocer a las visitantes. Valentina y Allegra dejan sus cosas en el yate y se lanzan al agua para acercarse a la familia. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved65 D/A/SfacialIDs ONLY: D PLATINUMGRAYBLUE, A DARKBROWNGRAYBLUE/EARTHscarf. New647returnclothes LIGHTshirt/CREAMshorts andApareoTERRACOTTA, childSstaysBashore.. Image 5 is reference for Approved50 original D/A faces and LIGHT BLUE-WHITE narrowSTRIPEDlinen shirt torestore647camisaclara; don'tcopyoldhats/glasses/babyholders..\nContinue SOURCE644-647 at same LiGalli cove/daylight/TURQUOISE sea/LOW smooth pale rocks/shade/creamTOWELS. Family classic Sangermani anchored NAVYHULL/DARKVARNISHEDWOOD/WHITEtrim/BRONZE/TWO MASTS/ALLIVORYSAILSFURLED/stable WOODPLANK-paleROPE gangway to LOWrock. Separate NEW vessel: LARGE MODERN WHITE MOTOR YACHT, TWO coherent decks/dark glazed windowband/STAINLESSmetal railings/broad LOWER STERN SWIM PLATFORM withSHORTSTAIRS fromupperdeck, NOsails, enormous ITALIAN flag atSTERN withVERTICAL GREEN-WHITE-RED bands (notblue), at least12youngpartyguests inordinaryopaque beachclothes holdingcups/talking/dancing, notcrowdedgiants. Samewhiteboatgeometry acrossviews, outsidefamilyprotectionboundary atcoveentrance. H chestnutMESSYBUN/freckles/BROWN eyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal MIDNIGHTBLUEsapphire-clearhalo WHITEPLATINUMchainONLYnecklace/ONE LEFT RING-finger diamond/BAREwrists/noBLUEearring. P original BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece&LOOSE OPEN BLACKbeachshirt/LEFTfineWHITEGOLD HRP BRACELET only/PLAINfingers/BAREneck-ears. Daph LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendantNOsapphire. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/NAVYswimshorts; NAVYLINENcollaredSHIRT andBLACK adultSUNGLASSES returnasfamilyrises644 (inferredtiming, impliedbyglasses645/shirt648). SOURCE644explicitCARERS: H NOWHOLDS HUMAN ROBIN CHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVY CAPTAINHAT GOLDanchor/BRIMUP. Daph holds HUMAN ARIANNA LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit-PALETURQwrap. B holds HUMAN SCORPIUS PLATINUM/STEELGRAYBLUE/GRAYshorts-PALEGRAYwrap AGAINSTNAVYSHIRT. Pfreehands. Allsmoothhumanskin/naturalindividualfingers/feet/safesupport, no toyknit/pillowbabies/no infantglasses. Four SMALL MATURE adultELFcrew TAUPElinen/visors/barefeet nowreactandgatheratROCK/GANGWAYsource644-646; GnocchiSHORTPLUMP/wrinkledkindface/pointedears/toolargevisor/tray, otherTHREESLIMADULTS; standingheight0.55ofhumanadult, no giantpeople/childfaces. TheyALLvanish646beforeguestsarrive, keep actual4total. Draco/Astoria remainOFFSCREENLOWERCABINS until80source647. No privateactivityshown. Onlyordinaryfamily/greeting/swimming/wideorface-focusedsummerstorytelling. No addedlyrics/speech orsexualizedbodyframing. NEW SISTERS fromWHITEpartyYACHT, distinctfromfamily: VALENTINA tannedwarmOLIVEskin/DARKnearlyBLACKhairinHIGHBUNwithfewstrands/DARKBROWNeyes(inferred)/fullerovalface/ordinaryopaque RED TWO-PIECEswimsuit/LARGE BLACKsunglasses/stackGOLD bangles RIGHTWRIST (sideinferred)/BAREears-nofingerrings. Glasses initiallyEYES77, perchTOPofHEAD afterlifting78, leaveonSEAT79beforedive; goldbanglesstay. ALLEGRA slightlyyoungersister/softangularface/LONG LOOSE CHESTNUT hair/DARKBROWNeyes(inferred)/ordinaryopaque TERRACOTTA TWO-PIECEswimsuit/fineGOLDWAISTCHAIN/ONEGOLDLEFTbangle removedontoSEAT79/BAREears-norings; noHfreckles/bluependant andnoAstoriaearthscarf. Nonsexual ordinarybeachposes; camera emphasizesrecognition/faces/waves, neverfigurecurves. Keep sourcewardrobepalette, notsuggestiveposes. Valentina firstappears77, Allegraonly78onward. SOURCE647DRACO/ASTORIAreturnONNAVYFAMILYKETCH, NOCHILD withthem (BstillSashore). D PLATINUM/STEELGRAYBLUE/CREAMswimshorts/LIGHTLINENcollaredSHIRT partlybuttoned, usehisprior LIGHT BLUE-WHITE narrowstripe shirt ascoherentinterpretationofcamisaclara (patterninferredreuse)/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/earthpatternedSCARFtiedbehind withloosewetstrands/TERRACOTTAonepiece/CREAM EARTH-borderPAREO atwaist (pareocolorinferred). Noprivateactivityorbodyemphasis. FOURelfsalreadygone646/nocrewvisible now.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 80» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Widecoveapproach: VRED/DARKbunwetstrands swimsseveralmetersAHEAD ofALLEGRA TERRACOTTA/LONGCHESTNUT. SameWHITEpartyboatoutsidemouthbehind, NAVYfamilyketchanchoredside/ALLSAILSFURLED. Oneeach/naturalstroke/ordinarysummerstory/noquotes.\nPanel 2. Sistersreachshallows andstand/approachtowardLOWrockshore. Wideface-focusedbeachgreeting, watercoverslowerbodies; VRED/tannedDARKbun/goldRIGHTbangles infront, Aterracotta/CHESTNUTlong/finewaistchain behind, noVglasses/noAllegraLEFTbangle. Noarousingbodyframing.\nPanel 3. Daph BLONDE/BLUE/TURQonepiece-creamPAREO holdsAriTURQ andLOWERSadultcup withoutdrinking, faintincredulouslook. HnearbyholdsRobinCREAM/NAVYcap/BLUEducks andwaitsquietly, PblackshirtlooksAllegra. Sourcefamilyclothes/jewels/threecarriers unchanged.\nPanel 4. PBLACKbob-shirt triesopenmouthtoexplain thenstops, HraisesONEeyebrow lookingfromPtoapproachingsisters, HRobinsecurechest. Oneofeachperson/quietnaturalfaces/nospeechbubblebecausePdoesn'tsaywords.\nPanel 5. NAVYWOODfamilyketchdeck ONLY Draco& Astoria emergefromwoodcompanionway. D lightBLUE-WHITE narrowstripeLINENshirt/CREAMshorts partlybuttoned/PLATINUMGRAYBLUE. A EARTHscarf/longDARKBROWNGRAYBLUE/TERRACOTTAonepiece/CREAMearth-borderPAREO, loosewetstrands. NOchildren/elfcrew/newguestsaboard.\nPanel 6. D closesfinalshirtbutton ashewalkstoNAVYketchrail, seesWHITEpartyboat/2sisters/shoreB&P allinonewideview, ONE D figure. A followsnearby, relaxedsmilefadestorecognition. Plausiblefamily2masts/furledsails/woodbronze details, no oldDracoinfantcarrier.\nPanel 7. Close D PLATINUM/STEELGRAYBLUE atwoodrailrecognizessisters, expressionquietalarm/awkwardsurprise, ONEshortsourceballoon/tailD. ShirtlightSTRIPEDbuttonednow, nophotorealactor. Balloon from Draco. Print verbatim «Oh, no.»\nPanel 8. AstandsbesideDandlooksdownfollowinghisgaze, STEELGRAYBLUEeyes/morenascaf/earthPAREO, ONEshortquestion/tailA notD. NOchildrenbystanders, sourcerushdownbridgecontinuesNEXTpage648. Balloon from Astoria. Print verbatim «¿Qué ocurre?»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p079_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p065.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p050_r2.png"
+          ],
+          "generatedMaster": "exec-4cc7bdf1-1a03-4627-b1d7-76ff037fba52.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Make only these TWO consistency corrections on this EXACT8-panel Spanish comic page80:\n1 Hermione has exactly ONE ring on her LEFT ringfinger. In PANEL3(secondrowLEFT) she accidentally has TWO rings. Her UPPER/RIGHT hand rests on Robin's CHEST/uppercreamwrap; REMOVE ONLY its ring (nearx376,y620), restore plain finger skin. KEEP the correct SINGLE ring on her LOWER/LEFT hand supporting Robin's THIGH (nearx287,y709). In PANEL4(secondrowRIGHT), REMOVE the same unwanted RIGHT-hand ring on the UPPER hand at Robin's chest (nearx669,y684). Her LEFT hand/ring may be outside thatcrop, do notaddnewrings. Keep her arms/hands/fivefingers/baby exactlyposed, sapphire necklacetotallyunchanged.\n2 In PANELS1and2(toprow), sisters VALENTINA (DARKHIGHBUN/REDswimsuit) and ALLEGRA (LONGCHESTNUT/TERRACOTTA) have DARK WALNUT BROWN irises, matching their established design. Change ONLY their visible iris COLOR to deepwarm BROWN (#5a3523), keeping black pupils/catchlights/eye shapes/expression. Do not leave green/blue/gray irises on either sister. Do NOT change any other character's eye color; Pansy/RobinGREEN, HermioneBROWN, Daphne/AriBLUE, Draco/AstoriaSTEELGRAYBLUE stay.\nEverything else is completelyunchanged: all8panels/2exactSpanishturns«Oh, no.»/«¿Qué ocurre?»/accents/balloontails/header«Capítulo13·80», allfaces/hair/glasses/earjewels/clothes/jewels/infants/carriers/pose/anatomy/boats/flag/cove/1024x1536crop. Pansyplainfingers/LEFTHRPbracelet/BAREneck, VGoldRIGHTbangles/AllegraGoldwaistchain-leftbangleoff remain. Noaddedtextorobjects.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4cc7bdf1-1a03-4627-b1d7-76ff037fba52.png"
+          ],
+          "generatedMaster": "exec-c0a91dac-5526-4807-99a4-0d98614de5ef.png"
+        }
+      ]
+    }
+  ]
+}
