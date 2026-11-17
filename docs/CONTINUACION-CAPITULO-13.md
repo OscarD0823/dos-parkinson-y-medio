@@ -135,3 +135,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 48 | 617–618 | A la mañana siguiente viajan rumbo a Positano en un ketch clásico Sangermani movido por magia. Los elfos manejan las velas; Hermione, Pansy y Robin descansan a la sombra de la proa con nuevos conjuntos de lino. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-45-48.json).
+
+## Páginas 49–52
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 49 | 618–619 | Pansy y Hermione bromean sobre Robin dando órdenes al velero y comparten una conversación tranquila a la sombra de la vela. Un elfo se acerca para renovar la bebida de Pansy. |
+| 50 | 620–621 | El elfo renueva la mimosa de Pansy. En la proa, Blaise y Daphne están con Arianna; Draco sostiene a Scorpius dormido mientras Astoria bromea con el viento que despeina a Draco. |
+| 51 | 621–622 | Draco cuenta cómo Blaise intentó dirigir el velero para impresionar a Daphne. El grupo recuerda que acabaron en Maiori en lugar de Capri, con el mapa al revés. |
+| 52 | 622–623 | Blaise defiende su aventura de capitán, pero Draco recuerda el rescate de Chiara. Pansy añade que pasó tres años lejos del timón, y el propio elfo de la tripulación remata la broma. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-49-52.json).
