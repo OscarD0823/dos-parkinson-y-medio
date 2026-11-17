@@ -201,3 +201,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 72 | 640 | Daphne y Blaise cuidan a los tres bebés mientras Hermione y Pansy nadan hasta la sombra de las rocas. Allí continúan sus bromas y comparten un momento de cariño. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-69-72.json).
+
+## Páginas 73–76
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 73 | 641 | La familia descansa sobre las toallas a la sombra. Gnocchi reparte bebidas frías y Pansy pregunta por Draco y Astoria, que han regresado al velero. |
+| 74 | 641–642 | Blaise intenta proteger a los bebés de las bromas sobre sus padres. El recuerdo del agua de manantial cambia enseguida el blanco de las risas hacia Pansy. |
+| 75 | 642–643 | Daphne devuelve las bromas a Blaise. Entre risas y un breve beso, las dos parejas siguen descansando con los bebés sobre las toallas. |
+| 76 | 643 | Hermione y Pansy retoman la broma del agua de manantial. Los bebés siguen jugando mientras las parejas se acomodan y Gnocchi recoge las copas. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-73-76.json).

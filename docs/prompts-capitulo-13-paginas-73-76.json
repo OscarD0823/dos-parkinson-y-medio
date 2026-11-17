@@ -1,0 +1,414 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-17",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    73,
+    76
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 73,
+      "image": "paginas/c13-p073.webp",
+      "sourcePdfPages": [
+        641
+      ],
+      "summary": "La familia descansa sobre las toallas a la sombra. Gnocchi reparte bebidas frías y Pansy pregunta por Draco y Astoria, que han regresado al velero.",
+      "panels": [
+        {
+          "scene": "WIDE shadedLOWrockslab/CREAMtowels. DaphseatedTURQUOISE/CREAMpareo with ARIANNA goldenBLUE/TURQUOISE-wrap ONLAP. B NAVYshorts seatedbeside, SCORPIUS PLATINUM/GRAYwrap leaning safely againstB'sLEG onTOWEL. ROBIN chestnutGREEN/CREAMwrap/BLUEducks/NAVYcaptainhat sitsTOWEL BETWEEN B&Daph. All three DRY/headsaboveground/secured byadultclose. H/Papproachfromwater, no text."
+        },
+        {
+          "scene": "ONE H andONE P: H pats dry chestnutBUN/fewloosecurls withCREAMtowel, keepsoriginalbun/OLIVEonepiece/BLACKglasses/sapphire. P retrievesandputsLOOSE OPEN BLACK beachshirt overblack2piece, stillshortchinBOB/barrette. R's unusedCREAM-BLUEsunhat remainsbesiderock, NOTnavycap replacement. No duplicates forsuccessivemoments."
+        },
+        {
+          "scene": "Gnocchi SHORTPLUMP adultelf standsbesideseatedgroup andoffers traycold drinks: Daph andP eachtakeone ORANGE mimosa while babiesremainonlap/towel perpositions. Fineunbrandedglasses farfrombabyhands. Gnocchiheadapproxseatedadultheight/notgiant, maturevisor/pointedears. HcreamTOWELaroundshoulders, PBLACKshirtOPEN."
+        },
+        {
+          "scene": "H receives CLEAR drinkwith LEMON SLICES, B acceptsLAST ORANGE mimosa andnodsthanksGnocchi. DaphAriLAP/SBleg/RbetweenB&Daph. ALL3babies smallwraps/human/owncolors; nocupinbabyhands, noaddedwords."
+        },
+        {
+          "scene": "P BLACKshirt/shortbob scans coveandasksONEcompletequestion/tailP. Hcreamtowel besideher/Hsapphireonly; stillnoPnecklace/plainfingers.",
+          "dialogue": [
+            "Pansy: ¿Dónde están Draco y Astoria?"
+          ],
+          "sourceFragments": [
+            "¿Dónde están Draco y Astoria?"
+          ]
+        },
+        {
+          "scene": "Daph LONG BLONDE/BLUE pointswithadultcup towardfurlednavywoodketch/companionway. Ari safeONLAP, S byBleg/RbetweenB&Daph ifvisible. Daphshortreply/tailDaph.",
+          "dialogue": [
+            "Daphne: Subieron hace un rato."
+          ],
+          "sourceFragments": [
+            "Subieron hace un rato."
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH panel: B glancesatwoodcompanionway thenScorpius leaninghisleg, amusedresponsibleuncle. OneFULL B balloon/everyword. H/P/Daphlistencancrop, noDraco/Astoria shown. S HUMANPLATINUMGRAY/nohat, R ONLYcaptainhat.",
+          "dialogue": [
+            "Blaise: No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero."
+          ],
+          "sourceFragments": [
+            "No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero."
+          ]
+        },
+        {
+          "scene": "Daph LEFT calmlyresponds withONEshortsourceballoon, B RIGHTturnstowardher. H hidesamusedsmilebehindCLEARLEMONglass, Plooksboatstairs. Smallwrapbabiesunchanged; all sittingfamilybanter only.",
+          "dialogue": [
+            "Daphne: Seguramente necesitaban cambiarse."
+          ],
+          "sourceFragments": [
+            "Seguramente necesitaban cambiarse"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 73\n\nLa familia descansa sobre las toallas a la sombra. Gnocchi reparte bebidas frías y Pansy pregunta por Draco y Astoria, que han regresado al velero.\nPansy: ¿Dónde están Draco y Astoria?\nDaphne: Subieron hace un rato.\nBlaise: No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero.\nDaphne: Seguramente necesitaban cambiarse.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR/4réplicas íntegros yacentos. R2colaquetioresponsable apuntaBnoP; otrascolasP/Daph/Daphcorrectas. Transiciónsource641DRYshade/CREAMtowels/smallwrapsRcrema/AritURQ/Sgris; AriDaphLAP/SBleg/RbetweenBDconNAVYcap/DUCKS/verde.3bebés HUMANOSsinjuguetes/partesextrass. HsecaMOÑOconcreamTOWEL luegohombros/oliva/zafiroúnico/leftringbarewrists, PopenBLACKshirt/bob/neckbare/fingersplain/HRPleftcuff. GnocchiSHORTPLUMPmaduro/pointedears/visorTAUPE altura~1m coherenteconseatedadults. HbebidaCLARA-LEMONvisible/noPEACH, P/Daph/Borangeadultdrinksfueraalcanceinfantes. Barcoketchnavywoodfurled/woodgangway/calaestables.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p073.png",
+      "sha256": "6c8e2c8ce004d684293cac778db5cee29540966eaf0d40f6a52deb93f532c4bb",
+      "masterSha256": "d41c69e3574f329ccc6052d6a85c6b32951301b34963212a4fbae5edadd311b4",
+      "ocrMissingCandidates": [
+        "seguramente",
+        "necesitaban",
+        "cambiarse"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED72R2: faces/cove/navywoodboat/infantidentities, H sapphireONLYnecklace/PBAREneck. New SOURCE641 settings change to DRY shadedrock/towels/babywraps/Htowel/Pblackbeachshirt and new babyseating; do notkeep old inwaterpositions or Daph2infantsafter change.. Image 4 is reference for APPROVED60R3 reference ONLY Gnocchi's identity (SHORTPLUMP MATURE wrinkled kindface/taupevisor/linen/pointedears), and anchoredcove/navywood2mastfurled/woodropegangway. Gnocchi~1m notgiant/child. New scenes override old linen clothes/babyholders/oldglasses.. Image 5 is reference for PRIVATE hand-jewelry reference ONLY: H one clearoval LEFT RINGfinger diamond, wristbare; P fingersALLplain/fineWHITEGOLD HRPchain LEFT WRIST ONLY, NEVERNECK. No photographicstyle/layout/labels copied..\nSOURCE641: FAMILY NOW DRY/SEATED UNDER ROCK SHADE on wide LOW SMOOTH rock slab covered by CREAM towels, same LiGalli cove/TURQUOISE sea/navy-darkwood two-mast ketch ALLSAILSFURLED/stable wood-rope gangway. Four SMALL mature taupe-linen visor elfcrew elsewhere aboard; ONE Gnocchi may serve, no extra human crowd or giant crew ashore. Gnocchi is SHORT/PLUMP mature wrinkled kindelf/pointedears/smallbelly/too-largeTAUPEvisor/TAUPElinen/barefeet, sourceheight~1m, about seatedadultheadheight whenstanding, not child. H chestnutMESSYBUN/fewwetcurls/freckles/BROWNeyes/BLACKglasses/OLIVE ONEPIECE; CREAM towel dryingbun thenaroundshoulders (natural source-towel staging), sapphire MIDNIGHTBLUE/clearhalo WHITEPLATINUMchainONLYnecklace, ONEclearhalo diamond LEFT RINGFINGER/BAREwrists/no BLUEearring. P BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece and LOOSE OPEN BLACK BEACHSHIRT recovered641, LEFT WHITEGOLD HRP BRACELET ONLY/ALL FINGERS PLAIN/BAREneck-ears/noHRPnecklace. Daph LONGWETBLONDE/BLUE/TURQUOISEONEPIECE/PALECREAMpareo aroundwaist, fineGOLDchain/tinyplainGOLDpendantNOsapphire. B DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses yet. Babies HUMAN/smoothskin/natural hands-feet/no eyewear, dry and protected by SMALL PAREOS: R chestnut/GREEN/BLUEshorts-YELLOWDUCKS/CREAMsmallwrap/ONEoversizedNAVY CAPTAINHAT goldemblem FRONTBRIMfoldedUP. Ari LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit/PALETURQUOISEsmallwrap. S PLATINUMtuft/STEELGRAYBLUE/GRAYshorts/PALEGRAYsmallwrap. Wrap colors inferred tokeepdistinct/outfitsunderneath. CURRENT source641 initialpositions: Ari DAPHNE LAP, S safeonTOWEL leaningB'sLEG, Robin onTOWEL BETWEEN B&Daph, NOTDaphholding2anymore. P drawsR ontoHERLAP source642; H/PshareRbetweenthem643. All babyhandoffs explicit/scenescontrol. Adult drinks kept outsidechildreach, noinfantcup/mimosa. H NEW drink CLEARwithLEMONslices (notpeach), P/Daph/B coldORANGEmimosas/plainunbrandedcups per scene, Gnocchitray. Dialogue only ordinary seatedbanter/brief clothedaffection, natural faces/arms. Draco/Astoria offscreenLOWERCABINS, never showtheirprivateactivity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 73» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. WIDE shadedLOWrockslab/CREAMtowels. DaphseatedTURQUOISE/CREAMpareo with ARIANNA goldenBLUE/TURQUOISE-wrap ONLAP. B NAVYshorts seatedbeside, SCORPIUS PLATINUM/GRAYwrap leaning safely againstB'sLEG onTOWEL. ROBIN chestnutGREEN/CREAMwrap/BLUEducks/NAVYcaptainhat sitsTOWEL BETWEEN B&Daph. All three DRY/headsaboveground/secured byadultclose. H/Papproachfromwater, no text.\nPanel 2. ONE H andONE P: H pats dry chestnutBUN/fewloosecurls withCREAMtowel, keepsoriginalbun/OLIVEonepiece/BLACKglasses/sapphire. P retrievesandputsLOOSE OPEN BLACK beachshirt overblack2piece, stillshortchinBOB/barrette. R's unusedCREAM-BLUEsunhat remainsbesiderock, NOTnavycap replacement. No duplicates forsuccessivemoments.\nPanel 3. Gnocchi SHORTPLUMP adultelf standsbesideseatedgroup andoffers traycold drinks: Daph andP eachtakeone ORANGE mimosa while babiesremainonlap/towel perpositions. Fineunbrandedglasses farfrombabyhands. Gnocchiheadapproxseatedadultheight/notgiant, maturevisor/pointedears. HcreamTOWELaroundshoulders, PBLACKshirtOPEN.\nPanel 4. H receives CLEAR drinkwith LEMON SLICES, B acceptsLAST ORANGE mimosa andnodsthanksGnocchi. DaphAriLAP/SBleg/RbetweenB&Daph. ALL3babies smallwraps/human/owncolors; nocupinbabyhands, noaddedwords.\nPanel 5. P BLACKshirt/shortbob scans coveandasksONEcompletequestion/tailP. Hcreamtowel besideher/Hsapphireonly; stillnoPnecklace/plainfingers. Balloon from Pansy. Print verbatim «¿Dónde están Draco y Astoria?»\nPanel 6. Daph LONG BLONDE/BLUE pointswithadultcup towardfurlednavywoodketch/companionway. Ari safeONLAP, S byBleg/RbetweenB&Daph ifvisible. Daphshortreply/tailDaph. Balloon from Daphne. Print verbatim «Subieron hace un rato.»\nPanel 7. FULL-WIDTH panel: B glancesatwoodcompanionway thenScorpius leaninghisleg, amusedresponsibleuncle. OneFULL B balloon/everyword. H/P/Daphlistencancrop, noDraco/Astoria shown. S HUMANPLATINUMGRAY/nohat, R ONLYcaptainhat. Balloon from Blaise. Print verbatim «No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero.»\nPanel 8. Daph LEFT calmlyresponds withONEshortsourceballoon, B RIGHTturnstowardher. H hidesamusedsmilebehindCLEARLEMONglass, Plooksboatstairs. Smallwrapbabiesunchanged; all sittingfamilybanter only. Balloon from Daphne. Print verbatim «Seguramente necesitaban cambiarse.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p072_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p060_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-b3603f41-cd45-4800-8f9c-ca21efec11f7.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct ONE speech-balloon TAIL only on this EXACT complete8-panel page73. In the SEVENTH panel (second-to-last full-width row), the long balloon «No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero.» is spoken by BLAISE, the DARK-SKINNED shortBLACKtwists man at CENTER with raised hand. Its current tail wrongly points DOWN-LEFT to Pansy/BLACKbob. REMOVE the old down-left tail and draw a short clear tail from the balloon's RIGHT edge toward BLAISE'S MOUTH, center-right, unambiguously. Keep every exact word/line/accent of the balloon, all other text/balloon tails, all8panels/header«Capítulo13·73», all faces/glasses/hair/bodies/jewels/clothes/infantidentities/blankets/hat/holders/drinks/Gnocchi/boat/rocks/lighting and1024x1536crop completely unchanged. No other correction or new words.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b3603f41-cd45-4800-8f9c-ca21efec11f7.png"
+          ],
+          "generatedMaster": "exec-271c8481-0e15-4a83-9072-b4d3d1d4d003.png"
+        }
+      ]
+    },
+    {
+      "page": 74,
+      "image": "paginas/c13-p074.webp",
+      "sourcePdfPages": [
+        641,
+        642
+      ],
+      "summary": "Blaise intenta proteger a los bebés de las bromas sobre sus padres. El recuerdo del agua de manantial cambia enseguida el blanco de las risas hacia Pansy.",
+      "panels": [
+        {
+          "scene": "B turns slowlytowardDaph seatednexttohim, cuphalted, onecompleteTWO-sentenceballoon. S leaningBleg/GRAYwrap, DaphAriLAP, RCREAMwrap/NAVYcap onTOWEL betweenB&Daph.",
+          "dialogue": [
+            "Blaise: Los dos. Al mismo tiempo."
+          ],
+          "sourceFragments": [
+            "Los dos. Al mismo tiempo."
+          ]
+        },
+        {
+          "scene": "P BLACKshirt/shortbob givesfullTWO-sentencecomment, Hcreamtowel laughsandleansshouldertowardher. OnePballoonwithallwords, leftHRPbraceletNOTneck/allfingersplain. Familyseatedshade.",
+          "dialogue": [
+            "Pansy: Draco necesita ayuda con muchas cosas. Quizá el bañador sea una de ellas."
+          ],
+          "sourceFragments": [
+            "Draco necesita ayuda con muchas cosas",
+            "Quizá el bañador sea una de ellas."
+          ]
+        },
+        {
+          "scene": "Daph BLONDE/BLUE/TURQUOISE-CREAMpareo smilesandaddsONEfullsourcecomment; Ari HUMANgoldenBLUE/TURQwrap staysLAP. B/S/Rsamepositions, ordinary banter.",
+          "dialogue": [
+            "Daphne: Astoria solo está siendo una novia atenta."
+          ],
+          "sourceFragments": [
+            "Astoria solo está siendo una novia atenta"
+          ]
+        },
+        {
+          "scene": "B speaksandgentlycovers Scorpius's TWOears withBOTHhands forbriefcomedy. S sitssecureonTOWEL leaningBleg/GRAYwrap, movesheadconfused butcalm. TWO adultarms only/nobabyeyesblocked, exactBballoon.",
+          "dialogue": [
+            "Blaise: Hay niños presentes."
+          ],
+          "sourceFragments": [
+            "Hay niños presentes"
+          ]
+        },
+        {
+          "scene": "P drawsROBIN fromTOWEL ontoHERLAP beforeBcanreachhim, clearcarefulonebabyhandover. Robin GREEN/CREAMwrap/DUCKshorts/NAVYhat playsbrim. P says BOTH fullsentences inoneballoon/tailP; HbesidehercreamTOWEL/OLIVE.",
+          "dialogue": [
+            "Pansy: Robin está acostumbrado a vernos besarnos. No creo que esto vaya a preocuparle."
+          ],
+          "sourceFragments": [
+            "Robin está acostumbrado a vernos besarnos",
+            "No creo que esto vaya a preocuparle."
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Daph raisescuptowardP, sourcefullTWO-sentencewatermemory, readableallwords. DaphBLUE/longBLONDE/AriLAP, PwithRlap Hbeside, BwithSleg, noflashback/newsetting.",
+          "dialogue": [
+            "Daphne: Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial."
+          ],
+          "sourceFragments": [
+            "Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial."
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH B laughsatmemory andsays BOTH fullsource sentences/everyword. P stopsdrinking, Hturnstowardheramused. Keep allbabypositions/3total, noextraactor.",
+          "dialogue": [
+            "Blaise: Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía."
+          ],
+          "sourceFragments": [
+            "Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía."
+          ]
+        },
+        {
+          "scene": "H chestnutBUN/CREAMtowel/OLIVE speaksONEshortamusedline lookingatP. Pblusheswarmlyandlooksdown adjustingRcaptainhatbrim, avoidinggaze, RobinLAP smallcreamwrap. TailHneverR.",
+          "dialogue": [
+            "Hermione: Sabía que era un pretexto."
+          ],
+          "sourceFragments": [
+            "Sabía que era un pretexto."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 74\n\nBlaise intenta proteger a los bebés de las bromas sobre sus padres. El recuerdo del agua de manantial cambia enseguida el blanco de las risas hacia Pansy.\nBlaise: Los dos. Al mismo tiempo.\nPansy: Draco necesita ayuda con muchas cosas. Quizá el bañador sea una de ellas.\nDaphne: Astoria solo está siendo una novia atenta.\nBlaise: Hay niños presentes.\nPansy: Robin está acostumbrado a vernos besarnos. No creo que esto vaya a preocuparle.\nDaphne: Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial.\nBlaise: Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía.\nHermione: Sabía que era un pretexto.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8momentos/OCR/8réplicas íntegras,tildes,ordenycolas correctas. Scorpius4conpeloPLATINO/irisGRISAZUL/GRAYwrap ydosmanosBorejas, noRcastañoverde. RCREAMwrap/NAVYcap/DUCKS pasaP LAP5yse mantiene7-8;6se recomponeconretratocercanoDAPHNEspeaker, P/Rfueraencuadre duranteesa línea. Pequeñosolapedeborde6sobrefranjadefondode7, noocultadiálogo/rostro/acción;8viñetas legibles completas, no continuidad factual perdida. HcreamTOWEL/moño/oliva/sapphireONLYneck/leftring; Pblackshirt/bob/HRPleftwrist-fingersplain/BAREneck, AriDaphLAP/BLUE/TURQ yS Bleg correctos. Todosbebéshumanos/naturales/sinwine; HclearLEMON/adultORANGE/sourcecala&furledketch estables. OriginalR2/R3conservados, no nuevaspalabras.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p074.png",
+      "sha256": "a49b3096acbde186e12573751e7b883337aab76969ba74691ecbe2cc1cb2fffe",
+      "masterSha256": "07abd7fbb65dbbe65802553dedfcdec67aabf6b25914f4c3ac32788028018427",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page73: La familia descansa sobre las toallas a la sombra. Gnocchi reparte bebidas frías y Pansy pregunta por Draco y Astoria, que han regresado al velero. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved72 familyfaces/babyidentities ONLY. Current641-642 DRYtowels/pareos/Pblackshirt/Hcreamtowel andexplicitRmoveP LAP override oldwaterposes.. Image 5 is reference for PRIVATE hand-jewelry reference ONLY: H one clearoval LEFT RINGfinger diamond, wristbare; P fingersALLplain/fineWHITEGOLD HRPchain LEFT WRIST ONLY, NEVERNECK. No photographicstyle/layout/labels copied..\nSOURCE641: FAMILY NOW DRY/SEATED UNDER ROCK SHADE on wide LOW SMOOTH rock slab covered by CREAM towels, same LiGalli cove/TURQUOISE sea/navy-darkwood two-mast ketch ALLSAILSFURLED/stable wood-rope gangway. Four SMALL mature taupe-linen visor elfcrew elsewhere aboard; ONE Gnocchi may serve, no extra human crowd or giant crew ashore. Gnocchi is SHORT/PLUMP mature wrinkled kindelf/pointedears/smallbelly/too-largeTAUPEvisor/TAUPElinen/barefeet, sourceheight~1m, about seatedadultheadheight whenstanding, not child. H chestnutMESSYBUN/fewwetcurls/freckles/BROWNeyes/BLACKglasses/OLIVE ONEPIECE; CREAM towel dryingbun thenaroundshoulders (natural source-towel staging), sapphire MIDNIGHTBLUE/clearhalo WHITEPLATINUMchainONLYnecklace, ONEclearhalo diamond LEFT RINGFINGER/BAREwrists/no BLUEearring. P BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece and LOOSE OPEN BLACK BEACHSHIRT recovered641, LEFT WHITEGOLD HRP BRACELET ONLY/ALL FINGERS PLAIN/BAREneck-ears/noHRPnecklace. Daph LONGWETBLONDE/BLUE/TURQUOISEONEPIECE/PALECREAMpareo aroundwaist, fineGOLDchain/tinyplainGOLDpendantNOsapphire. B DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses yet. Babies HUMAN/smoothskin/natural hands-feet/no eyewear, dry and protected by SMALL PAREOS: R chestnut/GREEN/BLUEshorts-YELLOWDUCKS/CREAMsmallwrap/ONEoversizedNAVY CAPTAINHAT goldemblem FRONTBRIMfoldedUP. Ari LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit/PALETURQUOISEsmallwrap. S PLATINUMtuft/STEELGRAYBLUE/GRAYshorts/PALEGRAYsmallwrap. Wrap colors inferred tokeepdistinct/outfitsunderneath. CURRENT source641 initialpositions: Ari DAPHNE LAP, S safeonTOWEL leaningB'sLEG, Robin onTOWEL BETWEEN B&Daph, NOTDaphholding2anymore. P drawsR ontoHERLAP source642; H/PshareRbetweenthem643. All babyhandoffs explicit/scenescontrol. Adult drinks kept outsidechildreach, noinfantcup/mimosa. H NEW drink CLEARwithLEMONslices (notpeach), P/Daph/B coldORANGEmimosas/plainunbrandedcups per scene, Gnocchitray. Dialogue only ordinary seatedbanter/brief clothedaffection, natural faces/arms. Draco/Astoria offscreenLOWERCABINS, never showtheirprivateactivity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 74» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. B turns slowlytowardDaph seatednexttohim, cuphalted, onecompleteTWO-sentenceballoon. S leaningBleg/GRAYwrap, DaphAriLAP, RCREAMwrap/NAVYcap onTOWEL betweenB&Daph. Balloon from Blaise. Print verbatim «Los dos. Al mismo tiempo.»\nPanel 2. P BLACKshirt/shortbob givesfullTWO-sentencecomment, Hcreamtowel laughsandleansshouldertowardher. OnePballoonwithallwords, leftHRPbraceletNOTneck/allfingersplain. Familyseatedshade. Balloon from Pansy. Print verbatim «Draco necesita ayuda con muchas cosas. Quizá el bañador sea una de ellas.»\nPanel 3. Daph BLONDE/BLUE/TURQUOISE-CREAMpareo smilesandaddsONEfullsourcecomment; Ari HUMANgoldenBLUE/TURQwrap staysLAP. B/S/Rsamepositions, ordinary banter. Balloon from Daphne. Print verbatim «Astoria solo está siendo una novia atenta.»\nPanel 4. B speaksandgentlycovers Scorpius's TWOears withBOTHhands forbriefcomedy. S sitssecureonTOWEL leaningBleg/GRAYwrap, movesheadconfused butcalm. TWO adultarms only/nobabyeyesblocked, exactBballoon. Balloon from Blaise. Print verbatim «Hay niños presentes.»\nPanel 5. P drawsROBIN fromTOWEL ontoHERLAP beforeBcanreachhim, clearcarefulonebabyhandover. Robin GREEN/CREAMwrap/DUCKshorts/NAVYhat playsbrim. P says BOTH fullsentences inoneballoon/tailP; HbesidehercreamTOWEL/OLIVE. Balloon from Pansy. Print verbatim «Robin está acostumbrado a vernos besarnos. No creo que esto vaya a preocuparle.»\nPanel 6. FULL-WIDTH Daph raisescuptowardP, sourcefullTWO-sentencewatermemory, readableallwords. DaphBLUE/longBLONDE/AriLAP, PwithRlap Hbeside, BwithSleg, noflashback/newsetting. Balloon from Daphne. Print verbatim «Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial.»\nPanel 7. FULL-WIDTH B laughsatmemory andsays BOTH fullsource sentences/everyword. P stopsdrinking, Hturnstowardheramused. Keep allbabypositions/3total, noextraactor. Balloon from Blaise. Print verbatim «Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía.»\nPanel 8. H chestnutBUN/CREAMtowel/OLIVE speaksONEshortamusedline lookingatP. Pblusheswarmlyandlooksdown adjustingRcaptainhatbrim, avoidinggaze, RobinLAP smallcreamwrap. TailHneverR. Balloon from Hermione. Print verbatim «Sabía que era un pretexto.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p073_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p072_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-1f92d00e-e3ba-4a99-86e7-b25d49dad31d.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: identity-preserve. Correct exactly TWO local infant consistency errors on complete8-panel page74 IMAGE1. IMAGE2 shows the TWO distinct cousins: Robin CHESTNUT/GREEN/blueyellowduckshorts versus Scorpius PLATINUM/STEEL GRAY-BLUE/GRAYshorts.\n1 PANEL4 (second row RIGHT), baby whose ears Blaise/darkskin man covers with both hands is SCORPIUS. Change ONLY this baby's hair to short soft PLATINUM tuft and irises to STEEL GRAY-BLUE, matching Scorpius in other panels. Keep his face shape/expression/natural skin/GRAYwrap/pose and B'shands exactly. He must NOT have Robin's chestnut hair/green eyes.\n2 PANEL7 (second-to-last full-width row, «Por Merlín...»): ROBIN/CREAMwrap/NAVYcaptainhat/BLUE DUCKshorts must remain ON PANSY'S LAP at LEFT, exactly as he is in panel5 and8. MOVE the one captainhat baby from BETWEEN BLAISE&DAPHNE to Pansy/BLACKbob/BLACKshirt LAP at left. Remove his old position and fill with natural towel; do not duplicate him. Pansy supports his waist and lowers her orange adultcup away from child. Scorpius remains PLATINUM/GRAYwrap against B'sLEG, Arianna goldenBLUE/TURQUOISEwrap stays DaphneLAP. Exactly THREE babies in panel7.\nPreserve every other panel/actor/infant, all8completeSpanishturns/accents/wordorder/balloons/tails/header«Capítulo13·74», alljewels/leftHring/Pplainfingers-leftHRPbracelet-bareNECK, clothes/towels/ship/cove/1024x1536crop. No other changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1f92d00e-e3ba-4a99-86e7-b25d49dad31d.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p069.png"
+          ],
+          "generatedMaster": "exec-6550f210-6cb5-4585-b0a3-152422d3a0ca.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: precise-object-edit. ONE LOCAL repair ONLY in PANEL6 of this EXACT8-panel comic page74 (THIRD ROW RIGHT, Daphne's long «Eso es ahora...» speech). Robin was accidentally removed from this panel. Restore ONE ROBIN ON PANSY'S LAP, the BLACK-BOB/BLACKshirt woman LEFT-CENTER, just as he sits on her lap in panels5,7,8 of thissameimage. Robin HUMAN CHESTNUTcurls/GREENeyes/BLUE YELLOW-DUCK shorts/CREAMsmallwrap/oversizedNAVYcaptainhat GOLDanchor/frontbrimUP. Pansy supports him gently atwaist withONEforearm. Scorpius PLATINUM/GRAYwrap remains at BLAISE'S LEG, Arianna goldenBLUE/TURQUOISEwrap stays DAPHNE LAP. Exactly THREE babies in panel6. Preserve this panel's complete exact Daphne balloon/accents/tail and all adults/faces/clothing/poses/jewels/background. EVERY OTHER PANEL is completely unchanged, particularly correctedPLATINUMScorpiuspanel4 andRobinPansylappanels5,7,8. No other edits, same8panels/header/Spanishtext/1024x1536crop.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6550f210-6cb5-4585-b0a3-152422d3a0ca.png"
+          ],
+          "generatedMaster": "exec-df48288b-686e-4d9e-b330-4279941327fc.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. REDRAW ONLY ONE PANEL'S COMPOSITION on this exact complete8-panel page74: PANEL6 = THIRD ROW RIGHT, interior rectangle approximately x443..1010/y700..1025.\nReplace that panel's group view with a CLOSE HEAD-AND-SHOULDERS PORTRAIT of DAPHNE ONLY, the LONG BLONDE/BLUE-EYED woman in TURQUOISE swimsuit straps/fineplainGOLDnecklace, smiling and holding her orange adult drink. Her face is large in lower half. Background is shaded natural rock and a small glimpse of same furled navywoodboat. NO other adult/infant appears within this close crop; Arianna remains safely on her lap BELOW the portrait frame, other family offscreen.\nKeep this exact COMPLETE dialogue in a large upper balloon with tail to DAPHNE mouth: «Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial.» All words/accents/punctuation readable, no addedtext.\nThis new portrait crop avoids depicting an empty Pansy lap; Pansy and Robin remain offscreen during Daphne's line, with Robin still Pansy's lap as panels5,7,8.\nEVERY OTHER PIXEL/PANEL outside panel6 stays unchanged:8panel borders/layout/header«Capítulo13·74», allother7dialogueballoons/words/tails, Scorpius PLATINUM/GRAYBLUE inpanel4, RobinCAPTAINHAT/DUCKshorts Pansylap5/7/8, H/Pfaces/jewels/clothes/allbackground. Same1024x1536size.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-df48288b-686e-4d9e-b330-4279941327fc.png"
+          ],
+          "generatedMaster": "exec-3392d6cc-c0f7-4b93-ba87-7395e1e1464d.png"
+        }
+      ]
+    },
+    {
+      "page": 75,
+      "image": "paginas/c13-p075.webp",
+      "sourcePdfPages": [
+        642,
+        643
+      ],
+      "summary": "Daphne devuelve las bromas a Blaise. Entre risas y un breve beso, las dos parejas siguen descansando con los bebés sobre las toallas.",
+      "panels": [
+        {
+          "scene": "B pointsadultmimosatowardH/Pbutcupawayinfants, smilesandteasesONEfullsourceballoon. PwithRobinLAP stilladjustsNAVYhat, HbesidecreamTOWEL/bluependant, noPnecklace.",
+          "dialogue": [
+            "Blaise: Y ahora no pueden quitarse las manos de encima."
+          ],
+          "sourceFragments": [
+            "Y ahora no pueden quitarse las manos de encima."
+          ]
+        },
+        {
+          "scene": "Daph turns towardB andresponds BOTH fullsentences, Ari quietonHERLAP/TURQwrap. Ordinary seatedfamilyteasing/faces, exactDaphballoon/tailDaph.",
+          "dialogue": [
+            "Daphne: Tú tampoco puedes quitarme las manos de encima. Mucho menos cuando estamos dentro de este velero."
+          ],
+          "sourceFragments": [
+            "Tú tampoco puedes quitarme las manos de encima. Mucho menos cuando estamos dentro de este velero."
+          ]
+        },
+        {
+          "scene": "B'scupstopsbeforehis lips, comicmock-surprise; exactshortBballoonwithname. Cupoutsidebabyreach, ScorpiusrestsatBleg/GRAYwrap.",
+          "dialogue": [
+            "Blaise: Daphne Greengrass."
+          ],
+          "sourceFragments": [
+            "Daphne Greengrass."
+          ]
+        },
+        {
+          "scene": "Daph putsadultglassonsafeDRYrockawaybabyhands andrestshandlightlyatBuppershoulder/chest inordinaryfriendlygesture. AriLAP secure/noinfantcup. ONEfullDaphline, noadultbodyemphasis.",
+          "dialogue": [
+            "Daphne: Nunca te escuché quejarte."
+          ],
+          "sourceFragments": [
+            "Nunca te escuché quejarte."
+          ]
+        },
+        {
+          "scene": "P raiseseyebrows, H laughsagainstPshoulder, Rcreamwrap/NAVYhat safeP LAP playsshirtcords. Natural2adultarms/sourceclothes/leftjewels, no dialogue."
+        },
+        {
+          "scene": "B'shandrestsaroundDaphwaistOVERCREAMpareo, ordinaryfamilyseat withARIlap; Daphglancesatithandandsmiles,saysONEshortline. BstillnearSleg, handsnotcloned, keepcaptiononlysourceballoon.",
+          "dialogue": [
+            "Daphne: Justamente a eso me refería."
+          ],
+          "sourceFragments": [
+            "Justamente a eso me refería."
+          ]
+        },
+        {
+          "scene": "Daph gentlytouchesBcheekandgivesonebriefclosedmouthkiss. Mediumfacesandshoulders, ordinarycoveredfamilymoment/TURQstrap/Bnohat. Ari safelyonlapoutsidecrop, noexplicitdetail."
+        },
+        {
+          "scene": "H turns towardPwhoiswatchingher, sharedamusedglance leadnextsourcequestion. PsettlesROBIN oncreamTOWEL betweenH/Plegs, bothnearfor support, NAVYcapfrontBRIMUP/GREENeyes/blueDUCKS/CREAMwrap. DaphArilap/SBleg offcropunchanged, no words."
+        }
+      ],
+      "transcript": "Capítulo 13 · 75\n\nDaphne devuelve las bromas a Blaise. Entre risas y un breve beso, las dos parejas siguen descansando con los bebés sobre las toallas.\nBlaise: Y ahora no pueden quitarse las manos de encima.\nDaphne: Tú tampoco puedes quitarme las manos de encima. Mucho menos cuando estamos dentro de este velero.\nBlaise: Daphne Greengrass.\nDaphne: Nunca te escuché quejarte.\nDaphne: Justamente a eso me refería.",
+      "actualPanelCount": 8,
+      "review": "Revisióncompleta8viñetas/OCR/5réplicas íntegras,tildes,ordenytails B-Daph-B-Daph-Daphcorrectos. R2quita anillos/gemasP5/8, dedos lisos/cadenaH-R-PsoloLEFTWRIST/noNECK, preservaHúnicoLEFTdiamondtouchPshoulder/creamTOWEL/OLIVE/sapphire. Pblackshirt/bob, DaphTURQUOISE-CREAMpareo/GOLDfinependant/AriLAP, Bnavy/barehead/SPLATINUMGRAYagainstleg, todoshumanos. RcastañoGREEN/DUCKS/CREAMwrap/NAVYhat P LAPhasta7 ysharedH/Ptowel8, sinmezclaportadores. B/Daphbesobrevecotidiano, adultesbebidasfueraalcance/cero cupsinfantiles. Escenariosombras/rocas/ketchfurlado coherente, ningúntextoextra.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p075.png",
+      "sha256": "33e2c245b6e367a5acced1c31bc3ab7417ea2f8550bddfc031e8bdd73912afbd",
+      "masterSha256": "7669d015aff2b3be8b288acdc3f3a2b2489726dd285e671ab0dbff588451a8aa",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page74: Blaise intenta proteger a los bebés de las bromas sobre sus padres. El recuerdo del agua de manantial cambia enseguida el blanco de las risas hacia Pansy. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved72 familyfaces/palette only; keep DRY641 wraps/towels/blackPshirt fromprecedingpage74, sourceRPlap/DaphArilap/SBleg.. Image 5 is reference for PRIVATE hand-jewelry reference ONLY: H one clearoval LEFT RINGfinger diamond, wristbare; P fingersALLplain/fineWHITEGOLD HRPchain LEFT WRIST ONLY, NEVERNECK. No photographicstyle/layout/labels copied..\nSOURCE641: FAMILY NOW DRY/SEATED UNDER ROCK SHADE on wide LOW SMOOTH rock slab covered by CREAM towels, same LiGalli cove/TURQUOISE sea/navy-darkwood two-mast ketch ALLSAILSFURLED/stable wood-rope gangway. Four SMALL mature taupe-linen visor elfcrew elsewhere aboard; ONE Gnocchi may serve, no extra human crowd or giant crew ashore. Gnocchi is SHORT/PLUMP mature wrinkled kindelf/pointedears/smallbelly/too-largeTAUPEvisor/TAUPElinen/barefeet, sourceheight~1m, about seatedadultheadheight whenstanding, not child. H chestnutMESSYBUN/fewwetcurls/freckles/BROWNeyes/BLACKglasses/OLIVE ONEPIECE; CREAM towel dryingbun thenaroundshoulders (natural source-towel staging), sapphire MIDNIGHTBLUE/clearhalo WHITEPLATINUMchainONLYnecklace, ONEclearhalo diamond LEFT RINGFINGER/BAREwrists/no BLUEearring. P BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece and LOOSE OPEN BLACK BEACHSHIRT recovered641, LEFT WHITEGOLD HRP BRACELET ONLY/ALL FINGERS PLAIN/BAREneck-ears/noHRPnecklace. Daph LONGWETBLONDE/BLUE/TURQUOISEONEPIECE/PALECREAMpareo aroundwaist, fineGOLDchain/tinyplainGOLDpendantNOsapphire. B DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses yet. Babies HUMAN/smoothskin/natural hands-feet/no eyewear, dry and protected by SMALL PAREOS: R chestnut/GREEN/BLUEshorts-YELLOWDUCKS/CREAMsmallwrap/ONEoversizedNAVY CAPTAINHAT goldemblem FRONTBRIMfoldedUP. Ari LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit/PALETURQUOISEsmallwrap. S PLATINUMtuft/STEELGRAYBLUE/GRAYshorts/PALEGRAYsmallwrap. Wrap colors inferred tokeepdistinct/outfitsunderneath. CURRENT source641 initialpositions: Ari DAPHNE LAP, S safeonTOWEL leaningB'sLEG, Robin onTOWEL BETWEEN B&Daph, NOTDaphholding2anymore. P drawsR ontoHERLAP source642; H/PshareRbetweenthem643. All babyhandoffs explicit/scenescontrol. Adult drinks kept outsidechildreach, noinfantcup/mimosa. H NEW drink CLEARwithLEMONslices (notpeach), P/Daph/B coldORANGEmimosas/plainunbrandedcups per scene, Gnocchitray. Dialogue only ordinary seatedbanter/brief clothedaffection, natural faces/arms. Draco/Astoria offscreenLOWERCABINS, never showtheirprivateactivity. CURRENT642afterPdrawsR: ROBIN CREAMwrap/NAVYhat/duckshorts PansyLAP, Ari DaphLAP, S Bleg/towel. MoveRobin tosharedH/Ptowel onlylastscene for643 source. Keep ordinary face/shoulder/clothedshirt-towel framing for teasing, no explicitactivity.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 75» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. B pointsadultmimosatowardH/Pbutcupawayinfants, smilesandteasesONEfullsourceballoon. PwithRobinLAP stilladjustsNAVYhat, HbesidecreamTOWEL/bluependant, noPnecklace. Balloon from Blaise. Print verbatim «Y ahora no pueden quitarse las manos de encima.»\nPanel 2. Daph turns towardB andresponds BOTH fullsentences, Ari quietonHERLAP/TURQwrap. Ordinary seatedfamilyteasing/faces, exactDaphballoon/tailDaph. Balloon from Daphne. Print verbatim «Tú tampoco puedes quitarme las manos de encima. Mucho menos cuando estamos dentro de este velero.»\nPanel 3. B'scupstopsbeforehis lips, comicmock-surprise; exactshortBballoonwithname. Cupoutsidebabyreach, ScorpiusrestsatBleg/GRAYwrap. Balloon from Blaise. Print verbatim «Daphne Greengrass.»\nPanel 4. Daph putsadultglassonsafeDRYrockawaybabyhands andrestshandlightlyatBuppershoulder/chest inordinaryfriendlygesture. AriLAP secure/noinfantcup. ONEfullDaphline, noadultbodyemphasis. Balloon from Daphne. Print verbatim «Nunca te escuché quejarte.»\nPanel 5. P raiseseyebrows, H laughsagainstPshoulder, Rcreamwrap/NAVYhat safeP LAP playsshirtcords. Natural2adultarms/sourceclothes/leftjewels, no dialogue.\nPanel 6. B'shandrestsaroundDaphwaistOVERCREAMpareo, ordinaryfamilyseat withARIlap; Daphglancesatithandandsmiles,saysONEshortline. BstillnearSleg, handsnotcloned, keepcaptiononlysourceballoon. Balloon from Daphne. Print verbatim «Justamente a eso me refería.»\nPanel 7. Daph gentlytouchesBcheekandgivesonebriefclosedmouthkiss. Mediumfacesandshoulders, ordinarycoveredfamilymoment/TURQstrap/Bnohat. Ari safelyonlapoutsidecrop, noexplicitdetail.\nPanel 8. H turns towardPwhoiswatchingher, sharedamusedglance leadnextsourcequestion. PsettlesROBIN oncreamTOWEL betweenH/Plegs, bothnearfor support, NAVYcapfrontBRIMUP/GREENeyes/blueDUCKS/CREAMwrap. DaphArilap/SBleg offcropunchanged, no words.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p074_r4.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p072_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-8e4885eb-ba82-4d0d-913b-575ca726c46a.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct PANSY'S FINGER JEWELRY ONLY on this EXACT complete8-panel comic page75. Pansy is the BLACK CHIN-BOB woman wearing OPEN BLACK BEACHSHIRT. She has NO RINGS on ANY finger. Remove the unwanted ring/gem/band/white jewel dot from her hand in PANEL5 (third row RIGHT, her hand rests on her leg) and PANEL8 (bottom-right, her hand rests on her leg), and any other Pansy finger. Restore smooth natural PLAIN SKIN on every finger, keep five natural fingers and same pose. KEEP her fine WHITEGOLD H/R/P BRACELET on LEFT WRIST exactly. Do NOT alter Hermione/chestnutBUN/OLIVE-CREAM woman's correct ONEclearhalo LEFT RING-finger diamond, visible inpanel5 onhand touchingPansy'sshoulder. Preserve all other jewelry/faces/expressions/glasses/hair/clothes/towels/babyholders/hats/skin/poses/8panels/everyexactSpanishword/accents/balloontails/header«Capítulo13·75»/boat/cove/1024x1536crop. Nothing else changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8e4885eb-ba82-4d0d-913b-575ca726c46a.png"
+          ],
+          "generatedMaster": "exec-e65f91cc-934b-438c-b25f-bbd8975bb9e3.png"
+        }
+      ]
+    },
+    {
+      "page": 76,
+      "image": "paginas/c13-p076.webp",
+      "sourcePdfPages": [
+        643
+      ],
+      "summary": "Hermione y Pansy retoman la broma del agua de manantial. Los bebés siguen jugando mientras las parejas se acomodan y Gnocchi recoge las copas.",
+      "panels": [
+        {
+          "scene": "H LEFT chestnutBUN/CREAMtowel asksfirstupperleft, P RIGHTBLACKshirt/shortBOB answerssecondlowerrightwithplayfulnarrowedeyes. TWO fullorderedballoons, RobinbetweenH/P onTOWEL/NAVYcap canbecropped.",
+          "dialogue": [
+            "Hermione: ¿Todavía necesitas agua de manantial?",
+            "Pansy: En este momento, no."
+          ],
+          "sourceFragments": [
+            "¿Todavía necesitas agua de manantial?",
+            "En este momento, no."
+          ]
+        },
+        {
+          "scene": "H smileswithquietwitandsays BOTH fullsentences inONEreadableballoon, originalfreckles/bun/bluechestpendantonly. PseatedbesideR, noaddedtext.",
+          "dialogue": [
+            "Hermione: Qué alivio. Habría sido difícil explicar por qué volviste a salir corriendo."
+          ],
+          "sourceFragments": [
+            "Qué alivio. Habría sido difícil explicar por qué volviste a salir corriendo."
+          ]
+        },
+        {
+          "scene": "P putsadultcupasideonDRYrockoutchildreachandrestsarmgentlyaroundHwaistOVERcreamTOWEL, ordinaryseatedpose. PONEfullballoon/blackshirt/LEFTchainnotneck. Rpullslooseblackshirtcords, blueDUCKshorts+creamwrap/navyhat.",
+          "dialogue": [
+            "Pansy: Ya no tengo motivos para correr."
+          ],
+          "sourceFragments": [
+            "Ya no tengo motivos para correr."
+          ]
+        },
+        {
+          "scene": "Mediumfaces/shoulders H LEFT asks FIRST; P RIGHT answers SECONDlower. TWO exactsourceballoons, calmwarmsmiles/blackPshirt/creamHcover, nobodyemphasis.",
+          "dialogue": [
+            "Hermione: ¿Ya no quieres besarme?",
+            "Pansy: Ya no necesito escapar para hacerlo."
+          ],
+          "sourceFragments": [
+            "¿Ya no quieres besarme?",
+            "Ya no necesito escapar para hacerlo."
+          ]
+        },
+        {
+          "scene": "H/PshareONEbriefgentleclosedmouthkiss, ordinaryfullycoveredfamilymoment/BLACKPshirt/CREAMHshouldertowel, sourceoriginalfaces. RobinbelowbetweenlegsplaysPshirtcords/NAVYcap canvisibleinwiderfamilyview; noaddedwords/noexplicitdetail."
+        },
+        {
+          "scene": "Quietinfantdetail: Arianna goldenBLUE/TURQsmallwrap onDaphLAP playsedgeofDaphCREAMpareo. NearbyScorpius PLATINUM/GRAYsmallwrap safelyontowelagainstBleg watchesownlittlehandsopen/close. TWO DISTINCT HUMANbabies/skin/fingers; RstayswithH/P offscreen. No words."
+        },
+        {
+          "scene": "FULL-WIDTH relaxedfamily: Daph leansagainstB, he givesordinarykissontopofherhair; AriLAP/SBleg. HleansP/BLACKshirt, RCREAMwrap/NAVYcap BETWEENH/Plegs. Fouryoungadults/THREEinfantsexactly/naturalindividualarms, allsourcepositions, noextrafigures."
+        },
+        {
+          "scene": "Gnocchi SHORTPLUMP maturetaupevisor/linenelf collects EMPTY adultglassesontoTRAY, familyquietunderrockshade. Hbeginslookingtowardcoveentranceafterhearingfaintdistantnoise, nopicturednewyacht/guests yet. Samefurlednavywoodketch/gangway/creamTOWELS. No addedwords/soundlyrics."
+        }
+      ],
+      "transcript": "Capítulo 13 · 76\n\nHermione y Pansy retoman la broma del agua de manantial. Los bebés siguen jugando mientras las parejas se acomodan y Gnocchi recoge las copas.\nHermione: ¿Todavía necesitas agua de manantial?\nPansy: En este momento, no.\nHermione: Qué alivio. Habría sido difícil explicar por qué volviste a salir corriendo.\nPansy: Ya no tengo motivos para correr.\nHermione: ¿Ya no quieres besarme?\nPansy: Ya no necesito escapar para hacerlo.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCRsin faltantes:6turnos H-P/H/P/H-P íntegros/tildes/colas/orden correctos, no abreviaragua/manantial/salircorriendo. HcreamTOWELsobreoliva/BUN/BLUEsapphirecuello/leftringmuñecabare, Pblackshirt/CHINbob/LEFTHRPwrist/plainfingers/NECKBARE. Ampliacióninspection-76-pansy-ear confirmaOREJADESNUDA, no gema. Robin humanochestnutGREEN/CREAMwrap/DUCKS/NAVYcap/cordonescamisa, entreH/P. Ari goldenBLUE/TURQwrap DaphLAP, SPLATINUM/GRAYwrap Bleg observa manos6; tresinfantespielnatural/dedos/seatingcorrectos. Besosbrevesvestidos/relajaciónGnocchicollectEMPTYcups claro alfinalyHmirahaciaentrada, noactivityexplícita niyateadelantado. Gnocchicorto adulto/taupevisor/plumpinclinado/natural; barcocala/sombra/luzcoherentes.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p076.png",
+      "sha256": "1ec4548ad25b4735f618abf512c32f09ea1dda9767c144fcc7be82c54e91660d",
+      "masterSha256": "89ded43aecc684504059a3be47af032663c6e0f3b7d83212fd179305ef82cd80",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page75: Daphne devuelve las bromas a Blaise. Entre risas y un breve beso, las dos parejas siguen descansando con los bebés sobre las toallas. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for CurrentDRY familygroupfrom73-75 withsourcehandoffs, notwater; originalfaces/babyIDs/leftjewelryandbarePneck unchanged.. Image 5 is reference for APPROVED60R3 reference ONLY Gnocchi's identity (SHORTPLUMP MATURE wrinkled kindface/taupevisor/linen/pointedears), and anchoredcove/navywood2mastfurled/woodropegangway. Gnocchi~1m notgiant/child. New scenes override old linen clothes/babyholders/oldglasses..\nSOURCE641: FAMILY NOW DRY/SEATED UNDER ROCK SHADE on wide LOW SMOOTH rock slab covered by CREAM towels, same LiGalli cove/TURQUOISE sea/navy-darkwood two-mast ketch ALLSAILSFURLED/stable wood-rope gangway. Four SMALL mature taupe-linen visor elfcrew elsewhere aboard; ONE Gnocchi may serve, no extra human crowd or giant crew ashore. Gnocchi is SHORT/PLUMP mature wrinkled kindelf/pointedears/smallbelly/too-largeTAUPEvisor/TAUPElinen/barefeet, sourceheight~1m, about seatedadultheadheight whenstanding, not child. H chestnutMESSYBUN/fewwetcurls/freckles/BROWNeyes/BLACKglasses/OLIVE ONEPIECE; CREAM towel dryingbun thenaroundshoulders (natural source-towel staging), sapphire MIDNIGHTBLUE/clearhalo WHITEPLATINUMchainONLYnecklace, ONEclearhalo diamond LEFT RINGFINGER/BAREwrists/no BLUEearring. P BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece and LOOSE OPEN BLACK BEACHSHIRT recovered641, LEFT WHITEGOLD HRP BRACELET ONLY/ALL FINGERS PLAIN/BAREneck-ears/noHRPnecklace. Daph LONGWETBLONDE/BLUE/TURQUOISEONEPIECE/PALECREAMpareo aroundwaist, fineGOLDchain/tinyplainGOLDpendantNOsapphire. B DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses yet. Babies HUMAN/smoothskin/natural hands-feet/no eyewear, dry and protected by SMALL PAREOS: R chestnut/GREEN/BLUEshorts-YELLOWDUCKS/CREAMsmallwrap/ONEoversizedNAVY CAPTAINHAT goldemblem FRONTBRIMfoldedUP. Ari LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit/PALETURQUOISEsmallwrap. S PLATINUMtuft/STEELGRAYBLUE/GRAYshorts/PALEGRAYsmallwrap. Wrap colors inferred tokeepdistinct/outfitsunderneath. CURRENT source641 initialpositions: Ari DAPHNE LAP, S safeonTOWEL leaningB'sLEG, Robin onTOWEL BETWEEN B&Daph, NOTDaphholding2anymore. P drawsR ontoHERLAP source642; H/PshareRbetweenthem643. All babyhandoffs explicit/scenescontrol. Adult drinks kept outsidechildreach, noinfantcup/mimosa. H NEW drink CLEARwithLEMONslices (notpeach), P/Daph/B coldORANGEmimosas/plainunbrandedcups per scene, Gnocchitray. Dialogue only ordinary seatedbanter/brief clothedaffection, natural faces/arms. Draco/Astoria offscreenLOWERCABINS, never showtheirprivateactivity. CURRENT643 Robin betweenH/P onTOWEL/CREAMwrap/NAVYcaptainhat/BLUEducks; Ari DaphLAP/TURQwrap; Scorpius byBleg/TOWEL/GRAYwrap. H/P briefgentleclosedmouthkissONLYordinaryclothedfamilyaffection, face/shoulderorwideview. PBLACKshirt/HCREAMtoweloverOLIVE, no explicitactivity/privatecabinvisual. EndquietGnocchicollectEMPTYcups beforeHhearssound.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 76» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. H LEFT chestnutBUN/CREAMtowel asksfirstupperleft, P RIGHTBLACKshirt/shortBOB answerssecondlowerrightwithplayfulnarrowedeyes. TWO fullorderedballoons, RobinbetweenH/P onTOWEL/NAVYcap canbecropped. Balloon from Hermione. Print verbatim «¿Todavía necesitas agua de manantial?» Balloon from Pansy. Print verbatim «En este momento, no.»\nPanel 2. H smileswithquietwitandsays BOTH fullsentences inONEreadableballoon, originalfreckles/bun/bluechestpendantonly. PseatedbesideR, noaddedtext. Balloon from Hermione. Print verbatim «Qué alivio. Habría sido difícil explicar por qué volviste a salir corriendo.»\nPanel 3. P putsadultcupasideonDRYrockoutchildreachandrestsarmgentlyaroundHwaistOVERcreamTOWEL, ordinaryseatedpose. PONEfullballoon/blackshirt/LEFTchainnotneck. Rpullslooseblackshirtcords, blueDUCKshorts+creamwrap/navyhat. Balloon from Pansy. Print verbatim «Ya no tengo motivos para correr.»\nPanel 4. Mediumfaces/shoulders H LEFT asks FIRST; P RIGHT answers SECONDlower. TWO exactsourceballoons, calmwarmsmiles/blackPshirt/creamHcover, nobodyemphasis. Balloon from Hermione. Print verbatim «¿Ya no quieres besarme?» Balloon from Pansy. Print verbatim «Ya no necesito escapar para hacerlo.»\nPanel 5. H/PshareONEbriefgentleclosedmouthkiss, ordinaryfullycoveredfamilymoment/BLACKPshirt/CREAMHshouldertowel, sourceoriginalfaces. RobinbelowbetweenlegsplaysPshirtcords/NAVYcap canvisibleinwiderfamilyview; noaddedwords/noexplicitdetail.\nPanel 6. Quietinfantdetail: Arianna goldenBLUE/TURQsmallwrap onDaphLAP playsedgeofDaphCREAMpareo. NearbyScorpius PLATINUM/GRAYsmallwrap safelyontowelagainstBleg watchesownlittlehandsopen/close. TWO DISTINCT HUMANbabies/skin/fingers; RstayswithH/P offscreen. No words.\nPanel 7. FULL-WIDTH relaxedfamily: Daph leansagainstB, he givesordinarykissontopofherhair; AriLAP/SBleg. HleansP/BLACKshirt, RCREAMwrap/NAVYcap BETWEENH/Plegs. Fouryoungadults/THREEinfantsexactly/naturalindividualarms, allsourcepositions, noextrafigures.\nPanel 8. Gnocchi SHORTPLUMP maturetaupevisor/linenelf collects EMPTY adultglassesontoTRAY, familyquietunderrockshade. Hbeginslookingtowardcoveentranceafterhearingfaintdistantnoise, nopicturednewyacht/guests yet. Samefurlednavywoodketch/gangway/creamTOWELS. No addedwords/soundlyrics.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p075_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p072_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p060_r3.png"
+          ],
+          "generatedMaster": "exec-851c41f0-25cd-49c2-b739-e50ffb554de5.png"
+        }
+      ]
+    }
+  ]
+}
