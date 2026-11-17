@@ -124,3 +124,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 44 | 613 | Hermione y Robin contemplan las luces con el mismo asombro. Markus y Eirena animan a Pansy a llevar a Hermione a la terraza oeste, y las dos se levantan discretamente de la mesa. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-41-44.json).
+
+## Páginas 45–48
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 45 | 614 | Daphne y Blaise advierten discretamente la salida. Pansy guía a Hermione por los jardines de la villa hasta la terraza oeste, y Hermione contempla el Tirreno al atardecer. |
+| 46 | 615 | En la terraza, Pansy y Hermione bromean sobre Blaise y el atardecer. Sus joyas de promesa les hacen hablar con naturalidad de un futuro matrimonio. |
+| 47 | 616–617 | Hermione se sorprende de haber dicho «cuando». Pansy responde imaginando la boda; Hermione la besa, y la voz de Robin llega desde el comedor mientras se pone el sol. |
+| 48 | 617–618 | A la mañana siguiente viajan rumbo a Positano en un ketch clásico Sangermani movido por magia. Los elfos manejan las velas; Hermione, Pansy y Robin descansan a la sombra de la proa con nuevos conjuntos de lino. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-45-48.json).

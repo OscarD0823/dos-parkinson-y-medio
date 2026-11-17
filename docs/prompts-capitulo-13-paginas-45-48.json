@@ -1,0 +1,348 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-16",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    45,
+    48
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 45,
+      "image": "paginas/c13-p045.webp",
+      "sourcePdfPages": [
+        614
+      ],
+      "summary": "Daphne y Blaise advierten discretamente la salida. Pansy guía a Hermione por los jardines de la villa hasta la terraza oeste, y Hermione contempla el Tirreno al atardecer.",
+      "panels": [
+        {
+          "scene": "Daphne LONG LOOSE BLONDE/BLUEeyes/PEACHdress notices P hand on H upperback as the two leave banquet; Blaise BLACK/DARKBROWN/shorttwists/OLIVEshirt raises winegoblet silently toward P, who gives mockwarning then smiles. H links her hand with P, all normal hands and source summer clothes/LEFT jewelry. Gold orbs over same pergola, sunset. No text."
+        },
+        {
+          "scene": "H/P holding hands exit SAME adult banquet through WHITE OPEN ARCH into villa garden. P walks beside H with free hand lightly near H waist, two normal arms each. Behind them pergola GOLD orbs visible between columns, adult family/babies remain at table, no baby/stroller with H/P. No text."
+        },
+        {
+          "scene": "Wide path slopes gently DOWN around villa, clear STONE paving lined ROSEMARY/LAVENDER/small CITRUS trees. P confidently guides H along familiar turn, both still IVORY and SKYBLUE/WHITE full trousers/flat shoes. Sea sunset orange/pink, no new outfits."
+        },
+        {
+          "scene": "They pass a FOUNTAIN with BLUE MOSAICS then a NARROW vine-covered gallery. Show fountain in foreground and same continuous stone path leading into gallery tangled GRAPEVINE overhead, natural perspective, no duplicated women. Warm evening stone and greenery."
+        },
+        {
+          "scene": "Garden opens into several LEVELS held by PALE STONE RETAINING WALLS, with OLIVES, IRON BENCHES and flowerpots. H/P walk together, dining lights now farther in background, sea visible. Quiet unhurried view, same villa style, no text."
+        },
+        {
+          "scene": "Arrival at SMALL WEST TERRACE framed by TWO WHITE COLUMNS, ONE has climbing PINK bougainvillea. Inside: ONE STONE BENCH, pots of LEMON TREES, PALE STONE BALUSTRADE open to sea. Only H/P here; no dining tables or elves on this secluded smaller terrace. All geometry human scale, no floating banquet orbs on terrace."
+        },
+        {
+          "scene": "FULL-WIDTH broad view from west terrace: Italian coast extends both sides, pale houses/paths descend to blue TYRRHENIAN sea, ORANGE/PINK sky with VIOLET clouds and long bright reflection linking horizon. Small distant boats cross reflection leaving thin WHITE wakes. Potted lemons/white balustrade frame view. Same villa, late sunset not night."
+        },
+        {
+          "scene": "H rests forearms naturally on PALE BALUSTRADE, wind lifts her abundant loose CHESTNUT curls, she moves lock from face and breathes relaxed. P joins beside her and watches H profile. H BROWNeyes/freckles/IVORY/front BLUE sapphire/one clear LEFT RINGFINGER diamond; P GREENeyes/BLACKbob/BLUEshirt-WHITEpants/LEFT HRP whitegoldbracelet/barefingers. ONLY two women at west terrace, no text."
+        }
+      ],
+      "transcript": "Capítulo 13 · 45\n\nDaphne y Blaise advierten discretamente la salida. Pansy guía a Hermione por los jardines de la villa hasta la terraza oeste, y Hermione contempla el Tirreno al atardecer.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas sin diálogo cotejadas con PDF614. Se conserva la salida advertida por Daphne/Blaise y el recorrido por sendero de piedra, romero/lavanda/cítricos, fuente de mosaicos azules, galería con parra, jardines escalonados, olivos/bancos de hierro y terraza oeste de dos columnas con buganvilia rosa/limoneros/balaustrada. H/P sin bebés, misma ropa, ojos castaño/verde, collar/anillo/brazalete continuos. Costa y mar al atardecer, orbes solo quedan atrás en el comedor. Revisión completa de anatomía, manos y escenario; OCR del encabezado.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p045.png",
+      "sha256": "74782f91123fa361d14b28dcb3ed9c42d52dba7b6f8e154385a2eb52cc4c1b0f",
+      "masterSha256": "56406a7595f9ad290733108d9bd51358622d22fde4e07cb2f1c94e302424c8b4",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page44: Hermione y Robin contemplan las luces con el mismo asombro. Markus y Eirena animan a Pansy a llevar a Hermione a la terraza oeste, y las dos se levantan discretamente de la mesa. Preserve individual faces, same summer outfits and LEFT jewels, table/food/pergola/flowers/sea and seating. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. Robin white-blue lemon bib own highchair BETWEEN Markus/Eirena, Arianna olive/two white bows own highchair NEXT Chiara. Scorpius HUMAN asleep in cream hooded lightWOOD bassinet BETWEEN Draco/Astoria. Source events on the new page control any new action or drink change; never change holders without source.. Image 4 is reference for ONLY correct Daphne LONGLOOSEBLONDE/BLUEeyes/PEACHdress/thinpendant and Blaise DARKBROWN/OLIVE/shorttwists individualfaces in45departure. H/Pcurrentfaces/jewelry alsofolloworiginals. No extras or futureclothes.. Image 5 is reference for ONLY same sunnyvillawhitearches/lemonpergola/goldenorbtransform and exactH/Pfaces/leftjewels/traveloutfits. NEWWESTTERRACEsetting follows sourcepanels; no banquettablegoldlights relocated tosecludedterrace..\nPermanent face identities fromimages1/2: H BROWN irises/freckles/abundant chestnut curls, P narrowGREENalmond/angular chin/sleeksidepartBLACKchinbob/bareears. ONE clear oval diamondhalo on H anatomical LEFT RINGFINGER, frontal midnightBLUE oval sapphire/clearhalo necklace on fine WHITEPLATINUM chain. P fine WHITEGOLD LEFT WRIST H/R/P bracelet and gold/diamondbarrette aboveLEFTear, fingers plain without rings. Natural distinct hands and normal proportions. Exact full source dialogues/readable balloons and accents, speaker tails correct. Fully clothed everyday family and romance, no graphic details. CURRENT45-47: SAME travel outfits H opaque IVORY blouse/wide-long IVORYtrousers/creamflats/LOOSE abundant chestnut curls; P SKYBLUE collared LINENshirt/sleeveselbows/fullWHITEtrousers/whiteloafers/BLACKchinbob. Sunset ORANGE/PINK/VIOLET sea, fading warmgold. From45 leave banquet with floating GOLDORBS and walk through WHITE arches/stonepaths/rosemary/lavender/citrus/BLUEmosaicfountain/vinegallery/terraced stonegardens/olives/ironbenches to SMALL WEST TERRACE. Westterrace has TWO WHITE COLUMNS, PINK climbingbougainvillea onone, STONE BENCH, LEMONpots, PALE STONE BALUSTRADE and broad TYRRHENIANcoast view. ONLY H/P on westterrace, not diningtable/elf/baby/carriage, no floatinggoldorbs there (they stayfarbehindatdiningpergola). H/P NORMAL romance/briefkind kisses with same clothes and leftjewels. Robin voice on47 comes from FARAWAY diningroom, not physicallyhere. Do not add imagined future wedding or newspaper frames. Samecoastalarchitecture/physicalscale throughout.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 45» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Daphne LONG LOOSE BLONDE/BLUEeyes/PEACHdress notices P hand on H upperback as the two leave banquet; Blaise BLACK/DARKBROWN/shorttwists/OLIVEshirt raises winegoblet silently toward P, who gives mockwarning then smiles. H links her hand with P, all normal hands and source summer clothes/LEFT jewelry. Gold orbs over same pergola, sunset. No text.\nPanel 2. H/P holding hands exit SAME adult banquet through WHITE OPEN ARCH into villa garden. P walks beside H with free hand lightly near H waist, two normal arms each. Behind them pergola GOLD orbs visible between columns, adult family/babies remain at table, no baby/stroller with H/P. No text.\nPanel 3. Wide path slopes gently DOWN around villa, clear STONE paving lined ROSEMARY/LAVENDER/small CITRUS trees. P confidently guides H along familiar turn, both still IVORY and SKYBLUE/WHITE full trousers/flat shoes. Sea sunset orange/pink, no new outfits.\nPanel 4. They pass a FOUNTAIN with BLUE MOSAICS then a NARROW vine-covered gallery. Show fountain in foreground and same continuous stone path leading into gallery tangled GRAPEVINE overhead, natural perspective, no duplicated women. Warm evening stone and greenery.\nPanel 5. Garden opens into several LEVELS held by PALE STONE RETAINING WALLS, with OLIVES, IRON BENCHES and flowerpots. H/P walk together, dining lights now farther in background, sea visible. Quiet unhurried view, same villa style, no text.\nPanel 6. Arrival at SMALL WEST TERRACE framed by TWO WHITE COLUMNS, ONE has climbing PINK bougainvillea. Inside: ONE STONE BENCH, pots of LEMON TREES, PALE STONE BALUSTRADE open to sea. Only H/P here; no dining tables or elves on this secluded smaller terrace. All geometry human scale, no floating banquet orbs on terrace.\nPanel 7. FULL-WIDTH broad view from west terrace: Italian coast extends both sides, pale houses/paths descend to blue TYRRHENIAN sea, ORANGE/PINK sky with VIOLET clouds and long bright reflection linking horizon. Small distant boats cross reflection leaving thin WHITE wakes. Potted lemons/white balustrade frame view. Same villa, late sunset not night.\nPanel 8. H rests forearms naturally on PALE BALUSTRADE, wind lifts her abundant loose CHESTNUT curls, she moves lock from face and breathes relaxed. P joins beside her and watches H profile. H BROWNeyes/freckles/IVORY/front BLUE sapphire/one clear LEFT RINGFINGER diamond; P GREENeyes/BLACKbob/BLUEshirt-WHITEpants/LEFT HRP whitegoldbracelet/barefingers. ONLY two women at west terrace, no text.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p044_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p039.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p043_r3.png"
+          ],
+          "generatedMaster": "exec-8771298e-7be8-4ac5-9384-75a547f22cdf.png"
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "image": "paginas/c13-p046.webp",
+      "sourcePdfPages": [
+        615
+      ],
+      "summary": "En la terraza, Pansy y Hermione bromean sobre Blaise y el atardecer. Sus joyas de promesa les hacen hablar con naturalidad de un futuro matrimonio.",
+      "panels": [
+        {
+          "scene": "P beside H at SAME smaller WEST TERRACE balustrade, silently admires H profile while H watches orange/pink/violet sea sunset. Wind through chestnut curls/blackbob, exact IVORY/SKYBLUE-white arrival clothes/LEFT jewels. White columns/pinkbougainvillea/lemonpots/stonebench, no banquet furniture. Source STONE BENCH visible near one lemonpot along terrace side, same white column/pink vine, all modest human-scale masonry."
+        },
+        {
+          "scene": "FULL-WIDTH P LEFT jokes with H RIGHT who laughs and replies, both natural individual faces/eyes. Two roomy complete speechballoons in source order P then H, no words abbreviated.",
+          "dialogue": [
+            "Pansy: Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.",
+            "Hermione: Podría agradecerle la recomendación, pero no pienso decírselo. Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi."
+          ],
+          "sourceFragments": [
+            "Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.",
+            "Podría agradecerle la recomendación, pero no pienso decírselo.",
+            "Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi."
+          ]
+        },
+        {
+          "scene": "P smiles and adds same full service joke, H warm amused; wind in their hair and same terrace sunset behind. One readable full paragraph, no new people.",
+          "dialogue": [
+            "Pansy: Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini."
+          ],
+          "sourceFragments": [
+            "Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini."
+          ]
+        },
+        {
+          "scene": "H turns toward horizon and speaks with awe, BROWN irises/loose curls, full allthree sentences. P beside watches H rather than sea, same continuous balustrade perspective.",
+          "dialogue": [
+            "Hermione: Es hermoso. Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así. Desde aquí los colores parecen distintos."
+          ],
+          "sourceFragments": [
+            "Es hermoso.",
+            "Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así.",
+            "Desde aquí los colores parecen distintos."
+          ]
+        },
+        {
+          "scene": "P GREENeyes fixed kindly on H face, not water, replies after quiet pause. H notices and blushes softly, both fullclothed mediumshot.",
+          "dialogue": [
+            "Pansy: Estoy de acuerdo. La vista es hermosa."
+          ],
+          "sourceFragments": [
+            "Estoy de acuerdo.",
+            "La vista es hermosa."
+          ]
+        },
+        {
+          "scene": "H smiles shyly looking down toward garden, P softly amused does not tease. P gently touches H SINGLE CLEAR OVAL DIAMOND HALO on anatomical LEFT RINGFINGER with thumb; P own fingers COMPLETELY BARE. Her fine WHITEGOLD LEFT WRIST HRP letters glint as wrist turns. Medium hands plus faces, normal distinct fingers, no new ring or bracelet."
+        },
+        {
+          "scene": "H turns away from sea to stand facing P and intertwines their hands, gently touches tiny H/R/P initials. Show ONE clear diamondhalo on H LEFT ringfinger and ONE whitegoldHRPchain on P LEFT wrist, separate human hands/correctnormal joints. H front sapphire remains necklace not ring. Natural waist-up view, no added text."
+        },
+        {
+          "scene": "FULL-WIDTH H thoughtful with warm smile says entire source marriage remark, P calm attentive. Linked hands and left jewels visible without body emphasis, sea sunset and lemonpots behind.",
+          "dialogue": [
+            "Hermione: Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos."
+          ],
+          "sourceFragments": [
+            "Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 46\n\nEn la terraza, Pansy y Hermione bromean sobre Blaise y el atardecer. Sus joyas de promesa les hacen hablar con naturalidad de un futuro matrimonio.\nPansy: Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.\nHermione: Podría agradecerle la recomendación, pero no pienso decírselo. Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi.\nPansy: Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini.\nHermione: Es hermoso. Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así. Desde aquí los colores parecen distintos.\nPansy: Estoy de acuerdo. La vista es hermosa.\nHermione: Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas y seis turnos PDF615 íntegros: bromas de Blaise/servicios de villa, reacción al paisaje y frase sobre casarse, sin abreviar. Todas las colas y acentos comprobados. Terraza conserva dos columnas, buganvilia rosa, limoneros, banco de piedra y balaustrada; H/P únicas presentes con ropa IVORY/BLUE-WHITE y ojos castaño/verde. Anillo único claro de H y fino brazalete blanco H/R/P de P distintos, P sin anillo. Manos y proporciones naturales, fuente/escenario completos revisados con OCR de apoyo.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p046.png",
+      "sha256": "0b38a6164808b0be798f7707926ae2db01c4259e5c8e359d10bf6530ceb4cd0e",
+      "masterSha256": "fe476c005295f5011cc26644f9607ac9dd4e46b778b7460d1804a65bfa9c87da",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page45: Daphne y Blaise advierten discretamente la salida. Pansy guía a Hermione por los jardines de la villa hasta la terraza oeste, y Hermione contempla el Tirreno al atardecer. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for ONLY correct Daphne LONGLOOSEBLONDE/BLUEeyes/PEACHdress/thinpendant and Blaise DARKBROWN/OLIVE/shorttwists individualfaces in45departure. H/Pcurrentfaces/jewelry alsofolloworiginals. No extras or futureclothes.. Image 5 is reference for ONLY same sunnyvillawhitearches/lemonpergola/goldenorbtransform and exactH/Pfaces/leftjewels/traveloutfits. NEWWESTTERRACEsetting follows sourcepanels; no banquettablegoldlights relocated tosecludedterrace..\nPermanent face identities fromimages1/2: H BROWN irises/freckles/abundant chestnut curls, P narrowGREENalmond/angular chin/sleeksidepartBLACKchinbob/bareears. ONE clear oval diamondhalo on H anatomical LEFT RINGFINGER, frontal midnightBLUE oval sapphire/clearhalo necklace on fine WHITEPLATINUM chain. P fine WHITEGOLD LEFT WRIST H/R/P bracelet and gold/diamondbarrette aboveLEFTear, fingers plain without rings. Natural distinct hands and normal proportions. Exact full source dialogues/readable balloons and accents, speaker tails correct. Fully clothed everyday family and romance, no graphic details. CURRENT45-47: SAME travel outfits H opaque IVORY blouse/wide-long IVORYtrousers/creamflats/LOOSE abundant chestnut curls; P SKYBLUE collared LINENshirt/sleeveselbows/fullWHITEtrousers/whiteloafers/BLACKchinbob. Sunset ORANGE/PINK/VIOLET sea, fading warmgold. From45 leave banquet with floating GOLDORBS and walk through WHITE arches/stonepaths/rosemary/lavender/citrus/BLUEmosaicfountain/vinegallery/terraced stonegardens/olives/ironbenches to SMALL WEST TERRACE. Westterrace has TWO WHITE COLUMNS, PINK climbingbougainvillea onone, STONE BENCH, LEMONpots, PALE STONE BALUSTRADE and broad TYRRHENIANcoast view. ONLY H/P on westterrace, not diningtable/elf/baby/carriage, no floatinggoldorbs there (they stayfarbehindatdiningpergola). H/P NORMAL romance/briefkind kisses with same clothes and leftjewels. Robin voice on47 comes from FARAWAY diningroom, not physicallyhere. Do not add imagined future wedding or newspaper frames. Samecoastalarchitecture/physicalscale throughout.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 46» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. P beside H at SAME smaller WEST TERRACE balustrade, silently admires H profile while H watches orange/pink/violet sea sunset. Wind through chestnut curls/blackbob, exact IVORY/SKYBLUE-white arrival clothes/LEFT jewels. White columns/pinkbougainvillea/lemonpots/stonebench, no banquet furniture. Source STONE BENCH visible near one lemonpot along terrace side, same white column/pink vine, all modest human-scale masonry.\nPanel 2. FULL-WIDTH P LEFT jokes with H RIGHT who laughs and replies, both natural individual faces/eyes. Two roomy complete speechballoons in source order P then H, no words abbreviated. Balloon from Pansy. Print verbatim «Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.» Balloon from Hermione. Print verbatim «Podría agradecerle la recomendación, pero no pienso decírselo. Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi.»\nPanel 3. P smiles and adds same full service joke, H warm amused; wind in their hair and same terrace sunset behind. One readable full paragraph, no new people. Balloon from Pansy. Print verbatim «Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini.»\nPanel 4. H turns toward horizon and speaks with awe, BROWN irises/loose curls, full allthree sentences. P beside watches H rather than sea, same continuous balustrade perspective. Balloon from Hermione. Print verbatim «Es hermoso. Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así. Desde aquí los colores parecen distintos.»\nPanel 5. P GREENeyes fixed kindly on H face, not water, replies after quiet pause. H notices and blushes softly, both fullclothed mediumshot. Balloon from Pansy. Print verbatim «Estoy de acuerdo. La vista es hermosa.»\nPanel 6. H smiles shyly looking down toward garden, P softly amused does not tease. P gently touches H SINGLE CLEAR OVAL DIAMOND HALO on anatomical LEFT RINGFINGER with thumb; P own fingers COMPLETELY BARE. Her fine WHITEGOLD LEFT WRIST HRP letters glint as wrist turns. Medium hands plus faces, normal distinct fingers, no new ring or bracelet.\nPanel 7. H turns away from sea to stand facing P and intertwines their hands, gently touches tiny H/R/P initials. Show ONE clear diamondhalo on H LEFT ringfinger and ONE whitegoldHRPchain on P LEFT wrist, separate human hands/correctnormal joints. H front sapphire remains necklace not ring. Natural waist-up view, no added text.\nPanel 8. FULL-WIDTH H thoughtful with warm smile says entire source marriage remark, P calm attentive. Linked hands and left jewels visible without body emphasis, sea sunset and lemonpots behind. Balloon from Hermione. Print verbatim «Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p045.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p039.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p043_r3.png"
+          ],
+          "generatedMaster": "exec-d2e04e0f-2c30-4e42-a9d4-f46796f013fb.png"
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "image": "paginas/c13-p047.webp",
+      "sourcePdfPages": [
+        616,
+        617
+      ],
+      "summary": "Hermione se sorprende de haber dicho «cuando». Pansy responde imaginando la boda; Hermione la besa, y la voz de Robin llega desde el comedor mientras se pone el sol.",
+      "panels": [
+        {
+          "scene": "H notices own spontaneous words, looks up with surprised BROWN eyes and gently tightens linked hands, same ivory/curls/freckles/blue sapphire/LEFTclear diamond. P GREEN/blackbob/blue-white/LEFTHRP bracelet plain fingers calmly listens. Exact hesitant line including ellipsis.",
+          "dialogue": [
+            "Hermione: Quise decir…"
+          ],
+          "sourceFragments": [
+            "Quise decir…"
+          ]
+        },
+        {
+          "scene": "LARGE FULL-WIDTH P LEFT calmly responds matter-of-factly about parents, H RIGHT begins relaxing. Full three sentences with El Profeta complete, natural poses/quiet kind faces, no imagined newspaper/flashback.",
+          "dialogue": [
+            "Pansy: Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión."
+          ],
+          "sourceFragments": [
+            "Mis padres van a anunciarlo durante un mes entero en El Profeta.",
+            "Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión."
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH P looks down at joined hands and continues wedding joke, H smile grows, whole paragraph/wardrobe count/alliance/Blaise line complete. Same single ring/bracelet, no literal future wedding montage.",
+          "dialogue": [
+            "Pansy: Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite."
+          ],
+          "sourceFragments": [
+            "Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda.",
+            "Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite."
+          ]
+        },
+        {
+          "scene": "H smiles closer, P begins final playful line with ellipsis, eyes kind. Keep full short interrupted line only, no invented completion.",
+          "dialogue": [
+            "Pansy: Chiara convertirá la villa en…"
+          ],
+          "sourceFragments": [
+            "Chiara convertirá la villa en…"
+          ]
+        },
+        {
+          "scene": "Wide view of the two fully clothed women standing beside white stone balustrade. Hermione leans toward Pansy for ONE brief gentle CLOSED-MOUTH kiss, a simple ordinary romantic gesture. Hands remain naturally at upper arms, garments tidy and opaque. Full terrace, lemonpots and sea sunset clearly visible around them. Calm distant framing."
+        },
+        {
+          "scene": "Wide view: they pause after the brief kiss and smile toward the gardens. ONE small speech balloon from OFF-PANEL in direction of faraway diningroom carries baby Robin's call. Robin is NOT physically on terrace, voice only. No extra text or effects.",
+          "dialogue": [
+            "Robin (desde el comedor): ¡Ma-ma!"
+          ],
+          "sourceFragments": [
+            "¡Ma-ma!"
+          ]
+        },
+        {
+          "scene": "Medium view, faces briefly apart: H and P laugh warmly together hearing Robin. One comfortable side embrace, two normal arms per person and fingers clear, all clothing as references. Their linked hands show same one LEFT diamond H and LEFT HRP bracelet P with plain fingers. Sunset and stone terrace steady."
+        },
+        {
+          "scene": "FULL-WIDTH wide distant view of the same two fully clothed women sharing one more brief gentle CLOSED-MOUTH kiss beside white stone balustrade, quiet loving conclusion of the evening. Entire terrace environment around them: stonebench, lemonpots, one pinkbougainvillea whitecolumn, orange-pink-violet sky and sunreflection over Tyrrhenian. Small figures in broad coastal view, calm composition. No dialogue."
+        }
+      ],
+      "transcript": "Capítulo 13 · 47\n\nHermione se sorprende de haber dicho «cuando». Pansy responde imaginando la boda; Hermione la besa, y la voz de Robin llega desde el comedor mientras se pone el sol.\nHermione: Quise decir…\nPansy: Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión.\nPansy: Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite.\nPansy: Chiara convertirá la villa en…\nRobin (desde el comedor): ¡Ma-ma!",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas revisadas completas. Tras rechazo de la salida inicial, el segundo intento conserva los cinco turnos PDF616–617 y representa los besos breves en planos amplios, vestidos. Quise decir, los tres comentarios de Pansy sobre boda y ¡Ma-ma! íntegros; Robin solo se oye desde fuera de campo, no aparece en la terraza. El turno de El Profeta apunta a Pansy fuera del margen izquierdo mientras H escucha. Caras, ojos castaño/verde, ropa, manos, collar/anillo único H y brazalete blanco P continuos. Terraza/piedra/limoneros/buganvilia/atardecer coherentes. OCR y cotejo visual de texto y colas.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p047.png",
+      "sha256": "b9f63e3144b587fa3f823b7563a4e42f834fc21d444014e7fb5b10741f9a1a8f",
+      "masterSha256": "cb29c3029d83d306ab8f16fae2be7f3457fc236f205e05b4dd4d8e018316389c",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page46: En la terraza, Pansy y Hermione bromean sobre Blaise y el atardecer. Sus joyas de promesa les hacen hablar con naturalidad de un futuro matrimonio. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for ONLY correct Daphne LONGLOOSEBLONDE/BLUEeyes/PEACHdress/thinpendant and Blaise DARKBROWN/OLIVE/shorttwists individualfaces in45departure. H/Pcurrentfaces/jewelry alsofolloworiginals. No extras or futureclothes.. Image 5 is reference for ONLY same sunnyvillawhitearches/lemonpergola/goldenorbtransform and exactH/Pfaces/leftjewels/traveloutfits. NEWWESTTERRACEsetting follows sourcepanels; no banquettablegoldlights relocated tosecludedterrace..\nPermanent face identities fromimages1/2: H BROWN irises/freckles/abundant chestnut curls, P narrowGREENalmond/angular chin/sleeksidepartBLACKchinbob/bareears. ONE clear oval diamondhalo on H anatomical LEFT RINGFINGER, frontal midnightBLUE oval sapphire/clearhalo necklace on fine WHITEPLATINUM chain. P fine WHITEGOLD LEFT WRIST H/R/P bracelet and gold/diamondbarrette aboveLEFTear, fingers plain without rings. Natural distinct hands and normal proportions. Exact full source dialogues/readable balloons and accents, speaker tails correct. Fully clothed everyday family and romance, no graphic details. CURRENT45-47: SAME travel outfits H opaque IVORY blouse/wide-long IVORYtrousers/creamflats/LOOSE abundant chestnut curls; P SKYBLUE collared LINENshirt/sleeveselbows/fullWHITEtrousers/whiteloafers/BLACKchinbob. Sunset ORANGE/PINK/VIOLET sea, fading warmgold. From45 leave banquet with floating GOLDORBS and walk through WHITE arches/stonepaths/rosemary/lavender/citrus/BLUEmosaicfountain/vinegallery/terraced stonegardens/olives/ironbenches to SMALL WEST TERRACE. Westterrace has TWO WHITE COLUMNS, PINK climbingbougainvillea onone, STONE BENCH, LEMONpots, PALE STONE BALUSTRADE and broad TYRRHENIANcoast view. ONLY H/P on westterrace, not diningtable/elf/baby/carriage, no floatinggoldorbs there (they stayfarbehindatdiningpergola). H/P NORMAL romance/briefkind kisses with same clothes and leftjewels. Robin voice on47 comes from FARAWAY diningroom, not physicallyhere. Do not add imagined future wedding or newspaper frames. Samecoastalarchitecture/physicalscale throughout.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 47» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. H notices own spontaneous words, looks up with surprised BROWN eyes and gently tightens linked hands, same ivory/curls/freckles/blue sapphire/LEFTclear diamond. P GREEN/blackbob/blue-white/LEFTHRP bracelet plain fingers calmly listens. Exact hesitant line including ellipsis. Balloon from Hermione. Print verbatim «Quise decir…»\nPanel 2. LARGE FULL-WIDTH P LEFT calmly responds matter-of-factly about parents, H RIGHT begins relaxing. Full three sentences with El Profeta complete, natural poses/quiet kind faces, no imagined newspaper/flashback. Balloon from Pansy. Print verbatim «Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión.»\nPanel 3. FULL-WIDTH P looks down at joined hands and continues wedding joke, H smile grows, whole paragraph/wardrobe count/alliance/Blaise line complete. Same single ring/bracelet, no literal future wedding montage. Balloon from Pansy. Print verbatim «Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite.»\nPanel 4. H smiles closer, P begins final playful line with ellipsis, eyes kind. Keep full short interrupted line only, no invented completion. Balloon from Pansy. Print verbatim «Chiara convertirá la villa en…»\nPanel 5. H leans in for ONE ordinary brief affectionate kiss with P, both ENTIRELY CLOTHED as earlier, same terrace/balustrade/wind/sunset. Kind mediumshot, closed eyes, normal hands lightly around shoulders/waist, no body emphasis or elaborate physical details. No words.\nPanel 6. Wide two women pause together near balustrade and smile as ROBIN'S voice comes faintly from FARAWAY dining garden OFF-PANEL. ONE offpanel balloon with tail toward distant garden: baby not physically on terrace. No other voices or soundeffect text. Balloon from Robin (desde el comedor). Print verbatim «¡Ma-ma!»\nPanel 7. H/P laugh softly together at hearing Robin, normal friendly close embrace in original summer clothes, faces briefly apart to smile. Distinct H BROWN/P GREEN eyes, LEFT jewels, no drinkglasses/babies/extra guests on terrace, sunset lower.\nPanel 8. FULL-WIDTH calm affectionate kiss again, two women FULLY CLOTHED by WHITE stone balustrade, SEA/SKY orange-pink-violet and final sunreflection, lemonpot leaves/whitecolumn/pinkbougainvillea/stonebench stable. End of evening scene. No text; next48 is NEW MORNING on boat.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p046.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p039.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p043_r3.png"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create ONE complete EIGHT-PANEL Spanish romantic comic page,1024x1536 portrait, small header «Capítulo 13 · 47» top-left cream margin. Images1/2 permanent original H/P distinctive face identities. Image3 preceding approved46 EXACT current faces/loose chestnut curls-black chinbob/brown-green eyes, IVORY and SKYBLUE-WHITE modest linen outfits, unique LEFT promise jewelry, SAME terrace sea sunset. Image4 approved45 maps WEST terrace: TWOwhitecolumns, climbingPINKbougainvillea, pottedLEMONtrees, stoneBENCH and PALESTONE BALUSTRADE, sea/coast orange-pink-violet evening. Match painterly ink/colors and thin black rectangular borders/cream gutters. This page shows a tender conversation about future marriage and two ordinary very brief closed-mouth kisses in broad views, completely clothed. Keep both women in the exact opaque long blouses and full-length trousers/flat shoes from references, natural relaxed posture and simple normal gestures. H abundant LOOSE CHESTNUT CURLS/freckles/BROWN irises/IVORY blouse-trousers/frontoval midnightBLUEsapphire on WHITEPLATINUMchain/ONE clear oval diamondhalo LEFT RINGFINGER. P sleek sidepart BLACKchinbob/angular chin/narrowGREEN irises/BLUE linen collared shirt/fullWHITEtrousers/LEFT goldbarrette/fine WHITEGOLD LEFT HRPbracelet/plain fingers/bare ears. Normal distinct faces and arms, no added body details. Only H/P on terrace; baby Robin calls from diningroom far away but does not appear here. Keep ALL FIVE dialogue turns exact and unabridged with accents and correct tails, including final offpanel ¡Ma-ma!; no new words/labels/footer/watermark. Speaker names guide tails and aren't printed. Large clear balloons above faces, reading left-right/top-bottom.\nPanel1. H notices own spontaneous words, looks up with surprised BROWN eyes and gently tightens linked hands, same ivory/curls/freckles/blue sapphire/LEFTclear diamond. P GREEN/blackbob/blue-white/LEFTHRP bracelet plain fingers calmly listens. Exact hesitant line including ellipsis. Balloon from Hermione; speaker name not printed. Print verbatim «Quise decir…».\nPanel2. LARGE FULL-WIDTH P LEFT calmly responds matter-of-factly about parents, H RIGHT begins relaxing. Full three sentences with El Profeta complete, natural poses/quiet kind faces, no imagined newspaper/flashback. Balloon from Pansy; speaker name not printed. Print verbatim «Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión.».\nPanel3. FULL-WIDTH P looks down at joined hands and continues wedding joke, H smile grows, whole paragraph/wardrobe count/alliance/Blaise line complete. Same single ring/bracelet, no literal future wedding montage. Balloon from Pansy; speaker name not printed. Print verbatim «Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite.».\nPanel4. H smiles closer, P begins final playful line with ellipsis, eyes kind. Keep full short interrupted line only, no invented completion. Balloon from Pansy; speaker name not printed. Print verbatim «Chiara convertirá la villa en…».\nPanel5. Wide view of the two fully clothed women standing beside white stone balustrade. Hermione leans toward Pansy for ONE brief gentle CLOSED-MOUTH kiss, a simple ordinary romantic gesture. Hands remain naturally at upper arms, garments tidy and opaque. Full terrace, lemonpots and sea sunset clearly visible around them. Calm distant framing. \nPanel6. Wide view: they pause after the brief kiss and smile toward the gardens. ONE small speech balloon from OFF-PANEL in direction of faraway diningroom carries baby Robin's call. Robin is NOT physically on terrace, voice only. No extra text or effects. Balloon from Robin (desde el comedor); speaker name not printed. Print verbatim «¡Ma-ma!».\nPanel7. Medium view, faces briefly apart: H and P laugh warmly together hearing Robin. One comfortable side embrace, two normal arms per person and fingers clear, all clothing as references. Their linked hands show same one LEFT diamond H and LEFT HRP bracelet P with plain fingers. Sunset and stone terrace steady. \nPanel8. FULL-WIDTH wide distant view of the same two fully clothed women sharing one more brief gentle CLOSED-MOUTH kiss beside white stone balustrade, quiet loving conclusion of the evening. Entire terrace environment around them: stonebench, lemonpots, one pinkbougainvillea whitecolumn, orange-pink-violet sky and sunreflection over Tyrrhenian. Small figures in broad coastal view, calm composition. No dialogue. ",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d2e04e0f-2c30-4e42-a9d4-f46796f013fb.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8771298e-7be8-4ac5-9384-75a547f22cdf.png"
+          ],
+          "generatedMaster": "exec-2acbcc9e-0137-4811-9c83-738cb15d79a9.png"
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "image": "paginas/c13-p048.webp",
+      "sourcePdfPages": [
+        617,
+        618
+      ],
+      "summary": "A la mañana siguiente viajan rumbo a Positano en un ketch clásico Sangermani movido por magia. Los elfos manejan las velas; Hermione, Pansy y Robin descansan a la sombra de la proa con nuevos conjuntos de lino.",
+      "panels": [
+        {
+          "scene": "LARGE FULL-WIDTH establish ONE classic SANGERMANI KETCH sailing toward distant POSITANO in CALM MORNING Tyrrhenian sea. Beautiful coherent real boat: ONE deep NAVY BLUE exterior HULL, DARK VARNISHED WOOD topsides/deck structures, neat WHITE deckline accents, BRONZE hardware, TWO MASTS in realistic ketch configuration (TALLER MAINmast forward, SHORTER MIZZEN aft before helm), TWO main IVORY sails with believable rigging, human-scale modest cruising yacht. Not motorboat, no car/bowwarp. Wake small/soft, magic-driven graceful sailing. Coast tall pale mountains/houses beyond. Print exact source narration caption above boat without obscuring hull.",
+          "caption": "Era un ketch clásico de Sangermani, construido en madera oscura y brillante, con el casco exterior pintado de un azul profundo que contrastaba con las líneas blancas de la cubierta.",
+          "sourceFragments": [
+            "Era un ketch clásico de Sangermani, construido en madera oscura y brillante, con el casco exterior pintado de un azul profundo que contrastaba con las líneas blancas de la cubierta."
+          ]
+        },
+        {
+          "scene": "On SAME boat deck, FOUR ADULT HOUSE-ELF crew wearing TAUPE LINEN SHIRTS and small VISORS attend lines/rigging, barefoot. ONE at MAINMAST snaps fingers and ropes tighten to tilt same IVORY sail toward breeze, natural nautical geometry/secure fittings. No wands, not previous dining cream-gold tunics, no duplicate person."
+        },
+        {
+          "scene": "Another elf near STERN wood helm gestures and WOODEN WHEEL turns slightly by MAGIC without anyone touching. SAME navy hull/dark varnished wood/white accents/bronze fittings/TWOmastrig/calmsea, true boat scale, no extra wheel or random masts. No text."
+        },
+        {
+          "scene": "Side three-quarter view SAME coherent TWO-MAST KETCH passing along steep Italian coast, white and warm houses begin to resolve toward POSITANO. Ivory sails over navy hull, glossy darkwood/bronze highlights, small white wake. Bright BLUE morning sky, no sunset/goldenorbs/pergola or diningroom furniture. Same boat proportions as panel1."
+        },
+        {
+          "scene": "Behind BOW under SHADE of SAME IVORY sail, cream cushions secured on broad WOOD foredeck and wooden backrest/rail. P reclines comfortably with H seated close in front, H back resting against P chest, normal fullyclothed relaxed family pose, faces visible. NEW DAY CLOTHES: H OLIVE GREEN modest linen shirt/CREAM shorts/BLACK sunglasses/messy CHESTNUT BUN with loose strands; P SKYBLUE modest linen collared shirt/CREAM shorts/BLACK sunglasses/short sleek BLACKbob breeze. H necklace BLUEsapphire/platinum +ONELEFTdiamond, P fine WHITEGOLD LEFT HRP bracelet/LEFTbarrette and BARE fingers remain. No exposed chest emphasis, relaxed ordinary scene."
+        },
+        {
+          "scene": "HUMAN ROBIN sits safely on same nearby THICK PADDED CUSHION securely FIXED to deck under SAME sailshade, inside woodrail. NEW LIGHT COFFEE BROWN linen shirt/shorts with THIN WHITE STRIPES, soft little SANDALS, tiny BLACK SUNGLASSES on nose, chestnut curls/natural tiny hands and feet. GREEN eyes only if visible under glasses. He smiles and raises hand curiously at rigging/reflections in underside IVORY sail, smooth human skin, one baby only."
+        },
+        {
+          "scene": "EMPTY ZEPHYR stroller FOLDED and SECURED with straps beside WOODEN wall near H/P/Robin. Correct familiar compact strollerframe/material from earlier, not a bassinet or car. Robin stays on fixed cushion near mothers, never duplicate him inside folded stroller. Show boat's same shade and darkwood structure/bronze fittings, no text. Zephyr is the SAME familiar SAND/GOLD carriage with DARKBROWN handle/goldwheels, magically folded compactly; NOT generic dark umbrella stroller. Keep it EMPTY and secured."
+        },
+        {
+          "scene": "H in OLIVE shirt/CREAMshorts/messyBUN/BLACK sunglasses quietly takes small sip of COOL PALE PEACH beverage from one stemmed glass, relaxed back against P on secured cushions. P SKYBLUE/CREAM/BLACK sunglasses arm gently around H waist over fabric, plain family embrace, no body emphasis. Breeze in cuffs/hair, same fixed Robin cushion nearby, coast and rigging stable. No dialogue on48; P first line about Robin owning boat starts49."
+        }
+      ],
+      "transcript": "Capítulo 13 · 48\n\nA la mañana siguiente viajan rumbo a Positano en un ketch clásico Sangermani movido por magia. Los elfos manejan las velas; Hermione, Pansy y Robin descansan a la sombra de la proa con nuevos conjuntos de lino.\nNarración: Era un ketch clásico de Sangermani, construido en madera oscura y brillante, con el casco exterior pintado de un azul profundo que contrastaba con las líneas blancas de la cubierta.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas cotejadas con PDF617–618. Ketch Sangermani de dos mástiles, casco azul marino, madera barnizada, remates blancos/bronce y velas claras mantiene forma entre vistas; cuatro elfos adultos con lino taupe/viseras, maniobras mágicas sin motor. Cambio de mañana y ropa: H oliva/shorts crema/gafas y MOÑO rizado despeinado corregido; P azul/shorts crema/gafas/brazalete blanco sin anillo. Cuarta variante cambia la postura de la mano de P para eliminar por completo el anillo residual: todos sus dedos están desnudos. Robin humano con lino café de rayas finas blancas/sandalias/gafas sobre cojín fijo; Zephyr arena/oro vacío, plegado y asegurado. Recuadro Sangermani completo con acentos, sin diálogo adelantado. Revisión completa de proporciones, manos, joyas, fuente y OCR. Original y variantes conservados.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p048.png",
+      "sha256": "e0721a54eb5b21a8247b7481171ad9e94ef485f2ed90c77e6de96da6254e380e",
+      "masterSha256": "401040f64c3f714c3aa7cb32bbd30dac4bfe21bcc00ba5859d5236bce8e0db5b",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page47: Hermione se sorprende de haber dicho «cuando». Pansy responde imaginando la boda; Hermione la besa, y la voz de Robin llega desde el comedor mientras se pone el sol. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for ONLY recognizable Zephyr SAND/GOLD carriage shape/materials/hood/BROWNhandle/GOLDwheels, NOW EMPTY FOLDED and secured atboatwoodwall. HUMAN Robin now wears LIGHTBROWN/THINWHITEstripe linen/sandals/tinyblackglasses onownsecuredcushion. Do not copy oldclothes/upstairslocation or babyin foldedcarriage.. Image 5 is reference for ONLY original otherfamilyfaces ifseen, no sourceparentsonboat. NEWmorningboat/navywood/twomasts/taulinenELFvisors and all NEWoutfits in sourcepanels override olddiningchairs/clothes/food/glasses..\nPermanent face identities fromimages1/2: H BROWN irises/freckles/abundant chestnut curls, P narrowGREENalmond/angular chin/sleeksidepartBLACKchinbob/bareears. ONE clear oval diamondhalo on H anatomical LEFT RINGFINGER, frontal midnightBLUE oval sapphire/clearhalo necklace on fine WHITEPLATINUM chain. P fine WHITEGOLD LEFT WRIST H/R/P bracelet and gold/diamondbarrette aboveLEFTear, fingers plain without rings. Natural distinct hands and normal proportions. Exact full source dialogues/readable balloons and accents, speaker tails correct. Fully clothed everyday family and romance, no graphic details. NEW MORNING48 source617-618 timejump. ONE coherent CLASSIC SANGERMANI KETCH, NAVY exteriorhull/DARK VARNISHEDWOOD deckandstructures/WHITEtrim/BRONZEhardware, TWO MASTS:TALLMAINforward and SHORTMIZZENaft beforehelm/TWO IVORYsails/plausibleropesandwoodhelm/calmBLUEsea/smallWHITEwake, steepcoastapproachingPOSITANO. No motorboat/smoke, boatscaleconsistent acrossviews. FOUR ADULTELFcrew TAUPElinen shirts/smallVISORS/barefeet/magicgestures/no wands, NOTdininggoldtunics. NEW outfits H OLIVE GREEN opaque linen shirt/CREAM shorts/BLACK sunglasses, hair CHESTNUT MESSYBUN with loose strands; P keeps SKYBLUE linen collared shirt but now CREAM shorts/BLACK sunglasses/BLACKchinbob. Source does not specify P shirt color here, retained SKYBLUE for identity continuity. Permanent jewelry stays. ROBIN HUMAN chestnutcurls/GREENeyes ifvisible/tinyBLACKsunglasses, NEW LIGHT COFFEE BROWN LINENshirt-shorts/THINWHITEstripes/softSANDALS, securely fixed THICK PADDED CUSHION insideforedeckrail underivorysailshade near H/P on CREAM cushions. Zephyr EMPTY/FOLDED/SECURED atwoodwall: familiar SANDcarrycot/hood/DARKBROWNhandle/GOLDchassis-wheels gatheredcompactly; magicfoldingcarrycot only, no additionalchildinside. H/P supported safelyonwideforedeckbehindbow; quietfullyclothedrestpose andhandatwaist, simplekindness. H cold PALE PEACH drink in one stemmedglass, notpreviousdinnerwhitewinegoblets; adultglassoutofbabyreach. Positano onlydistantcoastnow, no dockarrival. Other companions canremainoffcamera; no parents added, no eventoutside source. Clearblue MORNING, no sunsets/goldenorbs/pergola/table/diningluggage.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Show an ordinary fully clothed school and family story.\nPlace the small black serif header «Capítulo 13 · 48» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. LARGE FULL-WIDTH establish ONE classic SANGERMANI KETCH sailing toward distant POSITANO in CALM MORNING Tyrrhenian sea. Beautiful coherent real boat: ONE deep NAVY BLUE exterior HULL, DARK VARNISHED WOOD topsides/deck structures, neat WHITE deckline accents, BRONZE hardware, TWO MASTS in realistic ketch configuration (TALLER MAINmast forward, SHORTER MIZZEN aft before helm), TWO main IVORY sails with believable rigging, human-scale modest cruising yacht. Not motorboat, no car/bowwarp. Wake small/soft, magic-driven graceful sailing. Coast tall pale mountains/houses beyond. Print exact source narration caption above boat without obscuring hull. Caption verbatim «Era un ketch clásico de Sangermani, construido en madera oscura y brillante, con el casco exterior pintado de un azul profundo que contrastaba con las líneas blancas de la cubierta.»\nPanel 2. On SAME boat deck, FOUR ADULT HOUSE-ELF crew wearing TAUPE LINEN SHIRTS and small VISORS attend lines/rigging, barefoot. ONE at MAINMAST snaps fingers and ropes tighten to tilt same IVORY sail toward breeze, natural nautical geometry/secure fittings. No wands, not previous dining cream-gold tunics, no duplicate person.\nPanel 3. Another elf near STERN wood helm gestures and WOODEN WHEEL turns slightly by MAGIC without anyone touching. SAME navy hull/dark varnished wood/white accents/bronze fittings/TWOmastrig/calmsea, true boat scale, no extra wheel or random masts. No text.\nPanel 4. Side three-quarter view SAME coherent TWO-MAST KETCH passing along steep Italian coast, white and warm houses begin to resolve toward POSITANO. Ivory sails over navy hull, glossy darkwood/bronze highlights, small white wake. Bright BLUE morning sky, no sunset/goldenorbs/pergola or diningroom furniture. Same boat proportions as panel1.\nPanel 5. Behind BOW under SHADE of SAME IVORY sail, cream cushions secured on broad WOOD foredeck and wooden backrest/rail. P reclines comfortably with H seated close in front, H back resting against P chest, normal fullyclothed relaxed family pose, faces visible. NEW DAY CLOTHES: H OLIVE GREEN modest linen shirt/CREAM shorts/BLACK sunglasses/messy CHESTNUT BUN with loose strands; P SKYBLUE modest linen collared shirt/CREAM shorts/BLACK sunglasses/short sleek BLACKbob breeze. H necklace BLUEsapphire/platinum +ONELEFTdiamond, P fine WHITEGOLD LEFT HRP bracelet/LEFTbarrette and BARE fingers remain. No exposed chest emphasis, relaxed ordinary scene.\nPanel 6. HUMAN ROBIN sits safely on same nearby THICK PADDED CUSHION securely FIXED to deck under SAME sailshade, inside woodrail. NEW LIGHT COFFEE BROWN linen shirt/shorts with THIN WHITE STRIPES, soft little SANDALS, tiny BLACK SUNGLASSES on nose, chestnut curls/natural tiny hands and feet. GREEN eyes only if visible under glasses. He smiles and raises hand curiously at rigging/reflections in underside IVORY sail, smooth human skin, one baby only.\nPanel 7. EMPTY ZEPHYR stroller FOLDED and SECURED with straps beside WOODEN wall near H/P/Robin. Correct familiar compact strollerframe/material from earlier, not a bassinet or car. Robin stays on fixed cushion near mothers, never duplicate him inside folded stroller. Show boat's same shade and darkwood structure/bronze fittings, no text. Zephyr is the SAME familiar SAND/GOLD carriage with DARKBROWN handle/goldwheels, magically folded compactly; NOT generic dark umbrella stroller. Keep it EMPTY and secured.\nPanel 8. H in OLIVE shirt/CREAMshorts/messyBUN/BLACK sunglasses quietly takes small sip of COOL PALE PEACH beverage from one stemmed glass, relaxed back against P on secured cushions. P SKYBLUE/CREAM/BLACK sunglasses arm gently around H waist over fabric, plain family embrace, no body emphasis. Breeze in cuffs/hair, same fixed Robin cushion nearby, coast and rigging stable. No dialogue on48; P first line about Robin owning boat starts49.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p047_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c13-p005.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p044_r2.png"
+          ],
+          "generatedMaster": "exec-d9d850ac-2b1d-4c47-9d7b-4e09866aa400.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Precise continuity correction of complete eight-panel Capítulo13 ·48 in IMAGE3, portrait1024x1536. Preserve all boat structure/rigging/ivorysails/NAVYhull/DARKWOOD/WHITEtrim/BRONZEhardware, all4taupevisorELFcrew, HUMAN babyRobin lightbrown-white stripe linen/sandals/blackglasses/fixedcushion, folded sandgold Zephyr, all faces/clothes/poses/hands and complete caption/header. Make ONLY TWO source corrections in panels5 (third-from-bottom LEFT H/P on cushions) and8 (BOTTOMRIGHT H/P close family view). (1) Hermione is OLIVE GREEN shirt/CREAMshorts/BLACKsunglasses/chestnut curls/blue sapphire. In BOTH appearances her hair must be gathered into a CLEARLY RECOGNIZABLE MESSY CHESTNUT CURLY BUN at upper BACK of head, loosening slightly in breeze with FEW curling strands around face/neck. NOT a full loose shoulder-length cascade. Keep HER hairline/curl color/face, glasses and necklace exactly, only gather bulk into messy BUN as source new morning. Pansy's short BLACK chinbob unchanged. (2) In panel5 PANSY'S LEFT HAND (BLUE shirt sleeve, WHITEGOLDbracelet) rests gently over Hermione OLIVE-covered waist. REMOVE THE INCORRECT DIAMOND FINGER RING from that PANSY hand, leaving natural PLAIN BARE FINGERS. Preserve Pansy fine WHITEGOLD LEFT H/R/P WRIST bracelet. Pansy has NO rings anywhere. HERMIONE alone has ONE clear oval diamondhalo on HER OWN anatomical LEFT RINGFINGER when that hand is visible; do not transfer it onto Pansy or add extra hands. Cropped/hidden hands stay hidden. Keep all body proportions, clothes, expressions, exact image3 palette and all other features unchanged. Images1/2 permanent faces only, do not copy old loose Hermione hairstyle or old clothes from them. All text exact: header «Capítulo 13 · 48» and original Sangermani caption, no added words/footer/watermark. ONLY Hermione messy BUN and removal of Pansy wrong ring.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d9d850ac-2b1d-4c47-9d7b-4e09866aa400.png"
+          ],
+          "generatedMaster": "exec-18bcb4b6-343f-4c6e-8c2d-e21ad6b2f82a.png"
+        },
+        {
+          "selected": false,
+          "prompt": "Tiny final jewelry cleanup, keep complete approved page48 exactly. IMAGE3 is full1024x1536 eight-panel Capítulo13 ·48. ONLY edit the small PANSY HAND in PANEL5 (left panel beneath two full-width boat views), lying diagonally on OLIVE-green fabric beside CREAM shorts. The hand belongs to BLUE-SHIRT Pansy and has a silver-tone WRIST BRACELET that MUST REMAIN. Coordinates approximately x235–345,y1180–1230 in image3. On that hand there is still a TINY WHITE GEM/DOT and METAL BAND at x273,y1208 on a finger. REMOVE THAT ENTIRE TINY GEM AND ALL METAL BAND from this ONE hand. Restore smooth uninterrupted natural SKIN across knuckle/finger, PLAIN FINGERS with NO white marks/jewelry. Keep finger contours, skin tone, nails, pose and WRIST BRACELET exactly unchanged. Pansy wears NO rings of any size. Do not merely shrink the ring or leave a white dot. Do not move it to another finger. DO NOT alter any other place on page: Hermione's own diamond ring if visible in final panel stays as is, Hermione MESSY CHESTNUT BUN stays, all faces/glasses/sapphire/clothes/poses/baby/crew/boat/hull/masts/sails/rigging/wood/sea/coast/foldedcarriage/caption/header stay identical. No added text or watermark. Just remove the tiny ring completely and fill its former pixels with matching bare skin on this Pansy hand.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-18bcb4b6-343f-4c6e-8c2d-e21ad6b2f82a.png"
+          ],
+          "generatedMaster": "exec-cca0524c-4b38-4abb-a898-dc7100950dac.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Edit the provided COMPLETE comic page48. Make ONE localized pose replacement in panel5, the LEFT couple panel above bottom row. Pansy is BLUEshirt behind OLIVEshirt Hermione. Replace Pansy's entire LEFT HAND and short adjoining forearm below the existing silver WRIST CHAIN with a newly drawn natural LEFT HAND in a slightly DIFFERENT relaxed pose on Hermione's clothed waist: fingers gently spread, thumb clearly separate, all five fingers realistic and smooth plain skin. Pansy's hand has ZERO finger accessories: every finger/knuckle is plain uninterrupted skin, no white dot, no metallic line, no stone or circular symbol. Keep the existing fine silver-tone LEFT WRIST CHAIN at same wrist, and same BLUE sleeve/arm origin; one arm and one hand only. This is a fresh drawing of that WHOLE small hand area, not merely reducing or polishing its tiny white finger ornament. The new hand should be clearly different enough in pose to remove the old ornament completely. All other pixels/features remain as close as possible: all panels/text/header/full Sangermani caption, all faces/glasses/Hermione MESSY CURLY BUN, OLIVE/BLUE linen clothes and cream shorts, blue sapphire, baby Robin striped linen/sandals/sunglasses, fixed cushion, folded sandgold carriage, four taupe elf crew, coherent navy wooden two-masted ketch/sails/rigging/bronze fittings/coast/sea/sky. Keep Hermione own jewelry in other panel unchanged. Same portrait1024x1536, no added words/watermark. Only replace Pansy's left hand with new naturally spread PLAIN FINGERS and preserve its wrist chain.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-cca0524c-4b38-4abb-a898-dc7100950dac.png"
+          ],
+          "generatedMaster": "exec-6665e2e3-4faf-4c9a-af97-4e00fb29373e.png"
+        }
+      ]
+    }
+  ]
+}
