@@ -146,3 +146,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 52 | 622–623 | Blaise defiende su aventura de capitán, pero Draco recuerda el rescate de Chiara. Pansy añade que pasó tres años lejos del timón, y el propio elfo de la tripulación remata la broma. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-49-52.json).
+
+## Páginas 53–56
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 53 | 623–624 | Llegan frente a la concurrida playa de Positano. La familia prefiere buscar un lugar donde los bebés puedan jugar tranquilos, y Hermione propone visitar el pueblo otro día. |
+| 54 | 624 | Blaise propone una cala de Li Galli y explica por qué es apropiada para los bebés. Todos aceptan el nuevo destino; Blaise recupera la gorra y se ofrece como capitán con Arianna en brazos. |
+| 55 | 625 | Blaise toma el timón y coloca su gorra de capitán en Arianna. Daphne pide al elfo que vigile el rumbo; Scorpius despierta y Draco lo acerca para acompañar a la capitana. |
+| 56 | 626 | Los bebés acompañan a sus padres en el timón. Astoria baja a cambiarse; Daphne se sienta con Hermione y Pansy mientras el velero gira hacia Li Galli y conversan sobre Amalfi y su clima. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-53-56.json).
