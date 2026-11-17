@@ -234,3 +234,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 84 | 650–651 | Blaise pide a Valentina que lo suelte e intenta presentar a sus acompañantes. Astoria se adelanta con un saludo y las hermanas dan su apellido: Visconti. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-81-84.json).
+
+## Páginas 85–88
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 85 | 651 | Daphne se presenta como pareja de Blaise y madre de Arianna. Astoria identifica a Draco y a Hermione mientras las hermanas Visconti descubren a los bebés. |
+| 86 | 652 | Valentina cuestiona las fechas de la relación de Blaise. Daphne protege la intimidad de Arianna y exige saber cómo se conocieron. |
+| 87 | 653 | Una llamada desde el yate agrava la incomodidad. Hermione anuncia la marcha y besa a Pansy antes de dejar la cala. |
+| 88 | 654 | Hermione deja a Robin con Pansy y se marcha al velero. Daphne entrega a Arianna a Blaise y sigue a Hermione. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-85-88.json).
