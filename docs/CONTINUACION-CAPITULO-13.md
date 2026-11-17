@@ -223,3 +223,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 80 | 647 | Las hermanas se acercan a la orilla mientras Pansy intenta encontrar una explicación. Draco y Astoria regresan a cubierta y descubren la llegada de Valentina y Allegra. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-77-80.json).
+
+## Páginas 81–84
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 81 | 648 | Draco baja deprisa mientras Astoria intenta alcanzarlo. Valentina descubre a Scorpius en brazos de Blaise y Allegra saluda a Pansy con un abrazo inesperado. |
+| 82 | 649 | Allegra recuerda su amistad con Pansy, pero Hermione pide una explicación. Pansy se aparta con cuidado mientras Draco llega a la orilla. |
+| 83 | 649–650 | Draco intenta intervenir y recibe a Scorpius. Al quedar Blaise con los brazos libres, Valentina aprovecha para saludarlo con un abrazo y besos en las mejillas. |
+| 84 | 650–651 | Blaise pide a Valentina que lo suelte e intenta presentar a sus acompañantes. Astoria se adelanta con un saludo y las hermanas dan su apellido: Visconti. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-81-84.json).

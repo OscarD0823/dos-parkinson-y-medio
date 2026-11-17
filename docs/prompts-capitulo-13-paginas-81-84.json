@@ -1,0 +1,448 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-17",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    81,
+    84
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 81,
+      "image": "paginas/c13-p081.webp",
+      "sourcePdfPages": [
+        648
+      ],
+      "summary": "Draco baja deprisa mientras Astoria intenta alcanzarlo. Valentina descubre a Scorpius en brazos de Blaise y Allegra saluda a Pansy con un abrazo inesperado.",
+      "panels": [
+        {
+          "scene": "D leavesfamilyNAVYketchrail andhurries towardWOODgangway, A EARTHscarf/TERRACOTTA-CREAMpareo followsseveralstepsbehind. DshirtLIGHTBLUE-WHITE stripes withTWOslightlymisalignedbuttons/placketfromhaste, sameCREAMshorts. A callsONEword/tailA, noinfantswiththem.",
+          "dialogue": [
+            "Astoria: Draco."
+          ],
+          "sourceFragments": [
+            "Draco."
+          ]
+        },
+        {
+          "scene": "D continuesfastDOWNstableWOODPLANKgangway towardLOWrockshore andanswersfullshortline, tailD. Abehindstilltryingkeepup, onlyONEeach/naturallegs/nohullintersection. SameGRAYBLUEeyes/PLATINUM vsDARKBROWNscarf.",
+          "dialogue": [
+            "Draco: Te explico después."
+          ],
+          "sourceFragments": [
+            "Te explico después."
+          ]
+        },
+        {
+          "scene": "ValentinaRED/DARKbun/WETstrands/GOLD RIGHTstack approaches B NAVYshirt onshore withordinaryfriendlyarmsopen intendinggreetinghug, thenstopsuponseeingHUMAN SCORPIUS PLATINUM/GRAYwrap AGAINSTBchest. DaphwithAriTURQnearB, noactualbodypress/sexyframing."
+        },
+        {
+          "scene": "MediumFACE-FOCUSED Vsmileturnsconfused, armsstopshortofB, sheasksONEexactsourcequestion. BholdsSsafeagainstNAVYfabric, babyfingersgraspcloth/mildcuriosity. SourcechildisSnotRobin, NOcaptainhat.",
+          "dialogue": [
+            "Valentina: ¿Eso es un bebé?"
+          ],
+          "sourceFragments": [
+            "¿Eso es un bebé?"
+          ]
+        },
+        {
+          "scene": "B looksdownbrieflyatSPLATINUMGRAYwrap andanswersONEshortword, cleartailBneverbaby/V. DaphBLUE/TURQcanbesideholdingAri, watchesquietly, adultcupoutsidechildreach.",
+          "dialogue": [
+            "Blaise: Sí."
+          ],
+          "sourceFragments": [
+            "Sí."
+          ]
+        },
+        {
+          "scene": "B looksbackatV, awkwardpauseandrepeatconfirmationinONEshortballoon. DaphturnsheadslowlytowardB, stillAriLAP/hipsecure, noclassprojectexplainedaloud. SstillB/navyshirt, noDhandoffyet.",
+          "dialogue": [
+            "Blaise: Es un bebé."
+          ],
+          "sourceFragments": [
+            "Es un bebé"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH ordinaryunexpectedgreeting: ALLEGRA LONGCHESTNUT/TERRACOTTA/waistchain/LEFTwristBARE stepsupandbrieflyhugs Pansy's SHOULDERS/neck, Pblackshirt opaquegetsafewwaterdroplets. PtakesONEfootbackforbalance/handsraisedawkwardlyatsides/plainfingers/LEFTHRPchain. HholdsRobinCREAM-NAVYcapnearbyquietwatching. ONEALLEGRAfullballooncontainsALLTHREEsource sentencesreadably, neverH.",
+          "dialogue": [
+            "Allegra: ¡No puedo creer que seas tú! Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?"
+          ],
+          "sourceFragments": [
+            "¡No puedo creer que seas tú!",
+            "Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?"
+          ]
+        },
+        {
+          "scene": "P BLACKbob-shirt slightlystiffinsideordinarygreeting, addressesAllegraONEword/tailP. Allegra handsstillPshoulders, naturalarms/peopleoneeach. H/Robincanbeoffcrop. Face/shoulderframe/sourceGREENP vsBROWNAllegra, noaddedtext.",
+          "dialogue": [
+            "Pansy: Allegra."
+          ],
+          "sourceFragments": [
+            "Allegra."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 81\n\nDraco baja deprisa mientras Astoria intenta alcanzarlo. Valentina descubre a Scorpius en brazos de Blaise y Allegra saluda a Pansy con un abrazo inesperado.\nAstoria: Draco.\nDraco: Te explico después.\nValentina: ¿Eso es un bebé?\nBlaise: Sí.\nBlaise: Es un bebé.\nAllegra: ¡No puedo creer que seas tú! Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?\nPansy: Allegra.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCRsin faltantes y7turnos íntegros/tildes/colas A-D-V-B-B-Allegra-P correctas. PortofinoTHREEsentences completos, Esunbebé confirmacionesseparadasSí/Esfuentes. R2restauraBLACKrectSUNGLASSESlowH7(enlugarroundwire) yP7/8(antesfaltaban), dejaBROWN H/GREENP visiblesarribalentes. Ampliaciones81V/Allegra confirmanDARKBROWNyaoriginales/nohubocambiodeiris; HRIGHThandplainen81-hands, LEFTconringpuedeestarfueraencuadre/noanillosduplicados. Pdedosplain/HRPleftwrist/BAREneck, blackshirtOPAQUEcongotas duranteabrazoordinaryAllegra/mascaraearhighlightnopiezaadicional. H-RCREAM/NAVYcapDUCKS/GREEN, Daph-AriTURQBLUE+ORANGEadultcup, B-SPLATINUMGRAY/GRAYBLUEcontraNAVYshirtfingerscloth, pielhumananotoys/miembrosnaturales. D-AhurrygangwaychildlessLIGHTbluewhiteSTRIPE-crema/earthscarf-terraCREAMpareo, adult4elfssiguenGONE. SNOhandoffaDantes83, barcosyseatingphysicalcoherent.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p081.png",
+      "sha256": "e5f0945c48ae25d3bfeda3251f030de083be33e12c931bd5b622f8b3ed623e75",
+      "masterSha256": "15b864a7fd5220c887511a7b1753a04dac88d5e7ff27989862c9360e2d3dc7d3",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately precedingAPPROVED80R2 faces/currentoutfits/D+Areturnchildless/ONELEFT Hring/RIGHTplain/newSISTERS eyesDARKBROWN. Current648-651scene controls D/Awalking/2misbuttons andbabytransferonly83source650, notoldholders.. Image 4 is reference for Approved78R2 FACES of ValentinaDARKbun/tanned/DARKBROWN/RED/GoldRIGHTstack andAllegraLONGCHESTNUT/DARKBROWN/TERRACOTTA/waistchain. New79-80state: VNOglasses (onseat), ALEFTbangleOFF, goldwaistchainSTAYS, ALLordinarybeachsocial/noeroticposes. H/PfaceIDs fromfirstrefs retained, noeyeswap.. Image 5 is reference for Approved79R2 sourceafterwater/clothingprops/WHITEpartyYACHT lowSTERNplatform/shortstairs/Italianflag andNAVYclassicfurledketch SEPARATE. ALL4elvesgone, VgoldRIGHTbanglesstay/glassesoff, Awaistchainstay/LEFTbangleoff. New648-651sourcehandlesgreetings/childtransfer..\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/bareears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/bareears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 81» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. D leavesfamilyNAVYketchrail andhurries towardWOODgangway, A EARTHscarf/TERRACOTTA-CREAMpareo followsseveralstepsbehind. DshirtLIGHTBLUE-WHITE stripes withTWOslightlymisalignedbuttons/placketfromhaste, sameCREAMshorts. A callsONEword/tailA, noinfantswiththem. Balloon from Astoria. Print verbatim «Draco.»\nPanel 2. D continuesfastDOWNstableWOODPLANKgangway towardLOWrockshore andanswersfullshortline, tailD. Abehindstilltryingkeepup, onlyONEeach/naturallegs/nohullintersection. SameGRAYBLUEeyes/PLATINUM vsDARKBROWNscarf. Balloon from Draco. Print verbatim «Te explico después.»\nPanel 3. ValentinaRED/DARKbun/WETstrands/GOLD RIGHTstack approaches B NAVYshirt onshore withordinaryfriendlyarmsopen intendinggreetinghug, thenstopsuponseeingHUMAN SCORPIUS PLATINUM/GRAYwrap AGAINSTBchest. DaphwithAriTURQnearB, noactualbodypress/sexyframing.\nPanel 4. MediumFACE-FOCUSED Vsmileturnsconfused, armsstopshortofB, sheasksONEexactsourcequestion. BholdsSsafeagainstNAVYfabric, babyfingersgraspcloth/mildcuriosity. SourcechildisSnotRobin, NOcaptainhat. Balloon from Valentina. Print verbatim «¿Eso es un bebé?»\nPanel 5. B looksdownbrieflyatSPLATINUMGRAYwrap andanswersONEshortword, cleartailBneverbaby/V. DaphBLUE/TURQcanbesideholdingAri, watchesquietly, adultcupoutsidechildreach. Balloon from Blaise. Print verbatim «Sí.»\nPanel 6. B looksbackatV, awkwardpauseandrepeatconfirmationinONEshortballoon. DaphturnsheadslowlytowardB, stillAriLAP/hipsecure, noclassprojectexplainedaloud. SstillB/navyshirt, noDhandoffyet. Balloon from Blaise. Print verbatim «Es un bebé.»\nPanel 7. FULL-WIDTH ordinaryunexpectedgreeting: ALLEGRA LONGCHESTNUT/TERRACOTTA/waistchain/LEFTwristBARE stepsupandbrieflyhugs Pansy's SHOULDERS/neck, Pblackshirt opaquegetsafewwaterdroplets. PtakesONEfootbackforbalance/handsraisedawkwardlyatsides/plainfingers/LEFTHRPchain. HholdsRobinCREAM-NAVYcapnearbyquietwatching. ONEALLEGRAfullballooncontainsALLTHREEsource sentencesreadably, neverH. Balloon from Allegra. Print verbatim «¡No puedo creer que seas tú! Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?»\nPanel 8. P BLACKbob-shirt slightlystiffinsideordinarygreeting, addressesAllegraONEword/tailP. Allegra handsstillPshoulders, naturalarms/peopleoneeach. H/Robincanbeoffcrop. Face/shoulderframe/sourceGREENP vsBROWNAllegra, noaddedtext. Balloon from Pansy. Print verbatim «Allegra.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p080_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p078_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p079_r2.png"
+          ],
+          "generatedMaster": "exec-6412ed3c-c0f1-4e3b-9ceb-ad4c0b3db3de.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct ONLY the CURRENT SUNGLASSES of HERMIONE and PANSY in the LAST ROW of this EXACT complete8-panel comic page81:\nPANEL7(bottomLEFT): Hermione is CHESTNUT MESSY-BUN/CREAMtowel/OLIVE/bluechestpendant holdingROBIN/NAVYcap at farLEFT. Replace her incorrect ROUND CLEAR WIRE eyeglasses with her usual RECTANGULAR BLACK SUNGLASSES, lowered onNOSETIP so BROWN eyes remain visible ABOVE lenses. Match Blaise's BLACKsunglass style elsewhere onthissamepage.\nPANEL7 and PANEL8(bottomRIGHT): Pansy is SHORT BLACK CHIN-BOB woman in OPEN BLACKSHIRT. Restore her missing RECTANGULAR BLACK SUNGLASSES, lowered onNOSETIP leaving her GREEN eyes visible ABOVE darklenses and surpriseexpressionunchanged. Naturalblacktemples overears, her LEFT goldbarrette unchanged.\nNothing else changes. Keep all EYE COLORS exactly: Valentina/Allegra alreadyDARKBROWN confirmed, H BROWN/P GREEN/R GREEN/Daph-Ari BLUE/D-A STEELGRAYBLUE. Keep all faces/hair/ears/fivefingers/arms/jewelry(HONELEFT ring only/RIGHTplain; Pplainfingers/LEFTHRPbracelet/BAREneck-ears)/clothes/wraps/hats/babycarriers/poses/boats/water/8panels/header«Capítulo13·81» and ALL7fullSpanishturns/accents/tails/PortofinoTHREEsentences completelyunchanged. Same1024x1536crop, no new words or accessories.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6412ed3c-c0f1-4e3b-9ceb-ad4c0b3db3de.png"
+          ],
+          "generatedMaster": "exec-06ba058c-b128-4c11-9478-c05c69bbf3a0.png"
+        }
+      ]
+    },
+    {
+      "page": 82,
+      "image": "paginas/c13-p082.webp",
+      "sourcePdfPages": [
+        649
+      ],
+      "summary": "Allegra recuerda su amistad con Pansy, pero Hermione pide una explicación. Pansy se aparta con cuidado mientras Draco llega a la orilla.",
+      "panels": [
+        {
+          "scene": "Allegra LONGWETCHESTNUT/DARKBROWN/TERRACOTTA loosenshugjustenoughtolookatPbutkeepshandsbehindPneck. Ordinaryoverfriendlyreunion/face-focused, nobodyemphasis. AllegraONEfullballoon/tailAllegra, PshortBLACKbob/BLACKshirt/greenbehindblackglasses.",
+          "dialogue": [
+            "Allegra: Sigues exactamente igual."
+          ],
+          "sourceFragments": [
+            "Sigues exactamente igual."
+          ]
+        },
+        {
+          "scene": "P gentlytakesAllegra's TWOwrists andbeginstores herhandsfromPneck, naturalonearmperwrist/nofingerclones. Pplainfingers/LEFTfineWHITEGOLDHRP, AllegraLEFTbangleOFF/goldwaistchain. ONEPballoonfullsourcewordscorrectESTÁStilde.",
+          "dialogue": [
+            "Pansy: Y tú estás toda mojada."
+          ],
+          "sourceFragments": [
+            "Y tú estas toda mojada."
+          ]
+        },
+        {
+          "scene": "Allegra smilesandanswersONEcompleteordinarybanterline, mediumFACE/shoulderportraitonly; TERRACOTTAstraps/longCHESTNUT/DARKBROWN, nosexualvisual/detail. Pblackshirtsidecanvisible, noadultbodyfocus.",
+          "dialogue": [
+            "Allegra: No es la primera vez que me ves mojada."
+          ],
+          "sourceFragments": [
+            "No es la primera vez que me ves mojada."
+          ]
+        },
+        {
+          "scene": "H chestnutBUN/CREAMtowel/OLIVE/BLACKglasses holdsRobinCREAMwrap/NAVYcap/DUCKS/GREENsecurechest andasksexactcalmquestion, ONEfullHballoon. ONELEFTdiamondhandvisibleonwrap, RIGHTsupportunderwrap/outcrop. Originalfreckles/BLUEnecklaceONLY, noangerdeformation.",
+          "dialogue": [
+            "Hermione: ¿En qué circunstancias viste mojada a Pansy?"
+          ],
+          "sourceFragments": [
+            "¿En qué circunstancias viste mojada a Pansy?"
+          ]
+        },
+        {
+          "scene": "Pimmediatelytakesonepolite stepBACKfromAllegra, removeslastwrist gentlyandcreatescleardistance. Allegra finallynoticesHwithRobin, looksfromchildtoHface. THREEwomen/ONEbabyatmostinshot, nochildhandover/noextraAllegra. Noquote."
+        },
+        {
+          "scene": "P turnsface towardHtointerveneONEincomplete-sourceaddresswithELLIPSIS; HcontinuessteadylookatAllegra, stillRobinsecure/NAVYcap. TailclearlyPshortBOB, notH/child.",
+          "dialogue": [
+            "Pansy: Hermione…"
+          ],
+          "sourceFragments": [
+            "Hermione"
+          ]
+        },
+        {
+          "scene": "H maintainscalmfirmexpression andrespondsONEfullshortsourcequote, tailH. Allegraopensmouthbutnoinventedspeech, Pkeepdistance. RhumanchestnutGREENunderNAVYcap/creamwrap, sourceleftjewelswithoutduplication.",
+          "dialogue": [
+            "Hermione: Quiero escucharla."
+          ],
+          "sourceFragments": [
+            "Quiero escucharla."
+          ]
+        },
+        {
+          "scene": "D nowARRIVESatLOWrockshore besideB NAVYshirtwhoSTILLholdsSCORPIUSGRAYwrap, abouttointerruptnextpage. DPLATINUM/LIGHTBLUE-WHITESTRIPE/CREAMshorts/2slightlyoffbuttons. DaphwithAriTURQwatchoveradultORANGEcup amusedquietly, Acanstillbeonfarthergangway. Noelves, noaddedwords."
+        }
+      ],
+      "transcript": "Capítulo 13 · 82\n\nAllegra recuerda su amistad con Pansy, pero Hermione pide una explicación. Pansy se aparta con cuidado mientras Draco llega a la orilla.\nAllegra: Sigues exactamente igual.\nPansy: Y tú estás toda mojada.\nAllegra: No es la primera vez que me ves mojada.\nHermione: ¿En qué circunstancias viste mojada a Pansy?\nPansy: Hermione…\nHermione: Quiero escucharla.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR/6réplicas íntegros,tildesESTÁS ypreguntaHliteral, ellipsisPtipográficatrespuntos equivalente fuenteunicode, orden/tailsAllegra-P-Allegra-H-P-H correctos. R3quitaPRINTTEALdelpareoDaph8: PLAINCREAMestable, traje+wrapAriTURQUOISEintactos. HBLACKrectsunglasses/BUN/BROWN/BLUEnecklaceONLY, ONELEFTanularenmanoCHILDwrap4/5/7, RIGHTsupportplainbajowrap, brazosnaturales. PBLACKbob/BLACKrectglassesLOWnose/GREEN/OPAQUEblackshirt/LEFTHRP-noRings/BAREneck. AllegraLONGWETCHESTNUT/DARKBROWN/TERRACOTTA/waistchain/LEFTbangleOFF; pecasfinasartistaspresentes81/82noafirmadasPDF, distintaHporpelo-yropa. Muñecasliberadas2/clearstandingdistance5, no contactoexplícito,6turnoscompletos. RhumanoGREEN/CREAMwrap/NAVYcapDUCKSHsigue; DaphAriTURQBLUE+ownorangecup; BSTILLScorpiusPLATINUMGRAY/navyshirt8 yDarrivaEMPTYhands. BoatswhiteItalianflag/navyWOODfurled/cala/luz coherentes/all4elfsGONE.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p082.png",
+      "sha256": "db37372faf66b813df23d49dd92b5bfb22c28de40d2aced911ab875031ec566d",
+      "masterSha256": "314a05ab45fcf56eae9e8175347f1c5e3cab4ab86f3aade05f3d0e676552095d",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page81: Draco baja deprisa mientras Astoria intenta alcanzarlo. Valentina descubre a Scorpius en brazos de Blaise y Allegra saluda a Pansy con un abrazo inesperado. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved80R2 HsingleLEFT(lower)ring/RIGHTplain/currentfamilycarriers/eyeIDs andD-Areturnclothes. CurrentP-Allegra greetinganddistance changespreservetheirfaces/currentoutfits.. Image 5 is reference for PRIVATE hands-onlyjewelry reference: H ONELEFT RING-finger clearhalo diamond/RIGHTplain/barewrists; P fingersALLplain/LEFTWHITEGOLD HRPchainONLY/NECKBARE. No labels/layout/photorealismcopied..\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/bareears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/bareears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 82» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Allegra LONGWETCHESTNUT/DARKBROWN/TERRACOTTA loosenshugjustenoughtolookatPbutkeepshandsbehindPneck. Ordinaryoverfriendlyreunion/face-focused, nobodyemphasis. AllegraONEfullballoon/tailAllegra, PshortBLACKbob/BLACKshirt/greenbehindblackglasses. Balloon from Allegra. Print verbatim «Sigues exactamente igual.»\nPanel 2. P gentlytakesAllegra's TWOwrists andbeginstores herhandsfromPneck, naturalonearmperwrist/nofingerclones. Pplainfingers/LEFTfineWHITEGOLDHRP, AllegraLEFTbangleOFF/goldwaistchain. ONEPballoonfullsourcewordscorrectESTÁStilde. Balloon from Pansy. Print verbatim «Y tú estás toda mojada.»\nPanel 3. Allegra smilesandanswersONEcompleteordinarybanterline, mediumFACE/shoulderportraitonly; TERRACOTTAstraps/longCHESTNUT/DARKBROWN, nosexualvisual/detail. Pblackshirtsidecanvisible, noadultbodyfocus. Balloon from Allegra. Print verbatim «No es la primera vez que me ves mojada.»\nPanel 4. H chestnutBUN/CREAMtowel/OLIVE/BLACKglasses holdsRobinCREAMwrap/NAVYcap/DUCKS/GREENsecurechest andasksexactcalmquestion, ONEfullHballoon. ONELEFTdiamondhandvisibleonwrap, RIGHTsupportunderwrap/outcrop. Originalfreckles/BLUEnecklaceONLY, noangerdeformation. Balloon from Hermione. Print verbatim «¿En qué circunstancias viste mojada a Pansy?»\nPanel 5. Pimmediatelytakesonepolite stepBACKfromAllegra, removeslastwrist gentlyandcreatescleardistance. Allegra finallynoticesHwithRobin, looksfromchildtoHface. THREEwomen/ONEbabyatmostinshot, nochildhandover/noextraAllegra. Noquote.\nPanel 6. P turnsface towardHtointerveneONEincomplete-sourceaddresswithELLIPSIS; HcontinuessteadylookatAllegra, stillRobinsecure/NAVYcap. TailclearlyPshortBOB, notH/child. Balloon from Pansy. Print verbatim «Hermione…»\nPanel 7. H maintainscalmfirmexpression andrespondsONEfullshortsourcequote, tailH. Allegraopensmouthbutnoinventedspeech, Pkeepdistance. RhumanchestnutGREENunderNAVYcap/creamwrap, sourceleftjewelswithoutduplication. Balloon from Hermione. Print verbatim «Quiero escucharla.»\nPanel 8. D nowARRIVESatLOWrockshore besideB NAVYshirtwhoSTILLholdsSCORPIUSGRAYwrap, abouttointerruptnextpage. DPLATINUM/LIGHTBLUE-WHITESTRIPE/CREAMshorts/2slightlyoffbuttons. DaphwithAriTURQwatchoveradultORANGEcup amusedquietly, Acanstillbeonfarthergangway. Noelves, noaddedwords.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p081_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p080_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. One complete EIGHT-panel Spanish comic page82 continuing the approved family story. Portrait1024x1536, fineink/painterlycolor. Ordinary mildly awkward conversation after meeting friends while swimming. Camera focuses on faces/shoulders and natural handgestures, no body-focused framing. Image1 previous81R2 fixes faces/clothes/blackSUNGLASSES; image2 correctfamilyfaces/leftHring/currentoutfits; image3 onlyleftwrist/fingerjewelry, no labels/stylecopied.\nHeader topcream «Capítulo 13 · 82», thinblackpanelborders/creamgutters, readableexactSpanishballoons withallaccents. Onlyquotedwords/header printed, nofooter/watermark/newtext.\nHERMIONE H chestnutMESSYBUN/freckles/BROWNeyes/BLACKrectangularSUNGLASSES LOWnose/OLIVE suit coveredbyCREAMshouldertowel/BLUEsapphireONLYnecklace/ONELEFT RINGfinger diamond, RIGHTplain/barewrists. HholdsHUMAN ROBIN chestnutGREEN/CREAMwrap/NAVYcaptainhatGOLDanchorBRIMUP/BLUE DUCKshorts inallhershots, nohandover.\nPANSY P shortBLACKCHINBOB/angularGREENeyes/BLACKrectangularSUNGLASSES LOWnose/LEFTgoldbarrette/OPAQUE OPEN BLACK LINEN SHIRT over blackswimsuit/PLAINfingers/LEFTfineWHITEGOLD HRP BRACELET ONLY/BAREneck-ears.\nALLEGRA longWETCHESTNUT/DARK WALNUT BROWN eyes/softangularface/TERRACOTTA swimsuit shoulderstraps/fineGOLDwaistchainbelowcrop/LEFTbangleOFF. Ordinaryface-focused greeting, allclothesopaque, nootherphysicalintimacy.\nDraco platinumGRAYBLUE/lightBLUE-WHITESTRIPELINENshirt/CREAMshorts arrivesONLYlastpanel, emptyhands. Blaise DARKskin/shortblacktwists/NAVYLINENshirt/BLACKsunglassesLOWnose stillholdsHUMAN SCORPIUS PLATINUMGRAY/GRAYwrap untilnextpagehandover. DaphneLONG BLONDE/BLUE/TURQ-CREAMpareo stillARIGOLDENBLUE/TURQwrap+ownorangeadultcup, farfrombabyhands.\nSameLOWsmoothrockshore/TURQUOISEcalmcove, classicNAVYWOOD2mastfamilyketch ALLsailsFURLED/woodropegangway, SEPARATE WHITEpartyMOTORYACHT/ItalianGREEN-WHITE-REDflag far. ALL4elvesgone/noelfpictured.\nPanels1-8 exactorderedstory:\n1 Mediumshoulder-up P andAllegra. AllegraloosensfriendlygreetinghugbuthandsstillatPshoulders, says «Sigues exactamente igual.» TailAllegra.\n2 P gentlylowersAllegra's TWO wrists fromPshoulders, ONEP handpereachwrist/fournaturalhandstotal/twoarmsperwoman. Calmordinaryposture. P says «Y tú estás toda mojada.» TailP. NaturalwetstrandsofAllegrahair, opaqueclothes.\n3 CloseAllegraface/shouldersonly, matter-of-factplayfulreplyaboutswimming, no body detail. DARKBROWNiris. Allegra «No es la primera vez que me ves mojada.»\n4 H BUN/CREAMtowel holdsRobinCREAM/NAVYcap secure andasks withcalmraisedbrow «¿En qué circunstancias viste mojada a Pansy?» TailHnotbaby, LEFTone-ringhandcansecurewrap/RIGHTunderwrap-outcrop.\n5 P politelystepsbackfromAllegraandcreatescleardistance. AllegrafinallynoticesH/Robin, looksfromchildtoH. Pfreehands/HstillRobin, noquote or extra person.\n6 P turns towardH, begins «Hermione…» SinglePballoon/ellipsis, BLACKbob-sunglasses distinctfromHbun.\n7 H steadystareatAllegraandONEshortreply «Quiero escucharla.» HstillRobin/NAVYcap. Allegrahasnofurtherquote, Pkeepsdistance.\n8 Widequietcutaway: D nowarrivesatLOWrockshore besideB, whostillHOLDS SCORPIUS PLATINUM/GRAYwrap/navyshirt. Demptyhands/lightstripedshirt/creamshorts/2misalignedbuttons. DaphnearbyholdsAriTURQ/bluegoldencurls andlooksfromaboveheradultcup amusedquietly. No new speech.",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p081_r2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p080_r2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-fc467196-7d33-4604-9ef9-203b7a8bfeee.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct ONE FABRIC PATTERN ONLY on this EXACT complete8-panel comic page82. In LAST PANEL8, DAPHNE is LONG BLONDE woman at FAR RIGHT holding HUMAN ARIANNA. Her WAIST PAREO is supposed to be PLAIN PALE CREAM linen, as on previouspages. Remove ONLY the unwanted TURQUOISE LEAF/FLORAL PRINT from the CREAM PAREO around her waist at bottom-right(approximatelyx860..1012,y1450..1525). Fill those printed motifs with natural PLAIN CREAM fabric, preserve knot/folds/weave/shadows. KEEP Daphne's TURQUOISE SWIMSUIT and Arianna's TURQUOISE wrap/swimsuit completelyunchanged, don'trecoloranyotherblueobject. Every otherpixel/panel/face/eyecolor/hair/glasses/hand/jewel/body/infant/holder/pose/boat/flag/cove staysunchanged. Preserve all6completeSpanishturns/accents/balloontails/8panelborders/header«Capítulo13·82»/1024x1536crop. No other correction or new words.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-fc467196-7d33-4604-9ef9-203b7a8bfeee.png"
+          ],
+          "generatedMaster": "exec-721b6f57-ff12-44cb-b2d7-5342c0283470.png"
+        }
+      ]
+    },
+    {
+      "page": 83,
+      "image": "paginas/c13-p083.webp",
+      "sourcePdfPages": [
+        649,
+        650
+      ],
+      "summary": "Draco intenta intervenir y recibe a Scorpius. Al quedar Blaise con los brazos libres, Valentina aprovecha para saludarlo con un abrazo y besos en las mejillas.",
+      "panels": [
+        {
+          "scene": "D stepsbesideBwhoSTILLholdsHUMAN SCORPIUSPLATINUMGRAYwrap, greetssisterswithbriefnod/ONEfullTWO-nameballoon. VREDatBside/AllegraTERRAcandistantnearP, alloneeach. TailDnotB/V.",
+          "dialogue": [
+            "Draco: Valentina. Allegra."
+          ],
+          "sourceFragments": [
+            "Valentina. Allegra."
+          ]
+        },
+        {
+          "scene": "V looksfromDplatinumhair/facetoSPLATINUMGRAYinfant inBnavyshirtarm, recallrecognitionbrowsbrieflypuzzled. ONEVballoonfullquestion, face/shoulder/correctBROWNirises.",
+          "dialogue": [
+            "Valentina: Draco, ¿cierto?"
+          ],
+          "sourceFragments": [
+            "Draco, ¿cierto?"
+          ]
+        },
+        {
+          "scene": "D looksatVandanswersONEshortword. DracoSTEELGRAYBLUE/platinum/stripedshirtmisbuttonedgently, emptyarmstill, BkeepsS. TailD, nochangeinfantcarrier.",
+          "dialogue": [
+            "Draco: Sí."
+          ],
+          "sourceFragments": [
+            "Sí."
+          ]
+        },
+        {
+          "scene": "VpointsONEfinger towardSPLATINUMGRAYinBforearm, asksONEshortsourcequestion/tailV. Ordinaryfamilyconversation, noinfantspeaker/cup/hat. VgoldRIGHTstack/RED preserved.",
+          "dialogue": [
+            "Valentina: ¿Es tuyo?"
+          ],
+          "sourceFragments": [
+            "¿Es tuyo?"
+          ]
+        },
+        {
+          "scene": "Clearcareful SOURCE650 TRANSFER B→DRACO of the ONE HUMAN SCORPIUS, GRAYwrap/PLATINUMtuft/GRAYBLUEeyes. DreceivesagainstLIGHTSTRIPEDshirt andsupportssecurely, SmatchesDface/hair/fingersgraspopenlinencollar. Dfullballoon«Es mi hijo.», tailD. EndBarmsempty, nottwoSbabies.",
+          "dialogue": [
+            "Draco: Es mi hijo."
+          ],
+          "sourceFragments": [
+            "Es mi hijo."
+          ]
+        },
+        {
+          "scene": "B NAVYshirt andDholdingSexchangebriefrealisationlook: BnowFREEarms, VstepscloseandgivesordinarygreetingHUGaroundBshoulders, Bstiffhandsoutsides/comicawkwardface. DmildapologeticgrimaceSsafe, nootheradultbodyemphasis/noarousedfaces."
+        },
+        {
+          "scene": "VgentlyholdsBfaceandgivesordinaryquickgreeting CHEEKkiss(asourcecheekgreeting, notmouthkiss), faces/shoulderportrait/REDstraps/Bnavyshirt. Bsurprised/still. ONEVballoonwithBOTHfullsource sentences,everyword. GoldRIGHTbanglesstay/otherwristsplain. Pose clarity: Blaise keeps his NOSE pointing toward camera while Valentina kisses the OUTSIDE of his SIDE CHEEK near EAR; mouths face different directions, no lips-to-lips contact.",
+          "dialogue": [
+            "Valentina: Mírate. Sigues igual de guapo."
+          ],
+          "sourceFragments": [
+            "Mírate",
+            "Sigues igual de guapo."
+          ]
+        },
+        {
+          "scene": "BtriespolitebackstepbutVoverfriendlyhugcontinuessource, oneBballoonwithincompleteaddressELLIPSIS. Faces/shoulders/gentlebodiesnothingexplicit. D&Sstayoffcrop, H-R/Daph-Ari/Pfreepositionsunchangedelsewhere.",
+          "dialogue": [
+            "Blaise: Valentina, yo…"
+          ],
+          "sourceFragments": [
+            "Valentina, yo"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 83\n\nDraco intenta intervenir y recibe a Scorpius. Al quedar Blaise con los brazos libres, Valentina aprovecha para saludarlo con un abrazo y besos en las mejillas.\nDraco: Valentina. Allegra.\nValentina: Draco, ¿cierto?\nDraco: Sí.\nValentina: ¿Es tuyo?\nDraco: Es mi hijo.\nValentina: Mírate. Sigues igual de guapo.\nBlaise: Valentina, yo…",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR/7réplicasD-V-D-V-D-V-B íntegras/tildes/colas correctas: Valentina.Allegra/Dracocierto/Sí/Estuyo/Esmihijo/Mírate.Siguesigualdeguapo/Valentinayo..., sinomitircláusulas. BholdsONE HUMANSPLATINUMGRAY1/2/4, Drecibe5contralightBLUE-WHITESTRIPEcollar (handtinycloth) yholds6; BFREEarms6-8, noScorpiusclonado. VRED/DARKbun/WALNUTBROWN/GOLD RIGHTstack/sourcehugordinary,7lipsONBsideCHEEKnearEARnotmouthkiss/Bfacefrontawkward,8ongoinggreetingBsourceellipsis. R2reemplazaSOLOcloseWHITEboat-railingbackground2/3/5/6 porLOWPALErockshore-TURQUOISESEA, ref82; mantieneWHITEpartyYACHTDISTANT/ITALIANflag1 yrestoforegroundintacto. DGRAYBLUEplatinum/creamshorts2buttonsquirk,Bnavyshirt-blackglassesLOW,Daph/H/P/otrosniñosfueraencuadre conportadoresprevios. Noelfsgone, nopeluches/partesextra/newtext.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p083.png",
+      "sha256": "c3e641b1892943d759b0af698393602a700b410d5fa6d6cfbf9873c8c2f0f722",
+      "masterSha256": "4f74de2e82c6c7e0c89720f91d02ab8f4e3c1e635f55df60f43de39072ea2b1c",
+      "ocrMissingCandidates": [
+        "mirate",
+        "sigues",
+        "igual",
+        "guapo"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page82: Allegra recuerda su amistad con Pansy, pero Hermione pide una explicación. Pansy se aparta con cuidado mientras Draco llega a la orilla. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved80R2 DRACOPLATINUM/GRAYBLUE/LIGHTBLUE-WHITE stripedLINEN/CREAMshorts andAoutfit. Source650 transfersSCORPIUS fromB TO D in83panel5ONLY, keepclothes/biologicalfamilyfaces.. Image 5 is reference for Approved78R2 FACES of ValentinaDARKbun/tanned/DARKBROWN/RED/GoldRIGHTstack andAllegraLONGCHESTNUT/DARKBROWN/TERRACOTTA/waistchain. New79-80state: VNOglasses (onseat), ALEFTbangleOFF, goldwaistchainSTAYS, ALLordinarybeachsocial/noeroticposes. H/PfaceIDs fromfirstrefs retained, noeyeswap..\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/bareears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/bareears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 83» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. D stepsbesideBwhoSTILLholdsHUMAN SCORPIUSPLATINUMGRAYwrap, greetssisterswithbriefnod/ONEfullTWO-nameballoon. VREDatBside/AllegraTERRAcandistantnearP, alloneeach. TailDnotB/V. Balloon from Draco. Print verbatim «Valentina. Allegra.»\nPanel 2. V looksfromDplatinumhair/facetoSPLATINUMGRAYinfant inBnavyshirtarm, recallrecognitionbrowsbrieflypuzzled. ONEVballoonfullquestion, face/shoulder/correctBROWNirises. Balloon from Valentina. Print verbatim «Draco, ¿cierto?»\nPanel 3. D looksatVandanswersONEshortword. DracoSTEELGRAYBLUE/platinum/stripedshirtmisbuttonedgently, emptyarmstill, BkeepsS. TailD, nochangeinfantcarrier. Balloon from Draco. Print verbatim «Sí.»\nPanel 4. VpointsONEfinger towardSPLATINUMGRAYinBforearm, asksONEshortsourcequestion/tailV. Ordinaryfamilyconversation, noinfantspeaker/cup/hat. VgoldRIGHTstack/RED preserved. Balloon from Valentina. Print verbatim «¿Es tuyo?»\nPanel 5. Clearcareful SOURCE650 TRANSFER B→DRACO of the ONE HUMAN SCORPIUS, GRAYwrap/PLATINUMtuft/GRAYBLUEeyes. DreceivesagainstLIGHTSTRIPEDshirt andsupportssecurely, SmatchesDface/hair/fingersgraspopenlinencollar. Dfullballoon«Es mi hijo.», tailD. EndBarmsempty, nottwoSbabies. Balloon from Draco. Print verbatim «Es mi hijo.»\nPanel 6. B NAVYshirt andDholdingSexchangebriefrealisationlook: BnowFREEarms, VstepscloseandgivesordinarygreetingHUGaroundBshoulders, Bstiffhandsoutsides/comicawkwardface. DmildapologeticgrimaceSsafe, nootheradultbodyemphasis/noarousedfaces.\nPanel 7. VgentlyholdsBfaceandgivesordinaryquickgreeting CHEEKkiss(asourcecheekgreeting, notmouthkiss), faces/shoulderportrait/REDstraps/Bnavyshirt. Bsurprised/still. ONEVballoonwithBOTHfullsource sentences,everyword. GoldRIGHTbanglesstay/otherwristsplain. Pose clarity: Blaise keeps his NOSE pointing toward camera while Valentina kisses the OUTSIDE of his SIDE CHEEK near EAR; mouths face different directions, no lips-to-lips contact. Balloon from Valentina. Print verbatim «Mírate. Sigues igual de guapo.»\nPanel 8. BtriespolitebackstepbutVoverfriendlyhugcontinuessource, oneBballoonwithincompleteaddressELLIPSIS. Faces/shoulders/gentlebodiesnothingexplicit. D&Sstayoffcrop, H-R/Daph-Ari/Pfreepositionsunchangedelsewhere. Balloon from Blaise. Print verbatim «Valentina, yo…»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p082_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p080_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p078_r2.png"
+          ],
+          "generatedMaster": "exec-2c5a280e-6bdb-4ac5-b972-ea11521d9ed4.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Make a BACKGROUND-ONLY continuity correction on this EXACT complete8-panel comic page83 IMAGE1. IMAGE2 supports the LOWROCKSHORE/calmTURQUOISEcove setting where this conversation occurs.\nIn PANELS2,3,5,6 ONLY, replace the CLOSE WHITE BOAT STRUCTURE/window/stainlessrailing scenery immediately behind the characters with LOW PALE NATURAL SHORE ROCKS and CALM TURQUOISE SEA likeimage2. The whole family and visiting sisters are standing on ROCKSHORE, samepositions/camera, with boat fartheraway. No close yachtdeck rail/hull directlytouching their backs in these four panels. Keep the WHITE PARTY MOTOR YACHT DISTANT in panel1 exactlyasis, withItalianGREEN-WHITE-REDflag; classic NAVYWOODfamilyketchstayselsewhereanchored, no newboataddedinthechangedpatches.\nDo NOT alter ANY foreground face/skin/eye/hair/glasses/hand/anatomy/body/clothing/jewel/infant/holder/pose/cheekkiss. Especially BholdsSCORPIUSPLATINUMGRAYpanels1/2/4, DreceivesONEchild5andholds6,Bfree6-8; VRED/DARKbun/DARKBROWN/GOLDRIGHTstack/cheekkissonBsidecheeknearEAR7, Bnavyshirt/lowglasses/shorttwists,DlightBLUE-WHITESTRIPEshirt/CREAMshorts unchanged.\nPreserve all8panels/creamgutters/header«Capítulo13·83»/ALL7exactSpanishturns/accents/punctuation/balloons/tails/1024x1536crop. No other editing or newwords/people/objects.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2c5a280e-6bdb-4ac5-b972-ea11521d9ed4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p082_r3.png"
+          ],
+          "generatedMaster": "exec-c0101461-6b81-42fd-9435-a3a4fd7cb011.png"
+        }
+      ]
+    },
+    {
+      "page": 84,
+      "image": "paginas/c13-p084.webp",
+      "sourcePdfPages": [
+        650,
+        651
+      ],
+      "summary": "Blaise pide a Valentina que lo suelte e intenta presentar a sus acompañantes. Astoria se adelanta con un saludo y las hermanas dan su apellido: Visconti.",
+      "panels": [
+        {
+          "scene": "Daph BLONDE/BLUE/TURQ-PLAINCREAMpareo(no print) holdsAriTURQonhip/arm andLOWERSherOWNadultORANGEmimosa, findsB'seyeswithquietserenestare. BstopslookingforrescueamidV'sgreetinghug. Naturalclothedsocialreaction, notmenacing. DwithSoffcrop/H-Runchanged."
+        },
+        {
+          "scene": "B NAVYshirt/BLACKglasses/BAREHEAD putsBOTHhandslightlyonVshoulders andgentlycreatesdistance, ONEcompleteTWO-sentenceballoon, exactsource. VRED/DARKbun/BROWN/goldRIGHTstack/ordinarybeachhug, nophysicalharm/arousal.",
+          "dialogue": [
+            "Blaise: Valentina. Tienes que soltarme."
+          ],
+          "sourceFragments": [
+            "Valentina",
+            "Tienes que soltarme."
+          ]
+        },
+        {
+          "scene": "V looksupwithfriendlysmile andanswersONEfullsentence/tailV. Bstillpoliteattempttorelease, mediumfaces/shoulders only. GOLD RIGHTbangles/noVglasses/LEFTwristbare.",
+          "dialogue": [
+            "Valentina: Acabo de encontrarte después de un año."
+          ],
+          "sourceFragments": [
+            "Acabo de encontrarte después de un año."
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Bfinallycreatesclearstandingdistance andrespondsFULL TWO sentences inONEreadableballoonwithallwords/accents, Vlistens. ShowBnavyshirt/lowBLACKglasses/sourcefamilylowrock/cove. D&Ssafebysideoroffscreen, no Bbabyagain.",
+          "dialogue": [
+            "Blaise: Y yo estoy encantado de que continúes con vida. Pero hay varias personas a las que todavía no conoces."
+          ],
+          "sourceFragments": [
+            "Y yo estoy encantado de que continúes con vida",
+            "Pero hay varias personas a las que todavía no conoces."
+          ]
+        },
+        {
+          "scene": "ASTORIA arrivesbesideDRACO whoHOLDSScorpiusPLATINUMGRAYagainstlightstripedshirt andintroduceshernameONEsourceballoon. A DARKBROWN/STEELGRAYBLUE/EARTHscarf/TERRACOTTA/CREAMearthPAREO, freehands/unbrandednocup. TailA, noadditionalSoy/words.",
+          "dialogue": [
+            "Astoria: Astoria Greengrass."
+          ],
+          "sourceFragments": [
+            "Astoria Greengrass"
+          ]
+        },
+        {
+          "scene": "AstepsnearDaphandextendsONEpolitehandtowardV, asksONEsourcequestion, smilecourteous/grayblueeyes. DaphholdsAriandHEROWNorangeadultcupstill, HholdsR/Pfree/Bfree/DholdsS elsewhere. NoAllegra-as-Aclone.",
+          "dialogue": [
+            "Astoria: ¿Y ustedes son?"
+          ],
+          "sourceFragments": [
+            "¿Y ustedes son?"
+          ]
+        },
+        {
+          "scene": "VfirstglancesBbrieflydispleasedthenpolitelyacceptsAhandshake. VRED/DARKbun/DARKBROWN/GOLDRIGHTbangles vsAearthSCARF/DARKBROWNGRAYBLUE/TERRACOTTA-CREAMpareo facesdistinct. V ONEfullTWO-sentencenameintro, gestureswithfreeLEFTplainhandtowardALLEGRA LONGCHESTNUT/TERRACOTTA/waistchain nowstandingapartfromP. Naturalhandshake2armsperwoman, noaddedrings.",
+          "dialogue": [
+            "Valentina: Valentina Visconti. Ella es mi hermana menor, Allegra."
+          ],
+          "sourceFragments": [
+            "Valentina Visconti. Ella es mi hermana menor, Allegra."
+          ]
+        },
+        {
+          "scene": "QuietDaphreactiontotheSURNAMEjustheard, BLUEeyeslookfirstVthenAllegra, stillAriTURQsafeagainsthipandadultcupfreehand. NoquoteYET(shewill sayViscontinextpage85source651). AllfourELVESremainGONE, familyboats/cala/flags/daylightunchanged."
+        }
+      ],
+      "transcript": "Capítulo 13 · 84\n\nBlaise pide a Valentina que lo suelte e intenta presentar a sus acompañantes. Astoria se adelanta con un saludo y las hermanas dan su apellido: Visconti.\nBlaise: Valentina. Tienes que soltarme.\nValentina: Acabo de encontrarte después de un año.\nBlaise: Y yo estoy encantado de que continúes con vida. Pero hay varias personas a las que todavía no conoces.\nAstoria: Astoria Greengrass.\nAstoria: ¿Y ustedes son?\nValentina: Valentina Visconti. Ella es mi hermana menor, Allegra.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR/6turnos completos/tildes/colasB-V-B-A-A-V:Valentina.Tienesquesoltarme/Acabodeencontrarte/Yyoestoy...Perohayvariaspersonas.../AstoriaGreengrass/¿Yustedes son?/ValentinaVisconti.EllaesmihermanamenorAllegra. R2B1sigueRÍGIDO conmanosownside(fueraencuadre), quitaabrazowaistrecíprocoajenoaltexto. R2quitaGOLDstackdelWRISTB2(darkNAVYcuff/plain), conservaGOLD RIGHTV3/7. AstoriaEARTHscarf/TERRACOTTAbuttonfront/CREAMearthPAREO irisSTEELGRAYBLUE5/6/7restaurado(matches80), V/AllegraDARKBROWN/Daph-AriBLUE/DGRAYBLUEintactos. DholdsONE HUMANScorpiusPLATINUMGRAY5/othersoffcrop,Bfree/H-Roffcrop,DaphARI-TURQ+ORANGEadultcup, Pfreeelsewhere. DaphPAREOPLAINCREAM, AllegraGOLDwaistchainconfirmedmacro/bangleLEFTnotreturned, handshakeonly2naturalhandsoneVoneA. All4elvesGONE,navyWOODfamilyketch/WHITEpartyItalianflag/LOWrockshoreestables. FinalDaphreactionwordless:starts85Visconti, notspokenhere. No otherregresiones/texto.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p084.png",
+      "sha256": "1cc627500106209f24578b4aa0148fd2a9f8a1502b865e40bb8f61279d0391d2",
+      "masterSha256": "a9533172f1462f5c384f390ffddc1db2ac1aab53127da638de8c3667d50762b9",
+      "ocrMissingCandidates": [
+        "greengrass"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page83: Draco intenta intervenir y recibe a Scorpius. Al quedar Blaise con los brazos libres, Valentina aprovecha para saludarlo con un abrazo y besos en las mejillas. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved80R2 ASTORIA LONGDARKBROWN/STEELGRAYBLUE/EARTHscarf/TERRACOTTAbutton-front/CREAMearthPAREO, D PLATINUM/lightSTRIPEcrema/grayblue. Newafter83 DholdsS/BFREE, HstillR/DaphstillAri. AhasFREEhandsandNO adultcupyetuntilLATER651(85).. Image 5 is reference for Approved78R2 FACES of ValentinaDARKbun/tanned/DARKBROWN/RED/GoldRIGHTstack andAllegraLONGCHESTNUT/DARKBROWN/TERRACOTTA/waistchain. New79-80state: VNOglasses (onseat), ALEFTbangleOFF, goldwaistchainSTAYS, ALLordinarybeachsocial/noeroticposes. H/PfaceIDs fromfirstrefs retained, noeyeswap..\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/PLAIN PALECREAMpareo(NO floral print)/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/BARENECK-ears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/BARENECK-ears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 84» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Daph BLONDE/BLUE/TURQ-PLAINCREAMpareo(no print) holdsAriTURQonhip/arm andLOWERSherOWNadultORANGEmimosa, findsB'seyeswithquietserenestare. BstopslookingforrescueamidV'sgreetinghug. Naturalclothedsocialreaction, notmenacing. DwithSoffcrop/H-Runchanged.\nPanel 2. B NAVYshirt/BLACKglasses/BAREHEAD putsBOTHhandslightlyonVshoulders andgentlycreatesdistance, ONEcompleteTWO-sentenceballoon, exactsource. VRED/DARKbun/BROWN/goldRIGHTstack/ordinarybeachhug, nophysicalharm/arousal. Balloon from Blaise. Print verbatim «Valentina. Tienes que soltarme.»\nPanel 3. V looksupwithfriendlysmile andanswersONEfullsentence/tailV. Bstillpoliteattempttorelease, mediumfaces/shoulders only. GOLD RIGHTbangles/noVglasses/LEFTwristbare. Balloon from Valentina. Print verbatim «Acabo de encontrarte después de un año.»\nPanel 4. FULL-WIDTH Bfinallycreatesclearstandingdistance andrespondsFULL TWO sentences inONEreadableballoonwithallwords/accents, Vlistens. ShowBnavyshirt/lowBLACKglasses/sourcefamilylowrock/cove. D&Ssafebysideoroffscreen, no Bbabyagain. Balloon from Blaise. Print verbatim «Y yo estoy encantado de que continúes con vida. Pero hay varias personas a las que todavía no conoces.»\nPanel 5. ASTORIA arrivesbesideDRACO whoHOLDSScorpiusPLATINUMGRAYagainstlightstripedshirt andintroduceshernameONEsourceballoon. A DARKBROWN/STEELGRAYBLUE/EARTHscarf/TERRACOTTA/CREAMearthPAREO, freehands/unbrandednocup. TailA, noadditionalSoy/words. Balloon from Astoria. Print verbatim «Astoria Greengrass.»\nPanel 6. AstepsnearDaphandextendsONEpolitehandtowardV, asksONEsourcequestion, smilecourteous/grayblueeyes. DaphholdsAriandHEROWNorangeadultcupstill, HholdsR/Pfree/Bfree/DholdsS elsewhere. NoAllegra-as-Aclone. Balloon from Astoria. Print verbatim «¿Y ustedes son?»\nPanel 7. VfirstglancesBbrieflydispleasedthenpolitelyacceptsAhandshake. VRED/DARKbun/DARKBROWN/GOLDRIGHTbangles vsAearthSCARF/DARKBROWNGRAYBLUE/TERRACOTTA-CREAMpareo facesdistinct. V ONEfullTWO-sentencenameintro, gestureswithfreeLEFTplainhandtowardALLEGRA LONGCHESTNUT/TERRACOTTA/waistchain nowstandingapartfromP. Naturalhandshake2armsperwoman, noaddedrings. Balloon from Valentina. Print verbatim «Valentina Visconti. Ella es mi hermana menor, Allegra.»\nPanel 8. QuietDaphreactiontotheSURNAMEjustheard, BLUEeyeslookfirstVthenAllegra, stillAriTURQsafeagainsthipandadultcupfreehand. NoquoteYET(shewill sayViscontinextpage85source651). AllfourELVESremainGONE, familyboats/cala/flags/daylightunchanged.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p083_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p080_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p078_r2.png"
+          ],
+          "generatedMaster": "exec-90a833cc-d6cf-46bc-87df-7b0fa1cceb8c.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct exactly THREE local consistency issues on this EXACT8-panel comic page84 IMAGE1. IMAGE2 supports only ASTORIA's established STEEL GRAY-BLUE eyes/earthscarf.\n1 PANEL1(topLEFT): Blaise must remain stiff/awkward duringValentina'soverfriendlygreeting. REMOVE Blaise's visible dark FOREARM/HAND wrapped around Valentina's WAIST atbottom ofpanel1. Repose his arms DOWN beside HIS OWN BODY, handsatownside/mayoutsidecrop, as intext; do notreciprocatewaisthug. KEEP Valentina's two arms aroundhisSHOULDERS/neck andallfaces/positions/DaphneholdingAri&owncup unchanged. NaturalTWOarmsperadult, no extra hand.\n2 PANEL2(topRIGHT): GOLDstackbangles were wrongly put on BLAISE'S WRIST. Remove ALLgoldbangles fromBlaise/darkskin-NAVYshirt man'sforearm/wrist, restore natural DARKBROWNskin/NAVYcuff. Both HISwrists plain. These bangles belong ONLYtoVALENTINA'S RIGHTWRIST; KEEP her correctstack inpanels3and7 andelsewherevisible. Valentina's wrists are outsidecropinpanel2, don't inventanotherarm/jewel. Preservehis hands gentlyonherSHOULDERS andexactballoon.\n3 ASTORIA ONLY, woman in EARTH-PATTERNED HEADSCARF/TERRACOTTA BUTTON-FRONT garment, visible PANELS5,6,7: change ONLY her iris COLOR frombrown to STEEL GRAY-BLUE (#6e8799), matchingherimage2face. Blackpupils/catchlights/eyeshape/expressionunchanged. Do NOTchangeValentina/AllegraDARKBROWNirises orDaphne/AriBLUE, DracoSTEELGRAYBLUE; no otherfacecolorchange.\nEverything else is unchanged:all8panels/header«Capítulo13·84»/ALL6completeSpanishturns/accents/readingorder/balloontails; allfaces/hair/glasses/otherjewels/AllegraGOLDwaistchain-andNOLEFTbangle/VRIGHTgoldstack; DholdsONE HUMANSPLATINUMGRAYwrap/BFREEarms/HROBINoffcrop/DaphARI paleTURQ; PLAINCREAMpareoDaph/CREAMearthpareoA/OPAQUEclothes/anatomy/boats/Italianflag/rockshore/1024x1536crop. No newtext orpeople.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-90a833cc-d6cf-46bc-87df-7b0fa1cceb8c.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p080_r2.png"
+          ],
+          "generatedMaster": "exec-ae220e44-a948-4803-bc8e-76ffe659888e.png"
+        }
+      ]
+    }
+  ]
+}
