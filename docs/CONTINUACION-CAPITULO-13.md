@@ -179,3 +179,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 64 | 633–634 | Robin salpica a Pansy y Hermione durante el juego en el agua. Desde las rocas, Daphne y Arianna observan el primer clavado de Blaise. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-61-64.json).
+
+## Páginas 65–68
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 65 | 635 | Arianna aprende a aplaudir. Astoria y Scorpius observan el clavado de Draco, que después acepta la carrera de Blaise. |
+| 66 | 635–636 | Draco gana la carrera. Las bromas se convierten en salpicaduras que también divierten a Arianna y Scorpius, antes de que la familia se turne para seguir nadando. |
+| 67 | 636 | Hermione recibe a Arianna mientras Blaise y Daphne compiten por el mejor clavado. La gran salpicadura de Blaise contrasta con la entrada limpia de Daphne. |
+| 68 | 637 | Los amigos dan por ganadora a Daphne. Arianna recibe a sus padres entre risas, mientras Blaise defiende la elegancia de su salto. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-65-68.json).
