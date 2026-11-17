@@ -157,3 +157,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 56 | 626 | Los bebés acompañan a sus padres en el timón. Astoria baja a cambiarse; Daphne se sienta con Hermione y Pansy mientras el velero gira hacia Li Galli y conversan sobre Amalfi y su clima. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-53-56.json).
+
+## Páginas 57–60
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 57 | 627 | Daphne y Pansy bromean sobre las razones para volver a Amalfi. Astoria busca su bolso azul y acaba pidiendo ayuda a su hermana; Robin se quita las gafas y descubre la sombra de su mano. |
+| 58 | 628 | Robin juega con la sombra de su mano y Hermione le ayuda a recuperarla. Hermione dice que ama a Pansy, comparten un beso y Blaise bromea desde el timón. |
+| 59 | 629–630 | Pansy responde a Blaise y le dice a Hermione que también la ama. El velero se acerca a la propiedad familiar de Li Galli y después rodea una isla menor para entrar en una cala tranquila. |
+| 60 | 630–631 | Los elfos recogen las velas y Gnocchi coloca las protecciones mágicas alrededor del velero y la cala. Una pasarela de madera y cuerdas se extiende hasta la roca, mientras todos siguen a bordo. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-57-60.json).
