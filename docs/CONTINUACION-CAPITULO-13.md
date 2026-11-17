@@ -190,3 +190,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 68 | 637 | Los amigos dan por ganadora a Daphne. Arianna recibe a sus padres entre risas, mientras Blaise defiende la elegancia de su salto. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-65-68.json).
+
+## Páginas 69–72
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 69 | 637–638 | Draco recibe a Robin mientras Astoria acompaña a Scorpius. Los primos juegan a salpicar y descubren que también pueden mojarse a sí mismos. |
+| 70 | 638–639 | Pansy persigue a Hermione entre las rocas. La carrera termina con cosquillas, risas y una salpicadura que deja a ambas a mano. |
+| 71 | 639–640 | Blaise presta su sombrero de capitán a Robin. Más tarde, Hermione y Pansy comparan los juegos de los primos e intercambian a Robin y Scorpius con cuidado. |
+| 72 | 640 | Daphne y Blaise cuidan a los tres bebés mientras Hermione y Pansy nadan hasta la sombra de las rocas. Allí continúan sus bromas y comparten un momento de cariño. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-69-72.json).

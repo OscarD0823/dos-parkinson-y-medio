@@ -1,0 +1,376 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-17",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    69,
+    72
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 69,
+      "image": "paginas/c13-p069.webp",
+      "sourcePdfPages": [
+        637,
+        638
+      ],
+      "summary": "Draco recibe a Robin mientras Astoria acompaña a Scorpius. Los primos juegan a salpicar y descubren que también pueden mojarse a sí mismos.",
+      "panels": [
+        {
+          "scene": "Clear quiet source-authorized handover P BLACKbob/BLACKswimsuit passes ROBIN chestnutGREEN/BLUE DUCKS to DRACO PLATINUM/CREAMshorts seated LOWSMOOTHROCK. A TERRACOTTA/earthscarf comes besidehim carrying Scorpius platinumGRAY. Each tiny body has one new supporting holder, no repeated baby/no text."
+        },
+        {
+          "scene": "Draco safely supports Robin bywaist onlowrock, baby leans to pat surface with BOTH hands. Astoria nexttoD supports Scorpius lap, he watches his cousin. Robin GREEN/duckshorts vsScorpiusGRAYBLUE/gray shorts, human skin/limbs."
+        },
+        {
+          "scene": "Scorpius imitates first little water pat, only few drops. Robin laughs and kicks, tilting a bitforward but Draco already securely holdswaist. A supportsS, no faces immersed/no extra arms."
+        },
+        {
+          "scene": "Draco gently brings Robin back upright and seated betweenhislegs/atlap onLOWrock, ONE hand atwaist. D balloon exacttailD, notA.",
+          "dialogue": [
+            "Draco: Cuidado, pequeño."
+          ],
+          "sourceFragments": [
+            "Cuidado, pequeño."
+          ]
+        },
+        {
+          "scene": "Robin pats water again, small splash reaches Draco's chest. D smiles and responds ONE full line, R safely supported and humanCHESTNUT/GREEN/BLUEducks.",
+          "dialogue": [
+            "Draco: Ya vi que quieres continuar."
+          ],
+          "sourceFragments": [
+            "Ya vi que quieres continuar."
+          ]
+        },
+        {
+          "scene": "Astoria gently guides Scorpius TWO tinyhands toward surface, ONE Scorpius/lap supported, stronger little splash rises toward hisOWN cheeks. A EARTHscarf/TERRACOTTA/GRAYBLUE, human SPLATINUMGRAY."
+        },
+        {
+          "scene": "Scorpius eyes closed in surprise at OWN harmless droplets; A wipes his cheek withfingers. Robin beside laughs. Draco tellsRobin both source sentences, ONE full balloon tailD. Stage D/Robin andA/S clearly.",
+          "dialogue": [
+            "Draco: No te rías de tu primo. Tú hiciste lo mismo."
+          ],
+          "sourceFragments": [
+            "No te rías de tu primo",
+            "Tú hiciste lo mismo."
+          ]
+        },
+        {
+          "scene": "Warm wide family moment: Astoria rests head on Draco's shoulder, D ONE arm around herwaist and OTHER hand securesRobin. A holdsScorpius securely onherownlap, both babies move feet nearwater. TWO natural arms peradult/oneofeachchild. No text, calmcove/furlednavywoodketch behind."
+        }
+      ],
+      "transcript": "Capítulo 13 · 69\n\nDraco recibe a Robin mientras Astoria acompaña a Scorpius. Los primos juegan a salpicar y descubren que también pueden mojarse a sí mismos.\nDraco: Cuidado, pequeño.\nDraco: Ya vi que quieres continuar.\nDraco: No te rías de tu primo. Tú hiciste lo mismo.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR:3réplicas completasDraco/Cuidado-Yavi-No terías/Túhiciste, tildes/colas correctas. EntregaP→DracoRobin clara1, se mantieneDUCKshorts/rizoscafé/verde, SconAstoriaPLATINO/GRAYshorts/azulgris: dosprimoshumanosdistintos/no juguetes/manosypiesnaturales. Dcrema/PLATINO yAterracota/pañuelo/ojosacerogrisazulados; AsecaSdespués autosalpicadura, DloaseguraRwaist. En8DunbrazoAotroR/apoyoSpropioA, dosbrazos porpersona sinduplicación. Poriginalbob/blacknorings, velero navywoodfurled/rocasbajas/cala estables. Sin gorraRobin aún.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p069.png",
+      "sha256": "4902f5ef5b26a520ccd14f60019af1e5befab09d82b9422c16fb4fc180a898ad",
+      "masterSha256": "3445c5725cd276cc0444efc8aedb29b01a239efd7bb96d6d357359ffc2d36eaf",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding approved page68, original faces/ink-painterly colors/current swimsuits, H sapphire ONLY chest and no BLUEearring, Daph only plain fine GOLDchain/tiny GOLDpendant. New scenes explicitly control baby handovers and hat transitions, no old holders copied.. Image 4 is reference for Approved65 Draco PLATINUM/CREAM and Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf/TERRACOTTA, HUMANScorpius PLATINUM/GRAYBLUE/GRAYshorts. All faces distinct, never Daphne clone for Draco.. Image 5 is reference for Approved64 sourcecove/navywoodfurledketch/familybathingstyle/babyIDs. No hats/glasses oninfants..\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. SOURCE637-638 NEW CARRIERS: Draco now holds ROBIN at waist on LOWROCK, Astoria holds SCORPIUS besidehim; show clear P→Draco handover first. A moves from gangway to adjacent lowrock naturally between scenes. Robin still BLUE DUCKS/NOhat and ScorpiusPLATINUMGRAY. Arianna stays Daphne offscreen. H/P may swim elsewhere, no duplicate babies.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 69» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Clear quiet source-authorized handover P BLACKbob/BLACKswimsuit passes ROBIN chestnutGREEN/BLUE DUCKS to DRACO PLATINUM/CREAMshorts seated LOWSMOOTHROCK. A TERRACOTTA/earthscarf comes besidehim carrying Scorpius platinumGRAY. Each tiny body has one new supporting holder, no repeated baby/no text.\nPanel 2. Draco safely supports Robin bywaist onlowrock, baby leans to pat surface with BOTH hands. Astoria nexttoD supports Scorpius lap, he watches his cousin. Robin GREEN/duckshorts vsScorpiusGRAYBLUE/gray shorts, human skin/limbs.\nPanel 3. Scorpius imitates first little water pat, only few drops. Robin laughs and kicks, tilting a bitforward but Draco already securely holdswaist. A supportsS, no faces immersed/no extra arms.\nPanel 4. Draco gently brings Robin back upright and seated betweenhislegs/atlap onLOWrock, ONE hand atwaist. D balloon exacttailD, notA. Balloon from Draco. Print verbatim «Cuidado, pequeño.»\nPanel 5. Robin pats water again, small splash reaches Draco's chest. D smiles and responds ONE full line, R safely supported and humanCHESTNUT/GREEN/BLUEducks. Balloon from Draco. Print verbatim «Ya vi que quieres continuar.»\nPanel 6. Astoria gently guides Scorpius TWO tinyhands toward surface, ONE Scorpius/lap supported, stronger little splash rises toward hisOWN cheeks. A EARTHscarf/TERRACOTTA/GRAYBLUE, human SPLATINUMGRAY.\nPanel 7. Scorpius eyes closed in surprise at OWN harmless droplets; A wipes his cheek withfingers. Robin beside laughs. Draco tellsRobin both source sentences, ONE full balloon tailD. Stage D/Robin andA/S clearly. Balloon from Draco. Print verbatim «No te rías de tu primo. Tú hiciste lo mismo.»\nPanel 8. Warm wide family moment: Astoria rests head on Draco's shoulder, D ONE arm around herwaist and OTHER hand securesRobin. A holdsScorpius securely onherownlap, both babies move feet nearwater. TWO natural arms peradult/oneofeachchild. No text, calmcove/furlednavywoodketch behind.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p068_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p065.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p064.png"
+          ],
+          "generatedMaster": "exec-ae07444a-28a5-4b03-898e-882bb161d932.png"
+        }
+      ]
+    },
+    {
+      "page": 70,
+      "image": "paginas/c13-p070.webp",
+      "sourcePdfPages": [
+        638,
+        639
+      ],
+      "summary": "Pansy persigue a Hermione entre las rocas. La carrera termina con cosquillas, risas y una salpicadura que deja a ambas a mano.",
+      "panels": [
+        {
+          "scene": "Wide calmwater/LOWrocks. H OLIVE swims toward smoothrock, P BLACK follows a fewmeters behind smiling playfully. BUNH vsCHINBOBP, oneeach, nootherpeople inshot."
+        },
+        {
+          "scene": "H glances over shoulder and seesP's playful smile, warnsONEshortline withcleartailH. P stillslightlybehind, noaddedtext.",
+          "dialogue": [
+            "Hermione: No."
+          ],
+          "sourceFragments": [
+            "No"
+          ]
+        },
+        {
+          "scene": "H laughs and swims around small protruding LOWrock to change direction. P accelerates, oneoutstretchedhand only brushes Hside as shekicksaway, natural arms, ordinary swimplay."
+        },
+        {
+          "scene": "H LEFT warns whiletryingtoescape; P RIGHT answers. TWOordered balloons H firstupperleft/P secondlowerright. Original Hbrown/Pgreenbehindglasses, HbluependantONLYatneck.",
+          "dialogue": [
+            "Hermione: Ni se te ocurra.",
+            "Pansy: Ya se me ocurrió."
+          ],
+          "sourceFragments": [
+            "Ni se te ocurra.",
+            "Ya se me ocurrió."
+          ]
+        },
+        {
+          "scene": "H reaches another smoothrock to push off, P catchesup and gives gentle playful tickles at Hside/nearwaist, both laugh. Medium-wide scene, opaqueordinaryswimsuits/natural2armsperperson, no infant/otherpeople."
+        },
+        {
+          "scene": "A small splash after both briefly lose footing inwater, they immediately surface laughing and hold shoulders forbalance. Heads above water, no fear, oneH/oneP. No text."
+        },
+        {
+          "scene": "H LEFT amused catchbreath/P RIGHT brusheswetloosestrands fromface. TWOordered fullballoons H firstupperleft thenP lowerright, no tailscrossed.",
+          "dialogue": [
+            "Hermione: Eso es trampa.",
+            "Pansy: Gané. Es lo único que importa."
+          ],
+          "sourceFragments": [
+            "Eso es trampa",
+            "Gané. Es lo único que importa."
+          ]
+        },
+        {
+          "scene": "H throws ONE playful splash straight at P'sface/glasses and swimsaway/backstrokes, P eyesclosedlaughing loosenshold. H speaksfinalONEline/tailH as sheescapes. Samehair/swimsuits/jewels/calmrockcove.",
+          "dialogue": [
+            "Hermione: Ahora estamos a mano."
+          ],
+          "sourceFragments": [
+            "Ahora estamos a mano."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 70\n\nPansy persigue a Hermione entre las rocas. La carrera termina con cosquillas, risas y una salpicadura que deja a ambas a mano.\nHermione: No.\nHermione: Ni se te ocurra.\nPansy: Ya se me ocurrió.\nHermione: Eso es trampa.\nPansy: Gané. Es lo único que importa.\nHermione: Ahora estamos a mano.",
+      "actualPanelCount": 8,
+      "review": "Revisióncompleta8viñetas/OCR y6réplicas íntegras, ordenHNo/HNi-PYa/HEso-PGané/HAhora,tildes/colas correctas. Adaptación contenida a rostros/hombros yplanoslejanos para carrera/juegofamiliar, captura/cosquillas implícitas bajoagua/fueraencuadre. Hmoño/freckles/oliva/zafiroSOLOcuello/unleftring/muñecadesnuda, Pbobnegro/black/LEFTwhitegoldHRP/dedoslisos/orejasdesnudas. Manosyhombrosnaturales/salpicaduraalegre/carasclaras, nadieextra ni bebés. Ketchdosmástilesvelasfurladas/calarocasbajasdiurna. Sin nuevos diálogos ni episodios explícitos.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p070.png",
+      "sha256": "72012b65b26a429cca890fcc329175f1d633bbdc8e9529934e2c1512d52e72a3",
+      "masterSha256": "82c2c4b41c9276125b17baf1ce4b37c16fda6b259c134062d4619f6f38bd16b9",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page69: Draco recibe a Robin mientras Astoria acompaña a Scorpius. Los primos juegan a salpicar y descubren que también pueden mojarse a sí mismos. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved63R2 H/P original faces/currentbathingpalette and jewelownership. Newpage is ONLYH/P swimming, no copiesofoldforedeck/outfits/cushion/baby.. Image 5 is reference for PRIVATE HAND jewelry reference ONLY, not photographic style/labels: H ONE clearhalo LEFT RING-finger diamond, wristsBARE; P everyfingerPLAIN/LEFT whitegoldHRPchain. CurrentswimsuitsoliveH/blackP..\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. THIS PAGE features ONLY Hermione and Pansy, ordinary playful swimming at reachable smooth rocks; all babies remain safely with other family OFFSCREEN. H OLIVEonepiece/BUN/freckles/BROWNEYEs/BLACKglasses/BLUEsapphireONLYnecklace/ONELEFTdiamond/BAREwrists. P BLACK2piece/shortoriginalBLACKchinbob/LEFTgoldbarrette/BLACKglasses/LEFTwhitegoldHRPchain/PLAINfingers/BAREears. Face/shoulder or wide family storytelling, joyful game, no body-focused poses. Two heads always return above water, no fearful injury.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 70» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide calmwater/LOWrocks. H OLIVE swims toward smoothrock, P BLACK follows a fewmeters behind smiling playfully. BUNH vsCHINBOBP, oneeach, nootherpeople inshot.\nPanel 2. H glances over shoulder and seesP's playful smile, warnsONEshortline withcleartailH. P stillslightlybehind, noaddedtext. Balloon from Hermione. Print verbatim «No.»\nPanel 3. H laughs and swims around small protruding LOWrock to change direction. P accelerates, oneoutstretchedhand only brushes Hside as shekicksaway, natural arms, ordinary swimplay.\nPanel 4. H LEFT warns whiletryingtoescape; P RIGHT answers. TWOordered balloons H firstupperleft/P secondlowerright. Original Hbrown/Pgreenbehindglasses, HbluependantONLYatneck. Balloon from Hermione. Print verbatim «Ni se te ocurra.» Balloon from Pansy. Print verbatim «Ya se me ocurrió.»\nPanel 5. H reaches another smoothrock to push off, P catchesup and gives gentle playful tickles at Hside/nearwaist, both laugh. Medium-wide scene, opaqueordinaryswimsuits/natural2armsperperson, no infant/otherpeople.\nPanel 6. A small splash after both briefly lose footing inwater, they immediately surface laughing and hold shoulders forbalance. Heads above water, no fear, oneH/oneP. No text.\nPanel 7. H LEFT amused catchbreath/P RIGHT brusheswetloosestrands fromface. TWOordered fullballoons H firstupperleft thenP lowerright, no tailscrossed. Balloon from Hermione. Print verbatim «Eso es trampa.» Balloon from Pansy. Print verbatim «Gané. Es lo único que importa.»\nPanel 8. H throws ONE playful splash straight at P'sface/glasses and swimsaway/backstrokes, P eyesclosedlaughing loosenshold. H speaksfinalONEline/tailH as sheescapes. Samehair/swimsuits/jewels/calmrockcove. Balloon from Hermione. Print verbatim «Ahora estamos a mano.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p069.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p063_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Draw one complete EIGHT-panel Spanish comic page of a playful swimming race between Hermione and Pansy at the same Li Galli cove. Match the supplied approved comic faces/ink-painterly color. Ordinary lighthearted water game. All shots are shoulders-up portraits or distant wide views; water covers the rest of their bodies. No other family members or children appear on this page.\nH: chestnut messy bun/freckles/brown eyes/black sunglasses, OLIVE swimsuit shoulder straps, frontal blue sapphire necklace, one diamond on LEFT ring finger/bare wrists.\nP: original short BLACK CHIN-LENGTH bob/angular jaw/green eyes/black sunglasses/left gold hairclip, BLACK swimsuit shoulder straps, LEFT fine whitegold HRPchain, plain fingers/bare ears.\nImage1 fixes faces/outfits, image2 faces/bluecove/necklace onH ONLY, image3 ONLY hand-jewelry configuration, no labels/style copied.\nPortrait1024x1536. Header «Capítulo 13 · 70» top cream margin, thin black panel borders/cream gutters and large readable white speech balloons. Print ONLY the quoted exact dialogue with all accents, not speaker names. No footer/watermark.\n1 Wide view, H swims toward low smooth rock; P follows a few meters behind. Small figures/water covers bodies, calm turquoise cove/navywood two-mast boat withfurled sails behind.\n2 H glances over shoulder and sees P smiling. Shoulder-up H balloon «No.»\n3 Wide view H swims around small rock to change direction; P tries to catch up. One H/oneP, natural swimming strokes.\n4 Two shoulder-up faces: H LEFT first balloon «Ni se te ocurra.» P RIGHT second lower balloon «Ya se me ocurrió.» Clear tails and reading order.\n5 P catches up with H beside the rock. Both burst into laughter, friendly game, hands underwater/outside crop. Show only heads/shoulders with oliveH/blackP straps and a small harmless splash.\n6 They bob up laughing after the splash, steadying each other at shoulders. Clear heads above water, natural bodies, one ofeach, warm comic expressions.\n7 Shoulder-up two portraits: H LEFT FIRST «Eso es trampa.» P RIGHT SECOND lower «Gané. Es lo único que importa.» Hbun/Pbob remain distinct, smiles.\n8 H makes one playful splash toward P's sunglasses then swims away smiling. H alone says «Ahora estamos a mano.» P shuts eyes laughing at droplets. Above-shoulder view/clear faces, no new words.",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p063_r2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p068_r3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-b185c777-7f00-41c8-a7eb-6b2e0fb629f8.png"
+        }
+      ]
+    },
+    {
+      "page": 71,
+      "image": "paginas/c13-p071.webp",
+      "sourcePdfPages": [
+        639,
+        640
+      ],
+      "summary": "Blaise presta su sombrero de capitán a Robin. Más tarde, Hermione y Pansy comparan los juegos de los primos e intercambian a Robin y Scorpius con cuidado.",
+      "panels": [
+        {
+          "scene": "Clear source exchange: B NAVYshorts/BAREHEAD receives Robin DUCKshorts fromDraco nearlowrocks, Daph nearby inwater holdsAriTURQUOISE. The ONE NAVY GOLD-emblem captainhat restsDRYROCK reachableB, nohatonRyet. No text."
+        },
+        {
+          "scene": "Robin inBsecurearms reachesfor NAVYcaptainhat onrock withbothlittlehands. B picksitup, asksONEshortquestion/tailB. ChildGREENeyes/blueDUCKshorts.",
+          "dialogue": [
+            "Blaise: ¿Quieres probarlo?"
+          ],
+          "sourceFragments": [
+            "¿Quieres probarlo?"
+          ]
+        },
+        {
+          "scene": "B places oversizedNAVYcaptainhat onRobin, brim momentarilydroops overeyes; R raisesbothhands tobrim. Clearonehat/onechild, Bsupportswaist withotherarm, naturaltinyfingers."
+        },
+        {
+          "scene": "B foldsfrontbrimUP revealingRobinGREENeyes/chestnutcurls and saysONEshortline; no BLUEeyes/Ari clone. Capnavy/GOLDemblem distinctRcreamhatelsewheredry.",
+          "dialogue": [
+            "Blaise: Mucho mejor, capitán."
+          ],
+          "sourceFragments": [
+            "Mucho mejor, capitán."
+          ]
+        },
+        {
+          "scene": "P BLACKbob/swimsuit swimsup andadjustsedge ofR's NAVYhat, he smiles recognisingher. B stillholdsRsecurely, Pcaresseschildbackandgivesfullsourcewarning, tailP.",
+          "dialogue": [
+            "Pansy: No dejes que lo arroje al agua."
+          ],
+          "sourceFragments": [
+            "No dejes que lo arroje al agua"
+          ]
+        },
+        {
+          "scene": "B adjustsRobin againstchest/NAVYcapandDUCKshorts, replies fullsentence amused, Pplainfingers brieflytouch Bshoulder beforecontinuing. TailB, notP/baby.",
+          "dialogue": [
+            "Blaise: Tu falta de confianza continúa siendo ofensiva."
+          ],
+          "sourceFragments": [
+            "Tu falta de confianza continúa siendo ofensiva."
+          ]
+        },
+        {
+          "scene": "Later clear sourcehandover ASTORIA→H of HUMAN SCORPIUS PLATINUM/GRAYBLUE/GRAYshorts; A returnsupwoodgangway towardboat tofetchwaterbottle. H OLIVE/BUN holdsSagainstchest watchinglittlewaves. P NOWRobinDUCKshorts/NAVYcap onhip approaching, notduplicatedchild."
+        },
+        {
+          "scene": "FULL-WIDTH panel H RIGHT supportsSCORPIUS gray/platinum; P LEFT holdsROBIN blueDUCKS/NAVYcap onhip. P FIRSTupperleft completeTWO-sentencecomparison, H SECONDlowerright answer. Human distinct infants/clearcorrecttails, roomforallwords.",
+          "dialogue": [
+            "Pansy: Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.",
+            "Hermione: Cada uno se divierte a su manera."
+          ],
+          "sourceFragments": [
+            "Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.",
+            "Cada uno se divierte a su manera."
+          ]
+        },
+        {
+          "scene": "Clear careful simultaneous exchangeP/H withunambiguoussupport: P receivesScorpiusPLATINUMGRAY, HreceivesRobinCHESTNUTGREEN/BLUEducks/NAVYcap. Oneofeachinfant, TWOarmsperadult, notfloating/clonedbabies."
+        },
+        {
+          "scene": "H seatedLOWrock settlesRobinbetweenlegs withhandatwaist beforehecansplashagain, NavyCAPbrimup. P holdsScorpiusagainstchestandgentlystrokesback whilehe watcheswater. SAMEoliveH/blackP/LEFTjewels, no text."
+        }
+      ],
+      "transcript": "Capítulo 13 · 71\n\nBlaise presta su sombrero de capitán a Robin. Más tarde, Hermione y Pansy comparan los juegos de los primos e intercambian a Robin y Scorpius con cuidado.\nBlaise: ¿Quieres probarlo?\nBlaise: Mucho mejor, capitán.\nPansy: No dejes que lo arroje al agua.\nBlaise: Tu falta de confianza continúa siendo ofensiva.\nPansy: Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.\nHermione: Cada uno se divierte a su manera.",
+      "actualPanelCount": 10,
+      "review": "Revisiónentera10viñetas/OCR:6turnos completos/tildes, comparaciónScorpius/Robin íntegra. R2corrigecolaMuchomejorhaciaB yCadaunohaciaH(bocaderecha), nunca bebéshablantes. EliminaAstoriadeespalda duplicada7 ytripulantes gigantesdelencuadre; quedaAfrenteentregandoS aH, PconR, gangwayvacío/barcoigual. Cierraencuadre6aB/Pcabezahombros mientrasRcontinúasostenidofueracrop, no bebédesaparecidodetorsoamplio. Rducks/castañoGREEN/únicaNAVYcapdesde3(brimalzado), Bbarehead; S PLATINUMGRAY conHhasta8 yPdesde9. HrecibeRobin9 ylosientaentrepiernas10. Babieshumanos/piel/manos/apoyosnaturales; Hmoño/olive/zafiroúnicocolganteblue/leftring/Pbobblack/norings/orejasbare. Sinclones/añadidos.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p071.png",
+      "sha256": "6b8e52a4bf63a281d9ee7eb6a16f335359becde74a28c2c2bc4783d2a304a5cf",
+      "masterSha256": "20c0ac9d2e1198c6e518566a5e19cfca7c47341bfb4928dd90f706ab28c276db",
+      "ocrMissingCandidates": [
+        "dejes",
+        "arroje",
+        "falta",
+        "confianza",
+        "continua",
+        "siendo",
+        "ofensiva"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 10-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page70: Pansy persigue a Hermione entre las rocas. La carrera termina con cosquillas, risas y una salpicadura que deja a ambas a mano. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved65 Draco PLATINUM/CREAM and Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf/TERRACOTTA, HUMANScorpius PLATINUM/GRAYBLUE/GRAYshorts. All faces distinct, never Daphne clone for Draco.. Image 5 is reference for Approved64 B/Daph/Ari faces andbluecove/boat. New source639 hatNOWROCK→ROBIN only, no captainhatB/Ari or old Daphholder..\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. HAT/PORTADOR CHANGES source639: captainhat NOWonDRYROCK (singleNAVY/GOLDemblem; movedfromdeckbetweenearlierscenes). B receivesRobin thenputsCAPTAINHATonROBIN frompanel3: chestnutGREEN/BLUE DUCKS/oversizedNAVYhat withfrontbrimfoldedup tocleareyes. NEVERAri orB wearingcap now. Later A handsScorpius toH thenreturnsboatforwaterbottle; P nowRobinonhip; P/H swapcarefully: endPScorpius/HRobinbetweenlegs. Keep allchanges clear, TWO infants distinct, no casualtoys/glasses/cap onScorpius.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 71» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Clear source exchange: B NAVYshorts/BAREHEAD receives Robin DUCKshorts fromDraco nearlowrocks, Daph nearby inwater holdsAriTURQUOISE. The ONE NAVY GOLD-emblem captainhat restsDRYROCK reachableB, nohatonRyet. No text.\nPanel 2. Robin inBsecurearms reachesfor NAVYcaptainhat onrock withbothlittlehands. B picksitup, asksONEshortquestion/tailB. ChildGREENeyes/blueDUCKshorts. Balloon from Blaise. Print verbatim «¿Quieres probarlo?»\nPanel 3. B places oversizedNAVYcaptainhat onRobin, brim momentarilydroops overeyes; R raisesbothhands tobrim. Clearonehat/onechild, Bsupportswaist withotherarm, naturaltinyfingers.\nPanel 4. B foldsfrontbrimUP revealingRobinGREENeyes/chestnutcurls and saysONEshortline; no BLUEeyes/Ari clone. Capnavy/GOLDemblem distinctRcreamhatelsewheredry. Balloon from Blaise. Print verbatim «Mucho mejor, capitán.»\nPanel 5. P BLACKbob/swimsuit swimsup andadjustsedge ofR's NAVYhat, he smiles recognisingher. B stillholdsRsecurely, Pcaresseschildbackandgivesfullsourcewarning, tailP. Balloon from Pansy. Print verbatim «No dejes que lo arroje al agua.»\nPanel 6. B adjustsRobin againstchest/NAVYcapandDUCKshorts, replies fullsentence amused, Pplainfingers brieflytouch Bshoulder beforecontinuing. TailB, notP/baby. Balloon from Blaise. Print verbatim «Tu falta de confianza continúa siendo ofensiva.»\nPanel 7. Later clear sourcehandover ASTORIA→H of HUMAN SCORPIUS PLATINUM/GRAYBLUE/GRAYshorts; A returnsupwoodgangway towardboat tofetchwaterbottle. H OLIVE/BUN holdsSagainstchest watchinglittlewaves. P NOWRobinDUCKshorts/NAVYcap onhip approaching, notduplicatedchild.\nPanel 8. FULL-WIDTH panel H RIGHT supportsSCORPIUS gray/platinum; P LEFT holdsROBIN blueDUCKS/NAVYcap onhip. P FIRSTupperleft completeTWO-sentencecomparison, H SECONDlowerright answer. Human distinct infants/clearcorrecttails, roomforallwords. Balloon from Pansy. Print verbatim «Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.» Balloon from Hermione. Print verbatim «Cada uno se divierte a su manera.»\nPanel 9. Clear careful simultaneous exchangeP/H withunambiguoussupport: P receivesScorpiusPLATINUMGRAY, HreceivesRobinCHESTNUTGREEN/BLUEducks/NAVYcap. Oneofeachinfant, TWOarmsperadult, notfloating/clonedbabies.\nPanel 10. H seatedLOWrock settlesRobinbetweenlegs withhandatwaist beforehecansplashagain, NavyCAPbrimup. P holdsScorpiusagainstchestandgentlystrokesback whilehe watcheswater. SAMEoliveH/blackP/LEFTjewels, no text.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p070_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p065.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p064.png"
+          ],
+          "generatedMaster": "exec-13ee10c6-6efc-4a44-b05b-9d56b0d0bf7e.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Edit this EXACT complete10-panel Spanish comic page71, keeping all faces, infant identities, swimwear, hats, six complete dialogue turns and1024x1536layout.\nMake these local corrections:\n1 PANEL4 (second row RIGHT): «Mucho mejor, capitán.» is BLAISE speaking, NOT the baby. Keep exact words/balloon, redraw its tail toward BLAISE'S MOUTH on LEFT of this panel, not toward Robin's head.\n2 PANEL8 (fourth row RIGHT): «Cada uno se divierte a su manera.» is HERMIONE speaking. Keep exact words, redirect its tail clearly to HERMIONE/chestnut bun/OLIVE suit woman's MOUTH at RIGHT, never toward Scorpius. Preserve Pansy's long upper balloon intact.\n3 PANEL7 (fourth row LEFT): Astoria appears twice. KEEP the FOREGROUND DARK-BROWN scarf/TERRACOTTA woman handing PLATINUM Scorpius inGRAYshorts to Hermione. REMOVE ONLY her duplicate BACK-VIEW figure walking on gangway. The gangway is EMPTY behind the foreground family. Boat background in this panel shows wood cabin/rail/furled sails; remove its oversized elf figures from this crop, actual crew remain elsewhere aboard. Keep Pansy RIGHT with RobinBLUE-YELLOWDUCKS/NAVYcaptainhat onhip and HreceivingS. Exactly three FOREGROUND adults/2babies in this panel.\n4 PANEL6 (third row RIGHT): frame a CLOSER HEAD-AND-SHOULDERS view of smiling BLAISE LEFT and PANSY RIGHT as she briefly touches his shoulder. Keep BLAISE balloon exact «Tu falta de confianza continúa siendo ofensiva.» and tail toB. Crop above chest, so Robin safely carried in B's arms remains outside this close crop, not missing within a wide torso view.\nPansy/BLACKbob always BARE EARS/plain fingers/LEFT fine WHITEGOLD HRPchain; do not add pearls/rings. Hermione oneLEFT diamond/barewrists, sapphire ONLYnecklace/noBLUEearring. Preserve every other panel and exact text/accents/tails, all natural limbs/babyholders/hat placement/boat/cove. Do not add new figures or captions.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-13ee10c6-6efc-4a44-b05b-9d56b0d0bf7e.png"
+          ],
+          "generatedMaster": "exec-64fe14dc-cc2e-4c94-b2d1-a32570d2fc87.png"
+        }
+      ]
+    },
+    {
+      "page": 72,
+      "image": "paginas/c13-p072.webp",
+      "sourcePdfPages": [
+        640
+      ],
+      "summary": "Daphne y Blaise cuidan a los tres bebés mientras Hermione y Pansy nadan hasta la sombra de las rocas. Allí continúan sus bromas y comparten un momento de cariño.",
+      "panels": [
+        {
+          "scene": "Wide sourcegroupclear: DaphTURQUOISE seatedLOWsmoothROCK holdsScorpiusPLATINUMGRAYagainstchest; AriTURQUOISEgoldenBLUE safely BETWEEN DaphLEGS. Bnavy/BAREHEADinwaterbesideholdsROBIN BLUE DUCKS/NAVYcaptainhat bywaist. Babies splashgently, exactlyTHREEandsecure. H/P freehandednearby, no otherchild."
+        },
+        {
+          "scene": "P findsHhand andtheybeginswimmingtogether towardshadedrockatcoveprotectionboundary, calmwideview. OriginalH BUN/OLIVE andP shortBOB/BLACK, samejewels, handsnaturalnoPring. D/Acan swimfarbackgroundwithoutbabies; caregroupstaysnearshore."
+        },
+        {
+          "scene": "H LEFT restsbackagainstSHADEDLOWrock, P RIGHT facesher withordinarylightwaisthug, mediumshoulder-upshot. H FIRSTupperleftballoon/P SECONDlowerrightanswer, natural amusedfaces, both inopaquebeachsuits.",
+          "dialogue": [
+            "Hermione: ¿Ya dejaste de perseguirme?",
+            "Pansy: Solo cambié de estrategia."
+          ],
+          "sourceFragments": [
+            "¿Ya dejaste de perseguirme?",
+            "Solo cambié de estrategia."
+          ]
+        },
+        {
+          "scene": "Brief gentleclosed-mouthkissH/P, ordinary affectionatefamilymoment, mediumshoulder-upportraits/OLIVEandBLACKstraps, BLUEsapphireONLYHchest/shortbob/bun/BLACKglasses. No otherfiguresinthiscrop, noaddedtext."
+        },
+        {
+          "scene": "Wide quietwater scene, H/P swimaroundSMOOTHrockformation andreturn towardshade, ONEeach/naturalstrokes/calmcove. Their smallfigures showlocationratherthanbodydetail, anchoredfurledketchbackground."
+        },
+        {
+          "scene": "Backatcaregroup Robin laughsandslapswater, NAVYcaptainhatstartsfallingtowardeyes. BsupportsRwaistwithonearmandliftsFRONTBRIMwithotherhand toclearGREENeyes. DaphstillSagainstchest/AriBETWEENLEGS inbackground, nohandover. Humanfingers/faces."
+        },
+        {
+          "scene": "H looksfromshadedrocktowardRobin'slaughter; P followssamegazeandspeaksONEshortreassurance/tailP. H/Pmediumfacesandshoulderswithwarmexpressions, exactonewordpair.",
+          "dialogue": [
+            "Pansy: Está bien."
+          ],
+          "sourceFragments": [
+            "Está bien."
+          ]
+        },
+        {
+          "scene": "H/P turnback, gentleforeheadtouchandbriefclosedmouthkissframedfromshouldersup, naturalordinaryaffection/opaqueswimstraps/BLACKglasses. SameBUNH/chinBOBP/jewelownership, no new dialogue. Caregroup remains supportedoffscreen."
+        }
+      ],
+      "transcript": "Capítulo 13 · 72\n\nDaphne y Blaise cuidan a los tres bebés mientras Hermione y Pansy nadan hasta la sombra de las rocas. Allí continúan sus bromas y comparten un momento de cariño.\nHermione: ¿Ya dejaste de perseguirme?\nPansy: Solo cambié de estrategia.\nPansy: Está bien.",
+      "actualPanelCount": 8,
+      "review": "Revisiónentera8viñetas/OCR y3turnos completos/tildes/tails correctos H-P/P. R2quitaCOLLARHRPajenoP en todosloscuellos, HRPsolamenteLEFTWRIST fueraagua/crop, Porejasbare/dedoslisos. ConservaHmoño/olive/BLUEsapphireúnicamente cuello/noearringblue/unleftring. Elimina3tripulantes gigantes inventadosenROCAS1/5/6 yDaphclonnadadora2, cuatroelfosrealesabordofueraencuadre. Daph sostieneScorpiusPLATINUMGRAYcontraPECHO yAriLIGHTGOLDENBLUE/TURQUOISEentrePIERNAS; BapoyaRDUCKshorts/NAVYcap conbrimalzado. Exactamente3bebéshumanos/apoyosnaturales. H/Pnadan-sombra/gestosbrevescotidianosconropabaño, sincontenidoexplícito. No otras regresiones/cambiosenbarcopasarelarocasluz.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p072.png",
+      "sha256": "bffbf9822ab14b06a8190066ca5c02a8a34a77ca19887bf2fe1b9f374b7e3bc0",
+      "masterSha256": "b265b9ed47eb192c276b6df339d6af3200d02c1a1547c35a309b9b557d588e3a",
+      "ocrMissingCandidates": [
+        "perseguirme",
+        "cambie",
+        "estrategia"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page71: Blaise presta su sombrero de capitán a Robin. Más tarde, Hermione y Pansy comparan los juegos de los primos e intercambian a Robin y Scorpius con cuidado. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved68R3 familyfaces/bathingcolors/Daphfinegoldchain/HsapphireNOearring. Newsource640 explicitlyputsS ANDAriwithDaph, RcaptainhatwithB; no obsoleteHcarrier copied.. Image 5 is reference for PRIVATE HAND jewelry reference ONLY, not photographic style/labels: H ONE clearhalo LEFT RING-finger diamond, wristsBARE; P everyfingerPLAIN/LEFT whitegoldHRPchain. CurrentswimsuitsoliveH/blackP..\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. SOURCE640 CURRENTCARE: DAPHNE seatedsmoothLOWROCK holdsSCORPIUS PLATINUM/GRAYshorts againstCHEST AND ARIANNA goldenBLUE/TURQUOISE BETWEENLEGS; B inwaterbesideholds ROBIN BLUE DUCKS/NAVY CAPTAINHAT byWAIST. NOinfantswithH/P duringtheirshortswim. Captainhat ONLYRobin from71, Bbarehead/Ari/Snohat. H/P ordinary gentleaffection inface/shoulderframing, no explicitactivity. Hsapphire ONLYnecklace/no BLUEearrings; Daphne ONLYfineGOLDchain/tinyGOLDpendant/nobluesapphire. Clear sourcecount3humanbabies/sixadults/fourcrew whenwidebutdon'tcrowdframe.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 72» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide sourcegroupclear: DaphTURQUOISE seatedLOWsmoothROCK holdsScorpiusPLATINUMGRAYagainstchest; AriTURQUOISEgoldenBLUE safely BETWEEN DaphLEGS. Bnavy/BAREHEADinwaterbesideholdsROBIN BLUE DUCKS/NAVYcaptainhat bywaist. Babies splashgently, exactlyTHREEandsecure. H/P freehandednearby, no otherchild.\nPanel 2. P findsHhand andtheybeginswimmingtogether towardshadedrockatcoveprotectionboundary, calmwideview. OriginalH BUN/OLIVE andP shortBOB/BLACK, samejewels, handsnaturalnoPring. D/Acan swimfarbackgroundwithoutbabies; caregroupstaysnearshore.\nPanel 3. H LEFT restsbackagainstSHADEDLOWrock, P RIGHT facesher withordinarylightwaisthug, mediumshoulder-upshot. H FIRSTupperleftballoon/P SECONDlowerrightanswer, natural amusedfaces, both inopaquebeachsuits. Balloon from Hermione. Print verbatim «¿Ya dejaste de perseguirme?» Balloon from Pansy. Print verbatim «Solo cambié de estrategia.»\nPanel 4. Brief gentleclosed-mouthkissH/P, ordinary affectionatefamilymoment, mediumshoulder-upportraits/OLIVEandBLACKstraps, BLUEsapphireONLYHchest/shortbob/bun/BLACKglasses. No otherfiguresinthiscrop, noaddedtext.\nPanel 5. Wide quietwater scene, H/P swimaroundSMOOTHrockformation andreturn towardshade, ONEeach/naturalstrokes/calmcove. Their smallfigures showlocationratherthanbodydetail, anchoredfurledketchbackground.\nPanel 6. Backatcaregroup Robin laughsandslapswater, NAVYcaptainhatstartsfallingtowardeyes. BsupportsRwaistwithonearmandliftsFRONTBRIMwithotherhand toclearGREENeyes. DaphstillSagainstchest/AriBETWEENLEGS inbackground, nohandover. Humanfingers/faces.\nPanel 7. H looksfromshadedrocktowardRobin'slaughter; P followssamegazeandspeaksONEshortreassurance/tailP. H/Pmediumfacesandshoulderswithwarmexpressions, exactonewordpair. Balloon from Pansy. Print verbatim «Está bien.»\nPanel 8. H/P turnback, gentleforeheadtouchandbriefclosedmouthkissframedfromshouldersup, naturalordinaryaffection/opaqueswimstraps/BLACKglasses. SameBUNH/chinBOBP/jewelownership, no new dialogue. Caregroup remains supportedoffscreen.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p071_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p068_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-493f7ea4-5b89-40ec-8be6-61a6c2155d19.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Correct this EXACT8-panel comic page72 in IMAGE1. IMAGE2 is supporting reference of correct Pansy jewelry: BLACKchinbob/BLACK swimsuit/BARE NECK, her fine HRPchain is LEFT WRIST only.\n1 Remove the WRONG HRP NECKLACE from PANSY'S NECK in EVERY panel (P is BLACK CHIN-BOB woman in BLACK swimsuit, especially panels1,2,3,4,7,8). Restore natural BARE NECK skin. The fine WHITEGOLD H/R/P BRACELET belongs ONLY on LEFT WRIST, often underwater/outside crop in thispage; do not relocate it onto neck or another wrist/fingers. Keep P fingers plain/ears bare. Preserve Hermione chestnutBUN/OLIVE woman's BLUE SAPPHIRE NECKLACE exactly.\n2 Remove the THREE oversized human crew figures standing on SHORE/ROCKS beside gangway in panels1,5,6. The actual four SMALL taupe adultELF crew remain elsewhere ABOARD the sameboat OUTSIDE these crops; no elf or added people stand ashore. Keep the exact boat/furledsails/gangway/rocks/sea geometry, fill removed figures with natural background only.\n3 In panel2 TOP-RIGHT remove ONLY the tiny LONG-BLONDE background swimmer. Daphne is caring for babies elsewhere and is not swimming in thatpanel. Keep the two main swimmers Hermione/Pansy/heldhands exactly.\nEverything else is unchanged: all8panelborders/creamgutters/header«Capítulo13·72»/threeexactSpanishturns withaccents/tails, all faces/eyes/expressions/hair/glasses/swimwear/anatomy/infantappearance/holders/hats/briefkisses/bathingfamilytone. Daphne stillSCORPIUSplatinumGRAYagainstchest andARIANNAgoldenTURQUOISEbetweenlegs, Blaise stillROBINblueDUCKS/NAVYcaptainhat. No extra people/limbs/jewels/new text. Same1024x1536crop.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-493f7ea4-5b89-40ec-8be6-61a6c2155d19.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p070_r2.png"
+          ],
+          "generatedMaster": "exec-723dff21-5c7e-44f4-8002-32b5fbb40143.png"
+        }
+      ]
+    }
+  ]
+}
