@@ -100,3 +100,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 36 | 605 | Blaise presenta el vino tinto de Tramonti, explica los viñedos en terrazas y elige comenzar con el blanco para los seis jóvenes. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-33-36.json).
+
+## Páginas 37–40
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 37 | 605–606 | El elfo sirve vino blanco a los seis jóvenes. Las parejas comparten sus platos favoritos y Blaise sirve a Hermione mientras Chiara recuerda sus primeros intentos con la pasta. |
+| 38 | 607 | Chiara responde a la broma de Blaise. Pansy explica a Hermione por dónde empezar a probar la cena, bromean sobre un queso curado y prepara pan con queso suave. |
+| 39 | 607–608 | Pansy ofrece el pan con queso a Hermione. Daphne interrumpe cariñosamente otra explicación de Blaise, y Hermione prueba la combinación que Pansy preparó para ella. |
+| 40 | 609–610 | Hermione prueba la pasta al limón, los scialatielli y la colatura, y comprende con Blaise cómo cambia la experiencia al acompañarlos con vino. Después continúa con el pescado y los calamares. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-37-40.json).
