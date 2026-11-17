@@ -1,0 +1,394 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-17",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    61,
+    64
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 61,
+      "image": "paginas/c13-p061.webp",
+      "sourcePdfPages": [
+        631
+      ],
+      "summary": "Hermione prepara a Robin para nadar con el bañador azul de patitos. Pansy ayuda mientras el pequeño juega con sus pies; después ambas terminan de extenderle la poción protectora.",
+      "panels": [
+        {
+          "scene": "Wide foredeck family view. H kneels beside the FIXED cream cushion, opens Robin's SAND bag and lifts small BLUE SWIM SHORTS patterned with YELLOW DUCKS. Robin is still in brown thin-white-striped linen shirt/shorts, sandals beside cushion; P sits nearby in sky-blue/cream. Same anchored cove/gangway visible beyond rail."
+        },
+        {
+          "scene": "Next moment AFTER the clothing transition: Robin is already wearing BLUE YELLOW-DUCK swim shorts, hips fully covered. Removed brown striped linen clothes lie folded beside cushion. He holds one little foot with BOTH hands and laughs, shoulders normally bare for beach. H gently adjusts the leg hem of already-worn shorts; no undressing view or exposed private areas."
+        },
+        {
+          "scene": "H speaks warmly to Robin, who clutches a foot and offers his other leg toward her. Medium parent-and-child view, blue DUCK shorts already covering him; human anatomy exactly two arms/two legs and natural toes. Full balloon clearly from H, never baby.",
+          "dialogue": [
+            "Hermione: Necesito esa pierna. Cuanto antes terminemos, antes podrás entrar al agua."
+          ],
+          "sourceFragments": [
+            "Necesito esa pierna",
+            "Cuanto antes terminemos, antes podrás entrar al agua."
+          ]
+        },
+        {
+          "scene": "P bends close to help, ONE arm gently supporting Robin around waist while H straightens the other leg hem/loose waist cord of the already-worn BLUE DUCK shorts. Robin wiggles and plays with cord, naturally proportioned tiny limbs. Keep both parents' forearms unambiguous, no third hand, H left ring/P plain fingers and left bracelet."
+        },
+        {
+          "scene": "H finishes arranging the blue DUCK shorts at Robin's waist and smiles ruefully; Robin sits supported and babbles with delight. P still sky-blue shirt/cream shorts, smiling. One H balloon with every word.",
+          "dialogue": [
+            "Hermione: No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla."
+          ],
+          "sourceFragments": [
+            "No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla"
+          ]
+        },
+        {
+          "scene": "H takes a SMALL plain unbranded bottle of fictional sun-protection potion from the sand bag and opens cap. Robin seated in blue DUCK trunks under shade, P nearby. Source balloon from H. No added bottle lettering.",
+          "dialogue": [
+            "Hermione: Todavía falta el protector solar."
+          ],
+          "sourceFragments": [
+            "Todavía falta el protector solar"
+          ]
+        },
+        {
+          "scene": "Ordinary family beach-care view, not a body close-up. H gently spreads a little pale lotion on Robin's shoulder/arm and leg, tiny sheen on belly. Blue DUCK shorts remain fully covering hips, natural smooth human skin, no textile skin. R curiously reaches toward her hand. P steadies him with one natural arm, all clothes and jewelry unchanged."
+        },
+        {
+          "scene": "Robin raises his lotion-touched hand toward his mouth. P gently intercepts and gives the little knuckles a brief ordinary affectionate kiss, while H reaches toward wrist and speaks. One baby, safe seated posture on cream cushion, blue DUCK shorts and all faces visible. Full H balloon, no added sound words.",
+          "dialogue": [
+            "Hermione: Eso no se come."
+          ],
+          "sourceFragments": [
+            "Eso no se come"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 61\n\nHermione prepara a Robin para nadar con el bañador azul de patitos. Pansy ayuda mientras el pequeño juega con sus pies; después ambas terminan de extenderle la poción protectora.\nHermione: Necesito esa pierna. Cuanto antes terminemos, antes podrás entrar al agua.\nHermione: No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla.\nHermione: Todavía falta el protector solar.\nHermione: Eso no se come.",
+      "actualPanelCount": 8,
+      "review": "Revisión visual completa de8viñetas y OCR. Cuatro turnos deH completos y con tildes; colas correctas. Robin humano/rizoscastaños/irisverdes, bañador AZUL con PATITOSAMARILLOS ya cubriendo caderas desde2, transición de ropa sin desnudez. Hmoño/oliva/zafiro/undiamanteanularizquierdo/muñecadesnuda; Pbobnegro/celeste/dedoslisos/cadenaizquierda. Antebrazos, apoyo y pies naturales, sin muñecos. Bolsa/cojín y madera/barco/cala coherentes. No marca sobre dibujo.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p061.png",
+      "sha256": "c33a4e4766326fed33a516a9092e58ead868793b6109866ab9f3d84e505b346d",
+      "masterSha256": "0b3db3a89de15dc15825261afad146c3e35f8040cdf37089869c2b6afdace709",
+      "ocrMissingCandidates": [
+        "podras",
+        "entrar",
+        "dificultar"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED page60. Preserve watercolor/ink finish, faces, cove geometry, furling, gangway, current outfits and foredeck cushion. New panels control clothes/hats/holders. No copying old sunglasses onto Robin.. Image 4 is reference for Approved page58 shows the original distinctive Hermione/Pansy/Robin faces and their current linen outfits; preserve H brown/P green/R green eye identities and black chin bob/chestnut bun. New scenes control any later bathing clothes.. Image 5 is reference for PRIVATE hand-jewelry reference ONLY: H one clear oval halo diamond on LEFT RING finger and bare wrist; P plain fingers and fine WHITE GOLD HRP chain only LEFT WRIST. Keep comic ink style, never print reference names or copy its layout..\nContinue at the same Li Galli family cove, bright calm early afternoon, turquoise water and smooth low pale rock ledges. The anchored SANGERMANI ketch has NAVY hull, DARK VARNISHED WOOD, WHITE trim, BRONZE hardware, TWO MASTS with ALL IVORY SAILS FURLED on booms. Stable WOOD PLANK gangway with pale taut ropes connects its side steps to a LOW ROCK, not a high cliff. Four SMALL mature elf crew in TAUPE linen/visors, no extra guests. Cream fixed foredeck cushion, SAND baby bag, empty folded SAND-GOLD Zephyr strapped to wood wall. H: chestnut messy BUN/freckles/BROWN eyes, BLACK sunglasses, OLIVE linen shirt and CREAM shorts through page63 panel7, frontal oval MIDNIGHT BLUE sapphire/clear halo on WHITE PLATINUM chain, exactly ONE clear oval diamond halo ring on LEFT RING FINGER, BARE wrists and no blue earring. P: original short sleek BLACK CHIN-LENGTH bob/angular jaw/GREEN eyes, BLACK sunglasses, LEFT gold barrette, SKY BLUE linen shirt/CREAM shorts until she returns changed on page63. Fine WHITE GOLD H/R/P chain on LEFT WRIST, ALL FINGERS PLAIN no ring/gem/band, ears bare. Robin: HUMAN chestnut curls/GREEN eyes, NO sunglasses since57, smooth skin/natural little hands/feet. Brown thin-white-striped linen clothes first; blue swim shorts with YELLOW DUCKS from61panel2 onward, opaque shorts fully cover his hips in every view. Family beach preparation, ordinary nonsexual care and beachwear, no nudity/changing shown; stage clothing transitions between panels. All characters have natural separate limbs, one carrier/support per infant. The scene list controls all explicit changes of clothes, holders, hats and time; don't copy obsolete state from old references.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 61» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. Wide foredeck family view. H kneels beside the FIXED cream cushion, opens Robin's SAND bag and lifts small BLUE SWIM SHORTS patterned with YELLOW DUCKS. Robin is still in brown thin-white-striped linen shirt/shorts, sandals beside cushion; P sits nearby in sky-blue/cream. Same anchored cove/gangway visible beyond rail.\nPanel 2. Next moment AFTER the clothing transition: Robin is already wearing BLUE YELLOW-DUCK swim shorts, hips fully covered. Removed brown striped linen clothes lie folded beside cushion. He holds one little foot with BOTH hands and laughs, shoulders normally bare for beach. H gently adjusts the leg hem of already-worn shorts; no undressing view or exposed private areas.\nPanel 3. H speaks warmly to Robin, who clutches a foot and offers his other leg toward her. Medium parent-and-child view, blue DUCK shorts already covering him; human anatomy exactly two arms/two legs and natural toes. Full balloon clearly from H, never baby. Balloon from Hermione. Print verbatim «Necesito esa pierna. Cuanto antes terminemos, antes podrás entrar al agua.»\nPanel 4. P bends close to help, ONE arm gently supporting Robin around waist while H straightens the other leg hem/loose waist cord of the already-worn BLUE DUCK shorts. Robin wiggles and plays with cord, naturally proportioned tiny limbs. Keep both parents' forearms unambiguous, no third hand, H left ring/P plain fingers and left bracelet.\nPanel 5. H finishes arranging the blue DUCK shorts at Robin's waist and smiles ruefully; Robin sits supported and babbles with delight. P still sky-blue shirt/cream shorts, smiling. One H balloon with every word. Balloon from Hermione. Print verbatim «No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla.»\nPanel 6. H takes a SMALL plain unbranded bottle of fictional sun-protection potion from the sand bag and opens cap. Robin seated in blue DUCK trunks under shade, P nearby. Source balloon from H. No added bottle lettering. Balloon from Hermione. Print verbatim «Todavía falta el protector solar.»\nPanel 7. Ordinary family beach-care view, not a body close-up. H gently spreads a little pale lotion on Robin's shoulder/arm and leg, tiny sheen on belly. Blue DUCK shorts remain fully covering hips, natural smooth human skin, no textile skin. R curiously reaches toward her hand. P steadies him with one natural arm, all clothes and jewelry unchanged.\nPanel 8. Robin raises his lotion-touched hand toward his mouth. P gently intercepts and gives the little knuckles a brief ordinary affectionate kiss, while H reaches toward wrist and speaks. One baby, safe seated posture on cream cushion, blue DUCK shorts and all faces visible. Full H balloon, no added sound words. Balloon from Hermione. Print verbatim «Eso no se come.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p060_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p058.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-baa8af2f-5a8c-4311-bcad-3ed2b4228631.png"
+        }
+      ]
+    },
+    {
+      "page": 62,
+      "image": "paginas/c13-p062.webp",
+      "sourcePdfPages": [
+        632
+      ],
+      "summary": "Las bromas sobre la poción terminan con una mancha en la mejilla de Pansy. Hermione la extiende y las dos comparten un breve beso antes de que Pansy baje a cambiarse.",
+      "panels": [
+        {
+          "scene": "FULL-WIDTH panel with room for THREE ordered balloons: P LEFT speaks first at upperLEFT; H RIGHT answers at upperRIGHT; P reply LOWERLEFT below both. Robin supported on cushion between them, already BLUE YELLOW-DUCK shorts/NO glasses, P SKYBLUE shirt/H OLIVE shirt, both cream shorts. Exact all words and clear tails.",
+          "dialogue": [
+            "Pansy: Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.",
+            "Hermione: Solo hasta que esté protegido.",
+            "Pansy: Exactamente lo que acabo de decir."
+          ],
+          "sourceFragments": [
+            "Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.",
+            "Solo hasta que esté protegido.",
+            "Exactamente lo que acabo de decir."
+          ]
+        },
+        {
+          "scene": "Ordinary playful family wide view: P leans to tickle/kiss Robin's upper tummy once, he giggles and touches her CHEEK leaving little lotion streaks. H smiles beside them. Robin's BLUE DUCK swim shorts fully cover hips, no body-focused crop. P's SKYBLUE shirt and CREAM shorts unchanged."
+        },
+        {
+          "scene": "P sits upright with small shining lotion smudge on her cheek; H smiles and speaks. Robin on cushion beside, blue DUCK shorts. Full H balloon.",
+          "dialogue": [
+            "Hermione: Ahora tú también necesitas limpiarte."
+          ],
+          "sourceFragments": [
+            "Ahora tú también necesitas limpiarte."
+          ]
+        },
+        {
+          "scene": "P LEFT comments, H RIGHT gently spreads the lotion from P's cheek up to temple and along jaw, ordinary fully clothed seated affection. Two balloons P FIRST upperleft/H SECOND lowerright, tails unambiguously their speakers. H ring LEFT only/P no rings.",
+          "dialogue": [
+            "Pansy: Podrías haber utilizado una toalla.",
+            "Hermione: Habría retirado la poción en lugar de extenderla."
+          ],
+          "sourceFragments": [
+            "Podrías haber utilizado una toalla",
+            "Habría retirado la poción en lugar de extenderla."
+          ]
+        },
+        {
+          "scene": "Medium faces and shoulders. P LEFT smiles warmly, H RIGHT replies with quiet confidence while still touching cheek. Source two balloons read P first then H, no extra dialogue, same linen clothes and original hairstyles. Robin can be offscreen safely on fixed cushion beside them.",
+          "dialogue": [
+            "Pansy: Y habrías desperdiciado una excelente oportunidad para tocarme.",
+            "Hermione: No necesito encontrar un pretexto para tocarte."
+          ],
+          "sourceFragments": [
+            "Y habrías desperdiciado una excelente oportunidad para tocarme.",
+            "No necesito encontrar un pretexto para tocarte"
+          ]
+        },
+        {
+          "scene": "H and P share ONE brief gentle closed-mouth kiss, ordinary affectionate moment, fully dressed OLIVE/SKYBLUE linen/CREAM shorts. Medium family comic framing, no sexual detail. Robin outside this crop on nearby fixed cushion. Preserve original faces and no ring on P."
+        },
+        {
+          "scene": "P gives H's wrist a brief goodbye kiss, preparing to stand. H wrist BARE, H one left-ring diamond; P LEFT chain bracelet only and P fingers completely plain. P speaks both full sentences in a readable balloon with tail to BLACKbob P.",
+          "dialogue": [
+            "Pansy: Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré."
+          ],
+          "sourceFragments": [
+            "Voy a bajar a cambiarme antes de que todos ocupen las habitaciones",
+            "No tardaré."
+          ]
+        },
+        {
+          "scene": "P in SAME SKYBLUE LINENshirt/CREAMshorts gives Robin a brief forehead kiss then goes toward the darkwood companionway down to private cabins. H remains kneeling by Robin/cushion and sand bag. No actual changing shown, no swim outfit yet, all characters appropriately covered, one baby only."
+        }
+      ],
+      "transcript": "Capítulo 13 · 62\n\nLas bromas sobre la poción terminan con una mancha en la mejilla de Pansy. Hermione la extiende y las dos comparten un breve beso antes de que Pansy baje a cambiarse.\nPansy: Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.\nHermione: Solo hasta que esté protegido.\nPansy: Exactamente lo que acabo de decir.\nHermione: Ahora tú también necesitas limpiarte.\nPansy: Podrías haber utilizado una toalla.\nHermione: Habría retirado la poción en lugar de extenderla.\nPansy: Y habrías desperdiciado una excelente oportunidad para tocarme.\nHermione: No necesito encontrar un pretexto para tocarte.\nPansy: Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré.",
+      "actualPanelCount": 8,
+      "review": "Revisión completa8viñetas; OCRsinpalabrasfaltantes.9turnos íntegros/acentos/colas y ordenP-H-P inicial correctos. Cuidado familiar y besos breves, Rhumano/verde/bañadorpatitos/cubierto, dos madres en linooriginal. R3 retira pendientes blancos deP; ampliaciones de inspección confirman lóbulos sin pieza de joya (residual brillo de piel), no anilloP y cadenaizquierda. Hmoño/zafiro/undiamanteizquierdo/muñecadesnuda. Sin regresiones en diálogos, caras, manos ni barco. R2 original conservada.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p062.png",
+      "sha256": "5d4e8405a05140382a2d366de2712426a1ea001617edea86621c73e08238f6bf",
+      "masterSha256": "1732b84332c1f7f8f0acc218be4cae43c4afec57e2663ff160b49beebb098738",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page61: Hermione prepara a Robin para nadar con el bañador azul de patitos. Pansy ayuda mientras el pequeño juega con sus pies; después ambas terminan de extenderle la poción protectora. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved page58 shows the original distinctive Hermione/Pansy/Robin faces and their current linen outfits; preserve H brown/P green/R green eye identities and black chin bob/chestnut bun. New scenes control any later bathing clothes.. Image 5 is reference for PRIVATE hand-jewelry reference ONLY: H one clear oval halo diamond on LEFT RING finger and bare wrist; P plain fingers and fine WHITE GOLD HRP chain only LEFT WRIST. Keep comic ink style, never print reference names or copy its layout..\nContinue at the same Li Galli family cove, bright calm early afternoon, turquoise water and smooth low pale rock ledges. The anchored SANGERMANI ketch has NAVY hull, DARK VARNISHED WOOD, WHITE trim, BRONZE hardware, TWO MASTS with ALL IVORY SAILS FURLED on booms. Stable WOOD PLANK gangway with pale taut ropes connects its side steps to a LOW ROCK, not a high cliff. Four SMALL mature elf crew in TAUPE linen/visors, no extra guests. Cream fixed foredeck cushion, SAND baby bag, empty folded SAND-GOLD Zephyr strapped to wood wall. H: chestnut messy BUN/freckles/BROWN eyes, BLACK sunglasses, OLIVE linen shirt and CREAM shorts through page63 panel7, frontal oval MIDNIGHT BLUE sapphire/clear halo on WHITE PLATINUM chain, exactly ONE clear oval diamond halo ring on LEFT RING FINGER, BARE wrists and no blue earring. P: original short sleek BLACK CHIN-LENGTH bob/angular jaw/GREEN eyes, BLACK sunglasses, LEFT gold barrette, SKY BLUE linen shirt/CREAM shorts until she returns changed on page63. Fine WHITE GOLD H/R/P chain on LEFT WRIST, ALL FINGERS PLAIN no ring/gem/band, ears bare. Robin: HUMAN chestnut curls/GREEN eyes, NO sunglasses since57, smooth skin/natural little hands/feet. Brown thin-white-striped linen clothes first; blue swim shorts with YELLOW DUCKS from61panel2 onward, opaque shorts fully cover his hips in every view. Family beach preparation, ordinary nonsexual care and beachwear, no nudity/changing shown; stage clothing transitions between panels. All characters have natural separate limbs, one carrier/support per infant. The scene list controls all explicit changes of clothes, holders, hats and time; don't copy obsolete state from old references.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 62» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. FULL-WIDTH panel with room for THREE ordered balloons: P LEFT speaks first at upperLEFT; H RIGHT answers at upperRIGHT; P reply LOWERLEFT below both. Robin supported on cushion between them, already BLUE YELLOW-DUCK shorts/NO glasses, P SKYBLUE shirt/H OLIVE shirt, both cream shorts. Exact all words and clear tails. Balloon from Pansy. Print verbatim «Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.» Balloon from Hermione. Print verbatim «Solo hasta que esté protegido.» Balloon from Pansy. Print verbatim «Exactamente lo que acabo de decir.»\nPanel 2. Ordinary playful family wide view: P leans to tickle/kiss Robin's upper tummy once, he giggles and touches her CHEEK leaving little lotion streaks. H smiles beside them. Robin's BLUE DUCK swim shorts fully cover hips, no body-focused crop. P's SKYBLUE shirt and CREAM shorts unchanged.\nPanel 3. P sits upright with small shining lotion smudge on her cheek; H smiles and speaks. Robin on cushion beside, blue DUCK shorts. Full H balloon. Balloon from Hermione. Print verbatim «Ahora tú también necesitas limpiarte.»\nPanel 4. P LEFT comments, H RIGHT gently spreads the lotion from P's cheek up to temple and along jaw, ordinary fully clothed seated affection. Two balloons P FIRST upperleft/H SECOND lowerright, tails unambiguously their speakers. H ring LEFT only/P no rings. Balloon from Pansy. Print verbatim «Podrías haber utilizado una toalla.» Balloon from Hermione. Print verbatim «Habría retirado la poción en lugar de extenderla.»\nPanel 5. Medium faces and shoulders. P LEFT smiles warmly, H RIGHT replies with quiet confidence while still touching cheek. Source two balloons read P first then H, no extra dialogue, same linen clothes and original hairstyles. Robin can be offscreen safely on fixed cushion beside them. Balloon from Pansy. Print verbatim «Y habrías desperdiciado una excelente oportunidad para tocarme.» Balloon from Hermione. Print verbatim «No necesito encontrar un pretexto para tocarte.»\nPanel 6. H and P share ONE brief gentle closed-mouth kiss, ordinary affectionate moment, fully dressed OLIVE/SKYBLUE linen/CREAM shorts. Medium family comic framing, no sexual detail. Robin outside this crop on nearby fixed cushion. Preserve original faces and no ring on P.\nPanel 7. P gives H's wrist a brief goodbye kiss, preparing to stand. H wrist BARE, H one left-ring diamond; P LEFT chain bracelet only and P fingers completely plain. P speaks both full sentences in a readable balloon with tail to BLACKbob P. Balloon from Pansy. Print verbatim «Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré.»\nPanel 8. P in SAME SKYBLUE LINENshirt/CREAMshorts gives Robin a brief forehead kiss then goes toward the darkwood companionway down to private cabins. H remains kneeling by Robin/cushion and sand bag. No actual changing shown, no swim outfit yet, all characters appropriately covered, one baby only.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p061.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p058.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "error": "ImageGen rechazó la salida inicial"
+        },
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Draw one complete 8-panel Spanish family comic page, portrait1024x1536, matching image1's fine ink and painterly colors. Image1 is the immediately previous page61 and fixes the three faces, clothes, boat cushion and baby shorts. Image2 supports original faces. Image3 supports LEFT-hand jewelry only, not its labels or style.\nHeader on top cream margin exactly «Capítulo 13 · 62». Thin black panel borders/cream gutters and readable black-lettered white balloons. No watermark/footer.\nHermione (H): chestnut messy bun, freckles, brown eyes behind black sunglasses, OLIVE LINEN shirt/CREAM shorts, blue sapphire necklace, one clear diamond ring on LEFT ring finger and BARE wrists.\nPansy (P): angular face, short BLACK CHIN BOB, black sunglasses/left gold hairclip, SKYBLUE LINEN shirt/CREAM shorts, WHITEGOLD HRP chain LEFT wrist and entirely PLAIN fingers.\nTheir human baby Robin is chestnut-curly/GREEN-eyed, wearing BLUE opaque swim shorts with YELLOW DUCKS throughout; sits safely on fixed cream cushion in shade beside his parents. Ordinary beach-day family care. Wood boat/calm LiGalli cove background, sails furled. Both parents keep the same linen clothes throughout. Natural anatomy.\nLayout and exact balloons below. Print each quoted line in full with accents, never print speaker names. Put initial speaker on left/reply right or lower, with distinct tails to correct adult; don't give baby adult words.\n1. Wide family shot, P LEFT/H RIGHT/R on cushion. THREE ordered balloons: P first upperleft «Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.» H second upperright «Solo hasta que esté protegido.» P third lowerleft «Exactamente lo que acabo de decir.»\n2. Ordinary playful family moment: P tickles Robin and gives one normal parental kiss to his upper tummy, he laughs and touches her cheek leaving a little sun-lotion smudge. H smiles nearby. Medium-wide storytelling composition, baby blue DUCK shorts unchanged.\n3. P sits up with tiny white lotion marks on cheek. H says «Ahora tú también necesitas limpiarte.»\n4. Medium faces/shoulders only, Robin outside crop safely on cushion. H spreads leftover lotion across P's cheek/temple. P LEFT first «Podrías haber utilizado una toalla.» H RIGHT reply «Habría retirado la poción en lugar de extenderla.»\n5. Medium faces/shoulders, same clothes, kind amused expressions. P LEFT first «Y habrías desperdiciado una excelente oportunidad para tocarme.» H RIGHT second «No necesito encontrar un pretexto para tocarte.»\n6. H and P share a brief gentle closed-mouth kiss in an ordinary family moment. Same OLIVE/SKYBLUE linen shirts, medium shoulder-up framing, no baby in this crop.\n7. P briefly kisses H's wrist as goodbye and says «Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré.» H wrist bare, H ring left finger only/P no rings.\n8. Wide family shot: P gives Robin a forehead kiss before walking toward the same wood companionway. P is still dressed in SKYBLUE shirt/CREAMshorts; H stays beside Robin and the sand bag. No new outfit shown yet. No dialogue.",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p061.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-borradores-2026-11-11/c13-p058.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-174c7b57-5060-4ce5-958f-bad6370440ba.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Edit this EXACT complete Spanish comic page62. Make ONE tiny consistency correction only: PANSY, the woman with SHORT BLACK BOB and SKY-BLUE LINEN SHIRT, has BARE EARS. Remove her tiny white pearl/stud earring in EVERY panel where it is visible, filling it naturally with ear skin. Do not alter Hermione/chestnut-bun woman's earrings or her sapphire necklace. Preserve all eight panels, every speech balloon, all exact Spanish words/accents, all faces/hair/expressions, body/hand poses, glasses, clothes, lotion, Robin's blue yellow-duck swim shorts, background, header «Capítulo 13 · 62», crop and1024x1536size. Preserve H single LEFT ring and P bare fingers/LEFT HRP bracelet. Nothing else changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-174c7b57-5060-4ce5-958f-bad6370440ba.png"
+          ],
+          "generatedMaster": "exec-6cad7ebe-160e-4476-9c1b-486790433351.png"
+        }
+      ]
+    },
+    {
+      "page": 63,
+      "image": "paginas/c13-p063.webp",
+      "sourcePdfPages": [
+        633
+      ],
+      "summary": "Hermione termina de preparar a Robin con su sombrero. Pansy y Daphne regresan con ropa de baño; media hora después, la familia juega en la cala.",
+      "panels": [
+        {
+          "scene": "H still OLIVE linen shirt/CREAM shorts/BUN/BLACK sunglasses finishes gently spreading lotion on Robin's cheeks on cream cushion. Blue DUCK swim shorts. She places a CREAM SUNHAT with BLUE BAND and chin ribbon on chestnut curls. Natural supported seated baby/green eyes. Full source H balloon.",
+          "dialogue": [
+            "Hermione: Mira qué guapo estás."
+          ],
+          "sourceFragments": [
+            "Mira qué guapo estás"
+          ]
+        },
+        {
+          "scene": "Robin raises BOTH little hands and feels the brim of his new CREAM/BLUE sunhat. H gently ties soft strap under chin, no obstructing eyes or breathing, blue DUCK shorts. Warm family medium shot, same boat and clothes."
+        },
+        {
+          "scene": "H distracts Robin by pointing to a YELLOW DUCK on BLUE shorts and he tries to catch printed duck with fingers. H closes small potion bottle and begins returning it into SAND bag; bare H wrist/one LEFT ring, sapphire at chest."
+        },
+        {
+          "scene": "A few minutes later H hears footsteps and turns toward the companionway, still OLIVE shirt and CREAM shorts; bottle halfway to bag. Robin wearing same hat/blueDUCKshorts at her side. No new printed narration needed."
+        },
+        {
+          "scene": "Full or medium-wide P walks up from cabin in BLACK TWO-PIECE SWIMSUIT and LOOSE OPEN BLACK BEACH SHIRT, BLACK sunglasses, original SHORT BLACK CHINBOB and left gold barrette, fine LEFT WHITEGOLD HRP bracelet/all fingers plain. Everyday modest beach fashion and natural relaxed stance, shirt hangs loosely, no close-up of anatomy; H looks toward her face."
+        },
+        {
+          "scene": "P LEFT stands beside H RIGHT seated by cushion; P asks FIRST upperleft and H answers SECOND lowerright. H momentarily distracted with potion bottle in hand, ordinary amused expression. Same source new P beach clothes, H still OLIVE shirt/CREAMshorts. Robin sunhat/duckshorts can be cropped.",
+          "dialogue": [
+            "Pansy: ¿Terminaste?",
+            "Hermione: Sí. Terminé."
+          ],
+          "sourceFragments": [
+            "¿Terminaste?",
+            "Sí. Termine."
+          ]
+        },
+        {
+          "scene": "Daphne joins P in TURQUOISE ONE-PIECE SWIMSUIT/PALE CREAM PAREO at waist, long blonde hair/BLUE eyes and gentle amused smile. P BLACK suit/OPEN BLACK shirt, H OLIVE LINEN still packing bag. No dialogue added, ordinary family beachwear, don't clone faces. P original short bob."
+        },
+        {
+          "scene": "FULL-WIDTH explicit time transition. Caption at top, then wide small FAMILY figures in calm turquoise cove within easy reach of LOW smooth rocks; TWO-MAST NAVY/WOOD ketch at anchor ALL sails FURLED and stable gangway. H now OLIVE ONE-PIECE swimsuit/chestnutBUN/sapphire/LEFTdiamond. P BLACK swimsuit/BLACKglasses/SHORTbob/LEFTbracelet supports Robin firmly UNDER BOTH ARMS above water, his face/chest clear. Robin BLUE DUCK swimshorts/chestnutwet curls/NO glasses; CREAM-BLUE hat set on DRY ROCK beside P's BLACK shirt. Daph TURQUOISE onepiece/Ari TURQUOISE childswimsuit near rocks. Wide nonsexual family scene.",
+          "caption": "Media hora después, todos estaban en el agua.",
+          "sourceFragments": [
+            "Media hora después, todos estaban en el agua."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 63\n\nHermione termina de preparar a Robin con su sombrero. Pansy y Daphne regresan con ropa de baño; media hora después, la familia juega en la cala.\nHermione: Mira qué guapo estás.\nPansy: ¿Terminaste?\nHermione: Sí. Terminé.\nNarración: Media hora después, todos estaban en el agua.",
+      "actualPanelCount": 8,
+      "review": "Revisión completa8viñetas y3turnos+caption de mediahora. Todo texto legible, ¿Terminaste?/Sí.Terminé. completos/tildes; OCR apoyo verificado visualmente. Rhumano/verde/duckshorts/sombrerocrema-bandaazul luego sobreROCAsECA; Hmoño/oliva-zafiro/únicoanilloizquierdo, R2quita duplicado inferior primera viñeta. Pboboriginalnegro, negro2piezas+camisaplayaholgada trasretornocabina, HRPizquierdo/dedoslisos/orejasdesnudas. Daph rubia/azul/turquesa-pareo. Últimaviñeta HbañadorenteroOLIVA, Pnegro, Ari turquesa/ojosazules, apoyohumano/todascaras fueraagua. Velero navywood2mástilesvelasfurladas/pasarela a roca baja coherentes. Original conservado.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p063.png",
+      "sha256": "2ed00dcef5ab59313e4679305686ee13a544245dd632311b74cc7ce22ce7a16c",
+      "masterSha256": "a5587e7e48a76d99d7a904a15a632866f9abb84585dc19d9d67bf35f5a9945c2",
+      "ocrMissingCandidates": [
+        "guapo",
+        "estas",
+        "terminaste",
+        "termine"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page62: Las bromas sobre la poción terminan con una mancha en la mejilla de Pansy. Hermione la extiende y las dos comparten un breve beso antes de que Pansy baje a cambiarse. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved family faces for BLONDE BLUE-EYED Daphne and darker-skinned Blaise/light golden BLUE-eyed Arianna. Current panel list overrides old clothes, hats and infant holders.. Image 5 is reference for PRIVATE hand-jewelry reference ONLY: H one clear oval halo diamond on LEFT RING finger and bare wrist; P plain fingers and fine WHITE GOLD HRP chain only LEFT WRIST. Keep comic ink style, never print reference names or copy its layout..\nContinue at the same Li Galli family cove, bright calm early afternoon, turquoise water and smooth low pale rock ledges. The anchored SANGERMANI ketch has NAVY hull, DARK VARNISHED WOOD, WHITE trim, BRONZE hardware, TWO MASTS with ALL IVORY SAILS FURLED on booms. Stable WOOD PLANK gangway with pale taut ropes connects its side steps to a LOW ROCK, not a high cliff. Four SMALL mature elf crew in TAUPE linen/visors, no extra guests. Cream fixed foredeck cushion, SAND baby bag, empty folded SAND-GOLD Zephyr strapped to wood wall. H: chestnut messy BUN/freckles/BROWN eyes, BLACK sunglasses, OLIVE linen shirt and CREAM shorts through page63 panel7, frontal oval MIDNIGHT BLUE sapphire/clear halo on WHITE PLATINUM chain, exactly ONE clear oval diamond halo ring on LEFT RING FINGER, BARE wrists and no blue earring. P: original short sleek BLACK CHIN-LENGTH bob/angular jaw/GREEN eyes, BLACK sunglasses, LEFT gold barrette, SKY BLUE linen shirt/CREAM shorts until she returns changed on page63. Fine WHITE GOLD H/R/P chain on LEFT WRIST, ALL FINGERS PLAIN no ring/gem/band, ears bare. Robin: HUMAN chestnut curls/GREEN eyes, NO sunglasses since57, smooth skin/natural little hands/feet. Brown thin-white-striped linen clothes first; blue swim shorts with YELLOW DUCKS from61panel2 onward, opaque shorts fully cover his hips in every view. Family beach preparation, ordinary nonsexual care and beachwear, no nudity/changing shown; stage clothing transitions between panels. All characters have natural separate limbs, one carrier/support per infant. The scene list controls all explicit changes of clothes, holders, hats and time; don't copy obsolete state from old references. Source page633 begins a clothing change AFTER P returns from cabins: P BLACK opaque two-piece swimsuit with loose open BLACK beach shirt, BLACK sunglasses/LEFT barrette/HRP bracelet, same CHIN-BOB (do not lengthen original hair). Daph LONG BLONDE/BLUE eyes in TURQUOISE swimsuit, PALECREAM pareo. At explicit half-hour jump, H wears a modest OLIVE ONE-PIECE swimsuit (art inference from existing olive palette, source unspecified), same BUN/sapphire/LEFT diamond. P beach shirt rests on DRY ROCK after water entry, swimsuit is BLACK. Source-unspecified Daph cut is modest ONE-PIECE turquoise, color is source. Robin BLUE DUCK shorts and CREAM SUNHAT with BLUE BAND/chin strap (hat color inference) first. Before entering water, hat may be set on dry rock beside P shirt; wet curls visible afterward per634. Natural everyday family swimsuits, wide/medium storytelling, no suggestive poses or body emphasis.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 63» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. H still OLIVE linen shirt/CREAM shorts/BUN/BLACK sunglasses finishes gently spreading lotion on Robin's cheeks on cream cushion. Blue DUCK swim shorts. She places a CREAM SUNHAT with BLUE BAND and chin ribbon on chestnut curls. Natural supported seated baby/green eyes. Full source H balloon. Balloon from Hermione. Print verbatim «Mira qué guapo estás.»\nPanel 2. Robin raises BOTH little hands and feels the brim of his new CREAM/BLUE sunhat. H gently ties soft strap under chin, no obstructing eyes or breathing, blue DUCK shorts. Warm family medium shot, same boat and clothes.\nPanel 3. H distracts Robin by pointing to a YELLOW DUCK on BLUE shorts and he tries to catch printed duck with fingers. H closes small potion bottle and begins returning it into SAND bag; bare H wrist/one LEFT ring, sapphire at chest.\nPanel 4. A few minutes later H hears footsteps and turns toward the companionway, still OLIVE shirt and CREAM shorts; bottle halfway to bag. Robin wearing same hat/blueDUCKshorts at her side. No new printed narration needed.\nPanel 5. Full or medium-wide P walks up from cabin in BLACK TWO-PIECE SWIMSUIT and LOOSE OPEN BLACK BEACH SHIRT, BLACK sunglasses, original SHORT BLACK CHINBOB and left gold barrette, fine LEFT WHITEGOLD HRP bracelet/all fingers plain. Everyday modest beach fashion and natural relaxed stance, shirt hangs loosely, no close-up of anatomy; H looks toward her face.\nPanel 6. P LEFT stands beside H RIGHT seated by cushion; P asks FIRST upperleft and H answers SECOND lowerright. H momentarily distracted with potion bottle in hand, ordinary amused expression. Same source new P beach clothes, H still OLIVE shirt/CREAMshorts. Robin sunhat/duckshorts can be cropped. Balloon from Pansy. Print verbatim «¿Terminaste?» Balloon from Hermione. Print verbatim «Sí. Terminé.»\nPanel 7. Daphne joins P in TURQUOISE ONE-PIECE SWIMSUIT/PALE CREAM PAREO at waist, long blonde hair/BLUE eyes and gentle amused smile. P BLACK suit/OPEN BLACK shirt, H OLIVE LINEN still packing bag. No dialogue added, ordinary family beachwear, don't clone faces. P original short bob.\nPanel 8. FULL-WIDTH explicit time transition. Caption at top, then wide small FAMILY figures in calm turquoise cove within easy reach of LOW smooth rocks; TWO-MAST NAVY/WOOD ketch at anchor ALL sails FURLED and stable gangway. H now OLIVE ONE-PIECE swimsuit/chestnutBUN/sapphire/LEFTdiamond. P BLACK swimsuit/BLACKglasses/SHORTbob/LEFTbracelet supports Robin firmly UNDER BOTH ARMS above water, his face/chest clear. Robin BLUE DUCK swimshorts/chestnutwet curls/NO glasses; CREAM-BLUE hat set on DRY ROCK beside P's BLACK shirt. Daph TURQUOISE onepiece/Ari TURQUOISE childswimsuit near rocks. Wide nonsexual family scene. Caption verbatim «Media hora después, todos estaban en el agua.»",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p062_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p050_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-joyas-manos-2026-11-16.png"
+          ],
+          "generatedMaster": "exec-d11faa18-460f-43eb-8799-9845b47d9ea8.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Make a tiny jewelry consistency correction to this EXACT complete comic page63. TOP-LEFT PANEL: Hermione/chestnut-bun has an unwanted second ring on her LOWER hand touching Robin's cheek/chin. Remove ONLY that LOWER-hand ring and restore plain natural finger skin. KEEP the single correct ring on her UPPER hand touching the HAT. Hermione has exactly one ring, on LEFT ring finger; keep all other panels' correct jewelry. ALSO Pansy/short-black-bob has BARE EARS: remove any tiny white stud/pearl visible on her earlobes (especially wide seventh panel) and restore skin. Preserve all eight panels, every exact Spanish word/tilde/balloon/caption and tails, original faces/eyes, clothes and changes, swimwear, hats, infant appearance/holders, anatomy, gestures, all background/boat/cove/gangway, header «Capítulo 13 · 63», crop and1024x1536size. Keep P LEFT HRP wrist chain and entirely plain fingers, H sapphire necklace. Nothing else changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d11faa18-460f-43eb-8799-9845b47d9ea8.png"
+          ],
+          "generatedMaster": "exec-12fbe9ba-842a-402b-9f4e-17389be8b0db.png"
+        }
+      ]
+    },
+    {
+      "page": 64,
+      "image": "paginas/c13-p064.webp",
+      "sourcePdfPages": [
+        633,
+        634
+      ],
+      "summary": "Robin salpica a Pansy y Hermione durante el juego en el agua. Desde las rocas, Daphne y Arianna observan el primer clavado de Blaise.",
+      "panels": [
+        {
+          "scene": "P in BLACK swimsuit holds Robin UNDER BOTH ARMPITS, lifting gently to prepare another shallow splash. Both infant arms and natural legs distinct, head/face well ABOVE water, BLUE DUCK shorts. H olive onepiece swims close beside. One P balloon/tailtoP.",
+          "dialogue": [
+            "Pansy: Una más."
+          ],
+          "sourceFragments": [
+            "Una más."
+          ]
+        },
+        {
+          "scene": "P lowers Robin only to belly-height water, face/chest fully clear, he kicks both legs naturally and splashes P's BLACK sunglasses. She laughs, still secure underarms support. No infant dunking, no extra baby/limb. Full P balloon.",
+          "dialogue": [
+            "Pansy: Eso fue directo a mi cara."
+          ],
+          "sourceFragments": [
+            "Eso fue directo a mi cara."
+          ]
+        },
+        {
+          "scene": "H olive swimsuit/BUN/sapphire gently brushes wet chestnut curls from Robin's forehead as P supports him, human GREEN eyes/blueDUCKshorts. Tail to H for both source sentences, P cannot inherit this line. Warm wide family view and plain P fingers.",
+          "dialogue": [
+            "Hermione: Lo estás sosteniendo frente a ti. Era el resultado más probable."
+          ],
+          "sourceFragments": [
+            "Lo estás sosteniendo frente a ti. Era el resultado más probable."
+          ]
+        },
+        {
+          "scene": "Robin kicks again between them and this time splashes H. P smiles with pride and speaks, H raises one eyebrow amused. Natural baby/two adults, P holds him safely underarms throughout. Full P balloon.",
+          "dialogue": [
+            "Pansy: Está mejorando su puntería."
+          ],
+          "sourceFragments": [
+            "Está mejorando su puntería"
+          ]
+        },
+        {
+          "scene": "Daphne long WET BLONDE/BLUE eyes/TURQUOISE onepiece seated on LOW SMOOTH ROCK with HUMAN Arianna supported between her legs at shallow water. Arianna LIGHTER GOLDEN curls/BLUE eyes/TURQUOISE smallswimsuit, no sunglasses/captainhat. Daph points out toward ketch, exact balloon tail Daph.",
+          "dialogue": [
+            "Daphne: Mira quién está allá."
+          ],
+          "sourceFragments": [
+            "Mira quién está allá."
+          ]
+        },
+        {
+          "scene": "Blaise on side of NAVY-DARKWOOD ketch, short BLACKtwists/dark skin/NAVY SWIM SHORTS, barehead and no sunglasses. The ONE NAVY GOLD-EMBLEM CAPTAINHAT lies on DRY DECK beside rail. He waves ABOVE his head toward Daph/Ari on rocks. Full Italian AND parenthesized Spanish translation in ONE readable balloon from B. Keep sails FURLED.",
+          "dialogue": [
+            "Blaise: Guarda, principessa! (¡Mira, princesa!)"
+          ],
+          "sourceFragments": [
+            "Guarda, principessa! (¡Mira, princesa!)"
+          ]
+        },
+        {
+          "scene": "ONE Blaise figure performs a clean fictional headfirst dive from same deck edge toward OPEN WATER away from rocks, two arms forward and two natural legs; coherent trajectory/body anatomy. A small clean foam entry below, no simultaneous duplicate B. Ketch remains anchored/furled sails. Daph and Ari observing from separate low rock can be tiny."
+        },
+        {
+          "scene": "Blaise surfaces several meters out with short wet BLACKtwists, navy shorts mostly underwater. Daphne claps near Arianna on LOW ROCK, Arianna kicks joyfully while supported between her legs. Daph longwetBLONDE/Ari goldenBLUEeyes/TURQUOISE suits, no extra baby. No new dialogue. Keep calm cove scale and sunlight."
+        }
+      ],
+      "transcript": "Capítulo 13 · 64\n\nRobin salpica a Pansy y Hermione durante el juego en el agua. Desde las rocas, Daphne y Arianna observan el primer clavado de Blaise.\nPansy: Una más.\nPansy: Eso fue directo a mi cara.\nHermione: Lo estás sosteniendo frente a ti. Era el resultado más probable.\nPansy: Está mejorando su puntería.\nDaphne: Mira quién está allá.\nBlaise: Guarda, principessa! (¡Mira, princesa!)",
+      "actualPanelCount": 8,
+      "review": "Revisión entera8viñetas/OCR:6turnos completos con tildes/colas correctas, italianoGuarda,principessa! ytraducción¡Mira,princesa! íntegros. Robin humanoVERDE/rizocastaño/duckshortsSINgafas ni sombrero, siempre sujetobajoambosbrazos/cara fueraagua. Hmoño/OLIVA/zafiro, Pbob/NEGRO/HRPsinanillos. Daph rubiaAZUL/Ari másdoradaAZUL con trajesTURQUESA, Ari apoyada entrepiernasDaphsobreroca. Bnegro/twists/navyshorts/BAREHEAD, únicagorracapitánsobreCUBIERTAseca. Clavado conunB/dosbrazos-dospiernas/proporciones naturales, lejosroca; retorno superficie en8. Velero2mástilesnavywood/velasfurladas/sol/cala coherentes. Sin añadidos ni marca.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p064.png",
+      "sha256": "61cc4aa5972fa9b9501be811ffd314aa9c4c94705ba44f6fe9882c697d65f473",
+      "masterSha256": "dad04104d36328ca43d943bf3f0f81ee02b3d968947120cd6726d69f1148ccb6",
+      "ocrMissingCandidates": [
+        "resultado",
+        "probable",
+        "mejorando",
+        "quien"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create one complete 8-panel Spanish comic page continuing the supplied illustrated story. Portrait canvas 1024 by 1536.\nImages 1 and 2 are permanent original Hermione and Pansy face references. Use their distinctive older student proportions, fine ink and painterly color. Hermione has BROWN irises, freckles and abundant chestnut curls. Her oval midnight blue sapphire with a clear diamond halo hangs on a fine WHITE PLATINUM chain at the front of her chest. Pansy has a tapered angular jaw, slender green almond eyes, flat sleek side parted black bob ending at the chin, and bare ears. Natural individual expressions and no face cloning.\nImage 3 is reference for Immediately preceding APPROVED chapter13 page63: Hermione termina de preparar a Robin con su sombrero. Pansy y Daphne regresan con ropa de baño; media hora después, la familia juega en la cala. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.. Image 4 is reference for Approved Daphne/Blaise/Arianna facial identities ONLY. Use the new water outfits, no old lemon dress/hat/linen clothes against scenes.. Image 5 is reference for Approved anchored cove/navy wood two-mast ketch/ALL sails furled/rope gangway. Smaller yacht pair distant, no extra boat changes..\nContinue at the same Li Galli family cove, bright calm early afternoon, turquoise water and smooth low pale rock ledges. The anchored SANGERMANI ketch has NAVY hull, DARK VARNISHED WOOD, WHITE trim, BRONZE hardware, TWO MASTS with ALL IVORY SAILS FURLED on booms. Stable WOOD PLANK gangway with pale taut ropes connects its side steps to a LOW ROCK, not a high cliff. Four SMALL mature elf crew in TAUPE linen/visors, no extra guests. Cream fixed foredeck cushion, SAND baby bag, empty folded SAND-GOLD Zephyr strapped to wood wall. H: chestnut messy BUN/freckles/BROWN eyes, BLACK sunglasses, OLIVE linen shirt and CREAM shorts through page63 panel7, frontal oval MIDNIGHT BLUE sapphire/clear halo on WHITE PLATINUM chain, exactly ONE clear oval diamond halo ring on LEFT RING FINGER, BARE wrists and no blue earring. P: original short sleek BLACK CHIN-LENGTH bob/angular jaw/GREEN eyes, BLACK sunglasses, LEFT gold barrette, SKY BLUE linen shirt/CREAM shorts until she returns changed on page63. Fine WHITE GOLD H/R/P chain on LEFT WRIST, ALL FINGERS PLAIN no ring/gem/band, ears bare. Robin: HUMAN chestnut curls/GREEN eyes, NO sunglasses since57, smooth skin/natural little hands/feet. Brown thin-white-striped linen clothes first; blue swim shorts with YELLOW DUCKS from61panel2 onward, opaque shorts fully cover his hips in every view. Family beach preparation, ordinary nonsexual care and beachwear, no nudity/changing shown; stage clothing transitions between panels. All characters have natural separate limbs, one carrier/support per infant. The scene list controls all explicit changes of clothes, holders, hats and time; don't copy obsolete state from old references. WATER STATE from63last: H now OLIVE ONE-PIECE/BUN/BLACKglasses/sapphire/LEFTdiamond; P BLACK opaque TWO-PIECE SWIMSUIT/BLACKglasses/SHORT BLACK CHINBOB/LEFT barrette and LEFT WHITEGOLD HRP chain/NO RINGS, her BLACK beach shirt and Robin CREAM-BLUE SUNHAT rest on DRY ROCK. Robin BLUE DUCK shorts, GREEN eyes/chestnut WET CURLS/NO glasses and NO hat in water, securely supported by P UNDER BOTH ARMS, face ALWAYS ABOVE water. Daphne LONG WET BLONDE/BLUE eyes/TURQUOISE ONE-PIECE swimsuit, Arianna HUMAN light golden wet curls/BLUE eyes/tiny TURQUOISE swimsuit with full coverage, supported between Daphne's legs on LOW ROCK; no mini sunglasses/navy cap on her. Blaise DARK skin/DARKBROWN eyes/short BLACKtwists/NAVY swim shorts (color inference from old navy linen), barehead/no glasses to dive, ONE NAVY CAPTAIN HAT now on DRY DECK per634. Mature ordinary family beachwear, correct human proportions; no duplicated dive figures. Draco/Astoria/Scorpius may remain offscreen this page.\nAll infants are human in appearance with smooth skin, individual tiny fingers and natural limbs. Knitted texture belongs to clothes. Keep ages, clothes, hair, hands, colors, objects and locations continuous across panels. Keep an everyday family tone, natural bodies and clothing exactly as the current scenes specify.\nPlace the small black serif header «Capítulo 13 · 64» on the top-left cream margin. Thin black rectangular panel outlines, narrow cream gutters, large readable speech balloons and captions with clear tails. Read left to right, top to bottom. Print only the exact text in quotation marks in the panel list and the header, with all Spanish accents. Speaker names specify balloon tails and are not printed. No added words, footer or watermark.\nWithin a panel, the balloons follow the stated dialogue order. Stage the first speaker to the left and the reply to the right when compatible with the shot. Otherwise clearly stagger the reply below the first balloon. Distinct tails and negative space above the faces, without hiding eyes or hair.\nPanel 1. P in BLACK swimsuit holds Robin UNDER BOTH ARMPITS, lifting gently to prepare another shallow splash. Both infant arms and natural legs distinct, head/face well ABOVE water, BLUE DUCK shorts. H olive onepiece swims close beside. One P balloon/tailtoP. Balloon from Pansy. Print verbatim «Una más.»\nPanel 2. P lowers Robin only to belly-height water, face/chest fully clear, he kicks both legs naturally and splashes P's BLACK sunglasses. She laughs, still secure underarms support. No infant dunking, no extra baby/limb. Full P balloon. Balloon from Pansy. Print verbatim «Eso fue directo a mi cara.»\nPanel 3. H olive swimsuit/BUN/sapphire gently brushes wet chestnut curls from Robin's forehead as P supports him, human GREEN eyes/blueDUCKshorts. Tail to H for both source sentences, P cannot inherit this line. Warm wide family view and plain P fingers. Balloon from Hermione. Print verbatim «Lo estás sosteniendo frente a ti. Era el resultado más probable.»\nPanel 4. Robin kicks again between them and this time splashes H. P smiles with pride and speaks, H raises one eyebrow amused. Natural baby/two adults, P holds him safely underarms throughout. Full P balloon. Balloon from Pansy. Print verbatim «Está mejorando su puntería.»\nPanel 5. Daphne long WET BLONDE/BLUE eyes/TURQUOISE onepiece seated on LOW SMOOTH ROCK with HUMAN Arianna supported between her legs at shallow water. Arianna LIGHTER GOLDEN curls/BLUE eyes/TURQUOISE smallswimsuit, no sunglasses/captainhat. Daph points out toward ketch, exact balloon tail Daph. Balloon from Daphne. Print verbatim «Mira quién está allá.»\nPanel 6. Blaise on side of NAVY-DARKWOOD ketch, short BLACKtwists/dark skin/NAVY SWIM SHORTS, barehead and no sunglasses. The ONE NAVY GOLD-EMBLEM CAPTAINHAT lies on DRY DECK beside rail. He waves ABOVE his head toward Daph/Ari on rocks. Full Italian AND parenthesized Spanish translation in ONE readable balloon from B. Keep sails FURLED. Balloon from Blaise. Print verbatim «Guarda, principessa! (¡Mira, princesa!)»\nPanel 7. ONE Blaise figure performs a clean fictional headfirst dive from same deck edge toward OPEN WATER away from rocks, two arms forward and two natural legs; coherent trajectory/body anatomy. A small clean foam entry below, no simultaneous duplicate B. Ketch remains anchored/furled sails. Daph and Ari observing from separate low rock can be tiny.\nPanel 8. Blaise surfaces several meters out with short wet BLACKtwists, navy shorts mostly underwater. Daphne claps near Arianna on LOW ROCK, Arianna kicks joyfully while supported between her legs. Daph longwetBLONDE/Ari goldenBLUEeyes/TURQUOISE suits, no extra baby. No new dialogue. Keep calm cove scale and sunlight.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p002.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\dist\\paginas\\c01-p001.webp",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p063_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p050_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p060_r3.png"
+          ],
+          "generatedMaster": "exec-c8a80482-bad9-4347-9210-b0036fc6390f.png"
+        }
+      ]
+    }
+  ]
+}

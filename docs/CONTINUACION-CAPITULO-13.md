@@ -168,3 +168,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 60 | 630–631 | Los elfos recogen las velas y Gnocchi coloca las protecciones mágicas alrededor del velero y la cala. Una pasarela de madera y cuerdas se extiende hasta la roca, mientras todos siguen a bordo. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-57-60.json).
+
+## Páginas 61–64
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 61 | 631 | Hermione prepara a Robin para nadar con el bañador azul de patitos. Pansy ayuda mientras el pequeño juega con sus pies; después ambas terminan de extenderle la poción protectora. |
+| 62 | 632 | Las bromas sobre la poción terminan con una mancha en la mejilla de Pansy. Hermione la extiende y las dos comparten un breve beso antes de que Pansy baje a cambiarse. |
+| 63 | 633 | Hermione termina de preparar a Robin con su sombrero. Pansy y Daphne regresan con ropa de baño; media hora después, la familia juega en la cala. |
+| 64 | 633–634 | Robin salpica a Pansy y Hermione durante el juego en el agua. Desde las rocas, Daphne y Arianna observan el primer clavado de Blaise. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-61-64.json).
