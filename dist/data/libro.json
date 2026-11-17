@@ -3372,7 +3372,7 @@
         744
       ],
       "words": 63406,
-      "plannedPages": 88,
+      "plannedPages": 180,
       "pages": [
         {
           "number": 1,
@@ -3693,6 +3693,38 @@
           "height": 1536,
           "alt": "Capítulo 13, La Dolce Vita. Página 40 del cómic.",
           "transcript": "Capítulo 13 · 40\n\nHermione prueba la pasta al limón, los scialatielli y la colatura, y comprende con Blaise cómo cambia la experiencia al acompañarlos con vino. Después continúa con el pescado y los calamares.\nBlaise: Ahora comprendes por qué la pasta debe ser más gruesa. Si fuera demasiado fina, desaparecería entre los mariscos.\nHermione: También entiendo por qué insististe en que la probara caliente. La textura cambiaría mucho si la salsa comenzara a enfriarse.\nBlaise: Prueba el vino antes de decidir cuánto te gusta.\nHermione: No elimina la intensidad, pero hace que sea más fácil distinguir cada ingrediente.\nBlaise: Esa es la razón de la combinación. El vino no debe borrar el plato. Debe darle espacio para que puedas regresar al siguiente bocado sin sentir que sigues atrapada en el anterior."
+        },
+        {
+          "number": 41,
+          "image": "paginas/c13-p041.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 41 del cómic.",
+          "transcript": "Capítulo 13 · 41\n\nLa familia sigue comiendo sin prisa. Daphne ayuda a Blaise a no olvidarse de su plato; Astoria cuida de Draco y de Scorpius dormido, mientras Markus y Eirena comparten pan, queso y fruta.\nAstoria: ¿Mejor?\nDraco: Mucho mejor."
+        },
+        {
+          "number": 42,
+          "image": "paginas/c13-p042.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 42 del cómic.",
+          "transcript": "Capítulo 13 · 42\n\nPansy se avergüenza al ver a sus padres cariñosos. Lissandra y Caelum comparten fruta y vino; la conversación pasa de la subasta de Milán a los Oxford Occamies, y Hermione descubre la pequeña mesa donde comen los elfos.\nNarración: Los tres pasaban del inglés al italiano con tanta naturalidad que algunas frases comenzaban en un idioma y terminaban en el otro. Chiara hablaba sobre una próxima subasta en Milán, mientras Markus opinaba sobre el transporte de las piezas y corregía de vez en cuando alguna fecha.\nCaelum: Necesitamos un buscador más consistente. El equipo no puede depender de remontar en los últimos cinco minutos.\nEirena: El problema no es el buscador, sino la defensa. Perdieron dos partidos porque permitieron que el rival marcara antes de que los golpeadores consiguieran organizarse.\nPansy: Mi madre lleva tres años intentando convencerlos de cambiar a la mitad del equipo.\nEirena: Y algún día admitirán que tengo razón."
+        },
+        {
+          "number": 43,
+          "image": "paginas/c13-p043.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 43 del cómic.",
+          "transcript": "Capítulo 13 · 43\n\nEl atardecer envuelve la mesa. Hermione y Pansy comparten una mirada y se toman de la mano; después las flores suspendidas bajo la pérgola se cierran y se transforman en esferas doradas."
+        },
+        {
+          "number": 44,
+          "image": "paginas/c13-p044.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Capítulo 13, La Dolce Vita. Página 44 del cómic.",
+          "transcript": "Capítulo 13 · 44\n\nHermione y Robin contemplan las luces con el mismo asombro. Markus y Eirena animan a Pansy a llevar a Hermione a la terraza oeste, y las dos se levantan discretamente de la mesa.\nMarkus: La terraza oeste tiene la mejor vista a esta hora. Sería una excelente idea que llevaras a Hermione antes de que el sol termine de bajar.\nPansy: Quiero mostrarte algo antes de que cambie la luz.\nHermione: ¿Ahora?"
         }
       ]
     }

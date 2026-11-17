@@ -2,6 +2,8 @@
 
 Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, páginas 572–744. Cada entrega se incorpora después de revisar ilustraciones, texto y continuidad.
 
+La extensión prevista es de unas **180 ilustraciones**, una estimación provisional para conservar las conversaciones completas y las acciones de la fuente. Se ajustará conforme avance la revisión editorial.
+
 ## Páginas 1–4
 
 | Página | Fuente PDF | Escena |
@@ -111,3 +113,14 @@ Adaptación del capítulo 13 de Nicole_Winkel. La fuente es el PDF completo, pá
 | 40 | 609–610 | Hermione prueba la pasta al limón, los scialatielli y la colatura, y comprende con Blaise cómo cambia la experiencia al acompañarlos con vino. Después continúa con el pescado y los calamares. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-37-40.json).
+
+## Páginas 41–44
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 41 | 610 | La familia sigue comiendo sin prisa. Daphne ayuda a Blaise a no olvidarse de su plato; Astoria cuida de Draco y de Scorpius dormido, mientras Markus y Eirena comparten pan, queso y fruta. |
+| 42 | 610–611 | Pansy se avergüenza al ver a sus padres cariñosos. Lissandra y Caelum comparten fruta y vino; la conversación pasa de la subasta de Milán a los Oxford Occamies, y Hermione descubre la pequeña mesa donde comen los elfos. |
+| 43 | 612 | El atardecer envuelve la mesa. Hermione y Pansy comparten una mirada y se toman de la mano; después las flores suspendidas bajo la pérgola se cierran y se transforman en esferas doradas. |
+| 44 | 613 | Hermione y Robin contemplan las luces con el mismo asombro. Markus y Eirena animan a Pansy a llevar a Hermione a la terraza oeste, y las dos se levantan discretamente de la mesa. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-41-44.json).
