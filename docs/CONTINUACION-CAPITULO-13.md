@@ -322,3 +322,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 116 | 671 | Pansy empieza a explicar que imagina a Hermione en todos sus planes, más allá de casarse algún día. Hermione escucha sin interrumpir. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-113-116.json).
+
+## Páginas 117–120
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 117 | 671–672 | Pansy explica por qué no quiere perder a Hermione ni la persona que es junto a ella. Se reconcilian con un beso y reparan en la sal y la arena de la tarde. |
+| 118 | 672 | Hermione propone lavarse la sal y la arena. Entran juntas a su habitación, cierran la puerta y pasan al baño de mármol frente al mar. |
+| 119 | 673 | En el baño, Hermione y Pansy comentan la camisa de playa y las miradas de la mañana. La camisa queda sobre el lavabo mientras continúan hablando. |
+| 120 | 673–674 | Hermione aclara que no quiere borrar el pasado de Pansy: le dolió tener que enfrentarse sola a Allegra. Pansy escucha y acepta que no tendrá que competir por ella. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-117-120.json).
