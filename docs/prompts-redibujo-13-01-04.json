@@ -1,0 +1,481 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 1,
+  "end": 4,
+  "date": "2026-11-18",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 1,
+      "original": "paginas/c13-p001.webp",
+      "image": "paginas/c13-p001-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        572,
+        573
+      ],
+      "summary": "La llegada del traslador a Amalfi, la comprobación de Robin y la vista abierta sobre el Tirreno.",
+      "panels": [
+        {
+          "scene": "Wide opener from a slightly LOW viewpoint just inside terrace, showing the jolt ending: Hermione closes eyes briefly, shoes land on white marble; Pansy steadies her by the waist without losing balance, faces recognizable in profile. Purple vine and sunlit stone give depth; teapot drops onto a brown travel case on left; Zephyr lands safely to the right, baby supported inside. Keep layout clear and readable.",
+          "caption": "El viaje en traslador terminó con un tirón."
+        },
+        {
+          "scene": "Close ordinary care detail: delicate amber light in Zephyr handle as the sand hood folds back; Hermione's plain RIGHT fingers test the warmth of Robin's tiny smooth fingers, check that light cream blanket and white shirt stay in place. No rings on right or oversized toddler standing. A safe human baby, tiny fingers. No second cot.",
+          "caption": "El Zephyr se ajustó al cambio de temperatura."
+        },
+        {
+          "scene": "Three-quarter medium view at stroller. Pansy in sky-blue shirt turns her green, tapered face toward Hermione, amused without a large grin. Place one spacious balloon entirely over soft veranda background, tail to Pansy. Pansy's hands can be below crop.",
+          "dialogue": [
+            "Pansy: El Zephyr hizo el cambio de temperatura en cuanto llegamos. Aun así, no esperaba que confiaras en él sin comprobarlo por tu cuenta."
+          ],
+          "sourceFragments": [
+            "El Zephyr hizo el cambio de temperatura en cuanto llegamos",
+            "Aun así, no esperaba que confiaras en él sin comprobarlo por tu cuenta."
+          ]
+        },
+        {
+          "scene": "Wide horizontal talk panel; Hermione leaning by Robin adjusts the blanket, speaking calmly to Pansy; flowing curls naturally drape over her shoulder. Give two full sentences generous space, retain the lower hands and one supported baby.",
+          "dialogue": [
+            "Hermione: Confiar en el cochecito y revisar a nuestro hijo no son cosas incompatibles. Además, después de escucharte hablar durante dos semanas sobre cada una de sus funciones, sé perfectamente que puedes utilizar mi preocupación como prueba de que hiciste una buena compra."
+          ],
+          "sourceFragments": [
+            "Confiar en el cochecito y revisar a nuestro hijo no son cosas incompatibles",
+            "Además, después de escucharte hablar durante dos semanas sobre cada una de sus funciones, sé perfectamente que puedes utilizar mi preocupación como prueba de que hiciste una buena compra."
+          ]
+        },
+        {
+          "scene": "Pansy quiet satisfied smile and recognizable angular profile, rests one plain hand on padded bassinet edge, slim chain on her LEFT wrist only where seen. Clear single short quote.",
+          "dialogue": [
+            "Pansy: La excelencia merece ser reconocida."
+          ],
+          "sourceFragments": [
+            "La excelencia merece ser reconocida."
+          ]
+        },
+        {
+          "scene": "Wordless stroller-level close-up. Infant Robin plays with one colored ring attached above him, releases it when Pansy's natural bare right index touches his cheek, and takes that finger with tiny hands; he remains securely reclined. Match Robin's green eyes, nose, small smile, chestnut curls and proportions from reference. Avoid optical duplication of limbs."
+        },
+        {
+          "scene": "Pansy looks down at Robin, a barely amused sideways smile; Hermione on the other side also softens into a smile. Tail to Pansy and readable full line. Distinct face silhouettes as chapter 12.",
+          "dialogue": [
+            "Pansy: Al menos alguien en esta familia aprecia las cosas buenas."
+          ],
+          "sourceFragments": [
+            "Al menos alguien en esta familia aprecia las cosas buenas"
+          ]
+        },
+        {
+          "scene": "Final panorama wide. Behind/right of Hermione as she straightens and takes in the first sweeping view of the Amalfi coastline, Pansy and stroller remain in foreground. The first view opens to deep muted sea and layered hillside houses. Cream awnings, white stone, lemon foliage, wrought iron; airy bright natural daylight. A single square caption in negative space.",
+          "caption": "Más allá de la terraza se extendía el mar Tirreno.",
+          "sourceFragments": [
+            "Más allá de la terraza se extendía el mar Tirreno."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 01\n\nEl traslador deja a la familia en Amalfi. El Zephyr se adapta al clima; Hermione y Pansy conversan sin recortar sus réplicas sobre comprobar a Robin y la buena compra.\nNarración: El viaje en traslador terminó con un tirón.\nNarración: El Zephyr se ajustó al cambio de temperatura.\nPansy: El Zephyr hizo el cambio de temperatura en cuanto llegamos. Aun así, no esperaba que confiaras en él sin comprobarlo por tu cuenta.\nHermione: Confiar en el cochecito y revisar a nuestro hijo no son cosas incompatibles. Además, después de escucharte hablar durante dos semanas sobre cada una de sus funciones, sé perfectamente que puedes utilizar mi preocupación como prueba de que hiciste una buena compra.\nPansy: La excelencia merece ser reconocida.\nPansy: Al menos alguien en esta familia aprecia las cosas buenas.\nNarración: Más allá de la terraza se extendía el mar Tirreno.",
+      "review": "Página nueva dibujada desde PDF 572–573, con composición nueva y referencias directas de capítulo 12 para rostros, proporciones, tinta, Zephyr y acabado. Se comprueba trazo modulado, sombras suaves, piel y telas con textura, y rasgos de Hermione, Pansy y Robin. R4 corrige el iris castaño de Hermione sin cambiar los verdes de Pansy ni Robin. Pansy luce su pasador y cadena H/R/P izquierdos en quinta viñeta, todos los dedos lisos. Hermione lleva su zafiro frontal y un solo anillo cuando se ve la mano izquierda. Robin permanece en el Zephyr de latón y lona (capota y luz se indican en el arte) y abre los ojos al jugar. Tres cartelas y cuatro parlamentos intactos, acentos y colas revisados. OCR sin palabras faltantes.",
+      "reviewDate": "2026-11-18",
+      "sha256": "d073e6f483201c7b915944b25fcb0711b5b3d15ed2d2738757a537bda60b525f",
+      "masterSha256": "c73d3ffb1ce45c5b9c72a68da580c573ff5743eb873a42f288bc33a1f5149256",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p001-redibujo12-v4.png",
+      "selectedAttempt": "c13_p001_redibujo12_v4.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p001_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/robin-12-p085.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p019.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p095.webp"
+          ],
+          "prompt": "Use case: illustration-story. Draw a NEW complete eight-panel page of the same Spanish comic as the chapter 12 references, next chapter's opening. 1024 by 1536 portrait. The artwork must be a direct visual continuation of chapter 12. Image 1 is Hermione's actual facial anatomy and loose chestnut curls. Image 2 is Pansy's actual facial anatomy, narrow almond green eyes and tapered chin, side part and flat chin-length dark bob, fine gold left hair clip. Image 3 is Robin's actual infant face, green eyes and small brown curls. Match their specific eye spacing, nose, cheek and jaw shapes, eyebrows, mouths, age and proportions. These first three images are exact character identity references, paired with their clothes in the current scene below only. Image 4 is the actual sand-gold Zephyr bassinet/cream padded canopy/dark brown padded handle and gold chassis/large spoked brass wheels, and chapter 12 illustrated structure. Image 5 is the rendering reference and source of the permanent jewelry, body proportions, inking and trim. New compositions exactly from the scene and script, do not repeat any panel from the reference images.\nHand-drawn book-comic finish of chapter 12: very fine modulated dark contours, subtly brushed matte painted skin and soft warm shadow transitions. Strong depth with shadow under plants and awning, delicate fabric and marble grain, a mixture of calm medium and wide compositions, restrained lip and hair highlights. Eye and face construction as in the crops, distinct from each other. Same cream gutters/black clean rectangular borders and serif Spanish lettering as chapter 12. The setting has its own naturally colorful coast, muted peach skin, blue and green hues, no Christmas props/old rooms/clothes, no neon, no plastic gloss.\nAmalfi villa arrival terrace, mild winter afternoon, brilliant but natural Tyrrhenian blue sea beyond a white classical balustrade, warm sun tempered by cream fabric awnings. Broad white marble gallery, pale columns and pale-wood double doors, magenta bougainvillea, terracotta planters with lemon trees, olives and rosemary, wrought-iron tables under awnings. Sea-cliff terraces and distant little boats. Deep soft shadows, warm neutral cream stone, warm peach natural skin without orange glaze. Three travel bags stay by doors, one bronze teapot on landing suitcase. One Zephyr, fully supported human Robin IN its sand carrycot. Same individual Chapter12 faces. Hermione opaque fitted IVORY blouse and IVORY flowing wide-leg trousers, closed cream flats, loose waist-length chestnut curls, freckles and warm BROWN eyes, small clear halo BLUE sapphire frontal on white platinum chain and one separate clear halo diamond on her LEFT RING finger. Pansy rolled-sleeve muted cornflower SKY BLUE linen shirt, full WHITE trousers and white loafers, left slim gold barrette, slender GREEN eyes and asymmetrical flat side-part black bob precisely to jaw; unadorned ears, ALL fingers plain, only fine white-gold HRP charm chain LEFT WRIST. Robin green eyes and chestnut baby curls, white shirt and blue trousers, ankles visible, resting in his covered bassinet. Same size and facial construction as 12/85. No unrelated people or duplicated stroller.\nCompose eight clear panels, top to bottom, left to right; 1 wide, 2 and 3 side-by-side with extra room for 3, 4 full-width, 5 and 6 side-by-side, 7 and 8 with 8 the larger panorama, or 7 narrow row then 8 wide. Keep every line intact. Heading in cream margin «Capítulo 13 · 01». Exact content, no extra caption or speaker names printed:\nPanel 1: Wide opener from a slightly LOW viewpoint just inside terrace, showing the jolt ending: Hermione closes eyes briefly, shoes land on white marble; Pansy steadies her by the waist without losing balance, faces recognizable in profile. Purple vine and sunlit stone give depth; teapot drops onto a brown travel case on left; Zephyr lands safely to the right, baby supported inside. Keep layout clear and readable. Caption exact: «El viaje en traslador terminó con un tirón.».\nPanel 2: Close ordinary care detail: delicate amber light in Zephyr handle as the sand hood folds back; Hermione's plain RIGHT fingers test the warmth of Robin's tiny smooth fingers, check that light cream blanket and white shirt stay in place. No rings on right or oversized toddler standing. A safe human baby, tiny fingers. No second cot. Caption exact: «El Zephyr se ajustó al cambio de temperatura.».\nPanel 3: Three-quarter medium view at stroller. Pansy in sky-blue shirt turns her green, tapered face toward Hermione, amused without a large grin. Place one spacious balloon entirely over soft veranda background, tail to Pansy. Pansy's hands can be below crop. Pansy balloon only: «El Zephyr hizo el cambio de temperatura en cuanto llegamos. Aun así, no esperaba que confiaras en él sin comprobarlo por tu cuenta.».\nPanel 4: Wide horizontal talk panel; Hermione leaning by Robin adjusts the blanket, speaking calmly to Pansy; flowing curls naturally drape over her shoulder. Give two full sentences generous space, retain the lower hands and one supported baby. Hermione balloon only: «Confiar en el cochecito y revisar a nuestro hijo no son cosas incompatibles. Además, después de escucharte hablar durante dos semanas sobre cada una de sus funciones, sé perfectamente que puedes utilizar mi preocupación como prueba de que hiciste una buena compra.».\nPanel 5: Pansy quiet satisfied smile and recognizable angular profile, rests one plain hand on padded bassinet edge, slim chain on her LEFT wrist only where seen. Clear single short quote. Pansy balloon only: «La excelencia merece ser reconocida.».\nPanel 6: Wordless stroller-level close-up. Infant Robin plays with one colored ring attached above him, releases it when Pansy's natural bare right index touches his cheek, and takes that finger with tiny hands; he remains securely reclined. Match Robin's green eyes, nose, small smile, chestnut curls and proportions from reference. Avoid optical duplication of limbs.\nPanel 7: Pansy looks down at Robin, a barely amused sideways smile; Hermione on the other side also softens into a smile. Tail to Pansy and readable full line. Distinct face silhouettes as chapter 12. Pansy balloon only: «Al menos alguien en esta familia aprecia las cosas buenas.».\nPanel 8: Final panorama wide. Behind/right of Hermione as she straightens and takes in the first sweeping view of the Amalfi coastline, Pansy and stroller remain in foreground. The first view opens to deep muted sea and layered hillside houses. Cream awnings, white stone, lemon foliage, wrought iron; airy bright natural daylight. A single square caption in negative space. Caption exact: «Más allá de la terraza se extendía el mar Tirreno.».\nComplete page only, no watermark or author tag over the art.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bf1d6f33-baad-48ab-ad83-5d373aa2b35c.png"
+        },
+        {
+          "name": "c13_p001_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bf1d6f33-baad-48ab-ad83-5d373aa2b35c.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Refine Image 1, the completely redrawn Spanish comic page «Capítulo 13 · 01». Keep all existing 8 borders, caption boxes, original lettering with EVERY word and accent, every pose/face identity as in the newly drawn page, and the painterly chapter 12 rendering. Image 2 is ONLY Pansy's anatomical left temple and gold barrette, and her tapered face/skin tone. Preserve ivory and blue outfits and the terrace / natural afternoon light. Make these precise continuity fixes:\n1. Hermione is the long CURLY CHESTNUT woman in IVORY. Her EYES are dark warm BROWN in every appearance. Specifically recolor the visibly olive-green iris in panel 2, near x192 y519, to chestnut BROWN. Keep Pansy's and ROBIN'S green irises; do not change their iris colors. Keep eye shapes.\n2. Panel 5, left panel in fourth tier «La excelencia merece ser reconocida.»: Only in this panel shift Pansy's viewpoint to see HER LEFT TEMPLE and LEFT ARM. Put her portrait on panel-right looking toward cot on panel-left, with her bare fingers of the naturally connected LEFT hand on the rim like now. Add her one small thin gold barrette just above the left ear on left side of her head, matching Image 2, and ONE fine white-gold charm chain with small H R P on LEFT wrist. Her other right wrist and all her fingers are plain. Preserve the recognizable chapter12 face, asymmetrical black chin bob and blue LINEN shirt, existing exact Spanish sentence with tail to her. No extra jewelry.\n3. Zephyr continuity: panel 1 keeps its upright winter canopy upon arrival. In panel 2 only, draw that same padded cream canopy folding backward a little (keep Robin reclined securely) and show the tiny warm indicator lit at the brown handle corner. In panels 3–8 when seen, the same canopy is in its slightly retracted summer position, lowering the upper arc but preserving the gold chassis, sand-colored oval carrycot, handle and baby scale. In last panorama ONLY, keep the same small Robin awake with green eyes gently open, as in panel 6, comfortably reclined facing back toward Pansy. No second stroller, stuck hands, or new people.\nAll Spanish text, existing headline, dialogue positions except tiny necessary shift inside panel5, scenes, book/comic aesthetic and props match Image 1. Do not add any extra text/frames. Full 1024x1536 page.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-13c8e761-7706-4e38-9ffd-fcd8d9de02e0.png"
+        },
+        {
+          "name": "c13_p001_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-13c8e761-7706-4e38-9ffd-fcd8d9de02e0.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p095.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Edit complete Image 1 comic page with exactly ONE tiny localized change. In panel 2 (second tier LEFT) the curly-haired ivory-clothed Hermione checks the sleeping baby. Her closest visible iris, around x212 y518 in this 1024x1536 page, is currently dark olive green. Repaint ONLY that iris using the warm dark CHESTNUT BROWN iris color of Hermione in Image 2. Brown and black pigment and the natural white catchlight, ZERO GREEN/OLIVE/Hazel in that tiny iris dark brown area. Keep the shape of the eye, lashes, facial expression, pose and freckles. Image 2 supplies BROWN iris color ONLY, not a different pose. Preserve every other pixel/detail closely; keep Pansy's Green eyes in panels 3,5,7 and Robin's green eyes in 6,8 unchanged. No changes to the reader text or copy: «Capítulo 13 · 01», eight precise original panels, all original words, accents, the arch of the Zephyr, black-bob Pansy's left gold barrette and left H R P bracelet in panel 5, human baby, cream/blue clothing, faces, colors and art. Complete unchanged page except the retinted HERMIONE iris, 1024x1536 portrait.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-78f27978-6237-4e81-8d21-0a7cf4ded46d.png"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "original": "paginas/c13-p002.webp",
+      "image": "paginas/c13-p002-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        573,
+        574
+      ],
+      "summary": "Hermione descubre Amalfi, escucha a Pansy y conoce la bienvenida de Chiara en la terraza.",
+      "panels": [
+        {
+          "scene": "Medium-wide from SEAWARD side along stone rail, foreground rosemary and lemon leaves, Hermione turns away from sea toward Pansy, who waits on other side of Zephyr. H looks RIGHT toward P, dark BROWN eyes and recognizable loose chestnut curls, hands below crop. One complete line, H tail.",
+          "dialogue": [
+            "Hermione: Ahora entiendo por qué estabas tan ansiosa por llegar."
+          ],
+          "sourceFragments": [
+            "Ahora entiendo por qué estabas tan ansiosa por llegar"
+          ]
+        },
+        {
+          "scene": "Full-width warm shot of both by railing, Pansy on right looks toward H, gestures seaward toward distant garden tiers, left fingers bare, HRP on LEFT wrist only where visible; natural five fingers. One spacious balloon for all THREE phrases, tail P only. No other figures.",
+          "dialogue": [
+            "Pansy: Todavía no has visto los jardines ni la playa. Espera a que Chiara comience el recorrido. Nadie muestra una propiedad con mayor entusiasmo que ella, sobre todo cuando la propiedad es suya."
+          ],
+          "sourceFragments": [
+            "Todavía no has visto los jardines ni la playa",
+            "Espera a que Chiara comience el recorrido. Nadie muestra una propiedad con mayor entusiasmo que ella, sobre todo cuando la propiedad es suya."
+          ]
+        },
+        {
+          "scene": "Wordless medium close-up, natural gentle everyday gesture: Pansy tucks ONE chestnut strand behind Hermione's ear then smooths one wrinkle on her shoulder, express sequential feel using the final motion on her ivory shoulder with the strand now behind her ear. One hand from P, RIGHT hand/wrist plain, no duplicated arms, faces quietly smiling. H keeps curls loose and oval front blue sapphire.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Wordless doorway establishing panel, pale double doors now OPEN outward toward terrace. Chiara steps through, smiling warmly, arms slightly open with natural fingers, facial structure/braided updo and rich brown skin from Image3, wide CHAMPAGNE hat and understated mature distinct expression. Full figure in her skirt/sandals. One person only from doorway. Teapot and travel bags by jamb exactly as page1 if visible.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "FULL-WIDTH waist-up Chiara welcomes visitors, eye line clear toward Hermione and Pansy. Joined single large legible two-sentence balloon from Chiara, preserve all the words, no drink drawn, H/P listening each own face. Sea/cot in distance if room.",
+          "dialogue": [
+            "Chiara: Llegaron justo a tiempo. Estaba a punto de pedir que prepararan otra ronda de bebidas, y habría sido imperdonable que comenzaran sus vacaciones sin una copa en la mano."
+          ],
+          "sourceFragments": [
+            "Llegaron justo a tiempo",
+            "Estaba a punto de pedir que prepararan otra ronda de bebidas, y habría sido imperdonable que comenzaran sus vacaciones sin una copa en la mano."
+          ]
+        },
+        {
+          "scene": "Wordless Chiara greets Pansy with the conventional brief cheek-to-cheek Italian greeting, warm smiles, no body emphasis. Chiara hat tilts naturally out of their way, her mature face unmistakable versus Pansy's black bob/blue shirt; no duplicates.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Wordless Chiara then greets Hermione the same ordinary way, Pansy waits beside their one carrycot. Distinct ivory curls, champagne braids under hat and blue black bob. Use different crop/profile from panel6, silent.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Last panel close to cot. Chiara bends her head toward smiling Robin, a brief kiss on his cheek; he responds by curling his little hand around her one offered ordinary finger. He is awake comfortably reclined, white shirt and blue trousers, green eyes looking up, no adult palms on his face. H/P offscreen or edge crop; caption ONLY the specified quote (speech tail to Chiara).",
+          "dialogue": [
+            "Chiara: Mírate, piccolo. Cada vez que te veo estás más grande."
+          ],
+          "sourceFragments": [
+            "Mírate, piccolo",
+            "Cada vez que te veo estás más grande."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 02\n\nHermione admira Amalfi. Pansy anuncia el recorrido y Chiara les da la bienvenida completa antes de saludar a Robin.\nHermione: Ahora entiendo por qué estabas tan ansiosa por llegar.\nPansy: Todavía no has visto los jardines ni la playa. Espera a que Chiara comience el recorrido. Nadie muestra una propiedad con mayor entusiasmo que ella, sobre todo cuando la propiedad es suya.\nChiara: Llegaron justo a tiempo. Estaba a punto de pedir que prepararan otra ronda de bebidas, y habría sido imperdonable que comenzaran sus vacaciones sin una copa en la mano.\nChiara: Mírate, piccolo. Cada vez que te veo estás más grande.",
+      "review": "Nueva composición, ocho viñetas y cuatro parlamentos completos de PDF 573–574. Comparación con C12 en caras, cejas y nariz de Hermione, mandíbula, sonrisa y bob de Pansy, proporción y pelo de Robin, y acabado del dibujo. Chiara conserva cara, piel y trenzas de su primera aparición, ahora con conjunto champán en dos piezas, sombrero y joyas propias. Pasador y brazalete de Pansy en anatomía izquierda, dedos lisos. R4 cubre pendiente espurio bajo el mechón de la viñeta 3. Saludos en mejillas por separado y después al bebé seguro en su Zephyr. Todos los diálogos, signos y acentos comprobados visualmente. Mírate/piccolo/estás/grande en última viñeta presentes aunque OCR de la R3 los marcó como candidatos.",
+      "reviewDate": "2026-11-18",
+      "sha256": "cc9cde7e98cdba65c67c145aafdc05c93871fe139107fbacbac0d8f112cb269b",
+      "masterSha256": "731ca42adc01fce5f4f9e39d8518c0696926d8b4e1109b536e9984804400fc16",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p002-redibujo12-v4.png",
+      "selectedAttempt": "c13_p002_redibujo12_v4.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p002_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/chiara-09-p021.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p001-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/robin-12-p085.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 02».\nImage 1: Hermione exact chapter 12 loose-curl face design and matte line art.\nImage 2: Pansy exact chapter 12 facial geometry, eyes and hair cut, slim left barrette and matte finish.\nImage 3: Chiara's established individual face, eyes, brown skin and braided updo from her first chapter 9 appearance only; new champagne outfit and hat as specified.\nImage 4: Approved new chapter 13 opening page: the already recreated terrace, garments, Zephyr proportions, travel bags and watercolor-painted details ONLY. Use new panels and actions.\nImage 5: Human Robin's own chapter 12 face and light brown curls, green eyes and age; preserve new white/blue clothing in page 2.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nThe SAME mild WINTER AFTERNOON as the first chapter13 page: sun through cream awning across white MARBLE, columns and pale wood double doors, shade and pale walls, magenta bougainvillea, ripe lemons, olives and potted rosemary, wrought iron tables, sea and terraced distant houses beyond white balustrade. The family has only just arrived. Do not use any other locale. Hermione with her exact chapter12 original facial proportions: abundant loose rich CHESTNUT curls, warm dark brown irises, freckles, small nose and narrow lips in the reference. IVORY opaque fitted-waist sleeve blouse and wide IVORY trousers, light flats, frontal oval sapphire midnight BLUE halo on WHITE platinum chain and one clear-halo diamond on LEFT ring finger only (right hand and wrists plain). Pansy exact chapter12 angular tapered face and slender olive GREEN eyes, BLACK flat chin-length asymmetrical side part, small GOLD barrette over LEFT temple, plain ears, soft SKY BLUE rolled sleeve LINEN, WHITE trousers, white loafers. All fingers completely bare, single fine WHITE GOLD chain with H R P LEFT wrist only. Only one human baby ROBIN with realistic small fingers, skin and proportions as redraw01 and chapter12, GREEN eyes/chestnut curls/WHITE shirt/blue trousers, always safe reclining/reaching in the ONE Zephyr cream padded oval carrycot/brass frame/curved sand hood lowered slightly/dark leather handle/colored ring mobile. Three bags with one travel teapot remain near doors, only when visible. No baby transport to a second place, no clones or extra people. Chiara mature Black woman, deep warm brown skin, original brown eyes under her broad champagne woven sun hat, high cheek line and actual detailed close-up profile (not a copy of Pansy or another character), tidy dark BRAIDS gathered up beneath hat, dark red understated lips. Matching opaque champagne top and ankle-length skirt, gold flat sandals, small round gold earrings, bracelets only her own old gold bangles. Use her first reference's face and specifically this new outfit. Distinct older than the two visitors. No drink in anyone's hand, the welcome only mentions that drinks may be brought.\nExactly 8 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: Medium-wide from SEAWARD side along stone rail, foreground rosemary and lemon leaves, Hermione turns away from sea toward Pansy, who waits on other side of Zephyr. H looks RIGHT toward P, dark BROWN eyes and recognizable loose chestnut curls, hands below crop. One complete line, H tail. Hermione balloon: «Ahora entiendo por qué estabas tan ansiosa por llegar.».\nPanel 2: Full-width warm shot of both by railing, Pansy on right looks toward H, gestures seaward toward distant garden tiers, left fingers bare, HRP on LEFT wrist only where visible; natural five fingers. One spacious balloon for all THREE phrases, tail P only. No other figures. Pansy balloon: «Todavía no has visto los jardines ni la playa. Espera a que Chiara comience el recorrido. Nadie muestra una propiedad con mayor entusiasmo que ella, sobre todo cuando la propiedad es suya.».\nPanel 3: Wordless medium close-up, natural gentle everyday gesture: Pansy tucks ONE chestnut strand behind Hermione's ear then smooths one wrinkle on her shoulder, express sequential feel using the final motion on her ivory shoulder with the strand now behind her ear. One hand from P, RIGHT hand/wrist plain, no duplicated arms, faces quietly smiling. H keeps curls loose and oval front blue sapphire.\nPanel 4: Wordless doorway establishing panel, pale double doors now OPEN outward toward terrace. Chiara steps through, smiling warmly, arms slightly open with natural fingers, facial structure/braided updo and rich brown skin from Image3, wide CHAMPAGNE hat and understated mature distinct expression. Full figure in her skirt/sandals. One person only from doorway. Teapot and travel bags by jamb exactly as page1 if visible.\nPanel 5: FULL-WIDTH waist-up Chiara welcomes visitors, eye line clear toward Hermione and Pansy. Joined single large legible two-sentence balloon from Chiara, preserve all the words, no drink drawn, H/P listening each own face. Sea/cot in distance if room. Chiara balloon: «Llegaron justo a tiempo. Estaba a punto de pedir que prepararan otra ronda de bebidas, y habría sido imperdonable que comenzaran sus vacaciones sin una copa en la mano.».\nPanel 6: Wordless Chiara greets Pansy with the conventional brief cheek-to-cheek Italian greeting, warm smiles, no body emphasis. Chiara hat tilts naturally out of their way, her mature face unmistakable versus Pansy's black bob/blue shirt; no duplicates.\nPanel 7: Wordless Chiara then greets Hermione the same ordinary way, Pansy waits beside their one carrycot. Distinct ivory curls, champagne braids under hat and blue black bob. Use different crop/profile from panel6, silent.\nPanel 8: Last panel close to cot. Chiara bends her head toward smiling Robin, a brief kiss on his cheek; he responds by curling his little hand around her one offered ordinary finger. He is awake comfortably reclined, white shirt and blue trousers, green eyes looking up, no adult palms on his face. H/P offscreen or edge crop; caption ONLY the specified quote (speech tail to Chiara). Chiara balloon: «Mírate, piccolo. Cada vez que te veo estás más grande.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4def2ee2-5eca-4aad-8104-bb388e5d7d35.png"
+        },
+        {
+          "name": "c13_p002_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4def2ee2-5eca-4aad-8104-bb388e5d7d35.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Refine Image 1, the newly redrawn complete Spanish comic «Capítulo 13 · 02». Preserve exact 8 frames, every existing caption, dialogue/accents and tails, art style, character identities, proportions, poses except explicitly below, matte painted chapter 12 finish, cream borders, blue sea and terrace. Only make these local continuity corrections:\n- Panel 4 doorway, mature dark-skinned Chiara at x805,y755: she is wearing an elegant CHAMPAGNE TWO-PIECE daytime set. A separate opaque champagne gently fitted SHORT blouse with same elbow bishop sleeves, PLUS a separate flowing high-waisted ankle skirt. Show a VERY SUBTLE NARROW 1-centimeter break between seam of the top and skirt at the natural waist (only a tiny sliver of normal warm brown skin), matching the source's two pieces. Keep her present modest opaque neckline, same hat and gold sandals, existing pose, face and body. No dress redesign beyond those two distinct garment edges. Her portrait-only panels remain corresponding champagne blouse, keep shoulders perfectly clothed.\n- Panel 3 black-bob Pansy at x462,y730, remove JUST the tiny visible dark stud on her exposed earlobe, make natural bare ear skin. Keep the slim gold LEFT hair barrette IN HER HAIR and her H/R/P left wrist in panel 2. Keep Hermione brown eyes and Pansy/Robin green.\n- Panels 6 and 7, the two small quiet greetings in bottom row: keep same individuals and clothes and silhouettes, slightly turn their heads as needed so CHIARA's face comes to the other woman's outer cheek, near her temple, a normal brief side cheek greeting. Their mouths visibly stay apart, with noses pointing past each other. Preserve the existing family welcome, no mouth-to-mouth contact, no reposition or redraw of the group. In panel 7 Robin's small visible eye is gently open, looking up, as he is awake.\nPrecisely preserve ALL Spanish words: «Ahora entiendo por qué estabas tan ansiosa por llegar.», full 3-sentence garden/playa recitation, full 2-sentence welcome, «Mírate, piccolo. Cada vez que te veo estás más grande.» and header. Keep P left clip, H blue sapphire, gold-framed Zephyr and one supported human Robin. All other details unchanged. Full 1024x1536 page.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b2573cab-cb1f-4332-853b-85e8e149e260.png"
+        },
+        {
+          "name": "c13_p002_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b2573cab-cb1f-4332-853b-85e8e149e260.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Edit exactly one very small area of the full image. In panel 3 (middle row LEFT), the black-bob woman in blue, Pansy, has a tiny oval WHITE PEARL at pixel x459, y729 in the lower earlobe. Completely cover ONLY that earlobe spot with a natural dark strand from her existing straight black bob, falling from the side lock and blending with the hair directly behind the ear. Let the top of the ear stay visible. Keep the thin GOLD barrette above the ear perfectly in place, green eyes, face, hair lengths, plain fingers and H R P left bracelet exactly identical. The covering lock should be barely noticeable. No added ear jewels. Keep EVERYTHING else identical pixel-closely, especially the exact eight panels and every word, tail, accents and «Capítulo 13 · 02» header, the right hand on Hermione's covered shoulder, portraits, human Robin, the Zephyr and Chiara's now-correct two-piece champagne outfit and cheek greetings. Output the complete same 1024x1536 comic with the one earlobe detail covered.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b468ecd2-81c3-48c0-9ad8-119e95bf01bb.png"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "original": "paginas/c13-p003.webp",
+      "image": "paginas/c13-p003-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        574
+      ],
+      "summary": "Robin disfruta la atención de Chiara mientras ella elogia los conjuntos de Pansy y Hermione.",
+      "panels": [
+        {
+          "scene": "P1 open with reverse-angle at stroller level. H on LEFT medium portrait, eyes BROWN, ivory/curls and sapphire, remarks on Robin's delight. On RIGHT one supported Robin laughs holding Chiara's offered plain finger, underneath champagne sleeve and only her own gold bracelets. Green Robin looks up. H speaking tail only; no mistaken quote to Chiara.",
+          "dialogue": [
+            "Hermione: Le gusta recibir atención."
+          ],
+          "sourceFragments": [
+            "Le gusta recibir atención"
+          ]
+        },
+        {
+          "scene": "P2 Pansy shoulder-up from a new angle with tapered chin and narrow green eyes, left barrette, hair covers earlobe, slate-blue linen; small dry smile to H. NO holding up jewelry, hands below crop. One punctuated two-sentence balloon.",
+          "dialogue": [
+            "Pansy: Le gusta que lo admiren. Es una diferencia importante."
+          ],
+          "sourceFragments": [
+            "Le gusta que lo admiren",
+            "Es una diferencia importante."
+          ]
+        },
+        {
+          "scene": "P3 Chiara straightens, first look full standing side-by-side with Pansy observing her hat and champagne TWO-PIECE with very subtle gap at waist; P voice and friendly dry tone. Distinct heights by posture, natural arms, H off edge. Balloon from P only.",
+          "dialogue": [
+            "Pansy: Ese color fue hecho para ti. Aunque sospecho que escogiste el vestido para demostrarlo."
+          ],
+          "sourceFragments": [
+            "Ese color fue hecho para ti",
+            "Aunque sospecho que escogiste el vestido para demostrarlo."
+          ]
+        },
+        {
+          "scene": "P4 wide: Chiara replies with a confident amused warmth and lightly touches P's rolled blue sleeve cuff. ALL four short sentences in one readable quote or two connected lobes in original reading order, both Chiara, no tails to P. Her gold earrings/bangles only her. P hands below crop, breezy pearl-less bob.",
+          "dialogue": [
+            "Chiara: El vestido ya era perfecto cuando lo encontré. Yo solo tuve el buen juicio de comprarlo. Tú también te ves preciosa. El azul es una buena elección para Amalfi."
+          ],
+          "sourceFragments": [
+            "El vestido ya era perfecto cuando lo encontré. Yo solo tuve el buen juicio de comprarlo",
+            "Tú también te ves preciosa. El azul es una buena elección para Amalfi."
+          ]
+        },
+        {
+          "scene": "P5 from side of Zephyr, Chiara looks down and notices how P and baby match blue/white. Robin white shirt BLUE trousers clearly visible below partly folded blanket, secure in basin. P shirt BLUE and full trousers WHITE, natural details. One spoken comparison, Chiara tail only, no green clothing.",
+          "dialogue": [
+            "Chiara: No puedo creer que consiguieras vestirlo a juego contigo sin incluir el verde."
+          ],
+          "sourceFragments": [
+            "No puedo creer que consiguieras vestirlo a juego contigo sin incluir el verde."
+          ]
+        },
+        {
+          "scene": "P6 Pansy quietly dry playful retort, two inch sharp bob/profile front left temple clip, green eyes, earlobe covered, hands below crop. Chiara silent smiling at edge or out of frame.",
+          "dialogue": [
+            "Pansy: Estoy intentando enseñarle que existe vida más allá de Slytherin."
+          ],
+          "sourceFragments": [
+            "Estoy intentando enseñarle que existe vida más allá de Slytherin."
+          ]
+        },
+        {
+          "scene": "P7 Chiara wry approving reply, eyes comfortably warm, visible braid and hat in terraced late afternoon rather than isolated generic background. One small tail to Chiara.",
+          "dialogue": [
+            "Chiara: Eso es muy generoso de tu parte."
+          ],
+          "sourceFragments": [
+            "Eso es muy generoso de tu parte."
+          ]
+        },
+        {
+          "scene": "P8 wide last panel. Chiara turns and calmly compliments Hermione now, pale ivory fitted-waist blouse/full ivory wide leg naturally visible with blue sapphire at FRONT. H smiles and modestly blushes, chestnut hair loose, dark BROWN eyes. A long full 3 sentence balloon tail only Chiara, clean contrast and all accents, no extra actor. Continue to 4 before H answers.",
+          "dialogue": [
+            "Chiara: Hermione, estás espectacular. El color te queda maravillosamente y ese corte resalta tu figura. Espero que hayas traído más prendas como esta."
+          ],
+          "sourceFragments": [
+            "Hermione, estás espectacular. El color te queda maravillosamente y ese corte resalta tu figura. Espero que hayas traído más prendas como esta."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 03\n\nLa atención de Robin y las bromas sobre el gusto de Chiara y los colores familiares se conservan completas; Chiara elogia el conjunto de Hermione.\nHermione: Le gusta recibir atención.\nPansy: Le gusta que lo admiren. Es una diferencia importante.\nPansy: Ese color fue hecho para ti. Aunque sospecho que escogiste el vestido para demostrarlo.\nChiara: El vestido ya era perfecto cuando lo encontré. Yo solo tuve el buen juicio de comprarlo. Tú también te ves preciosa. El azul es una buena elección para Amalfi.\nChiara: No puedo creer que consiguieras vestirlo a juego contigo sin incluir el verde.\nPansy: Estoy intentando enseñarle que existe vida más allá de Slytherin.\nChiara: Eso es muy generoso de tu parte.\nChiara: Hermione, estás espectacular. El color te queda maravillosamente y ese corte resalta tu figura. Espero que hayas traído más prendas como esta.",
+      "review": "Nueva página desde PDF574. Ocho viñetas y ocho turnos completos, colas y acentos leídos visualmente. Formas de cara distinguidas de H/P y sombras con grano pictórico como capítulo12. Conserva diseño propio maduro, trenzas, piel, dos piezas champán y joyas doradas de Chiara, y rostros H/P del 12. Coinciden ropa H marfil, P azul y blanco, Robin camisa blanca/pantalón azul, ojos verdes, tamaño humano y seguro en el único Zephyr. La versión 3 recupera los tres aros rojo/amarillo/azul en paneles 1 y 5, con referencia de la página 1 nueva. Preservados boca/cola/texto completo, joyas y detalles de entorno.",
+      "reviewDate": "2026-11-18",
+      "sha256": "64c7e1641d24ca81677f794555a65e8725c972530526fb3331a479bb14e0780b",
+      "masterSha256": "f2c228127eea0b52024442ae64a7d1c80bf1d6d781e0ab837ed9bdf702ecd3bd",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p003-redibujo12-v3.png",
+      "selectedAttempt": "c13_p003_redibujo12_v3.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p003_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/chiara-09-p021.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p002-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/robin-12-p085.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 03».\nImage 1: Hermione exact chapter12 face, freckles, brown eyes and chestnut loose curls, fine matte art.\nImage 2: Pansy exact chapter12 tapered face, green iris geometry, chin bob and slim gold barrette.\nImage 3: Chiara individual facial proportions, dark-brown skin and braided updo face reference only.\nImage 4: Prior redrawn approved page 2 controlling the terrace, Zephyr, garments and current character placement. No quoting previous panels.\nImage 5: Robin's specific infant face and small human limb proportions, not his old clothes.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nThe SAME mild WINTER AFTERNOON as the first chapter13 page: sun through cream awning across white MARBLE, columns and pale wood double doors, shade and pale walls, magenta bougainvillea, ripe lemons, olives and potted rosemary, wrought iron tables, sea and terraced distant houses beyond white balustrade. The family has only just arrived. Do not use any other locale. Hermione with her exact chapter12 original facial proportions: abundant loose rich CHESTNUT curls, warm dark brown irises, freckles, small nose and narrow lips in the reference. IVORY opaque fitted-waist sleeve blouse and wide IVORY trousers, light flats, frontal oval sapphire midnight BLUE halo on WHITE platinum chain and one clear-halo diamond on LEFT ring finger only (right hand and wrists plain). Pansy exact chapter12 angular tapered face and slender olive GREEN eyes, BLACK flat chin-length asymmetrical side part, small GOLD barrette over LEFT temple, plain ears, soft SKY BLUE rolled sleeve LINEN, WHITE trousers, white loafers. All fingers completely bare, single fine WHITE GOLD chain with H R P LEFT wrist only. Only one human baby ROBIN with realistic small fingers, skin and proportions as redraw01 and chapter12, GREEN eyes/chestnut curls/WHITE shirt/blue trousers, always safe reclining/reaching in the ONE Zephyr cream padded oval carrycot/brass frame/curved sand hood lowered slightly/dark leather handle/colored ring mobile. Three bags with one travel teapot remain near doors, only when visible. No baby transport to a second place, no clones or extra people. Chiara mature Black woman, deep warm brown skin, original brown eyes under her broad champagne woven sun hat, high cheek line and actual detailed close-up profile (not a copy of Pansy or another character), tidy dark BRAIDS gathered up beneath hat, dark red understated lips. Matching opaque champagne top and ankle-length skirt, gold flat sandals, small round gold earrings, bracelets only her own old gold bangles. Use her first reference's face and specifically this new outfit. Distinct older than the two visitors. No drink in anyone's hand, the welcome only mentions that drinks may be brought. Chiara's hat/two separate pieces pictured in the approved page 2 are now fixed. Show her OWN older face; keep her cheek and nose sharper and distinctly mature, deep skin tone and tiny appropriate smile lines. All characters standing naturally beside the stroller or framed from shoulders, no chair magically appearing during talk. Pansy and Hermione's eyes distinctly GREEN vs BROWN and individual fair warm skin. In all three P close-ups compose LEFT temple enough to show H/R/P ONLY if that wrist actually seen, side bangs can cover lower earlobe, no pearls or studs. Let their bare hands stay below the panel when not required.\nExactly 8 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: P1 open with reverse-angle at stroller level. H on LEFT medium portrait, eyes BROWN, ivory/curls and sapphire, remarks on Robin's delight. On RIGHT one supported Robin laughs holding Chiara's offered plain finger, underneath champagne sleeve and only her own gold bracelets. Green Robin looks up. H speaking tail only; no mistaken quote to Chiara. Hermione balloon: «Le gusta recibir atención.».\nPanel 2: P2 Pansy shoulder-up from a new angle with tapered chin and narrow green eyes, left barrette, hair covers earlobe, slate-blue linen; small dry smile to H. NO holding up jewelry, hands below crop. One punctuated two-sentence balloon. Pansy balloon: «Le gusta que lo admiren. Es una diferencia importante.».\nPanel 3: P3 Chiara straightens, first look full standing side-by-side with Pansy observing her hat and champagne TWO-PIECE with very subtle gap at waist; P voice and friendly dry tone. Distinct heights by posture, natural arms, H off edge. Balloon from P only. Pansy balloon: «Ese color fue hecho para ti. Aunque sospecho que escogiste el vestido para demostrarlo.».\nPanel 4: P4 wide: Chiara replies with a confident amused warmth and lightly touches P's rolled blue sleeve cuff. ALL four short sentences in one readable quote or two connected lobes in original reading order, both Chiara, no tails to P. Her gold earrings/bangles only her. P hands below crop, breezy pearl-less bob. Chiara balloon: «El vestido ya era perfecto cuando lo encontré. Yo solo tuve el buen juicio de comprarlo. Tú también te ves preciosa. El azul es una buena elección para Amalfi.».\nPanel 5: P5 from side of Zephyr, Chiara looks down and notices how P and baby match blue/white. Robin white shirt BLUE trousers clearly visible below partly folded blanket, secure in basin. P shirt BLUE and full trousers WHITE, natural details. One spoken comparison, Chiara tail only, no green clothing. Chiara balloon: «No puedo creer que consiguieras vestirlo a juego contigo sin incluir el verde.».\nPanel 6: P6 Pansy quietly dry playful retort, two inch sharp bob/profile front left temple clip, green eyes, earlobe covered, hands below crop. Chiara silent smiling at edge or out of frame. Pansy balloon: «Estoy intentando enseñarle que existe vida más allá de Slytherin.».\nPanel 7: P7 Chiara wry approving reply, eyes comfortably warm, visible braid and hat in terraced late afternoon rather than isolated generic background. One small tail to Chiara. Chiara balloon: «Eso es muy generoso de tu parte.».\nPanel 8: P8 wide last panel. Chiara turns and calmly compliments Hermione now, pale ivory fitted-waist blouse/full ivory wide leg naturally visible with blue sapphire at FRONT. H smiles and modestly blushes, chestnut hair loose, dark BROWN eyes. A long full 3 sentence balloon tail only Chiara, clean contrast and all accents, no extra actor. Continue to 4 before H answers. Chiara balloon: «Hermione, estás espectacular. El color te queda maravillosamente y ese corte resalta tu figura. Espero que hayas traído más prendas como esta.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a4d90ea9-6458-4d4e-a4f6-802d88c286cd.png"
+        },
+        {
+          "name": "c13_p003_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a4d90ea9-6458-4d4e-a4f6-802d88c286cd.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p001-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Use image 1 as the exact eight-panel Spanish comic page 03 edit target. Image 2 is only the exact Robin Zephyr MOBILE design in its close-up (page 1, right, fourth row). Change ONLY the stroller toy mobile in TWO places: panel 1 at top above Robin and panel 5 in third/succeeding row left above Robin. The current invented sailboat, clouds and balls are wrong. In both affected panels, replace ONLY that toy with the SAME three loose interlinked solid rings (yellow top left, rust red top right, slate blue lower ring), hanging from ONE short cream fabric strap tied to the canopy center, exactly like the item in image 2. Each is a thick unbroken colored round ring with a central hole, as in image 2. No wide hanger bar, clouds, boat, balls or extra toys. Maintain size and perspective; ring toy is appropriately little, well above the infant and attached to the existing cot. No other changes at all. Preserve Robin's exact small human face, green eyes, hands/fingers, chin, white shirt, blue trousers, existing snug safely reclined support and blankets. All faces, bare P earlobes, colors, terraced world, gold rim, covered C outfit, all 8 panels/text including all accents and words, and header «Capítulo 13 · 03» stay the same. Complete 1024x1536 comic, only the toy mobile fixed.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3e5a6268-be93-4908-bcec-3dbbffb895ef.png"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "original": "paginas/c13-p004.webp",
+      "image": "paginas/c13-p004-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        575
+      ],
+      "summary": "Hermione agradece a Chiara. Daphne se reúne con ellas y les cuenta cuánto las extrañó.",
+      "panels": [
+        {
+          "scene": "Wide H on left, Chiara right turned toward her, H replies with a slight blush, happy but unsure, brown eyes and freckled face. Offer generous readable balloon with all two source sentences, tail only H. Keep full relaxed ivory blouse, blue sapphire; P nearby blue linen, baby secure in cot if visible.",
+          "dialogue": [
+            "Hermione: Muchas gracias, Chiara. Todavía estoy acostumbrándome a viajar con tanta ropa, pero admito que Pansy tenía razón sobre este conjunto."
+          ],
+          "sourceFragments": [
+            "Muchas gracias, Chiara",
+            "Todavía estoy acostumbrándome a viajar con tanta ropa, pero admito que Pansy tenía razón sobre este conjunto."
+          ]
+        },
+        {
+          "scene": "Wordless medium back-angle side view: P's plain anatomical RIGHT hand settles naturally on Hermione's covered lower back, cuff blue linen, no right bracelet nor rings on any fingers. H and P's silhouettes, clothes, profile, curls and black side-part bob recognizable. Ordinary clothed affection only, sane proportions. Other body and limbs remain where naturally connected.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Chiara looks toward P, brow amused, champagne hat and braided updo/own mature face. One full sentence, tail ONLY Chiara. Hands below crop. White column/cream stone and terrace detail distinguish architecture.",
+          "dialogue": [
+            "Chiara: Se nota que has tenido una buena influencia."
+          ],
+          "sourceFragments": [
+            "Se nota que has tenido una buena influencia"
+          ]
+        },
+        {
+          "scene": "P looks back at Chiara with short playful confidence, same green eyes narrow and natural smile, gold clip only LEFT. Hands below frame, side lock covers bare lobe. One short line tail P.",
+          "dialogue": [
+            "Pansy: Siempre la tengo."
+          ],
+          "sourceFragments": [
+            "Siempre la tengo."
+          ]
+        },
+        {
+          "scene": "Chiara full two-sentence witty reply in broad full-width panel. Starts looking toward H, gaze shifts to P listening with narrowed amused eyes; keep Chiara as sole speaker. No second person replying.",
+          "dialogue": [
+            "Chiara: También se nota que Hermione sabe exactamente cuáles de tus consejos vale la pena aceptar. Eso es todavía más importante."
+          ],
+          "sourceFragments": [
+            "También se nota que Hermione sabe exactamente cuáles de tus consejos vale la pena aceptar. Eso es todavía más importante."
+          ]
+        },
+        {
+          "scene": "Daphne appears in the same OPEN pale-wood double doorway, full or three-quarter figure and long PEACH opaque dress, golden loose waves and light sandals, gentle BLUE eyes plain fine neckline pendant. Steps forward from interior, wide smile reads welcoming. One compact source quote with tail Daphne only.",
+          "dialogue": [
+            "Daphne: Por fin llegaron."
+          ],
+          "sourceFragments": [
+            "Por fin llegaron"
+          ]
+        },
+        {
+          "scene": "WORDLESS first friendly hug DAPHNE in peach embraces HERMIONE in ivory, warm smiles and TWO naturally attached arms, normal family hug shoulders with arms comfortably placed, never duplicates. Pansy and single bassinet may remain in background, Chiara off crop. Keep H curly chestnut distinct from D long blonde, no face overlap confusing identity.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "WORDLESS next friendly hug DAPHNE in peach embraces PANSY in sky blue, H stands just apart with baby stroller or both offcrop. Distinct blonde waves versus black bob, each person's two natural arms, shirt and left barrette. Companion gaze warms.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Wide end, after separating Daphne at center left speaks 3 exact sentences to two friends standing right, her face lilting/blue as image3. Same four private terrace positions save offcrop Chiara; no added guests. Give long dialogue plenty of breathing room. End at confession, do not advance to their next answer.",
+          "dialogue": [
+            "Daphne: Las extrañé mucho. Estuve contando los días para que llegaran. Las vacaciones se sienten extrañas cuando no estamos todos en el mismo lugar."
+          ],
+          "sourceFragments": [
+            "Las extrañé mucho",
+            "Estuve contando los días para que llegaran. Las vacaciones se sienten extrañas cuando no estamos todos en el mismo lugar."
+          ]
+        }
+      ],
+      "actualPanelCount": 9,
+      "transcript": "Capítulo 13 · 04\n\nHermione agradece el consejo de Pansy y Chiara bromea sobre su influencia. Daphne llega, abraza a ambas y cuenta cuánto las extrañó.\nHermione: Muchas gracias, Chiara. Todavía estoy acostumbrándome a viajar con tanta ropa, pero admito que Pansy tenía razón sobre este conjunto.\nChiara: Se nota que has tenido una buena influencia.\nPansy: Siempre la tengo.\nChiara: También se nota que Hermione sabe exactamente cuáles de tus consejos vale la pena aceptar. Eso es todavía más importante.\nDaphne: Por fin llegaron.\nDaphne: Las extrañé mucho. Estuve contando los días para que llegaran. Las vacaciones se sienten extrañas cuando no estamos todos en el mismo lugar.",
+      "review": "Nueve viñetas y seis turnos íntegros del PDF575. Entradas y respuestas en orden, signos y las palabras que el OCR puede omitir verificadas en el dibujo. Daphne recupera el rostro rubio de ojos azules y proporciones del capítulo12, con vestido liso durazno y colgante fino propios de la escena. Sus abrazos a Hermione y a Pansy se separan en dos viñetas. Chiara mantiene piel, trenzas, rasgos y ropa. Pansy mantiene cara y bob del 12, ojos verdes, pasador izquierdo y cadena HRP en la mano izquierda, dedos lisos. Hermione ojos castaño cálido, zafiro azul y rizos sueltos. Robin humano seguro en Zephyr con tres aros, entorno continuo. R3 agrega solo brazalete en panel2 sin regresiones.",
+      "reviewDate": "2026-11-18",
+      "sha256": "46f634ff08564eb521a9f07ac5ebb5dfefbe0336f3ca6fbd9ab6c76fb7baed7d",
+      "masterSha256": "d74bc1502687a50ca984002e74dd6a2a9f0155d7cff1dfa268954b0d7c5706d7",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p004-redibujo12-v3.png",
+      "selectedAttempt": "c13_p004_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "tenido",
+        "buena",
+        "influencia",
+        "siempre",
+        "tengo"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p004_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/chiara-09-p021.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p003-redibujo12-v3.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 04».\nImage 1: Exact Hermione loose curls and face anatomy from XII, her clothes are the new ivory travel set.\nImage 2: Exact Pansy face and hair from XII, left thin gold barrette and narrow green eyes; her clothes now muted sky-blue and white.\nImage 3: Daphne's original chapter 12 face and golden hair proportions; BLUE eyes. In this new scene no flower accessories; plain PEACH day dress and fine necklace per text.\nImage 4: Chiara's individual face from first approved appearance, assists mature portrait. Keep her current CHAMPAGNE TWO-PIECE, hat and braids from image5.\nImage 5: Approved new page3. Governs this same veranda, mild afternoon light, current garments, Chiara outfit, and Zephyr and awake human Robin if visible. Draw an all-new page following script.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nThe SAME mild WINTER AFTERNOON as the first chapter13 page: sun through cream awning across white MARBLE, columns and pale wood double doors, shade and pale walls, magenta bougainvillea, ripe lemons, olives and potted rosemary, wrought iron tables, sea and terraced distant houses beyond white balustrade. The family has only just arrived. Do not use any other locale. Hermione with her exact chapter12 original facial proportions: abundant loose rich CHESTNUT curls, warm dark brown irises, freckles, small nose and narrow lips in the reference. IVORY opaque fitted-waist sleeve blouse and wide IVORY trousers, light flats, frontal oval sapphire midnight BLUE halo on WHITE platinum chain and one clear-halo diamond on LEFT ring finger only (right hand and wrists plain). Pansy exact chapter12 angular tapered face and slender olive GREEN eyes, BLACK flat chin-length asymmetrical side part, small GOLD barrette over LEFT temple, plain ears, soft SKY BLUE rolled sleeve LINEN, WHITE trousers, white loafers. All fingers completely bare, single fine WHITE GOLD chain with H R P LEFT wrist only. Only one human baby ROBIN with realistic small fingers, skin and proportions as redraw01 and chapter12, GREEN eyes/chestnut curls/WHITE shirt/blue trousers, always safe reclining/reaching in the ONE Zephyr cream padded oval carrycot/brass frame/curved sand hood lowered slightly/dark leather handle/colored ring mobile. Three bags with one travel teapot remain near doors, only when visible. No baby transport to a second place, no clones or extra people. Chiara mature Black woman, deep warm brown skin, original brown eyes under her broad champagne woven sun hat, high cheek line and actual detailed close-up profile (not a copy of Pansy or another character), tidy dark BRAIDS gathered up beneath hat, dark red understated lips. Matching opaque champagne top and ankle-length skirt, gold flat sandals, small round gold earrings, bracelets only her own old gold bangles. Use her first reference's face and specifically this new outfit. Distinct older than the two visitors. No drink in anyone's hand, the welcome only mentions that drinks may be brought. NEW Daphne from chapter 12 image 3: same light warm complexion, soft oval face, straight fine nose, bright mid-blue eyes, soft golden-blonde loose waves, distinctive eyebrows and lips. Her peach opaque calf-length modest daytime dress has clean simple lines, no embroidery, pale flats/sandals, ONE fine simple neutral necklace. No flowers/hairpin from old chapter 12, loose golden waves. D posture easy and warm, no overly open mouth expression, no tanned re-color. Both H/P still dressed as arrivals; no orange P/H, matte tones in soft afternoon. Bracelets, eyes and faces distinct in every pose. Only one Zephyr and one Robin resting awake if in crop, exactly three interlinked solid YELLOW/RED/BLUE rings on short cream strap, no additional toy.\nExactly 9 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: Wide H on left, Chiara right turned toward her, H replies with a slight blush, happy but unsure, brown eyes and freckled face. Offer generous readable balloon with all two source sentences, tail only H. Keep full relaxed ivory blouse, blue sapphire; P nearby blue linen, baby secure in cot if visible. Hermione balloon: «Muchas gracias, Chiara. Todavía estoy acostumbrándome a viajar con tanta ropa, pero admito que Pansy tenía razón sobre este conjunto.».\nPanel 2: Wordless medium back-angle side view: P's plain anatomical RIGHT hand settles naturally on Hermione's covered lower back, cuff blue linen, no right bracelet nor rings on any fingers. H and P's silhouettes, clothes, profile, curls and black side-part bob recognizable. Ordinary clothed affection only, sane proportions. Other body and limbs remain where naturally connected.\nPanel 3: Chiara looks toward P, brow amused, champagne hat and braided updo/own mature face. One full sentence, tail ONLY Chiara. Hands below crop. White column/cream stone and terrace detail distinguish architecture. Chiara balloon: «Se nota que has tenido una buena influencia.».\nPanel 4: P looks back at Chiara with short playful confidence, same green eyes narrow and natural smile, gold clip only LEFT. Hands below frame, side lock covers bare lobe. One short line tail P. Pansy balloon: «Siempre la tengo.».\nPanel 5: Chiara full two-sentence witty reply in broad full-width panel. Starts looking toward H, gaze shifts to P listening with narrowed amused eyes; keep Chiara as sole speaker. No second person replying. Chiara balloon: «También se nota que Hermione sabe exactamente cuáles de tus consejos vale la pena aceptar. Eso es todavía más importante.».\nPanel 6: Daphne appears in the same OPEN pale-wood double doorway, full or three-quarter figure and long PEACH opaque dress, golden loose waves and light sandals, gentle BLUE eyes plain fine neckline pendant. Steps forward from interior, wide smile reads welcoming. One compact source quote with tail Daphne only. Daphne balloon: «Por fin llegaron.».\nPanel 7: WORDLESS first friendly hug DAPHNE in peach embraces HERMIONE in ivory, warm smiles and TWO naturally attached arms, normal family hug shoulders with arms comfortably placed, never duplicates. Pansy and single bassinet may remain in background, Chiara off crop. Keep H curly chestnut distinct from D long blonde, no face overlap confusing identity.\nPanel 8: WORDLESS next friendly hug DAPHNE in peach embraces PANSY in sky blue, H stands just apart with baby stroller or both offcrop. Distinct blonde waves versus black bob, each person's two natural arms, shirt and left barrette. Companion gaze warms.\nPanel 9: Wide end, after separating Daphne at center left speaks 3 exact sentences to two friends standing right, her face lilting/blue as image3. Same four private terrace positions save offcrop Chiara; no added guests. Give long dialogue plenty of breathing room. End at confession, do not advance to their next answer. Daphne balloon: «Las extrañé mucho. Estuve contando los días para que llegaran. Las vacaciones se sienten extrañas cuando no estamos todos en el mismo lugar.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-530b2c2c-4c90-4236-b6bd-7b94cf9580a2.png"
+        },
+        {
+          "name": "c13_p004_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-530b2c2c-4c90-4236-b6bd-7b94cf9580a2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p001-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Edit complete Spanish comic image 1, page «Capítulo 13 · 04». Exactly ONE small jewelry continuity correction. In panel 2 (SECOND TIER LEFT, back angle, H in IVORY on left, PANSY BLACKBOB in BLUE on right), Pansy's anatomical LEFT hand reaches naturally behind Hermione's covered back. Place her single delicate white-gold chain bracelet with tiny separate H R P charms on THAT BLUE-CUFF LEFT wrist (around x170 y614), just where the hand meets the forearm, accurate perspective and scale. Image 2 is the exact fine LEFT wrist bracelet design in panel5 ONLY. Keep ALL fingers, hands, arms, blue shirt, skin color, hair/left clip, posture and outline perfectly in place. No finger rings on Pansy, no more bracelets or earrings. Do not add rings to anyone in any panel. Keep every other part pixel-closely unchanged: exact source text and accents, header, 9-panel layout, original eyes and facial proportions (H warm brown, P olive green, D blue, Chiara dark brown, Robin green), costumes, one human infant in the Zephyr, pink flowers and Italian terrace. Complete same portrait 1024x1536 page, add only the missing bracelet in p2.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6a98d255-5503-4cef-94bc-55d5619ed01b.png"
+        }
+      ]
+    }
+  ]
+}
