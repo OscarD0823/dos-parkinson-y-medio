@@ -1,0 +1,480 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 5,
+  "end": 8,
+  "date": "2026-11-18",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 5,
+      "original": "paginas/c13-p005.webp",
+      "image": "paginas/c13-p005-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        575,
+        576
+      ],
+      "summary": "Pansy promete celebrar el Año Nuevo juntas, Daphne saluda a Robin y Chiara las lleva ante el cuadro familiar.",
+      "panels": [
+        {
+          "scene": "On terrace near open doorway, Pansy briefly frees ONE caught blonde lock from beneath Daphne's necklace, normal friendly gesture with bare RIGHT fingers/wrist or hands below portrait frame. P from head and shoulders with gold LEFT clip/narrow green eyes, Daphne listening. Show exactly their latest faces and two full sentences, tail P.",
+          "dialogue": [
+            "Pansy: Nosotras también te extrañamos. No pensábamos permitir que celebraran el Año Nuevo sin nosotras."
+          ],
+          "sourceFragments": [
+            "Nosotras también te extrañamos. No pensábamos permitir que celebraran el Año Nuevo sin nosotras."
+          ]
+        },
+        {
+          "scene": "Daphne turns warmly to Pansy in relief, medium portrait with BLUE eyes, hair moved just off necklace, thanks briefly, muted natural blue skies. One Daphne balloon.",
+          "dialogue": [
+            "Daphne: Eso habría arruinado la tradición."
+          ],
+          "sourceFragments": [
+            "Eso habría arruinado la tradición"
+          ]
+        },
+        {
+          "scene": "At single Zephyr on terrace, Daphne bends near awake human Robin and takes his tiny natural hands, one in each of her own hands, clearly connected below his elbows, simple safe care. Bow-free Robin chestnut/green in white/blue under the THREE rim rings. Graceful peachdress bends at waist at a slight side view. P/H stand nearby off crop. Two full sentences with Daphne tail, no babble bubble.",
+          "dialogue": [
+            "Daphne: También te extrañé a ti. Aunque sospecho que te divertiste demasiado con tus abuelos para acordarte de nosotros."
+          ],
+          "sourceFragments": [
+            "También te extrañé a ti",
+            "Aunque sospecho que te divertiste demasiado con tus abuelos para acordarte de nosotros."
+          ]
+        },
+        {
+          "scene": "WORDLESS except the caption. WIDE reveal camera INSIDE new cream salon, looks inward from tall doors. Chiara leads three visitors past columns toward the big historical coast painting and furnished salon. Pansy pushes the ONE Zephyr in naturally on floor, Daphne trails, H notices wall painting. Quiet domestic details and actual white/blue light. Small rectangular narration in open sky/cream upper wall, no other text.",
+          "dialogue": [],
+          "sourceFragments": [],
+          "caption": "Dentro, el salón conservaba la luz de la terraza."
+        },
+        {
+          "scene": "Wordless tall close-up of the framed period OIL painting on interior right cream wall, actual visible fine painted coats and older wooden sailboats inside its gold frame, the same sea/cliff houses in earlier period. H chestnut curls at margin looks up; no world swap to historical scene, no new caption.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Large FULLWIDTH Chiara speaks beside the same painting with her own brow and braids tucked under champagne hat, posture subtle and welcoming, H listening attentively to her. Entire four-sentence passage, legible negative space and tail to Chiara. P/D/Robin beyond frame.",
+          "dialogue": [
+            "Chiara: La pintó uno de los hermanos de mi bisabuela. La vista ha cambiado muy poco desde entonces. Algunas casas son más recientes y el puerto es más grande, pero el mar sigue exactamente en el mismo lugar."
+          ],
+          "sourceFragments": [
+            "La pintó uno de los hermanos de mi bisabuela",
+            "La vista ha cambiado muy poco desde entonces. Algunas casas son más recientes y el puerto es más grande, pero el mar sigue exactamente en el mismo lugar."
+          ]
+        },
+        {
+          "scene": "H BROWN eyes look from painted sea to the real sunlight on open windows, ivory curls portrait shoulders, small smile. two full phrases to Chiara. Exact original face, consistent jewelry, no hands needed.",
+          "dialogue": [
+            "Hermione: Es una pintura preciosa. La luz parece distinta a la de los cuadros británicos."
+          ],
+          "sourceFragments": [
+            "Es una pintura preciosa",
+            "La luz parece distinta a la de los cuadros británicos."
+          ]
+        },
+        {
+          "scene": "Chiara in same salon near tall window answers as warm afternoon sun reaches cream wall and touches the frame. Older brown skin and gold earrings and hat retain distinct look. H can edge-frame. Tail ONLY to Chiara, both complete sentences. End inside the new salon.",
+          "dialogue": [
+            "Chiara: Aquí todo depende del sol. Incluso durante el invierno consigue cambiar los colores de la casa."
+          ],
+          "sourceFragments": [
+            "Aquí todo depende del sol. Incluso durante el invierno consigue cambiar los colores de la casa."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 05\n\nPansy promete celebrar el Año Nuevo juntas, Daphne saluda a Robin y Chiara las guía al salón. Ante el cuadro familiar conversan sobre la luz de Amalfi.\nPansy: Nosotras también te extrañamos. No pensábamos permitir que celebraran el Año Nuevo sin nosotras.\nDaphne: Eso habría arruinado la tradición.\nDaphne: También te extrañé a ti. Aunque sospecho que te divertiste demasiado con tus abuelos para acordarte de nosotros.\nNarración: Dentro, el salón conservaba la luz de la terraza.\nChiara: La pintó uno de los hermanos de mi bisabuela. La vista ha cambiado muy poco desde entonces. Algunas casas son más recientes y el puerto es más grande, pero el mar sigue exactamente en el mismo lugar.\nHermione: Es una pintura preciosa. La luz parece distinta a la de los cuadros británicos.\nChiara: Aquí todo depende del sol. Incluso durante el invierno consigue cambiar los colores de la casa.",
+      "review": "Ocho viñetas nuevas a partir del PDF575–576, una cartela y seis turnos completos con OCR sin faltantes. Comparación de mandíbula/ojos/bob de Pansy, rostro azul y pelo de Daphne y Hermione castaña/pecas con 12. Robin verde rizado humano, seguro en el Zephyr unificado y con móvil de tres aros comprobado en ampliación. Salón nuevo desde el PDF: puertas dobles, arcos con luz del mar, pintura de época en la pared derecha, bajorrelieves, columnas, mármol, jarrones y flores, consola de nogal. Se mantienen encuadres originales, sin mezclar vestuario de 12. Acciones y colas a cada personaje revisadas.",
+      "reviewDate": "2026-11-18",
+      "sha256": "7303286082284436b68253d677fb43b25196a489a340946605f3695672c0246c",
+      "masterSha256": "74caaa88d724f7ffc9df5c468e31c11a13c2adcfe5caa5ec28c925f0d9d6891f",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p005-redibujo12-v2.png",
+      "selectedAttempt": "c13_p005_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p005_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p004-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/robin-12-p085.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 05».\nImage 1: Hermione exact chapter12 face, broad chestnut curls, warm brown eyes and freckles, current ivory as 4.\nImage 2: Pansy exact chapter12 angular jaw and narrow green eyes, black chin bob, slim left gold clip.\nImage 3: Daphne exact chapter12 blue eyes/light fair face and blonde waves, current peach and pendant as 4.\nImage 4: Immediately previous redrawn page4 only for current appearances and clothes including Chiara's own face and braids, same afternoon terrace, Zephyr. Salon beginning now is new, follow written source.\nImage 5: Robin only face and baby proportions from chapter12, no old clothes.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nThe SAME mild WINTER AFTERNOON as the first chapter13 page: sun through cream awning across white MARBLE, columns and pale wood double doors, shade and pale walls, magenta bougainvillea, ripe lemons, olives and potted rosemary, wrought iron tables, sea and terraced distant houses beyond white balustrade. The family has only just arrived. Do not use any other locale. Hermione with her exact chapter12 original facial proportions: abundant loose rich CHESTNUT curls, warm dark brown irises, freckles, small nose and narrow lips in the reference. IVORY opaque fitted-waist sleeve blouse and wide IVORY trousers, light flats, frontal oval sapphire midnight BLUE halo on WHITE platinum chain and one clear-halo diamond on LEFT ring finger only (right hand and wrists plain). Pansy exact chapter12 angular tapered face and slender olive GREEN eyes, BLACK flat chin-length asymmetrical side part, small GOLD barrette over LEFT temple, plain ears, soft SKY BLUE rolled sleeve LINEN, WHITE trousers, white loafers. All fingers completely bare, single fine WHITE GOLD chain with H R P LEFT wrist only. Only one human baby ROBIN with realistic small fingers, skin and proportions as redraw01 and chapter12, GREEN eyes/chestnut curls/WHITE shirt/blue trousers, always safe reclining/reaching in the ONE Zephyr cream padded oval carrycot/brass frame/curved sand hood lowered slightly/dark leather handle/colored ring mobile. Three bags with one travel teapot remain near doors, only when visible. No baby transport to a second place, no clones or extra people. Chiara mature Black woman, deep warm brown skin, original brown eyes under her broad champagne woven sun hat, high cheek line and actual detailed close-up profile (not a copy of Pansy or another character), tidy dark BRAIDS gathered up beneath hat, dark red understated lips. Matching opaque champagne top and ankle-length skirt, gold flat sandals, small round gold earrings, bracelets only her own old gold bangles. Use her first reference's face and specifically this new outfit. Distinct older than the two visitors. No drink in anyone's hand, the welcome only mentions that drinks may be brought. Daphne original chapter12 light warm skin and face, BLUE eyes and long loose golden-blonde waves, in simple PEACH opaque calf-length dress, light sandals and fine neutral round gold pendant, no hair accessories. Plain hands, no ring or bracelet. Original trio's varying faces and realistic eye sizes. SOURCE576 interior begins on entry. One elegant high-ceiling cream salon directly behind those twin pale wood French doors. Tall open sea-facing windows across left wall, clear columns, light beige plaster reliefs, antique tall gilt mirror, white marble statues and cream veined marble floor with a soft patterned rug. Tall generous OIL PAINTING on the interior right wall in a narrow antique gold frame, shows the same coast with older wooden sailing vessels and people in historical dress IN THE CANVAS only. Low oval walnut table near grouped blue/ivory upholstered settees and chairs, blue-white painted ceramic vase with white flowers, few open books, patterned pillows; other flowers on side tables. Light retains outdoor pale cream and natural blue, brighter near windows, shaded room depths. After walking in, ONE Zephyr at threshold of sitting area near sofa, Robin remains inside and awake, black-brown leather handle/gold corners and cream hood with exactly three yellow/red/blue rings. Three travel bags and teapot stay outside by jamb per earlier blocking, no duplicated items inside. No refreshments served until page7. No new adult or child in current group.\nExactly 8 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: On terrace near open doorway, Pansy briefly frees ONE caught blonde lock from beneath Daphne's necklace, normal friendly gesture with bare RIGHT fingers/wrist or hands below portrait frame. P from head and shoulders with gold LEFT clip/narrow green eyes, Daphne listening. Show exactly their latest faces and two full sentences, tail P. Pansy balloon: «Nosotras también te extrañamos. No pensábamos permitir que celebraran el Año Nuevo sin nosotras.».\nPanel 2: Daphne turns warmly to Pansy in relief, medium portrait with BLUE eyes, hair moved just off necklace, thanks briefly, muted natural blue skies. One Daphne balloon. Daphne balloon: «Eso habría arruinado la tradición.».\nPanel 3: At single Zephyr on terrace, Daphne bends near awake human Robin and takes his tiny natural hands, one in each of her own hands, clearly connected below his elbows, simple safe care. Bow-free Robin chestnut/green in white/blue under the THREE rim rings. Graceful peachdress bends at waist at a slight side view. P/H stand nearby off crop. Two full sentences with Daphne tail, no babble bubble. Daphne balloon: «También te extrañé a ti. Aunque sospecho que te divertiste demasiado con tus abuelos para acordarte de nosotros.».\nPanel 4: WORDLESS except the caption. WIDE reveal camera INSIDE new cream salon, looks inward from tall doors. Chiara leads three visitors past columns toward the big historical coast painting and furnished salon. Pansy pushes the ONE Zephyr in naturally on floor, Daphne trails, H notices wall painting. Quiet domestic details and actual white/blue light. Small rectangular narration in open sky/cream upper wall, no other text. Caption «Dentro, el salón conservaba la luz de la terraza.».\nPanel 5: Wordless tall close-up of the framed period OIL painting on interior right cream wall, actual visible fine painted coats and older wooden sailboats inside its gold frame, the same sea/cliff houses in earlier period. H chestnut curls at margin looks up; no world swap to historical scene, no new caption.\nPanel 6: Large FULLWIDTH Chiara speaks beside the same painting with her own brow and braids tucked under champagne hat, posture subtle and welcoming, H listening attentively to her. Entire four-sentence passage, legible negative space and tail to Chiara. P/D/Robin beyond frame. Chiara balloon: «La pintó uno de los hermanos de mi bisabuela. La vista ha cambiado muy poco desde entonces. Algunas casas son más recientes y el puerto es más grande, pero el mar sigue exactamente en el mismo lugar.».\nPanel 7: H BROWN eyes look from painted sea to the real sunlight on open windows, ivory curls portrait shoulders, small smile. two full phrases to Chiara. Exact original face, consistent jewelry, no hands needed. Hermione balloon: «Es una pintura preciosa. La luz parece distinta a la de los cuadros británicos.».\nPanel 8: Chiara in same salon near tall window answers as warm afternoon sun reaches cream wall and touches the frame. Older brown skin and gold earrings and hat retain distinct look. H can edge-frame. Tail ONLY to Chiara, both complete sentences. End inside the new salon. Chiara balloon: «Aquí todo depende del sol. Incluso durante el invierno consigue cambiar los colores de la casa.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-96005c7e-ddab-48db-b080-f7abcbfc2128.png"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "original": "paginas/c13-p006.webp",
+      "image": "paginas/c13-p006-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        576,
+        577
+      ],
+      "summary": "Chiara muestra los jardines, la cala y el acceso para cochecitos. Ella y Daphne bromean sobre las escaleras.",
+      "panels": [
+        {
+          "scene": "WIDE row interior-to-view establishing: Chiara and Hermione reach the open tall window. Seen from inside, their profiles look over the stepped gardens and columned pool below toward the blue sea. Chiara stands nearest frame, dark gold hoop and woven champagne hat. One complete three-sentence quote spoken by Chiara, give sufficient background for lettering. H brown-eyed in ivory, loose curls.",
+          "dialogue": [
+            "Chiara: La propiedad llega hasta el mar. Hay un pasaje privado detrás de los jardines que baja hasta una pequeña cala. El recorrido es largo, pero la vista vale la pena."
+          ],
+          "sourceFragments": [
+            "La propiedad llega hasta el mar",
+            "Hay un pasaje privado detrás de los jardines que baja hasta una pequeña cala. El recorrido es largo, pero la vista vale la pena."
+          ]
+        },
+        {
+          "scene": "Wide different angle looking down toward coastal garden paths, show the actual STONE stair near and a distinct smoother wide gently sloping lane behind leafy orchard toward cove (no signage or route graphic arrows). Foreground Chiara plain hand points down at an accessible route, anatomically connected arm, blouse and gold on own wrist, enough of her face to identify. Source sentence including exact written «preocuparse», tail Chiara.",
+          "dialogue": [
+            "Chiara: También hay un acceso más sencillo para los cochecitos, antes de que comiences a preocuparse por las escaleras."
+          ],
+          "sourceFragments": [
+            "También hay un acceso más sencillo para los cochecitos, antes de que comiences a preocuparse por las escaleras."
+          ]
+        },
+        {
+          "scene": "Medium H reaction at bright window, subdued smile and chestnut curls from XII. H opens her mouth to thank Chiara, warm dark BROWN eyes, no day/wardrobe change, quiet hands below crop. Tail to H.",
+          "dialogue": [
+            "Hermione: Agradezco que lo haya considerado."
+          ],
+          "sourceFragments": [
+            "Agradezco que lo haya considerado."
+          ]
+        },
+        {
+          "scene": "Chiara responds in current salon with amused but sensible tone, TWO exact sentences, dark own brows and hat, H listens along the left edge if visible. All people mentioned in speech stay off frame, no invented imagery.",
+          "dialogue": [
+            "Chiara: He visto a Daphne intentar bajar con Arianna en brazos y tacones. Desde entonces intento considerar todos los riesgos posibles."
+          ],
+          "sourceFragments": [
+            "He visto a Daphne intentar bajar con Arianna en brazos y tacones. Desde entonces intento considerar todos los riesgos posibles."
+          ]
+        },
+        {
+          "scene": "Cut to Daphne across the SAME cream salon by bleu-ivory settee (shows current standing posture), with soft blonde waves, BLUE eyes, opaque PEACH dress and fine necklace. She calls across with playful protest, natural hand below crop, generous full line. P and Robin are beyond crop. No flashback, no babies standing outside Zephyr.",
+          "dialogue": [
+            "Daphne: Bajé tres escalones antes de que Blaise comenzara a comportarse como si estuviera al borde de un acantilado."
+          ],
+          "sourceFragments": [
+            "Bajé tres escalones antes de que Blaise comenzara a comportarse como si estuviera al borde de un acantilado."
+          ]
+        },
+        {
+          "scene": "Chiara from by open window glances back toward Daphne, quick dry reply, brows lift gently, complete short sentence. H looks between them. Matte face and skin from reference.",
+          "dialogue": [
+            "Chiara: Estabas al borde de un acantilado."
+          ],
+          "sourceFragments": [
+            "Estabas al borde de un acantilado"
+          ]
+        },
+        {
+          "scene": "Daphne in deliberate blue-eyed half-smile, correct standing angle across same room, two clean face expressions in scene, no actual wall/disaster visual. Short retort, tail Daphne.",
+          "dialogue": [
+            "Daphne: Había una pared de piedra a mi lado."
+          ],
+          "sourceFragments": [
+            "Había una pared de piedra a mi lado."
+          ]
+        },
+        {
+          "scene": "Last row moderate wide, Chiara delivers dry final sentence, H hides smile using ONE plain RIGHT hand near mouth, fingers naturally curved, no bracelet. Both by the current window, Daphne background optional and remains a distinct woman, no show of event being discussed. Tail ONLY Chiara.",
+          "dialogue": [
+            "Chiara: Una pared muy bonita, pero poco útil si hubieras tropezado."
+          ],
+          "sourceFragments": [
+            "Una pared muy bonita, pero poco útil si hubieras tropezado."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 06\n\nChiara muestra los jardines y el acceso a la cala, incluido el camino para cochecitos. Daphne cuenta lo ocurrido en las escaleras y Chiara replica.\nChiara: La propiedad llega hasta el mar. Hay un pasaje privado detrás de los jardines que baja hasta una pequeña cala. El recorrido es largo, pero la vista vale la pena.\nChiara: También hay un acceso más sencillo para los cochecitos, antes de que comiences a preocuparse por las escaleras.\nHermione: Agradezco que lo haya considerado.\nChiara: He visto a Daphne intentar bajar con Arianna en brazos y tacones. Desde entonces intento considerar todos los riesgos posibles.\nDaphne: Bajé tres escalones antes de que Blaise comenzara a comportarse como si estuviera al borde de un acantilado.\nChiara: Estabas al borde de un acantilado.\nDaphne: Había una pared de piedra a mi lado.\nChiara: Una pared muy bonita, pero poco útil si hubieras tropezado.",
+      "review": "Ocho viñetas, ocho turnos, fuente PDF576–577, todos completos en orden con signos, colas y ortografía fuente (preocuparse). Vista desde el salón hacia piscina columnada, jardines y dos caminos distintos: escalera y rampa. Escenario continuo con página5. Castaño H, azul D y castaño oscuro C, caras, pecas, trenzas y peinados con las referencias anteriores, escala y mano derecha lisa de H. Daphne habla desde el otro lado del salón. Sin reproducir visualmente el incidente recordado. OCR sin faltantes.",
+      "reviewDate": "2026-11-18",
+      "sha256": "f52ee0357c6e3ecef7b29937592c60c7438880d78767dda2829e29fb530105f2",
+      "masterSha256": "ff7f6f34e9aa5109c629d28d06ed81733f9425fe3d3eefd4828019becd348994",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p006-redibujo12-v2.png",
+      "selectedAttempt": "c13_p006_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p006_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/chiara-09-p021.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p005-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 06».\nImage 1: Exact dark-brown eyes, curls and individual face of H from chapter12 rendering.\nImage 2: Daphne exact face, blue eyes and golden waves from chapter12; keep peach outfit in new page5, no flowers in hair.\nImage 3: Only Chiara's specific first-approved face, age and complexion; new champagne hat/clothes from current page5 remain.\nImage 4: Previous new page 5. Establishes current SAME upper salon interior, tall windows, h/p/d/c clothing and visual world only. New framing and scenes from source.\nImage 5: Pansy original narrow green eyes and chin-length highly recognizable bob; no need draw her except when present in script.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nLa conversación sucede ahora íntegramente en EL MISMO SALÓN de la nueva página 5, junto a LOS MISMOS grandes ventanales abiertos que dan a la costa. Interior window surrounds in pale wood/plaster arch, cream MARBLE floor and columns, framed coast painting on right wall, round oval WALNUT table/blue-and-ivory chairs/white flowers/ceramic cases. Natural filtered afternoon coast light and shading. Beyond open window down slope, stone terraced gardens filled with lemon/olive trees, columned POOL area and covered simple PERGOLAS, broad stone stairs plus DIFFERENT longer gentle winding wheelchair/stroller-access ramp behind foliage toward a hidden cove. White houses on coast in distance, blue sea, far little boats only. Pansy and Robin are nearby at grouped sofas off frame; Robin remains a single human infant in one Zephyr. The people are talking, no actual cliff re-enactment or Arianna/Blaise images. Only three speakers currently in panel script. All H/P current jewelry and faces, Daphne PEACH/BLUE eyes, Chiara distinctive mature original dark brown skin/eyes/braids/two-piece champagnehat/goldjewels. H dressed IVORY and BROWN eyes, loose chestnut curls with blue-front sapphire and left single diamond, bare wrists and right-hand fingers.\nExactly 8 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: WIDE row interior-to-view establishing: Chiara and Hermione reach the open tall window. Seen from inside, their profiles look over the stepped gardens and columned pool below toward the blue sea. Chiara stands nearest frame, dark gold hoop and woven champagne hat. One complete three-sentence quote spoken by Chiara, give sufficient background for lettering. H brown-eyed in ivory, loose curls. Chiara balloon: «La propiedad llega hasta el mar. Hay un pasaje privado detrás de los jardines que baja hasta una pequeña cala. El recorrido es largo, pero la vista vale la pena.».\nPanel 2: Wide different angle looking down toward coastal garden paths, show the actual STONE stair near and a distinct smoother wide gently sloping lane behind leafy orchard toward cove (no signage or route graphic arrows). Foreground Chiara plain hand points down at an accessible route, anatomically connected arm, blouse and gold on own wrist, enough of her face to identify. Source sentence including exact written «preocuparse», tail Chiara. Chiara balloon: «También hay un acceso más sencillo para los cochecitos, antes de que comiences a preocuparse por las escaleras.».\nPanel 3: Medium H reaction at bright window, subdued smile and chestnut curls from XII. H opens her mouth to thank Chiara, warm dark BROWN eyes, no day/wardrobe change, quiet hands below crop. Tail to H. Hermione balloon: «Agradezco que lo haya considerado.».\nPanel 4: Chiara responds in current salon with amused but sensible tone, TWO exact sentences, dark own brows and hat, H listens along the left edge if visible. All people mentioned in speech stay off frame, no invented imagery. Chiara balloon: «He visto a Daphne intentar bajar con Arianna en brazos y tacones. Desde entonces intento considerar todos los riesgos posibles.».\nPanel 5: Cut to Daphne across the SAME cream salon by bleu-ivory settee (shows current standing posture), with soft blonde waves, BLUE eyes, opaque PEACH dress and fine necklace. She calls across with playful protest, natural hand below crop, generous full line. P and Robin are beyond crop. No flashback, no babies standing outside Zephyr. Daphne balloon: «Bajé tres escalones antes de que Blaise comenzara a comportarse como si estuviera al borde de un acantilado.».\nPanel 6: Chiara from by open window glances back toward Daphne, quick dry reply, brows lift gently, complete short sentence. H looks between them. Matte face and skin from reference. Chiara balloon: «Estabas al borde de un acantilado.».\nPanel 7: Daphne in deliberate blue-eyed half-smile, correct standing angle across same room, two clean face expressions in scene, no actual wall/disaster visual. Short retort, tail Daphne. Daphne balloon: «Había una pared de piedra a mi lado.».\nPanel 8: Last row moderate wide, Chiara delivers dry final sentence, H hides smile using ONE plain RIGHT hand near mouth, fingers naturally curved, no bracelet. Both by the current window, Daphne background optional and remains a distinct woman, no show of event being discussed. Tail ONLY Chiara. Chiara balloon: «Una pared muy bonita, pero poco útil si hubieras tropezado.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7801177f-02b6-4dbd-a87c-774901b2be1e.png"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "original": "paginas/c13-p007.webp",
+      "image": "paginas/c13-p007-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        577,
+        578
+      ],
+      "summary": "Chiara ofrece el yate, los elfos sirven limonata y la conversación gira al clima de Amalfi.",
+      "panels": [
+        {
+          "scene": "Full width large seaside opening from inside current salon window, Chiara points down toward tiny moored classic yacht at stone quay, water far below. Chart of reflection/ship geometry ordinary, show H full enough to stay oriented. Spacious single ALL THREE sentence quote, tail C. Keep faces and immediate limestone window clear.",
+          "dialogue": [
+            "Chiara: El yate está allí. Pueden utilizarlo cuando quieran. Si desean ir a Capri, Positano o simplemente pasar la tarde lejos de la villa, avísenme y pediré que lo preparen."
+          ],
+          "sourceFragments": [
+            "El yate está allí. Pueden utilizarlo cuando quieran. Si desean ir a Capri, Positano o simplemente pasar la tarde lejos de la villa, avísenme y pediré que lo preparen."
+          ]
+        },
+        {
+          "scene": "H dark BROWN eyes and freckles, looks away from window to answer; current ivory and frontal sapphire visible, QUIETly appreciative. Two full sentences in H's balloon; H hands below crop.",
+          "dialogue": [
+            "Hermione: Es muy amable de su parte. Nunca he viajado en un yate."
+          ],
+          "sourceFragments": [
+            "Es muy amable de su parte",
+            "Nunca he viajado en un yate."
+          ]
+        },
+        {
+          "scene": "Wide Chiara turns to H, warmly surprised and quietly reassuring; large spacious full 2-sentence balloon. Hat on, distinctive warm brown mature face, gold earrings. No party vessel or day-trip shown.",
+          "dialogue": [
+            "Chiara: Entonces tendremos que salir antes de que terminen las vacaciones. Sería una lástima tenerlo esperando en el muelle mientras una de mis invitadas todavía no conoce la costa desde el mar."
+          ],
+          "sourceFragments": [
+            "Entonces tendremos que salir antes de que terminen las vacaciones. Sería una lástima tenerlo esperando en el muelle mientras una de mis invitadas todavía no conoce la costa desde el mar."
+          ]
+        },
+        {
+          "scene": "WORDLESS see room further inside, grounded perspective of walnut oval table and blue furniture, group of SMALL MATURE pointy-ear adult house-elves in cream-gold tunics put down a few small trays with bread, olives and three clear pale yellow drinks, one separate almost colorless wine. Natural hands/proportions and proper tray scale, no oversized people/babies in cold lighting. Chiara approaches table.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "One identified SMALL adult house elf in matching cream tunic offers H one stemmed pale-yellow limonata with ice, mint and lemon. H receives glass by stem with RIGHT bare fingers (no band, natural grip). H speaks only «Muchas gracias.» tail to H, elf nod calm, body physically grounded. C takes wine with other adult separate across table out of baby reach.",
+          "dialogue": [
+            "Hermione: Muchas gracias."
+          ],
+          "sourceFragments": [
+            "Muchas gracias"
+          ]
+        },
+        {
+          "scene": "P across SAME salon by Daphne near their Zephyr at opposite sofa, cropped chest-up and her right hand plain holding limonata safely away from Robin. Original distinct P jaw/eye and sidepart slim gold barrette. Calm speaks of warmth, one sentence tail P. No rings.",
+          "dialogue": [
+            "Pansy: No recuerdo que diciembre fuera tan cálido el año pasado."
+          ],
+          "sourceFragments": [
+            "No recuerdo que diciembre fuera tan cálido el año pasado"
+          ]
+        },
+        {
+          "scene": "Wide DAPHNE near P and stroller BOW-FREE baby Robin if at edge of frame, D blue eyes/peach, looks at P to deliver 3 full phrases in order. One large legible clear balloon, no Blaise appearing or actual breakfast scene. Safe support. Separate D/P cups and no glass near baby.",
+          "dialogue": [
+            "Daphne: No lo fue. Hemos desayunado en la terraza todos los días. Blaise está convencido de que el clima mejoró porque sabía que vendríamos."
+          ],
+          "sourceFragments": [
+            "No lo fue",
+            "Hemos desayunado en la terraza todos los días. Blaise está convencido de que el clima mejoró porque sabía que vendríamos."
+          ]
+        },
+        {
+          "scene": "Small amused P expression, narrow GREEN eyes and chin-defined face, pose roughly looks toward D. Head-and-shoulders with lemon cup below frame, no jewelry confusion.",
+          "dialogue": [
+            "Pansy: Por supuesto que encontró una forma de atribuirse el mérito."
+          ],
+          "sourceFragments": [
+            "Por supuesto que encontró una forma de atribuirse el mérito."
+          ]
+        },
+        {
+          "scene": "Last broad panel D replies smiling, both full source sentences. Hermione approaches from background left sipping her own pale drink RIGHT hand plain, P looks quietly amused over her distinct cup, head shapes identical to refs. H's left hand not visible yet, no reveal until next page. Everyone remains in same space, no B or father depicted.",
+          "dialogue": [
+            "Daphne: Mi padre le recordó que el clima llevaba varias semanas así antes de nuestra llegada. Blaise dijo que probablemente también lo estaba esperando."
+          ],
+          "sourceFragments": [
+            "Mi padre le recordó que el clima llevaba varias semanas así antes de nuestra llegada. Blaise dijo que probablemente también lo estaba esperando."
+          ]
+        }
+      ],
+      "actualPanelCount": 9,
+      "transcript": "Capítulo 13 · 07\n\nChiara ofrece el yate para conocer Capri y Positano. Sirven limonata y las amigas bromean sobre el clima y la vanidad de Blaise.\nChiara: El yate está allí. Pueden utilizarlo cuando quieran. Si desean ir a Capri, Positano o simplemente pasar la tarde lejos de la villa, avísenme y pediré que lo preparen.\nHermione: Es muy amable de su parte. Nunca he viajado en un yate.\nChiara: Entonces tendremos que salir antes de que terminen las vacaciones. Sería una lástima tenerlo esperando en el muelle mientras una de mis invitadas todavía no conoce la costa desde el mar.\nHermione: Muchas gracias.\nPansy: No recuerdo que diciembre fuera tan cálido el año pasado.\nDaphne: No lo fue. Hemos desayunado en la terraza todos los días. Blaise está convencido de que el clima mejoró porque sabía que vendríamos.\nPansy: Por supuesto que encontró una forma de atribuirse el mérito.\nDaphne: Mi padre le recordó que el clima llevaba varias semanas así antes de nuestra llegada. Blaise dijo que probablemente también lo estaba esperando.",
+      "review": "Página nueva, nueve viñetas y ocho parlamentos completos PDF577–578. Yate del muelle lejano con cubierta blanca, dos mástiles y línea de casco azul, coherente con detalle de PDF617. Elfos domésticos maduros y pequeños, tres limonatas y vino aparte. Leyenda exacta y H recibe/sorbe con mano derecha lisa. D de ojos azules, P verdes y clip izquierdo, H castaños y estilo capítulo12, C madura y trenzas. Robin humano separado de las copas, vestido blanco/azul, en Zephyr con los aros. Revisadas colas, escenarios, figuras, anatomía y todos los acentos y palabras. Reintento tras error de conexión (no límite).",
+      "reviewDate": "2026-11-18",
+      "sha256": "d274de7fbc4297c93d394e549b1133d31e6470bc0614c5e11c85324f44c287e2",
+      "masterSha256": "57836ad4f4c2e2d3e2303bfec8cd9ea3f0adaeee98b8d2dae16f588d0b0c978a",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p007-redibujo12-v3.png",
+      "selectedAttempt": "c13_p007_redibujo12_v3.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p007_redibujo12_v2-error.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p005-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p006-redibujo12-v2.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 07».\nImage 1: Exact original Hermione loose-curl face and BROWN eyes with fine chapter12 render.\nImage 2: Exact original Pansy tapered face, GREEN narrow eyes and black chin bob with left slim clip from chapter12.\nImage 3: Exact original Daphne light golden face/waves and blue eyes from chapter12. Use current peach dress and simple pendant.\nImage 4: Redrawn page5 controls this same salon architecture, blue furniture, painting, current scene's distinct character sizes and clothes. Do not reuse its text/layout.\nImage 5: Redrawn page6 gives current window/Chiara individual face and terrace below, only visual continuity. Keep literal next scene and text.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nPage7 begins by the tall open sea-facing windows of the SAME salon. One distant moored classic family yacht at the small dock far below (PDF577 appears white from height; fine visible ivory/white deck and cabin in afternoon sun, lower hull a muted deep navy line; two simple thin masts main higher forward and mizzen shorter near stern), fine gold and dark wood character consistent with the later Sangermani source, no giant white motor yacht in this scene; Distant and small. No near ship decks or occupants or invented voyages. Same room with right-wall old seascape painting, oval walnut low table, classical blue/ivory gilt chairs, columns, flowered blue-white vases, sunlight from tall windows. A few SMALL MATURE adult house elves, natural faces/pointed ears, cream tunics with narrow GOLD detail, approx half height of adults, anatomically connected small hands and tray at real scale; one serves Hermione pale-yellow limonata goblet with ice/mint/lemon wheel, others place glasses and plates with bread/olives on low table. Gold earring/bangle/hat Chiara owns ONE white-wine clear goblet only. Hermione, Pansy, Daphne each own ONE separate stemmed limonata, keep drinks away from Robin. Human single Robin stays supported in the Zephyr by far sofa with three linked toy rings, no cup in his reach. Chapter12 H brown eyes, rich chestnut loose hair/IVORY, blue sapphire and ONE clear halo diamond LEFT ring finger only (use plain RIGHT to take glass here). Pansy angular green eyes matte black bob gold LEFT clip/blue linen + full white pants, ONE tiny H R P chain LEFT wrist, plain right wrist and fingers, hold her own drink with RIGHT unadorned hand only or below crop. Daphne original blue eyes blonde/peach+small round pendant, plain hands and no bracelet. Chiara distinctive grown face and current outfit. Blaise and Daphne's father only mentioned, both offstage.\nExactly 9 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: Full width large seaside opening from inside current salon window, Chiara points down toward tiny moored classic yacht at stone quay, water far below. Chart of reflection/ship geometry ordinary, show H full enough to stay oriented. Spacious single ALL THREE sentence quote, tail C. Keep faces and immediate limestone window clear. Chiara balloon: «El yate está allí. Pueden utilizarlo cuando quieran. Si desean ir a Capri, Positano o simplemente pasar la tarde lejos de la villa, avísenme y pediré que lo preparen.».\nPanel 2: H dark BROWN eyes and freckles, looks away from window to answer; current ivory and frontal sapphire visible, QUIETly appreciative. Two full sentences in H's balloon; H hands below crop. Hermione balloon: «Es muy amable de su parte. Nunca he viajado en un yate.».\nPanel 3: Wide Chiara turns to H, warmly surprised and quietly reassuring; large spacious full 2-sentence balloon. Hat on, distinctive warm brown mature face, gold earrings. No party vessel or day-trip shown. Chiara balloon: «Entonces tendremos que salir antes de que terminen las vacaciones. Sería una lástima tenerlo esperando en el muelle mientras una de mis invitadas todavía no conoce la costa desde el mar.».\nPanel 4: WORDLESS see room further inside, grounded perspective of walnut oval table and blue furniture, group of SMALL MATURE pointy-ear adult house-elves in cream-gold tunics put down a few small trays with bread, olives and three clear pale yellow drinks, one separate almost colorless wine. Natural hands/proportions and proper tray scale, no oversized people/babies in cold lighting. Chiara approaches table.\nPanel 5: One identified SMALL adult house elf in matching cream tunic offers H one stemmed pale-yellow limonata with ice, mint and lemon. H receives glass by stem with RIGHT bare fingers (no band, natural grip). H speaks only «Muchas gracias.» tail to H, elf nod calm, body physically grounded. C takes wine with other adult separate across table out of baby reach. Hermione balloon: «Muchas gracias.».\nPanel 6: P across SAME salon by Daphne near their Zephyr at opposite sofa, cropped chest-up and her right hand plain holding limonata safely away from Robin. Original distinct P jaw/eye and sidepart slim gold barrette. Calm speaks of warmth, one sentence tail P. No rings. Pansy balloon: «No recuerdo que diciembre fuera tan cálido el año pasado.».\nPanel 7: Wide DAPHNE near P and stroller BOW-FREE baby Robin if at edge of frame, D blue eyes/peach, looks at P to deliver 3 full phrases in order. One large legible clear balloon, no Blaise appearing or actual breakfast scene. Safe support. Separate D/P cups and no glass near baby. Daphne balloon: «No lo fue. Hemos desayunado en la terraza todos los días. Blaise está convencido de que el clima mejoró porque sabía que vendríamos.».\nPanel 8: Small amused P expression, narrow GREEN eyes and chin-defined face, pose roughly looks toward D. Head-and-shoulders with lemon cup below frame, no jewelry confusion. Pansy balloon: «Por supuesto que encontró una forma de atribuirse el mérito.».\nPanel 9: Last broad panel D replies smiling, both full source sentences. Hermione approaches from background left sipping her own pale drink RIGHT hand plain, P looks quietly amused over her distinct cup, head shapes identical to refs. H's left hand not visible yet, no reveal until next page. Everyone remains in same space, no B or father depicted. Daphne balloon: «Mi padre le recordó que el clima llevaba varias semanas así antes de nuestra llegada. Blaise dijo que probablemente también lo estaba esperando.».",
+          "error": "image generation failed: connection failed: error sending request"
+        },
+        {
+          "name": "c13_p007_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p005-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p006-redibujo12-v2.png"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 07».\nImage 1: Exact original Hermione loose-curl face and BROWN eyes with fine chapter12 render.\nImage 2: Exact original Pansy tapered face, GREEN narrow eyes and black chin bob with left slim clip from chapter12.\nImage 3: Exact original Daphne light golden face/waves and blue eyes from chapter12. Use current peach dress and simple pendant.\nImage 4: Redrawn page5 controls this same salon architecture, blue furniture, painting, current scene's distinct character sizes and clothes. Do not reuse its text/layout.\nImage 5: Redrawn page6 gives current window/Chiara individual face and terrace below, only visual continuity. Keep literal next scene and text.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nPage7 begins by the tall open sea-facing windows of the SAME salon. One distant moored classic family yacht at the small dock far below (PDF577 appears white from height; fine visible ivory/white deck and cabin in afternoon sun, lower hull a muted deep navy line; two simple thin masts main higher forward and mizzen shorter near stern), fine gold and dark wood character consistent with the later Sangermani source, no giant white motor yacht in this scene; Distant and small. No near ship decks or occupants or invented voyages. Same room with right-wall old seascape painting, oval walnut low table, classical blue/ivory gilt chairs, columns, flowered blue-white vases, sunlight from tall windows. A few SMALL MATURE adult house elves, natural faces/pointed ears, cream tunics with narrow GOLD detail, approx half height of adults, anatomically connected small hands and tray at real scale; one serves Hermione pale-yellow limonata goblet with ice/mint/lemon wheel, others place glasses and plates with bread/olives on low table. Gold earring/bangle/hat Chiara owns ONE white-wine clear goblet only. Hermione, Pansy, Daphne each own ONE separate stemmed limonata, keep drinks away from Robin. Human single Robin stays supported in the Zephyr by far sofa with three linked toy rings, no cup in his reach. Chapter12 H brown eyes, rich chestnut loose hair/IVORY, blue sapphire and ONE clear halo diamond LEFT ring finger only (use plain RIGHT to take glass here). Pansy angular green eyes matte black bob gold LEFT clip/blue linen + full white pants, ONE tiny H R P chain LEFT wrist, plain right wrist and fingers, hold her own drink with RIGHT unadorned hand only or below crop. Daphne original blue eyes blonde/peach+small round pendant, plain hands and no bracelet. Chiara distinctive grown face and current outfit. Blaise and Daphne's father only mentioned, both offstage.\nExactly 9 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: Full width large seaside opening from inside current salon window, Chiara points down toward tiny moored classic yacht at stone quay, water far below. Chart of reflection/ship geometry ordinary, show H full enough to stay oriented. Spacious single ALL THREE sentence quote, tail C. Keep faces and immediate limestone window clear. Chiara balloon: «El yate está allí. Pueden utilizarlo cuando quieran. Si desean ir a Capri, Positano o simplemente pasar la tarde lejos de la villa, avísenme y pediré que lo preparen.».\nPanel 2: H dark BROWN eyes and freckles, looks away from window to answer; current ivory and frontal sapphire visible, QUIETly appreciative. Two full sentences in H's balloon; H hands below crop. Hermione balloon: «Es muy amable de su parte. Nunca he viajado en un yate.».\nPanel 3: Wide Chiara turns to H, warmly surprised and quietly reassuring; large spacious full 2-sentence balloon. Hat on, distinctive warm brown mature face, gold earrings. No party vessel or day-trip shown. Chiara balloon: «Entonces tendremos que salir antes de que terminen las vacaciones. Sería una lástima tenerlo esperando en el muelle mientras una de mis invitadas todavía no conoce la costa desde el mar.».\nPanel 4: WORDLESS see room further inside, grounded perspective of walnut oval table and blue furniture, group of SMALL MATURE pointy-ear adult house-elves in cream-gold tunics put down a few small trays with bread, olives and three clear pale yellow drinks, one separate almost colorless wine. Natural hands/proportions and proper tray scale, no oversized people/babies in cold lighting. Chiara approaches table.\nPanel 5: One identified SMALL adult house elf in matching cream tunic offers H one stemmed pale-yellow limonata with ice, mint and lemon. H receives glass by stem with RIGHT bare fingers (no band, natural grip). H speaks only «Muchas gracias.» tail to H, elf nod calm, body physically grounded. C takes wine with other adult separate across table out of baby reach. Hermione balloon: «Muchas gracias.».\nPanel 6: P across SAME salon by Daphne near their Zephyr at opposite sofa, cropped chest-up and her right hand plain holding limonata safely away from Robin. Original distinct P jaw/eye and sidepart slim gold barrette. Calm speaks of warmth, one sentence tail P. No rings. Pansy balloon: «No recuerdo que diciembre fuera tan cálido el año pasado.».\nPanel 7: Wide DAPHNE near P and stroller BOW-FREE baby Robin if at edge of frame, D blue eyes/peach, looks at P to deliver 3 full phrases in order. One large legible clear balloon, no Blaise appearing or actual breakfast scene. Safe support. Separate D/P cups and no glass near baby. Daphne balloon: «No lo fue. Hemos desayunado en la terraza todos los días. Blaise está convencido de que el clima mejoró porque sabía que vendríamos.».\nPanel 8: Small amused P expression, narrow GREEN eyes and chin-defined face, pose roughly looks toward D. Head-and-shoulders with lemon cup below frame, no jewelry confusion. Pansy balloon: «Por supuesto que encontró una forma de atribuirse el mérito.».\nPanel 9: Last broad panel D replies smiling, both full source sentences. Hermione approaches from background left sipping her own pale drink RIGHT hand plain, P looks quietly amused over her distinct cup, head shapes identical to refs. H's left hand not visible yet, no reveal until next page. Everyone remains in same space, no B or father depicted. Daphne balloon: «Mi padre le recordó que el clima llevaba varias semanas así antes de nuestra llegada. Blaise dijo que probablemente también lo estaba esperando.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bb47c7b7-e604-4b43-b701-1e9be9f4551e.png"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "original": "paginas/c13-p008.webp",
+      "image": "paginas/c13-p008-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        578
+      ],
+      "summary": "Daphne y Chiara reparan en el anillo. Pansy aclara que es una promesa y Daphne bromea sobre su tamaño.",
+      "panels": [
+        {
+          "scene": "WORDLESS opening narrow detail: Hermione's IVORY-SLEEVE anatomical LEFT hand resting by oval walnut table in window light, back of hand visible with five natural fingers, EXACTLY ONE small clear oval halo diamond on second finger from pinky, anatomical left; show natural shadow, small daylight glint, bare wrist, unpainted nails, no other hand. Her limonata in her RIGHT hand can remain outside crop. Do not make main sapphire the ring.",
+          "dialogue": [],
+          "sourceFragments": []
+        },
+        {
+          "scene": "Daphne's hands move naturally toward her own collar or below shoulders, soft surprise, BLUE eyes recognizably chapter12, long golden waves, PEACH; H is distinct in ivory curls with eyebrow slightly surprised. One full question, ellipsis and inverted question exactly, tail D.",
+          "dialogue": [
+            "Daphne: Hermione… ¿ese anillo es nuevo?"
+          ],
+          "sourceFragments": [
+            "Hermione… ¿ese anillo es nuevo?"
+          ]
+        },
+        {
+          "scene": "C calmly raises her own almost-colorless white wine goblet towards P with one hand, natural stem grip, original gold bangles, champagne hat, mature individual face. Wider panel with enough space for full two sentences and clear C tail. P GREEN black bob with own limonata listens; no C earrings copied to P, no gift box.",
+          "dialogue": [
+            "Chiara: Ahora comprendo por qué insististe en llegar antes de la cena. Felicidades por el compromiso."
+          ],
+          "sourceFragments": [
+            "Ahora comprendo por qué insististe en llegar antes de la cena. Felicidades por el compromiso."
+          ]
+        },
+        {
+          "scene": "D looks at P incredulous but happy, expressive narrow original eye placement, blonde/peach, two full questions. P quiet amused green-eyed gaze, other position near edge. One balloon clear D tail.",
+          "dialogue": [
+            "Daphne: ¿Se comprometieron en Navidad? ¿Por qué ninguna de las dos me escribió?"
+          ],
+          "sourceFragments": [
+            "Se comprometieron en Navidad? ¿Por qué ninguna de las dos me escribió"
+          ]
+        },
+        {
+          "scene": "H in ivory and chestnut dark-brown eyes, opens lips to interject politely, then pauses. All sentence exact with coma and ellipsis. Natural worried brow vs P's quiet smile, medium portrait. One H tail, no gesture showing right ring.",
+          "dialogue": [
+            "Hermione: Perdona, Chiara, pero el anillo no es exactamente…"
+          ],
+          "sourceFragments": [
+            "Perdona, Chiara",
+            "pero el anillo no es exactamente"
+          ]
+        },
+        {
+          "scene": "WIDE C gently supports H's anatomically LEFT ivory-cuffed hand at normal waist level over table edge, studies SINGLE clear diamond on ring finger. Use actual chapter12 ring shape and natural hand perspective, two hands only (C's one natural undiamonded Dark Brown hand supports from below, H's cream cuff left hand above), avoid giant ring or extra jewelry. H with brown eyes/blue sapphire listens. C says all three complete sentences in generous balloon, tail ONLY C.",
+          "dialogue": [
+            "Chiara: Es hermoso. El corte es perfecto para ti. Discreto dentro de lo que los Parkinson consideran discreto, pero lo bastante importante para que nadie pueda confundir sus intenciones."
+          ],
+          "sourceFragments": [
+            "Es hermoso",
+            "El corte es perfecto para ti. Discreto dentro de lo que los Parkinson consideran discreto, pero lo bastante importante para que nadie pueda confundir sus intenciones."
+          ]
+        },
+        {
+          "scene": "P in scene looks directly at D and C from across same sofa corner. Clarifies calmly in one two-sentence balloon, definite in dry smile. P limonata in plain RIGHT hand can be below crop; frame close portrait left gold clip, black chin bob and green eyes; no fingers/rings/necklace.",
+          "dialogue": [
+            "Pansy: No le pedí matrimonio. Es un anillo de promesa."
+          ],
+          "sourceFragments": [
+            "No le pedí matrimonio",
+            "Es un anillo de promesa."
+          ]
+        },
+        {
+          "scene": "D softens and understands. Close blue eye and blonde mouth with warm knowing smile, gold necklace, whole two sentences, same windows furniture.",
+          "dialogue": [
+            "Daphne: Una promesa Parkinson. Eso explica el tamaño del diamante."
+          ],
+          "sourceFragments": [
+            "Una promesa Parkinson",
+            "Eso explica el tamaño del diamante."
+          ]
+        },
+        {
+          "scene": "Final P facing D with sober humorous retort, smiling with narrow green eyes, distinctive sharp jaw/black bob/blue linen, hands below frame; the rest of space shows blue-white pillow and salon warm window. No more speech. Tail P only.",
+          "dialogue": [
+            "Pansy: La promesa no se mide por el tamaño."
+          ],
+          "sourceFragments": [
+            "La promesa no se mide por el tamaño"
+          ]
+        }
+      ],
+      "actualPanelCount": 9,
+      "transcript": "Capítulo 13 · 08\n\nDaphne y Chiara ven el anillo. Tras felicitar un supuesto compromiso, Pansy aclara que es una promesa; siguen las bromas sobre el diamante.\nDaphne: Hermione… ¿ese anillo es nuevo?\nChiara: Ahora comprendo por qué insististe en llegar antes de la cena. Felicidades por el compromiso.\nDaphne: ¿Se comprometieron en Navidad? ¿Por qué ninguna de las dos me escribió?\nHermione: Perdona, Chiara, pero el anillo no es exactamente…\nChiara: Es hermoso. El corte es perfecto para ti. Discreto dentro de lo que los Parkinson consideran discreto, pero lo bastante importante para que nadie pueda confundir sus intenciones.\nPansy: No le pedí matrimonio. Es un anillo de promesa.\nDaphne: Una promesa Parkinson. Eso explica el tamaño del diamante.\nPansy: La promesa no se mide por el tamaño.",
+      "review": "Ocho turnos completos de PDF578 y nueve viñetas. Detalle del diamante oval incoloro con halo en anular de mano izquierda anatómica de Hermione, dedos naturales y muñeca lisa. En viñeta 6 Chiara sostiene tal mano, sin anillo extra ni traslado de portadora. Vino blanco de C y limonata de P distintos. Sin margaritas del tren en cabello dorado de Daphne; conserva rostro y ojos azules del capítulo12; se quitó el pasador de P solo del lado derecho en la 7, sigue en izquierdo en las otras vistas. Mismos ojos castaños H, verdes P y trazo mate capítulo12. Silencio del insert inicial y todas las colas, letras, signos, palabras, ropa y entorno verificados.",
+      "reviewDate": "2026-11-18",
+      "sha256": "3cf7d85d149cd94c0f82539517276ee56c3a4f654f309d21c5d6abc01234bc42",
+      "masterSha256": "96303758207d889e7b8bec9d4d279ba43acf3e8bc684d42ce9555a0c5f9eb25c",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p008-redibujo12-v3.png",
+      "selectedAttempt": "c13_p008_redibujo12_v3.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p008_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p007-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p093.webp"
+          ],
+          "prompt": "Use case: illustration-story. Draw ONE entirely NEW chapter 13 page from the story below, 1024 by 1536 portrait. NO previous old chapter13 artwork; this is a new composition from the PDF in the visual language of chapter12. Keep the fixed reference faces and ages, individual eye/nose/mouth placement and cheek/jaw geometry. Letter only the listed exact Spanish dialogue and small top-left serif heading «Capítulo 13 · 08».\nImage 1: Exact Hermione loose chestnut curls face and chestnut-brown eyes from chapter12, not old clothes.\nImage 2: Exact Pansy nose, smile, face angle, tapered jaw, green narrow eyes, chin bob and clip from chapter12. Use current blue/white wardrobe.\nImage 3: Exact Daphne individual blue-eyed face and gold hair from chapter12. Apply current peach and pendant from page7.\nImage 4: Previous new page7 establishes exact salon and furniture, Chiara's own face and gold/champagne clothes, H/P/D outfits, their goblets, and Robin in his one Zephyr. Keep interior. Do not repeat prior text or layout.\nImage 5: Chapter 12 page93 only ring design and owners: ONE clear halo DIAMOND on H's left ring finger, distinctive white-gold H R P fine bracelet on P LEFT wrist; no ring box or winter dress. Same style.\nMatch chapter12 thin expressive ink and matte brushed painted transitions, subtle pigment grain, restrained lip and hair highlights, moderately rich natural warm light with shaded midtones. Cream gutters, thin straight black panel borders, clean serif lettering and quiet individual gestures. Keep each character identifiable as the person in their reference image, never different generic face shapes. Apply current Amalfi clothing and lighting. Each panel has one unique instance of each character. Do not copy panels/text/material costumes from the reference images. Faces should read naturally, and people follow normal physical distance and anatomy.\nChapter13 redrawn page8 continues the exact SAME warm daylight cream upper salon of new pages5–7. Tall open sea windows, narrow ornate gold seascape frame, pale columns, blue/ivory patterned furniture, white flowers in blue ceramic, oval walnut table. H comes over to P/D; C a little farther around the same table. All four women remain standing or near chair edge when seen, normal adult proportions; no other adult here. One awake HUMAN Robin safe in same Zephyr in background when needed. Drinks remain distinct: H holds ONE pale limonata in plain anatomical RIGHT hand or resting right-hand glass on nearby table, P holds own ONE pale limonata in RIGHT plain hand, D owns third pale limonata resting on table (not floating or duplicated), C holds one clear white wine in RIGHT hand for toast. Baby never near cups. Exact H original brown irises, distinctive chestnut curls/ivory, front small oval BLUE sapphire and a separate SINGLE clear oval promise diamond with halo on ring finger (second from little finger) of ANATOMICAL LEFT. H wrists plain. P original narrow muted GREEN almond eyes, sharp chin, flat black chin-length bob, gold clip LEFT/blue linen and full WHITE trousers, NO finger rings or ear studs, one HRP fine LEFT wrist only. D original blue eyes blonde loose waves peach dress/one round gold pendant/plain hands. C older, deep brown skin and dark-brown eyes, gold jewelry, champagne two-piece/slim brim face shading, braided updo. Only H wears a diamond. Keep drink positions/arms anatomically attached.\nExactly 9 panels. Standard row order, left to right, top to bottom. Where a wide panel is called for, use a whole row and give the large quote breathing room. Clear tails just to the specified speaker and complete sentences verbatim including accents. No new words or watermark. Preserve room for faces and keep every given turn in order.\nPanel 1: WORDLESS opening narrow detail: Hermione's IVORY-SLEEVE anatomical LEFT hand resting by oval walnut table in window light, back of hand visible with five natural fingers, EXACTLY ONE small clear oval halo diamond on second finger from pinky, anatomical left; show natural shadow, small daylight glint, bare wrist, unpainted nails, no other hand. Her limonata in her RIGHT hand can remain outside crop. Do not make main sapphire the ring.\nPanel 2: Daphne's hands move naturally toward her own collar or below shoulders, soft surprise, BLUE eyes recognizably chapter12, long golden waves, PEACH; H is distinct in ivory curls with eyebrow slightly surprised. One full question, ellipsis and inverted question exactly, tail D. Daphne balloon: «Hermione… ¿ese anillo es nuevo?».\nPanel 3: C calmly raises her own almost-colorless white wine goblet towards P with one hand, natural stem grip, original gold bangles, champagne hat, mature individual face. Wider panel with enough space for full two sentences and clear C tail. P GREEN black bob with own limonata listens; no C earrings copied to P, no gift box. Chiara balloon: «Ahora comprendo por qué insististe en llegar antes de la cena. Felicidades por el compromiso.».\nPanel 4: D looks at P incredulous but happy, expressive narrow original eye placement, blonde/peach, two full questions. P quiet amused green-eyed gaze, other position near edge. One balloon clear D tail. Daphne balloon: «¿Se comprometieron en Navidad? ¿Por qué ninguna de las dos me escribió?».\nPanel 5: H in ivory and chestnut dark-brown eyes, opens lips to interject politely, then pauses. All sentence exact with coma and ellipsis. Natural worried brow vs P's quiet smile, medium portrait. One H tail, no gesture showing right ring. Hermione balloon: «Perdona, Chiara, pero el anillo no es exactamente…».\nPanel 6: WIDE C gently supports H's anatomically LEFT ivory-cuffed hand at normal waist level over table edge, studies SINGLE clear diamond on ring finger. Use actual chapter12 ring shape and natural hand perspective, two hands only (C's one natural undiamonded Dark Brown hand supports from below, H's cream cuff left hand above), avoid giant ring or extra jewelry. H with brown eyes/blue sapphire listens. C says all three complete sentences in generous balloon, tail ONLY C. Chiara balloon: «Es hermoso. El corte es perfecto para ti. Discreto dentro de lo que los Parkinson consideran discreto, pero lo bastante importante para que nadie pueda confundir sus intenciones.».\nPanel 7: P in scene looks directly at D and C from across same sofa corner. Clarifies calmly in one two-sentence balloon, definite in dry smile. P limonata in plain RIGHT hand can be below crop; frame close portrait left gold clip, black chin bob and green eyes; no fingers/rings/necklace. Pansy balloon: «No le pedí matrimonio. Es un anillo de promesa.».\nPanel 8: D softens and understands. Close blue eye and blonde mouth with warm knowing smile, gold necklace, whole two sentences, same windows furniture. Daphne balloon: «Una promesa Parkinson. Eso explica el tamaño del diamante.».\nPanel 9: Final P facing D with sober humorous retort, smiling with narrow green eyes, distinctive sharp jaw/black bob/blue linen, hands below frame; the rest of space shows blue-white pillow and salon warm window. No more speech. Tail P only. Pansy balloon: «La promesa no se mide por el tamaño.».",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-32c70259-87a9-437d-974d-becbe9a09c67.png"
+        },
+        {
+          "name": "c13_p008_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-32c70259-87a9-437d-974d-becbe9a09c67.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Edit full nine-panel Spanish comic page «Capítulo 13 · 08». Only hair accessory continuity corrections:\n- DAPHNE is the blonde blue-eyed woman in peach. Remove all little WHITE FLOWER hair clips from her hair in panels 2 (top right), 4 (second row right), and 8 (bottom center, partly at left border). Replace those shapes with the exact continuation of her existing loose golden blonde wave strands. Keep her face, identical height, jewelry, fine round gold necklace, natural BLUE eyes, proportions, expression, peach dress and hair silhouette. No flower or replacement clip on D in this Amalfi scene. Keep actual white FLOWERS in the ceramic vases unchanged.\n- Panel 7 (bottom LEFT) only: PANSY black hair/blue shirt is shown from her right. Remove the gold clip that accidentally appears on the visible RIGHT side of her hair around x64 y1305, fill with matching black bob strands. Keep her gold clip correctly above the LEFT ear in other panels, hair shapes, GREEN eyes and exact face.\nPreserve everything else pixel-closely: ALL nine panel lines, ALL dialogue, punctuation and accent marks, all faces exactly, original head and positions and poses, porcelain and blue salon, left-hand diamond macros (no changes to fingers/ring/hand), Chiara's hat, ordinary window light as drawn, actual gold earrings and bracelets. NO text changes. Only those flower shapes in blonde hair and one misplaced gold clip in bottom left. Output complete same 1024x1536 page.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-966bd793-f59b-4df1-86d5-6c782fc831c9.png"
+        }
+      ]
+    }
+  ]
+}
