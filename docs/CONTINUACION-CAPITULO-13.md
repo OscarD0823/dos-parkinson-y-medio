@@ -278,3 +278,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 100 | 662 | Hermione y Pansy se sientan en el sillón exterior. Tras bromear sobre Blaise, Pansy reconoce que explicar Portofino no justifica su reacción en la cala. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-97-100.json).
+
+## Páginas 101–104
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 101 | 662–663 | Pansy busca cómo continuar su explicación. Antes de encontrar las palabras, las manos y la cabeza de Blaise aparecen sobre la balaustrada. |
+| 102 | 663 | Pansy detiene el impulso de Hermione de ayudar a Blaise. Él alcanza la terraza y evita que una maceta caiga, antes de intentar marcharse hacia la habitación de Daphne. |
+| 103 | 663–664 | Blaise se detiene para defender a Pansy. Sus palabras devuelven poco a poco la sonrisa a Hermione, mientras Pansy intenta frenarlo. |
+| 104 | 664 | Pansy protesta por la intervención. Blaise insiste en defenderla, provocando la sonrisa de Hermione y un gesto de resignación en Pansy. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-101-104.json).
