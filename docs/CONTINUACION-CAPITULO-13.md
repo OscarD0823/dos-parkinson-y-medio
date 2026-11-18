@@ -300,3 +300,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 108 | 666–667 | Hermione llama a Pansy de vuelta al sillón y le ofrece la mano. Daphne concede a Blaise un minuto para explicarse, y él comienza por lo ocurrido antes de su relación. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-105-108.json).
+
+## Páginas 109–112
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 109 | 667 | Daphne detiene la defensa de los meses y Blaise empieza a reconocer su reacción en la cala. Pansy confirma que ambas visitas las tomaron por sorpresa. |
+| 110 | 667–668 | Blaise explica el bloqueo al pensar en Arianna; Daphne distingue esa confusión de los abrazos y besos de Valentina. |
+| 111 | 668 | Blaise reconoce que debió apartarse y pedir disculpas; Daphne baja los brazos al oír que asume su responsabilidad. |
+| 112 | 668–669 | Blaise distingue su sorpresa de su responsabilidad y explica que no quiere dejar dudas sobre el lugar de Daphne en su vida. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-109-112.json).

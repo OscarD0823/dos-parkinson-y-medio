@@ -1,0 +1,406 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-18",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    109,
+    112
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 109,
+      "image": "paginas/c13-p109.webp",
+      "sourcePdfPages": [
+        667
+      ],
+      "summary": "Daphne detiene la defensa de los meses y Blaise empieza a reconocer su reacción en la cala. Pansy confirma que ambas visitas las tomaron por sorpresa.",
+      "panels": [
+        {
+          "scene": "Daph at OPENfullheightdoor armsCROSSED, BLUE/LONGwetBLONDE/TURQ/goldpendant, calmfirm mediumportrait. BROWNeyedB canedgecrop. ONEfulltwo-sentence quote, tailDaph, no calendar/flashback.",
+          "dialogue": [
+            "Daphne: Conozco el orden de los meses, Blaise. No necesito que vuelvas a explicarme cuándo ocurrió."
+          ],
+          "sourceFragments": [
+            "Conozco el orden de los meses, Blaise. No necesito que vuelvas a explicarme cuándo ocurrió."
+          ]
+        },
+        {
+          "scene": "SameDaph adds briskly, steadyeyecontact, ONEshortfullsentence, B closesmouth instead of repeating olddefense. TailDaphonly.",
+          "dialogue": [
+            "Daphne: Acabas de desperdiciar quince segundos."
+          ],
+          "sourceFragments": [
+            "Acabas de desperdiciar quince segundos"
+          ]
+        },
+        {
+          "scene": "WORDLESS Bdeepinhale and passesONEplainhand throughblacktwists, disturbinghair slightly. KeepONEgreenleaf caughtfrontalRIGHT, no fallenleaf/no hat. Natural5digits onlyonehand/no duplicatearms. Daphcrossedarms atthreshold."
+        },
+        {
+          "scene": "B admits fault, WHITEcreasedshirt/BROWNeyes/BLACKtwistsleaf/LOWblackrectglasses. FullTHREEsentences ONEorconnectedballoon, no rock/womanflashback.",
+          "dialogue": [
+            "Blaise: Está bien. Fui un tonto. La vi aparecer detrás de la roca y me quedé completamente paralizado."
+          ],
+          "sourceFragments": [
+            "Está bien. Fui un tonto. La vi aparecer detrás de la roca y me quedé completamente paralizado."
+          ]
+        },
+        {
+          "scene": "Daph SAMEOPENdoor crossedarms/BLUEeyes respondsdryly ONEcomplete sentence, no smileyet.",
+          "dialogue": [
+            "Daphne: Esa parte ya la presencié."
+          ],
+          "sourceFragments": [
+            "Esa parte ya la presencié."
+          ]
+        },
+        {
+          "scene": "FULLWIDTHBturnsbriefly LEFTtowardH/P sofa when namingP, thenfocusesDaph. LARGEclearballoon contains ALLTHREEsentences unabridged. BstillstandsOUTSIDEdoor RIGHT/SAMEfloor, H/Pfarsofa LEFT canoffcrop. No imaginedValentina/Allegra/extrafigures.",
+          "dialogue": [
+            "Blaise: Pansy se quedó tan sorprendida como yo. No lo digo para culparla ni para esconderme detrás de ella. Las reconocimos al mismo tiempo y ninguno supo cómo explicar esa parte de nuestras vacaciones sin mencionar cosas que no podíamos decir delante de ellas."
+          ],
+          "sourceFragments": [
+            "Pansy se quedó tan sorprendida como yo",
+            "No lo digo para culparla ni para esconderme detrás de ella. Las reconocimos al mismo tiempo y ninguno supo cómo explicar esa parte de nuestras vacaciones sin mencionar cosas que no podíamos decir delante de ellas."
+          ]
+        },
+        {
+          "scene": "P inclinesheadslightconfirmingfromRIGHTsofa end besideHLEFT seatedCLOSE. HEADSHOULDERSportrait/ownhandsBELOWcrop, P GREEN-blackbob-leftbarrette-blacklinen/BAREearlobeshidden; H BROWN-bun-olive-frontBLUEsapphire. TailONLYP, bothfullsentences.",
+          "dialogue": [
+            "Pansy: Nos tomaron por sorpresa. Eso sí puedo confirmarlo."
+          ],
+          "sourceFragments": [
+            "Nos tomaron por sorpresa. Eso sí puedo confirmarlo."
+          ]
+        },
+        {
+          "scene": "WORDLESSBreturnsattentionRIGHTtoDaph atOPENdoor, mediumtwoshot, BWHITEwrinkledshirt/leaf andDaphcrossedarms/turquoise/BLUEeyes. KeepSAMEwhitefloorthreshold anddistance, noentry/touch."
+        }
+      ],
+      "transcript": "Capítulo 13 · 109\n\nDaphne detiene la defensa de los meses y Blaise empieza a reconocer su reacción en la cala. Pansy confirma que ambas visitas las tomaron por sorpresa.\nDaphne: Conozco el orden de los meses, Blaise. No necesito que vuelvas a explicarme cuándo ocurrió.\nDaphne: Acabas de desperdiciar quince segundos.\nBlaise: Está bien. Fui un tonto. La vi aparecer detrás de la roca y me quedé completamente paralizado.\nDaphne: Esa parte ya la presencié.\nBlaise: Pansy se quedó tan sorprendida como yo. No lo digo para culparla ni para esconderme detrás de ella. Las reconocimos al mismo tiempo y ninguno supo cómo explicar esa parte de nuestras vacaciones sin mencionar cosas que no podíamos decir delante de ellas.\nPansy: Nos tomaron por sorpresa. Eso sí puedo confirmarlo.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas, seis turnos completos con signos/acentos y hablantes revisados visualmente; párrafo de Blaise íntegro, incluida defensa de Pansy y límite de lo que podían explicar. Pausa respiración/mano al pelo conserva hoja, cinco dedos naturales. Daphne permanece en umbral de puerta abierta al mismo piso con brazos cruzados; H/P juntas en sofá, diseños/ojos/ropa/zafiro/gafas conservados, manos fuera de retratos. Blaise vuelve atención a Daphne al final; no entrada, flashbacks ni personajes nuevos. OCR de apoyo cotejado visualmente.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p109.png",
+      "sha256": "cac8e5f664e3d90d9d138bdb2047634efec5a664fa96d59c8293e5fff2fec78b",
+      "masterSha256": "e9e55ed3f9a3e5aa6ef7818fa73141b4a05432d094b82a4a33518ec76b6c4345",
+      "ocrMissingCandidates": [
+        "ellas",
+        "tomaron",
+        "sorpresa",
+        "puedo",
+        "confirmarlo"
+      ],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create ONE complete 8-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: APPROVED108R2 immediatecurrent H/P seated CLOSE, leftH/rightP, SAMEterrace-sofa/ROSEMARY/OPEN Daphdoor/fullfourfaces/currentclothing. P LEFTfingers belowbottomcrop, RIGHTplainholdsHLEFTdiamond; preserve ownership. StartDConozco, do not repeat108speeches.\nIMAGE2: APPROVED106 DAPHNEcurrent BLUEeyes/LONGWETBLONDE/TURQ/TURQ/goldroundpendant, BROWNeyedBwhitewrinkledlinen-NAVY-CREAMloafers-ONEGREENleaf. FULLHEIGHTFrenchDOOR WHITEfloor SAMEUPPERlevel, no lowwindow. NowdoorOPEN from108.\nSAME private UPPER terrace/gallery THREE floors above garden: white marble floor, white stone balustrade, cream awning/curtains, blue sea/coast/far small boats in bright AFTERNOON DAYLIGHT. One wide two-seat CREAM cushioned DARK WROUGHT IRON sofa LEFT, terracotta ROSEMARY pot RIGHT by railing. H/P seated MUCH CLOSER since108 (no renewed gap), ownroom Frenchdoors behindsofa; Daphne's FULLHEIGHT paleWOOD Frenchdoor OPEN two rooms farther RIGHT along SAMEwhitefloor. No old window/stone sill or garden-level B. B stands OUTSIDE Daphdoor; she remains threshold until670, no entering yet. B BLACKskin/DARKBROWNeyes/shortBLACKtwists with ONE small GREENleaf FRONT RIGHT/LOWBLACKRECTglasses/WHITE-IVORYwrinkledLINENshirt/NAVYlongtrousers/CREAMloafers/plainfingers-barewrists. Daph BLUEeyes/LONGWETBLONDE/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDneckchain-tinyROUNDpendant/barefeet/plainfingers-barewrists. Daph arms CROSSED through110; lowers both arms to her sides111panel6, remains lowered112. H BROWNeyes/freckles/CHESTNUTmessyBUN-loosewetstrands/LOWBLACKRECTglasses/OLIVEopaqueonepiece-PALECREAMpareo/BLUEovalSAPPHIRE-clearhalo-WHITEPLATINUMneckchain/ONEclearhaloDIAMOND LEFT RINGfingeronly/RIGHTplain/BAREwrists. P GREENeyes/angular/flatBLACKCHINbob-frontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTglasses/BLACKLINENcollaredshirt+CREAMshorts/ALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRIST ONLY/RIGHTwristBARE/BAREneck. Couple HLEFT/P RIGHThands hold naturally in lap when actuallyvisible; keep coupled hand area below crop in speechportraits to avoid extra jewelry. No flashbacks/images of Valentina/Allegra/Arianna/otherrelatives, allonlymentioned verbally. Infants remain safe with downstairs holders offscreen, no elves/newpeople. Comic fineink/painterlywarmcolor same originalfaces, naturalfivefingers, oneofeachactor. Daph softens incrementally, still keeps distance: no hug/kiss/permissiontoenter untilactual670.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 109». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: Daph at OPENfullheightdoor armsCROSSED, BLUE/LONGwetBLONDE/TURQ/goldpendant, calmfirm mediumportrait. BROWNeyedB canedgecrop. ONEfulltwo-sentence quote, tailDaph, no calendar/flashback.\nBalloon tail to Daphne. Print ALL verbatim «Conozco el orden de los meses, Blaise. No necesito que vuelvas a explicarme cuándo ocurrió.».\nPANEL 2: SameDaph adds briskly, steadyeyecontact, ONEshortfullsentence, B closesmouth instead of repeating olddefense. TailDaphonly.\nBalloon tail to Daphne. Print ALL verbatim «Acabas de desperdiciar quince segundos.».\nPANEL 3: WORDLESS Bdeepinhale and passesONEplainhand throughblacktwists, disturbinghair slightly. KeepONEgreenleaf caughtfrontalRIGHT, no fallenleaf/no hat. Natural5digits onlyonehand/no duplicatearms. Daphcrossedarms atthreshold.\nPANEL 4: B admits fault, WHITEcreasedshirt/BROWNeyes/BLACKtwistsleaf/LOWblackrectglasses. FullTHREEsentences ONEorconnectedballoon, no rock/womanflashback.\nBalloon tail to Blaise. Print ALL verbatim «Está bien. Fui un tonto. La vi aparecer detrás de la roca y me quedé completamente paralizado.».\nPANEL 5: Daph SAMEOPENdoor crossedarms/BLUEeyes respondsdryly ONEcomplete sentence, no smileyet.\nBalloon tail to Daphne. Print ALL verbatim «Esa parte ya la presencié.».\nPANEL 6: FULLWIDTHBturnsbriefly LEFTtowardH/P sofa when namingP, thenfocusesDaph. LARGEclearballoon contains ALLTHREEsentences unabridged. BstillstandsOUTSIDEdoor RIGHT/SAMEfloor, H/Pfarsofa LEFT canoffcrop. No imaginedValentina/Allegra/extrafigures.\nBalloon tail to Blaise. Print ALL verbatim «Pansy se quedó tan sorprendida como yo. No lo digo para culparla ni para esconderme detrás de ella. Las reconocimos al mismo tiempo y ninguno supo cómo explicar esa parte de nuestras vacaciones sin mencionar cosas que no podíamos decir delante de ellas.».\nPANEL 7: P inclinesheadslightconfirmingfromRIGHTsofa end besideHLEFT seatedCLOSE. HEADSHOULDERSportrait/ownhandsBELOWcrop, P GREEN-blackbob-leftbarrette-blacklinen/BAREearlobeshidden; H BROWN-bun-olive-frontBLUEsapphire. TailONLYP, bothfullsentences.\nBalloon tail to Pansy. Print ALL verbatim «Nos tomaron por sorpresa. Eso sí puedo confirmarlo.».\nPANEL 8: WORDLESSBreturnsattentionRIGHTtoDaph atOPENdoor, mediumtwoshot, BWHITEwrinkledshirt/leaf andDaphcrossedarms/turquoise/BLUEeyes. KeepSAMEwhitefloorthreshold anddistance, noentry/touch.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p108_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p106.png"
+          ],
+          "generatedMaster": "exec-0a0c75a0-fb7e-4aa6-8f03-d15d00494d95.png"
+        }
+      ]
+    },
+    {
+      "page": 110,
+      "image": "paginas/c13-p110.webp",
+      "sourcePdfPages": [
+        667,
+        668
+      ],
+      "summary": "Blaise explica el bloqueo al pensar en Arianna; Daphne distingue esa confusión de los abrazos y besos de Valentina.",
+      "panels": [
+        {
+          "scene": "B facesDaphOPENdoor, serious TWOcomplete source sentences. Wideballoon/fullwidthpanel with breathingroom, no infant/Valentinaflashbacks, allonlyspoken. SameWHITElinen/BLACKskin/BROWNeyes/leaf.",
+          "dialogue": [
+            "Blaise: Intenté encontrar una forma de explicar que Arianna tiene varios meses cuando Valentina sabía que yo estaba soltero el año pasado. Mientras pensaba en eso, dejé de reaccionar a todo lo demás."
+          ],
+          "sourceFragments": [
+            "Intenté encontrar una forma de explicar que Arianna tiene varios meses cuando Valentina sabía que yo estaba soltero el año pasado. Mientras pensaba en eso, dejé de reaccionar a todo lo demás."
+          ]
+        },
+        {
+          "scene": "DaphshoulderssoftenONLYslightly, armsremainCROSSED, fulltwo-sentencereply tailDaph/BLUEeyes/LONGwetBLONDE/TURQ/goldpendant.",
+          "dialogue": [
+            "Daphne: No tenías que explicarle cómo llegó Arianna a nuestra vida. Podías decirle que es tu hija y ya."
+          ],
+          "sourceFragments": [
+            "No tenías que explicarle cómo llegó Arianna a nuestra vida. Podías decirle que es tu hija y ya."
+          ]
+        },
+        {
+          "scene": "B accepts conciseTWOshortsentences, nod/sheepish, correctBtail.",
+          "dialogue": [
+            "Blaise: Sí. Habría sido mucho más sencillo."
+          ],
+          "sourceFragments": [
+            "Sí. Habría sido mucho más sencillo."
+          ]
+        },
+        {
+          "scene": "DaphlookssteadilyatB armscrossed, ONEfullsentence, calmnotcaricature.",
+          "dialogue": [
+            "Daphne: Sueles ser bastante bueno encontrando respuestas sencillas."
+          ],
+          "sourceFragments": [
+            "Sueles ser bastante bueno encontrando respuestas sencillas."
+          ]
+        },
+        {
+          "scene": "B looksatDaph honestlyONEfullsentence, no romanticphysicalcontact/entry.",
+          "dialogue": [
+            "Blaise: Cuando no me importan tanto las consecuencias."
+          ],
+          "sourceFragments": [
+            "Cuando no me importan tanto las consecuencias."
+          ]
+        },
+        {
+          "scene": "WORDLESS DaphholdsB'sgazeafewseconds; fingersrelaxpressureonoppositeupperarms yetARMS STILL CROSSED. Samefullheightdoorframe, no bracelet/rings/extra fingers."
+        },
+        {
+          "scene": "FULLWIDTHDaph THREEwhole source sentences inONElargeorconnectedballoon, armsstillcrossed/handsunderbiceps/BLUEeyes. NOValentinaimage or reenactment/flashback. ALLDaphtext unabridged.",
+          "dialogue": [
+            "Daphne: Valentina te abrazó dos veces. También sostuvo tu rostro y besó tus mejillas. Nada de eso requería una explicación sobre Arianna."
+          ],
+          "sourceFragments": [
+            "Valentina te abrazó dos veces",
+            "También sostuvo tu rostro y besó tus mejillas. Nada de eso requería una explicación sobre Arianna."
+          ]
+        },
+        {
+          "scene": "Battemptsanswer TWOshortsentences, WHITErumpledshirt/LOWblackrectglasses/BROWNeyes/leaf, cleartailB.",
+          "dialogue": [
+            "Blaise: Besa así a todo el mundo. Es italiana."
+          ],
+          "sourceFragments": [
+            "Besa así a todo el mundo. Es italiana."
+          ]
+        },
+        {
+          "scene": "WORDLESS Daph raisesONEeyebrowatBwithoutmovingfromOPENdoor, firmwrynotgrotesque; Bsmallreactionrealizespoorargument, noextraquoteorprintedSFX."
+        }
+      ],
+      "transcript": "Capítulo 13 · 110\n\nBlaise explica el bloqueo al pensar en Arianna; Daphne distingue esa confusión de los abrazos y besos de Valentina.\nBlaise: Intenté encontrar una forma de explicar que Arianna tiene varios meses cuando Valentina sabía que yo estaba soltero el año pasado. Mientras pensaba en eso, dejé de reaccionar a todo lo demás.\nDaphne: No tenías que explicarle cómo llegó Arianna a nuestra vida. Podías decirle que es tu hija y ya.\nBlaise: Sí. Habría sido mucho más sencillo.\nDaphne: Sueles ser bastante bueno encontrando respuestas sencillas.\nBlaise: Cuando no me importan tanto las consecuencias.\nDaphne: Valentina te abrazó dos veces. También sostuvo tu rostro y besó tus mejillas. Nada de eso requería una explicación sobre Arianna.\nBlaise: Besa así a todo el mundo. Es italiana.",
+      "actualPanelCount": 9,
+      "review": "Nueve viñetas completas revisadas, siete turnos sin recortar; ambas frases de primera explicación de B, respuesta Arianna/Daph y las tres de Valentina íntegros, lectura de acentos y colas correcta. Daph sigue brazos cruzados, relaja presión y alza ceja al final; misma rubia húmeda/ojos azules/turquesa/goldpendant/puerta abierta completa. B mantiene piel/ojos castaños/hoja/camisa blanca/gafas, anatomía natural. Escenario superior constante, sin flashbacks ni aparición de personajes solo nombrados. OCR contrastado con lectura manual entera.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p110.png",
+      "sha256": "e2d4d17be8dfa2f39e73784a53632965566671985ee85cae3eb496be6c1ed78f",
+      "masterSha256": "8ee99adf72f46530841e000977c2f6baea0ddc0288520de83b67d9bc811030c4",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create ONE complete 9-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: Immediately preceding APPROVED chapter13 page109: Daphne detiene la defensa de los meses y Blaise empieza a reconocer su reacción en la cala. Pansy confirma que ambas visitas las tomaron por sorpresa. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.\nIMAGE2: APPROVED106 DAPHNEcurrent BLUEeyes/LONGWETBLONDE/TURQ/TURQ/goldroundpendant, BROWNeyedBwhitewrinkledlinen-NAVY-CREAMloafers-ONEGREENleaf. FULLHEIGHTFrenchDOOR WHITEfloor SAMEUPPERlevel, no lowwindow. NowdoorOPEN from108.\nSAME private UPPER terrace/gallery THREE floors above garden: white marble floor, white stone balustrade, cream awning/curtains, blue sea/coast/far small boats in bright AFTERNOON DAYLIGHT. One wide two-seat CREAM cushioned DARK WROUGHT IRON sofa LEFT, terracotta ROSEMARY pot RIGHT by railing. H/P seated MUCH CLOSER since108 (no renewed gap), ownroom Frenchdoors behindsofa; Daphne's FULLHEIGHT paleWOOD Frenchdoor OPEN two rooms farther RIGHT along SAMEwhitefloor. No old window/stone sill or garden-level B. B stands OUTSIDE Daphdoor; she remains threshold until670, no entering yet. B BLACKskin/DARKBROWNeyes/shortBLACKtwists with ONE small GREENleaf FRONT RIGHT/LOWBLACKRECTglasses/WHITE-IVORYwrinkledLINENshirt/NAVYlongtrousers/CREAMloafers/plainfingers-barewrists. Daph BLUEeyes/LONGWETBLONDE/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDneckchain-tinyROUNDpendant/barefeet/plainfingers-barewrists. Daph arms CROSSED through110; lowers both arms to her sides111panel6, remains lowered112. H BROWNeyes/freckles/CHESTNUTmessyBUN-loosewetstrands/LOWBLACKRECTglasses/OLIVEopaqueonepiece-PALECREAMpareo/BLUEovalSAPPHIRE-clearhalo-WHITEPLATINUMneckchain/ONEclearhaloDIAMOND LEFT RINGfingeronly/RIGHTplain/BAREwrists. P GREENeyes/angular/flatBLACKCHINbob-frontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTglasses/BLACKLINENcollaredshirt+CREAMshorts/ALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRIST ONLY/RIGHTwristBARE/BAREneck. Couple HLEFT/P RIGHThands hold naturally in lap when actuallyvisible; keep coupled hand area below crop in speechportraits to avoid extra jewelry. No flashbacks/images of Valentina/Allegra/Arianna/otherrelatives, allonlymentioned verbally. Infants remain safe with downstairs holders offscreen, no elves/newpeople. Comic fineink/painterlywarmcolor same originalfaces, naturalfivefingers, oneofeachactor. Daph softens incrementally, still keeps distance: no hug/kiss/permissiontoenter untilactual670.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 110». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: B facesDaphOPENdoor, serious TWOcomplete source sentences. Wideballoon/fullwidthpanel with breathingroom, no infant/Valentinaflashbacks, allonlyspoken. SameWHITElinen/BLACKskin/BROWNeyes/leaf.\nBalloon tail to Blaise. Print ALL verbatim «Intenté encontrar una forma de explicar que Arianna tiene varios meses cuando Valentina sabía que yo estaba soltero el año pasado. Mientras pensaba en eso, dejé de reaccionar a todo lo demás.».\nPANEL 2: DaphshoulderssoftenONLYslightly, armsremainCROSSED, fulltwo-sentencereply tailDaph/BLUEeyes/LONGwetBLONDE/TURQ/goldpendant.\nBalloon tail to Daphne. Print ALL verbatim «No tenías que explicarle cómo llegó Arianna a nuestra vida. Podías decirle que es tu hija y ya.».\nPANEL 3: B accepts conciseTWOshortsentences, nod/sheepish, correctBtail.\nBalloon tail to Blaise. Print ALL verbatim «Sí. Habría sido mucho más sencillo.».\nPANEL 4: DaphlookssteadilyatB armscrossed, ONEfullsentence, calmnotcaricature.\nBalloon tail to Daphne. Print ALL verbatim «Sueles ser bastante bueno encontrando respuestas sencillas.».\nPANEL 5: B looksatDaph honestlyONEfullsentence, no romanticphysicalcontact/entry.\nBalloon tail to Blaise. Print ALL verbatim «Cuando no me importan tanto las consecuencias.».\nPANEL 6: WORDLESS DaphholdsB'sgazeafewseconds; fingersrelaxpressureonoppositeupperarms yetARMS STILL CROSSED. Samefullheightdoorframe, no bracelet/rings/extra fingers.\nPANEL 7: FULLWIDTHDaph THREEwhole source sentences inONElargeorconnectedballoon, armsstillcrossed/handsunderbiceps/BLUEeyes. NOValentinaimage or reenactment/flashback. ALLDaphtext unabridged.\nBalloon tail to Daphne. Print ALL verbatim «Valentina te abrazó dos veces. También sostuvo tu rostro y besó tus mejillas. Nada de eso requería una explicación sobre Arianna.».\nPANEL 8: Battemptsanswer TWOshortsentences, WHITErumpledshirt/LOWblackrectglasses/BROWNeyes/leaf, cleartailB.\nBalloon tail to Blaise. Print ALL verbatim «Besa así a todo el mundo. Es italiana.».\nPANEL 9: WORDLESS Daph raisesONEeyebrowatBwithoutmovingfromOPENdoor, firmwrynotgrotesque; Bsmallreactionrealizespoorargument, noextraquoteorprintedSFX.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p109.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p106.png"
+          ],
+          "generatedMaster": "exec-9769fddc-a937-4521-85f9-c71aa092f485.png"
+        }
+      ]
+    },
+    {
+      "page": 111,
+      "image": "paginas/c13-p111.webp",
+      "sourcePdfPages": [
+        668
+      ],
+      "summary": "Blaise reconoce que debió apartarse y pedir disculpas; Daphne baja los brazos al oír que asume su responsabilidad.",
+      "panels": [
+        {
+          "scene": "Brealizeshisexcuse soundedbad; faceportrait/BROWNeyes/ONEgreenleaf/WHITElinen, TWOshortwordsclausesfullsentence source onlytailB.",
+          "dialogue": [
+            "Blaise: Eso sonaba mucho mejor dentro de mi cabeza."
+          ],
+          "sourceFragments": [
+            "Eso sonaba mucho mejor dentro de mi cabeza."
+          ]
+        },
+        {
+          "scene": "BexhalesandacknowledgesONEwhole sentence, seriouswarmface, noValentinaflashback.",
+          "dialogue": [
+            "Blaise: Debí apartarme desde el primer momento."
+          ],
+          "sourceFragments": [
+            "Debí apartarme desde el primer momento."
+          ]
+        },
+        {
+          "scene": "Daph STILLarmsCROSSED atOPENFULLHEIGHTdoor, BLUE/LONGwetBLONDE/TURQ/goldneckpendant, asksdirectlyONEfullquestion.",
+          "dialogue": [
+            "Daphne: ¿Por qué no lo hiciste?"
+          ],
+          "sourceFragments": [
+            "Por qué no lo hiciste"
+          ]
+        },
+        {
+          "scene": "WORDLESSBpauses/looksatWHITE MARBLEfloorforinstantthenliftseyesagain, sameleaf/BLACKtwists andclothes, Daphstaysstill, noextraballoons."
+        },
+        {
+          "scene": "FULLWIDTHBplainhonestadmission ALLFOURsource sentences inlargeorconnectedballoonwithcleartail. Sameupperdoor, do notillustrateValentinaorbeach, responsibilitysaidverbally. NeedroomforALLtextunabridged.",
+          "dialogue": [
+            "Blaise: No tengo una buena razón. Me sorprendió verla, intenté resolver demasiadas cosas al mismo tiempo y terminé sin hacer ninguna. Permití que ella controlara la conversación y te obligué a intervenir en una situación que me correspondía resolver a mí. Lo siento."
+          ],
+          "sourceFragments": [
+            "No tengo una buena razón. Me sorprendió verla, intenté resolver demasiadas cosas al mismo tiempo y terminé sin hacer ninguna. Permití que ella controlara la conversación y te obligué a intervenir en una situación que me correspondía resolver a mí. Lo siento."
+          ]
+        },
+        {
+          "scene": "DaphLOWERSBOTHarms toSIDES naturally forfirsttime, shoulder tensionreleases. Medium portrait/twoarms-fivefingersplain/barewrists/TURQpareo/goldpendant, fullONEsentence. KeeparmsLOWERED laterpanels.",
+          "dialogue": [
+            "Daphne: Eso se acerca mucho más a la explicación que te pedí."
+          ],
+          "sourceFragments": [
+            "Eso se acerca mucho más a la explicación que te pedí."
+          ]
+        },
+        {
+          "scene": "FULLWIDTHBcontinues ALLTHREEsentences (Astoria/relationship/saw), LARGEballoon negative space unabridged, cleartailB. DapharmsLOWEREDoffedgeorvisible; noactualAstoriaimage/relatives.",
+          "dialogue": [
+            "Blaise: Astoria tuvo que intervenir porque yo no fui capaz de iniciar una presentación. Después tú tuviste que explicar nuestra relación mientras yo permanecía a tu lado sin decir nada útil. Sé cómo debió verse."
+          ],
+          "sourceFragments": [
+            "Astoria tuvo que intervenir porque yo no fui capaz de iniciar una presentación. Después tú tuviste que explicar nuestra relación mientras yo permanecía a tu lado sin decir nada útil. Sé cómo debió verse."
+          ]
+        },
+        {
+          "scene": "DaphstillatOPENdoor armsDOWN, honestONEshortanswer, notfullysmilingyet/BLUEeyes.",
+          "dialogue": [
+            "Daphne: Se vio exactamente así."
+          ],
+          "sourceFragments": [
+            "Se vio exactamente así."
+          ]
+        },
+        {
+          "scene": "WORDLESSBnodswithoutsofteningheranswer, calmplainhands/BROWNeyes/ONEgreenleaf/WHITErumpledshirt, Daphcanedgecrop. Noentry/hug/touch."
+        }
+      ],
+      "transcript": "Capítulo 13 · 111\n\nBlaise reconoce que debió apartarse y pedir disculpas; Daphne baja los brazos al oír que asume su responsabilidad.\nBlaise: Eso sonaba mucho mejor dentro de mi cabeza.\nBlaise: Debí apartarme desde el primer momento.\nDaphne: ¿Por qué no lo hiciste?\nBlaise: No tengo una buena razón. Me sorprendió verla, intenté resolver demasiadas cosas al mismo tiempo y terminé sin hacer ninguna. Permití que ella controlara la conversación y te obligué a intervenir en una situación que me correspondía resolver a mí. Lo siento.\nDaphne: Eso se acerca mucho más a la explicación que te pedí.\nBlaise: Astoria tuvo que intervenir porque yo no fui capaz de iniciar una presentación. Después tú tuviste que explicar nuestra relación mientras yo permanecía a tu lado sin decir nada útil. Sé cómo debió verse.\nDaphne: Se vio exactamente así.",
+      "actualPanelCount": 9,
+      "review": "R2 completa revisada: siete turnos íntegros con colas/acentos correctos y nueve viñetas. Retirados únicamente respaldo crema y volutas de hierro espurios detrás de B en retratos1/2/4/5/9; queda arquitectura de galería y B claramente de pie ante puerta, no sentado en sofá lejano H/P. Conserva todos los rostros, ojos, hoja, ropa y texto. Pausa mirada al suelo, admisión larga y disculpa completas; Daphne baja ambos brazos6 y mantiene bajos8, manos naturales lisas. exactamente de OCR original se lee sin falta; revisión manual completa R2 sin regresiones.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p111.png",
+      "sha256": "2235b8c816d1abbc5e3ba6818590f8aeff07f23489510f7efed1a354fddf37dd",
+      "masterSha256": "0345815c7d29de8a6f021d92cb61b1aa58abec854922ba97f6e85f25122edf85",
+      "ocrMissingCandidates": [
+        "exactamente"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create ONE complete 9-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: Immediately preceding APPROVED chapter13 page110: Blaise explica el bloqueo al pensar en Arianna; Daphne distingue esa confusión de los abrazos y besos de Valentina. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.\nIMAGE2: APPROVED106 DAPHNEcurrent BLUEeyes/LONGWETBLONDE/TURQ/TURQ/goldroundpendant, BROWNeyedBwhitewrinkledlinen-NAVY-CREAMloafers-ONEGREENleaf. FULLHEIGHTFrenchDOOR WHITEfloor SAMEUPPERlevel, no lowwindow. NowdoorOPEN from108.\nSAME private UPPER terrace/gallery THREE floors above garden: white marble floor, white stone balustrade, cream awning/curtains, blue sea/coast/far small boats in bright AFTERNOON DAYLIGHT. One wide two-seat CREAM cushioned DARK WROUGHT IRON sofa LEFT, terracotta ROSEMARY pot RIGHT by railing. H/P seated MUCH CLOSER since108 (no renewed gap), ownroom Frenchdoors behindsofa; Daphne's FULLHEIGHT paleWOOD Frenchdoor OPEN two rooms farther RIGHT along SAMEwhitefloor. No old window/stone sill or garden-level B. B stands OUTSIDE Daphdoor; she remains threshold until670, no entering yet. B BLACKskin/DARKBROWNeyes/shortBLACKtwists with ONE small GREENleaf FRONT RIGHT/LOWBLACKRECTglasses/WHITE-IVORYwrinkledLINENshirt/NAVYlongtrousers/CREAMloafers/plainfingers-barewrists. Daph BLUEeyes/LONGWETBLONDE/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDneckchain-tinyROUNDpendant/barefeet/plainfingers-barewrists. Daph arms CROSSED through110; lowers both arms to her sides111panel6, remains lowered112. H BROWNeyes/freckles/CHESTNUTmessyBUN-loosewetstrands/LOWBLACKRECTglasses/OLIVEopaqueonepiece-PALECREAMpareo/BLUEovalSAPPHIRE-clearhalo-WHITEPLATINUMneckchain/ONEclearhaloDIAMOND LEFT RINGfingeronly/RIGHTplain/BAREwrists. P GREENeyes/angular/flatBLACKCHINbob-frontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTglasses/BLACKLINENcollaredshirt+CREAMshorts/ALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRIST ONLY/RIGHTwristBARE/BAREneck. Couple HLEFT/P RIGHThands hold naturally in lap when actuallyvisible; keep coupled hand area below crop in speechportraits to avoid extra jewelry. No flashbacks/images of Valentina/Allegra/Arianna/otherrelatives, allonlymentioned verbally. Infants remain safe with downstairs holders offscreen, no elves/newpeople. Comic fineink/painterlywarmcolor same originalfaces, naturalfivefingers, oneofeachactor. Daph softens incrementally, still keeps distance: no hug/kiss/permissiontoenter untilactual670.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 111». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: Brealizeshisexcuse soundedbad; faceportrait/BROWNeyes/ONEgreenleaf/WHITElinen, TWOshortwordsclausesfullsentence source onlytailB.\nBalloon tail to Blaise. Print ALL verbatim «Eso sonaba mucho mejor dentro de mi cabeza.».\nPANEL 2: BexhalesandacknowledgesONEwhole sentence, seriouswarmface, noValentinaflashback.\nBalloon tail to Blaise. Print ALL verbatim «Debí apartarme desde el primer momento.».\nPANEL 3: Daph STILLarmsCROSSED atOPENFULLHEIGHTdoor, BLUE/LONGwetBLONDE/TURQ/goldneckpendant, asksdirectlyONEfullquestion.\nBalloon tail to Daphne. Print ALL verbatim «¿Por qué no lo hiciste?».\nPANEL 4: WORDLESSBpauses/looksatWHITE MARBLEfloorforinstantthenliftseyesagain, sameleaf/BLACKtwists andclothes, Daphstaysstill, noextraballoons.\nPANEL 5: FULLWIDTHBplainhonestadmission ALLFOURsource sentences inlargeorconnectedballoonwithcleartail. Sameupperdoor, do notillustrateValentinaorbeach, responsibilitysaidverbally. NeedroomforALLtextunabridged.\nBalloon tail to Blaise. Print ALL verbatim «No tengo una buena razón. Me sorprendió verla, intenté resolver demasiadas cosas al mismo tiempo y terminé sin hacer ninguna. Permití que ella controlara la conversación y te obligué a intervenir en una situación que me correspondía resolver a mí. Lo siento.».\nPANEL 6: DaphLOWERSBOTHarms toSIDES naturally forfirsttime, shoulder tensionreleases. Medium portrait/twoarms-fivefingersplain/barewrists/TURQpareo/goldpendant, fullONEsentence. KeeparmsLOWERED laterpanels.\nBalloon tail to Daphne. Print ALL verbatim «Eso se acerca mucho más a la explicación que te pedí.».\nPANEL 7: FULLWIDTHBcontinues ALLTHREEsentences (Astoria/relationship/saw), LARGEballoon negative space unabridged, cleartailB. DapharmsLOWEREDoffedgeorvisible; noactualAstoriaimage/relatives.\nBalloon tail to Blaise. Print ALL verbatim «Astoria tuvo que intervenir porque yo no fui capaz de iniciar una presentación. Después tú tuviste que explicar nuestra relación mientras yo permanecía a tu lado sin decir nada útil. Sé cómo debió verse.».\nPANEL 8: DaphstillatOPENdoor armsDOWN, honestONEshortanswer, notfullysmilingyet/BLUEeyes.\nBalloon tail to Daphne. Print ALL verbatim «Se vio exactamente así.».\nPANEL 9: WORDLESSBnodswithoutsofteningheranswer, calmplainhands/BROWNeyes/ONEgreenleaf/WHITErumpledshirt, Daphcanedgecrop. Noentry/hug/touch.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p110.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p106.png"
+          ],
+          "generatedMaster": "exec-adba7e6f-a79c-410a-9dc5-853b7b314121.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Edit complete9-panelSpanishcomic page111, ONEbackgroundcontinuityfix repeated inBlaise's portraits ONLY. In panels1,2,4,5,9 the CREAM SOFA BACK/CUSHION and BLACKIRON SCROLLS accidentally appear immediately behind his shoulders. REMOVE those sofa/chair elements ENTIRELY frombehindB. Replace their smallbackgroundareas with existing paleWOODFrenchdoorframe/creamwall or distant WHITEbalustrade/BLUEsea consistentwith upperbalcony. Blaise is STANDING OUTSIDE DAPHNE'Sdoor two roomsaway fromH/Psofa, neverseated; do NOT add chair/seat anywhere or moveDaph. KEEP B's face/eyes/body/WHITEcreasedshirt/BLACKtwists/ONEgreenleaf/goggles/headpositions exactly unchanged; headshoulderportraits naturallystanding. KEEP ALL Spanishlettering/accents/balloons, ninepanelbounds/header, existingpaintedstyle/light/colors. PreserveDaphinpanels3/6/8 andherloweredarms6/8/goldpendant/turquoise/blueeyes/OPENFULLHEIGHTdoor; NO other changes. Backgroundfurniture removal only, no newperson/jewelry/prop.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-adba7e6f-a79c-410a-9dc5-853b7b314121.png"
+          ],
+          "generatedMaster": "exec-8e21ddb8-f25a-4ed7-add5-748a0429741f.png"
+        }
+      ]
+    },
+    {
+      "page": 112,
+      "image": "paginas/c13-p112.webp",
+      "sourcePdfPages": [
+        668,
+        669
+      ],
+      "summary": "Blaise distingue su sorpresa de su responsabilidad y explica que no quiere dejar dudas sobre el lugar de Daphne en su vida.",
+      "panels": [
+        {
+          "scene": "FULLWIDTH tallopeningpanel Bspeaks ALLTHREEcomplete source sentences inlargeclearballoon, respectsDaphdistanceOUTSIDEOPENdoor. DapharmsDOWNsameBLUE/LONGBLONDE/TURQ/goldpendant. NoValentinabeachflashback/secondwoman/temptationdepiction. Naturalverbalconversation.",
+          "dialogue": [
+            "Blaise: No quiero que pienses que me quedé quieto porque todavía sienta algo por Valentina. Me pareció atractiva durante una noche del año pasado y no pensé en ella otra vez hasta que la vi nadando hacia nosotros. La sorpresa explica por qué tardé en reaccionar, pero no vuelve correcta mi reacción."
+          ],
+          "sourceFragments": [
+            "No quiero que pienses que me quedé quieto porque todavía sienta algo por Valentina. Me pareció atractiva durante una noche del año pasado y no pensé en ella otra vez hasta que la vi nadando hacia nosotros. La sorpresa explica por qué tardé en reaccionar, pero no vuelve correcta mi reacción."
+          ]
+        },
+        {
+          "scene": "WORDLESSDaphgazesoffirmnesssoftens a little, leanslightlyOPENdoorFRAME, BOTHarmsLOWERED/handplainatownsideorbelowcrop, no invitationtoenter/closecontact. BLUEeyes/naturalnottearsyet."
+        },
+        {
+          "scene": "Daph atsameframe armsLOWERED givesONEwhole sentence, completewordveinticinco withoutprintedclock.",
+          "dialogue": [
+            "Daphne: Te quedan veinticinco segundos."
+          ],
+          "sourceFragments": [
+            "Te quedan veinticinco segundos."
+          ]
+        },
+        {
+          "scene": "WORDLESSBbriefnervouslaugh, BROWNeyes/BLACKskin/BLACKtwists-ONEGREENleaf/LOWRECTglasses/WHITEwrinkledlinen. Plainhands/notnewneckjewel."
+        },
+        {
+          "scene": "BsaysONEwhole sentence toDaph, smallnervoussmile, samepositionoutsideSAMEupperdoor.",
+          "dialogue": [
+            "Blaise: No voy a utilizarlos para repetir que ocurrió antes de conocerte."
+          ],
+          "sourceFragments": [
+            "No voy a utilizarlos para repetir que ocurrió antes de conocerte."
+          ]
+        },
+        {
+          "scene": "DaphONEwhole wryreply, stillarmsDOWN/leanedframe, no mockingcaricature.",
+          "dialogue": [
+            "Daphne: Me alegra saber que puedes aprender bajo presión."
+          ],
+          "sourceFragments": [
+            "Me alegra saber que puedes aprender bajo presión."
+          ]
+        },
+        {
+          "scene": "WORDLESSBsmilesonlyinstant, thenexpressionserious ashefindsDaphBLUEeyes again. Twoshotacrossrespectfuldistance, no steppingcloseruntilnextpage/noactualproposal."
+        },
+        {
+          "scene": "FULLWIDTHBhonestTWOcomplete source sentences unabridged, broadnegative space, cleartailB, DaphsilentlisteningarmsDOWN. EndbeforeQuiero casarme, nothingfromfutureprinted. No kneeling/ringbox/newjewelry/babiesappearing.",
+          "dialogue": [
+            "Blaise: Tampoco espero que decirte algo bonito borre lo que hice hoy. Estoy aquí porque te amo y no quiero dejarte sola con ninguna duda sobre el lugar que ocupas en mi vida."
+          ],
+          "sourceFragments": [
+            "Tampoco espero que decirte algo bonito borre lo que hice hoy. Estoy aquí porque te amo y no quiero dejarte sola con ninguna duda sobre el lugar que ocupas en mi vida."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 112\n\nBlaise distingue su sorpresa de su responsabilidad y explica que no quiere dejar dudas sobre el lugar de Daphne en su vida.\nBlaise: No quiero que pienses que me quedé quieto porque todavía sienta algo por Valentina. Me pareció atractiva durante una noche del año pasado y no pensé en ella otra vez hasta que la vi nadando hacia nosotros. La sorpresa explica por qué tardé en reaccionar, pero no vuelve correcta mi reacción.\nDaphne: Te quedan veinticinco segundos.\nBlaise: No voy a utilizarlos para repetir que ocurrió antes de conocerte.\nDaphne: Me alegra saber que puedes aprender bajo presión.\nBlaise: Tampoco espero que decirte algo bonito borre lo que hice hoy. Estoy aquí porque te amo y no quiero dejarte sola con ninguna duda sobre el lugar que ocupas en mi vida.",
+      "actualPanelCount": 8,
+      "review": "R2 entera revisada: ocho viñetas/cinco turnos completos, todos los acentos y colas correctos. Primera intervención larga de B íntegra; Te quedan veinticinco segundos, dos intercambios669 y última declaración completa. Eliminado solo pequeño fragmento de silla del margen superior izquierdo; B sigue de pie ante puerta abierta, sin sofás fuera del de H/P. Rostros/ojos/gafas/hoja/ropa/colgantes intactos; Daphne conserva brazos bajados, se apoya levemente en marco y suaviza expresión gradualmente, sin entrada ni contacto adelantado. Pausa y risa nerviosa respetadas. OCR contrastado con texto e inspección visual, sin regresiones.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p112.png",
+      "sha256": "fa309c04245d820834a4780c3dab6599c835375af4968ff390bcb85fe55b9c82",
+      "masterSha256": "3bf208cb82ea07252120a78ca896e4fd48498588457e77c02829ee7b6a2ea95e",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create ONE complete 8-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: APPROVED111R2 IMMEDIATEcurrent story/style reference: DAPHNEBLUEeyes/LONGWETBLONDE/TURQonepiece-TURQpareo/fineGOLDroundpendant/BOTH ARMS NOWLOWERED atOWN SIDES, OPENFULLHEIGHTpaleWOODFrenchDOOR/SAMEUPPER WHITEfloor. BLAISE BLACKskin/DARKBROWNeyes/BLACKtwists-ONEGREENleaf/LOWRECTglasses/WHITEcreasedlinen, STANDSOUTSIDEdoor. Background ONLYarchitecture/sea/whitebalustrade, NO SOFA/CHAIR behindB. H/PremainoffscreenfarsofaLEFT. Do notrepeatoldquotes.\nSAME private UPPER terrace/gallery THREE floors above garden: white marble floor, white stone balustrade, cream awning/curtains, blue sea/coast/far small boats in bright AFTERNOON DAYLIGHT. One wide two-seat CREAM cushioned DARK WROUGHT IRON sofa LEFT, terracotta ROSEMARY pot RIGHT by railing. H/P seated MUCH CLOSER since108 (no renewed gap), ownroom Frenchdoors behindsofa; Daphne's FULLHEIGHT paleWOOD Frenchdoor OPEN two rooms farther RIGHT along SAMEwhitefloor. No old window/stone sill or garden-level B. B stands OUTSIDE Daphdoor; she remains threshold until670, no entering yet. B BLACKskin/DARKBROWNeyes/shortBLACKtwists with ONE small GREENleaf FRONT RIGHT/LOWBLACKRECTglasses/WHITE-IVORYwrinkledLINENshirt/NAVYlongtrousers/CREAMloafers/plainfingers-barewrists. Daph BLUEeyes/LONGWETBLONDE/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDneckchain-tinyROUNDpendant/barefeet/plainfingers-barewrists. Daph arms CROSSED through110; lowers both arms to her sides111panel6, remains lowered112. H BROWNeyes/freckles/CHESTNUTmessyBUN-loosewetstrands/LOWBLACKRECTglasses/OLIVEopaqueonepiece-PALECREAMpareo/BLUEovalSAPPHIRE-clearhalo-WHITEPLATINUMneckchain/ONEclearhaloDIAMOND LEFT RINGfingeronly/RIGHTplain/BAREwrists. P GREENeyes/angular/flatBLACKCHINbob-frontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTglasses/BLACKLINENcollaredshirt+CREAMshorts/ALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRIST ONLY/RIGHTwristBARE/BAREneck. Couple HLEFT/P RIGHThands hold naturally in lap when actuallyvisible; keep coupled hand area below crop in speechportraits to avoid extra jewelry. No flashbacks/images of Valentina/Allegra/Arianna/otherrelatives, allonlymentioned verbally. Infants remain safe with downstairs holders offscreen, no elves/newpeople. Comic fineink/painterlywarmcolor same originalfaces, naturalfivefingers, oneofeachactor. Daph softens incrementally, still keeps distance: no hug/kiss/permissiontoenter untilactual670.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 112». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: FULLWIDTH tallopeningpanel Bspeaks ALLTHREEcomplete source sentences inlargeclearballoon, respectsDaphdistanceOUTSIDEOPENdoor. DapharmsDOWNsameBLUE/LONGBLONDE/TURQ/goldpendant. NoValentinabeachflashback/secondwoman/temptationdepiction. Naturalverbalconversation.\nBalloon tail to Blaise. Print ALL verbatim «No quiero que pienses que me quedé quieto porque todavía sienta algo por Valentina. Me pareció atractiva durante una noche del año pasado y no pensé en ella otra vez hasta que la vi nadando hacia nosotros. La sorpresa explica por qué tardé en reaccionar, pero no vuelve correcta mi reacción.».\nPANEL 2: WORDLESSDaphgazesoffirmnesssoftens a little, leanslightlyOPENdoorFRAME, BOTHarmsLOWERED/handplainatownsideorbelowcrop, no invitationtoenter/closecontact. BLUEeyes/naturalnottearsyet.\nPANEL 3: Daph atsameframe armsLOWERED givesONEwhole sentence, completewordveinticinco withoutprintedclock.\nBalloon tail to Daphne. Print ALL verbatim «Te quedan veinticinco segundos.».\nPANEL 4: WORDLESSBbriefnervouslaugh, BROWNeyes/BLACKskin/BLACKtwists-ONEGREENleaf/LOWRECTglasses/WHITEwrinkledlinen. Plainhands/notnewneckjewel.\nPANEL 5: BsaysONEwhole sentence toDaph, smallnervoussmile, samepositionoutsideSAMEupperdoor.\nBalloon tail to Blaise. Print ALL verbatim «No voy a utilizarlos para repetir que ocurrió antes de conocerte.».\nPANEL 6: DaphONEwhole wryreply, stillarmsDOWN/leanedframe, no mockingcaricature.\nBalloon tail to Daphne. Print ALL verbatim «Me alegra saber que puedes aprender bajo presión.».\nPANEL 7: WORDLESSBsmilesonlyinstant, thenexpressionserious ashefindsDaphBLUEeyes again. Twoshotacrossrespectfuldistance, no steppingcloseruntilnextpage/noactualproposal.\nPANEL 8: FULLWIDTHBhonestTWOcomplete source sentences unabridged, broadnegative space, cleartailB, DaphsilentlisteningarmsDOWN. EndbeforeQuiero casarme, nothingfromfutureprinted. No kneeling/ringbox/newjewelry/babiesappearing.\nBalloon tail to Blaise. Print ALL verbatim «Tampoco espero que decirte algo bonito borre lo que hice hoy. Estoy aquí porque te amo y no quiero dejarte sola con ninguna duda sobre el lugar que ocupas en mi vida.».",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p111_r2.png"
+          ],
+          "generatedMaster": "exec-f1a81e99-ee08-4ec7-a75a-0bff2294f27f.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Edit supplied COMPLETE8-panelSpanishcomicpage112. ONE TINYBACKGROUND repair ONLY: in FIRSTTOP fullwidthpanel, at FARLEFTEDGE behindBlaise's LEFT silhouette approximately x10–42,y323–379, a stray blackironchairscroll/creamcushion fragment appears. REMOVE JUSTthat tinyfurniturefragment. Replacewithcontinuationof existing BLUEsea/distantWHITEbalustrade matchingneighboringbackground, leaveB's WHITEshirtsilhouette unchanged. BstandsoutsideDaphdoor, no chair. PreserveALLotherpixels/detailclosely: all8panels/layout/header, ALLSpanishwords/accents/punctuation/balloons, bothfaces/eyes/clothes/blackglasses/ONEgreenleaf, Daphgoldneckpendant/blueeyes/longwetblonde/turquoise/LOWEREDarms/openFrenchdoor, afternoon sea/awning. No other changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f1a81e99-ee08-4ec7-a75a-0bff2294f27f.png"
+          ],
+          "generatedMaster": "exec-40db3635-2bf2-4e2e-ba32-4f391e6ebdb8.png"
+        }
+      ]
+    }
+  ]
+}
