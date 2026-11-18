@@ -311,3 +311,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 112 | 668–669 | Blaise distingue su sorpresa de su responsabilidad y explica que no quiere dejar dudas sobre el lugar de Daphne en su vida. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-109-112.json).
+
+## Páginas 113–116
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 113 | 669 | Blaise habla de la familia que quiere construir con Daphne. Hermione sonríe y Pansy busca de nuevo su mano mientras Daphne empieza a sonreír. |
+| 114 | 669–670 | Blaise afirma que su hogar y sus planes están con Daphne y Arianna. Daphne acepta la explicación y por fin le permite entrar. |
+| 115 | 670 | Daphne hace entrar a Blaise para escuchar todos los detalles. A solas otra vez, Hermione pide a Pansy que sea honesta sin competir con el discurso de su amigo. |
+| 116 | 671 | Pansy empieza a explicar que imagina a Hermione en todos sus planes, más allá de casarse algún día. Hermione escucha sin interrumpir. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-113-116.json).
