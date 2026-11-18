@@ -11,3 +11,5 @@ Las versiones anteriores siguen disponibles en el historial y en sus archivos. L
 - Páginas 1–4. [Guiones, referencias y revisión](prompts-redibujo-13-01-04.json).
 
 - Páginas 5–8. [Guiones, referencias y revisión](prompts-redibujo-13-05-08.json).
+
+- Páginas 2–2. [Guiones, referencias y revisión](prompts-redibujo-13-02-02.json).
