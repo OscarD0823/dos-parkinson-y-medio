@@ -267,3 +267,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 96 | 660 | Pansy precisa lo ocurrido durante la fiesta y el baño en el mar. La conversación permanece en la terraza; Hermione pregunta si Allegra le gustaba. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-93-96.json).
+
+## Páginas 97–100
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 97 | 660–661 | Pansy responde qué sintió por Allegra y aclara lo que sabe de Blaise y Valentina. Hermione escucha y apenas insinúa una sonrisa. |
+| 98 | 661 | Hermione explica por qué le molestó el encuentro en la cala. Pansy admite que no supo reaccionar; Blaise interrumpe desde el jardín. |
+| 99 | 661–662 | Blaise pide a Daphne que abra la ventana y culpa a Lorenzo por la broma. Hermione decide apartarse de la barandilla y dejarle privacidad con el jardín. |
+| 100 | 662 | Hermione y Pansy se sientan en el sillón exterior. Tras bromear sobre Blaise, Pansy reconoce que explicar Portofino no justifica su reacción en la cala. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-97-100.json).
