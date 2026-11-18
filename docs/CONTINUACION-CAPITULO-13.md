@@ -256,3 +256,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 92 | 657 | Pansy se encuentra con los adultos reunidos. Eirena recibe a Robin; Draco y Astoria llegan con Scorpius y Arianna. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-89-92.json).
+
+## Páginas 93–96
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 93 | 658 | Astoria identifica a las hermanas Visconti. Chiara recibe a Arianna y Eirena pide a Pansy que aclare el malentendido con Hermione. |
+| 94 | 659 | Pansy sube a la habitación mientras Blaise llama a Daphne. Encuentra a Hermione en la terraza y se coloca a su lado en silencio. |
+| 95 | 659–660 | Pansy explica cómo conocieron a las hermanas Visconti en Portofino. Hermione pregunta por Allegra y por qué nunca la había mencionado. |
+| 96 | 660 | Pansy precisa lo ocurrido durante la fiesta y el baño en el mar. La conversación permanece en la terraza; Hermione pregunta si Allegra le gustaba. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-93-96.json).
