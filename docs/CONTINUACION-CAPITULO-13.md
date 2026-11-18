@@ -289,3 +289,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 104 | 664 | Pansy protesta por la intervención. Blaise insiste en defenderla, provocando la sonrisa de Hermione y un gesto de resignación en Pansy. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-101-104.json).
+
+## Páginas 105–108
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 105 | 664–665 | Blaise insiste en que Hermione no deje a Pansy. Daphne abre su puerta y lo llama al orden por haber escalado tres pisos. |
+| 106 | 665 | Daphne pide a Blaise que deje a Pansy resolver su problema. Cierra de nuevo la puerta, dejando a Blaise sin su sonrisa de alivio. |
+| 107 | 665–666 | Blaise corre a la puerta de Daphne y pide que vuelva a abrir. La risa de Hermione suaviza la reacción de Pansy, aunque ella se levanta para acercarse a él. |
+| 108 | 666–667 | Hermione llama a Pansy de vuelta al sillón y le ofrece la mano. Daphne concede a Blaise un minuto para explicarse, y él comienza por lo ocurrido antes de su relación. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-105-108.json).

@@ -1,0 +1,433 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "date": "2026-11-18",
+  "tool": "ImageGen integrada",
+  "sourcePdf": "E:\\2_Parkison_y_Medio\\cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "illustratedBlock": [
+    105,
+    108
+  ],
+  "chapterComplete": false,
+  "pages": [
+    {
+      "page": 105,
+      "image": "paginas/c13-p105.webp",
+      "sourcePdfPages": [
+        664,
+        665
+      ],
+      "summary": "Blaise insiste en que Hermione no deje a Pansy. Daphne abre su puerta y lo llama al orden por haber escalado tres pisos.",
+      "panels": [
+        {
+          "scene": "PHEADSHOULDERSportraitfromRIGHTsofaend, RIGHThandalreadyLOWEREDafter104facepalm/ownhandsbelowcrop; GREEN/BLACKchinbob-lobeshidden/LOWRECTglasses/BLACKshirt. ONEfullsource sentence toB, cleartailP. HcanbequietLEFTedgecrop, nohands/ringsvisibleinthespeechportrait.",
+          "dialogue": [
+            "Pansy: No va a dejar de ser tu amiga aunque terminemos."
+          ],
+          "sourceFragments": [
+            "No va a dejar de ser tu amiga aunque terminemos."
+          ]
+        },
+        {
+          "scene": "Bstandingbeforecouple respondsONEcomplete shortsentence, DARKBROWN/BLACKtwists/ONEGREENleaf/WHITEwrinkledlinen/LOWRECTglasses, plainhands-naturalpose. CorrectBtailnotH/P.",
+          "dialogue": [
+            "Blaise: No quiero comprobarlo."
+          ],
+          "sourceFragments": [
+            "No quiero comprobarlo."
+          ]
+        },
+        {
+          "scene": "FULLWIDTH Bearnestplea ONElargeorconnectedtwo-lobedballoon ALLTHREEcomplete source sentences unabridged, clearBtail. H/PonlyHEADSHOULDERSseatedLEFTwithGAP/handsbelowcrop, BstandsRIGHT/WHITErumpledshirt/ONEgreenleaf. ALLclausesproud/nervous/love/separation/restlife/pressure preserved. Naturalfamilydialogue/noimaginarybreakupflashbacks.",
+          "dialogue": [
+            "Blaise: Por favor, no la dejes. Es difícil, orgullosa y toma decisiones terribles cuando se pone nerviosa, pero te ama más de lo que ha querido a nadie. Además, si tengo que elegir entre ustedes dos después de una separación, voy a vivir el resto de mi vida bajo una presión que no merezco."
+          ],
+          "sourceFragments": [
+            "Por favor, no la dejes",
+            "Es difícil, orgullosa y toma decisiones terribles cuando se pone nerviosa, pero te ama más de lo que ha querido a nadie. Además, si tengo que elegir entre ustedes dos después de una separación, voy a vivir el resto de mi vida bajo una presión que no merezco."
+          ]
+        },
+        {
+          "scene": "HletsoutsmallLAUGHthenP asksONEshortquestion. Twohead-shoulderportraitsHleftBROWN-BUN-blueSAPPHIRE/PrightGREEN-blackbob-barrette-blackshirt, GAP/CREAMcushion remains, handsBELOWCROP. TailPnotH, noextraHwords.",
+          "dialogue": [
+            "Pansy: ¿Terminaste?"
+          ],
+          "sourceFragments": [
+            "¿Terminaste?"
+          ]
+        },
+        {
+          "scene": "BONEshortreply, knowinghalfsmile/ONEgreenleaf/WHITEcreasedshirt/BROWNeyes/LOWrectglasses/blacktwists, nootherwords.",
+          "dialogue": [
+            "Blaise: Casi."
+          ],
+          "sourceFragments": [
+            "Casi."
+          ]
+        },
+        {
+          "scene": "WORDLESS establishONEFULLHEIGHTFrenchDOOR opensTWO ROOMS fartherRIGHTalongSAMEUPPERbalcony continuousWHITEfloor/STONEbalustrade/creamcolumns/lamps/bougainvillea. DAPHNE ONEperson LONGWETBLONDE/BLUE/TURQUOISEonepiece-TURQUOISEpareo/goldtinyneckpendant/barefeet standsFULLHEIGHTdoorframe armsCROSSED handsunderbiceps/ALLfingersplain, sterncalm. NOwaist-highwindow sill/NOlowergarden/Bclimb/extraDaphclone. Other3actorscanbeOUTOFCROP."
+        },
+        {
+          "scene": "Daphheadshoulders/CROSSEDarms atSAMEOPENFULLHEIGHTdoor, sterncallsONEfullname, cleartailDaph. LONGWETBLONDEBLUE/TURQ/goldpendant, noBun/blackbob/BLUEsapphire.",
+          "dialogue": [
+            "Daphne: Blaise Zabini."
+          ],
+          "sourceFragments": [
+            "Blaise Zabini."
+          ]
+        },
+        {
+          "scene": "BturnsIMMEDIATELYtowardDaphatdoorRIGHT, reliefsmile, ONEfullsentence/tailB. SameBLACKskin/BLACKtwists-GREENleaf/WHITErumpledshirt/DARKBROWNnotGREENeyes. H/PsofaLEFTmaybeoffcrop, noBphysicalromance.",
+          "dialogue": [
+            "Blaise: Sabía que abrirías."
+          ],
+          "sourceFragments": [
+            "Sabía que abrirías."
+          ]
+        },
+        {
+          "scene": "Daphatsamefullheightdoor/crossedarmsasksONEfullsourcequestionincludingTRES PISOS. Mediumface-shoulderportraitorwideenoughnegative space, sameBLUEeyes/LONGWETBLONDE/TURQ, notH/P/parentclone. Noactualclimbingflashback/routearrows.",
+          "dialogue": [
+            "Daphne: ¿De verdad escalaste tres pisos para intervenir en una discusión que no te pertenece?"
+          ],
+          "sourceFragments": [
+            "¿De verdad escalaste tres pisos para intervenir en una discusión que no te pertenece?"
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 105\n\nBlaise insiste en que Hermione no deje a Pansy. Daphne abre su puerta y lo llama al orden por haber escalado tres pisos.\nPansy: No va a dejar de ser tu amiga aunque terminemos.\nBlaise: No quiero comprobarlo.\nBlaise: Por favor, no la dejes. Es difícil, orgullosa y toma decisiones terribles cuando se pone nerviosa, pero te ama más de lo que ha querido a nadie. Además, si tengo que elegir entre ustedes dos después de una separación, voy a vivir el resto de mi vida bajo una presión que no merezco.\nPansy: ¿Terminaste?\nBlaise: Casi.\nDaphne: Blaise Zabini.\nBlaise: Sabía que abrirías.\nDaphne: ¿De verdad escalaste tres pisos para intervenir en una discusión que no te pertenece?",
+      "actualPanelCount": 9,
+      "review": "Revisión visual completa de nueve viñetas: ocho turnos completos con acentos y colas correctas, incluidas las tres frases largas de Blaise. H/P conservan rostros, ojos, vestuario, gafas, zafiro y distancia; manos fuera de cuadro sin joyas añadidas. Blaise mantiene camisa blanca, ojos castaños, hoja verde. Daphne conserva pelo largo rubio húmedo, ojos azules, turquesa, colgante dorado y manos sin anillos. Nueva puerta francesa completa hasta suelo al mismo nivel de la galería, dos habitaciones más allá; ninguna ventana baja ni cambio de planta. Revisado texto entero y OCR de apoyo.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p105.png",
+      "sha256": "e5bbcbe2619513c154066f656d6ced3f8feee14aa9ccac00c328278df45d913e",
+      "masterSha256": "e786b9f0138470cd16e3ce2537461063864b07a90f753642ace54aede7b06b63",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create ONE complete 9-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: APPROVED104R3 immediatelybeforestorypoint: currentH/Pfaces/attire/UPPERterrace/CREAM-wroughtironSOFA/ROSEMARYright/BWHITErumpledshirt-GREENleaf/DARKBROWNeyes. StartPNo vaadejardesertuamiga…, notearlierspeeches. H/Pheadshouldersportraits/ownhandsBELOWcropavoidsjewelartifacts, stillGAP.\nIMAGE2: APPROVED103R2 ownTHREEcurrentfaces/BONEGREENleafRIGHT/DARKBROWN/WHITEshirt/NAVYtrousers/CREAMloafers/standingbeforeH/PseatedendsSOFA. AllH/Pownjewelswhenvisible/HONLYLEFTdiamond/PbarefingersHRPleft. Nochild/gardenlowerlevel.\nIMAGE3: APPROVED99R2 ONLYDAPHNE FACE/Hair/BLUEeyes/LONGWETBLONDE/TURQclothes/fineGOLDpendant. New105doorFULLHEIGHTtoWHITEFLOORatSAMEUPPERlevel/tworoomsalong, NOToldWINDOWwithSTONEsill. Noadultcup/child/Viscontis/oldCREAMpareo.\nSOURCE664remaining–667 firstline SAMEUPPERPRIVATEterrace/GALLERY THREEFLOORSabovegarden, WHITE MARBLEfloor/WHITE STONEclassicalwaisthighbalustrade/CREAMawning-sheercurtains/BLUEsea-farboats/coast/brightAFTERNOONDAYLIGHT. ONEWIDE2seatCREAMcushions-DARKWROUGHTIRONscrollSOFA atH/Palcove LEFT, SAME ROSEMARYplant inTERRACOTTApot RIGHTatbalustrade. ContinuousUPPERbalcony extendsRIGHTpastTWOadditionalbedroomFULLHEIGHTpaleWOODFrenchDOORS/creamstonecolumns/lamps/bougainvillea toDAPHNE'Sterrace2roomsalong. Herdoor reachesFLOOR/whiteMARBLEthreshold, NOTwaisthighWINDOW/ref99sill; ALLfouractorsnowSAMEupperlevel, noBgardenorclimbingagain. H originalBROWN/freckles/CHESTNUTMESSYBUNfewloosewetstrands/LOWBLACKRECTSUNGLASSES/OLIVEopaqueonepiece+PLAIN PALECREAMpareo coversfoldedknees seated/BLUEovalSAPPHIRE-clearhalo onWHITEPLATINUMfinechainFRONTchest/ONEclearhaloDIAMOND ANATOMICALLEFT RINGFINGER ONLY/RIGHTPLAIN/BAREwrists/noBLUEearjewel. P originalGREENangular/flatBLACKCHINbobfrontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTSUNGLASSES/OPAQUEBLACKLINENcollaredshirt+CREAMshorts/ALLFINGERSPLAIN/no band-ring-stone/ONEfineWHITEGOLDchainTHREE H R PcharmsLEFTWRIST ONLY/RIGHTwristBARE/BAREneck. First105–106 H/PseatedOWNendsSOFA/GAP, handsOWNlaps(RIGHTplainPpalmontopcoversLEFTfingers)orBELOWCROP. 107Pstands-rightandbrieflybrushesHhand, 108PreturnsSITS CLOSERafterHinvites: HLEFT diamondhandinterlacesP RIGHTPLAINhand, PLEFTHRPwristonfarOWNlap, noP ring orHbracelet. HthumbcaressesPknuckles.\nBLAISE BLACKskin/DARKBROWNeyes(notGREEN)/shortBLACKtwists/LOWBLACKRECTglasses/BAREHEAD-wrists-fingers/WHITE-IVORYwrinkledLINENopen-collarshirt/NAVYlongtrousers/CREAMloafers/ONE SMALLGREENLEAF FRONTALRIGHTtwist. Bstandingbeforecouple105thenwalksRIGHTtowardDaphdoor later, nochild/hat/Vhug. DAPHNE LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDchain-tinyROUNDGOLDpendant/BOTHhandsPLAIN/no ring/bracelets, barefoot, sameface99. Daphfirstappears105p6atOPENFULLHEIGHTFrenchDOORarmsCROSSED overopaqueclothedchest (handsunderoppositebiceps/noextraactors), remainssternnotcaricature, NOchanging/nuditydepicted. Daphclosesdoor106end, opensagain108start. H/PremainSOFAuntil107Pstands. Noactualthrow/fall/attack; onlyfictionalhumorousWORDS/Bknockswooddoor, Hlaughs. NOchildren/elfs/olderparents/Viscontis/partyboat/flashbacks, infantsEirena-Robin/Chiara-Ari/Draco-ScorpiusOFFSCREENunchanged. Ownfaces/wardrobe/naturalfivefingers/oneeachactor, everydayfullycoveredrelationshipcomedy.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 105». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: PHEADSHOULDERSportraitfromRIGHTsofaend, RIGHThandalreadyLOWEREDafter104facepalm/ownhandsbelowcrop; GREEN/BLACKchinbob-lobeshidden/LOWRECTglasses/BLACKshirt. ONEfullsource sentence toB, cleartailP. HcanbequietLEFTedgecrop, nohands/ringsvisibleinthespeechportrait.\nBalloon tail to Pansy. Print ALL verbatim «No va a dejar de ser tu amiga aunque terminemos.».\nPANEL 2: Bstandingbeforecouple respondsONEcomplete shortsentence, DARKBROWN/BLACKtwists/ONEGREENleaf/WHITEwrinkledlinen/LOWRECTglasses, plainhands-naturalpose. CorrectBtailnotH/P.\nBalloon tail to Blaise. Print ALL verbatim «No quiero comprobarlo.».\nPANEL 3: FULLWIDTH Bearnestplea ONElargeorconnectedtwo-lobedballoon ALLTHREEcomplete source sentences unabridged, clearBtail. H/PonlyHEADSHOULDERSseatedLEFTwithGAP/handsbelowcrop, BstandsRIGHT/WHITErumpledshirt/ONEgreenleaf. ALLclausesproud/nervous/love/separation/restlife/pressure preserved. Naturalfamilydialogue/noimaginarybreakupflashbacks.\nBalloon tail to Blaise. Print ALL verbatim «Por favor, no la dejes. Es difícil, orgullosa y toma decisiones terribles cuando se pone nerviosa, pero te ama más de lo que ha querido a nadie. Además, si tengo que elegir entre ustedes dos después de una separación, voy a vivir el resto de mi vida bajo una presión que no merezco.».\nPANEL 4: HletsoutsmallLAUGHthenP asksONEshortquestion. Twohead-shoulderportraitsHleftBROWN-BUN-blueSAPPHIRE/PrightGREEN-blackbob-barrette-blackshirt, GAP/CREAMcushion remains, handsBELOWCROP. TailPnotH, noextraHwords.\nBalloon tail to Pansy. Print ALL verbatim «¿Terminaste?».\nPANEL 5: BONEshortreply, knowinghalfsmile/ONEgreenleaf/WHITEcreasedshirt/BROWNeyes/LOWrectglasses/blacktwists, nootherwords.\nBalloon tail to Blaise. Print ALL verbatim «Casi.».\nPANEL 6: WORDLESS establishONEFULLHEIGHTFrenchDOOR opensTWO ROOMS fartherRIGHTalongSAMEUPPERbalcony continuousWHITEfloor/STONEbalustrade/creamcolumns/lamps/bougainvillea. DAPHNE ONEperson LONGWETBLONDE/BLUE/TURQUOISEonepiece-TURQUOISEpareo/goldtinyneckpendant/barefeet standsFULLHEIGHTdoorframe armsCROSSED handsunderbiceps/ALLfingersplain, sterncalm. NOwaist-highwindow sill/NOlowergarden/Bclimb/extraDaphclone. Other3actorscanbeOUTOFCROP.\nPANEL 7: Daphheadshoulders/CROSSEDarms atSAMEOPENFULLHEIGHTdoor, sterncallsONEfullname, cleartailDaph. LONGWETBLONDEBLUE/TURQ/goldpendant, noBun/blackbob/BLUEsapphire.\nBalloon tail to Daphne. Print ALL verbatim «Blaise Zabini.».\nPANEL 8: BturnsIMMEDIATELYtowardDaphatdoorRIGHT, reliefsmile, ONEfullsentence/tailB. SameBLACKskin/BLACKtwists-GREENleaf/WHITErumpledshirt/DARKBROWNnotGREENeyes. H/PsofaLEFTmaybeoffcrop, noBphysicalromance.\nBalloon tail to Blaise. Print ALL verbatim «Sabía que abrirías.».\nPANEL 9: Daphatsamefullheightdoor/crossedarmsasksONEfullsourcequestionincludingTRES PISOS. Mediumface-shoulderportraitorwideenoughnegative space, sameBLUEeyes/LONGWETBLONDE/TURQ, notH/P/parentclone. Noactualclimbingflashback/routearrows.\nBalloon tail to Daphne. Print ALL verbatim «¿De verdad escalaste tres pisos para intervenir en una discusión que no te pertenece?».",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p104_r3.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p103_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p099_r2.png"
+          ],
+          "generatedMaster": "exec-afab33c2-c9ef-42f8-b006-7f3ce1506972.png"
+        }
+      ]
+    },
+    {
+      "page": 106,
+      "image": "paginas/c13-p106.webp",
+      "sourcePdfPages": [
+        665
+      ],
+      "summary": "Daphne pide a Blaise que deje a Pansy resolver su problema. Cierra de nuevo la puerta, dejando a Blaise sin su sonrisa de alivio.",
+      "panels": [
+        {
+          "scene": "BglancesbrieflybacktowardWHITEbalustradelikejustrememberedroute, thenanswersDaphONEshortsentence. SAMEUPPERlevel/WHITEshirt-GREENleaf/DARKBROWN, noactualclimbingflashback. DaphcrossedarmsatopenFrenchDOOR.",
+          "dialogue": [
+            "Blaise: Solo me detuve un momento."
+          ],
+          "sourceFragments": [
+            "Solo me detuve un momento."
+          ]
+        },
+        {
+          "scene": "DaphsterncalmreplyONEfullsentence, BLUEeyes/LONGWETBLONDE/TURQ/fineGOLDpendant/armsCROSSED withplainfingersunderoppositebiceps. NoextraHjewel/ring. CorrectDaphtailnotH/P.",
+          "dialogue": [
+            "Daphne: No te corresponde convencer a Hermione de nada."
+          ],
+          "sourceFragments": [
+            "No te corresponde convencer a Hermione de nada."
+          ]
+        },
+        {
+          "scene": "BexplainsONEshortlinewithopenpalmgesture, BLACKskin/BLACKtwists/ONEGREENleaf/LOWRECTglasses/WHITErumpledLINEN, nootherwords. Naturalhand5digits/plainwrists.",
+          "dialogue": [
+            "Blaise: Pansy necesitaba ayuda."
+          ],
+          "sourceFragments": [
+            "Pansy necesitaba ayuda."
+          ]
+        },
+        {
+          "scene": "DaphgivesbriefglanceLEFTtowardP/HsofatworoomsalongthenlookbackatBtocontinueONEfullsentence. SheisnotnowstandingnexttoP, onlyDaphhead-shoulderportraitatsameFrenchdoor, armscrossed. H/Pcanremainoffcrop, sourcephysicallayoutcontinuous.",
+          "dialogue": [
+            "Daphne: Pansy necesita aprender a resolver sus propios problemas."
+          ],
+          "sourceFragments": [
+            "Pansy necesita aprender a resolver sus propios problemas."
+          ]
+        },
+        {
+          "scene": "BanswersALLfullsource sentence, slightawkwardsmile/BROWNeyes/ONEgreenleaf/WHITEcreasedshirt/LOWBLACKRECT. Enoughballoonspace, noP/Hreplyinvented.",
+          "dialogue": [
+            "Blaise: Eso fue exactamente lo que pensé al principio, pero avanzaba demasiado lento."
+          ],
+          "sourceFragments": [
+            "Eso fue exactamente lo que pensé al principio, pero avanzaba demasiado lento."
+          ]
+        },
+        {
+          "scene": "DaphclosesBLUEeyesforbriefbeatthenONEshortrequest/tailDaph. LONGWETBLONDE/turquoise/GOLDtinyneckpendant/armscrossed/noring. CurrentdoorfullheightandCREAMcurtainsnotoldwindow.",
+          "dialogue": [
+            "Daphne: Deja de molestarlas."
+          ],
+          "sourceFragments": [
+            "Deja de molestarlas."
+          ]
+        },
+        {
+          "scene": "WORDLESS DaphreturnsINSIDEherroomandclosesSAMEFULLHEIGHTpaleWOODFrenchDOOR, ONEfigurelastvisiblebackbeyondthresholdorhiddenbehindclosingpanel(notclonedbothoutsideandinside). BstaysOUTSIDEatUPPERbalcony/WHITEfloor, nohandsinsidewood/noextratext/SFXlabels."
+        },
+        {
+          "scene": "WORDLESS Bsmiledisappears, looksCLOSEDWOODDOORforafewseconds, thenturnsslowlyLEFTtowarddistantH/Psofa. SameONEgreenleaf/WHITEshirt/navytrousers/creamloafers/BLACKskin-twists/BROWNeyes. Noquoteuntil107No debídetenerme, noDaphoutside/otheractors."
+        }
+      ],
+      "transcript": "Capítulo 13 · 106\n\nDaphne pide a Blaise que deje a Pansy resolver su problema. Cierra de nuevo la puerta, dejando a Blaise sin su sonrisa de alivio.\nBlaise: Solo me detuve un momento.\nDaphne: No te corresponde convencer a Hermione de nada.\nBlaise: Pansy necesitaba ayuda.\nDaphne: Pansy necesita aprender a resolver sus propios problemas.\nBlaise: Eso fue exactamente lo que pensé al principio, pero avanzaba demasiado lento.\nDaphne: Deja de molestarlas.",
+      "actualPanelCount": 8,
+      "review": "Ocho viñetas completas: seis turnos íntegros y en orden, con acentos, signos y colas a cada hablante. Daphne mantiene rubio húmedo largo, turquesa, ojos azules, colgante dorado y brazos cruzados/manos sin anillos; vuelve al interior por puerta hasta el suelo, sin duplicarse. Blaise conserva ojos castaños, hoja, camisa blanca, pantalón azul y mocasines crema. Puerta cerrada y sonrisa desaparece al final. Anatomía, galería superior y lectura entera revisadas; OCR sin faltantes.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p106.png",
+      "sha256": "4ce158ccc59adae1403d6bd62019e197db52546b0fda720360b22b0000d0f021",
+      "masterSha256": "44c82084b4ed800d3ccd7faf8efa3cb28bba88a28db72a0a07017197a42f78e6",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": true,
+          "prompt": "Use case: illustration-story. Create ONE complete 8-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: Immediately preceding APPROVED chapter13 page105: Blaise insiste en que Hermione no deje a Pansy. Daphne abre su puerta y lo llama al orden por haber escalado tres pisos. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.\nIMAGE2: APPROVED99R2 DAPHNE FACIAL IDENTITY ONLYBLUEeyes/ownnose/LONGWETBLONDE/TURQUOISE/fineGOLDpendant. NEWFrenchDOORFULLHEIGHTtoWHITEFLOOR/SAMEUPPERlevel/source665, NO WINDOWsill orlowgarden, nowplainfingerscrossedarms/goldnecklaceonly.\nIMAGE3: APPROVED104R3 BoriginalBLACKskin/BLACKtwists/ONEGREENleafFRONTALRIGHT/WHITEcreasedLINEN/NAVYtrousers/CREAMloafers/DARKBROWNeyes-lowRECTglasses. H/Pfaces/clothesifseenfarLEFTsofa/currentjewelrules. Nootheractors/parents/babies.\nSOURCE664remaining–667 firstline SAMEUPPERPRIVATEterrace/GALLERY THREEFLOORSabovegarden, WHITE MARBLEfloor/WHITE STONEclassicalwaisthighbalustrade/CREAMawning-sheercurtains/BLUEsea-farboats/coast/brightAFTERNOONDAYLIGHT. ONEWIDE2seatCREAMcushions-DARKWROUGHTIRONscrollSOFA atH/Palcove LEFT, SAME ROSEMARYplant inTERRACOTTApot RIGHTatbalustrade. ContinuousUPPERbalcony extendsRIGHTpastTWOadditionalbedroomFULLHEIGHTpaleWOODFrenchDOORS/creamstonecolumns/lamps/bougainvillea toDAPHNE'Sterrace2roomsalong. Herdoor reachesFLOOR/whiteMARBLEthreshold, NOTwaisthighWINDOW/ref99sill; ALLfouractorsnowSAMEupperlevel, noBgardenorclimbingagain. H originalBROWN/freckles/CHESTNUTMESSYBUNfewloosewetstrands/LOWBLACKRECTSUNGLASSES/OLIVEopaqueonepiece+PLAIN PALECREAMpareo coversfoldedknees seated/BLUEovalSAPPHIRE-clearhalo onWHITEPLATINUMfinechainFRONTchest/ONEclearhaloDIAMOND ANATOMICALLEFT RINGFINGER ONLY/RIGHTPLAIN/BAREwrists/noBLUEearjewel. P originalGREENangular/flatBLACKCHINbobfrontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTSUNGLASSES/OPAQUEBLACKLINENcollaredshirt+CREAMshorts/ALLFINGERSPLAIN/no band-ring-stone/ONEfineWHITEGOLDchainTHREE H R PcharmsLEFTWRIST ONLY/RIGHTwristBARE/BAREneck. First105–106 H/PseatedOWNendsSOFA/GAP, handsOWNlaps(RIGHTplainPpalmontopcoversLEFTfingers)orBELOWCROP. 107Pstands-rightandbrieflybrushesHhand, 108PreturnsSITS CLOSERafterHinvites: HLEFT diamondhandinterlacesP RIGHTPLAINhand, PLEFTHRPwristonfarOWNlap, noP ring orHbracelet. HthumbcaressesPknuckles.\nBLAISE BLACKskin/DARKBROWNeyes(notGREEN)/shortBLACKtwists/LOWBLACKRECTglasses/BAREHEAD-wrists-fingers/WHITE-IVORYwrinkledLINENopen-collarshirt/NAVYlongtrousers/CREAMloafers/ONE SMALLGREENLEAF FRONTALRIGHTtwist. Bstandingbeforecouple105thenwalksRIGHTtowardDaphdoor later, nochild/hat/Vhug. DAPHNE LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDchain-tinyROUNDGOLDpendant/BOTHhandsPLAIN/no ring/bracelets, barefoot, sameface99. Daphfirstappears105p6atOPENFULLHEIGHTFrenchDOORarmsCROSSED overopaqueclothedchest (handsunderoppositebiceps/noextraactors), remainssternnotcaricature, NOchanging/nuditydepicted. Daphclosesdoor106end, opensagain108start. H/PremainSOFAuntil107Pstands. Noactualthrow/fall/attack; onlyfictionalhumorousWORDS/Bknockswooddoor, Hlaughs. NOchildren/elfs/olderparents/Viscontis/partyboat/flashbacks, infantsEirena-Robin/Chiara-Ari/Draco-ScorpiusOFFSCREENunchanged. Ownfaces/wardrobe/naturalfivefingers/oneeachactor, everydayfullycoveredrelationshipcomedy.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 106». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: BglancesbrieflybacktowardWHITEbalustradelikejustrememberedroute, thenanswersDaphONEshortsentence. SAMEUPPERlevel/WHITEshirt-GREENleaf/DARKBROWN, noactualclimbingflashback. DaphcrossedarmsatopenFrenchDOOR.\nBalloon tail to Blaise. Print ALL verbatim «Solo me detuve un momento.».\nPANEL 2: DaphsterncalmreplyONEfullsentence, BLUEeyes/LONGWETBLONDE/TURQ/fineGOLDpendant/armsCROSSED withplainfingersunderoppositebiceps. NoextraHjewel/ring. CorrectDaphtailnotH/P.\nBalloon tail to Daphne. Print ALL verbatim «No te corresponde convencer a Hermione de nada.».\nPANEL 3: BexplainsONEshortlinewithopenpalmgesture, BLACKskin/BLACKtwists/ONEGREENleaf/LOWRECTglasses/WHITErumpledLINEN, nootherwords. Naturalhand5digits/plainwrists.\nBalloon tail to Blaise. Print ALL verbatim «Pansy necesitaba ayuda.».\nPANEL 4: DaphgivesbriefglanceLEFTtowardP/HsofatworoomsalongthenlookbackatBtocontinueONEfullsentence. SheisnotnowstandingnexttoP, onlyDaphhead-shoulderportraitatsameFrenchdoor, armscrossed. H/Pcanremainoffcrop, sourcephysicallayoutcontinuous.\nBalloon tail to Daphne. Print ALL verbatim «Pansy necesita aprender a resolver sus propios problemas.».\nPANEL 5: BanswersALLfullsource sentence, slightawkwardsmile/BROWNeyes/ONEgreenleaf/WHITEcreasedshirt/LOWBLACKRECT. Enoughballoonspace, noP/Hreplyinvented.\nBalloon tail to Blaise. Print ALL verbatim «Eso fue exactamente lo que pensé al principio, pero avanzaba demasiado lento.».\nPANEL 6: DaphclosesBLUEeyesforbriefbeatthenONEshortrequest/tailDaph. LONGWETBLONDE/turquoise/GOLDtinyneckpendant/armscrossed/noring. CurrentdoorfullheightandCREAMcurtainsnotoldwindow.\nBalloon tail to Daphne. Print ALL verbatim «Deja de molestarlas.».\nPANEL 7: WORDLESS DaphreturnsINSIDEherroomandclosesSAMEFULLHEIGHTpaleWOODFrenchDOOR, ONEfigurelastvisiblebackbeyondthresholdorhiddenbehindclosingpanel(notclonedbothoutsideandinside). BstaysOUTSIDEatUPPERbalcony/WHITEfloor, nohandsinsidewood/noextratext/SFXlabels.\nPANEL 8: WORDLESS Bsmiledisappears, looksCLOSEDWOODDOORforafewseconds, thenturnsslowlyLEFTtowarddistantH/Psofa. SameONEgreenleaf/WHITEshirt/navytrousers/creamloafers/BLACKskin-twists/BROWNeyes. Noquoteuntil107No debídetenerme, noDaphoutside/otheractors.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p105.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p099_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p104_r3.png"
+          ],
+          "generatedMaster": "exec-95d56291-af59-4cb8-a9c2-bd38cbb0e704.png"
+        }
+      ]
+    },
+    {
+      "page": 107,
+      "image": "paginas/c13-p107.webp",
+      "sourcePdfPages": [
+        665,
+        666
+      ],
+      "summary": "Blaise corre a la puerta de Daphne y pide que vuelva a abrir. La risa de Hermione suaviza la reacción de Pansy, aunque ella se levanta para acercarse a él.",
+      "panels": [
+        {
+          "scene": "BlooksatCLOSED DaphFrenchDOORthenbackLEFTtowardH/P, ONEfullshortregretfulline/tailB. WHITErumpledLINEN/NAVYpants/CREAMloafers/ONEGREENleaf-right/BLACKskin-twists/BROWN-lowRECTglasses. NoDaphoutside.",
+          "dialogue": [
+            "Blaise: No debí detenerme."
+          ],
+          "sourceFragments": [
+            "No debí detenerme."
+          ]
+        },
+        {
+          "scene": "PheadshouldersfromRIGHTsofaendraisesONEbrow/shortfullquestion toB farRIGHT. HLEFTedgecropifneeded/nohandviews/rings.PownGREEN/BLACKbob/barrette/LOWRECTglasses/blackshirt, GAPunchanged.",
+          "dialogue": [
+            "Pansy: ¿Acabas de descubrirlo?"
+          ],
+          "sourceFragments": [
+            "¿Acabas de descubrirlo?"
+          ]
+        },
+        {
+          "scene": "FULLWIDTH B RUNSremainingfewstepstoDaphFrenchDOOR RIGHT andpleadsONElargeballoon ALLFOURexclamationsANDSpanishtranslation, noabbreviation. EndswithonePALMagainstWOODdoor ratherthanduplicatingBpositions/arms. ExactWHITEwrinkledshirt/greenleaf/blacktwistsbrown eyes, noactualPpunishmentorviolentflashback depicted.",
+          "dialogue": [
+            "Blaise: ¡Amore mio! (¡Amor mío!) ¡Me arrepiento de haber interferido! ¡No volveré a hacerlo! ¡Hermione puede castigarla como quiera durante el resto de las vacaciones!"
+          ],
+          "sourceFragments": [
+            "¡Amore mio! (¡Amor mío!)",
+            "¡Me arrepiento de haber interferido! ¡No volveré a hacerlo! ¡Hermione puede castigarla como quiera durante el resto de las vacaciones!"
+          ]
+        },
+        {
+          "scene": "HletsoutanotherLAUGHsource665, PlooksatherbrieflythenbackBwithmuchlessconvincingwarningeyes. PONEfullsource sentence/tailP, headshoulderstwoshotHLEFT/Pright/CREAMsofa/GAP/ownhandsbelowcrop. OnlyWORDSofbanter,noactualthrow/force.",
+          "dialogue": [
+            "Pansy: Voy a ayudarte a regresar al jardín."
+          ],
+          "sourceFragments": [
+            "Voy a ayudarte a regresar al jardín."
+          ]
+        },
+        {
+          "scene": "BknocksSAMECLOSEDWOODDOORwithONEOPENPALM, callsALLTWOsource sentences ONEclearballoon tailB, WHITEshirt/brown-blackidentity/ONEgreenleaf. DaphstillINSIDEnotvisible, noPthrow/fall/otherpeople.",
+          "dialogue": [
+            "Blaise: ¡Daphne, por favor! ¡Abre antes de que Pansy me arroje por la terraza!"
+          ],
+          "sourceFragments": [
+            "¡Daphne, por favor! ¡Abre antes de que Pansy me arroje por la terraza!"
+          ]
+        },
+        {
+          "scene": "HfarLEFTsofa LAUGHS/leansforwardmodestlyCREAMpareokneescovered; BforegroundnearCLOSEDdoorRIGHTturnsLEFTandpointsatHwithONEhand, TWOshortsentencesONEBballoon. CorrectBtailnotH/P. Pstillseatedabouttorisenextpanel.GardenNOTcurrentlevel/noextras.",
+          "dialogue": [
+            "Blaise: Está riendo. Funcionó."
+          ],
+          "sourceFragments": [
+            "Está riendo. Funcionó."
+          ]
+        },
+        {
+          "scene": "FULLWIDTH SOURCE666PSTANDSfromRIGHTsofaend/walksRIGHTtowardB-Daphdoor, brieflybrushesH LEFTdiamondHANDwithP RIGHTPLAINfingertipswhilepassing. HremainsSEATEDLEFT/kneesCOVEREDcream/OLIVEonepiece/sapphire. PownLEFTfineHRP handnearOWNside, RIGHTwristBARE/NOfingerrings.HLEFTONEdiamondonly/RIGHTplain. Exactly2handsinteractONEHleft+ONEPright/noextraarms, gentlebriefbrushNOTinterlacingyet.PturnstowardB ONEballoonALLTWOwarning sentences.Canonhandreferencecanbeguidanceonly.",
+          "dialogue": [
+            "Pansy: No confundas su risa con que estás a salvo. Te quedan cinco segundos."
+          ],
+          "sourceFragments": [
+            "No confundas su risa con que estás a salvo. Te quedan cinco segundos."
+          ]
+        },
+        {
+          "scene": "BmoreurgentpalmknockatCLOSEDdoorONEpose/2normalarms, saysFULLItalianterm+SPANISHtranslation+lastSpanishsentence. ONEGREENleaf/brown eyes/WHITEshirt.OthersOFFCROPavoidscloningPseatedandwalking.FULLHEIGHTDOORtoprivateROOMnotwindow.",
+          "dialogue": [
+            "Blaise: ¡Mia dolcezza! (¡Dulzura mía!) ¡La situación acaba de volverse urgente!"
+          ],
+          "sourceFragments": [
+            "¡Mia dolcezza! (¡Dulzura mía!) ¡La situación acaba de volverse urgente!"
+          ]
+        },
+        {
+          "scene": "WORDLESS HseatedaloneOWNLEFTsofaend/EMPTYRIGHTcushionwherePjustleft, softsmileafterlaughter, gazeRIGHTtowardsP/Boffscreen.DiamondLEFTonlywhenvisible/blueSAPPHIRE/OLIVE-CREAMpareo.BlaiseandPansy offcropmoving/atdoorRIGHT, noPcloneinEMPTYseat.Noextraquotes/dooropeninguntil108p1."
+        }
+      ],
+      "transcript": "Capítulo 13 · 107\n\nBlaise corre a la puerta de Daphne y pide que vuelva a abrir. La risa de Hermione suaviza la reacción de Pansy, aunque ella se levanta para acercarse a él.\nBlaise: No debí detenerme.\nPansy: ¿Acabas de descubrirlo?\nBlaise: ¡Amore mio! (¡Amor mío!) ¡Me arrepiento de haber interferido! ¡No volveré a hacerlo! ¡Hermione puede castigarla como quiera durante el resto de las vacaciones!\nPansy: Voy a ayudarte a regresar al jardín.\nBlaise: ¡Daphne, por favor! ¡Abre antes de que Pansy me arroje por la terraza!\nBlaise: Está riendo. Funcionó.\nPansy: No confundas su risa con que estás a salvo. Te quedan cinco segundos.\nBlaise: ¡Mia dolcezza! (¡Dulzura mía!) ¡La situación acaba de volverse urgente!",
+      "actualPanelCount": 9,
+      "review": "Revisada completa R2: quitada únicamente cola izquierda incorrecta del globo de viñeta4; ahora habla Pansy, Hermione solo ríe. Ocho turnos completos en nueve viñetas, incluidos italianos y traducciones entre paréntesis. Los candidatos OCR amore/hermione/daphne/riendo/funciono/dulzura se leen completos visualmente en originales y R2; no son omisiones. Pansy se levanta y roza con mano DERECHA lisa la IZQUIERDA de Hermione con un diamante; brazalete HRP en otra muñeca izquierda de P. Hermione termina sola junto al asiento vacío; no lanzamiento ni caída real. Mantiene rostros, ropa, joyas, hoja, puerta cerrada y galería superior.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p107.png",
+      "sha256": "8eb2161901398ea0f59c617f558c1acf5f992a116f91b138607d11cf594f7c8c",
+      "masterSha256": "6ec2c0bd55c27510c77d1c5161fb731a5480b14e6fa3433c5b6f441228cfa36d",
+      "ocrMissingCandidates": [
+        "amore",
+        "hermione",
+        "daphne",
+        "dulzura"
+      ],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create ONE complete 9-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: Immediately preceding APPROVED chapter13 page106: Daphne pide a Blaise que deje a Pansy resolver su problema. Cierra de nuevo la puerta, dejando a Blaise sin su sonrisa de alivio. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.\nIMAGE2: APPROVED100R2 H/PFACE/clothes/ONECREAM-darkWROUGHTIRONsofa/awning/ROSEMARYpotRIGHT/WHITEbalustrade/SEA. H BROWN-BUN/OLIVEonepiece-CREAMpareo/BLUEsapphirewhiteplatinum/ONELEFTdiamond/RIGHTplain.P GREEN-BLACKchinbob-LOBESHIDDEN/BLACKshirt-CREAMshorts/LEFTfineHRP/ALLfingersplain.\nIMAGE3: POSITIVE PansyONLYbarehandsinspectionref96R2: ALLfingersPLAIN/no band/stone/ring, fineWHITEGOLDLEFTwristHRP.NEWP107panel7P RIGHTPLAINfingertips brushH LEFTdiamondhand; P RIGHTWRISTBARE/LEFTHRPotherhand onownside. Do notcopyHRPontoHnorHdiamondontoP.\nSOURCE664remaining–667 firstline SAMEUPPERPRIVATEterrace/GALLERY THREEFLOORSabovegarden, WHITE MARBLEfloor/WHITE STONEclassicalwaisthighbalustrade/CREAMawning-sheercurtains/BLUEsea-farboats/coast/brightAFTERNOONDAYLIGHT. ONEWIDE2seatCREAMcushions-DARKWROUGHTIRONscrollSOFA atH/Palcove LEFT, SAME ROSEMARYplant inTERRACOTTApot RIGHTatbalustrade. ContinuousUPPERbalcony extendsRIGHTpastTWOadditionalbedroomFULLHEIGHTpaleWOODFrenchDOORS/creamstonecolumns/lamps/bougainvillea toDAPHNE'Sterrace2roomsalong. Herdoor reachesFLOOR/whiteMARBLEthreshold, NOTwaisthighWINDOW/ref99sill; ALLfouractorsnowSAMEupperlevel, noBgardenorclimbingagain. H originalBROWN/freckles/CHESTNUTMESSYBUNfewloosewetstrands/LOWBLACKRECTSUNGLASSES/OLIVEopaqueonepiece+PLAIN PALECREAMpareo coversfoldedknees seated/BLUEovalSAPPHIRE-clearhalo onWHITEPLATINUMfinechainFRONTchest/ONEclearhaloDIAMOND ANATOMICALLEFT RINGFINGER ONLY/RIGHTPLAIN/BAREwrists/noBLUEearjewel. P originalGREENangular/flatBLACKCHINbobfrontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTSUNGLASSES/OPAQUEBLACKLINENcollaredshirt+CREAMshorts/ALLFINGERSPLAIN/no band-ring-stone/ONEfineWHITEGOLDchainTHREE H R PcharmsLEFTWRIST ONLY/RIGHTwristBARE/BAREneck. First105–106 H/PseatedOWNendsSOFA/GAP, handsOWNlaps(RIGHTplainPpalmontopcoversLEFTfingers)orBELOWCROP. 107Pstands-rightandbrieflybrushesHhand, 108PreturnsSITS CLOSERafterHinvites: HLEFT diamondhandinterlacesP RIGHTPLAINhand, PLEFTHRPwristonfarOWNlap, noP ring orHbracelet. HthumbcaressesPknuckles.\nBLAISE BLACKskin/DARKBROWNeyes(notGREEN)/shortBLACKtwists/LOWBLACKRECTglasses/BAREHEAD-wrists-fingers/WHITE-IVORYwrinkledLINENopen-collarshirt/NAVYlongtrousers/CREAMloafers/ONE SMALLGREENLEAF FRONTALRIGHTtwist. Bstandingbeforecouple105thenwalksRIGHTtowardDaphdoor later, nochild/hat/Vhug. DAPHNE LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDchain-tinyROUNDGOLDpendant/BOTHhandsPLAIN/no ring/bracelets, barefoot, sameface99. Daphfirstappears105p6atOPENFULLHEIGHTFrenchDOORarmsCROSSED overopaqueclothedchest (handsunderoppositebiceps/noextraactors), remainssternnotcaricature, NOchanging/nuditydepicted. Daphclosesdoor106end, opensagain108start. H/PremainSOFAuntil107Pstands. Noactualthrow/fall/attack; onlyfictionalhumorousWORDS/Bknockswooddoor, Hlaughs. NOchildren/elfs/olderparents/Viscontis/partyboat/flashbacks, infantsEirena-Robin/Chiara-Ari/Draco-ScorpiusOFFSCREENunchanged. Ownfaces/wardrobe/naturalfivefingers/oneeachactor, everydayfullycoveredrelationshipcomedy.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 107». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: BlooksatCLOSED DaphFrenchDOORthenbackLEFTtowardH/P, ONEfullshortregretfulline/tailB. WHITErumpledLINEN/NAVYpants/CREAMloafers/ONEGREENleaf-right/BLACKskin-twists/BROWN-lowRECTglasses. NoDaphoutside.\nBalloon tail to Blaise. Print ALL verbatim «No debí detenerme.».\nPANEL 2: PheadshouldersfromRIGHTsofaendraisesONEbrow/shortfullquestion toB farRIGHT. HLEFTedgecropifneeded/nohandviews/rings.PownGREEN/BLACKbob/barrette/LOWRECTglasses/blackshirt, GAPunchanged.\nBalloon tail to Pansy. Print ALL verbatim «¿Acabas de descubrirlo?».\nPANEL 3: FULLWIDTH B RUNSremainingfewstepstoDaphFrenchDOOR RIGHT andpleadsONElargeballoon ALLFOURexclamationsANDSpanishtranslation, noabbreviation. EndswithonePALMagainstWOODdoor ratherthanduplicatingBpositions/arms. ExactWHITEwrinkledshirt/greenleaf/blacktwistsbrown eyes, noactualPpunishmentorviolentflashback depicted.\nBalloon tail to Blaise. Print ALL verbatim «¡Amore mio! (¡Amor mío!) ¡Me arrepiento de haber interferido! ¡No volveré a hacerlo! ¡Hermione puede castigarla como quiera durante el resto de las vacaciones!».\nPANEL 4: HletsoutanotherLAUGHsource665, PlooksatherbrieflythenbackBwithmuchlessconvincingwarningeyes. PONEfullsource sentence/tailP, headshoulderstwoshotHLEFT/Pright/CREAMsofa/GAP/ownhandsbelowcrop. OnlyWORDSofbanter,noactualthrow/force.\nBalloon tail to Pansy. Print ALL verbatim «Voy a ayudarte a regresar al jardín.».\nPANEL 5: BknocksSAMECLOSEDWOODDOORwithONEOPENPALM, callsALLTWOsource sentences ONEclearballoon tailB, WHITEshirt/brown-blackidentity/ONEgreenleaf. DaphstillINSIDEnotvisible, noPthrow/fall/otherpeople.\nBalloon tail to Blaise. Print ALL verbatim «¡Daphne, por favor! ¡Abre antes de que Pansy me arroje por la terraza!».\nPANEL 6: HfarLEFTsofa LAUGHS/leansforwardmodestlyCREAMpareokneescovered; BforegroundnearCLOSEDdoorRIGHTturnsLEFTandpointsatHwithONEhand, TWOshortsentencesONEBballoon. CorrectBtailnotH/P. Pstillseatedabouttorisenextpanel.GardenNOTcurrentlevel/noextras.\nBalloon tail to Blaise. Print ALL verbatim «Está riendo. Funcionó.».\nPANEL 7: FULLWIDTH SOURCE666PSTANDSfromRIGHTsofaend/walksRIGHTtowardB-Daphdoor, brieflybrushesH LEFTdiamondHANDwithP RIGHTPLAINfingertipswhilepassing. HremainsSEATEDLEFT/kneesCOVEREDcream/OLIVEonepiece/sapphire. PownLEFTfineHRP handnearOWNside, RIGHTwristBARE/NOfingerrings.HLEFTONEdiamondonly/RIGHTplain. Exactly2handsinteractONEHleft+ONEPright/noextraarms, gentlebriefbrushNOTinterlacingyet.PturnstowardB ONEballoonALLTWOwarning sentences.Canonhandreferencecanbeguidanceonly.\nBalloon tail to Pansy. Print ALL verbatim «No confundas su risa con que estás a salvo. Te quedan cinco segundos.».\nPANEL 8: BmoreurgentpalmknockatCLOSEDdoorONEpose/2normalarms, saysFULLItalianterm+SPANISHtranslation+lastSpanishsentence. ONEGREENleaf/brown eyes/WHITEshirt.OthersOFFCROPavoidscloningPseatedandwalking.FULLHEIGHTDOORtoprivateROOMnotwindow.\nBalloon tail to Blaise. Print ALL verbatim «¡Mia dolcezza! (¡Dulzura mía!) ¡La situación acaba de volverse urgente!».\nPANEL 9: WORDLESS HseatedaloneOWNLEFTsofaend/EMPTYRIGHTcushionwherePjustleft, softsmileafterlaughter, gazeRIGHTtowardsP/Boffscreen.DiamondLEFTonlywhenvisible/blueSAPPHIRE/OLIVE-CREAMpareo.BlaiseandPansy offcropmoving/atdoorRIGHT, noPcloneinEMPTYseat.Noextraquotes/dooropeninguntil108p1.",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p106.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p100_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\pansy-manos-sin-anillos-2026-11-17.png"
+          ],
+          "generatedMaster": "exec-a9737d0a-d3ed-4843-a8c4-fbe1634e4c15.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. EDIT the supplied complete Spanish comic page107, preserve entire1024x1536page and all9panels pixelclosely. SINGLE tiny balloon-outline correction ONLY in PANEL4 (thirdrow LEFT, two women, approximately x205–350 y545–675): balloon text exactly «Voy a ayudarte a regresar al jardín.» is spoken ONLYby PANSY, the BLACKbob woman on theRIGHT. Currently balloon has TWO tails. REMOVE ONLYthe LEFT tail pointingto laughing CHESTNUTbun Hermione atx208y667, restore smooth oval edge there and matching BLUEsea behind it; KEEP ONLYone RIGHTtail clearly towardPANSY mouth. Do not move/alter any words/accents/lettering/otherballoons. Preserve both faces, eyes, poses, hair, laugh, blackglasses, all panels/layout/header, colors and lineart; especially preserve PERFECT panel7 handbrush (HLEFToneDIAMOND/P RIGHTbarefingers/P LEFTfineHRPbracelet) and panel9HsingleLEFTdiamond. KeepBlaise brown eyes/greenleaf/white shirt and entirearchitecture/door/sofa. No other changes.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a9737d0a-d3ed-4843-a8c4-fbe1634e4c15.png"
+          ],
+          "generatedMaster": "exec-3e864caf-292e-4472-ae87-13d807568b38.png"
+        }
+      ]
+    },
+    {
+      "page": 108,
+      "image": "paginas/c13-p108.webp",
+      "sourcePdfPages": [
+        666,
+        667
+      ],
+      "summary": "Hermione llama a Pansy de vuelta al sillón y le ofrece la mano. Daphne concede a Blaise un minuto para explicarse, y él comienza por lo ocurrido antes de su relación.",
+      "panels": [
+        {
+          "scene": "WORDLESS DaphopensSAMEFULLHEIGHTFrenchDOOR onRIGHTuppergallery justbeforePcanreachB. DaphBLUE/LONGWETBLONDE/TURQonepiece+TURQpareo/armsCROSSED standsfloorlevelunderframe. BWHITEshirt/greenleafkeepsONEhandraisedbeforewood, PBLACKshirt-GREEN arrivesclosebehindhim butdoesNOTgraborpush. OnlyTHREEatdoor/HfarLEFTsofaoffcrop, noinjury/gardenlevel/window sill."
+        },
+        {
+          "scene": "HfromLEFTSOFA callsPfullTWOpiecesourceutterance, tailH, currentBROWN/freckles/BUN/OLIVE-CREAMcover/sapphire. PortraitorwidewithdistantPdoorRIGHT, noactorlabelprinted/HnotstandingbesideDaphdoor. Handsownlapfornow/ONELEFTdiamondwhenvisible.",
+          "dialogue": [
+            "Hermione: Pansy. Regresa y deja que Blaise hable con Daphne."
+          ],
+          "sourceFragments": [
+            "Pansy",
+            "Regresa y deja que Blaise hable con Daphne."
+          ]
+        },
+        {
+          "scene": "PHEADSHOULDERSnearDaphdoorRIGHTturnsLEFTtowardHonthesofa, ONEcomplete sentence/tailP. Handsbelowcrop/neckBARE/BLACKchinbob-GREEN/LOWRECTglasses/leftbarrette, noactualpunishmentillustration. Bcanbeoffcrop.",
+          "dialogue": [
+            "Pansy: Acaba de ofrecerte la posibilidad de castigarme durante el resto de las vacaciones."
+          ],
+          "sourceFragments": [
+            "Acaba de ofrecerte la posibilidad de castigarme durante el resto de las vacaciones."
+          ]
+        },
+        {
+          "scene": "HseatedLEFTendsoftlyfirm BOTHfullsentencesONEballoon, extendsHER LEFT HAND towardPfartherRIGHTinbeckoninginvitation(notstretchyarmacrossdistance). HLEFTONEclearhaloDIAMOND/anular ONLY, WRISTBARE/RIGHTplain; BLUEsapphirefront/OLIVE-CREAMcoveredknees. Pnotreturneduntilpanel6. NojewelryfromPtransferredH.",
+          "dialogue": [
+            "Hermione: Lo escuché. Y tú no estás en posición de negociar."
+          ],
+          "sourceFragments": [
+            "Lo escuché",
+            "Y tú no estás en posición de negociar."
+          ]
+        },
+        {
+          "scene": "PnoticesBtryinghidesmile, warnsHIMONEfullsentence whileHstilloffershandfromafar. ClearPtail/GREEN-blackbob/blackshirt, notH/Daph. PLAINfingers/LEFTfineHRPonlyifvisible, sourceBsmirknotromanticpose.",
+          "dialogue": [
+            "Pansy: No disfrutes demasiado de esto."
+          ],
+          "sourceFragments": [
+            "No disfrutes demasiado de esto"
+          ]
+        },
+        {
+          "scene": "FULLWIDTH WORDLESS PreturnsSOFAandSITS MUCHCLOSERtoH thanbefore (GAPnowcloses, gentleadjacentbodies/normalfamilyaffection). HLEFT diamondHAND interlacesP RIGHTPLAINHAND betweenonCREAMcushion/lap, HLEFTthumbgentlycaressesPknuckles. ONEpairlinkedhands/H2arms/P2arms/noextrafingers, HONEclearhaloDIAMOND LEFT RINGfinger-only/RIGHTplain/barewrists; P RIGHTwristBARE/ALLfingersPLAIN, PLEFTonefineWHITEGOLDHRPchain onfarOWNlap. HOLIVEonepiece/CREAMpareokneescovered/BUN/BROWN/sapphirefront, PBLACKshirt-CREAMshorts/BLACKchinbob-GREEN/leftbarrette/LOWRECTglasses. Noactualpunishment/hug/sexualactivity, justsourcehandholding/closerseating."
+        },
+        {
+          "scene": "WORDLESS DaphwaitsuntilPseatedagainandfocusesallattentionBatherOPENFULLHEIGHTdoor, armsCROSSED. DaphBLUE-LONGWETBLONDE-TURQ/goldtinyneckpendant/plainfingers/BWHITErumpledshirt-greenleaf-BROWN, currentuppergallery2roomsRIGHT. H/PnowcloseonLEFTsofaoffcropordistantnotcloned."
+        },
+        {
+          "scene": "FULLWIDTH DaphONElargelegibleballoon BOTHCOMPLETEsource sentences extendingPDF666→667, ALLparent-neighbor-discussion/minute/explanation/letenterprivateclauses exact/unabridged. DaphstandingdoorLEFT/BstandingRIGHTinsameshotifpossible/readabletails; noH/Pfullbodyneeded/nobabydrawnfromfamilywords. Onlycurrentclothedconversation.",
+          "dialogue": [
+            "Daphne: Solo abrí porque tus gritos se escuchan en toda la villa y no pienso permitir que nuestros padres y los vecinos continúen enterándose de esta discusión. Tienes un minuto para darme una explicación medianamente decente que justifique dejarte entrar para continuarla en privado."
+          ],
+          "sourceFragments": [
+            "Solo abrí porque tus gritos se escuchan en toda la villa y no pienso permitir que nuestros padres y los vecinos continúen enterándose de esta discusión. Tienes un minuto para darme",
+            "una explicación medianamente decente que justifique dejarte entrar para continuarla en privado."
+          ]
+        },
+        {
+          "scene": "BstraightensbackandanswersONEfullsentence, DARKBROWN/BLACKskin-twists/ONEgreenleaf/WHITEwrinkledLINEN/NAVYtrousers, DaphsternlisteningatdoorBLUE/TURQ. NoValentinaflashback/yacht/romanticactivitydepicted, justhisexactspokenexplanation. CoupleH/Poffcropseatedtogetheralready.",
+          "dialogue": [
+            "Blaise: Lo de Valentina ocurrió una sola vez y fue antes de que tú y yo estuviéramos juntos."
+          ],
+          "sourceFragments": [
+            "Lo de Valentina ocurrió una sola vez y fue antes de que tú y yo estuviéramos juntos."
+          ]
+        }
+      ],
+      "transcript": "Capítulo 13 · 108\n\nHermione llama a Pansy de vuelta al sillón y le ofrece la mano. Daphne concede a Blaise un minuto para explicarse, y él comienza por lo ocurrido antes de su relación.\nHermione: Pansy. Regresa y deja que Blaise hable con Daphne.\nPansy: Acaba de ofrecerte la posibilidad de castigarme durante el resto de las vacaciones.\nHermione: Lo escuché. Y tú no estás en posición de negociar.\nPansy: No disfrutes demasiado de esto.\nDaphne: Solo abrí porque tus gritos se escuchan en toda la villa y no pienso permitir que nuestros padres y los vecinos continúen enterándose de esta discusión. Tienes un minuto para darme una explicación medianamente decente que justifique dejarte entrar para continuarla en privado.\nBlaise: Lo de Valentina ocurrió una sola vez y fue antes de que tú y yo estuviéramos juntos.",
+      "actualPanelCount": 10,
+      "review": "Revisión completa R2: diez viñetas reales, seis turnos íntegros; separado retrato mudo final de Daphne sin añadir diálogo. Dos frases completas de Daphne y sus acentos/colas, dejarte/continuarla confirmados visualmente aunque OCR marque candidatos. P vuelve y se sienta mucho más cerca, mano derecha lisa sostiene izquierda de H con único diamante. Izquierda de P baja al borde y dedos quedan fuera de cuadro, cadena fina solo en esa muñeca; eliminadas bandas espurias originales sin tocar manos unidas. Puerta francesa abre al principio, mismo piso de mármol/galería, Daph rubia húmeda/turquesa/azul/colgante oro, B piel negra/ojos castaños/camisa blanca/hoja, H/P diseños y joyas conservados. Ninguna regresión tras edición.",
+      "workingMaster": ".local/maestros/capitulo-13-continuacion-2026-11-08/c13-p108.png",
+      "sha256": "b0cd33e6206352daab1ca078ad514d2dea708ba4d6afc4b66751b98af027832a",
+      "masterSha256": "eb97a280b67dbe5590736d9a60e494bfd4a478e45dc327dfb58824b60f486535",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "selected": false,
+          "prompt": "Use case: illustration-story. Create ONE complete 9-panel Spanish comic page, portrait1024x1536. Continue supplied APPROVED consecutivepages withsame fine ink/painterlycolor/individual originalfaces/proportions/lineweight, narrowcreamgutters/thinblackrectangularoutlines. Ordinary fullycovered familyrelationship conversation andcare, naturalexpressions andsafeinfantsupport. Faceandshoulderportraitswhereappropriate.\nCurrent approvedrefs retainoriginalchapter1H/Pdesigns: HermioneBROWNeyes/freckles/CHESTNUTcurls(currentBUNwherecalledfor), Pansy angularjaw/GREENalmond/flatBLACKCHINbob/BAREears. Noage/facecloning/redesign. Ownmaturefamilyages remainasrefs. Referenceimage1ispreviousacceptedpage; otherssupplyspecificcontinuity, NOTalloldsceneprops.\nIMAGE1: Immediately preceding APPROVED chapter13 page107: Blaise corre a la puerta de Daphne y pide que vuelva a abrir. La risa de Hermione suaviza la reacción de Pansy, aunque ella se levanta para acercarse a él. Preserve individual faces, permanent LEFT jewels and the painterly style. Hermione BROWN eyes, Pansy GREEN, Robin GREEN, Arianna BLUE, Daphne BLUE, Blaise/Chiara DARK BROWN, Astoria/Draco STEEL GRAY-BLUE. The NEW page setting and scenes control current clothes, hairstyle, eyewear, infant holders/support, drinks, location and time jump; do not retain old clothing, baby furniture or architecture after an explicit source change. Where the scene continues, maintain the same physical setting and object proportions. No extra people or cloned infants.\nIMAGE2: APPROVED106 supplies current DAPHNE face/BLUEeyes/LONGWETBLONDE/TURQonepiece-TURQpareo/fineGOLDneckpendant, FULLHEIGHTpaleWOODFrenchDOOR toWHITEMARBLEfloor/SAMEUPPERbalcony, andBROWNeyedBLACKtwistB/WHITEshirt-NAVYtrousers-CREAMloafers-GREENleaf. Door OPENS at108firstpanel; no old lowwindow. H/P fromimage1 unchanged.\nIMAGE3: PRIVATE hand-contact reference: H LEFT hand ONE clear halo diamond on LEFT RING finger; P RIGHT BLACKLINENcuff ALLplainfingers and BAREwrist. P LEFT HRP wrist belongs OTHERarm onownlap, notthesejoinedhands. ONLYjewelownership/handcontact, adaptfineinkstyle/currentCREAMsofa; no labels or photorealchartcopied.\nSOURCE664remaining–667 firstline SAMEUPPERPRIVATEterrace/GALLERY THREEFLOORSabovegarden, WHITE MARBLEfloor/WHITE STONEclassicalwaisthighbalustrade/CREAMawning-sheercurtains/BLUEsea-farboats/coast/brightAFTERNOONDAYLIGHT. ONEWIDE2seatCREAMcushions-DARKWROUGHTIRONscrollSOFA atH/Palcove LEFT, SAME ROSEMARYplant inTERRACOTTApot RIGHTatbalustrade. ContinuousUPPERbalcony extendsRIGHTpastTWOadditionalbedroomFULLHEIGHTpaleWOODFrenchDOORS/creamstonecolumns/lamps/bougainvillea toDAPHNE'Sterrace2roomsalong. Herdoor reachesFLOOR/whiteMARBLEthreshold, NOTwaisthighWINDOW/ref99sill; ALLfouractorsnowSAMEupperlevel, noBgardenorclimbingagain. H originalBROWN/freckles/CHESTNUTMESSYBUNfewloosewetstrands/LOWBLACKRECTSUNGLASSES/OLIVEopaqueonepiece+PLAIN PALECREAMpareo coversfoldedknees seated/BLUEovalSAPPHIRE-clearhalo onWHITEPLATINUMfinechainFRONTchest/ONEclearhaloDIAMOND ANATOMICALLEFT RINGFINGER ONLY/RIGHTPLAIN/BAREwrists/noBLUEearjewel. P originalGREENangular/flatBLACKCHINbobfrontlocksoverLOBES/LEFTgoldbarrette/LOWBLACKRECTSUNGLASSES/OPAQUEBLACKLINENcollaredshirt+CREAMshorts/ALLFINGERSPLAIN/no band-ring-stone/ONEfineWHITEGOLDchainTHREE H R PcharmsLEFTWRIST ONLY/RIGHTwristBARE/BAREneck. First105–106 H/PseatedOWNendsSOFA/GAP, handsOWNlaps(RIGHTplainPpalmontopcoversLEFTfingers)orBELOWCROP. 107Pstands-rightandbrieflybrushesHhand, 108PreturnsSITS CLOSERafterHinvites: HLEFT diamondhandinterlacesP RIGHTPLAINhand, PLEFTHRPwristonfarOWNlap, noP ring orHbracelet. HthumbcaressesPknuckles.\nBLAISE BLACKskin/DARKBROWNeyes(notGREEN)/shortBLACKtwists/LOWBLACKRECTglasses/BAREHEAD-wrists-fingers/WHITE-IVORYwrinkledLINENopen-collarshirt/NAVYlongtrousers/CREAMloafers/ONE SMALLGREENLEAF FRONTALRIGHTtwist. Bstandingbeforecouple105thenwalksRIGHTtowardDaphdoor later, nochild/hat/Vhug. DAPHNE LONGWETBLONDE/BLUEeyes/TURQUOISEonepiece+TURQUOISEpareo/fineGOLDchain-tinyROUNDGOLDpendant/BOTHhandsPLAIN/no ring/bracelets, barefoot, sameface99. Daphfirstappears105p6atOPENFULLHEIGHTFrenchDOORarmsCROSSED overopaqueclothedchest (handsunderoppositebiceps/noextraactors), remainssternnotcaricature, NOchanging/nuditydepicted. Daphclosesdoor106end, opensagain108start. H/PremainSOFAuntil107Pstands. Noactualthrow/fall/attack; onlyfictionalhumorousWORDS/Bknockswooddoor, Hlaughs. NOchildren/elfs/olderparents/Viscontis/partyboat/flashbacks, infantsEirena-Robin/Chiara-Ari/Draco-ScorpiusOFFSCREENunchanged. Ownfaces/wardrobe/naturalfivefingers/oneeachactor, everydayfullycoveredrelationshipcomedy.\nH jewelry ONLYfrontalmidnightBLUEsapphireCLEARhaloWHITEPLATINUMchain andONEclearhaloDIAMOND onLEFT RINGfinger/RIGHTplain/BAREwrists. PALLfingersPLAIN/ONEfineWHITEGOLDHRPchain LEFTWRISTonly/BAREneck-ears. Matchactualpresentholders/attireinthecurrentpanel, noextrapeople/limbs. InfantsHUMANsmoothskin/naturaltinyhandsandfeet, textureonblankets/clothesonly.\nSmalltop-leftcreamheader print exactly «Capítulo 13 · 108». Print ONLYthequotedsourcewordsbelow+header, noauthorlabels/names/footer/watermark. ALLSpanishaccents/punctuation/parentheses/readabletexts, completeunabridgedutterances. Balloonstospecifiedspeakers/cleartailsnevernamedlabels. Readlefttoright/topbottom, stagefirstspeakerLEFT/replyRIGHTorbelow, nofaceshiddenbyballoons.\nPANEL 1: WORDLESS DaphopensSAMEFULLHEIGHTFrenchDOOR onRIGHTuppergallery justbeforePcanreachB. DaphBLUE/LONGWETBLONDE/TURQonepiece+TURQpareo/armsCROSSED standsfloorlevelunderframe. BWHITEshirt/greenleafkeepsONEhandraisedbeforewood, PBLACKshirt-GREEN arrivesclosebehindhim butdoesNOTgraborpush. OnlyTHREEatdoor/HfarLEFTsofaoffcrop, noinjury/gardenlevel/window sill.\nPANEL 2: HfromLEFTSOFA callsPfullTWOpiecesourceutterance, tailH, currentBROWN/freckles/BUN/OLIVE-CREAMcover/sapphire. PortraitorwidewithdistantPdoorRIGHT, noactorlabelprinted/HnotstandingbesideDaphdoor. Handsownlapfornow/ONELEFTdiamondwhenvisible.\nBalloon tail to Hermione. Print ALL verbatim «Pansy. Regresa y deja que Blaise hable con Daphne.».\nPANEL 3: PHEADSHOULDERSnearDaphdoorRIGHTturnsLEFTtowardHonthesofa, ONEcomplete sentence/tailP. Handsbelowcrop/neckBARE/BLACKchinbob-GREEN/LOWRECTglasses/leftbarrette, noactualpunishmentillustration. Bcanbeoffcrop.\nBalloon tail to Pansy. Print ALL verbatim «Acaba de ofrecerte la posibilidad de castigarme durante el resto de las vacaciones.».\nPANEL 4: HseatedLEFTendsoftlyfirm BOTHfullsentencesONEballoon, extendsHER LEFT HAND towardPfartherRIGHTinbeckoninginvitation(notstretchyarmacrossdistance). HLEFTONEclearhaloDIAMOND/anular ONLY, WRISTBARE/RIGHTplain; BLUEsapphirefront/OLIVE-CREAMcoveredknees. Pnotreturneduntilpanel6. NojewelryfromPtransferredH.\nBalloon tail to Hermione. Print ALL verbatim «Lo escuché. Y tú no estás en posición de negociar.».\nPANEL 5: PnoticesBtryinghidesmile, warnsHIMONEfullsentence whileHstilloffershandfromafar. ClearPtail/GREEN-blackbob/blackshirt, notH/Daph. PLAINfingers/LEFTfineHRPonlyifvisible, sourceBsmirknotromanticpose.\nBalloon tail to Pansy. Print ALL verbatim «No disfrutes demasiado de esto.».\nPANEL 6: FULLWIDTH WORDLESS PreturnsSOFAandSITS MUCHCLOSERtoH thanbefore (GAPnowcloses, gentleadjacentbodies/normalfamilyaffection). HLEFT diamondHAND interlacesP RIGHTPLAINHAND betweenonCREAMcushion/lap, HLEFTthumbgentlycaressesPknuckles. ONEpairlinkedhands/H2arms/P2arms/noextrafingers, HONEclearhaloDIAMOND LEFT RINGfinger-only/RIGHTplain/barewrists; P RIGHTwristBARE/ALLfingersPLAIN, PLEFTonefineWHITEGOLDHRPchain onfarOWNlap. HOLIVEonepiece/CREAMpareokneescovered/BUN/BROWN/sapphirefront, PBLACKshirt-CREAMshorts/BLACKchinbob-GREEN/leftbarrette/LOWRECTglasses. Noactualpunishment/hug/sexualactivity, justsourcehandholding/closerseating.\nPANEL 7: WORDLESS DaphwaitsuntilPseatedagainandfocusesallattentionBatherOPENFULLHEIGHTdoor, armsCROSSED. DaphBLUE-LONGWETBLONDE-TURQ/goldtinyneckpendant/plainfingers/BWHITErumpledshirt-greenleaf-BROWN, currentuppergallery2roomsRIGHT. H/PnowcloseonLEFTsofaoffcropordistantnotcloned.\nPANEL 8: FULLWIDTH DaphONElargelegibleballoon BOTHCOMPLETEsource sentences extendingPDF666→667, ALLparent-neighbor-discussion/minute/explanation/letenterprivateclauses exact/unabridged. DaphstandingdoorLEFT/BstandingRIGHTinsameshotifpossible/readabletails; noH/Pfullbodyneeded/nobabydrawnfromfamilywords. Onlycurrentclothedconversation.\nBalloon tail to Daphne. Print ALL verbatim «Solo abrí porque tus gritos se escuchan en toda la villa y no pienso permitir que nuestros padres y los vecinos continúen enterándose de esta discusión. Tienes un minuto para darme una explicación medianamente decente que justifique dejarte entrar para continuarla en privado.».\nPANEL 9: BstraightensbackandanswersONEfullsentence, DARKBROWN/BLACKskin-twists/ONEgreenleaf/WHITEwrinkledLINEN/NAVYtrousers, DaphsternlisteningatdoorBLUE/TURQ. NoValentinaflashback/yacht/romanticactivitydepicted, justhisexactspokenexplanation. CoupleH/Poffcropseatedtogetheralready.\nBalloon tail to Blaise. Print ALL verbatim «Lo de Valentina ocurrió una sola vez y fue antes de que tú y yo estuviéramos juntos.».",
+          "references": [
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p107_r2.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\maestros\\capitulo-13-borradores-2026-11-11\\c13-p106.png",
+            "F:\\Proyectos\\dos-parkinson-y-medio\\.local\\referencias\\canon-manos-unidas-h-izquierda-p-derecha-2026-11-18.png"
+          ],
+          "generatedMaster": "exec-f0f57f65-eaa1-4691-9a53-304c788bef11.png"
+        },
+        {
+          "selected": true,
+          "prompt": "Use case: precise-object-edit. Edit supplied complete Spanish comic page108 ONLYONEsmall pose detail in PANEL6 (large middle-right panel with H/P seated close, approximately x375–1014 y560–927). Pansy is BLACKBOB/BLACKLINEN woman onRIGHT. Her LEFT hand rests on her OWN lap at bottom-right (x750–820 y875–926), currently displaying unwanted tiny white finger bands. Change ONLYthat LEFTforearm/ownlap pose so the LEFT wrist with its SINGLE fineWHITEGOLDHRPchain remains justinside BOTTOMedge, but ALL FIVE LEFTFINGERS are LOWEREDcompletely BELOW PANELBOTTOM/cropped out of view. Wrist and forearm anatomically connect naturally. Do not merely erase highlights; move fingers below border so no ringedfingers remain. Keep Pansy's RIGHT hand holding Hermione's LEFT hand atx590–685 y812–874 PERFECTLYUNCHANGED: HONEclearDIAMONDonly, P RIGHTplain/barewrist. Keep ALL otherpanel6 faces/eyes/glasses/heads/clothes/blueSAPPHIRE/creamsofa/closeposture exactlysame. Preserve ENTIRErestpage, allTENpanels, ALLSpanishtextverbatim including fullDaphne's two sentences, ALLballoons/colortones/accents/header/architecture. No other changes; no addedbands/bracelets/earjewels.",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f0f57f65-eaa1-4691-9a53-304c788bef11.png"
+          ],
+          "generatedMaster": "exec-a12ef745-ccd2-4f40-9c1c-4c4b75b597e4.png"
+        }
+      ]
+    }
+  ]
+}
