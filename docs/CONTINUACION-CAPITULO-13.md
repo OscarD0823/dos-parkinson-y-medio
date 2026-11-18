@@ -245,3 +245,14 @@ La extensión prevista es de unas **180 ilustraciones**, una estimación provisi
 | 88 | 654 | Hermione deja a Robin con Pansy y se marcha al velero. Daphne entrega a Arianna a Blaise y sigue a Hermione. |
 
 [Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-85-88.json).
+
+## Páginas 89–92
+
+| Página | Fuente PDF | Escena |
+| --- | --- | --- |
+| 89 | 655 | Astoria recibe a Scorpius y sigue a Hermione y Daphne al velero. Pansy y Blaise quedan con Robin y Arianna mientras Draco propone recoger las cosas. |
+| 90 | 655–656 | Durante el regreso se reorganiza el cuidado de los bebés. En la villa, los cinco adultos conversan hasta que Hermione y Daphne atraviesan la sala sin detenerse. |
+| 91 | 656–657 | Blaise sigue a Daphne e intenta explicar lo ocurrido, en italiano y español. Pansy llega con Robin e intenta defenderse de su mirada. |
+| 92 | 657 | Pansy se encuentra con los adultos reunidos. Eirena recibe a Robin; Draco y Astoria llegan con Scorpius y Arianna. |
+
+[Guiones, prompts, revisión y maestros](prompts-capitulo-13-paginas-89-92.json).
