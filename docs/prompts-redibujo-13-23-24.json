@@ -1,0 +1,223 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 23,
+  "end": 24,
+  "date": "2026-11-20",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 23,
+      "original": "paginas/c13-p023.webp",
+      "image": "paginas/c13-p023-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        593,
+        594
+      ],
+      "summary": "Hermione descubre la pérgola, las flores flotantes y el banquete. Blaise acomoda la silla de Daphne y Pansy hace lo mismo con Hermione.",
+      "panels": [
+        {
+          "scene": "Full width entry into the airy dining room shown in previous page's last wide view. Same outdoor floor, large timber table under mild light, detached pink/white/yellow blossoms float under the shade, five adult visitors and two grandmothers carrying their babies (seven adults) approaching. View from dining area into airy archway, no dialogue and no stroller."
+        },
+        {
+          "scene": "Detailed plausible still life on SAME table: handpainted BLUE/YELLOWrim WHITE dishes, mussels/clams/calamari/shrimp/datterini tomato platters; nearby fresh pasta/fish/thin pizzas zucchini flowers/smoked cheese/anchovy/lemon. Food human-size, no giant utensils/flowers/baby or extra table. No text."
+        },
+        {
+          "scene": "Second close still life SAME setting: sliced warmbread, cheeseboards/figs/pears/grapes/walnuts/candiedfruit, clearstemware catches light, cream runner and darkgrain visible. Tiny floating flowers ABOVE table. No text."
+        },
+        {
+          "scene": "Wide diagonal shot along SAME table at foreground. Eirena puts Robin into LEFT wood highchair between her and Markus; baby green eyes and chestnut curls, white cuff blue leg, NO bib yet. Chiara puts GOLDEN short-haired BLUE eyed Arianna safely into separate lemon chair to her right, two pale bows and olive. One or two small tan adult house elves in cream and narrow gold stand beside chairs, clearly much shorter than standing human, supporting the chair legs not taking the babies. No dialogue. Table single, no other infants or guests."
+        },
+        {
+          "scene": "Close portrait group still standing at arch by lush white blossoms and blue sea. Blaise left with compact black curls and olive linen first says «Sabía que te gustaría.». Hermione in ivory with brown eyes and realistic subtle freckles has next exact balloon «Es precioso. No sé hacia dónde mirar primero.». Pansy in blue on right, short asymmetric black bob low square angles and tapered chin, quietly admires her. Background female with golden hair appears only if seen far behind, no other dialogue.",
+          "dialogue": [
+            "Blaise: Sabía que te gustaría.",
+            "Hermione: Es precioso. No sé hacia dónde mirar primero."
+          ],
+          "sourceFragments": [
+            "Sabía que te gustaría",
+            "Es precioso",
+            "No sé hacia dónde mirar primero"
+          ]
+        },
+        {
+          "scene": "B draws chair for Daphne at one middle LONGside; she gathers peach skirt and sits smiling, B gives normal brief affectionate kiss to temple then takes adjacent seat. H/P reserved chairs directly opposite. Table and seating layout consistent, no text."
+        },
+        {
+          "scene": "Silent panels sequence. Pansy draws woven chair across from the pair; Pansy STANDS at left in blue, Hermione STANDS at right about to sit. Their feet planted and body heights correspond. Hermione places her own LEFT hand briefly over Pansy's plain hand gripping chairback, her sole oval halo diamond on her own LEFT ring finger. Pansy's other arm and subtle left H R P bracelet stay separate, she wears no ring. No blurs or merged fingers. Faces same, both fully dressed."
+        },
+        {
+          "scene": "Silent closing with Hermione now seated facing the table, Pansy behind with two clear blue-sleeved arms, one hand keeps the cane chair gently close to walnut table; other hand frees a curl caught under the back of Hermione's ivory collar. The hair falls naturally, single front blue oval pendant and her own one ring if seen. Daphne and Blaise smile to each other seated side by side directly across the long table. Consistent flower petals, food, two highchairs at the ends if seen."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 23\n\nHermione descubre la pérgola, las flores flotantes y el banquete. Blaise acomoda la silla de Daphne y Pansy hace lo mismo con Hermione.\nBlaise: Sabía que te gustaría.\nHermione: Es precioso. No sé hacia dónde mirar primero.",
+      "review": "Ocho viñetas y dos turnos exactos de PDF593–594, cotejo con OCR. El banquete conserva una sola mesa larga, vajilla azul y amarilla, caminos crema, pérgola y flores flotantes. Eirena llega con Robin y Chiara con Arianna; luego pasan a sillas distintas con limones. Se ajustaron escala, apoyo y pies humanos de Robin. Hermione sigue de pie cuando toca el respaldo con su mano izquierda y diamante; Pansy tiene sus dedos lisos y cadena en su otra mano izquierda. Se cotejaron las dos acciones finales, elfos, asientos, caras, entorno y bordes.",
+      "reviewDate": "2026-11-20",
+      "sha256": "74f980ad20599bd0e9647b8c16f463192a266485f51aa28a13d85fde92e9f3c1",
+      "masterSha256": "b1fa1405c271786a37d6de21bd6791138723c5efc61cfdfb5a754ecb5bbae14c",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p023-redibujo12-v3.png",
+      "selectedAttempt": "c13_p023_redibujo12_v3.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p023_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p022-redibujo12-v5.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 23». Exactly 8 editorial panels. Five rows: full 1, next 2 with 3 side-by-side still lifes, full 4, split 5+6, split 7+8. Exactly eight rectangles. The only dialogue is in panel 5, two clear complete balloons. No other text besides title. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Hand geometry and separation of ring and bracelet only. Preserve the new dining scene's sleeves and poses.\nUse the exact same pale wood pergola, stone arches, blue and yellow plates, tile and same long table seen in the big bottom panel of the new page 22. Both infants change from being safely held to safely seated in their OWN separate wood highchair with painted lemon crest, cushion and small close-fitting tray. Robin (chestnut curls, green eyes, white shirt and blue pants) sits between Markus and Eirena near one end. Arianna (pale blonde short curls, blue eyes, two white bows and olive linen) sits just on the other side of Chiara. Do not duplicate a child anywhere. Both babies human and small compared with the grandmothers. Same faces of characters, exact jewelry and clothes. Markus gray temples, short dark goatee, black shirt, smoked glasses and beige trousers. Eirena in dark terracotta dress, blue drop earrings, low black loose updo, green eyes. Chiara carries the baby only until seated, then chairs support both infants. The serving elves adult bodies with tan skin and narrow to big pointed ears are markedly shorter than human adults in the exact same depth plane, and wear cream with gold piping coordinating with page 21. No literal gold fairy dust; show individual suspended natural flowers clearly separate from roof. Use blank quiet panels for the gestures, only the two exact balloons in fifth.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Full width entry into the airy dining room shown in previous page's last wide view. Same outdoor floor, large timber table under mild light, detached pink/white/yellow blossoms float under the shade, five adult visitors and two grandmothers carrying their babies (seven adults) approaching. View from dining area into airy archway, no dialogue and no stroller.\nPanel 2: Detailed plausible still life on SAME table: handpainted BLUE/YELLOWrim WHITE dishes, mussels/clams/calamari/shrimp/datterini tomato platters; nearby fresh pasta/fish/thin pizzas zucchini flowers/smoked cheese/anchovy/lemon. Food human-size, no giant utensils/flowers/baby or extra table. No text.\nPanel 3: Second close still life SAME setting: sliced warmbread, cheeseboards/figs/pears/grapes/walnuts/candiedfruit, clearstemware catches light, cream runner and darkgrain visible. Tiny floating flowers ABOVE table. No text.\nPanel 4: Wide diagonal shot along SAME table at foreground. Eirena puts Robin into LEFT wood highchair between her and Markus; baby green eyes and chestnut curls, white cuff blue leg, NO bib yet. Chiara puts GOLDEN short-haired BLUE eyed Arianna safely into separate lemon chair to her right, two pale bows and olive. One or two small tan adult house elves in cream and narrow gold stand beside chairs, clearly much shorter than standing human, supporting the chair legs not taking the babies. No dialogue. Table single, no other infants or guests.\nPanel 5: Close portrait group still standing at arch by lush white blossoms and blue sea. Blaise left with compact black curls and olive linen first says «Sabía que te gustaría.». Hermione in ivory with brown eyes and realistic subtle freckles has next exact balloon «Es precioso. No sé hacia dónde mirar primero.». Pansy in blue on right, short asymmetric black bob low square angles and tapered chin, quietly admires her. Background female with golden hair appears only if seen far behind, no other dialogue.\nBlaise «Sabía que te gustaría.»\nHermione «Es precioso. No sé hacia dónde mirar primero.»\nPanel 6: B draws chair for Daphne at one middle LONGside; she gathers peach skirt and sits smiling, B gives normal brief affectionate kiss to temple then takes adjacent seat. H/P reserved chairs directly opposite. Table and seating layout consistent, no text.\nPanel 7: Silent panels sequence. Pansy draws woven chair across from the pair; Pansy STANDS at left in blue, Hermione STANDS at right about to sit. Their feet planted and body heights correspond. Hermione places her own LEFT hand briefly over Pansy's plain hand gripping chairback, her sole oval halo diamond on her own LEFT ring finger. Pansy's other arm and subtle left H R P bracelet stay separate, she wears no ring. No blurs or merged fingers. Faces same, both fully dressed.\nPanel 8: Silent closing with Hermione now seated facing the table, Pansy behind with two clear blue-sleeved arms, one hand keeps the cane chair gently close to walnut table; other hand frees a curl caught under the back of Hermione's ivory collar. The hair falls naturally, single front blue oval pendant and her own one ring if seen. Daphne and Blaise smile to each other seated side by side directly across the long table. Consistent flower petals, food, two highchairs at the ends if seen.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b09e3ac7-15c4-48a7-b99f-9c465252ae28.png"
+        },
+        {
+          "name": "c13_p023_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b09e3ac7-15c4-48a7-b99f-9c465252ae28.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p021-redibujo12-v8.png"
+          ],
+          "prompt": "Edit ONLY two panels of Image 1, the complete finished Spanish comic 13 · 23. Keep same 1024×1536 size, exactly eight framed rectangles, margins, title, the two speech balloons with exact same words and accents, scenery and composition. (1) In opening panorama at very top, Eirena in rust terracotta at left with dark loose updo and blue hanging earrings must visibly carry Robin securely, as she did on the previous page: his human head small with short chestnut curls, green eyes, long-sleeved white shirt, blue trousers. Add this one child against her chest, Eirena's near arm and hand across his hips, other palm lightly supports his upper back, both child legs relaxed. He is not a new extra person: this is the same distinct child already in the left highchair later. Chiara with champagne hat continues to hold one different blonde child in olive, blue eyes, two short bows. Keep the other people and setting in the first rectangle. (2) In the silent bottom-left panel, rearrange positions of ONLY these two people: Hermione in ivory with brown eyes and chestnut curls stands to LEFT of frame, Pansy in sky-blue and cream trousers with angular green eyes and black bob stands to RIGHT, both STILL standing. At center their two hands share the curved wood chair back. Hermione uses her anatomical LEFT hand from ivory sleeve (right side of her body to viewer) and single small halo diamond on its ring finger. Her fingers gently rest on Pansy's plain RIGHT hand from blue sleeve, which already grips the chair. Only two hands on this chair. Pansy's left hand rests somewhere separate at her side if visible with her thin left H/R/P chain. One ring only, two different owners. Preserve wardrobe and adult anatomy. All other panels including baby chairs, table and last panel untouched. Copy complete borders and all art including bottom line.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a75ca782-c181-4d64-9546-bc58d420bdab.png"
+        },
+        {
+          "name": "c13_p023_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a75ca782-c181-4d64-9546-bc58d420bdab.png"
+          ],
+          "prompt": "One small edit in the very top panorama of this complete Spanish family comic, heading «Capítulo 13 · 23». Keep 1024×1536, complete margins and frame borders, exactly 8 panels, the two full Spanish balloons, all adult poses and identities and all other art. Robin is the small chestnut-curled child with white shirt held by grandmother Eirena wearing terracotta and blue earrings on the left in the first panoramic frame. Show a real little infant like his very same form in the highchair in row 3. In the top frame only, slightly shorten his lower legs so he's just the same infant scale as the pale-blonde child in olive nearby. Replace his blue sneakers with his little natural bare feet, as in his later view, and keep his blue trousers and white shirt and correct green irises. The grandmother securely supports him with one arm beneath his hips and another hand on his little back, same position. No changes to Arianna, the four other silent panes, hands at the chair, or any speech, border and lettering. Output whole page as target.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1ebe2145-d46c-4641-9f27-5412adcb0135.png"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "original": "paginas/c13-p024.webp",
+      "image": "paginas/c13-p024-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        594,
+        595
+      ],
+      "summary": "Eirena elige un babero blanco y azul con limones para Robin. Markus hace girar las flores y Pansy pide que los dos bebés puedan tocarlas.",
+      "panels": [
+        {
+          "scene": "Eirena sits near Robin's little lemon chair. One close view of her fastening his WHITE BLUE-TRIM lemon bib at the neck, natural hands. Same one small green-eyed Robin smiling up at her. Markus in black to the right of his chair, Pansy in blue at left facing screen right, left barrette can be hidden. Two spare white bibs on far edge of table (one olive leaf motif, one blue/yellow flower). Pansy alone asks in her own balloon.",
+          "dialogue": [
+            "Pansy: Ese babero no estaba entre las cosas que empacamos."
+          ],
+          "sourceFragments": [
+            "Ese babero no estaba entre las cosas que empacamos"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Eirena LEFT finishes smoothing bib and answers P RIGHT across near side, same terracotta/updo/greeneyes. Wine/tomato/olive dishes visible with naturalscale, baby only food-safe empty owntray. Roomy full balloon.",
+          "dialogue": [
+            "Eirena: Lo mandé traer después de verlo llegar. Hay tomates, vino y aceite sobre esta mesa. No pienso permitir que una camisa de lino blanco se enfrente sola a todo eso."
+          ],
+          "sourceFragments": [
+            "Lo mandé traer después de verlo llegar",
+            "Hay tomates, vino y aceite sobre esta mesa. No pienso permitir que una camisa de lino blanco se enfrente sola a todo eso"
+          ]
+        },
+        {
+          "scene": "Pansy LEFT studies tiny BLUE edging/lemons and approves, Eirena RIGHT replies satisfied then kisses Robin cheek normally. Two clear full source-order balloons.",
+          "dialogue": [
+            "Pansy: Hiciste bien. El que llevábamos tiene escobas verdes y habría arruinado todo el conjunto.",
+            "Eirena: Por eso pedí que trajeran tres opciones."
+          ],
+          "sourceFragments": [
+            "Hiciste bien. El que llevábamos tiene escobas verdes y habría arruinado todo el conjunto",
+            "Por eso pedí que trajeran tres opciones"
+          ]
+        },
+        {
+          "scene": "Silent with a good diagonal view down same long table. Markus seated, holds up one slim wand in right hand, looks at small spiral of real pink, white and yellow blossoms in air. Small child Robin in bib and white-blue to his left, child Arianna in own chair nearer Chiara at other end, golden hair and blue eyes not the same face. Their small natural hands applaud independently, human hands of three upper adults fully distinct. No printed sounds."
+        },
+        {
+          "scene": "Pansy approaches Robin chair from her seat and addresses father, one hand near baby's tiny hand, H/Pleftjewelsstillcorrect. Markus seated next toRobin withwand. Same table/seating/bib.",
+          "dialogue": [
+            "Pansy: Hazlo otra vez, papá. Esta vez deja que una pase más cerca. Quiere tocarla."
+          ],
+          "sourceFragments": [
+            "Hazlo otra vez, papá. Esta vez deja que una pase más cerca. Quiere tocarla"
+          ]
+        },
+        {
+          "scene": "Pansy kneels beside the highchair in her long pale ivory pants and blue cuff, touches the underside of Robin's white sleeve to guide only ONE of his tiny hands as he reaches toward ONE white floating bougainvillea. That hand still attaches to his white sleeve and his other hand rests on his own tray. Natural five fingers, physically separate. Pansy's adult bare right fingers supportive, no metal or gems. Markus's arm with wand further away behind. Robin's bib remains white, blue piping and embroidered lemons. Pansy's own short reply with distinct tail, next action will be for Arianna.",
+          "dialogue": [
+            "Pansy: Ahora una para Arianna."
+          ],
+          "sourceFragments": [
+            "Ahora una para Arianna"
+          ]
+        },
+        {
+          "scene": "Silent close panoramic shot from the far end of the table, Chiara gently cups Arianna's exposed little reaching forearm and steadying fingertips below, Arianna's BLUE eyes eagerly follow one little YELLOW flower which she gets to touch, with real small petals. Their arms and hands are separate. Robin, in his own chair on left opposite, laughs in his unchanged bib. He has dark chestnut curls and GREEN innocent eyes. Both children authentic human. No text."
+        },
+        {
+          "scene": "Last calm broad panel, the flowers slowly rise to the pale-wood pergola and Markus puts the wand away as he smiles. Pansy leaning left beside Robin and younger family's clear faces, seven adults and exactly two children in their separate defined highchairs. White-blue lemon bib on Robin, none added to blonde Arianna. Whole table below and only white arches and sea behind. Void no other actors and no text in this panel."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 24\n\nEirena elige un babero blanco y azul con limones para Robin. Markus hace girar las flores y Pansy pide que los dos bebés puedan tocarlas.\nPansy: Ese babero no estaba entre las cosas que empacamos.\nEirena: Lo mandé traer después de verlo llegar. Hay tomates, vino y aceite sobre esta mesa. No pienso permitir que una camisa de lino blanco se enfrente sola a todo eso.\nPansy: Hiciste bien. El que llevábamos tiene escobas verdes y habría arruinado todo el conjunto.\nEirena: Por eso pedí que trajeran tres opciones.\nPansy: Hazlo otra vez, papá. Esta vez deja que una pase más cerca. Quiere tocarla.\nPansy: Ahora una para Arianna.",
+      "review": "Ocho viñetas y seis turnos exactos de PDF594–595. Robin conserva la silla de limones, sus iris verdes y el único babero blanco con ribete azul y limones bordados. Pansy ayuda al brazo con el que toca la flor blanca. Chiara sostiene el brazo de Arianna con manga oliva para la flor amarilla, conservando sus ojos azules, rizos rubios y lazos. Markus lleva las gafas en el cuello y la varita en las viñetas del hechizo. El cierre muestra a los siete adultos, la misma pérgola y los dos bebés. Revisión visual completa y OCR, incluidas manos, colas y márgenes.",
+      "reviewDate": "2026-11-20",
+      "sha256": "fba7e09fa8a8cd4bc3036e16e28611320cf94d88e6eb8c36d7fd83bc9c94d51a",
+      "masterSha256": "a74cc54d877c1c7b87f5d63dc3eec33cef7ca59f47640aaae67eec96c08faaef",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p024-redibujo12-v4.png",
+      "selectedAttempt": "c13_p024_redibujo12_v4.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p024_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p023-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/robin-12-p085.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 24». Exactly 8 editorial panels. Five rows, with panel boxes 1+2, 3+4, 5+6, 7 full row, and 8 full final row. Exactly eight framed panels, 6 bubbles verbatim. Complete last panoramic border and margins. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Robin infant face: chestnut curls and clear green irises. Current white shirt, blue trousers and the lemon bib described here.\nImage 5: Arianna infant face distinct from Robin, noticeably pale golden ringlets and clear blue irises. Current pale bows and olive linen, no bib.\nMaintain the EXACT airy lower Amalfi dining pergola of preceding page 23, its open pale arches and yellow lemon branches, walnut table, food and place settings. Every portrait and prop stays in its correct scene. Eirena rust terracotta, green eyes, loose dark pinned-back hair and dark blue teardrop earrings. Markus dark black linen, beige trousers, swept graying temples and dark short mustache/goatee, his sunglasses now hooked at collar as he sits. Robin remains seated in his own little wooden high chair between Eirena and Markus, a design with pale cushion, small tray and painted lemons; same chestnut curls and clearly GREEN eyes. Today blue soft trousers, plain white linen shirt. He gets one newly tied WHITE linen bib with SKY BLUE edging and two tiny embroidered YELLOW lemons and leaves, just below his visible white collar and slightly rounded lower edge. This exact bib stays on Robin for the rest of this page. Arianna in own separate identical small chair on the other side of Chiara, blonde golden short curls, intensely BLUE eyes, two cream bows, natural human hands and fingers and olive blouse and trousers without a bib. Distinctably separate heads, ages. The adult women and Blaise retain all previous clothes. No new guests yet. Personal jewelry and proportions are fixed. Markus' wand moves one trail of pink, white and yellow true bougainvillea blossoms, the flowers are about 3–5 cm in size. No glow of fire or explosions. Pansy's right hand is plain, no rings whatsoever.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Eirena sits near Robin's little lemon chair. One close view of her fastening his WHITE BLUE-TRIM lemon bib at the neck, natural hands. Same one small green-eyed Robin smiling up at her. Markus in black to the right of his chair, Pansy in blue at left facing screen right, left barrette can be hidden. Two spare white bibs on far edge of table (one olive leaf motif, one blue/yellow flower). Pansy alone asks in her own balloon.\nPansy «Ese babero no estaba entre las cosas que empacamos.»\nPanel 2: FULL-WIDTH Eirena LEFT finishes smoothing bib and answers P RIGHT across near side, same terracotta/updo/greeneyes. Wine/tomato/olive dishes visible with naturalscale, baby only food-safe empty owntray. Roomy full balloon.\nEirena «Lo mandé traer después de verlo llegar. Hay tomates, vino y aceite sobre esta mesa. No pienso permitir que una camisa de lino blanco se enfrente sola a todo eso.»\nPanel 3: Pansy LEFT studies tiny BLUE edging/lemons and approves, Eirena RIGHT replies satisfied then kisses Robin cheek normally. Two clear full source-order balloons.\nPansy «Hiciste bien. El que llevábamos tiene escobas verdes y habría arruinado todo el conjunto.»\nEirena «Por eso pedí que trajeran tres opciones.»\nPanel 4: Silent with a good diagonal view down same long table. Markus seated, holds up one slim wand in right hand, looks at small spiral of real pink, white and yellow blossoms in air. Small child Robin in bib and white-blue to his left, child Arianna in own chair nearer Chiara at other end, golden hair and blue eyes not the same face. Their small natural hands applaud independently, human hands of three upper adults fully distinct. No printed sounds.\nPanel 5: Pansy approaches Robin chair from her seat and addresses father, one hand near baby's tiny hand, H/Pleftjewelsstillcorrect. Markus seated next toRobin withwand. Same table/seating/bib.\nPansy «Hazlo otra vez, papá. Esta vez deja que una pase más cerca. Quiere tocarla.»\nPanel 6: Pansy kneels beside the highchair in her long pale ivory pants and blue cuff, touches the underside of Robin's white sleeve to guide only ONE of his tiny hands as he reaches toward ONE white floating bougainvillea. That hand still attaches to his white sleeve and his other hand rests on his own tray. Natural five fingers, physically separate. Pansy's adult bare right fingers supportive, no metal or gems. Markus's arm with wand further away behind. Robin's bib remains white, blue piping and embroidered lemons. Pansy's own short reply with distinct tail, next action will be for Arianna.\nPansy «Ahora una para Arianna.»\nPanel 7: Silent close panoramic shot from the far end of the table, Chiara gently cups Arianna's exposed little reaching forearm and steadying fingertips below, Arianna's BLUE eyes eagerly follow one little YELLOW flower which she gets to touch, with real small petals. Their arms and hands are separate. Robin, in his own chair on left opposite, laughs in his unchanged bib. He has dark chestnut curls and GREEN innocent eyes. Both children authentic human. No text.\nPanel 8: Last calm broad panel, the flowers slowly rise to the pale-wood pergola and Markus puts the wand away as he smiles. Pansy leaning left beside Robin and younger family's clear faces, seven adults and exactly two children in their separate defined highchairs. White-blue lemon bib on Robin, none added to blonde Arianna. Whole table below and only white arches and sea behind. Void no other actors and no text in this panel.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7c7a5794-3cfe-4023-ac5f-38584caf9ee8.png"
+        },
+        {
+          "name": "c13_p024_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7c7a5794-3cfe-4023-ac5f-38584caf9ee8.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/markus-09-20.png"
+          ],
+          "prompt": "Edit the full family comic page «Capítulo 13 · 24», 1024×1536, keep exactly eight panel rectangles, six Spanish balloons with all exact words and punctuation, all borders, both infants' faces and ages, same blue-and-yellow table and white coastal pergola. Make four scene-specific corrections. MARKUS: keep the single dark sunglasses hooked onto his black linen collar when in view in all panels, REMOVE the clear/sunglasses frames from his face in panel 1, panel 4, panel 5 and panel 8. His unveiled mature face has olive green eyes, sweeping gray temples and a neat dark goatee. In the LEFT panel of row 2 (panel 3), remove the extra lemon bib that Pansy is holding at screen left, and place her bare natural hand on the top of the little wooden highchair tray while remarking. Robin still wears HIS one original white bib with blue edging and tiny yellow embroidered lemons. Eirena still kisses his cheek. Spare bibs stay in panel 1 only. In the RIGHT panel of row 3 (panel 6), keep Robin firmly seated and looking at the white bloom. Pansy's visible blue-sleeved hand moves to cup the underside of his little extended forearm near its wrist, so he just brushes the white floating flower with his own small fingers. Keep real arm lengths. The baby's other hand is on tray. In the long panel 7 Chiara wearing champagne is shown gently supporting her granddaughter Arianna's reaching arm with one hand below the small wrist while the baby's own fingers brush the small YELLOW flower. Arianna olive clothing, blonde curls, sky-blue eyes and two bows. The little Robin at left, green eyes and white lemon bib, laughs in separate own chair. Panel 8 final panorama, add Hermione's chestnut curls, freckled face with warm brown eyes, ivory blouse and oval sapphire visible in a seated position immediately behind/middle between Pansy and Chiara in the group. Everyone else and the children remain at same spacing/seats or slightly spread to fit. Exactly seven adults. Preserve table full of food, place settings, green leaves and small flowers rising. No people added elsewhere. Return the complete page with exact visible final border and no changed lettering.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2788d475-c0c4-431f-ae4c-0c3de3a29972.png"
+        },
+        {
+          "name": "c13_p024_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2788d475-c0c4-431f-ae4c-0c3de3a29972.png"
+          ],
+          "prompt": "Retouch a single family gesture in the finished 1024×1536 comic Image 1. Same whole page «Capítulo 13 · 24», all eight rectangles, borders, exact Spanish lettering, six balloons and page margins. Edit ONLY panel 6, third row at RIGHT, the one with «Ahora una para Arianna.». Pansy in blue is seated immediately beside Robin. Move Pansy's one PLAIN hand that currently holds his lowered sleeve onto the underside of Robin's OTHER small arm, the one he raises to the WHITE flower, about midway from elbow to wrist. Her own rolled blue sleeve and forearm must run continuously from her left-of-image side up toward that one gentle supporting hand under his raised white-covered forearm. His lowered arm stays naturally resting on his little chair tray; not gripping or supported. The child's own natural miniature fingers of his raised hand now actually brush an edge of a white PETAL, not a stick or stem; white flower freely suspended closer to his fingertip. Keep the one child's face, chestnut short curls and LEAF GREEN irises, the two embroidery lemons in his white-blue bib, the food, the wand and all other clothes and poses. Keep all OTHER panels completely unchanged, in particular blue-eyed blonde Arianna touching her yellow flower. Same entire portrait framing and every word, don't add any speech or characters.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a848f23e-c3d1-493b-a1fc-0a924ffabe02.png"
+        },
+        {
+          "name": "c13_p024_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a848f23e-c3d1-493b-a1fc-0a924ffabe02.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2788d475-c0c4-431f-ae4c-0c3de3a29972.png"
+          ],
+          "prompt": "Restore one local pose in Image 1, the complete 1024×1536 finished Spanish comic «Capítulo 13 · 24». Preserve its exact eight rectangles and thin lines, six perfect Spanish balloons, all character faces, eyes and scene. In the second-from-bottom wide panel 7 where blonde blue-eyed Arianna touches the yellow flower, use the composition of that exact wide frame in Image 2. Arianna, small pale blonde child with cream bows, must have her olive-colored little sleeve around her raised right arm, matching the loose olive blouse throughout. Chiara next to her in champagne blouse and the wide hat supports that raised little forearm palm-up as shown in image 2, visibly one warm dark-brown adult hand under the baby's OLIVE sleeve, her own champagne forearm continuing naturally. Show the olive-cuffed smaller arm extending to the yellow flower with fingertips touching the petal. Do not add new hands or pale white toddler shirt. Keep Robin unchanged on left in this frame, and all the other panels unchanged from Image 1, especially panel 6 where Pansy now supports Robin's raised arm under the white flower. Do not change any other details, frame contents, sizes, border or placement. Return complete page with full bottom border.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2f8da9a2-65d0-4f49-87ec-d6e13854f52d.png"
+        }
+      ]
+    }
+  ]
+}
