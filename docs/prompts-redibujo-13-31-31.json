@@ -1,0 +1,129 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 31,
+  "end": 31,
+  "date": "2026-11-20",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 31,
+      "original": "paginas/c13-p031.webp",
+      "image": "paginas/c13-p031-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        601
+      ],
+      "summary": "Chiara recuerda la tradición de vacaciones y da la bienvenida a Hermione, Pansy y Robin. La familia brinda reunida bajo la pérgola.",
+      "panels": [
+        {
+          "scene": "Blaise on LEFT in small panel, his compact coils, deep brown skin and warm eyes, lifting one actual wine goblet at head level to Chiara jokingly. Daphne immediately nearby in peach and long gold waves, small smile. Clear single short reply from Blaise only.",
+          "dialogue": [
+            "Blaise: En nombre de toda la mesa, agradezco que hayas establecido correctamente tus prioridades."
+          ],
+          "sourceFragments": [
+            "En nombre de toda la mesa, agradezco que hayas establecido correctamente tus prioridades"
+          ]
+        },
+        {
+          "scene": "A larger views of long table, Chiara is standing in cream hat and champagne dress toward left, begins her two-sentence speech while looking down at family. Larger balloon points to Chiara only, prominent heads of Lissandra yellow, Caelum beige clean-shaven, Markus black with short goatee and Eirena terracotta, each distinct. Colors under pergola.",
+          "dialogue": [
+            "Chiara: Estas vacaciones se han celebrado en nuestra familia desde mucho antes de que cualquiera de ustedes pudiera recordarlo. Hemos cambiado de casa, de país y de planes muchas veces, pero siempre encontramos la forma de volver a sentarnos juntos."
+          ],
+          "sourceFragments": [
+            "Estas vacaciones se han celebrado en nuestra familia desde mucho antes de que cualquiera de ustedes pudiera recordarlo. Hemos cambiado de casa, de país y de planes muchas veces, pero siempre encontramos la forma de volver a sentarnos juntos"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Chiarasoftensasmilingmatureface, wholeMediterraneanvilla/pergola/sea backdrop andfamilyseated, sourceexactcompleteballoon.",
+          "dialogue": [
+            "Chiara: Me alegra que vuelvan a llenar esta villa. Una casa puede ser hermosa, tener jardines, vistas al mar y habitaciones suficientes para recibir a cien personas. Sin embargo, nada de eso sirve cuando permanece en silencio."
+          ],
+          "sourceFragments": [
+            "Me alegra que vuelvan a llenar esta villa",
+            "Una casa puede ser hermosa, tener jardines, vistas al mar y habitaciones suficientes para recibir a cien personas. Sin embargo, nada de eso sirve cuando permanece en silencio"
+          ]
+        },
+        {
+          "scene": "Full width speech at table, Chiara on left warmly looks toward Pansy and Hermione seated together on right, Robin nearby in his separate chair. Lissandra and Markus or other older family may be blurred beyond. Put the complete exact 68-word welcome in a large clear single balloon including «Pansy, Hermione y Robin», «disfruten de Amalfi» and last sentence. Leave visible gestures and three distinctive faces. No baby cup.",
+          "dialogue": [
+            "Chiara: Este año nuestra mesa también ha crecido. Tenemos tres bebés decididos a reclamar toda la atención y una nueva pareja a la que llevaba demasiado tiempo esperando recibir aquí. Pansy, Hermione y Robin eran las últimas personas que nos hacían falta. Ahora que están con nosotros, espero que descansen, coman todo lo que puedan y disfruten de Amalfi sabiendo que esta casa también es suya."
+          ],
+          "sourceFragments": [
+            "Este año nuestra mesa también ha crecido. Tenemos tres bebés decididos a reclamar toda la atención y una nueva pareja a la que llevaba demasiado tiempo esperando recibir aquí. Pansy, Hermione y Robin eran las últimas personas que nos hacían falta. Ahora que están con nosotros, espero que descansen, coman todo lo que puedan y disfruten de Amalfi sabiendo que esta casa también es suya"
+          ]
+        },
+        {
+          "scene": "Silent close detail of exactly TWO distinct adult left hands resting together on the cream linen runner. At LEFT bottom a clearly visible IVORY cuff connects continuously to HERMIONE'S bare wrist and anatomical LEFT hand. Her ONLY clear oval halo diamond on its ring finger, the finger next to the little one. At RIGHT bottom a separate SKY-BLUE rolled cuff connects continuously to PANSY'S separate anatomical LEFT hand, all five fingers plain. ONE fine white-gold chain and readable small letter charms H R P on Pansy's left wrist ONLY. Two hands rest side-by-side on table, backs visible, fingers lightly intertwine only at the tips with enough space to see which sleeve owns each. No jewelry overlap across the two hands, no duplicated thumb or extra finger and Pansy has ZERO rings. Use image 4 for these correct two LEFT hands, change only Hermione's sleeve from olive in reference to IVORY in panel. No figure labels or text."
+        },
+        {
+          "scene": "Chiara lifts her pale white wine glass (no duplicate). The nearby fully clothed adults reply raising their own clear goblets of lemonade or wine. First exact balloon to Chiara with Italian and Spanish parentheses, second lower or right group speech. No babies holding cups. Adult hands separate and plausible.",
+          "dialogue": [
+            "Chiara: Alla famiglia (a la familia).",
+            "Familia: A la familia."
+          ],
+          "sourceFragments": [
+            "Alla famiglia (a la familia)",
+            "A la familia"
+          ]
+        },
+        {
+          "scene": "Wordless last wide shot under pergola as Chiara sits back next to the one Arianna who raises her wooden spoon in imitation of the adults. Scorpius keeps sleeping in the small pale wood bassinet between white-clad Draco and lavender Astoria, his face and tiny hands visible. Robin in own lemon wood highchair near terracotta Eirena and black Markus taps his tray. Some adults pass one dish in natural sizes, some glasses gently clink, all same wide walnut table and canonical clothes. No dialogue."
+        }
+      ],
+      "actualPanelCount": 7,
+      "transcript": "Capítulo 13 · 31\n\nChiara recuerda la tradición de vacaciones y da la bienvenida a Hermione, Pansy y Robin. La familia brinda reunida bajo la pérgola.\nBlaise: En nombre de toda la mesa, agradezco que hayas establecido correctamente tus prioridades.\nChiara: Estas vacaciones se han celebrado en nuestra familia desde mucho antes de que cualquiera de ustedes pudiera recordarlo. Hemos cambiado de casa, de país y de planes muchas veces, pero siempre encontramos la forma de volver a sentarnos juntos.\nChiara: Me alegra que vuelvan a llenar esta villa. Una casa puede ser hermosa, tener jardines, vistas al mar y habitaciones suficientes para recibir a cien personas. Sin embargo, nada de eso sirve cuando permanece en silencio.\nChiara: Este año nuestra mesa también ha crecido. Tenemos tres bebés decididos a reclamar toda la atención y una nueva pareja a la que llevaba demasiado tiempo esperando recibir aquí. Pansy, Hermione y Robin eran las últimas personas que nos hacían falta. Ahora que están con nosotros, espero que descansen, coman todo lo que puedan y disfruten de Amalfi sabiendo que esta casa también es suya.\nChiara: Alla famiglia (a la familia).\nFamilia: A la familia.",
+      "review": "Siete viñetas y seis turnos íntegros de PDF601. En el acercamiento, la mano izquierda marfil de Hermione tiene el único diamante en el anular. La mano izquierda de manga azul y dedos lisos lleva H/R/P de Pansy. Se verificó cada mano ampliada y se quitó la pulsera de la derecha que sostiene su barbilla. Cara y ropa de Caelum recuperadas y de Daphne comprobadas. Palabras y acentos de todo el discurso y de «Alla famiglia» verificados en ampliación donde el OCR los separaba. Escala y apoyos de tres bebés, pérgola, rostros, bordes y colas comprobados.",
+      "reviewDate": "2026-11-20",
+      "sha256": "d58a4829757297ef7ad627204844a6c1d1eb5fa6f3a5db6c680c963a9a2a0514",
+      "masterSha256": "4af8bdef0d9cae513cc0db3f0309f8cd46cc8167db4963fe40ec6d479b468cae",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p031-redibujo12-v3.png",
+      "selectedAttempt": "c13_p031_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "estas",
+        "cualquiera",
+        "ustedes",
+        "pudiera",
+        "recordarlo",
+        "famiglia"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p031_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p030-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 31». Exactly 7 editorial panels. Five rows: 1+2 split with 2 wider, 3 full, 4 wide and taller with very generous space for its long complete speech, 5+6 split, and final 7 full. Exactly seven black bordered rectangles, complete margin with final bottom rule visible. Give the close hands shot at least 40% of its row width. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Exact separate left hands, finger count and jewel ownership. Ivory cuff for the ring owner's hand here, blue cuff for H/R/P only. Ignore photo labels and original green fabric.\nThe family remains in the exact outdoor dining pergola of page 30. Never replicate the previous published page's erroneous jewelry. Keep warm shade daylight; Chiara mature warm brown skin and brown eyes, champagne dress and hat, braids gathered up, gold drop earrings and bangles on own wrists. Her son Blaise exact skin and face and short compact black round coils, no long twists. Lissandra's pale golden bun and silk yellow with blue drops, Caelum beige clean-shaven, Markus black linen goatee and brown/gray temples, Eirena terracotta/dark low updo/green eyes/blue drop earrings. H, P, Daphne, Draco and Astoria have their current faces and clothes. R only in his lemon chair between grandparents, distinct short chestnut curls and leaf green eyes, white/blue and lemon bib, no glass. A only in her own other lemon chair by Chiara, pale blonde curls, two bows, olive, blue eyes and little wooden spoon. S sleeping with separate platinum tiny head and cream blanket over legs in four-legged pale wood bassinet between seated Draco and Astoria. Same three separate babies and no duplicates. All speaking adults have exact complete wording, accents, tailed balloons and one <family line>. Keep no watermark on artwork.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Blaise on LEFT in small panel, his compact coils, deep brown skin and warm eyes, lifting one actual wine goblet at head level to Chiara jokingly. Daphne immediately nearby in peach and long gold waves, small smile. Clear single short reply from Blaise only.\nBlaise «En nombre de toda la mesa, agradezco que hayas establecido correctamente tus prioridades.»\nPanel 2: A larger views of long table, Chiara is standing in cream hat and champagne dress toward left, begins her two-sentence speech while looking down at family. Larger balloon points to Chiara only, prominent heads of Lissandra yellow, Caelum beige clean-shaven, Markus black with short goatee and Eirena terracotta, each distinct. Colors under pergola.\nChiara «Estas vacaciones se han celebrado en nuestra familia desde mucho antes de que cualquiera de ustedes pudiera recordarlo. Hemos cambiado de casa, de país y de planes muchas veces, pero siempre encontramos la forma de volver a sentarnos juntos.»\nPanel 3: FULL-WIDTH Chiarasoftensasmilingmatureface, wholeMediterraneanvilla/pergola/sea backdrop andfamilyseated, sourceexactcompleteballoon.\nChiara «Me alegra que vuelvan a llenar esta villa. Una casa puede ser hermosa, tener jardines, vistas al mar y habitaciones suficientes para recibir a cien personas. Sin embargo, nada de eso sirve cuando permanece en silencio.»\nPanel 4: Full width speech at table, Chiara on left warmly looks toward Pansy and Hermione seated together on right, Robin nearby in his separate chair. Lissandra and Markus or other older family may be blurred beyond. Put the complete exact 68-word welcome in a large clear single balloon including «Pansy, Hermione y Robin», «disfruten de Amalfi» and last sentence. Leave visible gestures and three distinctive faces. No baby cup.\nChiara «Este año nuestra mesa también ha crecido. Tenemos tres bebés decididos a reclamar toda la atención y una nueva pareja a la que llevaba demasiado tiempo esperando recibir aquí. Pansy, Hermione y Robin eran las últimas personas que nos hacían falta. Ahora que están con nosotros, espero que descansen, coman todo lo que puedan y disfruten de Amalfi sabiendo que esta casa también es suya.»\nPanel 5: Silent close detail of exactly TWO distinct adult left hands resting together on the cream linen runner. At LEFT bottom a clearly visible IVORY cuff connects continuously to HERMIONE'S bare wrist and anatomical LEFT hand. Her ONLY clear oval halo diamond on its ring finger, the finger next to the little one. At RIGHT bottom a separate SKY-BLUE rolled cuff connects continuously to PANSY'S separate anatomical LEFT hand, all five fingers plain. ONE fine white-gold chain and readable small letter charms H R P on Pansy's left wrist ONLY. Two hands rest side-by-side on table, backs visible, fingers lightly intertwine only at the tips with enough space to see which sleeve owns each. No jewelry overlap across the two hands, no duplicated thumb or extra finger and Pansy has ZERO rings. Use image 4 for these correct two LEFT hands, change only Hermione's sleeve from olive in reference to IVORY in panel. No figure labels or text.\nPanel 6: Chiara lifts her pale white wine glass (no duplicate). The nearby fully clothed adults reply raising their own clear goblets of lemonade or wine. First exact balloon to Chiara with Italian and Spanish parentheses, second lower or right group speech. No babies holding cups. Adult hands separate and plausible.\nChiara «Alla famiglia (a la familia).»\nFamilia «A la familia.»\nPanel 7: Wordless last wide shot under pergola as Chiara sits back next to the one Arianna who raises her wooden spoon in imitation of the adults. Scorpius keeps sleeping in the small pale wood bassinet between white-clad Draco and lavender Astoria, his face and tiny hands visible. Robin in own lemon wood highchair near terracotta Eirena and black Markus taps his tray. Some adults pass one dish in natural sizes, some glasses gently clink, all same wide walnut table and canonical clothes. No dialogue.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4ddfd690-a7e4-45c5-9195-45aa127d6c00.png"
+        },
+        {
+          "name": "c13_p031_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4ddfd690-a7e4-45c5-9195-45aa127d6c00.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/caelum-referencia-13-025.png"
+          ],
+          "prompt": "Make corrected character lettering and continuity in the finished complete Spanish comic «Capítulo 13 · 31». Keep 1024×1536, all seven rectangular frames, complete outside margin and every one of the six exact Spanish balloons. Only edit in two frames: top RIGHT panel 2 and right part of fourth row panel 6. In TOP RIGHT panel 2, large balloon «Estas vacaciones se han celebrado en nuestra familia…» must have just the ONE existing tail on its LEFT edge pointing toward standing Chiara in champagne hat. Remove its stray SECOND tail from the bottom-right edge near Markus's head, leaving a smooth line there. All exact words and accents stay. Same panel seated guests from left Lissandra in yellow, next her partner CAELUM, then Markus black and Eirena rust. Caelum is the seated clean-shaven man currently miscolored blonde/white. Redraw just that figure as the mature Caelum from reference Image 2: dark warm brown hair brushed back with noticeable gray at BOTH temples, narrower mature face, dark eyes, clean-shaven, light beige linen JACKET over pale ivory open-neck shirt. This is not far younger platinum Draco. Keep Lissandra, Markus and Eirena unchanged. In panel 6 at RIGHT of the split fourth row with the two toast bubbles, make the same mature dark-haired Caelum with beige linen jacket the man beside Lissandra in yellow, instead of blond hair, holding his same goblet. Keep all other faces and both toast balloons exactly. Preserve the whole silent jewelry panel (left of same row) COMPLETELY untouched: the IVORY sleeve hand uniquely owns one clear oval diamond, SKY BLUE cuff hand has NO ring and only one H R P chain on her own wrist. Don't repaint it. At bottom the REAL BLOND Draco beside infant in bassinet is unchanged. All other page details and left margins unchanged. No new lettering or marks.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2d4dba7d-b76f-4100-a68b-408b1ff7c5d5.png"
+        },
+        {
+          "name": "c13_p031_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2d4dba7d-b76f-4100-a68b-408b1ff7c5d5.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002-rostro.png"
+          ],
+          "prompt": "Keep this exact full Spanish comic «Capítulo 13 · 31», 1024×1536, all seven panels, six exact Spanish/Italian balloons and full page margins. Local two small character detail fixes only: in the small top-left panel, Daphne with golden long hair and the peach blouse needs her irises bright sky-blue where open instead of teal-green. Keep the face and pupil outline the same, no change to anyone's eyes elsewhere. In the large speech panel 4 (third full-width row, the one beginning «Este año nuestra mesa también ha crecido.»), Pansy at far right in blue props her chin on her right wrist (near x=889 y=841). Remove just the pale chain bracelet from that wrist, replace the metal and beads with continuous bare skin exact same hand shape. Keep the silent close-up of both jewelry hands at lower left absolutely intact: her left wrist in BLUE has the sole H R P bracelet and plain fingers, the other IVORY cuff hand has the single diamond. Never edit that close-up. Keep every other color, character, baby, position, setting, line or serif lettering exactly, no crop or regeneration of other content. Return whole page with visible bottom edge and trim.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5dbd1e2b-629a-4626-922b-6d38de44e2cf.png"
+        }
+      ]
+    }
+  ]
+}
