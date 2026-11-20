@@ -23,3 +23,5 @@ Las versiones anteriores siguen disponibles en el historial y en sus archivos. L
 - Páginas 17–20. [Guiones, referencias y revisión](prompts-redibujo-13-17-20.json).
 
 - Páginas 21–22. [Guiones, referencias y revisión](prompts-redibujo-13-21-22.json).
+
+- Páginas 22–22. [Guiones, referencias y revisión](prompts-redibujo-13-22-22.json).
