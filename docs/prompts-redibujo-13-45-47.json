@@ -1,0 +1,313 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 45,
+  "end": 47,
+  "date": "2026-11-20",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 45,
+      "original": "paginas/c13-p045.webp",
+      "image": "paginas/c13-p045-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        614
+      ],
+      "summary": "Daphne y Blaise advierten discretamente la salida. Pansy guía a Hermione por los jardines de la villa hasta la terraza oeste, y Hermione contempla el Tirreno al atardecer.",
+      "panels": [
+        {
+          "scene": "Same glowing p44 table. Daphne peeks past blue Pansy's hand at the back of Hermione from her chair. Blaise next to her with compact short black coils raises wine in his own one right hand toward them in silent good humor. The two women now leaving stand in near foreground with P in blue adjacent to H in ivory; P looks over shoulder giving dry amusement to B, H's bare left cuff near separate hands starting to clasp. Correct joined hands if clearly visible: H left with ring and P right bare. Only these adults need visible, no caption."
+        },
+        {
+          "scene": "They walk out together through a white stone arch from same lower dining room. Two fully clothed women, then view of golden orbs and walnut banquet receding BEHIND them between columns, seated guests only indistinct. Pansy's free arm very comfortably near H's upper side through clothes. Natural two arms each, no crossing through bodies. Medium shot."
+        },
+        {
+          "scene": "Wide lower stone passage descends slowly on side of the villa overlooking sea. Natural pavers, shrubs of rosemary and purple lavender, small potted citrus at turns. The two women walk in one direction guided by Pansy, full summer trousers and flats visible human scale. Hair in wind, no orbs here. No words."
+        },
+        {
+          "scene": "Mosaic fountain of blue-and-white ceramics in foreground to left; the connected narrow old stone gallery appears beyond with overlapping live grape vine over wooden ceiling slats. The two same adult women further into it at correct distance and side-by-side, after passing basin. Warm shade, no magical lights added."
+        },
+        {
+          "scene": "They move down through terraced gardens supported by several low pale stone walls, olive trees and pots flowering amid a modest wrought iron bench. Sunset sea through rightward open side and distant gold light from banquet among far uphill arches ONLY. Small figures in stable same silhouettes walking naturally to lower level. No text."
+        },
+        {
+          "scene": "From behind two very distinct women enter the smaller west terrace between two ivory white stone columns, climbing magenta-pink bougainvillea on exactly one. One stone bench, potted lemon trees and pale open balustrade. Same shoes and clean silhouettes, two natural arms no need clasp, no dining orbs or furniture. Sunset water."
+        },
+        {
+          "scene": "Wide expansive quiet vista from behind that named west terrace stone railing. Soft warm homes and winding paths on both sides of ridge and cove, pale orange-pink and violet sunset on the blue sea. A couple of very distant tiny boats with wispy wakes. Frame with two potted lemon trees and edge of vine, no characters."
+        },
+        {
+          "scene": "Hermione rests forearm comfortably on thick pale stone rail looking at the water. She lifts the hand on her right, bare and normal, to tuck one wind-blown chestnut curl; her own left sleeve rests with hand mostly outside frame. Pansy has arrived beside her, quietly admiring her profile, her closer LEFT forearm naturally leans on rail with fine bracelet and bare fingers if visible. No words; natural narrow green eyes angular bob and distinctive warm BROWN eyes freckles, blue oval sapphire intact. Pale coastal light and full bottom panel line."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 45\n\nDaphne y Blaise advierten discretamente la salida. Pansy guía a Hermione por los jardines de la villa hasta la terraza oeste, y Hermione contempla el Tirreno al atardecer.",
+      "review": "Ocho viñetas mudas de PDF614. Conservados el brindis silencioso de Blaise, la salida bajo el arco, sendero con hierbas y cítricos, fuente de mosaico azul, galería de parra, niveles de jardín y terraza oeste diferenciada al atardecer. Verificado el cabello y cada silueta conforme al 12, así como la ausencia de joyas en las dos manos derechas visibles al final y la cadena izquierda de Pansy durante la salida.",
+      "reviewDate": "2026-11-20",
+      "sha256": "f1ee8716ce06922b8a58695ed94087b045d8bc502da8e3f702395f9bc4314131",
+      "masterSha256": "b82321fb605fa095e68821093d12e57d3da15bdf5d88d8a67399d15b39784744",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p045-redibujo12-v2.png",
+      "selectedAttempt": "c13_p045_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p045_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p044-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p045.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 45». Exactly 8 editorial panels. Exactly eight panels, first row 1+2, second 3+4, third 5+6, wide 7, wide 8. Ivory thin gutters. Only the page header is printed; no voice bubbles, text or watermarks. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Architecture and existing route only: arch, descending stone path, blue mosaic fountain, narrow grape passage, smaller terrace, landscape. Use the updated faces and anatomy/style from references 1–3, not the old hairstyle, panel blemishes or proportions of image 4.\nImage 5: Hermione true warm brunette chestnut curls, freckles and contour in the style guide, keep outfit from p44.\nReal geographical stroll as daylight steadily changes. Use image 4's already established setting surfaces and composition only as loose precedent, portraying updated Chapter 12 faces and gestures correctly. Each panel uses a distinct view in visual sequence across sunset, no cloning or repetition of physical positions. Maintain wardrobe, fabrics, source chronology, legs and perspective; show each whole arm with exactly separate cuffs when they touch. Use natural neck angle and wind lifts only loose strands rather than shape/length changes. The plants in garden receive real sunset, never the gold magic from dining room. No extra house elves or family following them.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Same glowing p44 table. Daphne peeks past blue Pansy's hand at the back of Hermione from her chair. Blaise next to her with compact short black coils raises wine in his own one right hand toward them in silent good humor. The two women now leaving stand in near foreground with P in blue adjacent to H in ivory; P looks over shoulder giving dry amusement to B, H's bare left cuff near separate hands starting to clasp. Correct joined hands if clearly visible: H left with ring and P right bare. Only these adults need visible, no caption.\nPanel 2: They walk out together through a white stone arch from same lower dining room. Two fully clothed women, then view of golden orbs and walnut banquet receding BEHIND them between columns, seated guests only indistinct. Pansy's free arm very comfortably near H's upper side through clothes. Natural two arms each, no crossing through bodies. Medium shot.\nPanel 3: Wide lower stone passage descends slowly on side of the villa overlooking sea. Natural pavers, shrubs of rosemary and purple lavender, small potted citrus at turns. The two women walk in one direction guided by Pansy, full summer trousers and flats visible human scale. Hair in wind, no orbs here. No words.\nPanel 4: Mosaic fountain of blue-and-white ceramics in foreground to left; the connected narrow old stone gallery appears beyond with overlapping live grape vine over wooden ceiling slats. The two same adult women further into it at correct distance and side-by-side, after passing basin. Warm shade, no magical lights added.\nPanel 5: They move down through terraced gardens supported by several low pale stone walls, olive trees and pots flowering amid a modest wrought iron bench. Sunset sea through rightward open side and distant gold light from banquet among far uphill arches ONLY. Small figures in stable same silhouettes walking naturally to lower level. No text.\nPanel 6: From behind two very distinct women enter the smaller west terrace between two ivory white stone columns, climbing magenta-pink bougainvillea on exactly one. One stone bench, potted lemon trees and pale open balustrade. Same shoes and clean silhouettes, two natural arms no need clasp, no dining orbs or furniture. Sunset water.\nPanel 7: Wide expansive quiet vista from behind that named west terrace stone railing. Soft warm homes and winding paths on both sides of ridge and cove, pale orange-pink and violet sunset on the blue sea. A couple of very distant tiny boats with wispy wakes. Frame with two potted lemon trees and edge of vine, no characters.\nPanel 8: Hermione rests forearm comfortably on thick pale stone rail looking at the water. She lifts the hand on her right, bare and normal, to tuck one wind-blown chestnut curl; her own left sleeve rests with hand mostly outside frame. Pansy has arrived beside her, quietly admiring her profile, her closer LEFT forearm naturally leans on rail with fine bracelet and bare fingers if visible. No words; natural narrow green eyes angular bob and distinctive warm BROWN eyes freckles, blue oval sapphire intact. Pale coastal light and full bottom panel line.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d49dce05-f24d-4b6c-a478-8ae6bfbfbfcc.png"
+        },
+        {
+          "name": "c13_p045_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d49dce05-f24d-4b6c-a478-8ae6bfbfbfcc.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-045-v1-balaustrada.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-045-v1-salida.png"
+          ],
+          "prompt": "Minimal identity refinements to the existing page 45 of 8 panels. In the first panel (top LEFT), on the little visible blue-sleeved LEFT wrist behind Hermione's separate nearer cream hand as they join hands, add the fine white-metal Pansy chain as a subtle short highlight visible there, only if space before overlap. Keep both hands bare of rings in this shot and each realistic. In the second panel at top RIGHT, Pansy in blue faces right and shows her RIGHT temple. Remove the small gold bobby pin from that visible temple; her own clip is still on her hidden LEFT side. Preserve her exact other visible correct gold clips in other panels. In the eighth (very bottom) panel only, delete the ring from Hermione's raised RIGHT hand brushing away her chestnut curls. Delete the thin bracelet from Pansy's near RIGHT wrist over her other forearm. Each item's true left arm remains correctly in pose, mostly below the crop or covered by the crossing arm, no new rings or other embellishments in the last panel. Exact same original faces, rose sunset, architecture, fabric, anatomically separate arms, full 1024×1536 eight-panel wordless page with entire frame, heading and unmodified 5 other panels. No redesign.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-44fef2b6-44ba-43e8-860b-0beca815a438.png"
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "original": "paginas/c13-p046.webp",
+      "image": "paginas/c13-p046-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        615
+      ],
+      "summary": "En la terraza, Pansy y Hermione bromean sobre Blaise y el atardecer. Sus joyas de promesa les hacen hablar con naturalidad de un futuro matrimonio.",
+      "panels": [
+        {
+          "scene": "Quiet medium-wide view from the terrace, both naturally leaning on the pale classical railing facing sea beyond. Pansy gives Hermione's profile a thoughtful look, while Hermione is still focused on horizon. Low golden sea and potted lemon; arms partially behind rail to keep rooted location. No text."
+        },
+        {
+          "scene": "Wide dialogue view with Pansy left, Hermione right, correctly staged from side of terrace with short column and sunset behind. Pansy jokes naturally then Hermione gently chuckles. Two distinct EXACT long balloons ordered left then right above their individual faces. Focus from elbows upward, no rings needed because hands cropped.",
+          "dialogue": [
+            "Pansy: Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.",
+            "Hermione: Podría agradecerle la recomendación, pero no pienso decírselo. Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi."
+          ],
+          "sourceFragments": [
+            "Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.",
+            "Podría agradecerle la recomendación, pero no pienso decírselo.",
+            "Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi."
+          ]
+        },
+        {
+          "scene": "Pansy continues the villa services joke with a knowing smile and eyes towards Hermione at their railing. Show warm dusk, clean H/P faces unchanged, one roomy correct full balloon. Keep her left/offscreen clip according to viewpoint.",
+          "dialogue": [
+            "Pansy: Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini."
+          ],
+          "sourceFragments": [
+            "Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini."
+          ]
+        },
+        {
+          "scene": "Hermione turns her brown eyes toward the horizon, windy chestnut curls shift near cheek and sapphire. Two faces differ sharply, Pansy looking at her now. Hermione's one exact complete larger sight speech.",
+          "dialogue": [
+            "Hermione: Es hermoso. Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así. Desde aquí los colores parecen distintos."
+          ],
+          "sourceFragments": [
+            "Es hermoso.",
+            "Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así.",
+            "Desde aquí los colores parecen distintos."
+          ]
+        },
+        {
+          "scene": "Pansy keeps green eyes on Hermione's face as she talks about the view. Hermione starts to see what she means, warm small blush, natural adult emotion. Full exact small sentence pair in one balloon, correctly aimed at Pansy.",
+          "dialogue": [
+            "Pansy: Estoy de acuerdo. La vista es hermosa."
+          ],
+          "sourceFragments": [
+            "Estoy de acuerdo.",
+            "La vista es hermosa."
+          ]
+        },
+        {
+          "scene": "Medium quiet look at both of them from chest up plus one gesture near railing. On top of stone, only two forearms which do not cross. Hermione's LEFT wrist arrives from cream sleeve and one clear diamond ring on the second finger from pinky; she lowers her gaze. Pansy's separate LEFT bare fingers reach softly toward that diamond with just her thumb, H/R/P silver chain around Pansy's own blue-sleeved left wrist. Other hands are behind railing out of shot. No balloons. Cool white-gold against warm sky, no additional gems. Take accessory appearance from reference 4."
+        },
+        {
+          "scene": "A new lower angle of two adults turning toward each other with fingers of the same two left hands gently intertwined, cream sleeve connecting to faceted diamond LEFT ring finger from H and blue cuff connects to slim white-gold H/R/P chain on P left wrist, Pansy's fingers totally bare. Hands normal scale, visibly independent, no wedding ring added. Keep both faces distinct in medium framing. No other people or text."
+        },
+        {
+          "scene": "Wide closing two-profile shot from upper torso with the lower linked hands almost fully under frame, H speaks full unabridged marriage remark looking at P, and P listens calmly. Both fully dressed at the railing in same quiet sunset. Only one exact speech balloon and full lower border.",
+          "dialogue": [
+            "Hermione: Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos."
+          ],
+          "sourceFragments": [
+            "Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 46\n\nEn la terraza, Pansy y Hermione bromean sobre Blaise y el atardecer. Sus joyas de promesa les hacen hablar con naturalidad de un futuro matrimonio.\nPansy: Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.\nHermione: Podría agradecerle la recomendación, pero no pienso decírselo. Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi.\nPansy: Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini.\nHermione: Es hermoso. Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así. Desde aquí los colores parecen distintos.\nPansy: Estoy de acuerdo. La vista es hermosa.\nHermione: Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos.",
+      "review": "Ocho viñetas y seis turnos completos cotejados con PDF615. «Estoy de acuerdo. La vista es hermosa.» está completo en la viñeta quinta pese a la omisión del OCR. Se comprobaron en ampliación el zafiro azul, la mano marfil de Hermione con su único diamante claro y la mano de manga azul de Pansy con el brazalete H/R/P. Se corrigieron accesorios fuera de lugar, y la terraza y el horizonte siguen con la luz del atardecer.",
+      "reviewDate": "2026-11-20",
+      "sha256": "90d8a2741c5108b169af653baf90b8f490fb3664e6a454f0481549e49049ef34",
+      "masterSha256": "67347e40a075f81523c7d361e009d66498949d0da054720f7d10add15a6e0a7a",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p046-redibujo12-v4.png",
+      "selectedAttempt": "c13_p046_redibujo12_v4.json",
+      "ocrMissingCandidates": [
+        "estoy",
+        "acuerdo",
+        "vista",
+        "hermosa"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p046_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p045-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-031-v3-revision-2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/hermione-12-p070-rizos.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 46». Exactly 8 editorial panels. Exactly eight panels in six rows: wide 1; wide 2 with two separate speech balloons; 3+4; 5+6; wide 7; wide 8. Keep thin outlines, ivory gutters and an uninterrupted lower frame. Full serif lettering legible in all balloons; only approved Spanish words, no page labels other than heading. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Established LEFT jewelry ownership, silvery clear oval diamond on Hermione in ivory, H/R/P chain around Pansy's separate left wrist in slate blue. Hands and identity reference ONLY, current scene is the west terrace.\nImage 5: Hermione facial and hair proportions from Chapter 12, keep warm freckles and chestnut curls in wind.\nEntire page remains on the small west terrace outside the dining room, since p45 the sun goes slightly lower in same orange/rose/violet sky. Both women adult fully dressed sky blue and ivory, no location change, natural proportions and individual soft matte appearance. The pale stone balustrade is a single line facing sea, if in view they both lean on the same top edge, no second balustrade. Pink bougainvillea stays on column and one stone bench against side wall underneath leaves. H necklace distinctly oval blue sapphire, P keeps clean green eyes angular chin and offset black bob. Her clip can only be seen over left ear; when facing right from her right side, leave that ear plain and clip behind. All own original clothes and no crossed mismatched jewel hands. Two simple left hands with long sleeves distinct from one another in two shots; most poses use eyes without repetitive hand display. Never show Pansy wearing a ring. Pansy gently touches the one diamond ring of Hermione, while bracelet is on P's own left and has letters H, R, P. Exact words in all six lines; Pansy's quip says «la villa, acceso» with comma, no editorial substitutions.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Quiet medium-wide view from the terrace, both naturally leaning on the pale classical railing facing sea beyond. Pansy gives Hermione's profile a thoughtful look, while Hermione is still focused on horizon. Low golden sea and potted lemon; arms partially behind rail to keep rooted location. No text.\nPanel 2: Wide dialogue view with Pansy left, Hermione right, correctly staged from side of terrace with short column and sunset behind. Pansy jokes naturally then Hermione gently chuckles. Two distinct EXACT long balloons ordered left then right above their individual faces. Focus from elbows upward, no rings needed because hands cropped.\nPansy «Si continúas mirando el cielo de esa manera, voy a sentir que debemos agradecerle a Blaise por su discurso.»\nHermione «Podría agradecerle la recomendación, pero no pienso decírselo. Pasaría el resto de las vacaciones asegurando que nos presentó personalmente el atardecer de Amalfi.»\nPanel 3: Pansy continues the villa services joke with a knowing smile and eyes towards Hermione at their railing. Show warm dusk, clean H/P faces unchanged, one roomy correct full balloon. Keep her left/offscreen clip according to viewpoint.\nPansy «Chiara podría incluirlo entre los servicios de la villa, acceso privado al mar, yate disponible y atardeceres narrados por Blaise Zabini.»\nPanel 4: Hermione turns her brown eyes toward the horizon, windy chestnut curls shift near cheek and sapphire. Two faces differ sharply, Pansy looking at her now. Hermione's one exact complete larger sight speech.\nHermione «Es hermoso. Había visto fotografías de la costa, pero nunca imaginé que presenciaría algo así. Desde aquí los colores parecen distintos.»\nPanel 5: Pansy keeps green eyes on Hermione's face as she talks about the view. Hermione starts to see what she means, warm small blush, natural adult emotion. Full exact small sentence pair in one balloon, correctly aimed at Pansy.\nPansy «Estoy de acuerdo. La vista es hermosa.»\nPanel 6: Medium quiet look at both of them from chest up plus one gesture near railing. On top of stone, only two forearms which do not cross. Hermione's LEFT wrist arrives from cream sleeve and one clear diamond ring on the second finger from pinky; she lowers her gaze. Pansy's separate LEFT bare fingers reach softly toward that diamond with just her thumb, H/R/P silver chain around Pansy's own blue-sleeved left wrist. Other hands are behind railing out of shot. No balloons. Cool white-gold against warm sky, no additional gems. Take accessory appearance from reference 4.\nPanel 7: A new lower angle of two adults turning toward each other with fingers of the same two left hands gently intertwined, cream sleeve connecting to faceted diamond LEFT ring finger from H and blue cuff connects to slim white-gold H/R/P chain on P left wrist, Pansy's fingers totally bare. Hands normal scale, visibly independent, no wedding ring added. Keep both faces distinct in medium framing. No other people or text.\nPanel 8: Wide closing two-profile shot from upper torso with the lower linked hands almost fully under frame, H speaks full unabridged marriage remark looking at P, and P listens calmly. Both fully dressed at the railing in same quiet sunset. Only one exact speech balloon and full lower border.\nHermione «Si así reaccionaron por un anillo de promesa, no quiero saber qué harán cuando les anunciemos que vamos a casarnos.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-cf737148-8204-4c03-a602-a56388c6a9df.png"
+        },
+        {
+          "name": "c13_p046_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-cf737148-8204-4c03-a602-a56388c6a9df.png"
+          ],
+          "prompt": "Three precise visual continuity changes to existing full 8-panel page 46. FIRST: Only in panel 2, the wide row directly below the silent opening, replace the small gold barrette on the visible RIGHT temple of black-bobbed green-eyed Pansy with natural black hair; her correct LEFT hair clip remains in the other panels where the left side faces us. SECOND: in the two jewelry shots, panels 6 (fourth row right) and 7 (penultimate wide row), remove the tiny white stud accidentally added to Pansy's bare ear. Do not remove the earrings from Hermione; her identity is separate. Keep fine H/R/P left chain and one small halo diamond left ring exactly in these two shots, same two hands. THIRD: in visible sky areas, carefully remove a few detached glowing white petal/butterfly-like flecks so the sky is clear aside from normal thin orange, pink, violet clouds and the sun. The nearby growing flowers remain connected on columns and rooted foliage as in the preceding page. Keep fully intact all exact words including short «Estoy de acuerdo. La vista es hermosa.» at fourth row left, the heading, faces and eye colors, gestures, necklace, every panel edge and creamy white gutters. Whole full portrait page at exact proportions, no text changes.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7849c592-f304-4ad5-aff3-fdf10acc69a0.png"
+        },
+        {
+          "name": "c13_p046_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7849c592-f304-4ad5-aff3-fdf10acc69a0.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-046-v2-oreja-6.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-046-v2-oreja-7.png"
+          ],
+          "prompt": "Micro-retouch Pansy's jewelry accuracy on the exact full portrait comic page 46. The BLACK BOB / BLUE shirt character's earlobe is always bare. She erroneously has a clear round white pixel cluster/stud on the bottom lobe under her gold hair clip, visible in the following panel portraits: fourth row RIGHT (ear x934 y824), penultimate wide row (ear x694 y1094), last wide row (ear x754 y1384); find and remove each white stud on that character. Replace only those pearl-white points with uninterrupted peach earlobe skin blended to same local lighting. Remove any similar white dot on her other visible unpierced earlobe in earlier panels, leave gold hair accessory untouched. Two enlarged targets supplied as reference. Do not change Hermione's earrings, the bracelets or rings, faces, positions, landscape or any other detail. Full unchanged word balloons and all eight black frames with ivory page border. Return whole edited page with header «Capítulo 13 · 46», not the closeups.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-89d11745-2366-4cdd-94bf-cc2f8a13b3ef.png"
+        },
+        {
+          "name": "c13_p046_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-89d11745-2366-4cdd-94bf-cc2f8a13b3ef.png"
+          ],
+          "prompt": "Targeted haircut silhouette adjustment only. For the dark-haired adult Pansy in blue, in panel THREE (third row left), SIX (fourth row right) and SEVEN (penultimate wide row): extend one tiny existing strand of her sleek black bob down over the bottom earlobe. Her lower earlobe will be hidden completely by the natural hair in all three of those specific portraits; there is no exposed skin and no white points in that part. The ear's upper shape can still be visible, keep expression, green eyes, jaw, and every narrow gold hair clip in the proper place. Do not redraw the curls of the other woman, the gestures, bracelet or ring, clothing or any other part of illustration. Same easy-to-read Spanish words verbatim, entire eight panels and full border, ivory gutters, and sky and sunset. Output full exact portrait page 46.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f769cee8-2b4b-4e58-94cc-c7f46589070e.png"
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "original": "paginas/c13-p047.webp",
+      "image": "paginas/c13-p047-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        616,
+        617
+      ],
+      "summary": "Hermione se sorprende de haber dicho «cuando». Pansy responde imaginando la boda; Hermione la besa, y la voz de Robin llega desde el comedor mientras se pone el sol.",
+      "panels": [
+        {
+          "scene": "Near portrait of Hermione in her established chestnut curls and ivory from p46 gazing up with surprise after her words, and Pansy near her in blue, gently patient. Theirs heads different. Tiny «Quise decir…» full balloon to Hermione. Lower hands only cropped offscreen.",
+          "dialogue": [
+            "Hermione: Quise decir…"
+          ],
+          "sourceFragments": [
+            "Quise decir…"
+          ]
+        },
+        {
+          "scene": "The women stay near rail in established profile and clothing. Clearly see black-bob green-eyed Pansy speak on left within this panel and ivory brunette Hermione appreciatively listening at right. Entire long balloon about her parents, newspaper, photographs and historical significance, placed high with correct tail to Pansy. Leave readable type and border.",
+          "dialogue": [
+            "Pansy: Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión."
+          ],
+          "sourceFragments": [
+            "Mis padres van a anunciarlo durante un mes entero en El Profeta.",
+            "Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión."
+          ]
+        },
+        {
+          "scene": "Wide view of their medium faces and the warm sunset. Pansy speaks while she lowers her green eyes to their joined hands below frame. Hermione visibly more relaxed and a smile grows. Exact long line about Lissandra five changes and Blaise the wedding rings. No imagined wedding, no additional people.",
+          "dialogue": [
+            "Pansy: Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite."
+          ],
+          "sourceFragments": [
+            "Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda.",
+            "Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite."
+          ]
+        },
+        {
+          "scene": "From chest up same women have drawn a little nearer. Pansy in blue begins the exact interrupted short line, looks tender and playful; Hermione warm special smile. One correct bubble with ellipsis no continuation.",
+          "dialogue": [
+            "Pansy: Chiara convertirá la villa en…"
+          ],
+          "sourceFragments": [
+            "Chiara convertirá la villa en…"
+          ]
+        },
+        {
+          "scene": "Gentle single closed-mouth kiss between these two fully dressed adults standing in normal clothes at seaside railing, medium side view at respectful distance. One palm comfortably on elbow/shoulder through garment, ordinary posture and anatomically separate hands, no close-up of lips or bodies. No speech."
+        },
+        {
+          "scene": "Same pair pause and delight as child's voice comes from beyond LEFT garden entrance off screen, in a small exact «¡Ma-ma!» balloon whose tail points toward distant off-panel garden, not either woman's mouth. No baby in view. Same continuous rail and sunset.",
+          "dialogue": [
+            "Robin (desde el comedor): ¡Ma-ma!"
+          ],
+          "sourceFragments": [
+            "¡Ma-ma!"
+          ]
+        },
+        {
+          "scene": "Ordinary mid shot of the same women softly sharing an amused laugh at the child sounding far away. They are still standing side by side at the pale rail, shoulders comfortably close and faces fully distinct, calm soft laugh, no new printed sound effect; no chance of showing wrong-hand jewelry. Same attire and sky."
+        },
+        {
+          "scene": "Slightly wider final quiet terrace view framed by pale column and same magenta bougainvillea. Two fully dressed women exchange a brief modest kiss in middle distance by exactly the pale carved rail, classic garden shapes and real sun meeting ocean horizon. Last visible band of orange reflection and deep azure. No dialogue, no miniature boat close to camera, leave border."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 47\n\nHermione se sorprende de haber dicho «cuando». Pansy responde imaginando la boda; Hermione la besa, y la voz de Robin llega desde el comedor mientras se pone el sol.\nHermione: Quise decir…\nPansy: Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión.\nPansy: Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite.\nPansy: Chiara convertirá la villa en…\nRobin (desde el comedor): ¡Ma-ma!",
+      "review": "Ocho viñetas y cinco intervenciones completas de PDF616–617. Se cotejaron «El Profeta», los dos parlamentos extensos, la frase interrumpida y «¡Ma-ma!» con el globo dirigido hacia el jardín fuera de cuadro. Las dos mujeres conservan rostros, pendientes de Hermione y pelo de Pansy sin accesorios añadidos. Los planos de la terraza oeste mantienen piedra, banco, macetas, columnas y horizonte del 45–46.",
+      "reviewDate": "2026-11-20",
+      "sha256": "e5e5bf8f40f92050011bc04c4c3cbee0890c7c840b3112ad60a33f43546aeb20",
+      "masterSha256": "2d97ef00770325fcdd43d94fdec2c358e874d4e5216f1462c75fc86fcaca0108",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p047-redibujo12-v2.png",
+      "selectedAttempt": "c13_p047_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p047_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p046-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p045-redibujo12-v2.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 47». Exactly 8 editorial panels. Exactly 8 panels: one row left narrow 1, larger right 2; wide 3; wide 4; 5+6; 7+8 closing row with visually wider 8. Room for complete long text, full borders and natural upper/lower page margins. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Only stable terrace layout, exact limestone railing, narrow side stone bench, potted lemons and pink climbing flowers along one white column. Same clothes and orbital background sun.\nExactly same evening terrace as preceding page. Put long sunset light where it belongs and use calm matte warmth, crisp controlled black shapes, two seats not necessary because they are already standing behind pale stone rail. Only Pansy and Hermione present. Individually correct same adult proportions and linework. White columns, same pink rooted climber, small pale bench and potted lemons maintain orientation; the daughter kitchen conversation is faint offscreen from this side. NO drifting flowers, no tea no cups on this terrace, no extra guests even when Robin's voice from garden. Source pure quiet proposal jokes and ordinary closed-mouth affection in full clothes. Pansy remains angular green almond eyes with bare ears and her LEFT gold barrette; her right temple never wears clip, dark black bob exactly hairs shape from preceding. Hermione rich brown eyes and recurring freckles, ivory summer suit, oval blue sapphire and left clear halo diamond. Pansy's chain stays her own left, zero rings. Hands out of view where not needed. When hands shown, only a single normal closed-left clasp below mouths preserving two cuffs. All Spanish speech must reproduce exactly, including «Quise decir…», title «El Profeta», «Chiara convertirá la villa en…» and offscreen exact «¡Ma-ma!» with exclamations and hyphen. Never print name of speaker or stage directions.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Near portrait of Hermione in her established chestnut curls and ivory from p46 gazing up with surprise after her words, and Pansy near her in blue, gently patient. Theirs heads different. Tiny «Quise decir…» full balloon to Hermione. Lower hands only cropped offscreen.\nHermione «Quise decir…»\nPanel 2: The women stay near rail in established profile and clothing. Clearly see black-bob green-eyed Pansy speak on left within this panel and ivory brunette Hermione appreciatively listening at right. Entire long balloon about her parents, newspaper, photographs and historical significance, placed high with correct tail to Pansy. Leave readable type and border.\nPansy «Mis padres van a anunciarlo durante un mes entero en El Profeta. Mi madre intentará controlar cada fotografía y mi padre terminará concediendo una entrevista sobre la importancia histórica de nuestra unión.»\nPanel 3: Wide view of their medium faces and the warm sunset. Pansy speaks while she lowers her green eyes to their joined hands below frame. Hermione visibly more relaxed and a smile grows. Exact long line about Lissandra five changes and Blaise the wedding rings. No imagined wedding, no additional people.\nPansy «Lissandra va a preparar al menos cinco cambios de vestuario para el día de la boda. Blaise se encargará de las alianzas porque lleva menos de una hora solicitando el puesto y no permitirá que nadie se lo quite.»\nPanel 4: From chest up same women have drawn a little nearer. Pansy in blue begins the exact interrupted short line, looks tender and playful; Hermione warm special smile. One correct bubble with ellipsis no continuation.\nPansy «Chiara convertirá la villa en…»\nPanel 5: Gentle single closed-mouth kiss between these two fully dressed adults standing in normal clothes at seaside railing, medium side view at respectful distance. One palm comfortably on elbow/shoulder through garment, ordinary posture and anatomically separate hands, no close-up of lips or bodies. No speech.\nPanel 6: Same pair pause and delight as child's voice comes from beyond LEFT garden entrance off screen, in a small exact «¡Ma-ma!» balloon whose tail points toward distant off-panel garden, not either woman's mouth. No baby in view. Same continuous rail and sunset.\nRobin (desde el comedor) «¡Ma-ma!»\nPanel 7: Ordinary mid shot of the same women softly sharing an amused laugh at the child sounding far away. They are still standing side by side at the pale rail, shoulders comfortably close and faces fully distinct, calm soft laugh, no new printed sound effect; no chance of showing wrong-hand jewelry. Same attire and sky.\nPanel 8: Slightly wider final quiet terrace view framed by pale column and same magenta bougainvillea. Two fully dressed women exchange a brief modest kiss in middle distance by exactly the pale carved rail, classic garden shapes and real sun meeting ocean horizon. Last visible band of orange reflection and deep azure. No dialogue, no miniature boat close to camera, leave border.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2d00eeef-6453-4a2e-a989-f63bf63798e2.png"
+        },
+        {
+          "name": "c13_p047_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2d00eeef-6453-4a2e-a989-f63bf63798e2.png"
+          ],
+          "prompt": "Update just the lower earlobe styling of Pansy in the existing full comic page. Pansy means the woman with sleek dark chin-length black bob, sky blue collared shirt, green slanted eyes, narrow pointed chin. In EVERY visible image of that character on the page where an earlobe is showing, comb a little pointed strand of her very same dark bob in front of the bottom earlobe, letting hair cover the bottom edge of that ear naturally. Hair in front of the lobe so no shiny circular stud, ring or jewel is visible. Keep the existing thin gold barrette over her LEFT temple where appropriate and entirely unchanged eye shape and face. This is a minute dark hair silhouette correction on the black bob only; preserve the chestnut curly woman Hermione and everything else untouched. Keep all eight panels, body language, soft sunset, terrace, exact text and accents and italicized «El Profeta» and off-frame «¡Ma-ma!». Original reflow should not change, return whole portrait page with full borders.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ab8c1ae0-8d1d-487d-82ec-1825a9d6e2e6.png"
+        }
+      ]
+    }
+  ]
+}
