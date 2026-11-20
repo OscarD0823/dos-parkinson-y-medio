@@ -1,0 +1,479 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 13,
+  "end": 16,
+  "date": "2026-11-19",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 13,
+      "original": "paginas/c13-p013.webp",
+      "image": "paginas/c13-p013-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        583
+      ],
+      "summary": "Blaise saluda a Hermione con un abrazo efusivo y descubre el diamante. Daphne aclara que fue una promesa de Navidad, pero él empieza a hacer planes.",
+      "panels": [
+        {
+          "scene": "Blaise LEFT olive outfit/short round tight black coils warmly compliments Hermione RIGHT ivory/curls/front sapphire, holding limonata with both hands, ONE left ring. P/D beside them, Chiara holds Arianna, Robin in Zephyr, same salon.",
+          "dialogue": [
+            "Blaise: Hermione, dolcezza, estás espectacular. Amalfi te sienta demasiado bien y todavía no has pasado una tarde completa aquí.",
+            "Hermione: Muchas gracias, Blaise. Tú también te ves muy bien."
+          ],
+          "sourceFragments": [
+            "Hermione, dolcezza, estás espectacular",
+            "Amalfi te sienta demasiado bien y todavía no has pasado una tarde completa aquí",
+            "Muchas gracias, Blaise. Tú también te ves muy bien"
+          ]
+        },
+        {
+          "scene": "Blaise smiles with playful vanity, same original young BLACK face and olive clothes, no baby in his arms now. H laughs nearby.",
+          "dialogue": [
+            "Blaise: Lo sé, pero aprecio profundamente que lo reconozcas."
+          ],
+          "sourceFragments": [
+            "Lo sé, pero aprecio profundamente que lo reconozcas"
+          ]
+        },
+        {
+          "scene": "Wider full-body friendly greeting. Blaise hugs Hermione and lifts her briefly off the polished marble floor by a few centimeters, coat and blouse opaque, he holds her mid-back. Hermione steadies herself with one arm across his shoulder, one hand holding her lemon, mint and ice goblet upright above his shoulder so it doesn't spill on him. Footwear and both soles clear of the floor. His normal arm positions and their mutual smiles. Single exclaimed balloon tail to Hermione, not to Blaise.",
+          "dialogue": [
+            "Hermione: ¡Blaise!"
+          ],
+          "sourceFragments": [
+            "¡Blaise!"
+          ]
+        },
+        {
+          "scene": "Blaise LEFT warmly replies during last moment of normal greeting then lowers H carefully to floor; H RIGHT dryly responds holding limonata safely away from olive shirt. Natural distinct bodies and arms, full source-order balloons.",
+          "dialogue": [
+            "Blaise: También te extrañé. La villa pierde gran parte de su diversión cuando ustedes no están cerca.",
+            "Hermione: Puedes decírmelo cuando vuelva a tocar el suelo."
+          ],
+          "sourceFragments": [
+            "También te extrañé",
+            "La villa pierde gran parte de su diversión cuando ustedes no están cerca",
+            "Puedes decírmelo cuando vuelva a tocar el suelo"
+          ]
+        },
+        {
+          "scene": "H now firmly on floor checks undamaged ivory clothes and goblet. Blaise takes H LEFT hand gently to inspect ONLY one clear oval halo diamond and glances toward Pansy smiling. H holds goblet in free RIGHT hand; no fused fingers.",
+          "dialogue": [
+            "Blaise: ¿Se van a casar?"
+          ],
+          "sourceFragments": [
+            "¿Se van a casar?"
+          ]
+        },
+        {
+          "scene": "Daphne LEFT joins Blaise at RIGHT and links fingers with his FREE hand, H ring hand still loosely held in other hand, all hand ownership clear. Daphne peach/blonde/BLUE eyes, B olive/short round tight black coils, H ivory nearby.",
+          "dialogue": [
+            "Daphne: No es un anillo de compromiso. Pansy le entregó una promesa de amor a Hermione durante Navidad."
+          ],
+          "sourceFragments": [
+            "No es un anillo de compromiso",
+            "Pansy le entregó una promesa de amor a Hermione durante Navidad"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Blaise looks again at H single LEFT diamond then speaks with enthusiastic smile to H/P/D, P dryly amused. Same salon/one table/two human babies with correct carers. Spacious complete long balloon.",
+          "dialogue": [
+            "Blaise: Una promesa de amor entregada en forma de anillo sigue siendo un compromiso. No necesariamente uno que termine con un ministro frente a ustedes y cien invitados llorando, pero no pienso permitir que un detalle tan pequeño arruine mis planes."
+          ],
+          "sourceFragments": [
+            "Una promesa de amor entregada en forma de anillo sigue siendo un compromiso. No necesariamente uno que termine con un ministro frente a ustedes y cien invitados llorando, pero no pienso permitir que un detalle tan pequeño arruine mis planes"
+          ]
+        }
+      ],
+      "actualPanelCount": 7,
+      "transcript": "Capítulo 13 · 13\n\nBlaise saluda a Hermione con un abrazo efusivo y descubre el diamante. Daphne aclara que fue una promesa de Navidad, pero él empieza a hacer planes.\nBlaise: Hermione, dolcezza, estás espectacular. Amalfi te sienta demasiado bien y todavía no has pasado una tarde completa aquí.\nHermione: Muchas gracias, Blaise. Tú también te ves muy bien.\nBlaise: Lo sé, pero aprecio profundamente que lo reconozcas.\nHermione: ¡Blaise!\nBlaise: También te extrañé. La villa pierde gran parte de su diversión cuando ustedes no están cerca.\nHermione: Puedes decírmelo cuando vuelva a tocar el suelo.\nBlaise: ¿Se van a casar?\nDaphne: No es un anillo de compromiso. Pansy le entregó una promesa de amor a Hermione durante Navidad.\nBlaise: Una promesa de amor entregada en forma de anillo sigue siendo un compromiso. No necesariamente uno que termine con un ministro frente a ustedes y cien invitados llorando, pero no pienso permitir que un detalle tan pequeño arruine mis planes.",
+      "review": "Siete viñetas y nueve turnos de PDF583, cotejados completos con apoyo de OCR. Blaise conserva los rizos cortos, piel y rostro de la ficha. El abrazo amistoso levanta a Hermione del suelo con la limonata por encima del hombro; al bajar le mira el único diamante de su mano izquierda. Daphne se acerca en la viñeta siguiente. Pansy lleva su pulsera izquierda y dedos lisos. Arianna sigue en brazos de Chiara y Robin se distingue en el Zephyr. Composición, rostros, salón, vestuario, colas y bordes revisados.",
+      "reviewDate": "2026-11-19",
+      "sha256": "9fff65637875751756afc232480475a5e84df763a7cdebfbdbc49bf5190a8ae1",
+      "masterSha256": "74f38f4516e00b86770e528c802c21afef28f6f97554848542ab14f271257973",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p013-redibujo12-v1.png",
+      "selectedAttempt": "c13_p013_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p013_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p012-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 13». Exactly 7 editorial panels. Five rows: full-width panel 1, panels 2/3 sharing the second row with 3 larger, panel 4 as third row, 5/6 as fourth row, and wide panel 7. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Anatomical LEFT hand ring reference for the ivory sleeve and Pansy's separate left H/R/P bracelet only. Light cloth color changes per the scene.\nThe story is a cheerful greeting among fully clothed adult friends in a family sitting room. Keep the friendly lift up and down natural, Claude B never holds a baby right now. Chiara holds Arianna in olive and Robin remains in his stroller even during the brief cheers. All other gestures and jewelry exactly as specified. Show Hermione's shoes clearing the floor slightly in scene 3, her tumbler of lemonade upright away from his body. Show H's left ring and separate right hand with lemonade clearly after landing in panel 5. The pale hands are Hermione and Daphne; distinguish their white and peach sleeves and the deep brown hand from the olive sleeve.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Blaise LEFT olive outfit/short round tight black coils warmly compliments Hermione RIGHT ivory/curls/front sapphire, holding limonata with both hands, ONE left ring. P/D beside them, Chiara holds Arianna, Robin in Zephyr, same salon.\nBlaise «Hermione, dolcezza, estás espectacular. Amalfi te sienta demasiado bien y todavía no has pasado una tarde completa aquí.»\nHermione «Muchas gracias, Blaise. Tú también te ves muy bien.»\nPanel 2: Blaise smiles with playful vanity, same original young BLACK face and olive clothes, no baby in his arms now. H laughs nearby.\nBlaise «Lo sé, pero aprecio profundamente que lo reconozcas.»\nPanel 3: Wider full-body friendly greeting. Blaise hugs Hermione and lifts her briefly off the polished marble floor by a few centimeters, coat and blouse opaque, he holds her mid-back. Hermione steadies herself with one arm across his shoulder, one hand holding her lemon, mint and ice goblet upright above his shoulder so it doesn't spill on him. Footwear and both soles clear of the floor. His normal arm positions and their mutual smiles. Single exclaimed balloon tail to Hermione, not to Blaise.\nHermione «¡Blaise!»\nPanel 4: Blaise LEFT warmly replies during last moment of normal greeting then lowers H carefully to floor; H RIGHT dryly responds holding limonata safely away from olive shirt. Natural distinct bodies and arms, full source-order balloons.\nBlaise «También te extrañé. La villa pierde gran parte de su diversión cuando ustedes no están cerca.»\nHermione «Puedes decírmelo cuando vuelva a tocar el suelo.»\nPanel 5: H now firmly on floor checks undamaged ivory clothes and goblet. Blaise takes H LEFT hand gently to inspect ONLY one clear oval halo diamond and glances toward Pansy smiling. H holds goblet in free RIGHT hand; no fused fingers.\nBlaise «¿Se van a casar?»\nPanel 6: Daphne LEFT joins Blaise at RIGHT and links fingers with his FREE hand, H ring hand still loosely held in other hand, all hand ownership clear. Daphne peach/blonde/BLUE eyes, B olive/short round tight black coils, H ivory nearby.\nDaphne «No es un anillo de compromiso. Pansy le entregó una promesa de amor a Hermione durante Navidad.»\nPanel 7: FULL-WIDTH Blaise looks again at H single LEFT diamond then speaks with enthusiastic smile to H/P/D, P dryly amused. Same salon/one table/two human babies with correct carers. Spacious complete long balloon.\nBlaise «Una promesa de amor entregada en forma de anillo sigue siendo un compromiso. No necesariamente uno que termine con un ministro frente a ustedes y cien invitados llorando, pero no pienso permitir que un detalle tan pequeño arruine mis planes.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f5609852-ae09-4ab2-a5df-f52adec8bf1d.png"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "original": "paginas/c13-p014.webp",
+      "image": "paginas/c13-p014-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        584
+      ],
+      "summary": "Blaise se ofrece como padrino y custodio de las alianzas, bromea sobre Robin y los gemelos de camisa de Draco, y descubre el brazalete H/R/P.",
+      "panels": [
+        {
+          "scene": "Pansy LEFT asks Blaise RIGHT, B gently releases H left hand before turning to P. Everyone in same cream/gilt salon, correct olive/blue-white outfits and jewelry, P bare fingers.",
+          "dialogue": [
+            "Pansy: ¿Qué planes?",
+            "Blaise: Quiero ser el padrino. También deseo dejar registrado desde ahora que yo cuidaré las alianzas."
+          ],
+          "sourceFragments": [
+            "¿Qué planes?",
+            "Quiero ser el padrino. También deseo dejar registrado desde ahora que yo cuidaré las alianzas"
+          ]
+        },
+        {
+          "scene": "Two-shot with Pansy on the left, sipping her pale lemonade with lemon and mint in her LEFT hand, one fine left wrist chain partly hidden by the blue cuff and her fingers completely plain. Blaise replies on the right. No ring box in the artwork.",
+          "dialogue": [
+            "Pansy: No hay alianzas.",
+            "Blaise: Todavía. Eso me da tiempo para elegir una caja adecuada."
+          ],
+          "sourceFragments": [
+            "No hay alianzas",
+            "Todavía. Eso me da tiempo para elegir una caja adecuada"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH P LEFT contradicts B RIGHT who elaborates, human Robin visible in sand/gold Zephyr behind. Do NOT show invented wedding/cushion/ceremony; only discussion. Two roomy complete balloons.",
+          "dialogue": [
+            "Pansy: No existe ninguna boda que necesite padrino.",
+            "Blaise: Esa es una interpretación demasiado limitada de la situación. Podrían hacer una ceremonia simbólica durante la cena, dejar que Robin lleve el anillo sobre un cojín y permitirme pronunciar unas palabras."
+          ],
+          "sourceFragments": [
+            "No existe ninguna boda que necesite padrino",
+            "Esa es una interpretación demasiado limitada de la situación. Podrían hacer una ceremonia simbólica durante la cena, dejar que Robin lleve el anillo sobre un cojín y permitirme pronunciar unas palabras"
+          ]
+        },
+        {
+          "scene": "Pansy LEFT gestures lightly toward awake human Robin safely in Zephyr, B RIGHT responds mock-seriously. H blushes smiling, ivory and sapphire intact.",
+          "dialogue": [
+            "Pansy: Robin apenas está aprendiendo a gatear.",
+            "Blaise: Su entrada será más larga. Así todos tendrán tiempo para admirarlo."
+          ],
+          "sourceFragments": [
+            "Robin apenas está aprendiendo a gatear",
+            "Su entrada será más larga",
+            "Así todos tendrán tiempo para admirarlo"
+          ]
+        },
+        {
+          "scene": "Blaise continues with amused expression in OLIVE plain rolled sleeve shirt. Same salon. Draco ABSENT, no new baby or other jewelry props; the word GEMELOS here means SHIRT CUFFLINKS, not children.",
+          "dialogue": [
+            "Blaise: Además, no confío en Draco para las alianzas. Intentaría combinarlas con sus gemelos y terminaríamos buscándolas entre cuatro accesorios idénticos."
+          ],
+          "sourceFragments": [
+            "Además",
+            "no confío en Draco para las alianzas. Intentaría combinarlas con sus gemelos y terminaríamos buscándolas entre cuatro accesorios idénticos"
+          ]
+        },
+        {
+          "scene": "Daphne LEFT dryly replies and B RIGHT answers with affection, peach/blonde/blue-eyed vs olive/black/dark-eyed, same original faces. No Draco visible.",
+          "dialogue": [
+            "Daphne: Estoy segura de que Draco se sentiría honrado de conocer la poca confianza que tienes en él.",
+            "Blaise: Lo sabe. Por eso nuestra amistad funciona."
+          ],
+          "sourceFragments": [
+            "Estoy segura de que Draco se sentiría honrado de conocer la poca confianza que tienes en él",
+            "Lo sabe. Por eso nuestra amistad funciona"
+          ]
+        },
+        {
+          "scene": "Close-up of Blaise at left (brown skin and olive cuff) gently turning Pansy's anatomical LEFT wrist as she places the goblet on the table with that hand and removes her plain fingers from the stem. Her open left hand extends from her pale blue sleeve. Clearly visible H, R and P small silver letter charms on ONE white gold chain. All fingers bare. Single small balloon «Un momento.» His other hand stays out of the way.",
+          "dialogue": [
+            "Blaise: Un momento."
+          ],
+          "sourceFragments": [
+            "Un momento"
+          ]
+        },
+        {
+          "scene": "Blaise on left asks, looking at the bracelet. Pansy center, blue sleeve, same H/R/P wrist held naturally in Blaise's brown hand. Hermione on right in ivory and chestnut curls, front blue sapphire, her left ring only if this wrist shows here, nods and speaks. Two balloons in order, Blaise then Hermione. No other jewelry or hands in focus.",
+          "dialogue": [
+            "Blaise: ¿Hermione te lo dio?",
+            "Hermione: En Navidad. Quería que tuviera algo de los tres."
+          ],
+          "sourceFragments": [
+            "¿Hermione te lo dio?",
+            "En Navidad. Quería que tuviera algo de los tres"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 14\n\nBlaise se ofrece como padrino y custodio de las alianzas, bromea sobre Robin y los gemelos de camisa de Draco, y descubre el brazalete H/R/P.\nPansy: ¿Qué planes?\nBlaise: Quiero ser el padrino. También deseo dejar registrado desde ahora que yo cuidaré las alianzas.\nPansy: No hay alianzas.\nBlaise: Todavía. Eso me da tiempo para elegir una caja adecuada.\nPansy: No existe ninguna boda que necesite padrino.\nBlaise: Esa es una interpretación demasiado limitada de la situación. Podrían hacer una ceremonia simbólica durante la cena, dejar que Robin lleve el anillo sobre un cojín y permitirme pronunciar unas palabras.\nPansy: Robin apenas está aprendiendo a gatear.\nBlaise: Su entrada será más larga. Así todos tendrán tiempo para admirarlo.\nBlaise: Además, no confío en Draco para las alianzas. Intentaría combinarlas con sus gemelos y terminaríamos buscándolas entre cuatro accesorios idénticos.\nDaphne: Estoy segura de que Draco se sentiría honrado de conocer la poca confianza que tienes en él.\nBlaise: Lo sabe. Por eso nuestra amistad funciona.\nBlaise: Un momento.\nBlaise: ¿Hermione te lo dio?\nHermione: En Navidad. Quería que tuviera algo de los tres.",
+      "review": "Ocho viñetas y catorce turnos de PDF584, cotejo visual y OCR. El primer globo apunta a Pansy en azul. Blaise conserva el rostro y los rizos compactos del capítulo 12. En la última fila, la pulsera de tres iniciales sale de la manga azul izquierda de Pansy y el diamante permanece en el anular izquierdo de Hermione, con manga marfil. Se mantiene a Robin con los tres aros en su Zephyr y las alusiones a planes y alianzas quedan como conversación. Bordes, vestuario y caras revisados.",
+      "reviewDate": "2026-11-19",
+      "sha256": "b5bf0447e044233ff4a2aa4cd4fb1d5952475605f58b689888ad4e78875daf9f",
+      "masterSha256": "eaca4559c49f5c57d8cceebf2f1d1c7dc1aba8d459346c321987296d09627701",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p014-redibujo12-v2.png",
+      "selectedAttempt": "c13_p014_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p014_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p013-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 14». Exactly 8 editorial panels. Five rows: panels 1 and 2 side by side, wide panel 3, wide panel 4, panels 5 and 6 side by side, panels 7 and 8 side by side. Leave room in each for complete sentences. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Finger and wrist geometry ONLY: exactly one H/R/P bracelet and no ring on Pansy's LEFT hand and only one ring on Hermione's LEFT ring finger. No sleeve color or other scene from this reference.\nContinue the conversation at the same salon sofa and low table. Maintain individual faces even in far shots. Ring, wrist chain, clothes and stroller continuity are crucial. No one depicts the imagined ceremony, rings on a cushion, jewelry boxes, Draco, or cufflinks. One separate H/R/P bracelet made of fine white gold links and three letter charms, on the left wrist coming from Pansy's blue sleeve. Blaise's plain brown hand from the olive sleeve gently turns it, keeping every finger natural and separate. The original character scene is at the same adult height, no portraits reused or repeated exact pose. In the final panel, Hermione in ivory looks to the others and gives her single whole sentence, while Pansy in blue quietly looks back with the same hand still held by Blaise's olive cuff. Sharp black lettering for legibility.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Pansy LEFT asks Blaise RIGHT, B gently releases H left hand before turning to P. Everyone in same cream/gilt salon, correct olive/blue-white outfits and jewelry, P bare fingers.\nPansy «¿Qué planes?»\nBlaise «Quiero ser el padrino. También deseo dejar registrado desde ahora que yo cuidaré las alianzas.»\nPanel 2: Two-shot with Pansy on the left, sipping her pale lemonade with lemon and mint in her LEFT hand, one fine left wrist chain partly hidden by the blue cuff and her fingers completely plain. Blaise replies on the right. No ring box in the artwork.\nPansy «No hay alianzas.»\nBlaise «Todavía. Eso me da tiempo para elegir una caja adecuada.»\nPanel 3: FULL-WIDTH P LEFT contradicts B RIGHT who elaborates, human Robin visible in sand/gold Zephyr behind. Do NOT show invented wedding/cushion/ceremony; only discussion. Two roomy complete balloons.\nPansy «No existe ninguna boda que necesite padrino.»\nBlaise «Esa es una interpretación demasiado limitada de la situación. Podrían hacer una ceremonia simbólica durante la cena, dejar que Robin lleve el anillo sobre un cojín y permitirme pronunciar unas palabras.»\nPanel 4: Pansy LEFT gestures lightly toward awake human Robin safely in Zephyr, B RIGHT responds mock-seriously. H blushes smiling, ivory and sapphire intact.\nPansy «Robin apenas está aprendiendo a gatear.»\nBlaise «Su entrada será más larga. Así todos tendrán tiempo para admirarlo.»\nPanel 5: Blaise continues with amused expression in OLIVE plain rolled sleeve shirt. Same salon. Draco ABSENT, no new baby or other jewelry props; the word GEMELOS here means SHIRT CUFFLINKS, not children.\nBlaise «Además, no confío en Draco para las alianzas. Intentaría combinarlas con sus gemelos y terminaríamos buscándolas entre cuatro accesorios idénticos.»\nPanel 6: Daphne LEFT dryly replies and B RIGHT answers with affection, peach/blonde/blue-eyed vs olive/black/dark-eyed, same original faces. No Draco visible.\nDaphne «Estoy segura de que Draco se sentiría honrado de conocer la poca confianza que tienes en él.»\nBlaise «Lo sabe. Por eso nuestra amistad funciona.»\nPanel 7: Close-up of Blaise at left (brown skin and olive cuff) gently turning Pansy's anatomical LEFT wrist as she places the goblet on the table with that hand and removes her plain fingers from the stem. Her open left hand extends from her pale blue sleeve. Clearly visible H, R and P small silver letter charms on ONE white gold chain. All fingers bare. Single small balloon «Un momento.» His other hand stays out of the way.\nBlaise «Un momento.»\nPanel 8: Blaise on left asks, looking at the bracelet. Pansy center, blue sleeve, same H/R/P wrist held naturally in Blaise's brown hand. Hermione on right in ivory and chestnut curls, front blue sapphire, her left ring only if this wrist shows here, nods and speaks. Two balloons in order, Blaise then Hermione. No other jewelry or hands in focus.\nBlaise «¿Hermione te lo dio?»\nHermione «En Navidad. Quería que tuviera algo de los tres.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d7b93416-41ea-4f6c-97ca-991843ecc2d4.png"
+        },
+        {
+          "name": "c13_p014_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d7b93416-41ea-4f6c-97ca-991843ecc2d4.png"
+          ],
+          "prompt": "Make a precise lettering correction to the full comic page in image 1. Return the exact whole 1024×1536 page «Capítulo 13 · 14», all eight panels and fourteen existing balloons. ONLY in the upper-left panel, redraw the small first balloon «¿Qué planes?» so its tail clearly originates from the center lower edge and points DOWN-RIGHT to the mouth of Pansy, the short-haired black bob woman with a blue blouse at center of that panel. The speech should visibly belong to that blue-blouse woman. Remove the present tail pointing to the far-left long curly-haired ivory person. Keep Hermione on the far left, with her chestnut curls and a listening smile. To keep the tail clear, if needed shift that small white balloon slightly right over the blue woman's head while keeping every letter and accent and ample separation from the big «Quiero ser el padrino.» balloon. Do not overlap faces. The second big balloon from the man on the right stays exactly as it is. All other artwork, border pixels, eight panel rectangles, characters, black curly hair, baby and stroller, hands and ring positions, dialogue, accents and painted color stay the same. Keep the complete bottom border and margin visible.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1656d5ea-a859-46d3-abd5-d61bdbc8df1d.png"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "original": "paginas/c13-p015.webp",
+      "image": "paginas/c13-p015-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        585
+      ],
+      "summary": "Blaise reconoce el significado de ambos regalos. Pansy abraza a Hermione por la cintura y las bromas sobre la ceremonia continúan hasta que los bebés se reconocen.",
+      "panels": [
+        {
+          "scene": "Close Blaise looks at fine white-gold H/R/P bracelet on P LEFT wrist, then lifts gaze with sincere serious expression. Exact natural hands, P fingers bare. One clear balloon.",
+          "dialogue": [
+            "Blaise: Aquí hay dos promesas."
+          ],
+          "sourceFragments": [
+            "Aquí hay dos promesas"
+          ]
+        },
+        {
+          "scene": "Hermione blushes mildly, brown eyes/pecas/ivory/sapphire, one LEFT clear diamond and goblet in RIGHT hand. Same warm family scene, not suggestive.",
+          "dialogue": [
+            "Hermione: Es un brazalete."
+          ],
+          "sourceFragments": [
+            "Es un brazalete"
+          ]
+        },
+        {
+          "scene": "Blaise on the left, Pansy centered next to him, Hermione on the right in ivory. Blaise lifts his gaze sincerely in profile, holding the LEFT hand of Pansy only. Her bare fingers follow a continuous hand then the H/R/P chain on her left wrist then the matching blue cuff and elbow back to Pansy. There is room between Pansy and Hermione so the arm never overlaps Hermione's ivory chair or forearm; Hermione's left diamond on her separate hand if seen, right hand near lemonade. Wide single long balloon points to Blaise, exact complete quote.",
+          "dialogue": [
+            "Blaise: Y el anillo es un anillo. Lo importante no es la forma. Tú le entregaste algo que las une a los tres y Pansy lo lleva en la muñeca. Ella te entregó una promesa y tú le recordaste que también forma parte de la tuya."
+          ],
+          "sourceFragments": [
+            "Y el anillo es un anillo",
+            "Lo importante no es la forma. Tú le entregaste algo que las une a los tres y Pansy lo lleva en la muñeca. Ella te entregó una promesa y tú le recordaste que también forma parte de la tuya"
+          ]
+        },
+        {
+          "scene": "Silent affectionate side hug in the chairs. Pansy has drawn her hand back from Blaise and touched the three letters, then now holds Hermione gently around her clothed waist below her ribcage with one arm. Show the touch clearly on the ivory top's waist as seen at a slightly wider waist-up distance. Hermione leans her shoulder toward Pansy with her familiar freckles and curls. P's hand is plain, sapphire and single diamond belong only to Hermione if visible. Blaise looks attentively on the other side. No dialogue."
+        },
+        {
+          "scene": "Blaise LEFT regains playful smile and lifts one index finger, P RIGHT laughs. No other new props or people.",
+          "dialogue": [
+            "Blaise: Esto fortalece mi candidatura como padrino.",
+            "Pansy: No podía durar mucho la sensibilidad."
+          ],
+          "sourceFragments": [
+            "Esto fortalece mi candidatura como padrino",
+            "No podía durar mucho la sensibilidad"
+          ]
+        },
+        {
+          "scene": "Blaise LEFT mock-dignified, P RIGHT answers amused firmly, two clear full source-order balloons.",
+          "dialogue": [
+            "Blaise: Soy un hombre complejo. Puedo conmoverme y organizar una ceremonia al mismo tiempo.",
+            "Pansy: No vas a organizar nada."
+          ],
+          "sourceFragments": [
+            "Soy un hombre complejo. Puedo conmoverme y organizar una ceremonia al mismo tiempo",
+            "No vas a organizar nada"
+          ]
+        },
+        {
+          "scene": "Blaise left gestures toward his mother, Pansy right replies, Blaise gets the final tiny balloon below with its clear tail pointing LEFT to him. Chiara in champagne still holds golden-curled Arianna, in background as space permits. All three exact turns.",
+          "dialogue": [
+            "Blaise: Mamá ya está planeando una cena.",
+            "Pansy: Una cena no es una ceremonia.",
+            "Blaise: Todavía."
+          ],
+          "sourceFragments": [
+            "Mamá ya está planeando una cena",
+            "Una cena no es una ceremonia",
+            "Todavía"
+          ]
+        },
+        {
+          "scene": "Wide group shot. Chiara still supports Arianna solidly against one arm and hip while holding her single pale white-wine glass away with her other hand. She speaks from near the center. Arianna peers over her toward the stroller and laughs. Robin, chestnut curls and green eyes, supported in his beige Zephyr, extends his small arms to her. Olive-clothed blonde Arianna and white-blue Robin are visibly distinct. Other adults redirect their gaze, no new actors, proper overlap of both babies and no extra hands.",
+          "dialogue": [
+            "Chiara: Me alegra que al menos uno de ustedes comprenda mi visión."
+          ],
+          "sourceFragments": [
+            "Me alegra que al menos uno de ustedes comprenda mi visión"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 15\n\nBlaise reconoce el significado de ambos regalos. Pansy abraza a Hermione por la cintura y las bromas sobre la ceremonia continúan hasta que los bebés se reconocen.\nBlaise: Aquí hay dos promesas.\nHermione: Es un brazalete.\nBlaise: Y el anillo es un anillo. Lo importante no es la forma. Tú le entregaste algo que las une a los tres y Pansy lo lleva en la muñeca. Ella te entregó una promesa y tú le recordaste que también forma parte de la tuya.\nBlaise: Esto fortalece mi candidatura como padrino.\nPansy: No podía durar mucho la sensibilidad.\nBlaise: Soy un hombre complejo. Puedo conmoverme y organizar una ceremonia al mismo tiempo.\nPansy: No vas a organizar nada.\nBlaise: Mamá ya está planeando una cena.\nPansy: Una cena no es una ceremonia.\nBlaise: Todavía.\nChiara: Me alegra que al menos uno de ustedes comprenda mi visión.",
+      "review": "Ocho viñetas y once turnos de PDF585. Se verificaron a mano las palabras sensibilidad y conmoverme que el OCR separa por el salto de línea con guion. Pulsera con la manga azul de Pansy en los acercamientos y diamante en el anular de Hermione. Se ve el abrazo en la cintura y el cambio de expresión de Blaise, con rizos compactos. En el cierre los ojos de Arianna son azules, los de Robin son verdes y cada bebé queda en su portador propio, con pelo y ropa distintos. Diálogos, colas, salón, bordes y vestuario cotejados.",
+      "reviewDate": "2026-11-19",
+      "sha256": "95cd3900292d120366cba354069d1844c87de3a4edd031581a1275bccd99df5c",
+      "masterSha256": "b1f770895afc2305178def5babf691c9343d15c081635e9a4ec7e513dd871529",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p015-redibujo12-v2.png",
+      "selectedAttempt": "c13_p015_redibujo12_v2.json",
+      "ocrMissingCandidates": [
+        "sensibilidad",
+        "conmoverme"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p015_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p014-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 15». Exactly 8 editorial panels. Five rows: 1 and 2 side by side, 3 spans the full width, 4 and 5 side by side, 6 and 7 side by side, 8 spans full width. Leave broad space in panel 3 for the full long quote. Give the closing row a clearly visible bottom border and 8px light margin. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Only the left hand anatomy and ring/bracelet ownership. Clothing colors from the scene.\nShow two separate personal gifts in the salon conversation without transferring either. A clear solemn expression on Blaise in panels 1 and 3 becomes an amused smile by panel 5. Pansy and Hermione share a simple tender side hug at the waist. Hermione's ring, Pansy's bracelet and the two babies must be unmistakably distinct.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Close Blaise looks at fine white-gold H/R/P bracelet on P LEFT wrist, then lifts gaze with sincere serious expression. Exact natural hands, P fingers bare. One clear balloon.\nBlaise «Aquí hay dos promesas.»\nPanel 2: Hermione blushes mildly, brown eyes/pecas/ivory/sapphire, one LEFT clear diamond and goblet in RIGHT hand. Same warm family scene, not suggestive.\nHermione «Es un brazalete.»\nPanel 3: Blaise on the left, Pansy centered next to him, Hermione on the right in ivory. Blaise lifts his gaze sincerely in profile, holding the LEFT hand of Pansy only. Her bare fingers follow a continuous hand then the H/R/P chain on her left wrist then the matching blue cuff and elbow back to Pansy. There is room between Pansy and Hermione so the arm never overlaps Hermione's ivory chair or forearm; Hermione's left diamond on her separate hand if seen, right hand near lemonade. Wide single long balloon points to Blaise, exact complete quote.\nBlaise «Y el anillo es un anillo. Lo importante no es la forma. Tú le entregaste algo que las une a los tres y Pansy lo lleva en la muñeca. Ella te entregó una promesa y tú le recordaste que también forma parte de la tuya.»\nPanel 4: Silent affectionate side hug in the chairs. Pansy has drawn her hand back from Blaise and touched the three letters, then now holds Hermione gently around her clothed waist below her ribcage with one arm. Show the touch clearly on the ivory top's waist as seen at a slightly wider waist-up distance. Hermione leans her shoulder toward Pansy with her familiar freckles and curls. P's hand is plain, sapphire and single diamond belong only to Hermione if visible. Blaise looks attentively on the other side. No dialogue.\nPanel 5: Blaise LEFT regains playful smile and lifts one index finger, P RIGHT laughs. No other new props or people.\nBlaise «Esto fortalece mi candidatura como padrino.»\nPansy «No podía durar mucho la sensibilidad.»\nPanel 6: Blaise LEFT mock-dignified, P RIGHT answers amused firmly, two clear full source-order balloons.\nBlaise «Soy un hombre complejo. Puedo conmoverme y organizar una ceremonia al mismo tiempo.»\nPansy «No vas a organizar nada.»\nPanel 7: Blaise left gestures toward his mother, Pansy right replies, Blaise gets the final tiny balloon below with its clear tail pointing LEFT to him. Chiara in champagne still holds golden-curled Arianna, in background as space permits. All three exact turns.\nBlaise «Mamá ya está planeando una cena.»\nPansy «Una cena no es una ceremonia.»\nBlaise «Todavía.»\nPanel 8: Wide group shot. Chiara still supports Arianna solidly against one arm and hip while holding her single pale white-wine glass away with her other hand. She speaks from near the center. Arianna peers over her toward the stroller and laughs. Robin, chestnut curls and green eyes, supported in his beige Zephyr, extends his small arms to her. Olive-clothed blonde Arianna and white-blue Robin are visibly distinct. Other adults redirect their gaze, no new actors, proper overlap of both babies and no extra hands.\nChiara «Me alegra que al menos uno de ustedes comprenda mi visión.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f1fee389-5360-4829-b7d1-0c56e42b2a13.png"
+        },
+        {
+          "name": "c13_p015_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f1fee389-5360-4829-b7d1-0c56e42b2a13.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Edit Image 1, the full finished Spanish comic «Capítulo 13 · 15». Preserve exactly all eight panel rectangles, the page dimensions 1024×1536 and margins, thin border, lettering, eleven balloons, accents, physical poses, outfits, hand anatomy, scenes, lighting and every other color. One precise color change in the full-width last panel only: the blonde curly infant Arianna in olive linen with two pale bows, held by the grandmother Chiara near the center, must have clear bright sapphire blue irises, like in Image 2, distinct from Robin's olive GREEN eyes. Change Arianna's iris pigment from teal green to blue. Preserve pupil shape, catch light, whites, facial proportions, expression and all of her face and surroundings. Robin at right in the beige stroller must retain the exact green eyes and current features. Keep the panel fully framed and the final black rule above the ivory bottom margin. No additional text and no other changes.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1e63fc67-0242-42e1-8006-800ff6acca36.png"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "original": "paginas/c13-p016.webp",
+      "image": "paginas/c13-p016-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        586
+      ],
+      "summary": "Chiara y Blaise acercan a Arianna y Robin. Los bebés se ríen y Robin intenta agarrar los moños de Arianna mientras Blaise le habla en italiano.",
+      "panels": [
+        {
+          "scene": "Chiara safely adjusts HUMAN Arianna on hip to face smiling HUMAN Robin in same Zephyr, two tiny bows and BLUE eyes, olive outfit; Robin chestnut GREEN eyes white-blue/manta. No toy skin. Same salon.",
+          "dialogue": [
+            "Chiara: Ahí está tu amigo."
+          ],
+          "sourceFragments": [
+            "Ahí está tu amigo"
+          ]
+        },
+        {
+          "scene": "Blaise bends by the Zephyr to greet Robin. Blaise's exact short compact coils and brown eyes, wearing rolled olive sleeves. He places a single brown hand near the buckle before unfastening. Hermione in ivory and Pansy in blue nearby at right. Child supported in his cream-padded carrycot. His three attached toy rings and white shirt, blue pants stable. One complete bilingual balloon from Blaise.",
+          "dialogue": [
+            "Blaise: Ciao, campione (hola, campeón). Veo que también extrañaste a mi princesa."
+          ],
+          "sourceFragments": [
+            "Ciao, campione (hola, campeón)",
+            "Veo que también extrañaste a mi princesa"
+          ]
+        },
+        {
+          "scene": "Silent full-width cause and effect together: Hermione nods permission from a chair at right, Blaise already lifts little HUMAN Robin supported against his chest with one forearm under his hips and other hand at upper back. Show padded beige EMPTY Zephyr with its loosened belt, distinct baby Arianna held by Chiara in one natural pose only, no duplication of either child. Quiet pose, no text."
+        },
+        {
+          "scene": "FULL-WIDTH Blaise LEFT securely holds Robin against chest, Chiara RIGHT holds Arianna, brings babies closer face to face without touching bodies yet. Babies reach tiny hands naturally, four distinct adult arms assigned correctly. Print bilingual reply completely, including Spanish parentheses.",
+          "dialogue": [
+            "Blaise: Guarda chi è arrivato, principessa (mira quién ha llegado, princesa). Ti è mancato Robin? (¿Extrañaste a Robin?)"
+          ],
+          "sourceFragments": [
+            "Guarda chi è arrivato, principessa (mira quién ha llegado, princesa)",
+            "Ti è mancato Robin? (¿Extrañaste a Robin?)"
+          ]
+        },
+        {
+          "scene": "Wordless close two-shot of both human infants supported separately by their adults' clothed arms. Green-eyed Robin on left, chestnut curls, white shirt, blue pants. Blue-eyed Arianna on right, pale golden little curls, olive blouse and tiny pale bows. Both laugh. One of Robin's little hands touches the ribbon of exactly one bow. That hand clearly comes from Robin's white sleeve and normal elbow, no other hand on her hair."
+        },
+        {
+          "scene": "Blaise's deep brown right hand from olive rolled sleeve carefully separates Robin's little fingers in a white sleeve from Arianna's ribbon bow, without pulling skin or hair. His other arm supports Robin under the hips, Chiara supports Arianna with her two hands in champagne. Maximize space for the long fully written bilingual balloon clearly from Blaise. Their children wear all their own clothes and remain intact.",
+          "dialogue": [
+            "Blaise: Piano, piccolo. Devi essere gentile con la mia principessa (despacio, pequeño; debes ser amable con mi princesa). È troppo bella per arrivare a cena senza capelli (es demasiado hermosa para llegar a la cena sin cabello)."
+          ],
+          "sourceFragments": [
+            "Piano, piccolo. Devi essere gentile con la mia principessa (despacio, pequeño; debes ser amable con mi princesa)",
+            "È troppo bella per arrivare a cena senza capelli (es demasiado hermosa para llegar a la cena sin cabello)"
+          ]
+        },
+        {
+          "scene": "Chiara LEFT laughs and gently turns Arianna head away from Robin second reaching hand, B RIGHT answers mock-seriously. Babies still securely held human, exact olive vs white-blue outfits; same salon.",
+          "dialogue": [
+            "Chiara: No parece impresionado por tu advertencia.",
+            "Blaise: Todavía no comprende la responsabilidad de tratar con una Zabini."
+          ],
+          "sourceFragments": [
+            "No parece impresionado por tu advertencia",
+            "Todavía no comprende la responsabilidad de tratar con una Zabini"
+          ]
+        },
+        {
+          "scene": "Daphne LEFT in peach remarks dryly to Blaise at center, he looks warmly toward Arianna held by Chiara RIGHT and promises protection while still holding Robin securely. Arianna responds by putting own tiny hand into mouth, no other hands near mouth. Two full balloons exact order.",
+          "dialogue": [
+            "Daphne: Es un bebé.",
+            "Blaise: Papà ti proteggerà sempre, amore mio (papá siempre te protegerá, amor mío)."
+          ],
+          "sourceFragments": [
+            "Es un bebé",
+            "Papà ti proteggerà sempre, amore mio (papá siempre te protegerá, amor mío)"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 16\n\nChiara y Blaise acercan a Arianna y Robin. Los bebés se ríen y Robin intenta agarrar los moños de Arianna mientras Blaise le habla en italiano.\nChiara: Ahí está tu amigo.\nBlaise: Ciao, campione (hola, campeón). Veo que también extrañaste a mi princesa.\nBlaise: Guarda chi è arrivato, principessa (mira quién ha llegado, princesa). Ti è mancato Robin? (¿Extrañaste a Robin?)\nBlaise: Piano, piccolo. Devi essere gentile con la mia principessa (despacio, pequeño; debes ser amable con mi princesa). È troppo bella per arrivare a cena senza capelli (es demasiado hermosa para llegar a la cena sin cabello).\nChiara: No parece impresionado por tu advertencia.\nBlaise: Todavía no comprende la responsabilidad de tratar con una Zabini.\nDaphne: Es un bebé.\nBlaise: Papà ti proteggerà sempre, amore mio (papá siempre te protegerá, amor mío).",
+      "review": "Ocho viñetas y ocho turnos de PDF586. Se cotejaron en la imagen los diálogos en italiano, acentos y traducciones completas. Robin permanece en su Zephyr hasta el visto bueno de Hermione y después en los brazos de Blaise. Arianna está con Chiara en las ocho viñetas, con ojos azules, rizos rubios y lazos; Robin conserva ojos verdes, rizos castaños, ropa blanca y azul y apoyo en brazos. Se mantienen las manos separadas en las tomas del lazo. En el cierre Blaise dirige su mirada a Arianna. Caras, joyas, ropa, salón, colas y bordes revisados.",
+      "reviewDate": "2026-11-19",
+      "sha256": "3a8112358a647be057bbaa22629b65531725c066897e3bcb3f88fd1f77db2ad9",
+      "masterSha256": "cf28034ec6bc9c9e170d962425f8c18965a3b7ae62c18d7a8e5f16a63bd0f029",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p016-redibujo12-v2.png",
+      "selectedAttempt": "c13_p016_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p016_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p015-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 16». Exactly 8 editorial panels. Five rows. 1 and 2 side by side with 2 slightly wider. 3 spans full width. 4 spans full width. 5 and 6 side by side, give panel 6 about 64% of the row for the long quote. 7 and 8 side by side, give panel 8 enough space for two complete bubbles. Leave visible bottom rule and ivory margin. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Precise luminous BLUE eyes, short pale golden curls and own young baby face of Arianna. Current clothes are olive and she has the two bows. Do not transfer this eye color or hair to Robin.\nClear causal sequence: Robin starts in the beige carrycot, Hermione silently permits Blaise to pick him up, then Robin is held by Blaise through the rest, with the empty Zephyr if seen. Blonde blue-eyed Arianna held by Chiara from first to last frame. Both babies retain the soft human size, clothing, faces and individual hair and eyes of the prior page and picture 4. The whole dialogue is bilingual in panels 2,4,6,8: print both Italian and Spanish including parentheses. Arrange the long words cleanly, accent marks correctly, no duplication. One continuous short warm family scene, physically distinct unconfused arms and hands. No extras.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Chiara safely adjusts HUMAN Arianna on hip to face smiling HUMAN Robin in same Zephyr, two tiny bows and BLUE eyes, olive outfit; Robin chestnut GREEN eyes white-blue/manta. No toy skin. Same salon.\nChiara «Ahí está tu amigo.»\nPanel 2: Blaise bends by the Zephyr to greet Robin. Blaise's exact short compact coils and brown eyes, wearing rolled olive sleeves. He places a single brown hand near the buckle before unfastening. Hermione in ivory and Pansy in blue nearby at right. Child supported in his cream-padded carrycot. His three attached toy rings and white shirt, blue pants stable. One complete bilingual balloon from Blaise.\nBlaise «Ciao, campione (hola, campeón). Veo que también extrañaste a mi princesa.»\nPanel 3: Silent full-width cause and effect together: Hermione nods permission from a chair at right, Blaise already lifts little HUMAN Robin supported against his chest with one forearm under his hips and other hand at upper back. Show padded beige EMPTY Zephyr with its loosened belt, distinct baby Arianna held by Chiara in one natural pose only, no duplication of either child. Quiet pose, no text.\nPanel 4: FULL-WIDTH Blaise LEFT securely holds Robin against chest, Chiara RIGHT holds Arianna, brings babies closer face to face without touching bodies yet. Babies reach tiny hands naturally, four distinct adult arms assigned correctly. Print bilingual reply completely, including Spanish parentheses.\nBlaise «Guarda chi è arrivato, principessa (mira quién ha llegado, princesa). Ti è mancato Robin? (¿Extrañaste a Robin?)»\nPanel 5: Wordless close two-shot of both human infants supported separately by their adults' clothed arms. Green-eyed Robin on left, chestnut curls, white shirt, blue pants. Blue-eyed Arianna on right, pale golden little curls, olive blouse and tiny pale bows. Both laugh. One of Robin's little hands touches the ribbon of exactly one bow. That hand clearly comes from Robin's white sleeve and normal elbow, no other hand on her hair.\nPanel 6: Blaise's deep brown right hand from olive rolled sleeve carefully separates Robin's little fingers in a white sleeve from Arianna's ribbon bow, without pulling skin or hair. His other arm supports Robin under the hips, Chiara supports Arianna with her two hands in champagne. Maximize space for the long fully written bilingual balloon clearly from Blaise. Their children wear all their own clothes and remain intact.\nBlaise «Piano, piccolo. Devi essere gentile con la mia principessa (despacio, pequeño; debes ser amable con mi princesa). È troppo bella per arrivare a cena senza capelli (es demasiado hermosa para llegar a la cena sin cabello).»\nPanel 7: Chiara LEFT laughs and gently turns Arianna head away from Robin second reaching hand, B RIGHT answers mock-seriously. Babies still securely held human, exact olive vs white-blue outfits; same salon.\nChiara «No parece impresionado por tu advertencia.»\nBlaise «Todavía no comprende la responsabilidad de tratar con una Zabini.»\nPanel 8: Daphne LEFT in peach remarks dryly to Blaise at center, he looks warmly toward Arianna held by Chiara RIGHT and promises protection while still holding Robin securely. Arianna responds by putting own tiny hand into mouth, no other hands near mouth. Two full balloons exact order.\nDaphne «Es un bebé.»\nBlaise «Papà ti proteggerà sempre, amore mio (papá siempre te protegerá, amor mío).»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1a0a32fb-78a8-429f-8fbe-bc80314ee22e.png"
+        },
+        {
+          "name": "c13_p016_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1a0a32fb-78a8-429f-8fbe-bc80314ee22e.png"
+          ],
+          "prompt": "Precisely edit the full comic page in Image 1. Keep the title «Capítulo 13 · 16», exactly eight panels, all eight utterances in Italian and Spanish with all words and accents and the same balloons, borders and final cream strip. Only in the bottom-right final panel, change Blaise's EYELIDS and angle of gaze. Open his dark brown eyes, turn his chin slightly to the right and look directly toward his blond daughter Arianna held by Chiara at far right, as he addresses Arianna with the already printed «Papà ti proteggerà sempre, amore mio (papá siempre te protegerá, amor mío).». Robin remains held securely against Blaise's middle with the same chestnut curls, age, separate face and clothes white with blue pants. Give a bit of space between Blaise's lips and Robin's head so the speaking direction toward Arianna is clear. His head has the same compact round curled hair, eyebrows, jawline and skin from the original. Daphne, Chiara, both babies and other lettering untouched. The complete 1024×1536 page is unchanged outside this small area. Ensure dark brown B irises, green Robin, blue Arianna, the source's clothing and all page edges visible.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-8e18b54a-594f-4edb-96f2-b78e93d187fc.png"
+        }
+      ]
+    }
+  ]
+}
