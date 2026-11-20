@@ -1,0 +1,520 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 17,
+  "end": 20,
+  "date": "2026-11-19",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 17,
+      "original": "paginas/c13-p017.webp",
+      "image": "paginas/c13-p017-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        586,
+        587
+      ],
+      "summary": "Pansy y Daphne bromean sobre los discursos italianos de Blaise. Él defiende que Arianna reconoce su voz mientras Chiara recupera su brazalete.",
+      "panels": [
+        {
+          "scene": "Pansy LEFT with raised brow in blue-white remarks to Blaise RIGHT holding HUMAN Robin white-blue/green eyes; Chiara nearby holds HUMAN Arianna olive/two bows/blue eyes. EMPTY Zephyr beside them. Source-complete balloon.",
+          "dialogue": [
+            "Pansy: Arianna difícilmente entiende el inglés y tú acabas de darle un discurso completo en italiano."
+          ],
+          "sourceFragments": [
+            "Arianna difícilmente entiende el inglés y tú acabas de darle un discurso completo en italiano"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Daphne LEFT in peach sighs affectionately while explaining to H/P at RIGHT, B holding Robin listens in background, original faces. Space above faces for whole reply.",
+          "dialogue": [
+            "Daphne: Blaise está convencido de que entiende perfectamente el idioma de su familia. Llevo días explicándole que todavía no comprende ninguno de los dos, pero él interpreta cada sonido que hace como una respuesta."
+          ],
+          "sourceFragments": [
+            "Blaise está convencido de que entiende perfectamente el idioma de su familia. Llevo días explicándole que todavía no comprende ninguno de los dos, pero él interpreta cada sonido que hace como una respuesta"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH B LEFT holding Robin answers, Daphne RIGHT replies dryly. Same room/outfits, natural secure single-baby hold, two spacious complete balloons.",
+          "dialogue": [
+            "Blaise: Mi hija reconoce mi voz. Eso es suficiente para comenzar.",
+            "Daphne: Reconoce tu voz porque eres su padre. También reconoce el ruido de un plato cuando alguien entra con comida y no por eso voy a afirmar que entiende de cocina."
+          ],
+          "sourceFragments": [
+            "Mi hija reconoce mi voz",
+            "Eso es suficiente para comenzar",
+            "Reconoce tu voz porque eres su padre",
+            "También reconoce el ruido de un plato cuando alguien entra con comida y no por eso voy a afirmar que entiende de cocina"
+          ]
+        },
+        {
+          "scene": "Wide horizontal scene, Blaise speaks first, his sleeve is olive and compact curls exactly as reference. Daphne has the second balloon and points lightly toward Chiara. Arianna safely supported, touches at her grandmother's intact gold bangle, curious. Chiara uses one hand to support Arianna and moves her other wrist away.",
+          "dialogue": [
+            "Blaise: Arianna tendrá un italiano perfecto.",
+            "Daphne: En este momento, Arianna está intentando comerse el brazalete de tu madre."
+          ],
+          "sourceFragments": [
+            "Arianna tendrá un italiano perfecto",
+            "En este momento, Arianna está intentando comerse el brazalete de tu madre"
+          ]
+        },
+        {
+          "scene": "Blaise holding Robin glances toward the yellow-gold bangle and delivers his tiny quote. Chiara beside them draws her own wrist away while securely holding Arianna against her body. Arianna keeps two bows and blue eyes, with one short sleeve of olive linen. No duplicate bangle or extra arms.",
+          "dialogue": [
+            "Blaise: Está apreciando el diseño."
+          ],
+          "sourceFragments": [
+            "Está apreciando el diseño"
+          ]
+        },
+        {
+          "scene": "Daphne shakes head toward amused H/P, same peach/blue-white/ivory outfits, clear large complete balloon.",
+          "dialogue": [
+            "Daphne: Ya me cansé de explicárselo. Cuando Arianna diga su primera palabra, él encontrará una forma de asegurar que tiene acento italiano, aunque lo único que diga sea “leche”."
+          ],
+          "sourceFragments": [
+            "Ya me cansé de explicárselo. Cuando Arianna diga su primera palabra, él encontrará una forma de asegurar que tiene acento italiano, aunque lo único que diga sea “leche”"
+          ]
+        },
+        {
+          "scene": "B smiles triumphantly toward Hermione who laughs aloud, Daphne rests forehead briefly on B shoulder affectionately, all fully clothed normal family. Bstill holds Robin safely, C Arianna. Small complete bilingual balloon.",
+          "dialogue": [
+            "Blaise: Latte (leche) es una palabra italiana perfectamente aceptable."
+          ],
+          "sourceFragments": [
+            "Latte (leche) es una palabra italiana perfectamente aceptable"
+          ]
+        },
+        {
+          "scene": "At the end a wordless wide shot of the entire little group in the same indoor seating area. Blaise with Robin on left, Daphne leaning companionably close, smiling chestnut-curled Hermione and Pansy with angular dark bob center, Chiara and Arianna on right. The beige Zephyr is empty, its cream hood and mobile of three rings. No added caption, no text in this final panel."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 17\n\nPansy y Daphne bromean sobre los discursos italianos de Blaise. Él defiende que Arianna reconoce su voz mientras Chiara recupera su brazalete.\nPansy: Arianna difícilmente entiende el inglés y tú acabas de darle un discurso completo en italiano.\nDaphne: Blaise está convencido de que entiende perfectamente el idioma de su familia. Llevo días explicándole que todavía no comprende ninguno de los dos, pero él interpreta cada sonido que hace como una respuesta.\nBlaise: Mi hija reconoce mi voz. Eso es suficiente para comenzar.\nDaphne: Reconoce tu voz porque eres su padre. También reconoce el ruido de un plato cuando alguien entra con comida y no por eso voy a afirmar que entiende de cocina.\nBlaise: Arianna tendrá un italiano perfecto.\nDaphne: En este momento, Arianna está intentando comerse el brazalete de tu madre.\nBlaise: Está apreciando el diseño.\nDaphne: Ya me cansé de explicárselo. Cuando Arianna diga su primera palabra, él encontrará una forma de asegurar que tiene acento italiano, aunque lo único que diga sea “leche”.\nBlaise: Latte (leche) es una palabra italiana perfectamente aceptable.",
+      "review": "Ocho viñetas y nueve turnos completos de PDF586–587. Se recuperó el iris azul de Daphne y se quitó el pasador del lado derecho de Pansy en la apertura; sigue en su izquierda cuando se ve. Blaise conserva los rizos compactos y a Robin apoyado en sus brazos. Chiara sostiene a Arianna, con rubio dorado, dos lazos y ojos azules, y mantiene su brazalete dorado. El Zephyr permanece vacío. Cotejo manual y OCR del texto, bordes, ropa, salón, rostros y poses.",
+      "reviewDate": "2026-11-19",
+      "sha256": "3860b3c28120871e58d09cf96faa5dc56acc1a98302fbd2410e765679f4730b0",
+      "masterSha256": "6205c70fd7e4c99554e2f8eaa54542d3f140ab5bb7ef3cf9f46b3bc5b238d8d5",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p017-redibujo12-v2.png",
+      "selectedAttempt": "c13_p017_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p017_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p016-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 17». Exactly 8 editorial panels. Seven compact horizontal rows. Panels 1, 2, 3 and 4 each span the full width, panels 5 and 6 share row 5, panels 7 and 8 each span the full width. Eight frames exactly, black frame borders all visible and last panels fully contained. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Arianna must have these distinct clear blue irises, pale golden short curls and infant age. Use the olive outfit and little ribbon bows of previous page.\nBlaise holds Robin in every panel where Robin is shown. The beige Zephyr is empty the entire page. Chiara holds Arianna the whole time. Make the children's hair, eyes, clothing and their actual supporters consistent with page 16. Arianna blue eyes, Robin green. Keep soft daylight and the same living room. At the end, friendly animated conversation between the same five adults: Hermione, Pansy, Daphne, Chiara and Blaise. The next guests are not on this page. Generate the full text and exact wording, including curly quotes.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Pansy LEFT with raised brow in blue-white remarks to Blaise RIGHT holding HUMAN Robin white-blue/green eyes; Chiara nearby holds HUMAN Arianna olive/two bows/blue eyes. EMPTY Zephyr beside them. Source-complete balloon.\nPansy «Arianna difícilmente entiende el inglés y tú acabas de darle un discurso completo en italiano.»\nPanel 2: FULL-WIDTH Daphne LEFT in peach sighs affectionately while explaining to H/P at RIGHT, B holding Robin listens in background, original faces. Space above faces for whole reply.\nDaphne «Blaise está convencido de que entiende perfectamente el idioma de su familia. Llevo días explicándole que todavía no comprende ninguno de los dos, pero él interpreta cada sonido que hace como una respuesta.»\nPanel 3: FULL-WIDTH B LEFT holding Robin answers, Daphne RIGHT replies dryly. Same room/outfits, natural secure single-baby hold, two spacious complete balloons.\nBlaise «Mi hija reconoce mi voz. Eso es suficiente para comenzar.»\nDaphne «Reconoce tu voz porque eres su padre. También reconoce el ruido de un plato cuando alguien entra con comida y no por eso voy a afirmar que entiende de cocina.»\nPanel 4: Wide horizontal scene, Blaise speaks first, his sleeve is olive and compact curls exactly as reference. Daphne has the second balloon and points lightly toward Chiara. Arianna safely supported, touches at her grandmother's intact gold bangle, curious. Chiara uses one hand to support Arianna and moves her other wrist away.\nBlaise «Arianna tendrá un italiano perfecto.»\nDaphne «En este momento, Arianna está intentando comerse el brazalete de tu madre.»\nPanel 5: Blaise holding Robin glances toward the yellow-gold bangle and delivers his tiny quote. Chiara beside them draws her own wrist away while securely holding Arianna against her body. Arianna keeps two bows and blue eyes, with one short sleeve of olive linen. No duplicate bangle or extra arms.\nBlaise «Está apreciando el diseño.»\nPanel 6: Daphne shakes head toward amused H/P, same peach/blue-white/ivory outfits, clear large complete balloon.\nDaphne «Ya me cansé de explicárselo. Cuando Arianna diga su primera palabra, él encontrará una forma de asegurar que tiene acento italiano, aunque lo único que diga sea “leche”.»\nPanel 7: B smiles triumphantly toward Hermione who laughs aloud, Daphne rests forehead briefly on B shoulder affectionately, all fully clothed normal family. Bstill holds Robin safely, C Arianna. Small complete bilingual balloon.\nBlaise «Latte (leche) es una palabra italiana perfectamente aceptable.»\nPanel 8: At the end a wordless wide shot of the entire little group in the same indoor seating area. Blaise with Robin on left, Daphne leaning companionably close, smiling chestnut-curled Hermione and Pansy with angular dark bob center, Chiara and Arianna on right. The beige Zephyr is empty, its cream hood and mobile of three rings. No added caption, no text in this final panel.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-16792146-643d-49bf-84c5-1fd01091d0ae.png"
+        },
+        {
+          "name": "c13_p017_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-16792146-643d-49bf-84c5-1fd01091d0ae.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002-rostro.png"
+          ],
+          "prompt": "Edit the complete Spanish comic page Image 1, «Capítulo 13 · 17». Preserve 1024×1536, all eight panel rectangles, gutters, margins and bottom line, identical faces, outfits, group poses, words and accents, all nine balloons, and silence in the last frame. Two microscopic continuity changes only. (1) In the FIRST TOP row remove the tiny horizontal gold clip from Pansy's visible right temple on the far left. Her head faces screen-right, her right side in view and left hidden, so just replace that clip location with the corresponding smooth black hair strands. Keep her eye shape and leave her gold left barrette where it already is in the other panels. (2) Match the existing iris shapes of Daphne to the CLEAR blue eye color from Image 2. Daphne is the woman with the long golden blonde hair and peach dress, not Hermione. In row 2 far left, row 3 far right, row 4 center and row 5 right panel its left face, where her eyes are open, the irises should be sky-blue like the reference, not green, golden or brown. Keep her eyes naturally closed where she is leaning on Blaise's shoulder, and preserve all expressions. Leave Arianna's different face and blue irises and Robin's green irises as they are. No changes to dialogue, hands, rest of the layout, jewelry or scene. Return the entire page including the visible bottom border.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-06b64918-943c-4c2f-b1b9-972d378043fc.png"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "original": "paginas/c13-p018.webp",
+      "image": "paginas/c13-p018-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        587,
+        588
+      ],
+      "summary": "Markus y Eirena llegan juntos. Robin reconoce a sus abuelos y Eirena lo recibe mientras Pansy espera, ofendida, que la saluden.",
+      "panels": [
+        {
+          "scene": "Wide opening toward the cream corridor arch. Markus in black and beige on left with dark glasses, gray temples and neat goatee walks beside Eirena in a full terracotta ankle dress, low dark gathered curls, blue stone earrings. He has one arm resting naturally around her covered waist; parents laugh. Same entrance and five adults inside at table, Blaise already holds Robin, Chiara holds Arianna. Keep the caption in top-left of the frame, no extra text.",
+          "caption": "Markus y Eirena Parkinson entraron en el salón."
+        },
+        {
+          "scene": "Close foreground on seated Pansy in blue whispering into Hermione's ear. She supports her partner with one arm placed at the waist of the fitted ivory blouse, not on her sleeve. Thin green irises and narrow angular face are exact. If the right profile is closest, the left clip is hidden. Hermione smiles and lifts her own left hand with clear diamond halo near her mouth. Markus in black next to Eirena in terracotta among background chairs, his hand at her waist. The balloon tail points to Pansy.",
+          "dialogue": [
+            "Pansy: No los mires. Si no tienen público, quizá recuerden que su única hija está en la habitación."
+          ],
+          "sourceFragments": [
+            "No los mires",
+            "Si no tienen público, quizá recuerden que su única hija está en la habitación"
+          ]
+        },
+        {
+          "scene": "HUMAN Robin in Blaise arms recognizes grandparents and reaches tiny hands eagerly, greeneyes/chestnut/white-blue. Eirena turns toward him with delighted mature face, terracotta dress, Markus behind. One balloon from Eirena.",
+          "dialogue": [
+            "Eirena: ¡Mi niño!"
+          ],
+          "sourceFragments": [
+            "¡Mi niño!"
+          ]
+        },
+        {
+          "scene": "Show only one little Robin in the handover. Blaise on left uses olive-sleeved arms to support the back and legs. Eirena receives on right with one terracotta-sleeved hand at the baby's back and one at the hips. Stable baby scale and visible coat sleeves. Robin's white shirt and blue pants, green iris and chestnut curls. Chiara farther back with distinct golden/olive Arianna, beige Zephyr empty.",
+          "dialogue": [
+            "Blaise: Está impaciente por verte."
+          ],
+          "sourceFragments": [
+            "Está impaciente por verte"
+          ]
+        },
+        {
+          "scene": "Eirena now safely holds Robin with both natural hands under upper back and hips, lifts to her face and gives ordinary grandma cheek/forehead kiss. Smooth human skin/tiny fingers/two lower teeth, correct white-blue outfit, mature greeneyed black updo. No toy texture.",
+          "dialogue": [
+            "Eirena: Te extrañé muchísimo."
+          ],
+          "sourceFragments": [
+            "Te extrañé muchísimo"
+          ]
+        },
+        {
+          "scene": "Markus next to Eirena one hand on her COVERED back, bends to kiss Robin hair then gently touches cheek with ONE natural index finger. Baby opens smile showing TWO small lower teeth. No duplicate arms or baby. Black linen/beige/sunglasses original matured goatee face.",
+          "dialogue": [
+            "Markus: Mira eso. La última vez que te vi todavía no tenías dientes."
+          ],
+          "sourceFragments": [
+            "Mira eso",
+            "La última vez que te vi todavía no tenías dientes"
+          ]
+        },
+        {
+          "scene": "Pansy waits across same room with visibly mock-offended expression, arms lightly folded and bare fingers/LEFT bracelet. Daphne notices, looks toward Hermione and both begin laughing. All three faces distinct/new outfits, no text."
+        },
+        {
+          "scene": "Eirena holding Robin securely turns toward H/D laughter, gaze passes P then warmly settles on H. Markus beside her smiling, CwithAriannaandBbackground. EXACT seven adults total and two HUMAN babies, empty Zephyr. No text."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 18\n\nMarkus y Eirena llegan juntos. Robin reconoce a sus abuelos y Eirena lo recibe mientras Pansy espera, ofendida, que la saluden.\nNarración: Markus y Eirena Parkinson entraron en el salón.\nPansy: No los mires. Si no tienen público, quizá recuerden que su única hija está en la habitación.\nEirena: ¡Mi niño!\nBlaise: Está impaciente por verte.\nEirena: Te extrañé muchísimo.\nMarkus: Mira eso. La última vez que te vi todavía no tenías dientes.",
+      "review": "Ocho viñetas, cartela y cinco turnos de PDF587–588 cotejados a mano y con OCR. Markus mantiene sienes grises, perilla, gafas, camisa negra y pantalón beige, y Eirena conserva su propio rostro maduro con ojos verdes, recogido y gotas azules, vestido terracota. Pansy mantiene su pantalón blanco, muñeca derecha lisa y mano a la cintura de Hermione. Se distingue el portador durante el traspaso y la cola del globo de Eirena; Chiara sigue con Arianna y el Zephyr vacío. Revisados caras, bordes, salón, joyas y manos.",
+      "reviewDate": "2026-11-19",
+      "sha256": "75846555a509da28fc768ab84bda21c3b91871af34bc917e0e3a9cb221f21168",
+      "masterSha256": "956c0824f0cbec1212afb91cedd8b4b877d2a387441ea828ffb091b428b1623f",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p018-redibujo12-v4.png",
+      "selectedAttempt": "c13_p018_redibujo12_v4.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p018_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p017-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/eirena-09-20.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/markus-09-20.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 18». Exactly 8 editorial panels. Five rows: 1 and 2 are full width, panels 3 and 4 share the next row, 5 and 6 share the fourth row, 7 and 8 share the last row. Eight independent rectangles. Clear faces and margins at the last row. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Exact mature Eirena face with natural green eyes and dark loose hair, blue drop earring; use terracotta gala day dress described here.\nImage 5: Exact mature Markus face and age, swept hair with gray temples, dark goatee and mustache. This time black open shirt, beige trousers, sunglasses, no suit or tie.\nMarkus and Eirena are older parents of Pansy, and this is their first arrival. Preserve their distinct adult faces in images 4/5. Elegant intimate family arrival, both clothed, not glamorous poses. Markus wears an opaque dark charcoal-black linen open-neck shirt, beige trousers, smoked dark glasses, swept brown hair distinctly gray at both temples and short dark goatee and mustache. Eirena has green eyes and mature cheeks and jaw, dark loose curls in a low pin-up, blue teardrop earrings, a dark terracotta ankle-length dress with shirred waist and airy sleeves. Keep these new clothes and choose only the reference face and hair. She is older than Pansy, not a clone. A real infant Robin transfers from Blaise to Eirena in the fourth panel, and only Eirena supports him afterward. Arianna is still with Chiara, and the Zephyr stays empty. Pansy's gold clip belongs above anatomical LEFT ear only, invisible when her plain right side faces us. All bodies and hands distinct.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Wide opening toward the cream corridor arch. Markus in black and beige on left with dark glasses, gray temples and neat goatee walks beside Eirena in a full terracotta ankle dress, low dark gathered curls, blue stone earrings. He has one arm resting naturally around her covered waist; parents laugh. Same entrance and five adults inside at table, Blaise already holds Robin, Chiara holds Arianna. Keep the caption in top-left of the frame, no extra text.\nCaption «Markus y Eirena Parkinson entraron en el salón.»\nPanel 2: Close foreground on seated Pansy in blue whispering into Hermione's ear. She supports her partner with one arm placed at the waist of the fitted ivory blouse, not on her sleeve. Thin green irises and narrow angular face are exact. If the right profile is closest, the left clip is hidden. Hermione smiles and lifts her own left hand with clear diamond halo near her mouth. Markus in black next to Eirena in terracotta among background chairs, his hand at her waist. The balloon tail points to Pansy.\nPansy «No los mires. Si no tienen público, quizá recuerden que su única hija está en la habitación.»\nPanel 3: HUMAN Robin in Blaise arms recognizes grandparents and reaches tiny hands eagerly, greeneyes/chestnut/white-blue. Eirena turns toward him with delighted mature face, terracotta dress, Markus behind. One balloon from Eirena.\nEirena «¡Mi niño!»\nPanel 4: Show only one little Robin in the handover. Blaise on left uses olive-sleeved arms to support the back and legs. Eirena receives on right with one terracotta-sleeved hand at the baby's back and one at the hips. Stable baby scale and visible coat sleeves. Robin's white shirt and blue pants, green iris and chestnut curls. Chiara farther back with distinct golden/olive Arianna, beige Zephyr empty.\nBlaise «Está impaciente por verte.»\nPanel 5: Eirena now safely holds Robin with both natural hands under upper back and hips, lifts to her face and gives ordinary grandma cheek/forehead kiss. Smooth human skin/tiny fingers/two lower teeth, correct white-blue outfit, mature greeneyed black updo. No toy texture.\nEirena «Te extrañé muchísimo.»\nPanel 6: Markus next to Eirena one hand on her COVERED back, bends to kiss Robin hair then gently touches cheek with ONE natural index finger. Baby opens smile showing TWO small lower teeth. No duplicate arms or baby. Black linen/beige/sunglasses original matured goatee face.\nMarkus «Mira eso. La última vez que te vi todavía no tenías dientes.»\nPanel 7: Pansy waits across same room with visibly mock-offended expression, arms lightly folded and bare fingers/LEFT bracelet. Daphne notices, looks toward Hermione and both begin laughing. All three faces distinct/new outfits, no text.\nPanel 8: Eirena holding Robin securely turns toward H/D laughter, gaze passes P then warmly settles on H. Markus beside her smiling, CwithAriannaandBbackground. EXACT seven adults total and two HUMAN babies, empty Zephyr. No text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-26a82b92-061e-4793-bba6-34e0ae33937d.png"
+        },
+        {
+          "name": "c13_p018_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-26a82b92-061e-4793-bba6-34e0ae33937d.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p009-redibujo12-v5.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Edit the full page Image 1, 1024×1536 «Capítulo 13 · 18». Exactly eight panels with the same rectangles and spacing, one opening caption and all five speech balloons verbatim, no cropped last row. Correct only these continuity details. Row 2 wide whispers panel: replace the hand which currently cups the mouth of Pansy in blue with the same plain right hand resting lower at waist level, placed on her partner Hermione's ivory blouse as her arm gently wraps behind Hermione. Keep faces close for whispering and clear the elbows of any ambiguous or floating hands. Hermione remains laughing with her own LEFT hand with its one clear ring near her own face. Keep Pansy's rolled blue forearm continuous, like Image 2 fourth strip, fingers plain. At far right of row 2 only, Markus keeps his black shirt and beige trousers and one hand at Eirena's terracotta-dress waist while they laugh. Panel 5, left half of the fourth row: the «Te extrañé muchísimo.» balloon belongs to grandmother Eirena, in terracotta and blue earrings, who kisses Robin gently on his cheek. Direct the tail toward her cheek/mouth at x=239 y=1084, not toward the baby's visible face or hair, duplicate no balloon. Keep the dialogue and newborn support exact. Panel 7 lower-left: replace the gold bangle at Pansy's cross-armed wrist with one fine WHITE-GOLD chain with the three small H R P charms as in Image 3, on the anatomical LEFT wrist only, fingers and right wrist plain. Keep all eyes and faces and everything else, no earrings on Pansy. No new text or tails. Lowerright and third/fourth row characters' outfits, bodies, face, baby carriers and colors unchanged. Return the entire page with its original outer ivory margin, black panel borders and exact heading.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-67326485-9402-4976-9d82-57f0c9cd6938.png"
+        },
+        {
+          "name": "c13_p018_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-67326485-9402-4976-9d82-57f0c9cd6938.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p011-redibujo12-v2.png"
+          ],
+          "prompt": "Make three tiny focused edits to the complete existing page Image 1, same exact page 1024×1536 with all 8 rectangles, heading «Capítulo 13 · 18», 1 caption and 5 exact dialogue balloons. First, in the broad second row, display the correct hold at her waist: inside the same frame, slightly pull out the shot of the two foreground women only so the natural waist of Hermione's ivory blouse is visible below her elbows. Pansy's bare right hand rests naturally at the side of that ivory waist, below the ribs. Her blue-sleeved arm follows a single line to her own body, never sitting on Hermione's sleeve. Keep H laughing with her own LEFT ring hand at her mouth. Leave the parents and their hands on the right exactly as shown. Second, in left-hand panel 5 with grandmother kissing the baby, move the single white «Te extrañé muchísimo.» bubble to TOP RIGHT inside that panel, above Eirena's head, with a short tail pointing toward Eirena's hair above her forehead. Shift the two figures slightly lower INSIDE that existing panel if needed. Eirena has a dark updo with blue earring and terracotta outfit. This is her speech, DO NOT put any tail on Robin at left. Preserve her pose and hold. Copy the words and accents exactly, remove the original balloon footprint. Third, in the silent bottom-left panel keep Pansy's folded arms and facial expression. Remove the H R P bracelet from the visible near/right wrist only and paint bare skin matching the rest. Her left wrist stays tucked out of sight. Keep the faces, colors, all panel positions, thin borders and cream bottom margin, and all other lettering and poses exactly. No other changes.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-508fc6c9-d232-437d-be94-38dda58c2bea.png"
+        },
+        {
+          "name": "c13_p018_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-508fc6c9-d232-437d-be94-38dda58c2bea.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp"
+          ],
+          "prompt": "Edit only three small clothing and accessory colors on the complete page Image 1. Keep same 8 panels, all Spanish with exact accents and 1 caption + 5 balloons, all poses and same 1024×1536 page with ivory margin and last border. In the broad second row, underneath Pansy's blue blouse, color her visible high-waisted trousers in the existing sliver at the very bottom at x around 240 to 335 warm WHITE or pale ivory, her established trousers. They are currently black in that sliver and need to be white, matching the cream white trousers reference image 2. Preserve all her arm and hand at Hermione's waist and shirt geometry exactly. Add the little deep-blue tear-shaped pendant with its tiny gold mount below Eirena's visible gold earring in the right panel of the fourth row (held Robin with Markus in black) and in the bottom-right panel (seated with Robin). Match her same blue earrings from the earlier panel on this page, keep hair and visible ear shape. These small details are all. Leave every other person, dialogue tail, baby and degree of crop unchanged. Return the complete finished page with borders and margin fully visible.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e7edc4ff-3bd4-472a-938a-6bf76ecb9dbc.png"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "original": "paginas/c13-p019.webp",
+      "image": "paginas/c13-p019-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        589
+      ],
+      "summary": "Eirena abraza a Hermione y agradece compartir las vacaciones con Robin. Markus saluda a ambas jóvenes y Pansy protesta por quedar detrás del nieto.",
+      "panels": [
+        {
+          "scene": "Eirena LEFT holds Robin securely on one forearm and extends free arm toward Hermione RIGHT, mature original face/black updo/terracotta dress. H ivory/loose curls/front sapphire/one LEFT diamond.",
+          "dialogue": [
+            "Eirena: Hermione, querida, ven aquí."
+          ],
+          "sourceFragments": [
+            "Hermione, querida, ven aquí"
+          ]
+        },
+        {
+          "scene": "After warm cheek kisses, Eirena now gives Hermione a brief one-armed side hug while securely holding small Robin against her other arm and hip. The adult in ivory chestnut curls has her one LEFT promise ring; Eirena appears older with low dark updo and blue earrings, terracotta long dress. Natural separation of heads and hands, her own complete reply.",
+          "dialogue": [
+            "Eirena: Me alegra mucho que hayan llegado."
+          ],
+          "sourceFragments": [
+            "Me alegra mucho que hayan llegado"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH H LEFT warmly explains to Eirena RIGHT who looks tenderly at Robin in her arms and replies. Source-order spacious full balloons. Same terracotta/ivory ensembles and two distinct greeneyedgrandma/brown-eyedH faces.",
+          "dialogue": [
+            "Hermione: Gracias por esperarnos. Mis padres disfrutaron mucho tener a Robin en casa, pero también querían que pasara esta parte de las vacaciones con ustedes.",
+            "Eirena: Jane y Malcolm son personas generosas. No estoy segura de que yo hubiera conseguido dejarlo tomar el traslador."
+          ],
+          "sourceFragments": [
+            "Gracias por esperarnos. Mis padres disfrutaron mucho tener a Robin en casa, pero también querían que pasara esta parte de las vacaciones con ustedes",
+            "Jane y Malcolm son personas generosas. No estoy segura de que yo hubiera conseguido dejarlo tomar el traslador"
+          ]
+        },
+        {
+          "scene": "Direct wide view, Markus in center, Pansy in blue at left, Hermione in ivory at right, all standing firmly on same marble floor. Markus wraps one black-sleeved arm around each adult's shoulders; his natural hands rest on their shoulders, never extra arms. Same gray temples, dark glasses, slight grin. Eirena with green eyes and dark updo, blue earrings on right holding Robin. Optional Chiara with blonde Arianna beside window. One two-sentence balloon from Markus.",
+          "dialogue": [
+            "Markus: Bienvenidas a Amalfi. Ahora sí podemos comenzar las vacaciones."
+          ],
+          "sourceFragments": [
+            "Bienvenidas a Amalfi. Ahora sí podemos comenzar las vacaciones"
+          ]
+        },
+        {
+          "scene": "Focus on Pansy in blue on left and Markus in black on right. His far black-sleeved arm rests around her shoulder. An affectionate forehead kiss before his amused reply. Three clear separate bubbles with tails in this exact order: Pansy upper left, Markus upper right, Pansy small lower left. All dialogue verbatim. Never attach her final response to him.",
+          "dialogue": [
+            "Pansy: Me alegra saber que eventualmente ibas a recordar que tienes una hija.",
+            "Markus: Sabía exactamente dónde estabas, Pansy-pie. Solo estaba saludando a Robin.",
+            "Pansy: Durante bastante tiempo."
+          ],
+          "sourceFragments": [
+            "Me alegra saber que eventualmente ibas a recordar que tienes una hija",
+            "Sabía exactamente dónde estabas, Pansy-pie. Solo estaba saludando a Robin",
+            "Durante bastante tiempo"
+          ]
+        },
+        {
+          "scene": "Markus LEFT amiably explains to P/H then Eirena RIGHT adjusts Robin safely against chest and answers, clearly no intention of handing baby over. Correct greeneyes/chestnut/white-blue infant. Two complete balloons.",
+          "dialogue": [
+            "Markus: Tu madre no comparte fácilmente a su nieto. He aprendido a aprovechar cada oportunidad.",
+            "Eirena: Tu padre exagera. Siempre puede cargarlo cuando yo termine."
+          ],
+          "sourceFragments": [
+            "Tu madre no comparte fácilmente a su nieto. He aprendido a aprovechar cada oportunidad",
+            "Tu padre exagera. Siempre puede cargarlo cuando yo termine"
+          ]
+        },
+        {
+          "scene": "Markus LEFT asks with amused smile and Eirena RIGHT holds Robin close and responds with mock dignity, original faces/clothes. Same salon/table/others nearby.",
+          "dialogue": [
+            "Markus: ¿Cuándo vas a terminar?",
+            "Eirena: Antes de que regrese a Hogwarts."
+          ],
+          "sourceFragments": [
+            "¿Cuándo vas a terminar?",
+            "Antes de que regrese a Hogwarts"
+          ]
+        },
+        {
+          "scene": "No word or caption. Eirena on left with blue earring and terracotta clothes and one green-eyed, chestnut-curled Robin in white shirt and blue trousers supported against her. Robin naturally reaches toward Hermione with freckles and curls and Pansy with thin eyes and black chin bob on right. Keep true separation of the small human fingers, one arm from same white sleeve, no extra hands, Hermione's sole ring on her left, if visible. Space between hands and faces. His speech will start on the next page."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 19\n\nEirena abraza a Hermione y agradece compartir las vacaciones con Robin. Markus saluda a ambas jóvenes y Pansy protesta por quedar detrás del nieto.\nEirena: Hermione, querida, ven aquí.\nEirena: Me alegra mucho que hayan llegado.\nHermione: Gracias por esperarnos. Mis padres disfrutaron mucho tener a Robin en casa, pero también querían que pasara esta parte de las vacaciones con ustedes.\nEirena: Jane y Malcolm son personas generosas. No estoy segura de que yo hubiera conseguido dejarlo tomar el traslador.\nMarkus: Bienvenidas a Amalfi. Ahora sí podemos comenzar las vacaciones.\nPansy: Me alegra saber que eventualmente ibas a recordar que tienes una hija.\nMarkus: Sabía exactamente dónde estabas, Pansy-pie. Solo estaba saludando a Robin.\nPansy: Durante bastante tiempo.\nMarkus: Tu madre no comparte fácilmente a su nieto. He aprendido a aprovechar cada oportunidad.\nEirena: Tu padre exagera. Siempre puede cargarlo cuando yo termine.\nMarkus: ¿Cuándo vas a terminar?\nEirena: Antes de que regrese a Hogwarts.",
+      "review": "Ocho viñetas y doce turnos completos de PDF589. El globo de saludo y los turnos de Pansy quedan con su hablante. Eirena saluda a Hermione mientras sostiene a Robin, y los dos brazos de Markus se distinguen en el abrazo a las dos jóvenes. Eirena mantiene su peinado, pendientes, ropa y al bebé de ojos verdes y rizos castaños. Arianna sigue con Chiara, rubia de ojos azules. Quedan caras y gestos separados, joyas y entorno estables, y el último cuadro sin diálogo. Revisión visual y OCR.",
+      "reviewDate": "2026-11-19",
+      "sha256": "21081870544094a463ffe0c798f77fa6f64292156f0d1dd1f2c90a5fe7d71b8b",
+      "masterSha256": "5b085f2aa4fa90df22ec52ab0152f3a14f676168702f463896d9423f800d3b62",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p019-redibujo12-v2.png",
+      "selectedAttempt": "c13_p019_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p019_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p018-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/eirena-09-20.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/markus-09-20.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 19». Exactly 8 editorial panels. Five rows. 1 and 2 share the top row. 3 is wide. 4 is wide. 5 and 6 share row four with enough room for all dialogue. 7 and 8 share the fifth row. Distinct eight panel boxes, full bottom margin. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Exact mature eye/face, earrings and hair shape of Eirena, keep terracotta vacation dress now.\nImage 5: Exact gray temples, short goatee and brown hair shape, use the previous page vacation clothes in black and beige.\nKeep Eirena green-eyed and distinctly mature in a blue drop earring and dark terracotta ankle dress, low loose gathered brown-black hair as image 1 or 4, same draped collar and ruched waist, no outfit changes. Markus is Pansy's father with gray temples, goatee, black open-collared linen, beige trousers and same dark glasses from image 1 and established adult silhouette. Use green eyes only if visible. Robin stays fully clothed and securely held by Eirena through all panels where he is shown. After she hugs and greets Hermione gently, Markus embraces both adult daughters at the shoulders, one arm for each. Any Arianna remains supported by Chiara, no child changes hands. All gestures familial, portrait faces exactly consistent, no accidental duplicate or fused hands. Leave full text including both accents, quotation and small third balloon in panel 5. Final panel speechless.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Eirena LEFT holds Robin securely on one forearm and extends free arm toward Hermione RIGHT, mature original face/black updo/terracotta dress. H ivory/loose curls/front sapphire/one LEFT diamond.\nEirena «Hermione, querida, ven aquí.»\nPanel 2: After warm cheek kisses, Eirena now gives Hermione a brief one-armed side hug while securely holding small Robin against her other arm and hip. The adult in ivory chestnut curls has her one LEFT promise ring; Eirena appears older with low dark updo and blue earrings, terracotta long dress. Natural separation of heads and hands, her own complete reply.\nEirena «Me alegra mucho que hayan llegado.»\nPanel 3: FULL-WIDTH H LEFT warmly explains to Eirena RIGHT who looks tenderly at Robin in her arms and replies. Source-order spacious full balloons. Same terracotta/ivory ensembles and two distinct greeneyedgrandma/brown-eyedH faces.\nHermione «Gracias por esperarnos. Mis padres disfrutaron mucho tener a Robin en casa, pero también querían que pasara esta parte de las vacaciones con ustedes.»\nEirena «Jane y Malcolm son personas generosas. No estoy segura de que yo hubiera conseguido dejarlo tomar el traslador.»\nPanel 4: Direct wide view, Markus in center, Pansy in blue at left, Hermione in ivory at right, all standing firmly on same marble floor. Markus wraps one black-sleeved arm around each adult's shoulders; his natural hands rest on their shoulders, never extra arms. Same gray temples, dark glasses, slight grin. Eirena with green eyes and dark updo, blue earrings on right holding Robin. Optional Chiara with blonde Arianna beside window. One two-sentence balloon from Markus.\nMarkus «Bienvenidas a Amalfi. Ahora sí podemos comenzar las vacaciones.»\nPanel 5: Focus on Pansy in blue on left and Markus in black on right. His far black-sleeved arm rests around her shoulder. An affectionate forehead kiss before his amused reply. Three clear separate bubbles with tails in this exact order: Pansy upper left, Markus upper right, Pansy small lower left. All dialogue verbatim. Never attach her final response to him.\nPansy «Me alegra saber que eventualmente ibas a recordar que tienes una hija.»\nMarkus «Sabía exactamente dónde estabas, Pansy-pie. Solo estaba saludando a Robin.»\nPansy «Durante bastante tiempo.»\nPanel 6: Markus LEFT amiably explains to P/H then Eirena RIGHT adjusts Robin safely against chest and answers, clearly no intention of handing baby over. Correct greeneyes/chestnut/white-blue infant. Two complete balloons.\nMarkus «Tu madre no comparte fácilmente a su nieto. He aprendido a aprovechar cada oportunidad.»\nEirena «Tu padre exagera. Siempre puede cargarlo cuando yo termine.»\nPanel 7: Markus LEFT asks with amused smile and Eirena RIGHT holds Robin close and responds with mock dignity, original faces/clothes. Same salon/table/others nearby.\nMarkus «¿Cuándo vas a terminar?»\nEirena «Antes de que regrese a Hogwarts.»\nPanel 8: No word or caption. Eirena on left with blue earring and terracotta clothes and one green-eyed, chestnut-curled Robin in white shirt and blue trousers supported against her. Robin naturally reaches toward Hermione with freckles and curls and Pansy with thin eyes and black chin bob on right. Keep true separation of the small human fingers, one arm from same white sleeve, no extra hands, Hermione's sole ring on her left, if visible. Space between hands and faces. His speech will start on the next page.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d66690a0-8efe-4d42-8383-3be8226301b6.png"
+        },
+        {
+          "name": "c13_p019_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d66690a0-8efe-4d42-8383-3be8226301b6.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Edit the full 1024×1536 Spanish page «Capítulo 13 · 19» in Image 1 in three tiny places. Keep every one of its eight panel borders and complete page margins, 12 exact balloons, accents, same faces, original body position, clothes and both infants. In top-right panel 2, relocate the one balloon «Me alegra mucho que hayan llegado.» from far right to the TOP LEFT of that panel above EIRENA, so the BLACK-haired woman in terracotta with the baby is clearly the speaker. Tail ends near Eirena's dark hair or shoulder on the left. Hermione with the long copper curls stays quiet and smiles as Eirena kisses her cheek. Copy every word in the one bubble, remove the old bubble and tail on the right. In left panel 5 in row 4, move the small tail of the upper-left balloon «Me alegra saber que eventualmente ibas a recordar que tienes una hija.» down-right toward PANSY, the woman with the short black bob and blue blouse at lower center-left. It must not point toward Markus's head. Ensure the lower-left reply «Durante bastante tiempo.» also clearly has a tail pointing toward Pansy in blue. The upper-right Markus balloon stays as is. In wide row 3 panel 4, correct the two visible tiny IRIS colors of the blonde infant Arianna (far right in olive, held by Chiara with champagne hat) to true blue matching image 2. Keep Robin's green eyes, size and face unchanged. Keep absolutely all other artwork and exact speech and layout, no zoom and no extra hue shift.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-fe636088-eeb5-480b-8098-ff7ce95367e5.png"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "original": "paginas/c13-p020.webp",
+      "image": "paginas/c13-p020-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        590
+      ],
+      "summary": "Robin vuelve a llamar mamá ante sus abuelos. Las amigas bromean sobre oírlo de madrugada y Hermione pregunta por Draco, Astoria y Scorpius.",
+      "panels": [
+        {
+          "scene": "Two short balloons in order: the child Robin's «Ma-ma.» clearly pointing to the little child in Eirena's arms, then Eirena's question clearly points to the dark-haired woman with green eyes, terracotta and blue earrings. Markus in black at her right, reacting silently, mouth closed so attribution unquestionable.",
+          "dialogue": [
+            "Robin: Ma-ma.",
+            "Eirena: ¿Acaba de decir mamá?"
+          ],
+          "sourceFragments": [
+            "Ma-ma",
+            "¿Acaba de decir mamá?"
+          ]
+        },
+        {
+          "scene": "Robin repeats happily with tiny wave then H explains to Eirena/Markus, two full source-order balloons. H ivory/curls/sapphire/ONE LEFT diamond, P closeby blue-white/left bracelet/clip.",
+          "dialogue": [
+            "Robin: Ma-ma.",
+            "Hermione: La dijo por primera vez en Navidad. Desde entonces no ha parado."
+          ],
+          "sourceFragments": [
+            "Ma-ma",
+            "La dijo por primera vez en Navidad",
+            "Desde entonces no ha parado"
+          ]
+        },
+        {
+          "scene": "Eirena delighted looks between H/P and Robin then gives ordinary loving grandma cheek kisses. Same HUMAN child, arms normal and supportsecure.",
+          "dialogue": [
+            "Eirena: Es un niño muy inteligente."
+          ],
+          "sourceFragments": [
+            "Es un niño muy inteligente"
+          ]
+        },
+        {
+          "scene": "Low table, Daphne on the left receiving a pale lemon-mint drink from an adult house elf. The elf is short, below a standing adult's chest, large pointed ears, tan skin and simple cream tunic with narrow gilt trim and waist tie, a small saucer tray in hands. No other elf. Pansy at right in blue responds with long full dialogue, her left hand on her separate glass with subtle H R P bracelet and plain fingers, eyes green. B/D/H remain nearby. Eirena and Chiara support their distinct infants in background if visible. Both long utterances fit without overlaps.",
+          "dialogue": [
+            "Daphne: Ahora entiendo a qué te referías cuando dijiste que no ha dejado de repetirla.",
+            "Pansy: Aprovecha que Arianna todavía no ha dicho su primera palabra. Cuando descubra que puede utilizarla para llamar tu atención, despertarás a las tres de la madrugada escuchándola desde la cuna."
+          ],
+          "sourceFragments": [
+            "Ahora entiendo a qué te referías cuando dijiste que no ha dejado de repetirla",
+            "Aprovecha que Arianna todavía no ha dicho su primera palabra. Cuando descubra que puede utilizarla para llamar tu atención, despertarás a las tres de la madrugada escuchándola desde la cuna"
+          ]
+        },
+        {
+          "scene": "Daphne peach and blue eyes at left, Pansy blue and emerald eyes center, Hermione ivory with brown eyes and chestnut curls right. Each receives one distinct balloon with a clear short tail to the right woman and exactly respective Spanish. Do not put the second balloon on either adjacent woman.",
+          "dialogue": [
+            "Daphne: No pareces demasiado molesta.",
+            "Pansy: Pregúntame otra vez después al finalizar el día. Aún me sigue pareciendo demasiado adorable.",
+            "Hermione: En la noche también."
+          ],
+          "sourceFragments": [
+            "No pareces demasiado molesta",
+            "Pregúntame otra vez después al finalizar el día. Aún me sigue pareciendo demasiado adorable",
+            "En la noche también"
+          ]
+        },
+        {
+          "scene": "Quiet H surveys group and notices absent friends, P glances at her over limonata without contradicting gentle joke. Exactly seven adults and TWO HUMAN infants, original faces and outfits, SAME airy salon/central appetizers/table, no Draco/Astoria/Scorpius here yet. No text."
+        },
+        {
+          "scene": "H asks nearby Blaise beside Daphne about missing friends, H ivory/blue sapphire/left ring, B olive/short round tight black coils original face.",
+          "dialogue": [
+            "Hermione: ¿Draco y Astoria no han llegado?"
+          ],
+          "sourceFragments": [
+            "¿Draco y Astoria no han llegado?"
+          ]
+        },
+        {
+          "scene": "Blaise with compact black curls, deep brown skin, brown eyes and olive clothing replies in the very last wide panel. Same Daphne and Hermione nearby listening, normal warm afternoon. No new people or flashback. Long last bubble is exact Spanish.",
+          "dialogue": [
+            "Blaise: Fueron al centro de la ciudad a caminar un poco. Astoria dijo que Draco y Scorpius necesitan broncearse más antes de volver a Inglaterra."
+          ],
+          "sourceFragments": [
+            "Fueron al centro de la ciudad a caminar un poco. Astoria dijó que Draco y Scorpius necesitan broncearse más antes de volver a Inglaterra"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 20\n\nRobin vuelve a llamar mamá ante sus abuelos. Las amigas bromean sobre oírlo de madrugada y Hermione pregunta por Draco, Astoria y Scorpius.\nRobin: Ma-ma.\nEirena: ¿Acaba de decir mamá?\nRobin: Ma-ma.\nHermione: La dijo por primera vez en Navidad. Desde entonces no ha parado.\nEirena: Es un niño muy inteligente.\nDaphne: Ahora entiendo a qué te referías cuando dijiste que no ha dejado de repetirla.\nPansy: Aprovecha que Arianna todavía no ha dicho su primera palabra. Cuando descubra que puede utilizarla para llamar tu atención, despertarás a las tres de la madrugada escuchándola desde la cuna.\nDaphne: No pareces demasiado molesta.\nPansy: Pregúntame otra vez después al finalizar el día. Aún me sigue pareciendo demasiado adorable.\nHermione: En la noche también.\nHermione: ¿Draco y Astoria no han llegado?\nBlaise: Fueron al centro de la ciudad a caminar un poco. Astoria dijo que Draco y Scorpius necesitan broncearse más antes de volver a Inglaterra.",
+      "review": "Ocho viñetas y doce turnos de PDF590 cotejados a mano y con OCR. Se corrigió la duplicación de Eirena y Robin en la tercera. Pansy sostiene su copa con dedos lisos y queda una cadena con dijes en su muñeca izquierda. Los ojos de Hermione son castaños y los de Daphne azules. Se conservan los dos bebés humanos y sus apoyos, rasgos y portadoras; el elfo que sirve la copa tiene la escala y vestuario de la escena. Salón, rostros, ropa, joyas, bordes, colas y ortografía revisados.",
+      "reviewDate": "2026-11-20",
+      "sha256": "5037a7242a0876a05bb6aa7df8b9967f5dac8afd198ef9055b2e8c4a29c4b1fc",
+      "masterSha256": "1cae97f03cfddb03db8ec9884db5444b7773a902452f3d0bb368d33e1e209288",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p020-redibujo12-v4.png",
+      "selectedAttempt": "c13_p020_redibujo12_v4.json",
+      "ocrMissingCandidates": [
+        "dijiste",
+        "dejado"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p020_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p019-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/eirena-09-20.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 20». Exactly 8 editorial panels. Six rows: 1+2, then full-width 3, full-width 4, full-width 5, full-width 6, finally 7+8. Exactly eight panels. Give panel 4 a large but balanced text area and panel 8 a wider final rectangle. Complete visible outer margin. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Inside the same warm Amalfi salon with large mullioned windows facing the sea, cream panelling and gilt frames, navy and cream antique chairs and low oval walnut table. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Exact green eyes and mature face, dark gathered hair, and blue earring of Eirena.\nPresent same salon and exactly same seven adult family members. Robin stays held by Eirena throughout, with two tiny teeth in the smile, chestnut curls, green irises and plain white-blue clothing. Arianna remains with Chiara, tiny, pale blonde with blue eyes and two ribbons, olive clothes. Empty stroller if in frame. Markus wears the black shirt, beige trousers and dark glasses from page19, gray temples and neat goatee. Eirena same established distinct mature face, loose dark updo, green eyes and blue earrings, dark terracotta. Daphne blue eyes exactly, golden waves and peach. Preserve Pansy's close exact angular face, green irises, left-only clip, plain right wrist and fingers. Printed quotes need clear tails, both «Ma-ma.» belong to Robin only, P's two long replies are complete, no appearances of the three offscreen Malfoys mentioned toward the end.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Two short balloons in order: the child Robin's «Ma-ma.» clearly pointing to the little child in Eirena's arms, then Eirena's question clearly points to the dark-haired woman with green eyes, terracotta and blue earrings. Markus in black at her right, reacting silently, mouth closed so attribution unquestionable.\nRobin «Ma-ma.»\nEirena «¿Acaba de decir mamá?»\nPanel 2: Robin repeats happily with tiny wave then H explains to Eirena/Markus, two full source-order balloons. H ivory/curls/sapphire/ONE LEFT diamond, P closeby blue-white/left bracelet/clip.\nRobin «Ma-ma.»\nHermione «La dijo por primera vez en Navidad. Desde entonces no ha parado.»\nPanel 3: Eirena delighted looks between H/P and Robin then gives ordinary loving grandma cheek kisses. Same HUMAN child, arms normal and supportsecure.\nEirena «Es un niño muy inteligente.»\nPanel 4: Low table, Daphne on the left receiving a pale lemon-mint drink from an adult house elf. The elf is short, below a standing adult's chest, large pointed ears, tan skin and simple cream tunic with narrow gilt trim and waist tie, a small saucer tray in hands. No other elf. Pansy at right in blue responds with long full dialogue, her left hand on her separate glass with subtle H R P bracelet and plain fingers, eyes green. B/D/H remain nearby. Eirena and Chiara support their distinct infants in background if visible. Both long utterances fit without overlaps.\nDaphne «Ahora entiendo a qué te referías cuando dijiste que no ha dejado de repetirla.»\nPansy «Aprovecha que Arianna todavía no ha dicho su primera palabra. Cuando descubra que puede utilizarla para llamar tu atención, despertarás a las tres de la madrugada escuchándola desde la cuna.»\nPanel 5: Daphne peach and blue eyes at left, Pansy blue and emerald eyes center, Hermione ivory with brown eyes and chestnut curls right. Each receives one distinct balloon with a clear short tail to the right woman and exactly respective Spanish. Do not put the second balloon on either adjacent woman.\nDaphne «No pareces demasiado molesta.»\nPansy «Pregúntame otra vez después al finalizar el día. Aún me sigue pareciendo demasiado adorable.»\nHermione «En la noche también.»\nPanel 6: Quiet H surveys group and notices absent friends, P glances at her over limonata without contradicting gentle joke. Exactly seven adults and TWO HUMAN infants, original faces and outfits, SAME airy salon/central appetizers/table, no Draco/Astoria/Scorpius here yet. No text.\nPanel 7: H asks nearby Blaise beside Daphne about missing friends, H ivory/blue sapphire/left ring, B olive/short round tight black coils original face.\nHermione «¿Draco y Astoria no han llegado?»\nPanel 8: Blaise with compact black curls, deep brown skin, brown eyes and olive clothing replies in the very last wide panel. Same Daphne and Hermione nearby listening, normal warm afternoon. No new people or flashback. Long last bubble is exact Spanish.\nBlaise «Fueron al centro de la ciudad a caminar un poco. Astoria dijo que Draco y Scorpius necesitan broncearse más antes de volver a Inglaterra.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-faeeceea-0137-4c26-961e-cb83b997bff0.png"
+        },
+        {
+          "name": "c13_p020_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-faeeceea-0137-4c26-961e-cb83b997bff0.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Edit the complete existing comic page 1024×1536 with exactly eight framed panels, heading «Capítulo 13 · 20». Copy all 12 existing Spanish balloons and accents and their tails exactly, no words changed, no new labels. Focus only on panels 3 and 4. Panel 3 is the wide second row with «Es un niño muy inteligente.» Two copies of grandma and Robin were mistakenly drawn side by side in a SINGLE panel. Replace that entire panel's central group with ONE Eirena in terracotta, at left, holding ONE small human child Robin against her chest and giving him one affectionate cheek kiss. Use one Eirena head, dark loose updo, one body, blue teardrop earrings, same mature face, and one Robin head, chestnut curls, white shirt and blue pants. His body, back and hips are supported. Definitely remove the second copy completely, restoring a little airy salon window and blue seat background in its place. Keep one Hermione in ivory with chestnut curly hair and brown eyes and one Pansy in blue with flat black jaw-length bob and clear green eyes on the right side of that same panel, amused. The sole balloon's tail unequivocally points to Eirena. Never copy either baby or grandma anywhere. Panel 4, wide third row with the short elf bringing Daphne a drink: only fix the jewelry of the black bob light blue shirt woman on the RIGHT. Pansy's fingers holding her own glass must be completely bare, remove the visible silver ring or dots. At that hand's LEFT wrist replace the gold chain with white-gold thin chain and three distinct H R P initial charms from image 2. Do not change the cup, person's hand position or clothes. Her plain fingers and right wrist have no jewelry. Keep other six panels complete, untouched, without zoom or hue shift. Maintain exact panel and margin positions including entire line below the last panels.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7f349a6e-e3fd-4715-b1a4-82164b3e9a5f.png"
+        },
+        {
+          "name": "c13_p020_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7f349a6e-e3fd-4715-b1a4-82164b3e9a5f.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "In Image 1 complete comic page 13 · 20 precisely update the following two tiny details. Do not draw a second grandma or baby anywhere, keep exactly eight panels, title, all 12 existing Spanish bubbles including full accents, 1024×1536 with 8-pixel bottom margin, edges, bodies and poses. In the wide third row, where Daphne in peach is served by the short elf, Pansy in BLUE is on the RIGHT. In this panel re-render the left hand with a simpler natural pose: grasp the short goblet of lemonade near the base with four plain fingers wrapped smoothly together and the thumb on its other side. Her PLAIN fingers are all uninterrupted skin, particularly remove the tiny bright white gemstone-shaped dot on the back of her ring finger around x=774 y=777. No white or metallic marks on any finger. Replace the two bands on the wrist with exactly ONE fine white-gold chain with three small initial charms H R P, as in image 2. Keep her blue sleeve and sleeve length, her glass and all its lemon and mint, and other people and text exact. In the very last panel, only the woman's visible iris at FAR LEFT (Daphne with long blonde hair and peach dress) must match CLEAR sky blue of her eyes in panel 4. Same eye shape, colors and face otherwise. Leave every other panel unchanged, including Eirena and Robin exactly single in the second row and all full lines of speech. Output full page with bottom ivory margin.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1187afe1-dfc6-4bf0-b4ca-349237cbdee0.png"
+        },
+        {
+          "name": "c13_p020_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1187afe1-dfc6-4bf0-b4ca-349237cbdee0.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/daphne-12-p002-rostro.png"
+          ],
+          "prompt": "Make a precise eye pigment correction in TWO LOWER PANEL RECTANGLES of Image 1, the full 1024×1536 Spanish comic page. Keep the rest identical, including all exact text and accents and visible margins. BOTTOM-LEFT RECTANGLE, x=10 to 380 and y=1266 to 1523: it says «¿Draco y Astoria no han llegado?». The person at left with reddish CHESTNUT CURLS, freckles and ivory blouse is HERMIONE. Her eye at about x=106 y=1378 must be dark warm CHESTNUT BROWN, not blue. Change only her iris pigment back to natural brown, same face and clothes. BOTTOM-RIGHT RECTANGLE, x=391 to 1012 and y=1266 to 1523: it starts «Fueron al centro de la ciudad». The woman at the left edge of this rectangle, just LEFT of the dark-skinned man, wearing PEACH clothes, is DAPHNE. Her visible iris close to x=494 y=1375 must be BRIGHT SKY BLUE. Her visible hair on that side is honey golden blonde as Daphne in the third and fourth long rows, never as auburn as the Hermione at far right in ivory. Do not change anything about Hermione at far right in that rectangle, or about the man. Preserve all eight frames and exact 12 dialogue balloon texts, all poses, jewelry and colors elsewhere. Full page, no zoom and no cropped edges.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f4767507-ff11-4d67-8eb5-f6a5161a1ec1.png"
+        }
+      ]
+    }
+  ]
+}
