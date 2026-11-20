@@ -1,0 +1,281 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 34,
+  "end": 36,
+  "date": "2026-11-20",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 34,
+      "original": "paginas/c13-p034.webp",
+      "image": "paginas/c13-p034-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        603,
+        604
+      ],
+      "summary": "Blaise presenta el pescado en agua loca y explica su origen. Chiara aclara con humor cómo preparan esa tradición en su cocina.",
+      "panels": [
+        {
+          "scene": "Wide diagonal opening table view of Blaise showing the complete realistically sized cooked fish in its same blue-yellow ceramic dish with clear hot broth, olive oil, tomatoes and herbs. Hermione and Pansy listen near their seats across the table, Daphne near Blaise. Some adults in distant view are optional, no copies or alternate seats. Place full longer Italian/Spanish quote in large clear single bubble, with obvious tail to Blaise. All accents and exact words.",
+          "dialogue": [
+            "Blaise: La pezzogna all’acqua pazza (besugo en agua loca) es uno de los platos más importantes de la costa. Se cocina en un caldo ligero con agua salada, aceite de oliva, ajos enteros y un poco de guindilla. Parece sencillo, pero precisamente por eso el pescado conserva su sabor y cada ingrediente tiene que ser perfecto."
+          ],
+          "sourceFragments": [
+            "La pezzogna all’acqua pazza (besugo en agua loca) es uno de los platos más importantes de la costa",
+            "Se cocina en un caldo ligero con agua salada, aceite de oliva, ajos enteros y un poco de guindilla. Parece sencillo, pero precisamente por eso el pescado conserva su sabor y cada ingrediente tiene que ser perfecto"
+          ]
+        },
+        {
+          "scene": "HLEFTstudiesclearbrothandasksB RIGHTwithcurioussmile, fullsmallballoon, sameivory/curls/leftdiamondandfrontsapphire.",
+          "dialogue": [
+            "Hermione: ¿Por qué lo llaman “agua loca”?"
+          ],
+          "sourceFragments": [
+            "¿Por qué lo llaman “agua loca”?"
+          ]
+        },
+        {
+          "scene": "Panel 3 shows only Blaise and Hermione, Blaise in olive answers with full quote. At most glimpse of the same meal and fishing coast far below under arches, no inserted historical scene, no bucket, no imagined servants or contents. Tail to Blaise. He points loosely to the familiar fish plate.",
+          "dialogue": [
+            "Blaise: Acqua pazza era la forma en que los pescadores cocinaban parte de lo que habían capturado durante el día. Utilizaban agua de mar, tomates y los ingredientes que tuvieran disponibles. No medían una salsa ni seguían una receta exacta; dejaban que el pescado se cocinara con lo que la costa les ofrecía."
+          ],
+          "sourceFragments": [
+            "Acqua pazza era la forma en que los pescadores cocinaban parte de lo que habían capturado durante el día. Utilizaban agua de mar, tomates y los ingredientes que tuvieran disponibles. No medían una salsa ni seguían una receta exacta; dejaban que el pescado se cocinara con lo que la costa les ofrecía"
+          ]
+        },
+        {
+          "scene": "Chiara on left raises a pale wine goblet lightly toward family, seated in her champagne hat and matching top, braids with deep brown skin and natural mature facial proportions. One wide complete tasteful balloon, directed ONLY to her. Little golden blonde BLUE-eyed Arianna sits beside her in separate tray-backed lemon chair with one wooden spoon, olive shirt, all other actors out of crop as space. No bucket, letter label or empty second goblet.",
+          "dialogue": [
+            "Chiara: En esta casa respetamos la tradición, pero utilizamos agua salada en la cantidad correcta. Ningún cocinero cruzará mis suelos de mármol cargando un cubo extraído directamente del Tirreno para demostrar que comprende la historia del plato."
+          ],
+          "sourceFragments": [
+            "En esta casa respetamos la tradición, pero utilizamos agua salada en la cantidad correcta. Ningún cocinero cruzará mis suelos de mármol cargando un cubo extraído directamente del Tirreno para demostrar que comprende la historia del plato"
+          ]
+        },
+        {
+          "scene": "Two adults Hermione and Blaise exchange an amused look as he nods in concession. Preserve exact curly hair, brown irises, and their ivory vs olive clothes and canonical jewelry. Silent panel."
+        },
+        {
+          "scene": "Close quiet frame begins transition to the next dish. Clear same blue-yellow rim plate of realistically sized cooked squid rings and potato pieces in a glossy red-brown sauce at front. Daphne in peach and Blaise in olive at table with linked hands if visible, separate poses and authentic sizes. No text."
+        }
+      ],
+      "actualPanelCount": 6,
+      "transcript": "Capítulo 13 · 34\n\nBlaise presenta el pescado en agua loca y explica su origen. Chiara aclara con humor cómo preparan esa tradición en su cocina.\nBlaise: La pezzogna all’acqua pazza (besugo en agua loca) es uno de los platos más importantes de la costa. Se cocina en un caldo ligero con agua salada, aceite de oliva, ajos enteros y un poco de guindilla. Parece sencillo, pero precisamente por eso el pescado conserva su sabor y cada ingrediente tiene que ser perfecto.\nHermione: ¿Por qué lo llaman “agua loca”?\nBlaise: Acqua pazza era la forma en que los pescadores cocinaban parte de lo que habían capturado durante el día. Utilizaban agua de mar, tomates y los ingredientes que tuvieran disponibles. No medían una salsa ni seguían una receta exacta; dejaban que el pescado se cocinara con lo que la costa les ofrecía.\nChiara: En esta casa respetamos la tradición, pero utilizamos agua salada en la cantidad correcta. Ningún cocinero cruzará mis suelos de mármol cargando un cubo extraído directamente del Tirreno para demostrar que comprende la historia del plato.",
+      "review": "Seis viñetas y cuatro turnos completos de PDF603–604, cotejados visualmente y con apoyo de OCR. El plato de besugo conserva continuidad con la 33 y abre paso al guiso de calamares con patatas. Se mantienen rostros, ojos, joyas, manos separadas, diálogos italiano y español con signos, pérgola, platos y luz. Arianna sigue en su silla de limones con la cuchara de madera.",
+      "reviewDate": "2026-11-20",
+      "sha256": "762df49bc5abc4846a7abed8e28649b75d8e7e4520d281afdedb3dcf19cc0c00",
+      "masterSha256": "ec236d6fc87da05859ed545950fd301ec8d0a0a3daf78d35f00e57ff45234b14",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p034-redibujo12-v1.png",
+      "selectedAttempt": "c13_p034_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p034_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p033-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 34». Exactly 6 editorial panels. Four rows: wide/tall opening panel 1, 2+3 with 3 at least 61% width, full panel 4, then 5+6. Exactly six panel outlines with every full sentence in 4 balloons, 2 last speechless. Keep complete black bottom rule and warm ivory margin. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nExactly the current pale pergola open to sea with arched cream posts, lemon branches, floating small flowers, one wooden rectangle table, familiar yellow/blue-rim plates and warm daylight. The full cooked besugo fish has the same proportion, skin and light broth with little droplets of olive oil, ripe tomatoes, garlic and herbs as the last panel of Image 1. Match adult Blaise's dark brown eyes, black short compact round curls and olive linen; Pansy angled narrow face, green eyes, black bob and SMALL left clip only and her right wrist and all fingers bare; Hermione brown eyes, freckles, chestnut curls and rich BLUE oval sapphire on ivory, separate from Daphne's golden blonde pale blue eyes and peach with a little plain gold necklace. Chiara deep brown skin/brunette braids/hat/ gold bracelets and brown eyes. Her granddaughter Arianna HUMAN small pale blonde curls, ivory bows, bright blue eyes, olive clothes in her OWN lemon-painted highchair, tiny wooden spoon on tray. All other babies stay in their approved seats or bassinet if in view. No new characters, all story told in current poses only. Exact Spanish words including exact punctuation and Italian «La pezzogna all’acqua pazza (besugo en agua loca)» and «Acqua pazza».\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Wide diagonal opening table view of Blaise showing the complete realistically sized cooked fish in its same blue-yellow ceramic dish with clear hot broth, olive oil, tomatoes and herbs. Hermione and Pansy listen near their seats across the table, Daphne near Blaise. Some adults in distant view are optional, no copies or alternate seats. Place full longer Italian/Spanish quote in large clear single bubble, with obvious tail to Blaise. All accents and exact words.\nBlaise «La pezzogna all’acqua pazza (besugo en agua loca) es uno de los platos más importantes de la costa. Se cocina en un caldo ligero con agua salada, aceite de oliva, ajos enteros y un poco de guindilla. Parece sencillo, pero precisamente por eso el pescado conserva su sabor y cada ingrediente tiene que ser perfecto.»\nPanel 2: HLEFTstudiesclearbrothandasksB RIGHTwithcurioussmile, fullsmallballoon, sameivory/curls/leftdiamondandfrontsapphire.\nHermione «¿Por qué lo llaman “agua loca”?»\nPanel 3: Panel 3 shows only Blaise and Hermione, Blaise in olive answers with full quote. At most glimpse of the same meal and fishing coast far below under arches, no inserted historical scene, no bucket, no imagined servants or contents. Tail to Blaise. He points loosely to the familiar fish plate.\nBlaise «Acqua pazza era la forma en que los pescadores cocinaban parte de lo que habían capturado durante el día. Utilizaban agua de mar, tomates y los ingredientes que tuvieran disponibles. No medían una salsa ni seguían una receta exacta; dejaban que el pescado se cocinara con lo que la costa les ofrecía.»\nPanel 4: Chiara on left raises a pale wine goblet lightly toward family, seated in her champagne hat and matching top, braids with deep brown skin and natural mature facial proportions. One wide complete tasteful balloon, directed ONLY to her. Little golden blonde BLUE-eyed Arianna sits beside her in separate tray-backed lemon chair with one wooden spoon, olive shirt, all other actors out of crop as space. No bucket, letter label or empty second goblet.\nChiara «En esta casa respetamos la tradición, pero utilizamos agua salada en la cantidad correcta. Ningún cocinero cruzará mis suelos de mármol cargando un cubo extraído directamente del Tirreno para demostrar que comprende la historia del plato.»\nPanel 5: Two adults Hermione and Blaise exchange an amused look as he nods in concession. Preserve exact curly hair, brown irises, and their ivory vs olive clothes and canonical jewelry. Silent panel.\nPanel 6: Close quiet frame begins transition to the next dish. Clear same blue-yellow rim plate of realistically sized cooked squid rings and potato pieces in a glossy red-brown sauce at front. Daphne in peach and Blaise in olive at table with linked hands if visible, separate poses and authentic sizes. No text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0f8375dc-328d-47ce-ae69-c9892b84f33d.png"
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "original": "paginas/c13-p035.webp",
+      "image": "paginas/c13-p035-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        604,
+        605
+      ],
+      "summary": "Blaise explica los calamares con patatas y Daphne le recuerda el vino blanco. Luego un elfo presenta dos botellas y comienza la explicación del vino de la región.",
+      "panels": [
+        {
+          "scene": "Wide frame in warm shade across the table. B describes exactly the cooked squid and potato dish in front of Hermione and Pansy, his arm reaching vaguely toward it from olive sleeve. Include the entire original long quote as given in one large balloon tailed to Blaise. Same fish and other plates glimpsed at sides. H sees it, no extra labels or offsite scene.",
+          "dialogue": [
+            "Blaise: Esto es totani e patate (calamares y patatas), preparado al estilo de Praiano. Es una comida más rústica. Los calamares se cocinan con las patatas hasta que el caldo se vuelve más espeso el ajo y el sabor del mar. No es tan elegante como el pescado, pero es el plato que debes comer si quieres comprender cómo cocina la gente de la costa en casa."
+          ],
+          "sourceFragments": [
+            "Esto es totani e patate (calamares y patatas), preparado al estilo de Praiano. Es una comida más rústica. Los calamares se cocinan con las patatas hasta que el caldo se vuelve más espeso el ajo y el sabor del mar. No es tan elegante como el pescado, pero es el plato que debes comer si quieres comprender cómo cocina la gente de la costa en casa"
+          ]
+        },
+        {
+          "scene": "Silent P2 two-shot at edge of table. Daphne in peach slides the rim of the correct seafood platter nearer with one hand, her other hand parted enough from Blaise's free arm or fingers linked on the table. Keep separate anatomy and no portage of huge serving object."
+        },
+        {
+          "scene": "DaphneLEFTquietlyremindsB RIGHTaboutwhitewine, helooksatherandanswerssmiling, two fullsource-orderballoons.",
+          "dialogue": [
+            "Daphne: El vino blanco.",
+            "Blaise: Y se terminan con vino blanco. Sabía que había una razón para mantenerte cerca."
+          ],
+          "sourceFragments": [
+            "El vino blanco",
+            "Y se terminan con vino blanco. Sabía que había una razón para mantenerte cerca"
+          ]
+        },
+        {
+          "scene": "P4: Daphne smiles, wearing her familiar light PEACH cuff all the way into a simple bare hand. Blaise gently raises her fingers to his lips for an ordinary brief kiss on the back of her hand, fully clothed and wholesome adult family gathering, normal plate props. Clearly Daphne's small balloon with tail to her mouth. No third hand.",
+          "dialogue": [
+            "Daphne: Entre muchas otras."
+          ],
+          "sourceFragments": [
+            "Entre muchas otras"
+          ]
+        },
+        {
+          "scene": "P5 silent: one short tan elf adult brings two realistically sized bottles upright on a single small silver tray to Blaise and Daphne. Exact clear pale wine with landscape painting blue/gold label, near-black bottle beside it. Olive sleeves and peach dress no arm overlap, bottles have no readable print. No extra table, bottle or actor."
+        },
+        {
+          "scene": "B addressesHacrosstablewhileindicatingtwo bottles, allsameadultseats/food/pergola. Broadcompleteballoon.",
+          "dialogue": [
+            "Blaise: La elección del vino depende de lo que quieras probar. Hay demasiados sabores sobre la mesa para servir la misma botella con todo."
+          ],
+          "sourceFragments": [
+            "La elección del vino depende de lo que quieras probar",
+            "Hay demasiados sabores sobre la mesa para servir la misma botella con todo"
+          ]
+        },
+        {
+          "scene": "LARGE FULL-WIDTH B takesCLEARbottlewithbluegoldcoastalARTlabelanddescribesit, H/Plisten, DARKbottlestaysonsilvertray. Entireparagraphandgrapevarietiesverbatimreadable. No additionalbottles ortextlabels.",
+          "dialogue": [
+            "Blaise: Este es un Costa d’Amalfi Bianco, el blanco de la región. Está elaborado principalmente con Falanghina y Biancolella. Es fresco, tiene buena acidez y conserva notas salinas y minerales por la cercanía del mar. Funciona con los mariscos, el pescado y la pasta al limón."
+          ],
+          "sourceFragments": [
+            "Este es un Costa d’Amalfi Bianco, el blanco de la región. Está elaborado principalmente con Falanghina y Biancolella. Es fresco, tiene buena acidez y conserva notas salinas y minerales por la cercanía del mar. Funciona con los mariscos, el pescado y la pasta al limón"
+          ]
+        },
+        {
+          "scene": "P8 silent: Hermione in ivory tilts just the one clear bottle slightly to examine the painted coast label blue and antique gold without words. Her visible ring if any on a physically clear left hand only. Blaise nearby in olive, second dark bottle standing safely at table next to him. Both same shape and label in preceding frames and same sunlight. No pouring or empty glasses."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 35\n\nBlaise explica los calamares con patatas y Daphne le recuerda el vino blanco. Luego un elfo presenta dos botellas y comienza la explicación del vino de la región.\nBlaise: Esto es totani e patate (calamares y patatas), preparado al estilo de Praiano. Es una comida más rústica. Los calamares se cocinan con las patatas hasta que el caldo se vuelve más espeso el ajo y el sabor del mar. No es tan elegante como el pescado, pero es el plato que debes comer si quieres comprender cómo cocina la gente de la costa en casa.\nDaphne: El vino blanco.\nBlaise: Y se terminan con vino blanco. Sabía que había una razón para mantenerte cerca.\nDaphne: Entre muchas otras.\nBlaise: La elección del vino depende de lo que quieras probar. Hay demasiados sabores sobre la mesa para servir la misma botella con todo.\nBlaise: Este es un Costa d’Amalfi Bianco, el blanco de la región. Está elaborado principalmente con Falanghina y Biancolella. Es fresco, tiene buena acidez y conserva notas salinas y minerales por la cercanía del mar. Funciona con los mariscos, el pescado y la pasta al limón.",
+      "review": "Ocho viñetas y seis turnos completos de PDF604–605, incluidos Praiano, Falanghina y Biancolella, contrastados con ampliación visual y OCR. «Entre muchas otras.» está completo en el cuarto globo pese a la omisión del OCR. El gesto de Blaise recae en la mano de Daphne y su manga melocotón. Rostros, rizos compactos de Blaise y joyas coherentes; el elfo sirve en bandeja las dos botellas diferenciadas, sin verter.",
+      "reviewDate": "2026-11-20",
+      "sha256": "d6c318ffe7bbc0254ff16486b9451e5b2fa960110316392f2e25a8831fbabffd",
+      "masterSha256": "f1c6b5ed3174967d466fdd43446be73106c475095ceb8681e692e057dc9cd5e7",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p035-redibujo12-v1.png",
+      "selectedAttempt": "c13_p035_redibujo12_v1.json",
+      "ocrMissingCandidates": [
+        "entre",
+        "muchas",
+        "otras"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p035_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p034-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 35». Exactly 8 editorial panels. Five rows: wide full 1 with large text, 2+3, 4+5, wide 6 and 7+8 with 7 wider and spacious lettering. Exactly eight borders, six dialogue balloons exact, intact bottom margin and title. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nContinue inside the same covered outdoor dining room and same single walnut table with its familiar ceramics. Use the food, current costumes and cheeks consistent with prior works. The dish being introduced is cooked squid and potatoes in warm red sauce on SAME blue-yellow oval ceramic dish of image 1. Only new props are TWO conventionally sized wine bottles for the adult family, one CLEAR 30cm bottle showing pale gold wine and a blue-and-gold painted COASTAL landscape label with no text, one bottle of DARK almost green-black glass with a small matching painted label (no print, no signature). A short mature tan house elf with pointed ears in cream gold tunic presents just the two props on one silver oval tray, his normal torso smaller than human adults. At the end the clear bottle is in Hermione's hands and the dark one remains on tray or table. He hasn't opened or poured anything. Daphne and Blaise keep their exact old gestures and clothes, Blaise compact SHORT black coiled hair, brown eyes/dark skin, olive linen, Daphne golden long wavy hair, blue eyes, peach puff sleeve dress, fine plain gold pendant. Pansy blue linen/white pants/left H/R/P and angled black bob and green eyes, clip only left. Hermione chestnut curls/freckles/brown eyes/ivory and blue oval sapphire, single clear small ring only on left ring finger. If sitting family shown retain individual faces and clothing from prior pages, babies in separate supports same as 30–34; focus small group of four. Very important no adjustment to pasted Spanish even in the long opening where wording is unusual. Copy exact text including «hasta que el caldo se vuelve más espeso el ajo y el sabor del mar.» plus the italic/proper Italian and grapes «Costa d’Amalfi Bianco», «Falanghina y Biancolella».\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Wide frame in warm shade across the table. B describes exactly the cooked squid and potato dish in front of Hermione and Pansy, his arm reaching vaguely toward it from olive sleeve. Include the entire original long quote as given in one large balloon tailed to Blaise. Same fish and other plates glimpsed at sides. H sees it, no extra labels or offsite scene.\nBlaise «Esto es totani e patate (calamares y patatas), preparado al estilo de Praiano. Es una comida más rústica. Los calamares se cocinan con las patatas hasta que el caldo se vuelve más espeso el ajo y el sabor del mar. No es tan elegante como el pescado, pero es el plato que debes comer si quieres comprender cómo cocina la gente de la costa en casa.»\nPanel 2: Silent P2 two-shot at edge of table. Daphne in peach slides the rim of the correct seafood platter nearer with one hand, her other hand parted enough from Blaise's free arm or fingers linked on the table. Keep separate anatomy and no portage of huge serving object.\nPanel 3: DaphneLEFTquietlyremindsB RIGHTaboutwhitewine, helooksatherandanswerssmiling, two fullsource-orderballoons.\nDaphne «El vino blanco.»\nBlaise «Y se terminan con vino blanco. Sabía que había una razón para mantenerte cerca.»\nPanel 4: P4: Daphne smiles, wearing her familiar light PEACH cuff all the way into a simple bare hand. Blaise gently raises her fingers to his lips for an ordinary brief kiss on the back of her hand, fully clothed and wholesome adult family gathering, normal plate props. Clearly Daphne's small balloon with tail to her mouth. No third hand.\nDaphne «Entre muchas otras.»\nPanel 5: P5 silent: one short tan elf adult brings two realistically sized bottles upright on a single small silver tray to Blaise and Daphne. Exact clear pale wine with landscape painting blue/gold label, near-black bottle beside it. Olive sleeves and peach dress no arm overlap, bottles have no readable print. No extra table, bottle or actor.\nPanel 6: B addressesHacrosstablewhileindicatingtwo bottles, allsameadultseats/food/pergola. Broadcompleteballoon.\nBlaise «La elección del vino depende de lo que quieras probar. Hay demasiados sabores sobre la mesa para servir la misma botella con todo.»\nPanel 7: LARGE FULL-WIDTH B takesCLEARbottlewithbluegoldcoastalARTlabelanddescribesit, H/Plisten, DARKbottlestaysonsilvertray. Entireparagraphandgrapevarietiesverbatimreadable. No additionalbottles ortextlabels.\nBlaise «Este es un Costa d’Amalfi Bianco, el blanco de la región. Está elaborado principalmente con Falanghina y Biancolella. Es fresco, tiene buena acidez y conserva notas salinas y minerales por la cercanía del mar. Funciona con los mariscos, el pescado y la pasta al limón.»\nPanel 8: P8 silent: Hermione in ivory tilts just the one clear bottle slightly to examine the painted coast label blue and antique gold without words. Her visible ring if any on a physically clear left hand only. Blaise nearby in olive, second dark bottle standing safely at table next to him. Both same shape and label in preceding frames and same sunlight. No pouring or empty glasses.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-40c9e8a7-4e76-4cc5-b3bc-2e706a6d49b6.png"
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "original": "paginas/c13-p036.webp",
+      "image": "paginas/c13-p036-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        605
+      ],
+      "summary": "Blaise presenta el vino tinto de Tramonti, explica los viñedos en terrazas y elige comenzar con el blanco para los seis jóvenes.",
+      "panels": [
+        {
+          "scene": "Medium lunch table shot of Blaise pointing at the DARK olive-glass bottle on the tray; CLEAR one beside it, only these TWO. Same elf, waist level on a short adult body. Blaise and his text dominant, Daphne dresses in peach. Hermione and Pansy listen from the other side. Exact words of the one Blaise speech.",
+          "dialogue": [
+            "Blaise: El Costa d’Amalfi Rosso es el tinto. Se produce con Piedirosso y Aglianico. Este viene de Tramonti y también incluye Tintore, de viñas prefiloxéricas que tienen más de doscientos años. Tiene más cuerpo, frutos rojos y un fondo especiado. Es mejor para los quesos curados y las carnes."
+          ],
+          "sourceFragments": [
+            "El Costa d’Amalfi Rosso es el tinto. Se produce con Piedirosso y Aglianico. Este viene de Tramonti y también incluye Tintore, de viñas prefiloxéricas que tienen más de doscientos años. Tiene más cuerpo, frutos rojos y un fondo especiado. Es mejor para los quesos curados y las carnes"
+          ]
+        },
+        {
+          "scene": "Hermione brown eyes, freckles, chestnut curls, cream linen and sapphire studies the label briefly and looks out toward the inclined hills; Pansy with angular narrow chin sits beside her. Only Hermione speaks.",
+          "dialogue": [
+            "Hermione: ¿Cómo pueden cultivar en una montaña tan inclinada?"
+          ],
+          "sourceFragments": [
+            "¿Cómo pueden cultivar en una montaña tan inclinada?"
+          ]
+        },
+        {
+          "scene": "Blaise smiles at her question and gestures past the white arch toward hillside terraces. Generous one full speech balloon.",
+          "dialogue": [
+            "Blaise: En terrazas. Algunas son tan estrechas y empinadas que ninguna máquina puede entrar. Cada planta se cuida a mano y las uvas también se recogen de esa forma. Por eso lo llaman viticultura heroica. No es una expresión creada para vender botellas; basta con subir una vez hasta los viñedos para comprenderla."
+          ],
+          "sourceFragments": [
+            "En terrazas. Algunas son tan estrechas y empinadas que ninguna máquina puede entrar. Cada planta se cuida a mano y las uvas también se recogen de esa forma. Por eso lo llaman viticultura heroica. No es una expresión creada para vender botellas; basta con subir una vez hasta los viñedos para comprenderla"
+          ]
+        },
+        {
+          "scene": "Wordless view through the same arch of steep hillside with horizontal bands of vineyards, old stone retaining walls amid houses, olive and lemon trees, and blue sea below. No people, machines or signs."
+        },
+        {
+          "scene": "Back to Blaise from near Hermione's shoulder, pleased and calm. Same pale wood pergola and suspended blossoms. Full one speech balloon.",
+          "dialogue": [
+            "Blaise: Las familias han trabajado esas terrazas durante generaciones. Cada botella sabe un poco a la roca, al sol y al mar que tienen debajo."
+          ],
+          "sourceFragments": [
+            "Las familias han trabajado esas terrazas durante generaciones",
+            "Cada botella sabe un poco a la roca, al sol y al mar que tienen debajo"
+          ]
+        },
+        {
+          "scene": "Quiet medium shot, Daphne looks at Blaise, leaves her hand on his OLIVE linen forearm and her thumb brushes the cloth. Keep his dark short tight curls and her small gold pendant. Elf holds tray nearby with both bottles, glasses still not served wine."
+        },
+        {
+          "scene": "Same two bottles and tray. Blaise selects the CLEAR bottle, asks the short elf to begin with the six young adults on this part of the table, elf bows his head. Visible diners naturally frame both sides of the long table. No pouring shown. Full exact speech.",
+          "dialogue": [
+            "Blaise: Comenzaremos con el blanco. Sirve primero a los seis de este lado, por favor."
+          ],
+          "sourceFragments": [
+            "Comenzaremos con el blanco. Sirve primero a los seis de este lado, por favor"
+          ]
+        }
+      ],
+      "actualPanelCount": 7,
+      "transcript": "Capítulo 13 · 36\n\nBlaise presenta el vino tinto de Tramonti, explica los viñedos en terrazas y elige comenzar con el blanco para los seis jóvenes.\nBlaise: El Costa d’Amalfi Rosso es el tinto. Se produce con Piedirosso y Aglianico. Este viene de Tramonti y también incluye Tintore, de viñas prefiloxéricas que tienen más de doscientos años. Tiene más cuerpo, frutos rojos y un fondo especiado. Es mejor para los quesos curados y las carnes.\nHermione: ¿Cómo pueden cultivar en una montaña tan inclinada?\nBlaise: En terrazas. Algunas son tan estrechas y empinadas que ninguna máquina puede entrar. Cada planta se cuida a mano y las uvas también se recogen de esa forma. Por eso lo llaman viticultura heroica. No es una expresión creada para vender botellas; basta con subir una vez hasta los viñedos para comprenderla.\nBlaise: Las familias han trabajado esas terrazas durante generaciones. Cada botella sabe un poco a la roca, al sol y al mar que tienen debajo.\nBlaise: Comenzaremos con el blanco. Sirve primero a los seis de este lado, por favor.",
+      "review": "Siete viñetas y cinco turnos completos de PDF605, cotejados visualmente y con OCR. La última viñeta vuelve al eje de la mesa, con Hermione y Pansy enfrente, y deja a los demás comensales en sus lugares fuera de campo. Se conservan el elfo de la 35, dos botellas, vasos con limonada y copas vacías; el blanco se sirve en la 37. Blaise mantiene los rizos cortos y los viñedos muestran muros antiguos de contención.",
+      "reviewDate": "2026-11-20",
+      "sha256": "6408914ef6785797be63f3a3bdce81077e23727b7e287723d49a388d371f1e04",
+      "masterSha256": "0ac3bf550a026d519121c5d60e30c29396316948afe0d6889168af2525e45c4f",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p036-redibujo12-v2.png",
+      "selectedAttempt": "c13_p036_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p036_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p035-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p031-redibujo12-v3.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 36». Exactly 7 editorial panels. Seven panels in five rows: 1 wide; 2 medium left and 3 larger right; 4 landscape left and 5 right; 6 wide; 7 wide, full border. Leave approximately 175px or more for the long text in panels 1 and 3. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Current age-distinct faces, wide dining table geography, individual baby seats and left jewelry. Earlier point in the same lunch. Do not copy its dialogue.\nOne continuous early-afternoon luncheon at the same lower room as p35. Now the white bottle of pale yellow liquid and the dark olive glass red wine bottle are both together upright on the silver tray. Same realistic bottle height and blue-gold coastline illustration, no printed brand or random text. The elderly, very short adult male house elf holding the tray at normal table height, wrinkled face, long pointed ears, cream tunic with antique-gold trim, same figure as the preceding page. Current glasses hold pale frosty lemonade distinguished by ice, lemon slice or mint; leave clean EMPTY wine stems ready before service. The elf inclines his head and no one pours until page 37. Bronze walnut rectangular table and cane chairs. No panorama that moves Hermione and Pansy next to or onto Daphne and Blaise's side. For wide ending, move viewpoint to end of the table, show the same adults around it up to 11 as naturally visible and crop faces or seats that would require distortion. Draco and Astoria sit together beside the blond sleeping infant Scorpius in a cream lined light wood bassinet, not with another baby in their hands. Robin and Arianna each safely seated in their own lemon-backed highchair where visible. Keep jewelry subtler than faces: Hermione only left oval diamond halo and blue sapphire necklace, Pansy's left H/R/P fine chain and gold clip. Hair strictly compact short black coils on Blaise. The dialogue is the original text: retain the semicolon in the second long explanation.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Medium lunch table shot of Blaise pointing at the DARK olive-glass bottle on the tray; CLEAR one beside it, only these TWO. Same elf, waist level on a short adult body. Blaise and his text dominant, Daphne dresses in peach. Hermione and Pansy listen from the other side. Exact words of the one Blaise speech.\nBlaise «El Costa d’Amalfi Rosso es el tinto. Se produce con Piedirosso y Aglianico. Este viene de Tramonti y también incluye Tintore, de viñas prefiloxéricas que tienen más de doscientos años. Tiene más cuerpo, frutos rojos y un fondo especiado. Es mejor para los quesos curados y las carnes.»\nPanel 2: Hermione brown eyes, freckles, chestnut curls, cream linen and sapphire studies the label briefly and looks out toward the inclined hills; Pansy with angular narrow chin sits beside her. Only Hermione speaks.\nHermione «¿Cómo pueden cultivar en una montaña tan inclinada?»\nPanel 3: Blaise smiles at her question and gestures past the white arch toward hillside terraces. Generous one full speech balloon.\nBlaise «En terrazas. Algunas son tan estrechas y empinadas que ninguna máquina puede entrar. Cada planta se cuida a mano y las uvas también se recogen de esa forma. Por eso lo llaman viticultura heroica. No es una expresión creada para vender botellas; basta con subir una vez hasta los viñedos para comprenderla.»\nPanel 4: Wordless view through the same arch of steep hillside with horizontal bands of vineyards, old stone retaining walls amid houses, olive and lemon trees, and blue sea below. No people, machines or signs.\nPanel 5: Back to Blaise from near Hermione's shoulder, pleased and calm. Same pale wood pergola and suspended blossoms. Full one speech balloon.\nBlaise «Las familias han trabajado esas terrazas durante generaciones. Cada botella sabe un poco a la roca, al sol y al mar que tienen debajo.»\nPanel 6: Quiet medium shot, Daphne looks at Blaise, leaves her hand on his OLIVE linen forearm and her thumb brushes the cloth. Keep his dark short tight curls and her small gold pendant. Elf holds tray nearby with both bottles, glasses still not served wine.\nPanel 7: Same two bottles and tray. Blaise selects the CLEAR bottle, asks the short elf to begin with the six young adults on this part of the table, elf bows his head. Visible diners naturally frame both sides of the long table. No pouring shown. Full exact speech.\nBlaise «Comenzaremos con el blanco. Sirve primero a los seis de este lado, por favor.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-57670fed-a6a2-4ac1-a7e5-7cf7d94d4fa3.png"
+        },
+        {
+          "name": "c13_p036_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-57670fed-a6a2-4ac1-a7e5-7cf7d94d4fa3.png"
+          ],
+          "prompt": "Edit only the seventh, very bottom panel of this full portrait page. Preserve the header, six upper panels, exact designs, color, framing, dialogue, punctuation, border and silhouettes elsewhere. In the LAST panel replace the impossible long row of people and babies with a more intimate medium shot as seen from across the long lunch table. Center on adult Blaise with the same very SHORT compact coils and his olive sleeves, tilting the clear-gold wine bottle slightly upright still corked, across from the very short older elf lowering his head, who keeps the silver tray horizontal with the dark bottle still standing firmly on it. Same mouth and speech tail from Blaise, preserve entire exact Spanish speech and punctuation. Daphne with peach at Blaise's shoulder, tiny glimpse of cream sleeves of Hermione and blue Pansy seated opposite in low foreground. Modern everyday chair placement and same dark walnut and linen table setting. Use only these people in frame, keep others continuously in their original assigned seats offscreen. The back of the table opens into the same white arches, flowering pergola, orchard and azure sea. Same late lunch light. Still no pouring. Exact 7 panels and readable text. Reproduce the rest of the original page as faithfully as possible.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f97ad7eb-6f82-4734-96dd-7008263efc14.png"
+        }
+      ]
+    }
+  ]
+}
