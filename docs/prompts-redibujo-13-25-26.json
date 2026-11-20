@@ -1,0 +1,220 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 25,
+  "end": 26,
+  "date": "2026-11-20",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 25,
+      "original": "paginas/c13-p025.webp",
+      "image": "paginas/c13-p025-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        595,
+        596
+      ],
+      "summary": "Lissandra y Caelum llegan al comedor. La seda del vestido toma los colores de los limones y las flores; Lissandra saluda a Daphne, Hermione y Pansy.",
+      "panels": [
+        {
+          "scene": "Wide composition from above the banquet tabletop, new Lissandra and Caelum entering beneath the rear center white arch while seven adults and 2 babies at same places naturally notice them. Quiet natural sun. Shade of garden green at the near hem blends to soft lemon yellow with a few cream and rose glints. One neutral caption at top left, two new adults easily identified. No other speech.",
+          "caption": "Lissandra y Caelum llegaron bajo la pérgola."
+        },
+        {
+          "scene": "Silent fashion detail of just end of intact full silk skirt (from above calves to floor), soft golden lemon satin with reflections of leaves and pink and white flowers. One pair of pale gold heels peeks naturally below the moving hem. Same painted floor and ground, visible real cloth drape. No new imagery."
+        },
+        {
+          "scene": "Daphne stands near her chair, her mother Lissandra after greeting gently smooths her peach sleeve by the shoulder with TWO fingers, and only she says «Elegiste bien.». Their two distinct faces, hair and pale blue eyes, approximate age difference clear, warmly related.",
+          "dialogue": [
+            "Lissandra: Elegiste bien."
+          ],
+          "sourceFragments": [
+            "Elegiste bien"
+          ]
+        },
+        {
+          "scene": "Lissandra on left, Hermione on right, stand near table and warmly share a greeting. Lissandra gently holds Hermione's LEFT ring hand from her ivory sleeve, one round halo diamond and only this hand with a ring. Show simple connected hands, just one clasp, and Hermione's other arm clearly separate. Lissandra is the speaker of the full long uninterrupted line in a single large balloon.",
+          "dialogue": [
+            "Lissandra: Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez."
+          ],
+          "sourceFragments": [
+            "Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez"
+          ]
+        },
+        {
+          "scene": "Lissandra gives H normal brief cheek greeting then retains ONE hand gently, fully clothed family welcome, background food/flowers and correct babies safely in OWN chairs. No extra pose/clone."
+        },
+        {
+          "scene": "FULL-WIDTH H LEFT replies with sincere delight to L RIGHT who follows warmly. SAME long rectangular table/cream runners/pergola, two source-order spacious balloons.",
+          "dialogue": [
+            "Hermione: Todo es precioso. Desde que llegamos no he podido decidir qué parte observar primero.",
+            "Lissandra: Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada."
+          ],
+          "sourceFragments": [
+            "Todo es precioso",
+            "Desde que llegamos no he podido decidir qué parte observar primero",
+            "Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada"
+          ]
+        },
+        {
+          "scene": "Lissandra andPansy exchange normal friendly hug, both fully clothed, distinct mature blondeupdo vsyoungblackbobgreeneyes. P blue-white/LEFT H-R-P bracelet/LEFT clip/bare fingers, Lsoftyellow silk. No text."
+        },
+        {
+          "scene": "No text. Lissandra offers a small side fold of her opaque lemon-silk skirt to Pansy. Both stand informally, framed upper body to hips so cloth shades and exact faces visible. Only Pansy in blue touches the yellow draped fabric lightly with her own plain right forefinger, fine blue reflection on silk near her blue sleeve, no change of light on bodies or hair. This is a cloth demonstration, and their arms are simply natural. No other cast needed."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 25\n\nLissandra y Caelum llegan al comedor. La seda del vestido toma los colores de los limones y las flores; Lissandra saluda a Daphne, Hermione y Pansy.\nNarración: Lissandra y Caelum llegaron bajo la pérgola.\nLissandra: Elegiste bien.\nLissandra: Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez.\nHermione: Todo es precioso. Desde que llegamos no he podido decidir qué parte observar primero.\nLissandra: Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada.",
+      "review": "Ocho viñetas, cartela y cuatro turnos completos de PDF595–596. Se usó la ficha de Lissandra y su rostro de 09-21. Caelum tiene su referencia en su primera aparición de Amalfi, con lino beige y rostro afeitado. La seda pasa de reflejos verdes a amarillo limón con reflejos rosa y blanco, y aparece un reflejo azul junto a la manga de Pansy al final. Saludos naturales y un diamante en el anular izquierdo de Hermione. Se revisó el grupo completo de la apertura, los bebés en sus sillas, babero, bordes, colas y palabras con OCR.",
+      "reviewDate": "2026-11-20",
+      "sha256": "5c03d6dbabe6ee55b3f9ff22ea573a251205163f52e04af97032ed0cfe24f377",
+      "masterSha256": "7dbb98df1afe7553245e755d6f8a847643bd436a10f006b3816df3a726934e51",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p025-redibujo12-v2.png",
+      "selectedAttempt": "c13_p025_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p025_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p024-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/lissandra-09-21.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/caelum-referencia-13-025.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 25». Exactly 8 editorial panels. Six rows: full 1, 2+3, full 4, full 5, full 6, and 7+8. Exactly eight framed panels, one opening caption, four exact speech balloons. Full margins. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Exact established face, pale blue-gray eyes, mature blonde low rolled updo and blue drop earring of Lissandra. Use fully covered changeable lemon silk of the current scene with a different fitted dress.\nImage 5: Reference for Caelum's own clean-shaven head, darker swept hair with gray temples, beige linen and stance. He is distinct from Markus and no earlier character with another name.\nStay at the same cream and pale timber pergola, actual flowers, table and same family place settings of page 24. New arrivals Lissandra and her companion Caelum are two distinct mature fully clothed adults. Lissandra's adult face is image 4: faintly blue-gray eyes, graceful nose, pale skin, smooth golden blonde rolled low bun and two small blue pear-drop earrings, distinct from Daphne's long open golden waves and bright blue eyes. As described in the story: fine opaque yellow silk floor-length dress with flowing sleeve and modest drape, soft garden green at entry edge turns lemon-silky yellow, small white and pink flower reflections on low hem. Normal fabric translucency only in highlights, nothing drawn underneath. No glowing skin. Caelum as image 5, mature calm face, dark brows, brown hair brushed back straight with gray temples, clean-shaven without Markus's beard, beige fitted linen jacket and trousers over open-collared ivory shirt. He rests one hand at the covered middle of Lissandra's back as they cross the white arch. No new women or men other than them. Preserve Markus dark goatee and glasses clipped to collar; Eirena in terracotta and blue earrings, Pansy left bracelet, bare fingers, no right clip or ear stud; H diamond only on left. Two infants seated in their exact separate highchairs. Robin with lemon bib, chestnut curls and green, Arianna olive blue-and-blonde. No house servants in new pictures.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Wide composition from above the banquet tabletop, new Lissandra and Caelum entering beneath the rear center white arch while seven adults and 2 babies at same places naturally notice them. Quiet natural sun. Shade of garden green at the near hem blends to soft lemon yellow with a few cream and rose glints. One neutral caption at top left, two new adults easily identified. No other speech.\nCaption «Lissandra y Caelum llegaron bajo la pérgola.»\nPanel 2: Silent fashion detail of just end of intact full silk skirt (from above calves to floor), soft golden lemon satin with reflections of leaves and pink and white flowers. One pair of pale gold heels peeks naturally below the moving hem. Same painted floor and ground, visible real cloth drape. No new imagery.\nPanel 3: Daphne stands near her chair, her mother Lissandra after greeting gently smooths her peach sleeve by the shoulder with TWO fingers, and only she says «Elegiste bien.». Their two distinct faces, hair and pale blue eyes, approximate age difference clear, warmly related.\nLissandra «Elegiste bien.»\nPanel 4: Lissandra on left, Hermione on right, stand near table and warmly share a greeting. Lissandra gently holds Hermione's LEFT ring hand from her ivory sleeve, one round halo diamond and only this hand with a ring. Show simple connected hands, just one clasp, and Hermione's other arm clearly separate. Lissandra is the speaker of the full long uninterrupted line in a single large balloon.\nLissandra «Me alegra mucho verte aquí. Chiara lleva días preparando cada detalle y, aun así, creo que la mitad de su entusiasmo consistía en esperar el momento en que vieras la villa por primera vez.»\nPanel 5: Lissandra gives H normal brief cheek greeting then retains ONE hand gently, fully clothed family welcome, background food/flowers and correct babies safely in OWN chairs. No extra pose/clone.\nPanel 6: FULL-WIDTH H LEFT replies with sincere delight to L RIGHT who follows warmly. SAME long rectangular table/cream runners/pergola, two source-order spacious balloons.\nHermione «Todo es precioso. Desde que llegamos no he podido decidir qué parte observar primero.»\nLissandra «Entonces Chiara estará satisfecha. Para ella, una casa bien preparada debe ofrecerte algo nuevo cada vez que levantas la mirada.»\nPanel 7: Lissandra andPansy exchange normal friendly hug, both fully clothed, distinct mature blondeupdo vsyoungblackbobgreeneyes. P blue-white/LEFT H-R-P bracelet/LEFT clip/bare fingers, Lsoftyellow silk. No text.\nPanel 8: No text. Lissandra offers a small side fold of her opaque lemon-silk skirt to Pansy. Both stand informally, framed upper body to hips so cloth shades and exact faces visible. Only Pansy in blue touches the yellow draped fabric lightly with her own plain right forefinger, fine blue reflection on silk near her blue sleeve, no change of light on bodies or hair. This is a cloth demonstration, and their arms are simply natural. No other cast needed.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f179f447-6e4b-4942-a638-90616cffceae.png"
+        },
+        {
+          "name": "c13_p025_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f179f447-6e4b-4942-a638-90616cffceae.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Retouch only the following continuity details in the finished full comic page, «Capítulo 13 · 25», 1024×1536, same eight panels, one caption and four exact Spanish dialogue balloons with exact accents and all margins. In the TOP panorama, add missing Hermione at the table between Pansy in blue and the newly arrived couple. Hermione has dark chestnut curls and brown eyes, freckles, ivory linen blouse and one small blue oval sapphire. She and Pansy remain seated behind the table. Keep exactly nine adults and two small human infants in the panorama, their exact clothes, lenses at Markus collar, yellow-green silk dress and scene. In the wide third row, (the long greeting starting «Me alegra mucho verte aquí.») Lissandra in yellow takes Hermione's LEFT hand which extends from the ivory sleeve on the right. The fingers follow naturally, one oval clear diamond with small halo on Hermione's ring finger (second from little finger) is visible on the back of that hand. No ring or color change on the yellow woman's hand; both hands clearly separate. In the next wide row, Lissandra gives an ordinary family kiss on Hermione's outer cheek near the ear as Hermione smiles, keep their mouths naturally separate and Hermione quietly accepting her hand; no other change to crowd. In the last silent panel, a TINY soft ice-blue reflection of Pansy's blue linen sleeve on the yellow silk fold at her fingertip indicates the start of the color change. Leave the entire fabric otherwise lemon yellow. Keep all other people, artwork and Spanish completely intact, same black bottom rule and pale ivory border. Only the listed edits.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6e37bbb1-c306-4534-8efe-a9f92a1592f6.png"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "original": "paginas/c13-p026.webp",
+      "image": "paginas/c13-p026-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        596,
+        597
+      ],
+      "summary": "Pansy pregunta por la seda cambiante y conversa con Lissandra sobre el diseño. La madre de Daphne le propone trabajar con ella una temporada.",
+      "panels": [
+        {
+          "scene": "In a waist-up view Pansy watches the hem fold that Lissandra holds out. She examines the cloth light with one natural PLAIN bare finger, keeping her short black bob and thin green eyes. Lemon silk deepens at folds with a small cool-blue reflection near a blue sleeve only, no colored light on skin. One complete Pansy question, her own tail.",
+          "dialogue": [
+            "Pansy: ¿Reacciona a la luz o a los colores que tiene cerca?"
+          ],
+          "sourceFragments": [
+            "¿Reacciona a la luz o a los colores que tiene cerca?"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH L LEFT explains carefully to P RIGHT, draped fabric in natural hands, yellow silk/blue glint limited to cloth, no changes of hair/skin colors. Mature original face and tiny jewelry, exact source balloon.",
+          "dialogue": [
+            "Lissandra: A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella."
+          ],
+          "sourceFragments": [
+            "A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella"
+          ]
+        },
+        {
+          "scene": "Quiet side shot as Lissandra turns toward her golden-haired daughter Daphne in peach and blue eyes; her fully covering silk skirt swings under hand, yellow with subtle peach band JUST on the edge near Daphne. Pansy watches quietly with exact angular face. No electricity, added people or text."
+        },
+        {
+          "scene": "Pansy in blue, green eyes, short straight black chin bob with left gold barrette only if legal side, hand relaxed near the tabletop. Her own small complete balloon clearly speaks about candles. She is still outdoors with sunlight.",
+          "dialogue": [
+            "Pansy: Quiero verla cuando enciendan las velas."
+          ],
+          "sourceFragments": [
+            "Quiero verla cuando enciendan las velas"
+          ]
+        },
+        {
+          "scene": "FULL-WIDTH Lissandra explains to P and H nearby, SAME still daytime lemonpergola/table. Do NOT light candles or add night scene. Large complete balloon above faces.",
+          "dialogue": [
+            "Lissandra: La seda conserva el último color del día y lo mezcla con la luz del fuego. El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas."
+          ],
+          "sourceFragments": [
+            "La seda conserva el último color del día y lo mezcla con la luz del fuego",
+            "El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas"
+          ]
+        },
+        {
+          "scene": "Pansy smiles approvingly at L, L returns skirt to naturalfall, slow return toward LEMONYELLOW. Original faces, no added guest.",
+          "dialogue": [
+            "Pansy: Hiciste bien. Perdería todo el encanto si pudiera predecirse."
+          ],
+          "sourceFragments": [
+            "Hiciste bien. Perdería todo el encanto si pudiera predecirse"
+          ]
+        },
+        {
+          "scene": "Lissandra only one natural hand on Pansy's covered blue shoulder as she offers the invitation. Pansy answers in her own single complete balloon, with H nearby listening quietly. Make correct tails, L blond updo in YELLOW left, P black bob in BLUE right of L, H longer chestnut in IVORY. L first, P second. No ring on Pansy, no hair accessory on right profile.",
+          "dialogue": [
+            "Lissandra: Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.",
+            "Pansy: Envíame una propuesta que esté a la altura del vestido."
+          ],
+          "sourceFragments": [
+            "Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras",
+            "Envíame una propuesta que esté a la altura del vestido"
+          ]
+        },
+        {
+          "scene": "Lissandra smiles with satisfaction, original mature blondeupdo, silk fully restored soft LEMONYELLOW under pergola, Caelum beige nearby preparing to greet H. Same seated family/babies with correct holders/chairs in background.",
+          "dialogue": [
+            "Lissandra: Ya pensaba hacerlo."
+          ],
+          "sourceFragments": [
+            "Ya pensaba hacerlo"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 26\n\nPansy pregunta por la seda cambiante y conversa con Lissandra sobre el diseño. La madre de Daphne le propone trabajar con ella una temporada.\nPansy: ¿Reacciona a la luz o a los colores que tiene cerca?\nLissandra: A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella.\nPansy: Quiero verla cuando enciendan las velas.\nLissandra: La seda conserva el último color del día y lo mezcla con la luz del fuego. El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas.\nPansy: Hiciste bien. Perdería todo el encanto si pudiera predecirse.\nLissandra: Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.\nPansy: Envíame una propuesta que esté a la altura del vestido.\nLissandra: Ya pensaba hacerlo.",
+      "review": "Ocho viñetas y ocho turnos exactos de PDF596–597. Lissandra conserva su ficha, pendientes y recogido; la seda toma un reflejo azul junto a Pansy, uno durazno junto a Daphne y vuelve al amarillo al final. Añadida y comprobada la cola del globo de su propuesta a Pansy. Pansy dirige sus propios globos, sin anillo; Hermione y Daphne conservan rostros y ropa. Caelum, ambos bebés y el entorno conservan continuidad en el cierre. Cotejo visual y OCR con bordes completos.",
+      "reviewDate": "2026-11-20",
+      "sha256": "1ecebb84e291eb3a170fe0f39496eb465bb9b38e6d6b9d03c530aa4ce5b1ed5d",
+      "masterSha256": "240a093bbc507226cb92cd00a3d3b08d5b07ece3a867cef9d5d68455cbd2021a",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p026-redibujo12-v2.png",
+      "selectedAttempt": "c13_p026_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p026_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p025-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/fichas-capitulos-01-12/recortes-publicados/lissandra-09-21.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/caelum-referencia-13-025.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 26». Exactly 8 editorial panels. Five rows: panel 1 beside 2 with 2 wider, 3 beside 4, 5 wide, 6 beside 7 with 7 wider, 8 panoramic. Exactly 8 rectangular panels with visibly complete black bottom border and ivory margin. Room for all eight balloons. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and is held securely by Chiara until specified otherwise. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, safely supported in a sand colored Zephyr with three interlinked rings blue, red and yellow hung above him on one pale strap until specified otherwise. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Lissandra's face and muted pale blue-gray eyes, adult graceful blonde low updo, earring. Today's dress matches new page 25.\nImage 5: Use clean-shaven adult Caelum beige for the final scene only. The man in black with goatee is Markus.\nExact visual continuation of 25. Stay at the bright daylight coastal banquet. Lissandra adult and mature pale blue-gray eyes, short golden blonde rolled low updo, tiny blue drop earrings, the same flowing floor-length opaque refreshing silk dress with long light billowing sleeves. Dress is lemon yellow, reflects cool blue only on nearest folds near Pansy's sleeve, peach only on one adjacent fold near Daphne, otherwise yellow. It gradually goes back to full lemon at end. Keep the reflection in silk only and clothing modest and exact from image 1. No candles yet, no pictures about the explanation, just gestures and speech. Pansy exactly the thin green almond eye jawline of image 2, blue rolled blouse, white trousers and one H/R/P chain only on anatomical left wrist with all fingers plain. Gold barrette only at LEFT temple. Skip any clip when the right side is facing us. Daphne stays long honey-golden blonde with bright blue irises and peach. Hermione chestnut curls and brown, ivory blouse and blue sapphire. Nine adult figures in last panel including gray-templed clean shaven Caelum in beige next to Lissandra, and two infants each in their own wooden high chair. Robin's bib as image 1, green eyes and brown curls; Arianna olive clothes blonde with two bows blue eyes. Markus short beard gray temples black shirt, dark glasses clipped to his collar; Eirena terracotta, blue earrings, green eyes. No Draco, Astoria or Scorpius yet.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: In a waist-up view Pansy watches the hem fold that Lissandra holds out. She examines the cloth light with one natural PLAIN bare finger, keeping her short black bob and thin green eyes. Lemon silk deepens at folds with a small cool-blue reflection near a blue sleeve only, no colored light on skin. One complete Pansy question, her own tail.\nPansy «¿Reacciona a la luz o a los colores que tiene cerca?»\nPanel 2: FULL-WIDTH L LEFT explains carefully to P RIGHT, draped fabric in natural hands, yellow silk/blue glint limited to cloth, no changes of hair/skin colors. Mature original face and tiny jewelry, exact source balloon.\nLissandra «A ambos. La tela identifica el tono dominante, pero no lo copia. Lo interpreta según la luz, el movimiento y los colores que entran en contacto con ella.»\nPanel 3: Quiet side shot as Lissandra turns toward her golden-haired daughter Daphne in peach and blue eyes; her fully covering silk skirt swings under hand, yellow with subtle peach band JUST on the edge near Daphne. Pansy watches quietly with exact angular face. No electricity, added people or text.\nPanel 4: Pansy in blue, green eyes, short straight black chin bob with left gold barrette only if legal side, hand relaxed near the tabletop. Her own small complete balloon clearly speaks about candles. She is still outdoors with sunlight.\nPansy «Quiero verla cuando enciendan las velas.»\nPanel 5: FULL-WIDTH Lissandra explains to P and H nearby, SAME still daytime lemonpergola/table. Do NOT light candles or add night scene. Large complete balloon above faces.\nLissandra «La seda conserva el último color del día y lo mezcla con la luz del fuego. El resultado nunca es exactamente el mismo, por eso no intenté fijarlo durante las pruebas.»\nPanel 6: Pansy smiles approvingly at L, L returns skirt to naturalfall, slow return toward LEMONYELLOW. Original faces, no added guest.\nPansy «Hiciste bien. Perdería todo el encanto si pudiera predecirse.»\nPanel 7: Lissandra only one natural hand on Pansy's covered blue shoulder as she offers the invitation. Pansy answers in her own single complete balloon, with H nearby listening quietly. Make correct tails, L blond updo in YELLOW left, P black bob in BLUE right of L, H longer chestnut in IVORY. L first, P second. No ring on Pansy, no hair accessory on right profile.\nLissandra «Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.»\nPansy «Envíame una propuesta que esté a la altura del vestido.»\nPanel 8: Lissandra smiles with satisfaction, original mature blondeupdo, silk fully restored soft LEMONYELLOW under pergola, Caelum beige nearby preparing to greet H. Same seated family/babies with correct holders/chairs in background.\nLissandra «Ya pensaba hacerlo.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-15af9fe9-5ddc-4c64-8c0b-c2ab0d4d7e59.png"
+        },
+        {
+          "name": "c13_p026_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-15af9fe9-5ddc-4c64-8c0b-c2ab0d4d7e59.png"
+          ],
+          "prompt": "Add just ONE small speech balloon tail to Image 1, a finished complete Spanish comic «Capítulo 13 · 26». Keep precisely the whole 1024×1536 page, same eight rectangles, all colors, words, other balloons and their tails. In the RIGHT panel of the fourth row, the large LEFT balloon «Tu madre tiene razón. Deberías trabajar conmigo alguna temporada. Tienes mejor ojo que muchas personas que llevan años llamándose diseñadoras.» is spoken by Lissandra, the golden-haired woman with updo and YELLOW dress. Add a single distinct short pointed tail from the balloon's RIGHT edge toward her yellow-covered shoulder or toward her head, showing clearly she speaks. Do not change the Spanish letters or reflow the text, just add that little tail. Leave the existing second «Envíame una propuesta que esté a la altura del vestido.» balloon as it is from Pansy in blue, and leave every other line of artwork, face, clothes and dimensions untouched. Complete visible bottom border and ivory margin.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b0a2631d-63f0-4dd9-8793-26efbd4c91fb.png"
+        }
+      ]
+    }
+  ]
+}
