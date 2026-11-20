@@ -1,0 +1,228 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 11,
+  "end": 12,
+  "date": "2026-11-19",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 11,
+      "original": "paginas/c13-p011.webp",
+      "image": "paginas/c13-p011-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        581,
+        582
+      ],
+      "summary": "Blaise llega con Arianna en conjuntos de lino oliva y saluda con una reverencia teatral. Chiara recibe a su nieta.",
+      "panels": [
+        {
+          "scene": "Establishing wide shot from the sitting room toward the same empty corridor from the previous panel, now Blaise enters from it. He securely supports Arianna on his left forearm against his torso. One distinct Robin is visible at a distance already reclining in the Zephyr near Hermione and Pansy. Daphne and Chiara can be at the edge of the frame. One caption with the exact text below.",
+          "caption": "Blaise y Arianna llegaron vestidos de lino verde oliva."
+        },
+        {
+          "scene": "A close conversational two-shot, Hermione's brown eyes glancing at Blaise, Pansy gives her an amused smile and replies. Hermione wears her matching ivory outfit with sapphire, and Pansy blue-white as before. H first on left, P second on right.",
+          "dialogue": [
+            "Hermione: El estilo italiano le queda bien.",
+            "Pansy: Blaise lleva años esperando que alguien pronuncie esas palabras frente a él. No alimentes su vanidad durante el primer día."
+          ],
+          "sourceFragments": [
+            "El estilo italiano le queda bien",
+            "Blaise lleva años esperando que alguien pronuncie esas palabras frente a él. No alimentes su vanidad durante el primer día"
+          ]
+        },
+        {
+          "scene": "Silent waist-up group at the sea windows, Pansy rests a plain right hand over Hermione's covered waist as Hermione smiles. Blaise approaches with Arianna upright and safe on his arm. A short connecting moment, without lettering."
+        },
+        {
+          "scene": "Blaise makes a small theatrical forward bow, extends his empty right arm, and keeps baby upright securely on left arm against his upper body. One balloon pointing to Blaise. His child remains dignified and serious.",
+          "dialogue": [
+            "Blaise: La flamante familia Parkinson finalmente ha llegado a Amalfi. La villa puede comenzar sus celebraciones."
+          ],
+          "sourceFragments": [
+            "La flamante familia Parkinson finalmente ha llegado a Amalfi. La villa puede comenzar sus celebraciones"
+          ]
+        },
+        {
+          "scene": "Pansy laughs in three-quarter view as she looks at Blaise, back in an upright posture. Pansy's dialogue only; preserve her face from image 2.",
+          "dialogue": [
+            "Pansy: Levántate antes de que Arianna comprenda que su padre está haciendo el ridículo."
+          ],
+          "sourceFragments": [
+            "Levántate antes de que Arianna comprenda que su padre esta haciendo el ridículo"
+          ]
+        },
+        {
+          "scene": "Closer two-shot of Blaise and serious Arianna gripping the collar of his olive linen shirt with one little hand. Baby hair short blonde curls, two tiny pale bows and blue eyes. He speaks, amused, in one complete balloon.",
+          "dialogue": [
+            "Blaise: Mi hija ya sabe que su padre posee un extraordinario sentido del espectáculo. Por eso me mira de esa manera."
+          ],
+          "sourceFragments": [
+            "Mi hija ya sabe que su padre posee un extraordinario sentido del espectáculo. Por eso me mira de esa manera"
+          ]
+        },
+        {
+          "scene": "Chiara in champagne clothes reaches out both hands as Arianna leans toward her in recognition and smiles. Blaise raises both supporting hands under the baby. Child still clearly held by Blaise during handover. The single bilingual bubble including parentheses is from Chiara. The cup of white wine is on the table out of both children's reach.",
+          "dialogue": [
+            "Chiara: Vieni con la nonna, bellissima (ven con la abuela, preciosa)."
+          ],
+          "sourceFragments": [
+            "Vieni con la nonna, bellissima (ven con la abuela, preciosa)"
+          ]
+        }
+      ],
+      "actualPanelCount": 7,
+      "transcript": "Capítulo 13 · 11\n\nBlaise llega con Arianna en conjuntos de lino oliva y saluda con una reverencia teatral. Chiara recibe a su nieta.\nNarración: Blaise y Arianna llegaron vestidos de lino verde oliva.\nHermione: El estilo italiano le queda bien.\nPansy: Blaise lleva años esperando que alguien pronuncie esas palabras frente a él. No alimentes su vanidad durante el primer día.\nBlaise: La flamante familia Parkinson finalmente ha llegado a Amalfi. La villa puede comenzar sus celebraciones.\nPansy: Levántate antes de que Arianna comprenda que su padre está haciendo el ridículo.\nBlaise: Mi hija ya sabe que su padre posee un extraordinario sentido del espectáculo. Por eso me mira de esa manera.\nChiara: Vieni con la nonna, bellissima (ven con la abuela, preciosa).",
+      "review": "Siete viñetas, cartela y seis turnos de PDF581–582, cotejo visual y OCR. Blaise adulto recupera los rizos negros cortos y juntos del capítulo 12. Arianna es pequeña y rubia dorada, con ojos azules, dos lazos, lino oliva y apoyo claro en los brazos de Blaise antes de pasar a Chiara. La mano derecha de Pansy apoya en la cintura de Hermione en la tercera viñeta. Caras y joyas según fichas, Robin distinto en su Zephyr, composición, pasillo y bordes revisados.",
+      "reviewDate": "2026-11-19",
+      "sha256": "20b2fcc8032d1113ac5921f6f1989f1c77b58a8b48dd2f90cad8b315160109a3",
+      "masterSha256": "8b922670724ba036ac82abb295cb3a4af377a45170e51a6615e8feb3b125b77a",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p011-redibujo12-v2.png",
+      "selectedAttempt": "c13_p011_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p011_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p010-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Create one new Spanish comic page, 1024×1536 portrait. Write heading «Capítulo 13 · 11». Draw new scenes in the medium and established character designs of the integrated illustrated project, from the seven panels below. Images 1 and 2 are only character, garment and setting guidance. Images 3 and 4 fix face, hair and eye color for adult Blaise and infant Arianna. Do not reuse the sample page's panels, dialogue, outfits of images 3–4 or outdoor location. Same afternoon inside the cream and antique gold Amalfi salon with navy upholstery, oval walnut table and wide sea windows as image 1. Hanging mobile on Robin's beige Zephyr has three short interlinked blue, red, yellow rings suspended by one ivory strap; Robin remains supported there throughout, chestnut curls/green eyes/white button shirt and soft blue pants. There are exactly two distinct human babies in this scene. Blaise is a young adult father with deep brown skin, brown eyes, nose, brows and jaw of image 3. The complete cut is SHORT compact black spring coils clustered closely along the head; a few tight micro-curls are loose near the forehead, but no pendulous twists, braids or locks. Olive linen open-neck shirt and trousers as the text, his rolled sleeves to the elbows. Arianna from image 4 is a small human infant, pale luminous golden blonde short curls and bright sky-blue eyes with two tiny ivory bows, wearing a little olive linen blouse and soft trousers, supported and distinct from Robin. Chiara dark brown eyes, braided updo, gold drop earrings and stacked bangles, her champagne blouse and matching skirt plus wide hat of images 1 and 2. Daphne is golden blonde long hair, blue eyes and peach dress. Hermione chestnut curls, dark brown eyes, freckles, fitted ivory blouse and flowing ivory trousers, blue sapphire at collar and one diamond on left ring finger. Pansy black chin-length asymmetric bob with left gold barrette, angled narrow chin and green almond eyes, blue rolled blouse and white trousers, fine H/R/P chain left wrist only, fingers and right wrist plain. Match faces closely, quiet matte cloth, expressive fine ink and natural light. Faces and actions are central in each view.\nUse exactly seven large clear rectangular panels. Five rows: 1 full width, 2 full width, 3 and 4 side by side with 4 wider, 5 and 6 side by side, 7 full width. Thin black panel borders, about ten pixels of warm ivory margin on each outside edge including bottom. Spanish lettering in clear serif face, exact accents and all sentences. Use separate balloons with tails toward the specified speaker, no labels, add nothing else. Leave room for gestures, heads and legible dialogue. \nPanel 1: Establishing wide shot from the sitting room toward the same empty corridor from the previous panel, now Blaise enters from it. He securely supports Arianna on his left forearm against his torso. One distinct Robin is visible at a distance already reclining in the Zephyr near Hermione and Pansy. Daphne and Chiara can be at the edge of the frame. One caption with the exact text below. Caption «Blaise y Arianna llegaron vestidos de lino verde oliva.»\nPanel 2: A close conversational two-shot, Hermione's brown eyes glancing at Blaise, Pansy gives her an amused smile and replies. Hermione wears her matching ivory outfit with sapphire, and Pansy blue-white as before. H first on left, P second on right.\nHermione «El estilo italiano le queda bien.»\nPansy «Blaise lleva años esperando que alguien pronuncie esas palabras frente a él. No alimentes su vanidad durante el primer día.»\nPanel 3: Silent waist-up group at the sea windows, Pansy rests a plain right hand over Hermione's covered waist as Hermione smiles. Blaise approaches with Arianna upright and safe on his arm. A short connecting moment, without lettering.\nPanel 4: Blaise makes a small theatrical forward bow, extends his empty right arm, and keeps baby upright securely on left arm against his upper body. One balloon pointing to Blaise. His child remains dignified and serious.\nBlaise «La flamante familia Parkinson finalmente ha llegado a Amalfi. La villa puede comenzar sus celebraciones.»\nPanel 5: Pansy laughs in three-quarter view as she looks at Blaise, back in an upright posture. Pansy's dialogue only; preserve her face from image 2.\nPansy «Levántate antes de que Arianna comprenda que su padre está haciendo el ridículo.»\nPanel 6: Closer two-shot of Blaise and serious Arianna gripping the collar of his olive linen shirt with one little hand. Baby hair short blonde curls, two tiny pale bows and blue eyes. He speaks, amused, in one complete balloon.\nBlaise «Mi hija ya sabe que su padre posee un extraordinario sentido del espectáculo. Por eso me mira de esa manera.»\nPanel 7: Chiara in champagne clothes reaches out both hands as Arianna leans toward her in recognition and smiles. Blaise raises both supporting hands under the baby. Child still clearly held by Blaise during handover. The single bilingual bubble including parentheses is from Chiara. The cup of white wine is on the table out of both children's reach.\nChiara «Vieni con la nonna, bellissima (ven con la abuela, preciosa).»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b03d6af5-8007-48fd-9521-cfc02c8c527d.png"
+        },
+        {
+          "name": "c13_p011_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b03d6af5-8007-48fd-9521-cfc02c8c527d.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p009-redibujo12-v5.png"
+          ],
+          "prompt": "Make one focused correction in Image 1, the complete Spanish comic page «Capítulo 13 · 11». Preserve all seven rectangular panels, their heights, positions and fully visible bottom border, EXACT words and accents, six speech balloons plus opening caption, all established faces and hairstyles, the two small human babies and current clothes. ONLY edit Pansy's hand in the silent panel 3 on the left of row 3, next to Blaise and Arianna. Her arm in sky-blue rolled linen cuff wraps around Hermione's back at natural WAIST height. The palm rests on the front-side of Hermione's fitted ivory blouse near the waistband below the ribcage, hand lying flat. Front of the ivory blouse visible, move the hand down from Hermione's sleeve so it neither clutches her upper arm nor appears sewn onto the sleeve. One physically continuous bare right forearm of Pansy, her right wrist and fingers plain, correct number of fingers. Use image 2 fourth strip for this informal touch. Slightly widen the camera inside that existing third panel if needed to show waist plus their faces. Preserve the two women with the exact looks toward Blaise, who continues to support human infant Arianna on his arm. All other parts of Image 1 unchanged, including 1024×1536 canvas and full margins, chestnut and blonde child designs, Blaise's SHORT compact coils, dark brown skin, overarm fold and eyebrow, bows/green linen. Keep the Greek-cream room and Chiara's turbaned braids and hat as they are. Keep all text exactly, including «Blaise y Arianna llegaron vestidos de lino verde oliva.» once in the first-panel caption. No added text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-615cd09b-f3b6-4eea-ae2b-40901e55eb57.png"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "original": "paginas/c13-p012.webp",
+      "image": "paginas/c13-p012-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        582
+      ],
+      "summary": "Chiara saluda a Arianna. Blaise abraza a Pansy y las amigas lo hacen bromear sobre sus discusiones con los cocineros y una cuchara.",
+      "panels": [
+        {
+          "scene": "On the left, Chiara holds infant Arianna securely up at her shoulder, having kissed both little cheeks, with the baby's legs and back supported. Arianna reaches with one tiny hand toward the brim of Chiara's champagne hat. Chiara says both parts of her quote. Her eyes are deep brown.",
+          "dialogue": [
+            "Chiara: Te has pasado toda la mañana con tu padre y ya estás intentando destruir cosas hermosas. Tendremos que solucionar esa influencia."
+          ],
+          "sourceFragments": [
+            "Te has pasado toda la mañana con tu padre y ya estás intentando destruir cosas hermosas",
+            "Tendremos que solucionar esa influencia"
+          ]
+        },
+        {
+          "scene": "Blaise smiles and answers with one complete balloon. He is on the left, both arms now free, looking toward Chiara and the baby firmly in her arms on the right.",
+          "dialogue": [
+            "Blaise: No intentes ponerla en mi contra tan pronto. Al menos espera a que aprenda a hablar."
+          ],
+          "sourceFragments": [
+            "No intentes ponerla en mi contra tan pronto",
+            "Al menos espera a que aprenda a hablar"
+          ]
+        },
+        {
+          "scene": "A warm friendly side hug. Blaise drapes one arm around Pansy's shoulders. Same olive linen shirt and trousers, Pansy slim blue blouse and white trousers. Pansy closes her eyes briefly, reaches one hand around his back, both standing in an ordinary friendly reunion. One bubble from Blaise. No babies in this panel.",
+          "dialogue": [
+            "Blaise: Te extrañé."
+          ],
+          "sourceFragments": [
+            "Te extrañé"
+          ]
+        },
+        {
+          "scene": "They have separated from the hug, and exchange amused remarks beside the table. Pansy on left, Blaise on right, Hermione and Daphne close by. Two distinct full dialogue balloons. His hands empty.",
+          "dialogue": [
+            "Pansy: Lo imaginé. Daphne me contó que comenzaste a discutir con los cocineros.",
+            "Blaise: No estaba discutiendo. Estaba protegiendo la integridad de una receta familiar."
+          ],
+          "sourceFragments": [
+            "Lo imaginé. Daphne me contó que comenzaste a discutir con los cocineros",
+            "No estaba discutiendo. Estaba protegiendo la integridad de una receta familiar"
+          ]
+        },
+        {
+          "scene": "Daphne on the left with sapphire-blue eyes and golden waves, in the peach dress, speaks first. Blaise right appears comically wounded and gives his full reply.",
+          "dialogue": [
+            "Daphne: Intentó entrar a la cocina tres veces.",
+            "Blaise: Y las tres veces llevaba argumentos perfectamente razonables."
+          ],
+          "sourceFragments": [
+            "Intentó entrar a la cocina tres veces",
+            "Y las tres veces llevaba argumentos perfectamente razonables"
+          ]
+        },
+        {
+          "scene": "Same people with a new side angle. Daphne has her own first short reply, Blaise a second short deadpan line. No physical spoon appears.",
+          "dialogue": [
+            "Daphne: La última vez llevabas una cuchara.",
+            "Blaise: Necesitaba pruebas."
+          ],
+          "sourceFragments": [
+            "La última vez llevabas una cuchara",
+            "Necesitaba pruebas"
+          ]
+        },
+        {
+          "scene": "Full-width shot at their shoulders and arms. Pansy uses her hands gently to smooth the open olive collar, still askew since Arianna tugged on it. Fingers bare; one white-gold H/R/P chain on LEFT wrist, her other wrist plain. Blaise left says his full quote first. Pansy at right gives her full answer. Hermione in ivory and Daphne in peach visible behind them as space permits.",
+          "dialogue": [
+            "Blaise: Gracias. Sabía que tu llegada devolvería el orden a mi vida.",
+            "Pansy: No pienso acercarme a esa cocina para resolver los problemas que tú mismo provocaste."
+          ],
+          "sourceFragments": [
+            "Gracias. Sabía que tu llegada devolvería el orden a mi vida",
+            "No pienso acercarme a esa cocina para resolver los problemas que tú mismo provocaste"
+          ]
+        },
+        {
+          "scene": "Full-width closing shot of the group in the same salon, Blaise in frame speaking, his collar fixed. Daphne's teasing smile, Hermione's curls and Pansy's angular small bob, Chiara still holding the one human blonde Arianna, small chestnut-curled Robin reclining separately in Zephyr. The exact size and eyes of both separate babies as 11. Robin's white shirt with separate blue trousers and triple linked blue-red-yellow toy rings. Plain olive clothes and two pale bows on Arianna.",
+          "dialogue": [
+            "Blaise: No necesitaba tanto orden."
+          ],
+          "sourceFragments": [
+            "No necesitaba tanto orden"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 12\n\nChiara saluda a Arianna. Blaise abraza a Pansy y las amigas lo hacen bromear sobre sus discusiones con los cocineros y una cuchara.\nChiara: Te has pasado toda la mañana con tu padre y ya estás intentando destruir cosas hermosas. Tendremos que solucionar esa influencia.\nBlaise: No intentes ponerla en mi contra tan pronto. Al menos espera a que aprenda a hablar.\nBlaise: Te extrañé.\nPansy: Lo imaginé. Daphne me contó que comenzaste a discutir con los cocineros.\nBlaise: No estaba discutiendo. Estaba protegiendo la integridad de una receta familiar.\nDaphne: Intentó entrar a la cocina tres veces.\nBlaise: Y las tres veces llevaba argumentos perfectamente razonables.\nDaphne: La última vez llevabas una cuchara.\nBlaise: Necesitaba pruebas.\nBlaise: Gracias. Sabía que tu llegada devolvería el orden a mi vida.\nPansy: No pienso acercarme a esa cocina para resolver los problemas que tú mismo provocaste.\nBlaise: No necesitaba tanto orden.",
+      "review": "Ocho viñetas y doce turnos de PDF582, cotejo visual y OCR. Chiara mantiene a Arianna en brazos desde el traspaso con rizos rubios cortos, ojos azules, dos lazos y ropa oliva. Robin se distingue en el Zephyr por rizos castaños, verde de iris, camisa blanca y pantalón azul. Blaise tiene pelo corto y compacto y el mismo vestuario; en el abrazo su brazo sale de su propio hombro. Pulsera de Pansy en la muñeca izquierda al acomodar el cuello y dedos lisos. Caras, salón, diálogos, colas y bordes revisados.",
+      "reviewDate": "2026-11-19",
+      "sha256": "578ca249834bde352846533d91e2d5732b4024b427ee5cbbe08687d1847342fb",
+      "masterSha256": "cabac507d4757180b1f45b888b0c9ba34285fd63237d82a25717cd0c4408b020",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p012-redibujo12-v1.png",
+      "selectedAttempt": "c13_p012_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p012_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-615cd09b-f3b6-4eea-ae2b-40901e55eb57.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p010-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Create new complete 1024 × 1536 portrait comic page «Capítulo 13 · 12» in exact established chapter art. Images 1–3 specify the designs and current attire only, with expressions adapted here. Dialogue all exact Spanish and no speaker names in the graphics. Eight rectangular panels in five rows, 1+2, 3+4, 5+6, 7 full width, 8 full width. Keep pale margins around all outer edges and all panels fully contained, with thin black visible bottom rule and 8 px ivory bottom margin. Same creamy ornate Amalfi sitting room, blue floral cushions and antique gold frames, cream columns and reflections from the wood table, sea through large windows at right. Same light, clear matte paint, fine ink, natural body proportions. Pansy's angular pale tapered jaw, green eyes and black asymmetric chin bob, with gold left clip, no earrings and no rings. Hermione has freckles, chestnut curls, brown eyes and cream clothes and one left oval halo diamond, one blue sapphire on thin silver chain at front. Daphne long golden waves, blue eyes and peach. Chiara deep brown eyes and mature deep brown face with braided updo, gold droplets and bracelets, modest champagne silk top and skirt. Blaise the same adult deep brown skinned father with relaxed but compact short black curls and brown eyes. No strands hanging over his eyebrows. Keep his sleeves naturally rolled to the elbows. Baby Arianna is distinct, luminous pale golden curly short hair, bright blue eyes, two tiny cream bows and olive linen clothes. Robin chestnut curls/green eyes, supported and white shirt/blue pants. Two human infants total, one Robin and one Arianna. Maintain anatomically coherent hand and arm ownership in every pose. \nPanel 1: On the left, Chiara holds infant Arianna securely up at her shoulder, having kissed both little cheeks, with the baby's legs and back supported. Arianna reaches with one tiny hand toward the brim of Chiara's champagne hat. Chiara says both parts of her quote. Her eyes are deep brown.\nChiara «Te has pasado toda la mañana con tu padre y ya estás intentando destruir cosas hermosas. Tendremos que solucionar esa influencia.»\nPanel 2: Blaise smiles and answers with one complete balloon. He is on the left, both arms now free, looking toward Chiara and the baby firmly in her arms on the right.\nBlaise «No intentes ponerla en mi contra tan pronto. Al menos espera a que aprenda a hablar.»\nPanel 3: A warm friendly side hug. Blaise drapes one arm around Pansy's shoulders. Same olive linen shirt and trousers, Pansy slim blue blouse and white trousers. Pansy closes her eyes briefly, reaches one hand around his back, both standing in an ordinary friendly reunion. One bubble from Blaise. No babies in this panel.\nBlaise «Te extrañé.»\nPanel 4: They have separated from the hug, and exchange amused remarks beside the table. Pansy on left, Blaise on right, Hermione and Daphne close by. Two distinct full dialogue balloons. His hands empty.\nPansy «Lo imaginé. Daphne me contó que comenzaste a discutir con los cocineros.»\nBlaise «No estaba discutiendo. Estaba protegiendo la integridad de una receta familiar.»\nPanel 5: Daphne on the left with sapphire-blue eyes and golden waves, in the peach dress, speaks first. Blaise right appears comically wounded and gives his full reply.\nDaphne «Intentó entrar a la cocina tres veces.»\nBlaise «Y las tres veces llevaba argumentos perfectamente razonables.»\nPanel 6: Same people with a new side angle. Daphne has her own first short reply, Blaise a second short deadpan line. No physical spoon appears.\nDaphne «La última vez llevabas una cuchara.»\nBlaise «Necesitaba pruebas.»\nPanel 7: Full-width shot at their shoulders and arms. Pansy uses her hands gently to smooth the open olive collar, still askew since Arianna tugged on it. Fingers bare; one white-gold H/R/P chain on LEFT wrist, her other wrist plain. Blaise left says his full quote first. Pansy at right gives her full answer. Hermione in ivory and Daphne in peach visible behind them as space permits.\nBlaise «Gracias. Sabía que tu llegada devolvería el orden a mi vida.»\nPansy «No pienso acercarme a esa cocina para resolver los problemas que tú mismo provocaste.»\nPanel 8: Full-width closing shot of the group in the same salon, Blaise in frame speaking, his collar fixed. Daphne's teasing smile, Hermione's curls and Pansy's angular small bob, Chiara still holding the one human blonde Arianna, small chestnut-curled Robin reclining separately in Zephyr. The exact size and eyes of both separate babies as 11. Robin's white shirt with separate blue trousers and triple linked blue-red-yellow toy rings. Plain olive clothes and two pale bows on Arianna.\nBlaise «No necesitaba tanto orden.» \nPreserve every accent and exact final punctuation, use high contrast serif lettering with full balloons and tails to the designated speaker. No extra graphics or text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-561acaab-dddf-4fb9-a475-226a69072e90.png"
+        }
+      ]
+    }
+  ]
+}
