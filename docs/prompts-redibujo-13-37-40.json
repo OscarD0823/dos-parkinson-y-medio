@@ -1,0 +1,451 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 37,
+  "end": 40,
+  "date": "2026-11-20",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 37,
+      "original": "paginas/c13-p037.webp",
+      "image": "paginas/c13-p037-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        605,
+        606
+      ],
+      "summary": "El elfo sirve vino blanco a los seis jóvenes. Las parejas comparten sus platos favoritos y Blaise sirve a Hermione mientras Chiara recuerda sus primeros intentos con la pasta.",
+      "panels": [
+        {
+          "scene": "One clear action: small elf at edge of open table pours the pale gold first glass for Daphne, next to Blaise. Include normal glass, correctly tipped bottle with mouth directly above it, coherent clear short wine stream not touching Daphne or entering elsewhere. H/P opposite in background or cropped. No words."
+        },
+        {
+          "scene": "At a different nearby pair of seats, mature Lissandra in opaque lemon silk offers Caelum her small first bite of fish on one short adult fork after he has served her. Fish and tomatoes on her plate, one chili left aside. Show sound individual hands on correct wrists. No words."
+        },
+        {
+          "scene": "At end of same table, Markus prepares shrimp and opens a clamshell with his own separate utensils. Eirena moves a piece of bread with hard cheese toward Markus's plate. Robin securely between them in his highchair, green eyes and lemon bib, adults' food safely on their table apart from him. No words."
+        },
+        {
+          "scene": "Side view of platinum-haired Draco in white linen and dark-haired Astoria in pale powder-blue. He serves a small forkful of creamy lemon pasta toward her plate; their free two hands lightly touch across the space. Hide some fingers behind their separate sleeves if needed. Scorpius sleeps in his wood-and-cream bassinet BETWEEN the parents' chairs back from the table edge, not on table, normal infant scale. No words."
+        },
+        {
+          "scene": "Wide view beginning from beside Daphne, angled toward opposite Hermione. Blaise olive shirt short tight black coils explains across walnut table, Hermione brown eyes and cream linen attentive on its other side. One complete long balloon.",
+          "dialogue": [
+            "Blaise: Te recomiendo que pruebes un poco de todo. No necesitas servir porciones completas ni decidir ahora qué plato prefieres. La primera cena sirve para descubrir cuáles son los sabores que querrás repetir durante el resto de las vacaciones."
+          ],
+          "sourceFragments": [
+            "Te recomiendo que pruebes un poco de todo.",
+            "No necesitas servir porciones completas ni decidir ahora qué plato prefieres.",
+            "La primera cena sirve para descubrir cuáles son los sabores que querrás repetir durante el resto de las vacaciones."
+          ]
+        },
+        {
+          "scene": "Blaise holds two serving utensils, small spoon and fork, sets a modest portion of scialatielli, one shrimp, little red tomatoes and sauce on Hermione's plate on the near edge of the table. Hermione asks from her seat, clear separate hands, no spill. One short balloon.",
+          "dialogue": [
+            "Hermione: ¿Cuánto tiempo llevas practicando eso?"
+          ],
+          "sourceFragments": [
+            "¿Cuánto tiempo llevas practicando eso?"
+          ]
+        },
+        {
+          "scene": "Across table Blaise replies, Chiara turns from the far end to chime in, two full source-order balloons. Chiara mature brown radiant skin, champagne hat above braided updo, champagne blouse and gold drop earrings. No depiction of a younger Blaise. Preserve separate speaking tails.",
+          "dialogue": [
+            "Blaise: En mi familia, aprender a servir correctamente es casi tan importante como aprender a utilizar los cubiertos. Mi madre comenzó a enseñarme en cuanto pude sostener una cuchara.",
+            "Chiara: La primera vez que lo intentó terminó con pasta en el cabello y salsa en una de las cortinas."
+          ],
+          "sourceFragments": [
+            "En mi familia, aprender a servir correctamente es casi tan importante como aprender a utilizar los cubiertos.",
+            "Mi madre comenzó a enseñarme en cuanto pude sostener una cuchara.",
+            "La primera vez que lo intentó terminó con pasta en el cabello y salsa en una de las cortinas."
+          ]
+        },
+        {
+          "scene": "Blaise great mock dignity, palm on chest, sits beside peach-clad Daphne, who smiles; Hermione and Pansy seen across the table or cropped. Plain wine in adult stems. Original full retort.",
+          "dialogue": [
+            "Blaise: Tenía dos años. Considero que mi técnica era bastante avanzada para mi edad."
+          ],
+          "sourceFragments": [
+            "Tenía dos años.",
+            "Considero que mi técnica era bastante avanzada para mi edad."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 37\n\nEl elfo sirve vino blanco a los seis jóvenes. Las parejas comparten sus platos favoritos y Blaise sirve a Hermione mientras Chiara recuerda sus primeros intentos con la pasta.\nBlaise: Te recomiendo que pruebes un poco de todo. No necesitas servir porciones completas ni decidir ahora qué plato prefieres. La primera cena sirve para descubrir cuáles son los sabores que querrás repetir durante el resto de las vacaciones.\nHermione: ¿Cuánto tiempo llevas practicando eso?\nBlaise: En mi familia, aprender a servir correctamente es casi tan importante como aprender a utilizar los cubiertos. Mi madre comenzó a enseñarme en cuanto pude sostener una cuchara.\nChiara: La primera vez que lo intentó terminó con pasta en el cabello y salsa en una de las cortinas.\nBlaise: Tenía dos años. Considero que mi técnica era bastante avanzada para mi edad.",
+      "review": "Ocho viñetas y cinco turnos de PDF605–606 íntegros. «Pasta en el cabello» está completo y legible en el texto de Chiara aunque el OCR omitió dos palabras. Corregido el pelo largo medio recogido de Astoria y recuperado su rostro de la 27, con ojos gris azulados y sin los pendientes de Eirena. Robin conserva su silla y babero entre Markus y Eirena y Scorpius duerme en su cuna. El elfo sirve a Daphne primero desde la botella clara de la 36.",
+      "reviewDate": "2026-11-20",
+      "sha256": "559f3b92cc1640cab12290ead47bb27477a78343c81a81a023900fc0edb88ee7",
+      "masterSha256": "a56db488d791ba2a8b63909902559a10e20b1f3b905a64b90a53e4ab0f667064",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p037-redibujo12-v2.png",
+      "selectedAttempt": "c13_p037_redibujo12_v2.json",
+      "ocrMissingCandidates": [
+        "pasta",
+        "cabello"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p037_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p036-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p031-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/caelum-referencia-13-025.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 37». Exactly 8 editorial panels. Exactly eight panels. Panel 1 and 2 left and right in row 1; panel 3 and 4 left and right in row 2; panels 5, 6, 7, 8 each its own wide row, with row 7 room for two complete speech balloons. Extend border below final panel. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Exact wider table and each family face, jewelry, infant outfits and places, bassinette; use these same people and locations.\nImage 5: Caelum's clean-shaven mature face and taupe linen outfit.\nThe lower dining terrace exactly from p36, with the same p35 elderly SHORT adult house elf in cream tunic and gold embroidered trim, not as tall as seated adults. Wine begins only here: he uncorks and tips the same physically sized clear bottle with blue-gold illustrated coastal label into Daphne's EMPTY stem glass at the start. Some other glasses stay empty then the wine has been served to the six young adults in later panels and it is pale gold without any mint, ice or slices. Set aside other lemonade drinks. Crops face pairs at their real seat positions in rows 1–2. Table long rectangular and distance normal, shared warm late lunch. Scorpius asleep creamy young human, platinum tufts, in individual stable cream hooded pale wood bassinet behind foreground hands between parents' two chairs. Robin chestnut tiny curls, clear bright green irises and white bib with embroidered tiny lemons and thin blue binding, securely supported in own lemon-backed chair between Markus and Eirena. Arianna pale blonde curled tuft with two ivory bows, baby blue eyes, olive shirt and seated in separate lemon-backed highchair next to Chiara if her chair is in frame. No liquid served to any infant. Exact Chapter 12 families faces. Eirena mature black bun and blue drops violet deep rust linen, Markus graying brown temples and neat brown goatee/open black linen. Light blond mature Lissandra clasped low bun/blue drop earrings/opaque soft lemon-yellow silk. Caelum brown-gray gentleman clean shaven in beige linen jacket/ivory collar. Composed render, black thin linework and matte painterly skin. Exact dialogue as printed, no further remarks.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: One clear action: small elf at edge of open table pours the pale gold first glass for Daphne, next to Blaise. Include normal glass, correctly tipped bottle with mouth directly above it, coherent clear short wine stream not touching Daphne or entering elsewhere. H/P opposite in background or cropped. No words.\nPanel 2: At a different nearby pair of seats, mature Lissandra in opaque lemon silk offers Caelum her small first bite of fish on one short adult fork after he has served her. Fish and tomatoes on her plate, one chili left aside. Show sound individual hands on correct wrists. No words.\nPanel 3: At end of same table, Markus prepares shrimp and opens a clamshell with his own separate utensils. Eirena moves a piece of bread with hard cheese toward Markus's plate. Robin securely between them in his highchair, green eyes and lemon bib, adults' food safely on their table apart from him. No words.\nPanel 4: Side view of platinum-haired Draco in white linen and dark-haired Astoria in pale powder-blue. He serves a small forkful of creamy lemon pasta toward her plate; their free two hands lightly touch across the space. Hide some fingers behind their separate sleeves if needed. Scorpius sleeps in his wood-and-cream bassinet BETWEEN the parents' chairs back from the table edge, not on table, normal infant scale. No words.\nPanel 5: Wide view beginning from beside Daphne, angled toward opposite Hermione. Blaise olive shirt short tight black coils explains across walnut table, Hermione brown eyes and cream linen attentive on its other side. One complete long balloon.\nBlaise «Te recomiendo que pruebes un poco de todo. No necesitas servir porciones completas ni decidir ahora qué plato prefieres. La primera cena sirve para descubrir cuáles son los sabores que querrás repetir durante el resto de las vacaciones.»\nPanel 6: Blaise holds two serving utensils, small spoon and fork, sets a modest portion of scialatielli, one shrimp, little red tomatoes and sauce on Hermione's plate on the near edge of the table. Hermione asks from her seat, clear separate hands, no spill. One short balloon.\nHermione «¿Cuánto tiempo llevas practicando eso?»\nPanel 7: Across table Blaise replies, Chiara turns from the far end to chime in, two full source-order balloons. Chiara mature brown radiant skin, champagne hat above braided updo, champagne blouse and gold drop earrings. No depiction of a younger Blaise. Preserve separate speaking tails.\nBlaise «En mi familia, aprender a servir correctamente es casi tan importante como aprender a utilizar los cubiertos. Mi madre comenzó a enseñarme en cuanto pude sostener una cuchara.»\nChiara «La primera vez que lo intentó terminó con pasta en el cabello y salsa en una de las cortinas.»\nPanel 8: Blaise great mock dignity, palm on chest, sits beside peach-clad Daphne, who smiles; Hermione and Pansy seen across the table or cropped. Plain wine in adult stems. Original full retort.\nBlaise «Tenía dos años. Considero que mi técnica era bastante avanzada para mi edad.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-05cd82d4-8019-430a-8007-ff3f8285dcb3.png"
+        },
+        {
+          "name": "c13_p037_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-05cd82d4-8019-430a-8007-ff3f8285dcb3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p027-redibujo12-v2.png"
+          ],
+          "prompt": "Precisely revise the blue-dressed young woman at the right in the fourth panel, row 2 right, of image 1 only. She is Astoria, the young mother from the lower arrival scenes of reference image 2, with long very dark brown soft waves falling patently loose behind her shoulders, loosely half pulled up at crown and two long strands in front; smoke steel gray-blue eyes and a mature but youthful separate facial structure, small soft round chin. Her whole loose hair must be visually unmistakable, with thin dark glossy linework, clear difference from the woman with the updo in left adjacent panel. She wears a light airy powder blue ankle dress, same sleeve and collar in target, with an uncovered ear with no blue drop hanging from it. Keep her separate from Eirena with blue teardrops/rust dress in the other panel. Preserve image 1's Draco, sleeping blond Scorpius in wood bassinet, fish and table, the distinct joined hands, every other panel, shape, texture, text, color, heading, and full page borders. All 8 panels, exact Spanish source text in the other panels.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e730cf9a-1dde-45a4-87b2-799b706548dc.png"
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "original": "paginas/c13-p038.webp",
+      "image": "paginas/c13-p038-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        607
+      ],
+      "summary": "Chiara responde a la broma de Blaise. Pansy explica a Hermione por dónde empezar a probar la cena, bromean sobre un queso curado y prepara pan con queso suave.",
+      "panels": [
+        {
+          "scene": "Mature Chiara smiles as she teases Blaise across the very end of the same walnut table. Arianna sits supported in her lemon highchair beside her, blonde blue-eyed with two ivory ribbon bows. Blaise as young adult, short dense black coils, olive blouse, amused here. One correct balloon from Chiara. No speech at all elsewhere.",
+          "dialogue": [
+            "Chiara: Tu seguridad siempre estuvo mucho más desarrollada que tu coordinación."
+          ],
+          "sourceFragments": [
+            "Tu seguridad siempre estuvo mucho más desarrollada que tu coordinación."
+          ]
+        },
+        {
+          "scene": "Blaise hands the single long serving spoon to Pansy over the blue and yellow round platter of spaghetti with colatura. Frame only the olive and blue sleeves and two distinct complete hands with natural grip on different points of the utensil. Hermione's cream sleeve and her own scialatielli plate with two additional small shrimp stay on the near side. The platter slides toward her. No text."
+        },
+        {
+          "scene": "Pansy three-quarter beside Hermione guides her through flavors. Angular small chin, almond green eyes, flat sleek chin-length black bob with gold clip above left ear; Hermione's brown eyes, relative cheek shape, many freckled auburn-brown curls and untucked ivory linen remain recognizable. Show a broad complete balloon without touching the border. Two distinct natural women. No hand gesture needed, crop out hands.",
+          "dialogue": [
+            "Pansy: Blaise ya te explicó la historia y los sabores. Yo voy a decirte por dónde empezar. Si quieres algo suave, prueba primero la pasta al limón; los scialatielli son la mejor opción para comenzar con los mariscos y la colatura sabe mejor después de beber un poco de vino. Con los quesos, confía en mí y mantente lejos del que parece capaz de defenderse solo."
+          ],
+          "sourceFragments": [
+            "Blaise ya te explicó la historia y los sabores.",
+            "Yo voy a decirte por dónde empezar.",
+            "Si quieres algo suave, prueba primero la pasta al limón; los scialatielli son la mejor opción para comenzar con los mariscos y la colatura sabe mejor después de beber un poco de vino.",
+            "Con los quesos, confía en mí y mantente lejos del que parece capaz de defenderse solo."
+          ]
+        },
+        {
+          "scene": "View diagonally along the table to pair Hermione in ivory to left and Blaise in olive to right on opposite sides. Hermione speaks first, Blaise answers second, clearly separate complete balloons with correct tails. In foreground a board of ordinary cheese with one naturally irregular dark rind and interior dark veins, bread basket, two wine glasses. It is regular food.",
+          "dialogue": [
+            "Hermione: Creo que puedo probar todo lo que Blaise explicó, pero agradezco saber en qué orden hacerlo. No quería comenzar por el sabor más intenso y dejar de percibir los demás.",
+            "Blaise: Esa es una preocupación razonable. La colatura y los quesos curados deben esperar hasta que hayas probado los sabores más delicados."
+          ],
+          "sourceFragments": [
+            "Creo que puedo probar todo lo que Blaise explicó",
+            "pero agradezco saber en qué orden hacerlo. No quería comenzar por el sabor más intenso y dejar de percibir los demás.",
+            "Esa es una preocupación razonable.",
+            "La colatura y los quesos curados deben esperar hasta que hayas probado los sabores más delicados."
+          ]
+        },
+        {
+          "scene": "Pansy angles her spoon toward the cheese with a pointed dry smile. Blue sleeve, fingertips bare, if it's her left hand show slim H/R/P bracelet; if right wrist leave bare. Full «Especialmente ese.» balloon and natural scale.",
+          "dialogue": [
+            "Pansy: Especialmente ese."
+          ],
+          "sourceFragments": [
+            "Especialmente ese."
+          ]
+        },
+        {
+          "scene": "Blaise raises his palm to his own chest and defends that cheese with dry mock grandeur. Short compact coils, thoughtful dark brown eyes, olive open collar. Enough room for entire reply. No other heads needed.",
+          "dialogue": [
+            "Blaise: Ese queso ha necesitado más tiempo para alcanzar la perfección que muchas personas para desarrollar una personalidad. Merece respeto."
+          ],
+          "sourceFragments": [
+            "Ese queso ha necesitado más tiempo para alcanzar la perfección que muchas personas para desarrollar una personalidad.",
+            "Merece respeto."
+          ]
+        },
+        {
+          "scene": "Hermione at her individual seat, laughing with a glance toward Pansy. Keep warm brown eyes freckled mature face and blue sapphire, complete brief reply; hands below cropping, no jewelry on incorrect wrist.",
+          "dialogue": [
+            "Hermione: Lo respetaré desde una distancia prudente hasta que esté preparada."
+          ],
+          "sourceFragments": [
+            "Lo respetaré desde una distancia prudente hasta que esté preparada."
+          ]
+        },
+        {
+          "scene": "Pansy carefully spreads a modest portion of soft white cheese over one piece of warm sourdough with butter knife in right hand. Natural bare left hand holds slice and shows same subtle fine bracelet, Hermione watching from her adjacent seat. No speech yet. Plate, knife and hands separate normal adult scale."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 38\n\nChiara responde a la broma de Blaise. Pansy explica a Hermione por dónde empezar a probar la cena, bromean sobre un queso curado y prepara pan con queso suave.\nChiara: Tu seguridad siempre estuvo mucho más desarrollada que tu coordinación.\nPansy: Blaise ya te explicó la historia y los sabores. Yo voy a decirte por dónde empezar. Si quieres algo suave, prueba primero la pasta al limón; los scialatielli son la mejor opción para comenzar con los mariscos y la colatura sabe mejor después de beber un poco de vino. Con los quesos, confía en mí y mantente lejos del que parece capaz de defenderse solo.\nHermione: Creo que puedo probar todo lo que Blaise explicó, pero agradezco saber en qué orden hacerlo. No quería comenzar por el sabor más intenso y dejar de percibir los demás.\nBlaise: Esa es una preocupación razonable. La colatura y los quesos curados deben esperar hasta que hayas probado los sabores más delicados.\nPansy: Especialmente ese.\nBlaise: Ese queso ha necesitado más tiempo para alcanzar la perfección que muchas personas para desarrollar una personalidad. Merece respeto.\nHermione: Lo respetaré desde una distancia prudente hasta que esté preparada.",
+      "review": "Ocho viñetas y siete turnos de PDF607 completos, comprobados visualmente y con OCR. Se comprobó visualmente el acento de «Lo respetaré» y «orden hacerlo. No quería» ante las omisiones variables del OCR. Pansy gesticula con la cuchara en su derecha libre y su cadena queda en la izquierda, visible al sostener el pan. Arianna continúa junto a Chiara, con la cuchara de madera en su silla. Se mantuvieron rostros y prendas, el queso de corteza oscura y las copas separadas.",
+      "reviewDate": "2026-11-20",
+      "sha256": "1ea7518e43631d8027714c3ade15792ff6cf1f0530b3eb98282ad07cd0d41367",
+      "masterSha256": "7931b9766a70e487e4cb20d0d0624f5535ce86475b2b968cbab332ceb9be334f",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p038-redibujo12-v2.png",
+      "selectedAttempt": "c13_p038_redibujo12_v2.json",
+      "ocrMissingCandidates": [
+        "orden",
+        "hacerlo",
+        "queria"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p038_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p037-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/arianna-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 38». Exactly 8 editorial panels. Exactly 8 panels in 5 rows: 1+2; wide 3; wide 4; 5+6; 7+8. Generous speech balloon space for full dialogue, especially panels 3, 4 and 6. Keep last panel line fully inside page. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nImage 4: Arianna: very light blonde curls, light blue eyes, distinct small human facial geometry. In this scene she wears olive and TWO little ivory bows.\nContinuation at the same outdoor late lunch. Ivory matte skin highlights, natural facial structure and thin black portrait lines, exact visible Chapter 12 designs. All at the same wood table. Chiara at the end with her own mature face, deep cinnamon brown skin, short dark braided bun under the champagne hat and stacked gold bangles. Beside her, Arianna the infant has two distinct ivory bows in short pale blonde hair, large blue irises, olive clothing, ordinary small human hands and correct support in own painted lemon wood highchair. She holds a small wooden baby's spoon if visible. Leave Robin, Scorpius and other family offscreen in their assigned places. Blaise still has his short black tight curls and olive linen. Pansy's pointed angular chin, green almond eyes, left slim clip and pale blue linen match reference; she's wearing ONLY an H/R/P chain on left wrist and all fingers bare. Hermione has a single sapphire necklace and one diamond halo on LEFT ring finger. Pansy is beside Hermione across from Blaise, see them naturally on opposite sides of rectangular table. Stemmed wine glasses show pale clear golden wine, no lemon or mint. Source script punctuation exactly, including the semicolon after «al limón».\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Mature Chiara smiles as she teases Blaise across the very end of the same walnut table. Arianna sits supported in her lemon highchair beside her, blonde blue-eyed with two ivory ribbon bows. Blaise as young adult, short dense black coils, olive blouse, amused here. One correct balloon from Chiara. No speech at all elsewhere.\nChiara «Tu seguridad siempre estuvo mucho más desarrollada que tu coordinación.»\nPanel 2: Blaise hands the single long serving spoon to Pansy over the blue and yellow round platter of spaghetti with colatura. Frame only the olive and blue sleeves and two distinct complete hands with natural grip on different points of the utensil. Hermione's cream sleeve and her own scialatielli plate with two additional small shrimp stay on the near side. The platter slides toward her. No text.\nPanel 3: Pansy three-quarter beside Hermione guides her through flavors. Angular small chin, almond green eyes, flat sleek chin-length black bob with gold clip above left ear; Hermione's brown eyes, relative cheek shape, many freckled auburn-brown curls and untucked ivory linen remain recognizable. Show a broad complete balloon without touching the border. Two distinct natural women. No hand gesture needed, crop out hands.\nPansy «Blaise ya te explicó la historia y los sabores. Yo voy a decirte por dónde empezar. Si quieres algo suave, prueba primero la pasta al limón; los scialatielli son la mejor opción para comenzar con los mariscos y la colatura sabe mejor después de beber un poco de vino. Con los quesos, confía en mí y mantente lejos del que parece capaz de defenderse solo.»\nPanel 4: View diagonally along the table to pair Hermione in ivory to left and Blaise in olive to right on opposite sides. Hermione speaks first, Blaise answers second, clearly separate complete balloons with correct tails. In foreground a board of ordinary cheese with one naturally irregular dark rind and interior dark veins, bread basket, two wine glasses. It is regular food.\nHermione «Creo que puedo probar todo lo que Blaise explicó, pero agradezco saber en qué orden hacerlo. No quería comenzar por el sabor más intenso y dejar de percibir los demás.»\nBlaise «Esa es una preocupación razonable. La colatura y los quesos curados deben esperar hasta que hayas probado los sabores más delicados.»\nPanel 5: Pansy angles her spoon toward the cheese with a pointed dry smile. Blue sleeve, fingertips bare, if it's her left hand show slim H/R/P bracelet; if right wrist leave bare. Full «Especialmente ese.» balloon and natural scale.\nPansy «Especialmente ese.»\nPanel 6: Blaise raises his palm to his own chest and defends that cheese with dry mock grandeur. Short compact coils, thoughtful dark brown eyes, olive open collar. Enough room for entire reply. No other heads needed.\nBlaise «Ese queso ha necesitado más tiempo para alcanzar la perfección que muchas personas para desarrollar una personalidad. Merece respeto.»\nPanel 7: Hermione at her individual seat, laughing with a glance toward Pansy. Keep warm brown eyes freckled mature face and blue sapphire, complete brief reply; hands below cropping, no jewelry on incorrect wrist.\nHermione «Lo respetaré desde una distancia prudente hasta que esté preparada.»\nPanel 8: Pansy carefully spreads a modest portion of soft white cheese over one piece of warm sourdough with butter knife in right hand. Natural bare left hand holds slice and shows same subtle fine bracelet, Hermione watching from her adjacent seat. No speech yet. Plate, knife and hands separate normal adult scale.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7c44daf5-bc1f-41a5-819e-5fa89badf2d0.png"
+        },
+        {
+          "name": "c13_p038_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7c44daf5-bc1f-41a5-819e-5fa89badf2d0.png"
+          ],
+          "prompt": "Minimal local retouch to panel 5 only, penultimate row on the left, where Pansy in blue gestures toward the dark-rind wedge with her RIGHT hand. Remove ONLY the very thin silver bracelet from that RIGHT wrist, exactly leaving plain bare wrist surface and unchanged skin tone, spoon, other fingers, pose, face, green eyes and all composition. The thin bracelet on the LEFT hand holding bread in final right panel remains exactly as in the input. Keep all eight panels and frames, exact Spanish lettering with punctuation and accents including «Lo respetaré», page heading and image style. Do not redraw anything else.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-919ceff6-4afa-425e-9c18-b7d6a4c00727.png"
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "original": "paginas/c13-p039.webp",
+      "image": "paginas/c13-p039-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        607,
+        608
+      ],
+      "summary": "Pansy ofrece el pan con queso a Hermione. Daphne interrumpe cariñosamente otra explicación de Blaise, y Hermione prueba la combinación que Pansy preparó para ella.",
+      "panels": [
+        {
+          "scene": "Medium shot at their adjacent chairs. Pansy extends the warm slice with white soft cheese toward Hermione, holding it from below with left hand and fine left chain. Hermione in ivory watching with hands out of frame. Same modest pale blue linen and angled small chin. Large complete source speech from Pansy.",
+          "dialogue": [
+            "Pansy: Empieza con esto. El pan se horneó esta mañana y el queso proviene de una granja pequeña sobre la montaña. Puedes encontrar productos parecidos en otros lugares, pero esta combinación no sabe igual fuera de la costa."
+          ],
+          "sourceFragments": [
+            "Empieza con esto.",
+            "El pan se horneó esta mañana y el queso proviene de una granja pequeña sobre la montaña.",
+            "Puedes encontrar productos parecidos en otros lugares, pero esta combinación no sabe igual fuera de la costa."
+          ]
+        },
+        {
+          "scene": "Reverse shot from across the long walnut table. Blaise inhales as if about to name the farm, short black coils and olive shirt. Daphne in peach notices and rests one hand on his forearm, smiling and leaning toward him from her adjacent cane chair. No text."
+        },
+        {
+          "scene": "Both young adult diners stay in their own seats, medium shot of a single modest closed-mouth kiss, clothes and necklaces unchanged, olive shirt and peach dress clearly visible, faces met gently and naturally. Daphne's fingertips near his jaw, his palm on the side of her clothed waist only if in frame. Far pergola arches, flowers, plates and plain wine glasses in foreground. No text."
+        },
+        {
+          "scene": "Same pair apart slightly, Daphne left and Blaise right face each other at same places, relaxed. Two separate correctly drawn tails. Exact two speeches in source order.",
+          "dialogue": [
+            "Daphne: Deja que Hermione pruebe la comida antes de contarle la historia de cada granja de la costa.",
+            "Blaise: Podías pedírmelo."
+          ],
+          "sourceFragments": [
+            "Deja que Hermione pruebe la comida antes de contarle la historia de cada granja de la costa.",
+            "Podías pedírmelo."
+          ]
+        },
+        {
+          "scene": "Daphne smiles left, Blaise responds right. Full matching Spanish dialogue, separate balloons and normal expressive smiles. Table and sea behind; no other speakers.",
+          "dialogue": [
+            "Daphne: Podía. Pero esto fue más agradable.",
+            "Blaise: No puedo discutir con ese método."
+          ],
+          "sourceFragments": [
+            "Podía.",
+            "Pero esto fue más agradable.",
+            "No puedo discutir con ese método."
+          ]
+        },
+        {
+          "scene": "Hermione turns toward Pansy, brunette curls and one blue sapphire pendant. Pansy winks gently as she raises normal pale wine glass with her right bare hand. Left bracelet arm is cropped under table. One open green eye, no rings on Pansy, fingers naturally curl around stem. Hermione holds the modest sourdough slice with cheese, still had not bitten. No words."
+        },
+        {
+          "scene": "Hermione finishes a small bite of the bread, smiles and speaks after mouth is clear. Natural straight nose and warm freckles. Short exact balloon.",
+          "dialogue": [
+            "Hermione: Es extraordinario."
+          ],
+          "sourceFragments": [
+            "Es extraordinario."
+          ]
+        },
+        {
+          "scene": "Pansy next to Hermione speaks last and gestures with eyes rather than large clustered hands. Olive branches and cream trim in same background; the food and remaining bread stay on same table. Correct final long balloon above distinct narrow green-eyed face.",
+          "dialogue": [
+            "Pansy: El pan cambia cuando se enfría y este queso pierde parte de su textura. Mañana seguirá siendo bueno, pero ya no será exactamente el mismo."
+          ],
+          "sourceFragments": [
+            "El pan cambia cuando se enfría y este queso pierde parte de su textura.",
+            "Mañana seguirá siendo bueno, pero ya no será exactamente el mismo."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 39\n\nPansy ofrece el pan con queso a Hermione. Daphne interrumpe cariñosamente otra explicación de Blaise, y Hermione prueba la combinación que Pansy preparó para ella.\nPansy: Empieza con esto. El pan se horneó esta mañana y el queso proviene de una granja pequeña sobre la montaña. Puedes encontrar productos parecidos en otros lugares, pero esta combinación no sabe igual fuera de la costa.\nDaphne: Deja que Hermione pruebe la comida antes de contarle la historia de cada granja de la costa.\nBlaise: Podías pedírmelo.\nDaphne: Podía. Pero esto fue más agradable.\nBlaise: No puedo discutir con ese método.\nHermione: Es extraordinario.\nPansy: El pan cambia cuando se enfría y este queso pierde parte de su textura. Mañana seguirá siendo bueno, pero ya no será exactamente el mismo.",
+      "review": "Ocho viñetas y siete turnos íntegros de PDF607–608. «Es extraordinario.» se lee completo aunque el OCR omita la palabra. Se conservaron el pan de la página anterior, la conversación, el gesto cariñoso de Daphne y Blaise y la posición frente a Hermione y Pansy. El ajuste final dejó la misma cadena fina en la izquierda de Pansy tanto al pasar el pan como al alzar la copa.",
+      "reviewDate": "2026-11-20",
+      "sha256": "0fda0918408205f9cdae9d2b11f5a62628891ca717fe9dd9752cfb01dda1d9ae",
+      "masterSha256": "5d88b0d7ea36388a9cfa17a2d3a72785910ed6981e47423c9104d1eb09b04980",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p039-redibujo12-v3.png",
+      "selectedAttempt": "c13_p039_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "extraordinario"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p039_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p038-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 39». Exactly 8 editorial panels. Exactly eight panels in five rows. Wide 1; 2+3; wide 4; 5+6; 7+8 with panel 8 wider to fit long end speech. Roomy text. Portrait covers entire page with all 4 border strokes of bottom row. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nContinuation in same daytime pergola dining room. Keep the exact color and faces of preceding illustration, especially narrow green eyes and angular defined chin of Pansy, auburn-brown springy curls and warm brown eyes of freckled Hermione, long golden blonde waves, blue eyes and small round pendant of Daphne, and short compact black coils of Blaise. Pansy's own blue sleeves and gold clip above left ear, separate single sapphire necklace of Hermione with one clear halo ring on anatomical LEFT; no rings on Pansy. The exact small warm sourdough slice with white soft cheese travels only from Pansy to Hermione. They sit side by side opposite Daphne and Blaise. Modest public dinner affectionate interaction among adults as in source, no added scenes, everyday gestures. Chairs and dishes stay where they are. Single pale golden wine in stem glasses. Do not reuse another location or add any named characters, children or hands where this conversation does not show them.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Medium shot at their adjacent chairs. Pansy extends the warm slice with white soft cheese toward Hermione, holding it from below with left hand and fine left chain. Hermione in ivory watching with hands out of frame. Same modest pale blue linen and angled small chin. Large complete source speech from Pansy.\nPansy «Empieza con esto. El pan se horneó esta mañana y el queso proviene de una granja pequeña sobre la montaña. Puedes encontrar productos parecidos en otros lugares, pero esta combinación no sabe igual fuera de la costa.»\nPanel 2: Reverse shot from across the long walnut table. Blaise inhales as if about to name the farm, short black coils and olive shirt. Daphne in peach notices and rests one hand on his forearm, smiling and leaning toward him from her adjacent cane chair. No text.\nPanel 3: Both young adult diners stay in their own seats, medium shot of a single modest closed-mouth kiss, clothes and necklaces unchanged, olive shirt and peach dress clearly visible, faces met gently and naturally. Daphne's fingertips near his jaw, his palm on the side of her clothed waist only if in frame. Far pergola arches, flowers, plates and plain wine glasses in foreground. No text.\nPanel 4: Same pair apart slightly, Daphne left and Blaise right face each other at same places, relaxed. Two separate correctly drawn tails. Exact two speeches in source order.\nDaphne «Deja que Hermione pruebe la comida antes de contarle la historia de cada granja de la costa.»\nBlaise «Podías pedírmelo.»\nPanel 5: Daphne smiles left, Blaise responds right. Full matching Spanish dialogue, separate balloons and normal expressive smiles. Table and sea behind; no other speakers.\nDaphne «Podía. Pero esto fue más agradable.»\nBlaise «No puedo discutir con ese método.»\nPanel 6: Hermione turns toward Pansy, brunette curls and one blue sapphire pendant. Pansy winks gently as she raises normal pale wine glass with her right bare hand. Left bracelet arm is cropped under table. One open green eye, no rings on Pansy, fingers naturally curl around stem. Hermione holds the modest sourdough slice with cheese, still had not bitten. No words.\nPanel 7: Hermione finishes a small bite of the bread, smiles and speaks after mouth is clear. Natural straight nose and warm freckles. Short exact balloon.\nHermione «Es extraordinario.»\nPanel 8: Pansy next to Hermione speaks last and gestures with eyes rather than large clustered hands. Olive branches and cream trim in same background; the food and remaining bread stay on same table. Correct final long balloon above distinct narrow green-eyed face.\nPansy «El pan cambia cuando se enfría y este queso pierde parte de su textura. Mañana seguirá siendo bueno, pero ya no será exactamente el mismo.»",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2bda549d-9fa1-47fc-853a-0ca0c7586ee4.png"
+        },
+        {
+          "name": "c13_p039_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2bda549d-9fa1-47fc-853a-0ca0c7586ee4.png"
+          ],
+          "prompt": "One tiny spot edit in panel 6 (left half of the penultimate row) of the full 8-panel comic only. The black bobbed, green-eyed Pansy on this panel's right holds a wine glass in her LEFT hand. On that currently bare wrist, place her same authentic very thin white-gold chain bracelet with tiny H/R/P charms, matching the subtle bracelet visible on her left wrist in the top wide panel. The new thin band should wrap the narrow wrist just beyond the bottom of the glass, not the forearm, never restrain the fingers. Her fingers, arm, stem and winking face keep the input pose and position. Leave the entire rest of the raster page unchanged, with every originally written word, accent and bubble, panel border and drawing. Return the whole portrait page at its exact proportions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-658fe0f0-458d-444d-9207-52b2e5830135.png"
+        },
+        {
+          "name": "c13_p039_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-2bda549d-9fa1-47fc-853a-0ca0c7586ee4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-039-v2-pulsera.png"
+          ],
+          "prompt": "Correct Pansy's missing bracelet in the panel where she is winking and lifting her wine glass. The target is enlarged in reference 2. In the full page this frames the two women on the LEFT of the penultimate row, immediately to the LEFT of the small «Es extraordinario.» panel. Make a visible very fine bright silver chain with three tiny charm shapes around the bent wrist on the right edge of that panel, below the four fingertips holding the stem and just to the right of the glass's round foot. It is the left anatomical wrist, x about 540 of 1024, y about 1295 of 1536. Match her fine bracelet already visible on the wrist holding the cheese toast at the top of this same page. Render the silver links clearly enough to see at the original page size. No other jewelry in the target area, same skin, exact left hand shape and wine glass. Keep the whole full page portrait and all panels and all Spanish text unchanged, including the exact curl designs and palette. This is a narrow repair of the wrist accessory; do return the full page, not the closeup.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-6ff0b273-81f2-4282-81be-844d3823a5ce.png"
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "original": "paginas/c13-p040.webp",
+      "image": "paginas/c13-p040-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        609,
+        610
+      ],
+      "summary": "Hermione prueba la pasta al limón, los scialatielli y la colatura, y comprende con Blaise cómo cambia la experiencia al acompañarlos con vino. Después continúa con el pescado y los calamares.",
+      "panels": [
+        {
+          "scene": "Hermione tastes a modest forkful of curving creamy pale yellow lemon pasta, eyes softly closed, right elbow remains low at table, single fork and separate hand. Keep blue oval sapphire in distinct metallic halo. Pansy watches beside her, under same vine. No words."
+        },
+        {
+          "scene": "Blaise explains across the table, from beside the now stronger warm-toned mixed seafood scialatielli with tomato, tiny shrimp and thick linguinelike strands. Hermione at her seat listens, after tasting a small amount. Full complete balloon from Blaise.",
+          "dialogue": [
+            "Blaise: Ahora comprendes por qué la pasta debe ser más gruesa. Si fuera demasiado fina, desaparecería entre los mariscos."
+          ],
+          "sourceFragments": [
+            "Ahora comprendes por qué la pasta debe ser más gruesa.",
+            "Si fuera demasiado fina, desaparecería entre los mariscos."
+          ]
+        },
+        {
+          "scene": "Hermione's eyes brown and face familiar from p39. She answers Blaise across her own place setting, sitting closer to Pansy; let Bella's arm stay out of frame, do not add anyone. Exact «También entiendo por qué…» reply from Hermione.",
+          "dialogue": [
+            "Hermione: También entiendo por qué insististe en que la probara caliente. La textura cambiaría mucho si la salsa comenzara a enfriarse."
+          ],
+          "sourceFragments": [
+            "También entiendo por qué insististe en que la probara caliente.",
+            "La textura cambiaría mucho si la salsa comenzara a enfriarse."
+          ]
+        },
+        {
+          "scene": "Hermione tastes a single small bite of thin spaghetti with colatura, fewer strands, oil, minced parsley and red chili, an attentive mildly surprised expression. Her fork moves naturally to her mouth, separate wine stem softly out of focus. No words."
+        },
+        {
+          "scene": "Shot of Blaise facing Hermione across the table and gesturing toward her single glass from his own seat. Speech text whole; avoid crossing arms with other hands. Hermione's fork rests safely near her plate.",
+          "dialogue": [
+            "Blaise: Prueba el vino antes de decidir cuánto te gusta."
+          ],
+          "sourceFragments": [
+            "Prueba el vino antes de decidir cuánto te gusta."
+          ]
+        },
+        {
+          "scene": "Hermione has just sipped the white wine. She sets her glass down with right hand, mouth free for speech, left hand if cropped can rest out of frame. Entire exact short sensory observation. No Pansy or second wineglass touching.",
+          "dialogue": [
+            "Hermione: No elimina la intensidad, pero hace que sea más fácil distinguir cada ingrediente."
+          ],
+          "sourceFragments": [
+            "No elimina la intensidad, pero hace que sea más fácil distinguir cada ingrediente."
+          ]
+        },
+        {
+          "scene": "Wide diagonal across table following line of sight between Blaise in olive with very short black coils and thoughtful Hermione in ivory and sapphire. Pansy adjacent with green irises and left clip. One generous exact balloon from Blaise, 3 sentences. Bread basket, pale wine and varied shared food stay at table.",
+          "dialogue": [
+            "Blaise: Esa es la razón de la combinación. El vino no debe borrar el plato. Debe darle espacio para que puedas regresar al siguiente bocado sin sentir que sigues atrapada en el anterior."
+          ],
+          "sourceFragments": [
+            "Esa es la razón de la combinación.",
+            "El vino no debe borrar el plato.",
+            "Debe darle espacio para que puedas regresar al siguiente bocado sin sentir que sigues atrapada en el anterior."
+          ]
+        },
+        {
+          "scene": "Wordless closing medium-wide shot from side of table. Hermione raises a tiny flake of cooked white fish from her individual plate. A small portion of regular totani e patate, boiled potatoes and squid rings, to side of her plate. Pansy alongside and Daphne and Blaise opposite in softly warm lunch light. Continuity of plates and silver, late afternoon blue sea, fruiting lemon branches. Full border."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 40\n\nHermione prueba la pasta al limón, los scialatielli y la colatura, y comprende con Blaise cómo cambia la experiencia al acompañarlos con vino. Después continúa con el pescado y los calamares.\nBlaise: Ahora comprendes por qué la pasta debe ser más gruesa. Si fuera demasiado fina, desaparecería entre los mariscos.\nHermione: También entiendo por qué insististe en que la probara caliente. La textura cambiaría mucho si la salsa comenzara a enfriarse.\nBlaise: Prueba el vino antes de decidir cuánto te gusta.\nHermione: No elimina la intensidad, pero hace que sea más fácil distinguir cada ingrediente.\nBlaise: Esa es la razón de la combinación. El vino no debe borrar el plato. Debe darle espacio para que puedas regresar al siguiente bocado sin sentir que sigues atrapada en el anterior.",
+      "review": "Ocho viñetas y cinco intervenciones completas, contrastadas con PDF609–610 y OCR. Las cuatro pruebas de Hermione distinguen pasta al limón, scialatielli, colatura y pescado, con el mismo vino servido antes. Se recuperaron su único diamante en el anular izquierdo en la primera viñeta y la muñeca derecha lisa de Pansy. Los cuatro adultos, la pérgola, la mesa y las vajillas mantienen la continuidad.",
+      "reviewDate": "2026-11-20",
+      "sha256": "79e9ee96dbc9e1595d98f10da96a260fa024b57b25aa1cf8ad28404b7477dfbe",
+      "masterSha256": "4f742ab4bb1796e8d6bf71859618550add1ece41d6bdde3651b73727786ceffb",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p040-redibujo12-v2.png",
+      "selectedAttempt": "c13_p040_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p040_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p039-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Illustrate a NEW single full 1024 × 1536 portrait comic page «Capítulo 13 · 40». Exactly 8 editorial panels. Exactly eight panels: 1+2 top row, 3+4 second row, 5+6 third, wide 7 fourth, wide 8 narrow closing row. 2, 3, 6 need roomy readable balloons. Separate all scenes with ivory gutters. Leave thin black lines fully visible and ivory whitespace 8 to 10 px all around including fully visible last row and bottom panel line. Entirely inside the lower outdoor dining room established at the bottom of image 1, partly open on two sides via WHITE arches to an olive orchard and sea. One long rectangular dark-grained walnut table with cream linen runners, hand-painted blue and yellow rim white Italian crockery, woven cane dining chairs, yellow-fruit lemon branches and WHITE bougainvillea across the structurally rooted pale timber pergola. Small detached white, pink and yellow bougainvillea flowers float visibly in air above the table. No confetti, printed marks or stream of magic until a later scene. Do not reuse the salon, its windows or round table, the empty stroller or any upper stair views. Reference images 1 and 2 for exact faces, outfits and linework. Hermione has chestnut curls, brown eyes and visible freckles, cream opaque fitted blouse and trousers and one front oval blue sapphire, ONE clear diamond halo on anatomical LEFT ring finger. Pansy has angular narrow chin, narrow green almond eyes and a black asymmetric chin-length bob with slim gold LEFT clip, pale blue rolled linen shirt and white trousers, no rings or earrings, only fine H/R/P chain on anatomical LEFT wrist. Daphne has golden long waves, blue eyes, a modest salmon peach dress with thin gold necklace. Chiara has deep brown skin and dark brown eyes, a distinct mature face and dark braided updo, gold drop earrings and stacked bangles, champagne hat, blouse and skirt. Adult Blaise wears olive open-collar linen blouse with rolled sleeves and olive trousers, deep brown skin and dark brown eyes, SHORT compact black coiled curls like previous page, no dangling twists or locks. Arianna has pale golden short curls, two small ivory ribbon bows, blue eyes, olive clothes and sits in her own wooden lemon-painted highchair beside Chiara. Robin is a separate smaller distinct chestnut-curled green-eyed child wearing plain white shirt and blue trousers, with a white linen bib with blue edging and tiny embroidered lemons, seated in his separate wooden lemon-painted highchair between Eirena and Markus. Both natural living infants with distinct human faces and scale. No other characters unless the source scene calls for them. Natural proportions and complete editorial designs from the published chapter 12 reference art. Maintain restrained thin expressive black lines, matte painted light and natural soft skin and linen.\nImage 1: Previous completed page for exact character identities and their current clothes and location.\nImage 2: Pansy's and Hermione's heads and exact eye shape in chapter 13. Keep the new page's own indoor action.\nImage 3: Blaise's compact black curls, brown irises and head geometry from 12, use the current olive clothing.\nA quiet sequence of Hermione savoring four courses at same rectangular walnut table under pale wood pergola with half-open white arches and Mediterranean sea. Same muted matte and thin linework. Same ivory opaque collar and puff of rolled sleeve, natural freckled young adult Hermione, clearly brown eyes, auburn-brown ringlet hair in texture from p39. She uses an ordinary silver fork in her RIGHT hand; if her LEFT hand rests in frame it alone bears the clear halo diamond on ring finger. Pansy keeps her clean angular face, matte black bob, gold clip above left ear and green eyes. She can simply watch with arms below the table, or support her tilted chin with left fist and exact fine left chain, no rings whatsoever. Blaise across in olive linen, VERY short compact coiled black hair, dark brown eyes; Daphne next to him golden hair, blue eyes, peach. Keep actual seats. Show food in manageable bites and correct fork-to-plate geometry. White wine pale warm gold, clear and normally sized stemware. Exact 5 spoken turns with all accents and punctuation.\nKeep all exact Spanish dialogue and accents in readable serif lettering and correctly aimed distinct tails. Speaker designations and page directions must not appear in artwork. Only text below and heading.\nPanel 1: Hermione tastes a modest forkful of curving creamy pale yellow lemon pasta, eyes softly closed, right elbow remains low at table, single fork and separate hand. Keep blue oval sapphire in distinct metallic halo. Pansy watches beside her, under same vine. No words.\nPanel 2: Blaise explains across the table, from beside the now stronger warm-toned mixed seafood scialatielli with tomato, tiny shrimp and thick linguinelike strands. Hermione at her seat listens, after tasting a small amount. Full complete balloon from Blaise.\nBlaise «Ahora comprendes por qué la pasta debe ser más gruesa. Si fuera demasiado fina, desaparecería entre los mariscos.»\nPanel 3: Hermione's eyes brown and face familiar from p39. She answers Blaise across her own place setting, sitting closer to Pansy; let Bella's arm stay out of frame, do not add anyone. Exact «También entiendo por qué…» reply from Hermione.\nHermione «También entiendo por qué insististe en que la probara caliente. La textura cambiaría mucho si la salsa comenzara a enfriarse.»\nPanel 4: Hermione tastes a single small bite of thin spaghetti with colatura, fewer strands, oil, minced parsley and red chili, an attentive mildly surprised expression. Her fork moves naturally to her mouth, separate wine stem softly out of focus. No words.\nPanel 5: Shot of Blaise facing Hermione across the table and gesturing toward her single glass from his own seat. Speech text whole; avoid crossing arms with other hands. Hermione's fork rests safely near her plate.\nBlaise «Prueba el vino antes de decidir cuánto te gusta.»\nPanel 6: Hermione has just sipped the white wine. She sets her glass down with right hand, mouth free for speech, left hand if cropped can rest out of frame. Entire exact short sensory observation. No Pansy or second wineglass touching.\nHermione «No elimina la intensidad, pero hace que sea más fácil distinguir cada ingrediente.»\nPanel 7: Wide diagonal across table following line of sight between Blaise in olive with very short black coils and thoughtful Hermione in ivory and sapphire. Pansy adjacent with green irises and left clip. One generous exact balloon from Blaise, 3 sentences. Bread basket, pale wine and varied shared food stay at table.\nBlaise «Esa es la razón de la combinación. El vino no debe borrar el plato. Debe darle espacio para que puedas regresar al siguiente bocado sin sentir que sigues atrapada en el anterior.»\nPanel 8: Wordless closing medium-wide shot from side of table. Hermione raises a tiny flake of cooked white fish from her individual plate. A small portion of regular totani e patate, boiled potatoes and squid rings, to side of her plate. Pansy alongside and Daphne and Blaise opposite in softly warm lunch light. Continuity of plates and silver, late afternoon blue sea, fruiting lemon branches. Full border.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f18e7f3b-d9cb-4d53-889e-c5e3ebde9209.png"
+        },
+        {
+          "name": "c13_p040_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f18e7f3b-d9cb-4d53-889e-c5e3ebde9209.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/13-040-v1-primer-panel.png"
+          ],
+          "prompt": "Only adjust the small jewelry on the TWO wrists in the upper-left, first panel of this full eight-panel comic. Correct the right wrist supporting Pansy's chin: replace the thin silver chain on that wrist with bare skin, matching the current lighting. Farther left, Hermione in cream holds her fork with her left hand and right sleeve rests on the table. Place precisely ONE small white-gold clear oval halo diamond ring on the ring finger (the second finger counting up from pinky) of that fork-holding hand, same size as normal jewelry, her left hand and natural fork grip preserved. Keep every other visible feature, including Pansy's gold hair clip, Hermione's real blue pendant, all clothing, linework and skin tone, forks, exact entire Spanish dialogue, numbers 13 and 40, all gutters and page borders. Return the complete same portrait page.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-18c7f9c8-bf6a-405a-9d03-eb9e46ede90d.png"
+        }
+      ]
+    }
+  ]
+}
