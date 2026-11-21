@@ -1,0 +1,178 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 51,
+  "end": 52,
+  "date": "2026-11-21",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 51,
+      "original": "paginas/c13-p051.webp",
+      "image": "paginas/c13-p051-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        621,
+        622
+      ],
+      "summary": "Draco cuenta cómo Blaise intentó dirigir el velero para impresionar a Daphne. El grupo recuerda que acabaron en Maiori en lugar de Capri, con el mapa al revés.",
+      "panels": [
+        {
+          "scene": "Draco in blue-white stripes and black glasses speaks to laughing Blaise on the same deck, holding the tiny human Scorpius firmly against his own chest on a supporting forearm. Blaise has the true compact coiled cut under his navy cap, plus black shades. Two balloons Draco first and Blaise second. These are their current adults at sea. The past only exists in dialogue.",
+          "dialogue": [
+            "Draco: Puedes reírte todo lo que quieras. Yo no intenté dirigir este velero a los trece años para impresionar a Daphne.",
+            "Blaise: Tenía catorce."
+          ]
+        },
+        {
+          "scene": "The camera picks up Pansy in blue with Hermione in olive on their own cushions. Pansy glances across dryly while Blaise in navy turns to reply. In reading order first balloon belongs to Pansy and second to Blaise. Use her same angular face with the dark hair shading her visible earlobe, bare ears.",
+          "dialogue": [
+            "Pansy: Eso cambia por completo la historia.",
+            "Blaise: Sabía perfectamente lo que estaba haciendo."
+          ]
+        },
+        {
+          "scene": "Daphne in cream and wide straw hat sips from her pale orange mimosa, her arm on the far side from baby, then pensively tells where they arrived. Blaise on the far right smiling in his navy cap and black glasses defensively replies. Arianna sits supported between them, human fair skin, golden curls, two little ivory bows and yellow lemons on white dress, with distinct small child's sunglasses. Two easily attributable balloons.",
+          "dialogue": [
+            "Daphne: Terminamos frente a Maiori.",
+            "Blaise: Maiori es preciosa."
+          ]
+        },
+        {
+          "scene": "Astoria on the left with brown and cream scarf and dark flowing hair recalls the real destination with an amused look. Draco on the right still cradles asleep light gray Scorpius, cream muslin of normal weight below his sleeping face. A single short white balloon from Astoria.",
+          "dialogue": [
+            "Astoria: Íbamos hacia Capri."
+          ]
+        },
+        {
+          "scene": "Full width with ONE roomy continuous speech balloon given enough height for full multi-sentence memory, make legible medium text. Draco on left steadies the small sleeping Scorpius and looks toward Pansy and Hermione. The large balloon tail points to Draco, the only speaker. H and P listen in their familiar shaded place on the right. A few ropes against the same sail and distant high coast; only these explicit faces, no past visual insert, no map or additional elf.",
+          "dialogue": [
+            "Draco: Pasó una hora asegurando que había elegido una ruta menos turística. Cada vez que le preguntábamos por qué la costa estaba desapareciendo detrás de nosotros, respondía que confiáramos en el capitán. Al final, uno de los elfos tuvo que explicarle que llevaba el mapa al revés."
+          ]
+        },
+        {
+          "scene": "Blaise raises his own pale orange mimosa with mock dignity beside amused Daphne. Visibly compact close-cut black coils above his ears beneath the navy cap, the same black sunglasses and deep warm brown skin. Exactly one balloon from Blaise.",
+          "dialogue": [
+            "Blaise: El mapa estaba mal diseñado."
+          ]
+        },
+        {
+          "scene": "Wider right-hand panel. Pansy in blue and with familiar jaw on left answers with direct amused expression and her own single complete long two-sentence balloon. Hermione on the right laughs, freckles, messy bun, sapphire and olive top. Only Pansy speaks. Blank skin earlobes and familiar gold clip left if visible. Boat shade background.",
+          "dialogue": [
+            "Pansy: Se corregía solo. Los nombres cambiaban de posición para que pudieras leerlos sin importar cómo lo sostuvieras."
+          ]
+        },
+        {
+          "scene": "Wide silent last panel. Hermione laughs while leaning on Pansy's shoulder, Blaise holds his own glass out and up with exaggerated dignity away from any children, and Daphne looks fondly at him. Keep the shaded cream cushions, good seating positions and background clear."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 51\n\nDraco cuenta cómo Blaise intentó dirigir el velero para impresionar a Daphne. El grupo recuerda que acabaron en Maiori en lugar de Capri, con el mapa al revés.\nDraco: Puedes reírte todo lo que quieras. Yo no intenté dirigir este velero a los trece años para impresionar a Daphne.\nBlaise: Tenía catorce.\nPansy: Eso cambia por completo la historia.\nBlaise: Sabía perfectamente lo que estaba haciendo.\nDaphne: Terminamos frente a Maiori.\nBlaise: Maiori es preciosa.\nAstoria: Íbamos hacia Capri.\nDraco: Pasó una hora asegurando que había elegido una ruta menos turística. Cada vez que le preguntábamos por qué la costa estaba desapareciendo detrás de nosotros, respondía que confiáramos en el capitán. Al final, uno de los elfos tuvo que explicarle que llevaba el mapa al revés.\nBlaise: El mapa estaba mal diseñado.\nPansy: Se corregía solo. Los nombres cambiaban de posición para que pudieras leerlos sin importar cómo lo sostuvieras.",
+      "review": "Página completa cotejada con PDF621–622 y OCR sin omisiones. Los diez parlamentos se conservan íntegros, incluida la anécdota de Draco y la réplica sobre el mapa. Blaise mantiene sus rizos compactos y gorra azul. Pansy, Hermione, Daphne, Astoria y Draco conservan sus rasgos y su ropa, y Arianna y Scorpius mantienen tamaño y apoyo distintos. La conversación transcurre en el mismo velero.",
+      "reviewDate": "2026-11-21",
+      "sha256": "4ce3f65ad69cdfd4f660689e2d3ec1de1bbe7c93db9c5aff7ff28893fdb209bb",
+      "masterSha256": "f7f8c4533aad2506b3a7073c4394cf576f152be5f8cef79b22b747ada6ffc9b5",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p051-redibujo12-v1.png",
+      "selectedAttempt": "c13_p051_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p051_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p050-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p049-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce the new single portrait colored Spanish comic page, 1024 × 1536. Exact heading “Capítulo 13 · 51”. Exactly EIGHT panels arranged in FIVE rows: 1 and 2, 3 and 4, full-width 5, smaller 6 and wider 7, full-width 8. Panel 5 is taller than the other rows so the one long balloon can be read at normal size. Ivory narrow gutters, fine black panel borders, full margins. Warm detailed illustrated novel finish of chapter 12, matte natural skin, hand drawn contours and subtle linen texture. Do not turn the page into glossy plastic or deformed repeated cameos.\nImage 1: Approved previous page 50. Exact designs and head shapes of the same passengers, current summer clothes, compact black coils of Blaise, Draco's support of sleeping grey-clad Scorpius and Astoria's scarf. Copy the finish, boat and distinct character identities. All dialogue and layouts on image 1 are solely reference; type exclusively the new story below.\nImage 2: Current Pansy and Hermione expressions and seated context. Pansy has narrow angular chin, chin bob, gold clip, no stud on the bare earlobe. Hermione has freckled cheek, chestnut messy high bun, olive linen, oval blue sapphire.\nImage 3: Blaise's compact short round black coils and deep warm brown skin only. He wears the navy captain hat and linen this time.\n\nSetting and recurring designs:\nOn the same classic Sangermani ketch in clear Mediterranean morning, ivory sail casts soft shade on varnished rich wood, bronze fittings, sea and distant coast; wide secure deck, smooth rail and thick cream cushions. Same palette and textured shaded illustration as approved. \nHermione: recognizable chestnut curls in a high messy bun, freckles, rounded cheek, black sunglasses, opaque olive linen and cream shorts, her oval blue sapphire, one diamond only on anatomical left ring finger, bare other fingers and wrists. Pansy: distinct angular chin, asymmetric chin-length black bob, gold clip above left ear only, no earrings, black shades, opaque sky-blue linen and cream shorts, delicate silver left wrist H/R/P chain, all fingers plain. Robin: real small human baby, chestnut curls, green eyes if visible below tiny black shades, brown linen set with narrow white stripes, soft sandals, seated on his own cushion fixed to deck inside the rail. Beige/gold Zephyr remains empty, folded and strapped to wooden bulkhead whenever shown.\nBlaise: same face and short tight black round coils in Chapter 12 panel 2, deep warm brown skin, dark brown eyes behind black shades, navy linen shirt, cream trousers and navy captain hat with small gold emblem. Daphne: familiar cream-blonde loose waves, blue eyes, airy opaque cream dress, wide straw sun hat. Arianna: real human baby, small golden blonde curls and distinct two small ivory bows, blue eyes, tiny black sunglasses, white dress covered in small yellow lemons. Securely seated on a cushion between them, adult drink safely out of her reach.\nDraco: recognizable pale platinum-blond hair and grey-blue eyes if visible below rectangular black shades, blue-and-white striped linen and cream shorts. He physically supports sleeping Scorpius with his own forearm against his chest in any shared view. Scorpius: different infant, tiny platinum tufts, closed eyes behind slightly crooked baby black glasses, grey shirt and shorts, cream muslin below his chin; natural human skin and tiny fingers. Astoria: recognizable long dark brown hair partly covered by patterned earth-tone headscarf knotted behind her head, steel gray-blue eyes, sleeveless brown, cream and terracotta top and shorts. Crew: short adult pointed-ear elves, cream visors, taupe linen, bare feet, adult faces and natural hands. Distinguish all four families and every child. Only show the people called for in each panel.\nOne consistent family scene on the same deck, no duplicated characters, no actual maps, no crates and no flashbacks. Treat all reference text and panel setups as reference only. Reproduce the new heading and quoted Spanish dialogue exactly.\n\nStoryboard. Do not combine, shorten, reassign or duplicate dialogue. Clear Spanish accents, distinct readable dark serif lettering, each normal white balloon with clear tail to the correct face. No names or watermarks inside the art.\nPanel 1: Draco in blue-white stripes and black glasses speaks to laughing Blaise on the same deck, holding the tiny human Scorpius firmly against his own chest on a supporting forearm. Blaise has the true compact coiled cut under his navy cap, plus black shades. Two balloons Draco first and Blaise second. These are their current adults at sea. The past only exists in dialogue. Speech balloons in reading order, reproduce quoted wording only: Draco says “Puedes reírte todo lo que quieras. Yo no intenté dirigir este velero a los trece años para impresionar a Daphne.” Blaise says “Tenía catorce.”\n\nPanel 2: The camera picks up Pansy in blue with Hermione in olive on their own cushions. Pansy glances across dryly while Blaise in navy turns to reply. In reading order first balloon belongs to Pansy and second to Blaise. Use her same angular face with the dark hair shading her visible earlobe, bare ears. Speech balloons in reading order, reproduce quoted wording only: Pansy says “Eso cambia por completo la historia.” Blaise says “Sabía perfectamente lo que estaba haciendo.”\n\nPanel 3: Daphne in cream and wide straw hat sips from her pale orange mimosa, her arm on the far side from baby, then pensively tells where they arrived. Blaise on the far right smiling in his navy cap and black glasses defensively replies. Arianna sits supported between them, human fair skin, golden curls, two little ivory bows and yellow lemons on white dress, with distinct small child's sunglasses. Two easily attributable balloons. Speech balloons in reading order, reproduce quoted wording only: Daphne says “Terminamos frente a Maiori.” Blaise says “Maiori es preciosa.”\n\nPanel 4: Astoria on the left with brown and cream scarf and dark flowing hair recalls the real destination with an amused look. Draco on the right still cradles asleep light gray Scorpius, cream muslin of normal weight below his sleeping face. A single short white balloon from Astoria. Speech balloons in reading order, reproduce quoted wording only: Astoria says “Íbamos hacia Capri.”\n\nPanel 5: Full width with ONE roomy continuous speech balloon given enough height for full multi-sentence memory, make legible medium text. Draco on left steadies the small sleeping Scorpius and looks toward Pansy and Hermione. The large balloon tail points to Draco, the only speaker. H and P listen in their familiar shaded place on the right. A few ropes against the same sail and distant high coast; only these explicit faces, no past visual insert, no map or additional elf. Speech balloons in reading order, reproduce quoted wording only: Draco says “Pasó una hora asegurando que había elegido una ruta menos turística. Cada vez que le preguntábamos por qué la costa estaba desapareciendo detrás de nosotros, respondía que confiáramos en el capitán. Al final, uno de los elfos tuvo que explicarle que llevaba el mapa al revés.”\n\nPanel 6: Blaise raises his own pale orange mimosa with mock dignity beside amused Daphne. Visibly compact close-cut black coils above his ears beneath the navy cap, the same black sunglasses and deep warm brown skin. Exactly one balloon from Blaise. Speech balloons in reading order, reproduce quoted wording only: Blaise says “El mapa estaba mal diseñado.”\n\nPanel 7: Wider right-hand panel. Pansy in blue and with familiar jaw on left answers with direct amused expression and her own single complete long two-sentence balloon. Hermione on the right laughs, freckles, messy bun, sapphire and olive top. Only Pansy speaks. Blank skin earlobes and familiar gold clip left if visible. Boat shade background. Speech balloons in reading order, reproduce quoted wording only: Pansy says “Se corregía solo. Los nombres cambiaban de posición para que pudieras leerlos sin importar cómo lo sostuvieras.”\n\nPanel 8: Wide silent last panel. Hermione laughs while leaning on Pansy's shoulder, Blaise holds his own glass out and up with exaggerated dignity away from any children, and Daphne looks fondly at him. Keep the shaded cream cushions, good seating positions and background clear. No text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dcb6d050-ffe0-46a5-afa1-b189b53167b9.png"
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "original": "paginas/c13-p052.webp",
+      "image": "paginas/c13-p052-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        622,
+        623
+      ],
+      "summary": "Blaise defiende su aventura de capitán, pero Draco recuerda el rescate de Chiara. Pansy añade que pasó tres años lejos del timón, y el propio elfo de la tripulación remata la broma.",
+      "panels": [
+        {
+          "scene": "Same cream shaded bow bench, close to the wooden rail. Blaise on left in navy cap offers his mock-dignified defense, raises his own mimosa softly with supported bent elbow, compact black round curls and black glasses. Draco on right, striped shirt and dark glasses, answers, continues securely cradling sleeping Scorpius with both forearms or one supported arm beneath his weight. Two full balloons, clear tails.",
+          "dialogue": [
+            "Blaise: Pueden cuestionar mis métodos, pero todos regresamos con vida.",
+            "Draco: Porque Chiara envió a buscarnos cuando no llegamos a Capri."
+          ]
+        },
+        {
+          "scene": "Same pair and same safe baby position and scale. Blaise at left replies with mock seriousness. Draco at right delivers the lemon-crate line with a little smile. Do not show a literal crate, past cutaway, Chiara or actual port scene.",
+          "dialogue": [
+            "Blaise: Mi madre decidió involucrarse en una situación que tenía perfectamente controlada.",
+            "Draco: Te encontró sentado sobre una caja de limones en el puerto de Maiori."
+          ]
+        },
+        {
+          "scene": "Narrow standalone Blaise, same tiny tight black coil silhouette, navy captain hat and dark glasses. He lowers his own mimosa after a sip, looking almost solemn. Keep his one complete short balloon clearly attached to his mouth.",
+          "dialogue": [
+            "Blaise: Como he dicho, perfectamente controlada."
+          ]
+        },
+        {
+          "scene": "Wide frontal midshot on same real bow deck. Draco tips his head quietly toward sleeping Scorpius, still supported by Draco only. Astoria in rust and earth-tone scarf holds it in the breeze and laughs, her forehead near his shoulder. At center Daphne sets her own drink on a low wooden fixed ledge away from Arianna and Blaise safeguards the baby between them. At the opposite edge can glimpse Hermione and Pansy laughing from their own shade. Bodies in different depths without crossed or extra limbs. Baby light gray asleep, Arianna lemon dress and tiny shades. No text."
+        },
+        {
+          "scene": "Silent two-shot of Hermione with messy chestnut bun, freckles, olive linen and sapphire, and Pansy with angled chin, thin gold hairclip in the chin-length black bob, uncovered skin earlobe or naturally hidden by bob, sky-blue linen. Sitting safely on the same cream cushions; Pansy whispers a funny imitation near Hermione's shoulder. Only eyes and lips show the humor; no new printed speech. Pansy's hands may stay below crop."
+        },
+        {
+          "scene": "Wide side-by-side dialogue panel with Hermione (olive, listening silently) and Pansy (blue) on their cushion at left and deeply tanned Blaise with short black tight coils and familiar cap across them at right. Pansy quietly rests chin near Hermione's shoulder and recalls the three years; ensure the first balloon points to the actual dark-bob Pansy. Blaise answers with his own separate exact two-sentence balloon. Background same wooden rail and ivory sail, face expressions readable.",
+          "dialogue": [
+            "Pansy: Blaise no volvió a acercarse al timón durante tres años.",
+            "Blaise: Porque no era necesario. Siempre hemos tenido elfos perfectamente capacitados."
+          ]
+        },
+        {
+          "scene": "ESSENTIAL CORRECTION. Keep the adult deckhand in the lower-left foreground, distinctly SMALLER than adult Blaise and Daphne even in the same perspective, about their seated shoulder height, so he has plausible short adult elf anatomy rather than tall human proportions. His feet or hips are at actual deck floor level while working at the mast INSIDE the rail, not seated in the passenger cushions. Cream visor, broad pointed ears, narrow mature face, taupe linen sleeves. He has been handling a bronze cleat and coiled rope, one ordinary hand holds the rope, and he simply lifts his face, solemnly speaking his complete line. The one speech tail goes to that elf alone. In the other half of the panel only, Blaise (navy, tight coils, adult dark glasses still on) puts his own palm to his chest in mock betrayal while Daphne in straw hat briefly kisses his cheek. Keep separated faces, rope and hands. The elf is fully distinct visually from the passengers, natural arm proportions.",
+          "dialogue": [
+            "Elfo: Fue una decisión muy prudente del señor Zabini."
+          ]
+        },
+        {
+          "scene": "Silent last panel, same stable bow cream cushions with Daphne in ivory and Blaise in navy. Human Arianna sits safely between them. Her own tiny dark shades remain on her nose. She playfully holds exactly one separate pair of Blaise's adult-sized dark glasses in her tiny natural hand safely out of the water. Blaise's eyes are visible in this last panel only, cap otherwise unchanged, arm under and around the baby to keep her secure. Daphne watches, smiling. Sea is outside the wooden rail and the Positano hillside grows clearer. No new speech and no visible printed place name."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 52\n\nBlaise defiende su aventura de capitán, pero Draco recuerda el rescate de Chiara. Pansy añade que pasó tres años lejos del timón, y el propio elfo de la tripulación remata la broma.\nBlaise: Pueden cuestionar mis métodos, pero todos regresamos con vida.\nDraco: Porque Chiara envió a buscarnos cuando no llegamos a Capri.\nBlaise: Mi madre decidió involucrarse en una situación que tenía perfectamente controlada.\nDraco: Te encontró sentado sobre una caja de limones en el puerto de Maiori.\nBlaise: Como he dicho, perfectamente controlada.\nPansy: Blaise no volvió a acercarse al timón durante tres años.\nBlaise: Porque no era necesario. Siempre hemos tenido elfos perfectamente capacitados.\nElfo: Fue una decisión muy prudente del señor Zabini.",
+      "review": "Cotejo completo con PDF622–623. Los ocho parlamentos tienen texto, acentos, orden y portadores correctos. Se rehízo al elfo de la séptima viñeta como adulto de baja estatura en la zona de trabajo, junto a las cuerdas y la cornamusa; la cola le pertenece. La escala respecto a los pasajeros es clara. Blaise mantiene el cabello de su ficha. Arianna conserva sus gafas pequeñas y toma las de Blaise, y Scorpius sigue dormido con el peso apoyado en el brazo de Draco.",
+      "reviewDate": "2026-11-21",
+      "sha256": "7e52152fb30ebf6c15d03fdf1e45c35140f211f0785115d91829f6c9fa7b8a19",
+      "masterSha256": "eaca1dce85618d0a4b60ccb3261a047ce86317c5bd9f722009335dcbafa3744c",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p052-redibujo12-v1.png",
+      "selectedAttempt": "c13_p052_redibujo12_v1.json",
+      "ocrMissingCandidates": [
+        "decidio",
+        "decision",
+        "prudente",
+        "senor",
+        "zabini"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p052_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p051-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p050-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p048-redibujo12-v7.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce the new single portrait colored Spanish comic page, 1024 × 1536. Exact heading “Capítulo 13 · 52”. Exactly EIGHT panels in FOUR complete rows: panels 1 and 2, narrow 3 and wide 4, narrow 5 and wide 6, two roomy equally sized panels 7 and 8. Keep margins and readability. Ivory narrow gutters, fine black panel borders, full margins. Warm detailed illustrated novel finish of chapter 12, matte natural skin, hand drawn contours and subtle linen texture. Do not turn the page into glossy plastic or deformed repeated cameos.\nImage 1: The accepted page 51, same boat morning and current family positions. Exact cast likeness, textured line art and dress. Blaise has short round black coils with no locks. New wording and story below supersede every balloon seen in references.\nImage 2: Same cast and current clothes, Daphne's cream straw hat, baby's pale curls/two ivory bows, Astoria's earth-tone scarf, sleeping Scorpius in his father's arm, bare ears and barrette for Pansy.\nImage 3: Approved boat and short elf crew. In the row where crew work alone, the mature deckhand at center has taupe linen, cream small visor and broad pointed ears. Use the worker's recognizable small-stature adult face and job along varnished mast and ropes. Do not copy reference words.\n\nSetting and recurring designs:\nOn the same classic Sangermani ketch in clear Mediterranean morning, ivory sail casts soft shade on varnished rich wood, bronze fittings, sea and distant coast; wide secure deck, smooth rail and thick cream cushions. Same palette and textured shaded illustration as approved. \nHermione: recognizable chestnut curls in a high messy bun, freckles, rounded cheek, black sunglasses, opaque olive linen and cream shorts, her oval blue sapphire, one diamond only on anatomical left ring finger, bare other fingers and wrists. Pansy: distinct angular chin, asymmetric chin-length black bob, gold clip above left ear only, no earrings, black shades, opaque sky-blue linen and cream shorts, delicate silver left wrist H/R/P chain, all fingers plain. Robin: real small human baby, chestnut curls, green eyes if visible below tiny black shades, brown linen set with narrow white stripes, soft sandals, seated on his own cushion fixed to deck inside the rail. Beige/gold Zephyr remains empty, folded and strapped to wooden bulkhead whenever shown.\nBlaise: same face and short tight black round coils in Chapter 12 panel 2, deep warm brown skin, dark brown eyes behind black shades, navy linen shirt, cream trousers and navy captain hat with small gold emblem. Daphne: familiar cream-blonde loose waves, blue eyes, airy opaque cream dress, wide straw sun hat. Arianna: real human baby, small golden blonde curls and distinct two small ivory bows, blue eyes, tiny black sunglasses, white dress covered in small yellow lemons. Securely seated on a cushion between them, adult drink safely out of her reach.\nDraco: recognizable pale platinum-blond hair and grey-blue eyes if visible below rectangular black shades, blue-and-white striped linen and cream shorts. He physically supports sleeping Scorpius with his own forearm against his chest in any shared view. Scorpius: different infant, tiny platinum tufts, closed eyes behind slightly crooked baby black glasses, grey shirt and shorts, cream muslin below his chin; natural human skin and tiny fingers. Astoria: recognizable long dark brown hair partly covered by patterned earth-tone headscarf knotted behind her head, steel gray-blue eyes, sleeveless brown, cream and terracotta top and shorts. Crew: short adult pointed-ear elves, cream visors, taupe linen, bare feet, adult faces and natural hands. Distinguish all four families and every child. Only show the people called for in each panel.\nPriority is exact corrected small adult working elf at the rigging in panel 7 and same realistic human babies. This is the present morning at sea; statements about the past are dialogue only. The deckhand's adult appearance, taupe/visor, rope and low stance should be obvious at reader size. Keep exactly eight balloons in order and eight panels with elaboration only from the storyboard. No imitation of existing reference words.\n\nStoryboard. Do not combine, shorten, reassign or duplicate dialogue. Clear Spanish accents, distinct readable dark serif lettering, each normal white balloon with clear tail to the correct face. No names or watermarks inside the art.\nPanel 1: Same cream shaded bow bench, close to the wooden rail. Blaise on left in navy cap offers his mock-dignified defense, raises his own mimosa softly with supported bent elbow, compact black round curls and black glasses. Draco on right, striped shirt and dark glasses, answers, continues securely cradling sleeping Scorpius with both forearms or one supported arm beneath his weight. Two full balloons, clear tails. Speech balloons in reading order, reproduce quoted wording only: Blaise says “Pueden cuestionar mis métodos, pero todos regresamos con vida.” Draco says “Porque Chiara envió a buscarnos cuando no llegamos a Capri.”\n\nPanel 2: Same pair and same safe baby position and scale. Blaise at left replies with mock seriousness. Draco at right delivers the lemon-crate line with a little smile. Do not show a literal crate, past cutaway, Chiara or actual port scene. Speech balloons in reading order, reproduce quoted wording only: Blaise says “Mi madre decidió involucrarse en una situación que tenía perfectamente controlada.” Draco says “Te encontró sentado sobre una caja de limones en el puerto de Maiori.”\n\nPanel 3: Narrow standalone Blaise, same tiny tight black coil silhouette, navy captain hat and dark glasses. He lowers his own mimosa after a sip, looking almost solemn. Keep his one complete short balloon clearly attached to his mouth. Speech balloons in reading order, reproduce quoted wording only: Blaise says “Como he dicho, perfectamente controlada.”\n\nPanel 4: Wide frontal midshot on same real bow deck. Draco tips his head quietly toward sleeping Scorpius, still supported by Draco only. Astoria in rust and earth-tone scarf holds it in the breeze and laughs, her forehead near his shoulder. At center Daphne sets her own drink on a low wooden fixed ledge away from Arianna and Blaise safeguards the baby between them. At the opposite edge can glimpse Hermione and Pansy laughing from their own shade. Bodies in different depths without crossed or extra limbs. Baby light gray asleep, Arianna lemon dress and tiny shades. No text. No text.\n\nPanel 5: Silent two-shot of Hermione with messy chestnut bun, freckles, olive linen and sapphire, and Pansy with angled chin, thin gold hairclip in the chin-length black bob, uncovered skin earlobe or naturally hidden by bob, sky-blue linen. Sitting safely on the same cream cushions; Pansy whispers a funny imitation near Hermione's shoulder. Only eyes and lips show the humor; no new printed speech. Pansy's hands may stay below crop. No text.\n\nPanel 6: Wide side-by-side dialogue panel with Hermione (olive, listening silently) and Pansy (blue) on their cushion at left and deeply tanned Blaise with short black tight coils and familiar cap across them at right. Pansy quietly rests chin near Hermione's shoulder and recalls the three years; ensure the first balloon points to the actual dark-bob Pansy. Blaise answers with his own separate exact two-sentence balloon. Background same wooden rail and ivory sail, face expressions readable. Speech balloons in reading order, reproduce quoted wording only: Pansy says “Blaise no volvió a acercarse al timón durante tres años.” Blaise says “Porque no era necesario. Siempre hemos tenido elfos perfectamente capacitados.”\n\nPanel 7: ESSENTIAL CORRECTION. Keep the adult deckhand in the lower-left foreground, distinctly SMALLER than adult Blaise and Daphne even in the same perspective, about their seated shoulder height, so he has plausible short adult elf anatomy rather than tall human proportions. His feet or hips are at actual deck floor level while working at the mast INSIDE the rail, not seated in the passenger cushions. Cream visor, broad pointed ears, narrow mature face, taupe linen sleeves. He has been handling a bronze cleat and coiled rope, one ordinary hand holds the rope, and he simply lifts his face, solemnly speaking his complete line. The one speech tail goes to that elf alone. In the other half of the panel only, Blaise (navy, tight coils, adult dark glasses still on) puts his own palm to his chest in mock betrayal while Daphne in straw hat briefly kisses his cheek. Keep separated faces, rope and hands. The elf is fully distinct visually from the passengers, natural arm proportions. Speech balloons in reading order, reproduce quoted wording only: Elfo says “Fue una decisión muy prudente del señor Zabini.”\n\nPanel 8: Silent last panel, same stable bow cream cushions with Daphne in ivory and Blaise in navy. Human Arianna sits safely between them. Her own tiny dark shades remain on her nose. She playfully holds exactly one separate pair of Blaise's adult-sized dark glasses in her tiny natural hand safely out of the water. Blaise's eyes are visible in this last panel only, cap otherwise unchanged, arm under and around the baby to keep her secure. Daphne watches, smiling. Sea is outside the wooden rail and the Positano hillside grows clearer. No new speech and no visible printed place name. No text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dcf7bb7b-dcca-4ea2-9880-d0991583277e.png"
+        }
+      ]
+    }
+  ]
+}
