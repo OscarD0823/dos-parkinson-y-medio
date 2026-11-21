@@ -1,0 +1,226 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 49,
+  "end": 50,
+  "date": "2026-11-21",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 49,
+      "original": "paginas/c13-p049.webp",
+      "image": "paginas/c13-p049-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        618,
+        619
+      ],
+      "summary": "Pansy y Hermione bromean sobre Robin dando órdenes al velero y comparten una conversación tranquila a la sombra de la vela. Un elfo se acerca para renovar la bebida de Pansy.",
+      "panels": [
+        {
+          "scene": "Wide shot across same forward deck. Pansy on right, sky-blue sleeves, black shades, speaks softly FIRST near top of panel and Hermione in olive replies SECOND lower, both comfortable and fully covered. Robin about one arm's length away on secure separate pad in striped coffee linen and small dark glasses, raises hand, pointing toward an adult short elf attending ropes; no extra baby. Both turn at head/eyes only. Same cushion and sunlight. Crop adult hands below the board if needed to retain focus on faces.",
+          "dialogue": [
+            "Pansy: Creo que Robin está convencido de que este velero le pertenece.",
+            "Hermione: Está dando instrucciones. Deberías sentirte orgullosa."
+          ],
+          "sourceFragments": [
+            "Creo que Robin está convencido de que este velero le pertenece.",
+            "Está dando instrucciones.",
+            "Deberías sentirte orgullosa."
+          ]
+        },
+        {
+          "scene": "Framed from collarbone up, warm sun on two distinct faces. Pansy laughs under her breath and speaks first. Hermione turns her head slightly aside and replies second. Keep both pairs of same dark glasses, Black chin-length bob and brown curly bun distinct, show Pansy's correct clip if left temple visible.",
+          "dialogue": [
+            "Pansy: Lo estaría más si dejara de interrumpir la vista.",
+            "Hermione: Creí que la vista estaba frente al velero."
+          ],
+          "sourceFragments": [
+            "Lo estaría más si dejara de interrumpir la vista.",
+            "Creí que la vista estaba frente al velero."
+          ]
+        },
+        {
+          "scene": "Continued medium portrait of these two in place. Pansy speaks with a slight teasing half smile; Hermione raises her eyebrows, amused and ready to reply. A trace of the dark-glass reflections, sail, rigging and sea behind. Hands below crop. Two full exact speech turns in order.",
+          "dialogue": [
+            "Pansy: El mar no está sentado entre mis piernas.",
+            "Hermione: Tú tampoco pareces muy interesada en el paisaje."
+          ],
+          "sourceFragments": [
+            "El mar no está sentado entre mis piernas.",
+            "Tú tampoco pareces muy interesada en el paisaje."
+          ]
+        },
+        {
+          "scene": "Pose remains steady. Pansy answers first and Hermione glances briefly at the friends out of shot and gives her full reply. Opaque olive and blue shirts, clear separate designs, lap out of frame, plausible tilted glance.",
+          "dialogue": [
+            "Pansy: Tengo mejores razones.",
+            "Hermione: Estamos rodeadas de personas."
+          ],
+          "sourceFragments": [
+            "Tengo mejores razones.",
+            "Estamos rodeadas de personas."
+          ]
+        },
+        {
+          "scene": "The fully dressed blue-shirted Pansy tips her face, looks at Hermione and gives the one precise short reply. Leave their hands off-frame. Tiny corner of sapphire visible on Hermione's collar if she's shown.",
+          "dialogue": [
+            "Pansy: Por eso me estoy comportando."
+          ],
+          "sourceFragments": [
+            "Por eso me estoy comportando."
+          ]
+        },
+        {
+          "scene": "Wide two faces with Hermione on left speaking first and Pansy on right answering about Positano. Continuous fixed cushion and rail with cliff beyond. Give both full, correctly tailed balloons. Their natural linen and neck shapes remain steady.",
+          "dialogue": [
+            "Hermione: Empiezo a preocuparme por lo que consideras portarte mal.",
+            "Pansy: Podemos averiguarlo cuando lleguemos a Positano."
+          ],
+          "sourceFragments": [
+            "Empiezo a preocuparme por lo que consideras portarte mal.",
+            "Podemos averiguarlo cuando lleguemos a Positano."
+          ]
+        },
+        {
+          "scene": "Robin at the side waves gently from own fixed padded seat while the short taupe-shirt adult crewman gives the rope a tiny magical snap near the mainmast, shirt and visors from previous page. Unoccupied Zephyr folded and strapped to wooden wall in background. Hermione settles her shoulders back on cushion and Pansy supports her at waist through linen if hands visible. No text."
+        },
+        {
+          "scene": "Short mature pointed-eared elf with cream visor arrives at wood ledge beside seated friends. His own right hand lifts one EMPTY clear stem glass just from side ledge and his own left hand balances small silver tray. Any fresh glass on tray remains untouched. Hermione's separate peach glass remains out of infant reach. Visually stable eyes, sleeves and deck. No text."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 49\n\nPansy y Hermione bromean sobre Robin dando órdenes al velero y comparten una conversación tranquila a la sombra de la vela. Un elfo se acerca para renovar la bebida de Pansy.\nPansy: Creo que Robin está convencido de que este velero le pertenece.\nHermione: Está dando instrucciones. Deberías sentirte orgullosa.\nPansy: Lo estaría más si dejara de interrumpir la vista.\nHermione: Creí que la vista estaba frente al velero.\nPansy: El mar no está sentado entre mis piernas.\nHermione: Tú tampoco pareces muy interesada en el paisaje.\nPansy: Tengo mejores razones.\nHermione: Estamos rodeadas de personas.\nPansy: Por eso me estoy comportando.\nHermione: Empiezo a preocuparme por lo que consideras portarte mal.\nPansy: Podemos averiguarlo cuando lleguemos a Positano.",
+      "review": "Página completa cotejada con PDF618–619 y OCR sin omisiones. Los once parlamentos mantienen sus portadoras, orden, acentos y puntuación. Se ajustó la cola de Hermione en la tercera viñeta y el servicio final: una mimosa nueva en la bandeja y una copa vacía retirada. En cubierta conservan el lino de la 48, gafas, proporciones, Zephyr plegado, Robin humano en su cojín y el elfo de lino taupe con visera.",
+      "reviewDate": "2026-11-21",
+      "sha256": "4f2564275b00ad18360fcd30693380ce804898733a6776bbcb9a284342b28f0f",
+      "masterSha256": "fe5547f1f887dd3bde800fb249855b1706e6a3d52a794b69b66c17e41921a89c",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p049-redibujo12-v2.png",
+      "selectedAttempt": "c13_p049_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p049_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p048-redibujo12-v7.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p002-redibujo12-v6.webp"
+          ],
+          "prompt": "Draw new SINGLE illustrated full page «Capítulo 13 · 49». Exactly eight panels in five rows: first wide; panels 2 and 3; panels 4 and 5; panel 6 wide; finally panels 7 and 8. Use spacious readable balloons and leave the panel edges completely visible. Continuous same clear Mediterranean morning on the ketch approved 48. Press-ready Spanish portrait comic at 1024×1536, warm illustrated chapter-12 finish, airy white gutters and fine black border lines. Dark-blue continuous sheer hull with white stripe below bronze/wood rail, three small brass ports in a varnished warm wooden cabin side. Two ivory sails, higher mainmast forward and shorter mizzen aft, symmetrical rig and realistic boarding depth. Same dark varnished wood planks and rail and real Positano cliffs with blue sea. Keep same time and chronology. These are the named family and four SHORT adult house elves, each recognizable by individual warm adult face, small cream visor, pointed wide ears and taupe linen top plus sand cropped trousers. No gold dining tunics. Under same forward sail on secure cream pads, young Hermione has freckles, original rounded cheeks, chestnut curly loose high bun and one blue oval sapphire at her throat where visible. Olive opaque summer linen and cream shorts. One clear oval diamond on her anatomical LEFT ring finger only, right hand bare. Pansy straight DARK chin-length asymmetrical bob, coated narrow angled chin, green almond eyes if visible, fine gold clip above LEFT ear (can be hidden on other side), bare ears, sky-blue opaque collar linen with sleeves at elbows, cream shorts. Fine silver H/R/P bracelet solely on LEFT wrist and her fingers all bare. Both wear same black sunglasses. Human Robin small green-eyed chestnut curls if seen below tiny sunglasses, light coffee-tan short linen outfit with fine white stripes and beige sandals, safely upright on his own secured thick cushion inside deck rail. Same empty beige/gold Zephyr folded firmly strapped to deck bulkhead. No young guest gives any baby a drink. No actual unsafe action. The visual appeal is facial acting and quiet gestures, correct physical scale, matte natural human skin, textured clothes, subtle shadows and expressive black lines.\nImage 1: Immediately previous approved page, exact character identities, props and positions.\nImage 2: Pansy's jaw and green almond eyes, and Hermione's freckled face only. Keep NEW boat clothes.\nMorning sail toward Positano immediately following page 48. Ordinary, fully clothed humorous dialogue between two people sharing their seat. Emphasize unique faces and small smiles, frame shoulders up in the conversational closeups, no exaggerated exposure or gestures. Only the left bracelet when her LEFT arm is visible, keep their fingers and hands under crop where not required. Same clear dark glasses on them and on Robin. Hermione keeps the existing pale peach drink. The empty adult vessel from the side shelf is collected quietly by the adult house elf at final panel. Pansy on main backward pad and Hermione in front of her, propped safely and comfortably. No cabin of other boat, context and lines unchanged.\nPlace all exact printed Spanish text with punctuation, accented letters, readable serif and tails toward each actual speaker in order. No stage labels, additional captions or words other than the title and following quoted text. Keep margins and full lower frame.\nPanel 1. Wide shot across same forward deck. Pansy on right, sky-blue sleeves, black shades, speaks softly FIRST near top of panel and Hermione in olive replies SECOND lower, both comfortable and fully covered. Robin about one arm's length away on secure separate pad in striped coffee linen and small dark glasses, raises hand, pointing toward an adult short elf attending ropes; no extra baby. Both turn at head/eyes only. Same cushion and sunlight. Crop adult hands below the board if needed to retain focus on faces.\nPansy says «Creo que Robin está convencido de que este velero le pertenece.»\nHermione says «Está dando instrucciones. Deberías sentirte orgullosa.»\nPanel 2. Framed from collarbone up, warm sun on two distinct faces. Pansy laughs under her breath and speaks first. Hermione turns her head slightly aside and replies second. Keep both pairs of same dark glasses, Black chin-length bob and brown curly bun distinct, show Pansy's correct clip if left temple visible.\nPansy says «Lo estaría más si dejara de interrumpir la vista.»\nHermione says «Creí que la vista estaba frente al velero.»\nPanel 3. Continued medium portrait of these two in place. Pansy speaks with a slight teasing half smile; Hermione raises her eyebrows, amused and ready to reply. A trace of the dark-glass reflections, sail, rigging and sea behind. Hands below crop. Two full exact speech turns in order.\nPansy says «El mar no está sentado entre mis piernas.»\nHermione says «Tú tampoco pareces muy interesada en el paisaje.»\nPanel 4. Pose remains steady. Pansy answers first and Hermione glances briefly at the friends out of shot and gives her full reply. Opaque olive and blue shirts, clear separate designs, lap out of frame, plausible tilted glance.\nPansy says «Tengo mejores razones.»\nHermione says «Estamos rodeadas de personas.»\nPanel 5. The fully dressed blue-shirted Pansy tips her face, looks at Hermione and gives the one precise short reply. Leave their hands off-frame. Tiny corner of sapphire visible on Hermione's collar if she's shown.\nPansy says «Por eso me estoy comportando.»\nPanel 6. Wide two faces with Hermione on left speaking first and Pansy on right answering about Positano. Continuous fixed cushion and rail with cliff beyond. Give both full, correctly tailed balloons. Their natural linen and neck shapes remain steady.\nHermione says «Empiezo a preocuparme por lo que consideras portarte mal.»\nPansy says «Podemos averiguarlo cuando lleguemos a Positano.»\nPanel 7. Robin at the side waves gently from own fixed padded seat while the short taupe-shirt adult crewman gives the rope a tiny magical snap near the mainmast, shirt and visors from previous page. Unoccupied Zephyr folded and strapped to wooden wall in background. Hermione settles her shoulders back on cushion and Pansy supports her at waist through linen if hands visible. No text.\nPanel 8. Short mature pointed-eared elf with cream visor arrives at wood ledge beside seated friends. His own right hand lifts one EMPTY clear stem glass just from side ledge and his own left hand balances small silver tray. Any fresh glass on tray remains untouched. Hermione's separate peach glass remains out of infant reach. Visually stable eyes, sleeves and deck. No text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3bf9608e-53af-4f28-b3a6-98404e8521a7.png"
+        },
+        {
+          "name": "c13_p049_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3bf9608e-53af-4f28-b3a6-98404e8521a7.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Asset: final portrait Spanish illustrated comic page “Capítulo 13 · 49”.\nInput image 1 is the exact full-page edit target. Preserve the same 1024 × 1536 portrait page, the exact eight panels in five rows, every border, faces, hairstyles, lens color, skin, clothing, sailor, small human Robin, his support cushion, folded Zephyr, deck geometry and coastal daylight. Two small local continuity corrections only.\n\n1. Third panel, which is at right in the SECOND row. Keep both Spanish balloons and the familiar faces. Add one short white outlined speech-tail to the LEFT edge of the LOWER oval, pointing up-left clearly to the mouth of Hermione, the chestnut-curled woman in olive linen on the left. Its exact text stays “Tú tampoco pareces muy interesada en el paisaje.” The upper balloon stays attached to Pansy in sky-blue on the right, with its exact original wording.\n\n2. Eighth, bottom-right panel. Keep the right hand of the short taupe-clad adult elf taking exactly one EMPTY stemmed glass from the wooden ledge. On his round silver tray, replace its two empty glasses with exactly ONE fresh pale-orange mimosa with a narrow orange slice at the rim; visible liquid level and a single base securely on silver tray. That little glass is still on the tray while the elf raises the empty one in his other hand. Keep both seated women and every other aspect of the panel. Make the rim and stems crisp and preserve his thumb and grasp.\n\nKeep the title and every dialogue verbatim, typeset exactly as in image 1, including all accents and punctuation. No new text, no watermark, no panels reordered. Everything except the specific speech-tail and the two glasses on the tray should follow the edit target, including distinct natural faces, article of clothing colors, light and textured illustrated comic finish.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-817c2b4b-a9e0-4d15-8355-dc35be8b30d1.png"
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "original": "paginas/c13-p050.webp",
+      "image": "paginas/c13-p050-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        620,
+        621
+      ],
+      "summary": "El elfo renueva la mimosa de Pansy. En la proa, Blaise y Daphne están con Arianna; Draco sostiene a Scorpius dormido mientras Astoria bromea con el viento que despeina a Draco.",
+      "panels": [
+        {
+          "scene": "Short adult elf with a tray: the pale-orange drink with a thin orange slice is at the secure center, old EMPTY glass on the other side. He addresses seated Pansy in sky blue. Pansy replies. Hermione in olive keeps her own peach drink and looks on, freckled cheeks. Two balloons point to elf then Pansy, respectively.",
+          "dialogue": [
+            "Elfo: ¿La señorita Parkinson desea otra mimosa?",
+            "Pansy: Sí, gracias."
+          ]
+        },
+        {
+          "scene": "He transfers the single orange-garnished fresh drink from the tray to a small fixed deck ledge by Pansy, on a fresh white napkin. The old empty cup is the only cup left on his tray. He is stepping aside; in the distance look toward the same foredeck with Blaise and Daphne on cream cushions and human Arianna securely between them. No dialogue."
+        },
+        {
+          "scene": "Wide unobstructed first portrait of Blaise, Daphne and Arianna with the new boat clothing. Blaise in navy cap has Chapter-12 compact, short round tight coils, no long locks hanging down. Blaise holds his orange drink on the far side of his body away from the baby, and his free arm safeguards Arianna. She sits with pale curls, two distinct small white bows, tiny shades on nose and white opaque yellow-lemon dress. Daphne looks at him smiling, blue eyes under the straw hat and cream dress. Three correctly ordered balloons, long text given room on the upper left, Daphne on the upper right, Blaise's small last reply below his first without hiding hands.",
+          "dialogue": [
+            "Blaise: No puedes beber esto, principessa. Tu madre ya considera que has heredado demasiadas cosas de mí.",
+            "Daphne: Nunca he dicho eso.",
+            "Blaise: No con palabras."
+          ]
+        },
+        {
+          "scene": "Same three people and same cream cushion. Daphne lifts Blaise's linen collar with quick fingers; he brings her fingertips to his lips in a brief kind family gesture. Hands joined naturally with five separate fingers and the forearms belonging to the correct people. Arianna remains securely in between. All cups set well away and off panel."
+        },
+        {
+          "scene": "Shift a few steps along the same rail to Draco and Astoria. Draco in striped blue and white leans on the INSIDE of the foredeck rail; his supported near arm securely cradles sleeping Scorpius with a natural body and weight; his free hand is raised to manage his windblown platinum fringe. Astoria next to them smiles, with chestnut-dark hair under a brown-cream-terra-cotta scarf knotted behind her head and complementary sleeveless opaque linen. No speaking."
+        },
+        {
+          "scene": "Astoria LEFT gives advice, Draco RIGHT replies offended atwind. Medium calmfamilyshot, supportsSunchanged, scarf/shirts/shorts/glasses exact. TWO full orderedballoons.",
+          "dialogue": [
+            "Astoria: Deja de tocarlo. Solo consigues empeorarlo.",
+            "Draco: El viento del Mediterráneo tiene algo personal contra mí."
+          ]
+        },
+        {
+          "scene": "Astoria LEFT smilesdryly, Draco RIGHT genuinelymockoffended. TWO full orderedballoons, baby asleep heldproperly and nosehuman.",
+          "dialogue": [
+            "Astoria: El Mediterráneo no sabe quién eres.",
+            "Draco: Eso me parece todavía peor."
+          ]
+        },
+        {
+          "scene": "Wide shot from inside the deck. H and P are at the shaded left with familiar poses, Blaise laughs with Daphne shielding a smile behind her own mimosa and their small Arianna safely seated between them. Astoria lightly smooths one of Draco's forelocks with one anatomically sound hand, Draco keeps his own arms securely under sleeping Scorpius. Natural overlap of people on a broad boat deck, keep faces distinct and garments exactly as previous panels. Robin can be off camera. No text."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 50\n\nEl elfo renueva la mimosa de Pansy. En la proa, Blaise y Daphne están con Arianna; Draco sostiene a Scorpius dormido mientras Astoria bromea con el viento que despeina a Draco.\nElfo: ¿La señorita Parkinson desea otra mimosa?\nPansy: Sí, gracias.\nBlaise: No puedes beber esto, principessa. Tu madre ya considera que has heredado demasiadas cosas de mí.\nDaphne: Nunca he dicho eso.\nBlaise: No con palabras.\nAstoria: Deja de tocarlo. Solo consigues empeorarlo.\nDraco: El viento del Mediterráneo tiene algo personal contra mí.\nAstoria: El Mediterráneo no sabe quién eres.\nDraco: Eso me parece todavía peor.",
+      "review": "Cotejada completa con PDF620–621. Se conserva el servicio de la mimosa, la secuencia de la proa y los nueve parlamentos completos, con sus acentos y colas. Blaise conserva los rizos negros cortos de su ficha, Pansy lleva la oreja despejada y el pasador dorado. Arianna mantiene sus rizos rubios y vestido de limones, y Scorpius duerme apoyado sobre el brazo de Draco. Astoria conserva el pañuelo terroso en la cabeza.",
+      "reviewDate": "2026-11-21",
+      "sha256": "3586619a9ddc5cc0c319826c75703605694ab5d54b98f580d4b47a433d260735",
+      "masterSha256": "2c2c6999c41952753422531e557b5e1eb926d015ac14c6b4bb40b77610595b43",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p050-redibujo12-v3.png",
+      "selectedAttempt": "c13_p050_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "nunca",
+        "palabras"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p050_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p049-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p050.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c12-p002.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/draco-astoria-scorpius-09-21.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce the new single portrait colored Spanish comic page, 1024 × 1536. Exact heading “Capítulo 13 · 50”. Exactly EIGHT panels in FIVE horizontal rows: panels 1 and 2, wide panel 3, panels 4 and 5, panels 6 and 7, wide panel 8. Ivory narrow gutters, fine black panel borders, full margins. Warm detailed illustrated novel finish of chapter 12, matte natural skin, hand drawn contours and subtle linen texture. Do not turn the page into glossy plastic or deformed repeated cameos.\nImage 1: Approved previous page 49. Reuse the same actual boat, faces, daylight, drink placement, lenses and colors of Hermione and Pansy, the elf and Robin.\nImage 2: Original page 50. Story positioning and the approved sequence of eight panels, not face designs. Rebuild Blaise's compact round coils and match all characters to chapter 12.\nImage 3: Chapter 12 style and facial identity only. Upper right shows Daphne, Arianna and Blaise. Middle right shows dark-haired Astoria, infant Scorpius and platinum Draco. All use new Amalfi clothes described in the storyboard. No train, uniforms, books or winter clothing.\nImage 4: Additional recognizable faces of Draco, Astoria and Scorpius only. Scorpius is asleep on the boat in light gray. New clothes and light from the storyboard.\n\nSetting and recurring designs:\nOn the same classic Sangermani ketch in clear Mediterranean morning, ivory sail casts soft shade on varnished rich wood, bronze fittings, sea and distant coast; wide secure deck, smooth rail and thick cream cushions. Same palette and textured shaded illustration as approved. \nHermione: recognizable chestnut curls in a high messy bun, freckles, rounded cheek, black sunglasses, opaque olive linen and cream shorts, her oval blue sapphire, one diamond only on anatomical left ring finger, bare other fingers and wrists. Pansy: distinct angular chin, asymmetric chin-length black bob, gold clip above left ear only, no earrings, black shades, opaque sky-blue linen and cream shorts, delicate silver left wrist H/R/P chain, all fingers plain. Robin: real small human baby, chestnut curls, green eyes if visible below tiny black shades, brown linen set with narrow white stripes, soft sandals, seated on his own cushion fixed to deck inside the rail. Beige/gold Zephyr remains empty, folded and strapped to wooden bulkhead whenever shown.\nBlaise: same face and short tight black round coils in Chapter 12 panel 2, deep warm brown skin, dark brown eyes behind black shades, navy linen shirt, cream trousers and navy captain hat with small gold emblem. Daphne: familiar cream-blonde loose waves, blue eyes, airy opaque cream dress, wide straw sun hat. Arianna: real human baby, small golden blonde curls and distinct two small ivory bows, blue eyes, tiny black sunglasses, white dress covered in small yellow lemons. Securely seated on a cushion between them, adult drink safely out of her reach.\nDraco: recognizable pale platinum-blond hair and grey-blue eyes if visible below rectangular black shades, blue-and-white striped linen and cream shorts. He physically supports sleeping Scorpius with his own forearm against his chest in any shared view. Scorpius: different infant, tiny platinum tufts, closed eyes behind slightly crooked baby black glasses, grey shirt and shorts, cream muslin below his chin; natural human skin and tiny fingers. Astoria: recognizable long dark brown hair partly covered by patterned earth-tone headscarf knotted behind her head, steel gray-blue eyes, sleeveless brown, cream and terracotta top and shorts. Crew: short adult pointed-ear elves, cream visors, taupe linen, bare feet, adult faces and natural hands. Distinguish all four families and every child. Only show the people called for in each panel.\nUse a consistent plausible interior bow rail and cream cushions. Astoria, Daphne and Pansy must have three independently recognizable face shapes, no clone faces. Preserve exact sequence: drink served, Arianna reaches toward Blaise who moves it away, couple and fingertips, second family by rail, hair joke, final group laugh. Babies never hold adult glass. All gently clothed family comedy.\n\nStoryboard. Do not combine, shorten, reassign or duplicate dialogue. Clear Spanish accents, distinct readable dark serif lettering, each normal white balloon with clear tail to the correct face. No names or watermarks inside the art.\nPanel 1: Short adult elf with a tray: the pale-orange drink with a thin orange slice is at the secure center, old EMPTY glass on the other side. He addresses seated Pansy in sky blue. Pansy replies. Hermione in olive keeps her own peach drink and looks on, freckled cheeks. Two balloons point to elf then Pansy, respectively. Speech balloons in reading order, reproduce quoted wording only: Elfo says “¿La señorita Parkinson desea otra mimosa?” Pansy says “Sí, gracias.”\n\nPanel 2: He transfers the single orange-garnished fresh drink from the tray to a small fixed deck ledge by Pansy, on a fresh white napkin. The old empty cup is the only cup left on his tray. He is stepping aside; in the distance look toward the same foredeck with Blaise and Daphne on cream cushions and human Arianna securely between them. No dialogue. No text.\n\nPanel 3: Wide unobstructed first portrait of Blaise, Daphne and Arianna with the new boat clothing. Blaise in navy cap has Chapter-12 compact, short round tight coils, no long locks hanging down. Blaise holds his orange drink on the far side of his body away from the baby, and his free arm safeguards Arianna. She sits with pale curls, two distinct small white bows, tiny shades on nose and white opaque yellow-lemon dress. Daphne looks at him smiling, blue eyes under the straw hat and cream dress. Three correctly ordered balloons, long text given room on the upper left, Daphne on the upper right, Blaise's small last reply below his first without hiding hands. Speech balloons in reading order, reproduce quoted wording only: Blaise says “No puedes beber esto, principessa. Tu madre ya considera que has heredado demasiadas cosas de mí.” Daphne says “Nunca he dicho eso.” Blaise says “No con palabras.”\n\nPanel 4: Same three people and same cream cushion. Daphne lifts Blaise's linen collar with quick fingers; he brings her fingertips to his lips in a brief kind family gesture. Hands joined naturally with five separate fingers and the forearms belonging to the correct people. Arianna remains securely in between. All cups set well away and off panel. No text.\n\nPanel 5: Shift a few steps along the same rail to Draco and Astoria. Draco in striped blue and white leans on the INSIDE of the foredeck rail; his supported near arm securely cradles sleeping Scorpius with a natural body and weight; his free hand is raised to manage his windblown platinum fringe. Astoria next to them smiles, with chestnut-dark hair under a brown-cream-terra-cotta scarf knotted behind her head and complementary sleeveless opaque linen. No speaking. No text.\n\nPanel 6: Astoria LEFT gives advice, Draco RIGHT replies offended atwind. Medium calmfamilyshot, supportsSunchanged, scarf/shirts/shorts/glasses exact. TWO full orderedballoons. Speech balloons in reading order, reproduce quoted wording only: Astoria says “Deja de tocarlo. Solo consigues empeorarlo.” Draco says “El viento del Mediterráneo tiene algo personal contra mí.”\n\nPanel 7: Astoria LEFT smilesdryly, Draco RIGHT genuinelymockoffended. TWO full orderedballoons, baby asleep heldproperly and nosehuman. Speech balloons in reading order, reproduce quoted wording only: Astoria says “El Mediterráneo no sabe quién eres.” Draco says “Eso me parece todavía peor.”\n\nPanel 8: Wide shot from inside the deck. H and P are at the shaded left with familiar poses, Blaise laughs with Daphne shielding a smile behind her own mimosa and their small Arianna safely seated between them. Astoria lightly smooths one of Draco's forelocks with one anatomically sound hand, Draco keeps his own arms securely under sleeping Scorpius. Natural overlap of people on a broad boat deck, keep faces distinct and garments exactly as previous panels. Robin can be off camera. No text. No text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7aa2b089-745c-4998-9306-ae4ce01ce46a.png"
+        },
+        {
+          "name": "c13_p050_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7aa2b089-745c-4998-9306-ae4ce01ce46a.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Use case: identity-preserve. Final “Capítulo 13 · 50” illustrated Spanish comic. Image 1 is the whole edit target. Image 2 is the chapter-12 facial and HAIR model for Blaise Zabini. Two narrowly bounded corrections across the exact same comic layout and poses.\n\nBlaise's hair must look like the character in image 2 in all four scenes where he is present. He is the man with navy captain's cap, black sunglasses and navy linen shirt. The correct visible black hair consists of compact round coiled curls close to his head, ending ABOVE the ear and short at the nape. Curve the individual tight rounded curls naturally like the reference. Remove ALL long separated dreadlocks, braids or dangling rope-like strands around his temples, ears, and neck. Apply the same corrected short profile under the ORIGINAL navy hat and preserve its gold emblem in each of these four locations: top-right small distant figure, second-row main wide dialogue panel, third-row first left panel facing Daphne's hand, and last wide bottom group panel. Use the deep warm brown skin and familiar facial proportions of image 2 in each of his appearances under the same clear day lighting. Keep his expression, glasses, gestures, boat clothes and existing body exactly.\n\nIn the first, top-left panel, remove the tiny white stud from the exposed earlobe of Pansy (dark chin-length bob, sky-blue shirt): paint only natural bare skin there. Preserve her thin gold hair clip above the ear and her left wrist bracelet. Any other view of Pansy also has bare ears. Keep every other face, hair, human baby, arm, hand, hat, shadow, foreground and deck exactly on the same page.\n\nPreserve eight panels in five rows, framing, exact position and line break of each balloon, safe sleeping posture of Scorpius supported by Draco, all distinct baby appearances, Arianna's two bows and yellow lemons, future mimosas and empty glass, characters, background structures and wardrobe. Text is already correct. keep the heading “Capítulo 13 · 50”, every exact Spanish letter, accent, order, case, punctuation, speech-tail, size and border. Do not add text, captions, overlays, or watermarks. Do not redraw the whole page in another style.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-628e1ec4-947b-47df-95da-8d17372c6e28.png"
+        },
+        {
+          "name": "c13_p050_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-628e1ec4-947b-47df-95da-8d17372c6e28.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/p050-v2-pansy.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Return the ENTIRE same page “Capítulo 13 · 50” from image 1. This edit affects ONLY one small spot in the first (upper-left) panel. Image 2 is a magnified detail of that corner for identification.\n\nIn panel 1, Pansy is the black-bob woman in the blue shirt on the right side of that panel. Her visible earlobe, directly below the gold barrette and just to the right of the sunglasses, has a small bright ROUND WHITE STUD. Original full-page pixel location approximately x=454 y=203. Erase the round white stud and its specular highlight completely. Fill those pixels with the same uninterrupted matte peach skin as the rest of the earlobe, with a soft natural shadow. Bare lobe, zero jewelry or any bright dots on it. If needed let the black chin-length bob overlap the bottom of that earlobe naturally. Keep her exact face, sunglasses, brush texture and GOLD BARRETTE above the ear.\n\nKeep Blaise’s newly corrected short tight rounded black curls, every pose and person's outfit, each spirit and baby, and the entire page with the same eight panels. Do not edit or retype any lettering or change any speech tail. Match the same 1024 × 1536 geometry, heading, dialogues and punctuation, texture, paper and border. No new text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dff3a6b9-1cd7-4067-87ee-924e589cfa6d.png"
+        }
+      ]
+    }
+  ]
+}
