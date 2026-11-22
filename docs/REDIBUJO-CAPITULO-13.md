@@ -1,7 +1,7 @@
 # La Dolce Vita · nuevo dibujo
 
 <!-- AVANCE-REDIBUJO -->
-Se han publicado 58 de las 120 páginas existentes del capítulo 13 con el nuevo dibujo. El lector tiene 522 ilustraciones.
+Se han publicado 60 de las 120 páginas existentes del capítulo 13 con el nuevo dibujo. El lector tiene 522 ilustraciones.
 <!-- AVANCE-REDIBUJO -->
 
 El capítulo se vuelve a ilustrar desde el PDF de Nicole_Winkel, páginas 572–744. Las caras, las proporciones y el acabado del capítulo 12 son las referencias fijas. La ropa, las acciones y los escenarios siguen el pasaje fuente. Las imágenes se crean con ImageGen integrada, se revisan completas y se contrastan con sus diálogos.
@@ -57,3 +57,5 @@ Las versiones anteriores siguen disponibles en el historial y en sus archivos. L
 - Páginas 55–56. [Guiones, referencias y revisión](prompts-redibujo-13-55-56.json).
 
 - Páginas 57–58. [Guiones, referencias y revisión](prompts-redibujo-13-57-58.json).
+
+- Páginas 59–60. [Guiones, referencias y revisión](prompts-redibujo-13-59-60.json).
