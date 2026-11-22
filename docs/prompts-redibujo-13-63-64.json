@@ -1,0 +1,189 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 63,
+  "end": 64,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 63,
+      "original": "paginas/c13-p063.webp",
+      "image": "paginas/c13-p063-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        633
+      ],
+      "summary": "Hermione termina de preparar a Robin con su sombrero. Pansy y Daphne regresan con ropa de baño; media hora después, la familia juega en la cala.",
+      "panels": [
+        {
+          "scene": "Hermione quietly finishes the little white traces of sunscreen on Robin's face and sets a small cream fabric sunhat with a thin navy band on his short chestnut curls. Off-white sunhat plain, no printed letters. His same bright blue yellow-duck swim shorts visible low in normal medium shot. Infant stays securely seated on pale cushion. One exact little speech from Hermione.",
+          "dialogue": [
+            "Hermione: Mira qué guapo estás."
+          ]
+        },
+        {
+          "scene": "Robin playfully raises both tiny natural hands to feel same hat's brim. Hermione's hand calmly arranges a thin blue ribbon below chin. The hat leaves eyes and face clear. No other headwear. Same sunlight, family clothing, surface and rail. No words."
+        },
+        {
+          "scene": "Hermione distracts him by pointing gently to one little yellow duck PRINTED on the side of his blue swim shorts. Keep camera at hands and his delighted face. No close-up of the swimsuit. Robin playfully tries to catch the printed duck, still secure on cushion. One small white unlabeled bottle near Hermione's beige bag at her side. No words."
+        },
+        {
+          "scene": "Hermione partially closes the small white sunscreen bottle and turns to hear steps offscreen to the right. Robin wears the cap tied loosely and is securely seated near her. Same still-opaque olive shirt and cream shorts. Suggest wooden companionway at edge, actual boat size and varnished deck. No text."
+        },
+        {
+          "scene": "Pansy returns from the same wooden passage in a loose opaque black beach shirt worn open over a conventional plain black high-coverage athletic two-piece swimsuit. View from about chest to calf or a natural medium-wide angle, focus on her face with the exact familiar short chin bob, gold pin, matte covered ears and dark glasses. One silver left wrist bracelet, all fingers bare. Non-posed ordinary walking, subtle gentle wind. Hermione in olive looks up toward her face from the low cushion at the other side. No displayed garments changing and no wording."
+        },
+        {
+          "scene": "Pansy on LEFT with black shirt and black sunglasses asks exact short question; seated Hermione on RIGHT in her ordinary olive linen (still in her first clothing) replies simply and closes her plain lotion bottle. Relaxed faces. Two clear individual speech balloons, correct punctuation and accents. Keep kids on safe cushions outside this narrow crop if needed.",
+          "dialogue": [
+            "Pansy: ¿Terminaste?",
+            "Hermione: Sí. Terminé."
+          ]
+        },
+        {
+          "scene": "WIDE view, Daphne in modest opaque turquoise one-piece and loosely tied light cream wrap is now beside Pansy (black open beach shirt and black suit). Hermione still in olive shirt packs the white bottle in the beige bag. All faces differ by bones, skin and eyebrows; natural gestures, no talking. Boat rail and same cove behind."
+        },
+        {
+          "scene": "WIDE safe family swimming picture HALF AN HOUR LATER. One small rectangular caption prints exactly the supplied twenty-character phrase here, complete wording. Sheer calm turquoise water, matt rock shelves at the right, the EXACT approved yacht moored in the upper background, with only two masts, both sails wrapped, three dark brass ports and one continuous blue hull. The same deck-edge gate near the main mast and short wood-and-rope bridge end with its planks directly supported by the DRY low smooth rock, not floating. In the forward wide water view mother Hermione in a simple opaque olive suit, chestnut bun and sapphire, swims near Pansy, wearing normal black swimsuit and adult black sunglasses. Pansy gently supports happy small Robin under both arms so his face remains entirely above water and he kicks with blue yellow-duck shorts visible. Same green eyes and chestnut wet curls, no hat on Robin. The one cream hat with navy band and Pansy's loose black linen coverup are together on the nearby dry rock. Other mother Daphne in opaque turquoise supports her own human blond toddler Arianna in blue-green swimwear in the shallows near rocks. Foreground read as warm family play, candid long shot with boats and water.",
+          "caption": "Media hora después, todos estaban en el agua."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 63\n\nHermione termina de preparar a Robin con su sombrero. Pansy y Daphne regresan con ropa de baño; media hora después, la familia juega en la cala.\nHermione: Mira qué guapo estás.\nPansy: ¿Terminaste?\nHermione: Sí. Terminé.\nNarración: Media hora después, todos estaban en el agua.",
+      "review": "Viñetas y saltos de escena cotejados con PDF633. Gorro con lazo durante el protector y sobre la roca seca con la camisa tras la media hora. Diálogos, acentos y cartela completos. En el agua Pansy sostiene a Robin y Daphne acompaña a Arianna, con rizos naturales y sin accesorios. Mástiles y pasarela coherentes con el 60.",
+      "reviewDate": "2026-11-22",
+      "sha256": "63d41d29d4ef2f731751e60b3ad6023d13851c7fcc13ead56bc37a9e905484f3",
+      "masterSha256": "b74eb1e5795c3fb830520a4d4b0bea90fcba8982080fcd59fea8d7dbf6a66f3a",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p063-redibujo12-v3.png",
+      "selectedAttempt": "c13_p063_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "terminaste",
+        "termine"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p063_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p062-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p061-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 63” once in black serif upper-left on the ivory top strip. Exactly EIGHT panels in FIVE horizontal rows: 1 and 2, 3 and 4, 5 and 6, then wide 7 and taller wide 8. Methodical closeups, the last shot of the cove pulled back and spacious. Three exact simple speech balloons and one exact rectangular caption. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Immediately previous 62 shows correct faces, opaque boat clothes and natural cushions. Use it for how the same Pansy and Hermione look only, not any previous poses or words.\nImage 2: Exact young human Robin's green eyes, short soft chestnut curls, opaque yellow-duck blue swim shorts and the cream cushion with beige bag. Use only their specific faces and correct initial garments.\nImage 3: Boat and bridge reference ONLY for panel 8 when they are already in the water away from the boat. EXACT navy hull, three cabin portholes, two masts with furled ivory sails, and the same short taut wood-and-rope gangway attached at deck height just ahead of the main mast, far end on low flat rocks. Do not show another boat behind people aboard it in panels 1–7.\nFamily beach day in the same calm Mediterranean cove. Only one sailboat; fully fixed cream cushions within it, brass/wood rail, turquoise water and one pale rocky background. The ivory-and-blue sunhat and the blue swim shorts with little yellow ducks belong to Robin, one small green-eyed human boy with chestnut curls. His type of swimsuit starts already on. Hermione recognizable rounded freckled cheeks, dark sunglasses, olive linen, cream shorts, chestnut high messy bun, one blue sapphire necklace and one diamond on left ring finger only. Pansy her same angular jaw, chin-length asymmetrical black bob covering bare earlobes, slim gold left clip, black sunglasses, fine silver LEFT wrist bracelet only and totally plain fingers. Her conventional opaque black athletic two-piece bathing outfit with a loose opaque black overshirt begins when she returns in 5. The time jump in panel 8 introduces Hermione's modest opaque olive one-piece and Pansy has set her coverup on the rock. Daphne with loose golden blonde hair and blue eyes, teal opaque one-piece and pale wrap on deck, her own small blonde Arianna with white ribbons off and opaque teal swim outfit in water. All affection and swimming purely ordinary family actions at relaxed eye-level framing.\nOnly draw the outside of the yacht in the final water panel, not behind people on it. Every parent hand is naturally attached and clearly supports the correct child. Use exact text in title, three balloons and the final caption. The panel-8 caption is “Media hora después, todos estaban en el agua.”\n\nPanel 1. Hermione quietly finishes the little white traces of sunscreen on Robin's face and sets a small cream fabric sunhat with a thin navy band on his short chestnut curls. Off-white sunhat plain, no printed letters. His same bright blue yellow-duck swim shorts visible low in normal medium shot. Infant stays securely seated on pale cushion. One exact little speech from Hermione. Spanish balloons in order, exact wording: Hermione says “Mira qué guapo estás.”\n\nPanel 2. Robin playfully raises both tiny natural hands to feel same hat's brim. Hermione's hand calmly arranges a thin blue ribbon below chin. The hat leaves eyes and face clear. No other headwear. Same sunlight, family clothing, surface and rail. No words. No text.\n\nPanel 3. Hermione distracts him by pointing gently to one little yellow duck PRINTED on the side of his blue swim shorts. Keep camera at hands and his delighted face. No close-up of the swimsuit. Robin playfully tries to catch the printed duck, still secure on cushion. One small white unlabeled bottle near Hermione's beige bag at her side. No words. No text.\n\nPanel 4. Hermione partially closes the small white sunscreen bottle and turns to hear steps offscreen to the right. Robin wears the cap tied loosely and is securely seated near her. Same still-opaque olive shirt and cream shorts. Suggest wooden companionway at edge, actual boat size and varnished deck. No text. No text.\n\nPanel 5. Pansy returns from the same wooden passage in a loose opaque black beach shirt worn open over a conventional plain black high-coverage athletic two-piece swimsuit. View from about chest to calf or a natural medium-wide angle, focus on her face with the exact familiar short chin bob, gold pin, matte covered ears and dark glasses. One silver left wrist bracelet, all fingers bare. Non-posed ordinary walking, subtle gentle wind. Hermione in olive looks up toward her face from the low cushion at the other side. No displayed garments changing and no wording. No text.\n\nPanel 6. Pansy on LEFT with black shirt and black sunglasses asks exact short question; seated Hermione on RIGHT in her ordinary olive linen (still in her first clothing) replies simply and closes her plain lotion bottle. Relaxed faces. Two clear individual speech balloons, correct punctuation and accents. Keep kids on safe cushions outside this narrow crop if needed. Spanish balloons in order, exact wording: Pansy says “¿Terminaste?” Hermione says “Sí. Terminé.”\n\nPanel 7. WIDE view, Daphne in modest opaque turquoise one-piece and loosely tied light cream wrap is now beside Pansy (black open beach shirt and black suit). Hermione still in olive shirt packs the white bottle in the beige bag. All faces differ by bones, skin and eyebrows; natural gestures, no talking. Boat rail and same cove behind. No text.\n\nPanel 8. WIDE safe family swimming picture HALF AN HOUR LATER. One small rectangular caption prints exactly the supplied twenty-character phrase here, complete wording. Sheer calm turquoise water, matt rock shelves at the right, the EXACT approved yacht moored in the upper background, with only two masts, both sails wrapped, three dark brass ports and one continuous blue hull. The same deck-edge gate near the main mast and short wood-and-rope bridge end with its planks directly supported by the DRY low smooth rock, not floating. In the forward wide water view mother Hermione in a simple opaque olive suit, chestnut bun and sapphire, swims near Pansy, wearing normal black swimsuit and adult black sunglasses. Pansy gently supports happy small Robin under both arms so his face remains entirely above water and he kicks with blue yellow-duck shorts visible. Same green eyes and chestnut wet curls, no hat on Robin. The one cream hat with navy band and Pansy's loose black linen coverup are together on the nearby dry rock. Other mother Daphne in opaque turquoise supports her own human blond toddler Arianna in blue-green swimwear in the shallows near rocks. Foreground read as warm family play, candid long shot with boats and water. Exact rectangular caption: “Media hora después, todos estaban en el agua.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-824b646b-3dec-4b93-8414-900a1ef7c679.png"
+        },
+        {
+          "name": "c13_p063_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-824b646b-3dec-4b93-8414-900a1ef7c679.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Return the exact whole “Capítulo 13 · 63” 1024×1536 comic from Image 1. Make ONLY one continuity change in the THIRD panel, which is the left rectangle of the SECOND row. The seated little human Robin with chestnut curls and green eyes is pointing to a picture of a duck on his blue swim shorts. His sunhat is missing in this single panel only. Put on his head the EXACT same small soft CREAM sunhat with dark NAVY blue ribbon band that he has in panels 1, 2 and 4. Since it was just tied in panel 2, its thin navy strap is tied neatly and comfortably under his chin; the brim is normal size and never blocks his eyes. Tuck only the TOP of his curls under the shade and keep the face and pose in that panel unchanged. Do not alter the adults or the cushion.\nKeep the same existing one hat in each of panels 1–4 after edit, and in the last panel the hat stays off the child and on the low flat dry rock beside the black cover-up. Preserve exactly the boat, masts, rope gangway, two children's safe support, proportions, shirts, shades, ALL faces, scenery, panel borders and all exact text and punctuation, including the bottom caption. No added words or artwork elsewhere.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ec8e4a72-3161-4125-8832-39655522dc95.png"
+        },
+        {
+          "name": "c13_p063_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ec8e4a72-3161-4125-8832-39655522dc95.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/p063-v2-arianna.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Return the EXACT entire 1024×1536 portrait comic “Capítulo 13 · 63” from Image 1. Make just one tiny local correction in bottom panel only: the small girl Arianna supported by blonde Daphne at the far RIGHT in the blue-green water currently has little white, cream and blue plastic-looking shapes on top of her golden curls. Image 2 magnifies that spot. Remove all those little hair decorations, bandeau, ribbons, sunglasses and blue-white curved specks on her head. Replace them with a continuation of ONLY her naturally wet pale-golden short curls and subtle highlights. Her soft curls and blue eyes, tiny fully opaque aqua child swimsuit, safe parent support, scale and expression remain in the exact same pose. Do not change the other child, the cream sunhat on dry rock or the sunhat worn in the four earlier panels, anywhere else. No jewelry addition. Preserve all eight panels, same caption/dialogue and accents, same boat with two furled sails and bridge on pale rock, light and faces. Return full page and all existing lettering unchanged. No new text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bcc59192-62d5-4b56-9cb4-f02d65caabb5.png"
+        }
+      ]
+    },
+    {
+      "page": 64,
+      "original": "paginas/c13-p064.webp",
+      "image": "paginas/c13-p064-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        633,
+        634
+      ],
+      "summary": "Robin salpica a Pansy y Hermione durante el juego en el agua. Desde las rocas, Daphne y Arianna observan el primer clavado de Blaise.",
+      "panels": [
+        {
+          "scene": "Pansy raises Robin just enough to smile at him in front of her with two natural adult hands under his upper sides and two small legs above blue ripples. Hermione nearby in olive watches, unchanged hair, lens frames and collar. Wide cheerful human family picture. The single captioned bubble from Pansy in black only.",
+          "dialogue": [
+            "Pansy: Una más."
+          ]
+        },
+        {
+          "scene": "Robin kicks shallow water with his own little feet while Pansy supports his weight with her two correctly connected arms. A bright small splash touches the black lenses of Pansy and she laughs. Hermione in olive looks quietly pleased. Baby's head stays clearly above water and his blue duck swimsuit is properly in place. One speech balloon from Pansy on right.",
+          "dialogue": [
+            "Pansy: Eso fue directo a mi cara."
+          ]
+        },
+        {
+          "scene": "Hermione on left brushes one wet curl from Robin's forehead with her own small gentle hand, left diamond if visible, while Robin stays held under both arms by Pansy on right. His human face is clear, green eyes and chestnut hair; reflections from the same cove. Place the one complete two-sentence balloon above with a clear tail to Hermione. Pansy is silent.",
+          "dialogue": [
+            "Hermione: Lo estás sosteniendo frente a ti. Era el resultado más probable."
+          ]
+        },
+        {
+          "scene": "Robin kicks another short burst of water from safely supported position, droplets land on Hermione on left. H lifts amused eyebrow, black sunglasses and olive swimsuit, baby wearing same blue shorts. Pansy on right gives exactly one humorous balloon, correct tail and no other arm from outside the panel.",
+          "dialogue": [
+            "Pansy: Está mejorando su puntería."
+          ]
+        },
+        {
+          "scene": "Daphne on LEFT on a smooth sandy-colored low rock at the edge, has long wet cream-blonde hair and a big smile, holds the little human Arianna securely between her legs against her torso, separate natural arms and legs, fine pale GOLDEN baby curls, turquoise child suit. Daphne raises only her one free arm and points toward the actual distant blue vessel (which is farther from rocks); Arianna looks in the same direction. One readable short speech to Daphne, clear tail. Natural reflections and shore.",
+          "dialogue": [
+            "Daphne: Mira quién está allá."
+          ]
+        },
+        {
+          "scene": "From the side of the SAME anchored ship, a medium-wide view of Blaise in practical navy swim shorts as he raises one hand to wave at his daughter in the distance. His hair consists entirely of short round compact black coils close to his head. Black eyes behind no glasses; a single navy captain cap with small gold emblem rests on the dry teak deck next to him by the bronze rail. Show same consecutive navy hull, above-deck wood cabin, actual attached rail, and furled booms from approved image. Exactly one bubble, both Italian and Spanish texts together, do not omit the parenthetical punctuation or word.",
+          "dialogue": [
+            "Blaise: Guarda, principessa! (¡Mira, princesa!)"
+          ]
+        },
+        {
+          "scene": "Wide quiet illustration of the fictional dive, only one Blaise figure in plain navy swim shorts, compact black hair and a believable slender forward trajectory away from the boat and rocks into open blue water. Two connected arms forward and two natural legs, little white splash, no double of him. Both observers may be tiny on a low distant dry rock, well away from the action; the yacht is same blue hull, stable and anchored. No text."
+        },
+        {
+          "scene": "He has resurfaced farther into calm cove, shoulder-up natural dark skin with short WET TIGHT BLACK COILS close to his head, no braids. Daphne seated securely on rock at right smiling and applauding softly; Arianna held safely and visibly supported between her knees, happy little child kicking the shallow water without standing on water. Clear rock volumes, a single same yacht and natural turquoise reflections. No new dialogue."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 64\n\nRobin salpica a Pansy y Hermione durante el juego en el agua. Desde las rocas, Daphne y Arianna observan el primer clavado de Blaise.\nPansy: Una más.\nPansy: Eso fue directo a mi cara.\nHermione: Lo estás sosteniendo frente a ti. Era el resultado más probable.\nPansy: Está mejorando su puntería.\nDaphne: Mira quién está allá.\nBlaise: Guarda, principessa! (¡Mira, princesa!)",
+      "review": "Seis intervenciones cotejadas con PDF634. Robin salpica mientras Pansy lo sostiene y Hermione le aparta los rizos. Arianna mantiene el bañador turquesa, los rizos mojados sin accesorios y el apoyo de Daphne; Blaise se lanza hacia el agua desde el lado del velero. Se conservan el sombrero seco, las caras y la pasarela.",
+      "reviewDate": "2026-11-22",
+      "sha256": "66623d8c663b8462a20d785d16e7f881b742eac3aa97de338ba8424aa3e9f05d",
+      "masterSha256": "5bb5cb0f4331c9d8e5f8922602957ccbb1e9431f158ce3baa13ba3653dd19fd8",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p064-redibujo12-v2.png",
+      "selectedAttempt": "c13_p064_redibujo12_v2.json",
+      "ocrMissingCandidates": [
+        "probable"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p064_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p063-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/blaise-12-p002.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 64” once in black serif upper-left on the ivory top strip. Exactly EIGHT panels in FOUR rows with two panels in every row, bold simple composition and full frame borders, six clear ordered white speech balloons. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: The last panel is exactly how the current family are dressed and supported while swimming. Copy face design, wet chestnut curls and yellow-duck trunks of Robin, the olive and black outfits, turquoise swimmers and blue sea. All new words from below.\nImage 2: Exact approved hull, two furled sails, small gold hardware, wood deck, and gangway attached at deck level to same low stone shelf. Use only geometry and water/lighting. Nothing from the old words.\nImage 3: Only the features and compact round black short coils of Blaise, color and eyes. No previous uniform, no long locks or braids.\nSunlit family swimming in the same quiet rocky Li Galli cove. Match colorful chapter 12 natural matte faces and familiar family faces from 63. Hermione with dark sunglasses, chestnut messy wet bun, soft freckles and oval blue sapphire, simple opaque olive one-piece; one left ring only and bare wrists. Pansy with black sunglasses, narrow angled jaw, same wet short black chin bob covering bare earlobes and small left gold barrette, ordinary full coverage black swimsuit. Thin white gold bracelet on LEFT wrist only, all fingers bare. Little human Robin has chestnut damp curls and green eyes, wears opaque blue trunks with yellow ducks. He has two tiny human arms and legs, remains securely held by Pansy at the upper sides just below his arms, face above water. Daphne: cream gold damp waves over one shoulder, blue eyes, solid opaque turquoise beach swimsuit, on a smooth low rock. Human Arianna: smaller golden waves, blue eyes and a turquoise opaque child swimsuit, seated safely on low rock inside Daphne's support, no glasses and no cap on her. Blaise is dark warm brown, brown eyes, natural compact rounded black coils, no eyewear and no hat, wears navy swim trunks. The single navy captain hat with small gold emblem stays on the dry yacht deck. Same one anchored navy varnished yacht and the two rolled sails throughout this scene, well apart from children when they are on rocks.\nCozy ordinary swimming and family expressions. Preserve all six exact Spanish/Italian balloons and exact title. Read ship geometry only as reference, never introduce a duplicate yacht or additional baby. No new captions.\n\nPanel 1. Pansy raises Robin just enough to smile at him in front of her with two natural adult hands under his upper sides and two small legs above blue ripples. Hermione nearby in olive watches, unchanged hair, lens frames and collar. Wide cheerful human family picture. The single captioned bubble from Pansy in black only. Spanish balloons in order, exact wording: Pansy says “Una más.”\n\nPanel 2. Robin kicks shallow water with his own little feet while Pansy supports his weight with her two correctly connected arms. A bright small splash touches the black lenses of Pansy and she laughs. Hermione in olive looks quietly pleased. Baby's head stays clearly above water and his blue duck swimsuit is properly in place. One speech balloon from Pansy on right. Spanish balloons in order, exact wording: Pansy says “Eso fue directo a mi cara.”\n\nPanel 3. Hermione on left brushes one wet curl from Robin's forehead with her own small gentle hand, left diamond if visible, while Robin stays held under both arms by Pansy on right. His human face is clear, green eyes and chestnut hair; reflections from the same cove. Place the one complete two-sentence balloon above with a clear tail to Hermione. Pansy is silent. Spanish balloons in order, exact wording: Hermione says “Lo estás sosteniendo frente a ti. Era el resultado más probable.”\n\nPanel 4. Robin kicks another short burst of water from safely supported position, droplets land on Hermione on left. H lifts amused eyebrow, black sunglasses and olive swimsuit, baby wearing same blue shorts. Pansy on right gives exactly one humorous balloon, correct tail and no other arm from outside the panel. Spanish balloons in order, exact wording: Pansy says “Está mejorando su puntería.”\n\nPanel 5. Daphne on LEFT on a smooth sandy-colored low rock at the edge, has long wet cream-blonde hair and a big smile, holds the little human Arianna securely between her legs against her torso, separate natural arms and legs, fine pale GOLDEN baby curls, turquoise child suit. Daphne raises only her one free arm and points toward the actual distant blue vessel (which is farther from rocks); Arianna looks in the same direction. One readable short speech to Daphne, clear tail. Natural reflections and shore. Spanish balloons in order, exact wording: Daphne says “Mira quién está allá.”\n\nPanel 6. From the side of the SAME anchored ship, a medium-wide view of Blaise in practical navy swim shorts as he raises one hand to wave at his daughter in the distance. His hair consists entirely of short round compact black coils close to his head. Black eyes behind no glasses; a single navy captain cap with small gold emblem rests on the dry teak deck next to him by the bronze rail. Show same consecutive navy hull, above-deck wood cabin, actual attached rail, and furled booms from approved image. Exactly one bubble, both Italian and Spanish texts together, do not omit the parenthetical punctuation or word. Spanish balloons in order, exact wording: Blaise says “Guarda, principessa! (¡Mira, princesa!)”\n\nPanel 7. Wide quiet illustration of the fictional dive, only one Blaise figure in plain navy swim shorts, compact black hair and a believable slender forward trajectory away from the boat and rocks into open blue water. Two connected arms forward and two natural legs, little white splash, no double of him. Both observers may be tiny on a low distant dry rock, well away from the action; the yacht is same blue hull, stable and anchored. No text. No text.\n\nPanel 8. He has resurfaced farther into calm cove, shoulder-up natural dark skin with short WET TIGHT BLACK COILS close to his head, no braids. Daphne seated securely on rock at right smiling and applauding softly; Arianna held safely and visibly supported between her knees, happy little child kicking the shallow water without standing on water. Clear rock volumes, a single same yacht and natural turquoise reflections. No new dialogue. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a229b7e9-7c4a-4c95-888f-a266ee23d3e4.png"
+        },
+        {
+          "name": "c13_p064_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a229b7e9-7c4a-4c95-888f-a266ee23d3e4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/p064-v1-arianna.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Return the EXACT whole same eight-panel 1024×1536 comic page “Capítulo 13 · 64”, editing Image 1. Two exact visual fixes, keeping all existing text and borders.\nFirst, in panel 5 (left of third row) and panel 8 (right of last row), the little turquoise-clad girl Arianna is between Daphne's knees on the low rock. Her golden curls are visibly wet and contain NO accessories. Remove the little white & blue goggle-like molded pieces from the top of Arianna's head in both views, and paint an uninterrupted natural curl pattern, with her eyes, full-coverage child swimsuit, safe support and head shapes preserved. Image 2 is a magnified detail pointing to the specific pale decorations. Do not change Daphne, her blonde hair or her precise arms. Do not remove lenses or pins from anyone else.\nSecond, in panel 7 (left of lowest row), Blaise is diving from the BOAT located at LEFT, so the orientation of his one figure needs to be reversed left-right. His navy-shorts body follows a simple coherent descending diagonal, with his two extended legs and feet highest and closer to LEFT toward the visible yacht side, and connected arms/hands and head aimed downward and to the RIGHT, away from the hull and both shores toward clear OPEN WATER on the right half of the panel. Place one small splash beneath the fingertips in the right-center of the water. Keep dark brown skin and compact short wet black round coils, normal anatomy and the SAME navy board shorts. At the far upper right, Daphne and her child may remain tiny on their dry rock, well separated from the diving man. Keep the boat and its landing and camera stable; no second body or shadow person.\nAll six speech balloons remain verbatim including accents, punctuation and the Italian/Spanish line. Preserve heading, children looking human, all poses outside these limited edits, same wooden materials and lighting, no new words.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d2cba0ee-6228-44fe-bc05-2ca8302a2c7c.png"
+        }
+      ]
+    }
+  ]
+}
