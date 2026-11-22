@@ -1,0 +1,177 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 69,
+  "end": 70,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 69,
+      "original": "paginas/c13-p069.webp",
+      "image": "paginas/c13-p069-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        637,
+        638
+      ],
+      "summary": "Draco recibe a Robin mientras Astoria acompaña a Scorpius. Los primos juegan a salpicar y descubren que también pueden mojarse a sí mismos.",
+      "panels": [
+        {
+          "scene": "On the very low pale shoreline rock, Pansy on left passes Robin, deep chestnut curls and blue yellow-duck shorts, securely into hands of seated Draco center. Both adults guide him until he is held against Draco. Astoria right sits safely adjacent and keeps pale platinum Scorpius in gray trunks seated on her lap. Exactly two clearly distinct babies and three adults. Pansy bare fingers, delicate chain only on anatomical LEFT wrist. No lettering."
+        },
+        {
+          "scene": "Draco and Astoria seated beside one another on the same flat rock at shallow water. Draco supports the chestnut boy Robin at belly; Robin leans just far enough to pat calm water with two small natural hands. Astoria supports Scorpius upright on her lap; he watches his curly-haired cousin. Faces above water."
+        },
+        {
+          "scene": "Scorpius now tries a light pat himself. Astoria's arm circles his belly, one small hand splashes just a few droplets. Robin laughs, kicks and leans forward to imitate him while Draco keeps his right hand securely at Robin's waist. Side directions and separate anatomies clear, neither child tips far."
+        },
+        {
+          "scene": "Draco on left brings Robin gently back to sit upright between his knees, one arm at waist. Astoria next to him still holds Scorpius. Only Draco speaks close to Robin, one clear head-level balloon. Keep green and gray-blue eye colors distinct.",
+          "dialogue": [
+            "Draco: Cuidado, pequeño."
+          ]
+        },
+        {
+          "scene": "Robin gleefully taps water and small splash hits Draco's chest. Draco supports him with one clearly seen forearm, mouth smiling up and one head-level balloon pointing to Draco. Astoria with Scorpius secondary on right if room.",
+          "dialogue": [
+            "Draco: Ya vi que quieres continuar."
+          ]
+        },
+        {
+          "scene": "Astoria in a tighter composition supports Scorpius from behind at waist with one arm and gently guides his two little hands toward surface; he reaches forward as his stronger small splash has reached his own cheeks. Stable seated position with her knees around him, gray opaque shorts. Natural scattered droplets."
+        },
+        {
+          "scene": "Scorpius on Astoria's lap shuts eyes in surprise at his own splash. Astoria wipes just one cheek gently with her fingertips. Robin still at left on Draco's lap laughs. Draco on left looks down to Robin and speaks BOTH sentences; one prominent balloon with a tail aligned to the platinum adult only. Foreground figures distinct.",
+          "dialogue": [
+            "Draco: No te rías de tu primo. Tú hiciste lo mismo."
+          ]
+        },
+        {
+          "scene": "Wide low sunny rocky shoreline. Astoria sets her dark scarfed head on Draco's right shoulder. His right arm comfortably circles her waist; his left hand is visibly joined to left arm as he steadies Robin at the belly. Astoria supports Scorpius safely with both her arms. The cousins giggle and kick separately, feet close to surface. One narrow wooden navy yacht in back with only its single gangway and tightly furled ivory sails. No words."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 69\n\nDraco recibe a Robin mientras Astoria acompaña a Scorpius. Los primos juegan a salpicar y descubren que también pueden mojarse a sí mismos.\nDraco: Cuidado, pequeño.\nDraco: Ya vi que quieres continuar.\nDraco: No te rías de tu primo. Tú hiciste lo mismo.",
+      "review": "PDF637–638: tres globos íntegros de Draco, entrega de Robin por Pansy, primer chapoteo de Scorpius y secado en su regazo. Se distinguieron los dos primos por sus rasgos y bañadores y se verificó el contacto de manos y el apoyo en cada viñeta.",
+      "reviewDate": "2026-11-22",
+      "sha256": "300d8db8c6c9330d48063fc1c865e43ddbe48bdef5a94b1f83bc758b6d8ef615",
+      "masterSha256": "87b982693ae3a9fc37815afbaa3ead1b59d156b4118cb4b631c48ae5c6995f32",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p069-redibujo12-v1.png",
+      "selectedAttempt": "c13_p069_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p069_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p067-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p065-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p066-redibujo12-v2.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 69” once in black serif upper-left on the ivory top strip. Exactly eight panels, four rows of two, wide figure-safe compositions and readable small exact letters. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: For recognizable Pansy, chestnut Robin and separate infant Scorpius from Chapter 12. Pansy opaque black swimsuit, short angled black bob, gold clip left, black sunglasses; Robin deep chestnut with green eyes and blue shorts printed with yellow ducks. Draco adult platinum, cream shorts, not confused with platinum infant Scorpius.\nImage 2: Use exact appearance of dark-haired Astoria patterned ocher head scarf and opaque terracotta suit, pale platinum Scorpius in gray shorts, pale adult Draco, wood/navy yacht and its one real bridge. This page a slightly later position, both adults are seated on a low stone by the water.\nImage 3: Use exact same cove daytime and wooden rail design, warm painterly tone and linework. Avoid duplicate yachts, portholes at deck level. Same recognizable pale rocks.\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. SOURCE637-638 NEW CARRIERS: Draco now holds ROBIN at waist on LOWROCK, Astoria holds SCORPIUS besidehim; show clear P→Draco handover first. A moves from gangway to adjacent lowrock naturally between scenes. Robin still BLUE DUCKS/NOhat and ScorpiusPLATINUMGRAY. Arianna stays Daphne offscreen. H/P may swim elsewhere, no duplicate babies.\nThe chapter source first has Draco holding Robin, therefore the first visible handover establishes it clearly. Keep all characters after this transfer in exactly the same lap with natural shoulders, forearms, number of fingers and attachment. Adult expressions and wet hair remain the known chapter designs. Only 4, 5 and 7 have letters. No lettering on shorts.\n\nPanel 1. On the very low pale shoreline rock, Pansy on left passes Robin, deep chestnut curls and blue yellow-duck shorts, securely into hands of seated Draco center. Both adults guide him until he is held against Draco. Astoria right sits safely adjacent and keeps pale platinum Scorpius in gray trunks seated on her lap. Exactly two clearly distinct babies and three adults. Pansy bare fingers, delicate chain only on anatomical LEFT wrist. No lettering. No text.\n\nPanel 2. Draco and Astoria seated beside one another on the same flat rock at shallow water. Draco supports the chestnut boy Robin at belly; Robin leans just far enough to pat calm water with two small natural hands. Astoria supports Scorpius upright on her lap; he watches his curly-haired cousin. Faces above water. No text.\n\nPanel 3. Scorpius now tries a light pat himself. Astoria's arm circles his belly, one small hand splashes just a few droplets. Robin laughs, kicks and leans forward to imitate him while Draco keeps his right hand securely at Robin's waist. Side directions and separate anatomies clear, neither child tips far. No text.\n\nPanel 4. Draco on left brings Robin gently back to sit upright between his knees, one arm at waist. Astoria next to him still holds Scorpius. Only Draco speaks close to Robin, one clear head-level balloon. Keep green and gray-blue eye colors distinct. Spanish balloons in order, exact wording: Draco says “Cuidado, pequeño.”\n\nPanel 5. Robin gleefully taps water and small splash hits Draco's chest. Draco supports him with one clearly seen forearm, mouth smiling up and one head-level balloon pointing to Draco. Astoria with Scorpius secondary on right if room. Spanish balloons in order, exact wording: Draco says “Ya vi que quieres continuar.”\n\nPanel 6. Astoria in a tighter composition supports Scorpius from behind at waist with one arm and gently guides his two little hands toward surface; he reaches forward as his stronger small splash has reached his own cheeks. Stable seated position with her knees around him, gray opaque shorts. Natural scattered droplets. No text.\n\nPanel 7. Scorpius on Astoria's lap shuts eyes in surprise at his own splash. Astoria wipes just one cheek gently with her fingertips. Robin still at left on Draco's lap laughs. Draco on left looks down to Robin and speaks BOTH sentences; one prominent balloon with a tail aligned to the platinum adult only. Foreground figures distinct. Spanish balloons in order, exact wording: Draco says “No te rías de tu primo. Tú hiciste lo mismo.”\n\nPanel 8. Wide low sunny rocky shoreline. Astoria sets her dark scarfed head on Draco's right shoulder. His right arm comfortably circles her waist; his left hand is visibly joined to left arm as he steadies Robin at the belly. Astoria supports Scorpius safely with both her arms. The cousins giggle and kick separately, feet close to surface. One narrow wooden navy yacht in back with only its single gangway and tightly furled ivory sails. No words. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-274bec57-b7f2-42e7-9577-9ae899313952.png"
+        }
+      ]
+    },
+    {
+      "page": 70,
+      "original": "paginas/c13-p070.webp",
+      "image": "paginas/c13-p070-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        638,
+        639
+      ],
+      "summary": "Pansy persigue a Hermione entre las rocas. La carrera termina con cosquillas, risas y una salpicadura que deja a ambas a mano.",
+      "panels": [
+        {
+          "scene": "Wide airy establishing shot. Hermione the olive-suited woman in a chestnut wet curly bun swims in front toward a soft low pale rock, her own foreground left arm extends for a normal swimming stroke. Pansy in her black suit follows several meters behind, compact dark chin bob and black sunglasses. Single distant furled ketch with one gangway behind. No other figures."
+        },
+        {
+          "scene": "Chest-up three-quarter profile of Hermione left in olive as she looks back and notices Pansy gaining on her, laughing mouth just opening to warn. Pansy has black chin bob and a mischievous smile and is still behind in the back-right. The short bubble points to Hermione's head.",
+          "dialogue": [
+            "Hermione: No."
+          ]
+        },
+        {
+          "scene": "Wide side shot. Hermione curves around the low rock with a strong kick, her own sensible momentum following the curve. Pansy has nearly caught her, reaches only ONE hand and just brushes the outer side of Hermione's olive suit. The water and body angle separate both arm silhouettes. Pansy's far arm submerged and Hermione's lead arm clearly extends in her motion. No words."
+        },
+        {
+          "scene": "Both come into adjacent water-level view with Hermione to the left and Pansy to the right, Hermione trying to swim off through the left edge. Two complete speech balloons. First higher-left pointing to Hermione; second lower-right to Pansy. These are the two distinct grown women with consistent recognizable hair and profiles.",
+          "dialogue": [
+            "Hermione: Ni se te ocurra.",
+            "Pansy: Ya se me ocurrió."
+          ]
+        },
+        {
+          "scene": "At the next rock, from a slightly wider side angle. Hermione laughs and pushes her own LEFT open hand off the smooth rock, wrist and forearm meeting clearly up to her shoulder. Pansy approaches from behind and gently tickles just at Hermione's side with one set of normal fingers, her other arm around her side for balance. Casual non-suggestive framing at water level; the water covers both lower bodies. Keep sapphire only at Hermione neck and one left ring finger ring as seen. Each arm connects to correct body."
+        },
+        {
+          "scene": "Most important hand anatomy panel. Both have just resurfaced after a short harmless dip, laughing face-to-face with sufficient physical space. Hermione left and Pansy right. At middle-low level Hermione steadies Pansy with her LEFT hand placed on the outside of Pansy's upper arm; use an unbroken, unobscured visible connection from Hermione's own shoulder through bent elbow and wrist to that one hand, fingers wrapping gently around the arm. Hermione's clear halo ring only at left ring finger, bare wrist. At a distinctly HIGHER level Pansy extends her bare RIGHT arm to place her own open hand on Hermione's shoulder with fully traceable wrist and forearm, no crossing at all with Hermione's arm, no matching directions. Pansy's other arm is hidden under the surface. Only two hands appearing in panel, five fingers each including the partly occluded thumb, no hand resting on its own shoulder. Pansy's face recognizable as ref 1. Upper-body wide view at waterline so both shoulders, elbows, faces, and hand connections clearly readable. No lettering."
+        },
+        {
+          "scene": "Chest-up both smiling, regaining breath in the water. Hermione at left asks first. Pansy on right uses her own LEFT hand, elbow shown, to brush wet black hair away from her own cheek, including silver H R P delicate chain on that correctly connected left wrist. No rings. Two exact balloons left high from Hermione, right lower from Pansy.",
+          "dialogue": [
+            "Hermione: Eso es trampa.",
+            "Pansy: Gané. Es lo único que importa."
+          ]
+        },
+        {
+          "scene": "Hermione retaliates with ONE playful splash using her right forearm, open right hand connecting to visible wrist with natural curved four fingers and thumb. The splash flies toward Pansy's face mostly from below, leaves fingers readable. Pansy at right smiles with eyes closed. Hermione moves away starting a backstroke to left, her face above water, with one correct last speech balloon tail pointing to Hermione. Normal wet hair and water droplets.",
+          "dialogue": [
+            "Hermione: Ahora estamos a mano."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 70\n\nPansy persigue a Hermione entre las rocas. La carrera termina con cosquillas, risas y una salpicadura que deja a ambas a mano.\nHermione: No.\nHermione: Ni se te ocurra.\nPansy: Ya se me ocurrió.\nHermione: Eso es trampa.\nPansy: Gané. Es lo único que importa.\nHermione: Ahora estamos a mano.",
+      "review": "Cotejo completo con PDF638–639. Se conservaron título, seis globos íntegros y bromas. Viñeta 6: sigue cada mano hasta su propio antebrazo y hombro en dos alturas sin cruce; diamante único en el anular izquierdo de Hermione. Viñeta 7: dijes H R P en la izquierda de Pansy. Viñeta 8: mano abierta de Hermione con dedos definidos y gafas de Pansy conservadas. Corrección de mano pedida por el usuario.",
+      "reviewDate": "2026-11-22",
+      "sha256": "7206b181eb32d77629bf32fca4aa4f258b51de920475fdd734f48e987a1f763e",
+      "masterSha256": "5c2e695bf7fd40bf5a9efa45d7e0ba07758d78d43da202a65ddd5b6395462216",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p070-redibujo12-v3.png",
+      "selectedAttempt": "c13_p070_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "unico",
+        "importa"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p070_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p068-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p069-redibujo12-v1.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 70” once in black serif upper-left on the ivory top strip. Exactly eight panels in four rows of two. Vary framing from shoreline wide to water-level mid shot. Ivory gutters and crisp rounded blacks; classic chapter 12 warm painted outlines and textile grain, with face proportions absolutely matching the character reference. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Priority for Pansy's exact Chapter 12 proportional face and chin-length angular black bob. See fixed softly drawn lips, angular jaw and distinct eyebrows, gold clip on anatomical left. Do not enlarge face, change to long hair or clone Hermione. Ignore previous episode clothes and interior.\nImage 2: Immediately preceding water sequence, used for Hermione's brown freckled face and curly chestnut updo, dark sunglasses, olive swimsuit and teardrop sapphire necklace, and Pansy's opaque black bathing clothes. Keep blue water, pale rocks and anchored yacht.\nImage 3: Left hands belong to two different women: H ONE clear halo diamond on the single left ring finger, a clean bare wrist; P five bare fingers, fine H R P silver-link bracelet on left wrist only. Make the same natural thumb at the right hand edge if left-hand back is seen from above. Do not import any labels or sleeves.\nImage 4: Consistent same Li Galli cove, warm late-afternoon light, single stable wood-and-navy ketch with two masts tied sails, and one plank/rope gangway. Only these two women appear in page 70.\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. THIS PAGE features ONLY Hermione and Pansy, ordinary playful swimming at reachable smooth rocks; all babies remain safely with other family OFFSCREEN. H OLIVEonepiece/BUN/freckles/BROWNEYEs/BLACKglasses/BLUEsapphireONLYnecklace/ONELEFTdiamond/BAREwrists. P BLACK2piece/shortoriginalBLACKchinbob/LEFTgoldbarrette/BLACKglasses/LEFTwhitegoldHRPchain/PLAINfingers/BAREears. Face/shoulder or wide family storytelling, joyful game, no body-focused poses. Two heads always return above water, no fearful injury.\nOrdinary adult outdoor swimming play at a calm cove. Readable in silhouette. Show absolutely distinct arms in panels 5, 6 and 8. One sapphire at Hermione neck only, natural bare ears and wrists. Pansy one clip at her left temple, single light metal bracelet at her left wrist, plain fingers and ears. No characters other than these two in this page. Lettering only in 2, 4, 7 and 8.\n\nPanel 1. Wide airy establishing shot. Hermione the olive-suited woman in a chestnut wet curly bun swims in front toward a soft low pale rock, her own foreground left arm extends for a normal swimming stroke. Pansy in her black suit follows several meters behind, compact dark chin bob and black sunglasses. Single distant furled ketch with one gangway behind. No other figures. No text.\n\nPanel 2. Chest-up three-quarter profile of Hermione left in olive as she looks back and notices Pansy gaining on her, laughing mouth just opening to warn. Pansy has black chin bob and a mischievous smile and is still behind in the back-right. The short bubble points to Hermione's head. Spanish balloons in order, exact wording: Hermione says “No.”\n\nPanel 3. Wide side shot. Hermione curves around the low rock with a strong kick, her own sensible momentum following the curve. Pansy has nearly caught her, reaches only ONE hand and just brushes the outer side of Hermione's olive suit. The water and body angle separate both arm silhouettes. Pansy's far arm submerged and Hermione's lead arm clearly extends in her motion. No words. No text.\n\nPanel 4. Both come into adjacent water-level view with Hermione to the left and Pansy to the right, Hermione trying to swim off through the left edge. Two complete speech balloons. First higher-left pointing to Hermione; second lower-right to Pansy. These are the two distinct grown women with consistent recognizable hair and profiles. Spanish balloons in order, exact wording: Hermione says “Ni se te ocurra.” Pansy says “Ya se me ocurrió.”\n\nPanel 5. At the next rock, from a slightly wider side angle. Hermione laughs and pushes her own LEFT open hand off the smooth rock, wrist and forearm meeting clearly up to her shoulder. Pansy approaches from behind and gently tickles just at Hermione's side with one set of normal fingers, her other arm around her side for balance. Casual non-suggestive framing at water level; the water covers both lower bodies. Keep sapphire only at Hermione neck and one left ring finger ring as seen. Each arm connects to correct body. No text.\n\nPanel 6. Most important hand anatomy panel. Both have just resurfaced after a short harmless dip, laughing face-to-face with sufficient physical space. Hermione left and Pansy right. At middle-low level Hermione steadies Pansy with her LEFT hand placed on the outside of Pansy's upper arm; use an unbroken, unobscured visible connection from Hermione's own shoulder through bent elbow and wrist to that one hand, fingers wrapping gently around the arm. Hermione's clear halo ring only at left ring finger, bare wrist. At a distinctly HIGHER level Pansy extends her bare RIGHT arm to place her own open hand on Hermione's shoulder with fully traceable wrist and forearm, no crossing at all with Hermione's arm, no matching directions. Pansy's other arm is hidden under the surface. Only two hands appearing in panel, five fingers each including the partly occluded thumb, no hand resting on its own shoulder. Pansy's face recognizable as ref 1. Upper-body wide view at waterline so both shoulders, elbows, faces, and hand connections clearly readable. No lettering. No text.\n\nPanel 7. Chest-up both smiling, regaining breath in the water. Hermione at left asks first. Pansy on right uses her own LEFT hand, elbow shown, to brush wet black hair away from her own cheek, including silver H R P delicate chain on that correctly connected left wrist. No rings. Two exact balloons left high from Hermione, right lower from Pansy. Spanish balloons in order, exact wording: Hermione says “Eso es trampa.” Pansy says “Gané. Es lo único que importa.”\n\nPanel 8. Hermione retaliates with ONE playful splash using her right forearm, open right hand connecting to visible wrist with natural curved four fingers and thumb. The splash flies toward Pansy's face mostly from below, leaves fingers readable. Pansy at right smiles with eyes closed. Hermione moves away starting a backstroke to left, her face above water, with one correct last speech balloon tail pointing to Hermione. Normal wet hair and water droplets. Spanish balloons in order, exact wording: Hermione says “Ahora estamos a mano.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-c0a8a8f0-3bfd-4d7b-96f5-28a213366610.png"
+        },
+        {
+          "name": "c13_p070_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-c0a8a8f0-3bfd-4d7b-96f5-28a213366610.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Targeted repairs inside panels 6 and 8 of this exact complete eight-panel 1024×1536 Spanish comic. Keep all eight panels, four-by-two layout, all art in panels 1–5 and 7, and every word, accent and balloon as supplied. Keep black header «Capítulo 13 · 70». In panel 6 (third row right), make Hermione's LEFT hand unambiguously connect to her LEFT shoulder with the whole left forearm visible. To resolve her anatomy, show olive-suited Hermione's upper torso angled slightly TOWARD the camera, her face turning to the RIGHT toward black-haired Pansy. The sapphire at the center of Hermione's chest separates her two shoulders. Hermione's left shoulder is the INBOARD one (on the viewer's right side of Hermione's torso, closest to the gap between women); Hermione's LEFT arm extends from that shoulder, follows a single proper elbow and wrist below the other woman's arm, and rests gently on Pansy's upper arm. Diamond on Hermione's anatomical left ring finger only. Hermione's other (far left in frame) shoulder connects to her right arm dipping down independently, right hand submerged. Pansy's higher bare forearm reaches to Hermione's one shoulder, fingers attached, anatomically separate from the lower forearm; no overlap between the two arms in the gap. Match the natural faces, laughter and hair of each exact original. Two visible hands whose shoulders can be traced at a glance. In panel 8 (bottom right) put back Pansy's exact black sunglasses from panel 7, on her own face. Preserve Hermione's single clearly connected splashing hand and exact «Ahora estamos a mano.» balloon. Keep sunglasses on both adults in all frames. No edits elsewhere, same expressions, tones, painterly finish, sky, rocks, boat, jewelry and swimwear.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5715ede1-969d-4ebd-b290-656e3561dba5.png"
+        },
+        {
+          "name": "c13_p070_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5715ede1-969d-4ebd-b290-656e3561dba5.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Make two extremely small targeted revisions in only the bottom row of this existing full-page Spanish comic. Recreate all the rest as closely as possible. Preserve the SOURCE image entirely in the first six panels and the same 1024×1536 comic, header «Capítulo 13 · 70», eight panels and exact unchanged Spanish balloons, accents and identities. Keep the two properly traceable hand–elbow–shoulder connections of panel 6 exactly as supplied. In panel 7 bottom left, Pansy's left wrist next to her left temple has one fine silver chain. On its three dangling little letter pins, make the type simple and readable — capital H, capital R, capital P, in order, just as in Image 2. Keep the chain on the same wrist and no ring on her fingers. Keep her dark glasses, bob, and one gold hairclip. Panel 8, bottom right only: Hermione is raising her own open right hand toward the middle of a splash and the fingers are foreshortened. Clearly show one thumb and four separate natural fingers on that open hand, connected to her same existing arm through the same visible wrist. Keep all droplets, her relaxed pose, face, Pansy's sunglasses and the rest of the artwork. No changes anywhere else. No new lettering apart from the chain’s three small charm initials. Exact original «Ahora estamos a mano.» and the rest of the dialogue. Shaded painted paper grain; retain the mature women's distinct character faces and place her ring only in panel 6 on left hand. No lettering on foreground water or clothing.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-425971eb-ce71-4d5c-8bc4-1c3e176c1b7f.png"
+        }
+      ]
+    }
+  ]
+}
