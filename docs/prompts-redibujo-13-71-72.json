@@ -1,0 +1,195 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 71,
+  "end": 72,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 71,
+      "original": "paginas/c13-p071.webp",
+      "image": "paginas/c13-p071-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        639,
+        640
+      ],
+      "summary": "Blaise presta su sombrero de capitán a Robin. Más tarde, Hermione y Pansy comparan los juegos de los primos e intercambian a Robin y Scorpius con cuidado.",
+      "panels": [
+        {
+          "scene": "Quiet new handover at low pale rocks: seated Draco on right gently passes child Robin in his blue yellow-duck shorts toward Blaise at center left, in shallow water, who supports him under his arms and at his waist. Daphne (far left in turquoise) cradles golden Arianna in same turquoise baby one-piece. Single adult navy/gold captain hat lies on dry low rock, visible in foreground. Both infants faces clearly above water. A yacht with its one real gangway distant across blue cove."
+        },
+        {
+          "scene": "Robin now secure in Blaise's arms against his chest; curious chestnut-curled green-eyed Robin reaches two small hands toward the existing actual navy captain hat on the nearby dry rock. Black closely cropped curls mark Blaise, who asks his complete question. Set this head-level balloon pointed to him alone.",
+          "dialogue": [
+            "Blaise: ¿Quieres probarlo?"
+          ]
+        },
+        {
+          "scene": "Blaise places same oversized navy cap with little gold anchor on Robin. The brim droops over Robin's eyes; his two tiny hands lift to the edge of the brim. Blaise's left arm securely supports Robin upright, other hand only at crown. Their separate hands and anatomy are clear. No other infant, no lettered hat."
+        },
+        {
+          "scene": "Blaise folds the front brim up so Robin's clearly green eyes and chestnut curls emerge, safe posture against Blaise. Navy/gold cap still on Robin, Blaise short hair no cap, one exact short line. Their expressions relaxed.",
+          "dialogue": [
+            "Blaise: Mucho mejor, capitán."
+          ]
+        },
+        {
+          "scene": "Pansy swims in from the right and carefully adjusts one edge of the navy cap with her own hand, with one Pansy balloon. Blaise still fully holds Robin securely while Pansy strokes his back. Her near black chin-length bob, left yellow barrette and black lenses match prior pages, her skin tone distinct from Blaise.",
+          "dialogue": [
+            "Pansy: No dejes que lo arroje al agua."
+          ]
+        },
+        {
+          "scene": "Blaise holds Robin (one small body, navy borrowed cap and duck print shorts) and answers with one complete balloon pointed clearly to his head. Pansy smiles at right and briefly gently touches Blaise's shoulder with her single attached arm with bare fingers, before leaving.",
+          "dialogue": [
+            "Blaise: Tu falta de confianza continúa siendo ofensiva."
+          ]
+        },
+        {
+          "scene": "Later at low shoreline beside the real plank gangway. Astoria in rust and scarf briefly leans down as she passes her platinum infant Scorpius in gray shorts to Hermione in olive, both holding him until he is safe. Show Astoria's stance and the deck path behind her where she will go to fetch water. Robin out of this panel, no other baby or cup; still safe as Pansy approaches in next view."
+        },
+        {
+          "scene": "Wide clear rockside composition. Pansy LEFT has taken back chestnut Robin, wearing the borrowed navy cap and blue/yellow-ducks shorts, and supports him near hip with arm at waist. Hermione RIGHT holds her own distinct platinum gray-shorted nephew Scorpius. Pansy's long two-sentence line points down-left to her; both sentences within same first readable balloon. Hermione's later short response lower right, tail to her. No duplicates of either woman or child. Use smaller correct Spanish letters if necessary, with space reserved above their heads.",
+          "dialogue": [
+            "Pansy: Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.",
+            "Hermione: Cada uno se divierte a su manera."
+          ]
+        },
+        {
+          "scene": "Beginning of the gentle reciprocal exchange on the low dry rock. Two distinct women with enough room around their natural elbows and wrists. Pansy in black already braces platinum Scorpius's back and torso, Hermione in olive holds navy-capped chestnut Robin underneath and against her chest. Visual mid-transfer children leaning toward the adult they're receiving, not floating. Two natural arms per woman, no extra fingers, no other kids."
+        },
+        {
+          "scene": "Resolution a moment later. Hermione in olive settles curly Robin sitting safely between her knees near shallow water, one hand securely around his belly. The adult navy captain brim pulled up stays on his head and his printed blue yellow-duck shorts are obvious. Pansy in black holds platinum-gray Scorpius against her chest with arms around his back and belly; he calmly watches water. Both on low flat pale rock. No text. One small background boat if visible."
+        }
+      ],
+      "actualPanelCount": 10,
+      "transcript": "Capítulo 13 · 71\n\nBlaise presta su sombrero de capitán a Robin. Más tarde, Hermione y Pansy comparan los juegos de los primos e intercambian a Robin y Scorpius con cuidado.\nBlaise: ¿Quieres probarlo?\nBlaise: Mucho mejor, capitán.\nPansy: No dejes que lo arroje al agua.\nBlaise: Tu falta de confianza continúa siendo ofensiva.\nPansy: Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.\nHermione: Cada uno se divierte a su manera.",
+      "review": "PDF639–640: seis globos íntegros y bien atribuidos; se comprobó especialmente la frase de Blaise en la 4 y que su hombro recibe la mano visible de Pansy en la 6. Gorro azul marino en una sola cabeza, rizos cortos de Blaise, aspecto y portadores de los tres niños. Entrega de Scorpius desde Astoria y luego intercambio entre Pansy y Hermione. Limpia la pasarela de duplicaciones.",
+      "reviewDate": "2026-11-22",
+      "sha256": "d014c6fde0c0b6f5772847c4be58d9a08e66ba425f5586362e7a78aa853c78ba",
+      "masterSha256": "b707829194aa35ad028267ee9a157dd9093af2b8beddea4e7ea43b833f2a3144",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p071-redibujo12-v3.png",
+      "selectedAttempt": "c13_p071_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "dejes",
+        "arroje",
+        "falta",
+        "confianza",
+        "continua",
+        "siendo",
+        "ofensiva"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p071_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p069-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p068-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p064-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 71” once in black serif upper-left on the ivory top strip. Exactly ten panels, five rows of two. In row four (panels 7–8), allow roughly sixty percent of the row to right panel 8 for both long dialogues, so no words are cut. Keep ivory gutters and exact title. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Faces and reference handover just previous: platinum Draco (cream trunks) holds human child Robin (chestnut-green, blue with yellow ducks), ocher head scarf dark-haired Astoria (rust suit) holds platinum-gray Scorpius (light gray trunks). Pansy short black chin bob and black opaque suit. This begins with the next exchange rather than poses from here.\nImage 2: Keep Blaise's complexion and very short tight black curls, Daphne's long blonde hair/turquoise swim suit and turquoise golden-haired Arianna's distinct baby face, Hermione's chestnut curly updo, olive swimsuit and one blue pendant, Pansy's exact short angled black bob and gold clip.\nImage 3: Use the same navy adult captain hat with small gold anchor and gold braided cord in panel 6 of that page, on a dry pale rock now. The copy of this adult hat is the single one borrowed by Robin. Only use anchored-yacht construction and the hat from this reference.\nImage 4: Only exact jewelry on left hands: Hermione one clear halo at LEFT ring finger, bare wrists; Pansy no rings, fine H R P bracelet at LEFT wrist. Ignore other words and no identical poses.\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. HAT/PORTADOR CHANGES source639: captainhat NOWonDRYROCK (singleNAVY/GOLDemblem; movedfromdeckbetweenearlierscenes). B receivesRobin thenputsCAPTAINHATonROBIN frompanel3: chestnutGREEN/BLUE DUCKS/oversizedNAVYhat withfrontbrimfoldedup tocleareyes. NEVERAri orB wearingcap now. Later A handsScorpius toH thenreturnsboatforwaterbottle; P nowRobinonhip; P/H swapcarefully: endPScorpius/HRobinbetweenlegs. Keep allchanges clear, TWO infants distinct, no casualtoys/glasses/cap onScorpius.\nNatural everyday beach story, believable human children, safe adult holds, no crossed anatomical connections. No clipping of balloons, no shortened lines. A single hat on a single child and only in panels 3 onward. Pansy black structured angular short bob and Hermione chestnut messy wet bun from prior page. No earrings or pendants on any baby or Pansy. The only words are numbered title and bubbles in panels 2, 4, 5, 6, 8.\n\nPanel 1. Quiet new handover at low pale rocks: seated Draco on right gently passes child Robin in his blue yellow-duck shorts toward Blaise at center left, in shallow water, who supports him under his arms and at his waist. Daphne (far left in turquoise) cradles golden Arianna in same turquoise baby one-piece. Single adult navy/gold captain hat lies on dry low rock, visible in foreground. Both infants faces clearly above water. A yacht with its one real gangway distant across blue cove. No text.\n\nPanel 2. Robin now secure in Blaise's arms against his chest; curious chestnut-curled green-eyed Robin reaches two small hands toward the existing actual navy captain hat on the nearby dry rock. Black closely cropped curls mark Blaise, who asks his complete question. Set this head-level balloon pointed to him alone. Spanish balloons in order, exact wording: Blaise says “¿Quieres probarlo?”\n\nPanel 3. Blaise places same oversized navy cap with little gold anchor on Robin. The brim droops over Robin's eyes; his two tiny hands lift to the edge of the brim. Blaise's left arm securely supports Robin upright, other hand only at crown. Their separate hands and anatomy are clear. No other infant, no lettered hat. No text.\n\nPanel 4. Blaise folds the front brim up so Robin's clearly green eyes and chestnut curls emerge, safe posture against Blaise. Navy/gold cap still on Robin, Blaise short hair no cap, one exact short line. Their expressions relaxed. Spanish balloons in order, exact wording: Blaise says “Mucho mejor, capitán.”\n\nPanel 5. Pansy swims in from the right and carefully adjusts one edge of the navy cap with her own hand, with one Pansy balloon. Blaise still fully holds Robin securely while Pansy strokes his back. Her near black chin-length bob, left yellow barrette and black lenses match prior pages, her skin tone distinct from Blaise. Spanish balloons in order, exact wording: Pansy says “No dejes que lo arroje al agua.”\n\nPanel 6. Blaise holds Robin (one small body, navy borrowed cap and duck print shorts) and answers with one complete balloon pointed clearly to his head. Pansy smiles at right and briefly gently touches Blaise's shoulder with her single attached arm with bare fingers, before leaving. Spanish balloons in order, exact wording: Blaise says “Tu falta de confianza continúa siendo ofensiva.”\n\nPanel 7. Later at low shoreline beside the real plank gangway. Astoria in rust and scarf briefly leans down as she passes her platinum infant Scorpius in gray shorts to Hermione in olive, both holding him until he is safe. Show Astoria's stance and the deck path behind her where she will go to fetch water. Robin out of this panel, no other baby or cup; still safe as Pansy approaches in next view. No text.\n\nPanel 8. Wide clear rockside composition. Pansy LEFT has taken back chestnut Robin, wearing the borrowed navy cap and blue/yellow-ducks shorts, and supports him near hip with arm at waist. Hermione RIGHT holds her own distinct platinum gray-shorted nephew Scorpius. Pansy's long two-sentence line points down-left to her; both sentences within same first readable balloon. Hermione's later short response lower right, tail to her. No duplicates of either woman or child. Use smaller correct Spanish letters if necessary, with space reserved above their heads. Spanish balloons in order, exact wording: Pansy says “Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.” Hermione says “Cada uno se divierte a su manera.”\n\nPanel 9. Beginning of the gentle reciprocal exchange on the low dry rock. Two distinct women with enough room around their natural elbows and wrists. Pansy in black already braces platinum Scorpius's back and torso, Hermione in olive holds navy-capped chestnut Robin underneath and against her chest. Visual mid-transfer children leaning toward the adult they're receiving, not floating. Two natural arms per woman, no extra fingers, no other kids. No text.\n\nPanel 10. Resolution a moment later. Hermione in olive settles curly Robin sitting safely between her knees near shallow water, one hand securely around his belly. The adult navy captain brim pulled up stays on his head and his printed blue yellow-duck shorts are obvious. Pansy in black holds platinum-gray Scorpius against her chest with arms around his back and belly; he calmly watches water. Both on low flat pale rock. No text. One small background boat if visible. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9888daeb-3e68-4e66-8ea3-305df8a677ec.png"
+        },
+        {
+          "name": "c13_p071_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-9888daeb-3e68-4e66-8ea3-305df8a677ec.png"
+          ],
+          "prompt": "Targeted revision of ONLY panels 4, 6 and 7 of this ten-panel Spanish comic. Render same entire 1024×1536 page with title «Capítulo 13 · 71», five rows, all panels, text and accents unchanged. Panel 4, second row right: BLAISE, dark-skinned adult with short dense black curls on the LEFT, is speaking «Mucho mejor, capitán.». Move its balloon or redraw its single tail so the tip points clearly to the adult Blaise's open mouth at left. No tail to Robin or to his cap. You may place that same bubble above Blaise and extend only the ivory sky. Keep the one green-eyed chestnut child, adult supporting arms, chest and single navy/gold hat. Panel 6, third row right: Pansy's free hand from right briefly rests just on Blaise's shoulder (the adult with dark skin) beside his neck, NOT on Robin. Make the two distinct correct touch positions clear. Pansy has only bare fingers, thin bracelet on her left wrist if visible, gold clip left and black sunglasses. Blaise securely supports Robin with both forearms near waist. Navy adult captain hat stays on Robin. The exact balloon and tail remain to Blaise. Panel 7, fourth row left: remove the six distracting duplicate background crew silhouettes along the short gangway and cabin. Keep same railing and linked deck, and empty deck furnishings instead. Keep Astoria, scarf and terracotta, handing platinum Scorpius to Hermione in olive, same precise faces. No change in foreground. Identical dialogues in panels 2, 4, 5, 6 and 8; keep the full long dialogue including «Scorpius parece estar estudiando el agua. Robin lleva media hora intentando salpicar todo lo que encuentra.» and «Cada uno se divierte a su manera.» from panel 8 with proper tails. Preserve panels 1,2,3,5,8,9,10 essentially identical, no other alterations, keep natural family poses, warm painterly linework, ivory gutters and exact composition.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5d7475aa-9c40-4102-b638-e0b86566006e.png"
+        },
+        {
+          "name": "c13_p071_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5d7475aa-9c40-4102-b638-e0b86566006e.png"
+          ],
+          "prompt": "Correct ONLY panel 6 (third row right) of this complete ten-panel story page. Repeat the whole 1024×1536 page with identical lettering. Preserve absolute all other panels, no text change. This one panel keeps Blaise short black tight curls, compact gold-anchor navy cap on Robin with deep chestnut wet curls, and Pansy short black bob, one left gold clip and black opaque bathing suit, no earrings. Repose the three in a simple readable medium shot so we can see all limbs that are above the water. Robin stays lower in the middle, seated up securely against Blaise's two warm dark-skinned forearms in front around Robin's waist. At right Pansy is just next to them, leaned a little closer. Her visible arm reaches naturally above and behind Robin's cap; trace it uninterrupted through a gently bent elbow and an open attached hand just resting on Blaise's near shoulder next to his neck. Her small arm is one continuous silhouette, never connected to Robin or disappearing into him, and her other arm is under the water. Use Pansy's anatomically right arm for this, bare right wrist, fingers bare with no rings. The two adults may move slightly closer together for reach. Keep faces very recognizable. Her smile faces Blaise, who says exactly «Tu falta de confianza continúa siendo ofensiva.» with a clear tail to Blaise, at left. No other changes in panel; no gold bracelet. Preserve print «Capítulo 13 · 71» and all other nine panels completely, including Blaise's corrected fourth-panel tail, every accent, the two long speeches in 8, first two hat placements, last two exchanges, water and ivory gutters.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-85a9d222-e334-4957-a144-ac951e2c4b1d.png"
+        }
+      ]
+    },
+    {
+      "page": 72,
+      "original": "paginas/c13-p072.webp",
+      "image": "paginas/c13-p072-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        640
+      ],
+      "summary": "Daphne y Blaise cuidan a los tres bebés mientras Hermione y Pansy nadan hasta la sombra de las rocas. Allí continúan sus bromas y comparten un momento de cariño.",
+      "panels": [
+        {
+          "scene": "Clear airy medium-wide shoreline shot in bright daylight. Blonde Daphne in turquoise sits on low pale dry rock, supports PLATINUM (gray shorts, blue-gray eyes) Scorpius against her chest with her left arm, and safely steadies golden curled Arianna in turquoise baby one-piece seated BETWEEN her knees in front. Blaise in shallow water next to her safely cradles ROBIN, chestnut curls, green eyes, blue yellow-duck shorts and one borrowed adult navy captain cap with an anchor. All exactly three human babies, faces clear and individually recognizable. Hermione and Pansy on other side set off swimming now without infants. One wooden navy yacht with its only gangway in far background."
+        },
+        {
+          "scene": "Open natural medium-wide water-level view of just the two grown women. Pansy on right gently holds Hermione's left hand with her right (one securely interlaced natural set of two hands near surface, no bizarre extra fingers) as they swim together toward the shaded side of the rocky outcrop. Each other arm makes a free swimming stroke. They share a playful glance. Small figures and readable but not excessively close body framing, two separate faces and arms. No other words."
+        },
+        {
+          "scene": "Quietly shaded lee of tall pale smooth outcrop. Hermione at left rests shoulder against shaded rock. Pansy at right faces her with an ordinary gentle family hug, their bodies below the surface with shoulders visible. Natural distance between faces. First bubble to Hermione upper-left; second bubble to Pansy lower-right. Same sun glasses and recognizable eyebrows, gold clip left temple of Pansy only.",
+          "dialogue": [
+            "Hermione: ¿Ya dejaste de perseguirme?",
+            "Pansy: Solo cambié de estrategia."
+          ]
+        },
+        {
+          "scene": "A brief, warm closed-mouth kiss between two adult partners at the shade of the rock. Medium close face-and-shoulders framing, blue reflected dapple, both relaxed and angled slightly differently so glasses don't collide, wet forelock of Pansy visible. One necklace sapphire on Hermione only. No suggestive posing. No other people. No speech."
+        },
+        {
+          "scene": "Wide establishing view behind swimmers: two women make an unhurried swimming loop around pale smooth rocks to return into same shaded area. Only tops of shoulders and natural single strokes at water surface. Black short bob Pansy and chestnut bun Hermione visibly distinct. One boat and one functional gangway seen at safe distance, shoreline behind. No words."
+        },
+        {
+          "scene": "Look back at the caregivers on the sunlit shore. Robin splashes while supported at waist by Blaise's left hand; his singular adult navy/gold cap droops toward eyes. Blaise lifts the brim with his own clearly attached right hand, revealing Robin's laughing green eyes and chestnut curls. Daphne in turquoise still has Scorpius with platinum tuft and gray shorts against her chest plus golden curly Arianna turquoise one-piece between knees. Totally separate faces, holders, natural fingers and size proportions. No words."
+        },
+        {
+          "scene": "Back in shade. Hermione at left turns her face in the direction of the same shoreline, hearing Robin's laugh. Pansy on right looks along her gaze, a gentle smile just after a friendly little kiss near Hermione's cheek. One very short reassurance in panel with tail pointing only to Pansy. Shoulder-up view with a quieter reflective expression. Hair and swim colors exactly as preceding.",
+          "dialogue": [
+            "Pansy: Está bien."
+          ]
+        },
+        {
+          "scene": "New distinct close angle from behind Pansy's left shoulder as they return the gaze. Hermione chestnut curls on upper right, Pansy dark compact bob on lower left, close their eyes as their foreheads graze before one brief closed-mouth kiss. Warm, affectionate, fully ordinary shoulder-up view. Both wear same small dark glasses and no extra jewelry. Blue-reflected rock in shade; shore scene offscreen without other people. A wider softly framed portrait than panel 4, not a duplicated panel. No words."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 72\n\nDaphne y Blaise cuidan a los tres bebés mientras Hermione y Pansy nadan hasta la sombra de las rocas. Allí continúan sus bromas y comparten un momento de cariño.\nHermione: ¿Ya dejaste de perseguirme?\nPansy: Solo cambié de estrategia.\nPansy: Está bien.",
+      "review": "Cotejado con PDF640. Daphne sostiene a Scorpius junto al pecho y a Arianna entre las piernas; Blaise sujeta a Robin con el mismo sombrero de capitán. Se ven los dos antebrazos antes del gesto de las manos bajo el agua. Se mantiene el orden de los tres globos y el cambio de ángulo entre los dos besos breves.",
+      "reviewDate": "2026-11-22",
+      "sha256": "0ca49a8e3915c97de32ea5370da07009d7999db7a9089396c5aa4bf694d30651",
+      "masterSha256": "e240a9ac19990e2d4d48dc31a3b5d5b884b09126a85ff93a56bda854f712cc0c",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p072-redibujo12-v2.png",
+      "selectedAttempt": "c13_p072_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p072_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p070-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p068-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p069-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 72” once in black serif upper-left on the ivory top strip. Exactly eight panels, four rows of two clean ivory-gutter panels. Shifting camera views and natural chapter 12 painterly linen finish. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Use both adult women's distinct faces and body proportions: chestnut curly bun and freckles Hermione olive; short structured dark chin bob Pansy black. Black sunglasses both, single clip above Pansy's left side. Exact water, shade and distant single yacht. Last scene is behind shaded rock at edge of same cove.\nImage 2: Blaise's exact recognizable face, short tight cropped black curls, Daphne's long blonde hair and turquoise beachwear; human Arianna's golden curls and her turquoise swim garment. The babies have new holders on 72. No earrings on Pansy or babies.\nImage 3: Scorpius pale platinum tuft, blue-gray eyes and gray shorts, quite distinct from chestnut green-eyed Robin and his blue duck shorts. Reference boat and tranquil stone cove. On this page Daphne and Blaise are caring for the children.\nImage 4: Anatomical left hands and exact gentle thin jewelry scale only. Hermione one halo ring left ring finger. Pansy bare fingers, only left wrist has H R P charms. No figures, caption or fabric from reference.\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone. SOURCE640 CURRENTCARE: DAPHNE seatedsmoothLOWROCK holdsSCORPIUS PLATINUM/GRAYshorts againstCHEST AND ARIANNA goldenBLUE/TURQUOISE BETWEENLEGS; B inwaterbesideholds ROBIN BLUE DUCKS/NAVY CAPTAINHAT byWAIST. NOinfantswithH/P duringtheirshortswim. Captainhat ONLYRobin from71, Bbarehead/Ari/Snohat. H/P ordinary gentleaffection inface/shoulderframing, no explicitactivity. Hsapphire ONLYnecklace/no BLUEearrings; Daphne ONLYfineGOLDchain/tinyGOLDpendant/nobluesapphire. Clear sourcecount3humanbabies/sixadults/fourcrew whenwidebutdon'tcrowdframe.\nOnly three balloons total, placed in panels 3 and 7. Differentiate sun from reflected shade on the same outcrop. Keep all body contact natural, water covers lower bodies, use comfortable candid gestures and unambiguous arm anatomy.\n\nPanel 1. Clear airy medium-wide shoreline shot in bright daylight. Blonde Daphne in turquoise sits on low pale dry rock, supports PLATINUM (gray shorts, blue-gray eyes) Scorpius against her chest with her left arm, and safely steadies golden curled Arianna in turquoise baby one-piece seated BETWEEN her knees in front. Blaise in shallow water next to her safely cradles ROBIN, chestnut curls, green eyes, blue yellow-duck shorts and one borrowed adult navy captain cap with an anchor. All exactly three human babies, faces clear and individually recognizable. Hermione and Pansy on other side set off swimming now without infants. One wooden navy yacht with its only gangway in far background. No text.\n\nPanel 2. Open natural medium-wide water-level view of just the two grown women. Pansy on right gently holds Hermione's left hand with her right (one securely interlaced natural set of two hands near surface, no bizarre extra fingers) as they swim together toward the shaded side of the rocky outcrop. Each other arm makes a free swimming stroke. They share a playful glance. Small figures and readable but not excessively close body framing, two separate faces and arms. No other words. No text.\n\nPanel 3. Quietly shaded lee of tall pale smooth outcrop. Hermione at left rests shoulder against shaded rock. Pansy at right faces her with an ordinary gentle family hug, their bodies below the surface with shoulders visible. Natural distance between faces. First bubble to Hermione upper-left; second bubble to Pansy lower-right. Same sun glasses and recognizable eyebrows, gold clip left temple of Pansy only. Spanish balloons in order, exact wording: Hermione says “¿Ya dejaste de perseguirme?” Pansy says “Solo cambié de estrategia.”\n\nPanel 4. A brief, warm closed-mouth kiss between two adult partners at the shade of the rock. Medium close face-and-shoulders framing, blue reflected dapple, both relaxed and angled slightly differently so glasses don't collide, wet forelock of Pansy visible. One necklace sapphire on Hermione only. No suggestive posing. No other people. No speech. No text.\n\nPanel 5. Wide establishing view behind swimmers: two women make an unhurried swimming loop around pale smooth rocks to return into same shaded area. Only tops of shoulders and natural single strokes at water surface. Black short bob Pansy and chestnut bun Hermione visibly distinct. One boat and one functional gangway seen at safe distance, shoreline behind. No words. No text.\n\nPanel 6. Look back at the caregivers on the sunlit shore. Robin splashes while supported at waist by Blaise's left hand; his singular adult navy/gold cap droops toward eyes. Blaise lifts the brim with his own clearly attached right hand, revealing Robin's laughing green eyes and chestnut curls. Daphne in turquoise still has Scorpius with platinum tuft and gray shorts against her chest plus golden curly Arianna turquoise one-piece between knees. Totally separate faces, holders, natural fingers and size proportions. No words. No text.\n\nPanel 7. Back in shade. Hermione at left turns her face in the direction of the same shoreline, hearing Robin's laugh. Pansy on right looks along her gaze, a gentle smile just after a friendly little kiss near Hermione's cheek. One very short reassurance in panel with tail pointing only to Pansy. Shoulder-up view with a quieter reflective expression. Hair and swim colors exactly as preceding. Spanish balloons in order, exact wording: Pansy says “Está bien.”\n\nPanel 8. New distinct close angle from behind Pansy's left shoulder as they return the gaze. Hermione chestnut curls on upper right, Pansy dark compact bob on lower left, close their eyes as their foreheads graze before one brief closed-mouth kiss. Warm, affectionate, fully ordinary shoulder-up view. Both wear same small dark glasses and no extra jewelry. Blue-reflected rock in shade; shore scene offscreen without other people. A wider softly framed portrait than panel 4, not a duplicated panel. No words. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-61d22913-0b87-4439-8e70-ca4dc6a29a45.png"
+        },
+        {
+          "name": "c13_p072_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-61d22913-0b87-4439-8e70-ca4dc6a29a45.png"
+          ],
+          "prompt": "Important corrections to ONLY panels 2 and 3 of the complete eight-panel 1024×1536 Spanish comic. Preserve ALL other panels at the same position including exact header «Capítulo 13 · 72», all frames, colors and exact Spanish text (¿Ya dejaste de perseguirme?, Solo cambié de estrategia., Está bien.). Panel 2 upper right: make the mutual hand-hold read truly in the water. Hermione's left arm at screen left and Pansy's right arm at screen right stay clearly attached to their respective shoulders, as in the input. At the point of contact Hermione's left hand gently grasps Pansy's right, both are attached to their own respective forearms and each has the normal small adult scale. Show this one connection with fingers intertwined below the line of a small clear water ripple: only the two bare wrists and the upper knuckle shapes are above the water. This ripple hides their fingers so they do not look like fused or doubled hands. Keep both sunglasses and freckled chestnut bun/black chin bob, ivory gutters, bright reflected blue water; otherwise unchanged. Panel 3, first on row 2: remove the stray arm and hand over Hermione's leftmost shoulder at screen x40 near the rock. Pansy faces Hermione holding her gently below water and around the waist, like the narrative. Let the relaxed upper limbs descend underwater, while shoulders and faces unobstructed, no new hands. Keep the exact same two speech bubbles with their correct original tails. Preserve panels 1,4,5,6,7,8 almost identically, especially the babies, shades, same anchored boat, two different brief affectionate kisses, correct jewelry and expressive coherent faces. No added letters.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-ed8fdde3-845b-465b-8fbe-722799ee0db3.png"
+        }
+      ]
+    }
+  ]
+}
