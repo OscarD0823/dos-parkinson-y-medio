@@ -1,0 +1,164 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 65,
+  "end": 66,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 65,
+      "original": "paginas/c13-p065.webp",
+      "image": "paginas/c13-p065-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        635
+      ],
+      "summary": "Arianna aprende a aplaudir. Astoria y Scorpius observan el clavado de Draco, que después acepta la carrera de Blaise.",
+      "panels": [
+        {
+          "scene": "Daphne on a low sunlit rock, long damp golden-blonde hair over one shoulder, opaque turquoise family one-piece, holding Arianna wrapped securely between her legs. Arianna has golden damp curls, blue eyes and opaque turquoise toddler one-piece, her two small palms have just made their first successful clap. Daphne bends to kiss the top of the curls."
+        },
+        {
+          "scene": "Draco waits on the SAME yacht side deck where Blaise stood. He has steel-blue eyes, pale platinum swept hair, slightly sun-pink shoulders and cream opaque swim shorts. That morning's striped shirt, now taken off, is folded on the rail. He looks across the gangway toward his family. Balanced medium shot."
+        },
+        {
+          "scene": "Astoria has dark brown wavy hair, dark defined brows, steel-gray blue eyes, patterned ocher scarf tied behind the head and rust opaque one-piece. She is securely sitting at the low end of the wooden gangway, Scorpius upright on her lap, platinum tuft, blue-gray eyes, light gray swim shorts. Astoria supports his trunk with one arm and gently waves his ONE raised little hand with the other. Both look up toward the yacht, balloon points to Astoria.",
+          "dialogue": [
+            "Astoria: Ahora viene papá."
+          ]
+        },
+        {
+          "scene": "Spatial reverse view to reveal that the gangway connects rock to yacht deck: dark-haired Astoria and platinum Scorpius in the foreground, their own relative positions carried over. Draco is on the taller side deck in the distance sending them a kiss with two fingers in front of his lips. Only Astoria speaks. Put the tail of Míralo on the foreground mother, visibly away from Draco.",
+          "dialogue": [
+            "Astoria: Míralo."
+          ]
+        },
+        {
+          "scene": "Draco alone dives from the left yacht deck, two feet high and nearest the left rail, two arms stretched diagonally down RIGHT toward open water and head following his hands. Cream shorts and platinum hair. No rocks or other person in trajectory. Yacht attached gangway farther behind and to the right outside his trajectory."
+        },
+        {
+          "scene": "Astoria stays seated in the exact same place, Scorpius supported on her lap. With gentle hands she guides his little hands through a clap. Both look toward the thin line of foam several meters ahead in the water."
+        },
+        {
+          "scene": "Tight shot of the two adults at the surface, Blaise on LEFT same dark complexion and very short tight black curls, Draco on RIGHT same pale swept-back damp platinum, each visible only once, both smiling. Order of balloons upper-left to Blaise and right to Draco.",
+          "dialogue": [
+            "Blaise: ¿Carrera hasta las rocas?",
+            "Draco: Cuando quieras."
+          ]
+        },
+        {
+          "scene": "Wide waterline view. One Blaise and one Draco have started a freestyle race toward the low pale rocks, Draco visibly just ahead to the right and nearer the target. Natural separate arms and splashes. An anchored dark timber and maritime-navy ketch behind them has two upright masts above deck, sails tied tight, three round brass portholes, short rope gangway to rock, bright calm background. One yacht."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 65\n\nArianna aprende a aplaudir. Astoria y Scorpius observan el clavado de Draco, que después acepta la carrera de Blaise.\nAstoria: Ahora viene papá.\nAstoria: Míralo.\nBlaise: ¿Carrera hasta las rocas?\nDraco: Cuando quieras.",
+      "review": "Cotejado con PDF635. Están las cuatro frases y se confirma a Astoria como la voz en las dos de Scorpius. Arianna aplaude bajo el cuidado de Daphne, que no lleva el zafiro de Hermione. Draco salta desde un solo casco hacia agua abierta y gana la delantera. Se preservan caras, tonos, encuadres y bañadores.",
+      "reviewDate": "2026-11-22",
+      "sha256": "b98874be5c01af818967e802f2d374d6942253c6233e01336c02c2b02498b2d9",
+      "masterSha256": "556663987b0d30b60989763e3c8747ee3008c703194810bea05451bf04bcf0a3",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p065-redibujo12-v2.png",
+      "selectedAttempt": "c13_p065_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p065_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p064-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p050-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 65” once in black serif upper-left on the ivory top strip. Exactly eight panels, four rows of two panels of equal width, read left to right then down. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Immediately preceding page. Match the Chapter 12 paint texture and figurative adult design. Daphne golden blonde with a longer face, her daughter with round face and golden curls; match their turquoise outfits, the short tight black curls and dark complexion of Blaise. Match daylight and water colors.\nImage 2: Use only the faces of Draco, Astoria and platinum-haired Scorpius. These are a separate couple and child. Their beachwear changes in page 65. Astoria keeps her hair and head scarf.\nImage 3: Use only the real consistent two-mast boat, rocky shoreline and gangway position. The sequence uses different camera angles near the same boat. Clothing and dialogue come from this prompt.\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone.\nFamily day at the cove shown in natural candid medium and wide story poses. All swim outfits are standard opaque swim clothing. Reproduce the familiar natural adult expressions from the previous pages and the distinct child facial designs. Use a clean restrained warm palette, natural wet hair, and Spanish text only in panels 3, 4 and 7.\n\nPanel 1. Daphne on a low sunlit rock, long damp golden-blonde hair over one shoulder, opaque turquoise family one-piece, holding Arianna wrapped securely between her legs. Arianna has golden damp curls, blue eyes and opaque turquoise toddler one-piece, her two small palms have just made their first successful clap. Daphne bends to kiss the top of the curls. No text.\n\nPanel 2. Draco waits on the SAME yacht side deck where Blaise stood. He has steel-blue eyes, pale platinum swept hair, slightly sun-pink shoulders and cream opaque swim shorts. That morning's striped shirt, now taken off, is folded on the rail. He looks across the gangway toward his family. Balanced medium shot. No text.\n\nPanel 3. Astoria has dark brown wavy hair, dark defined brows, steel-gray blue eyes, patterned ocher scarf tied behind the head and rust opaque one-piece. She is securely sitting at the low end of the wooden gangway, Scorpius upright on her lap, platinum tuft, blue-gray eyes, light gray swim shorts. Astoria supports his trunk with one arm and gently waves his ONE raised little hand with the other. Both look up toward the yacht, balloon points to Astoria. Spanish balloons in order, exact wording: Astoria says “Ahora viene papá.”\n\nPanel 4. Spatial reverse view to reveal that the gangway connects rock to yacht deck: dark-haired Astoria and platinum Scorpius in the foreground, their own relative positions carried over. Draco is on the taller side deck in the distance sending them a kiss with two fingers in front of his lips. Only Astoria speaks. Put the tail of Míralo on the foreground mother, visibly away from Draco. Spanish balloons in order, exact wording: Astoria says “Míralo.”\n\nPanel 5. Draco alone dives from the left yacht deck, two feet high and nearest the left rail, two arms stretched diagonally down RIGHT toward open water and head following his hands. Cream shorts and platinum hair. No rocks or other person in trajectory. Yacht attached gangway farther behind and to the right outside his trajectory. No text.\n\nPanel 6. Astoria stays seated in the exact same place, Scorpius supported on her lap. With gentle hands she guides his little hands through a clap. Both look toward the thin line of foam several meters ahead in the water. No text.\n\nPanel 7. Tight shot of the two adults at the surface, Blaise on LEFT same dark complexion and very short tight black curls, Draco on RIGHT same pale swept-back damp platinum, each visible only once, both smiling. Order of balloons upper-left to Blaise and right to Draco. Spanish balloons in order, exact wording: Blaise says “¿Carrera hasta las rocas?” Draco says “Cuando quieras.”\n\nPanel 8. Wide waterline view. One Blaise and one Draco have started a freestyle race toward the low pale rocks, Draco visibly just ahead to the right and nearer the target. Natural separate arms and splashes. An anchored dark timber and maritime-navy ketch behind them has two upright masts above deck, sails tied tight, three round brass portholes, short rope gangway to rock, bright calm background. One yacht. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3522b614-d7e2-49b8-b995-48421c3987fa.png"
+        },
+        {
+          "name": "c13_p065_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3522b614-d7e2-49b8-b995-48421c3987fa.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Targeted repair to images of two panels of this existing complete Spanish comic. Output the entire 1024×1536 page again in exactly the same composition with eight panels and header «Capítulo 13 · 65». Preserve all other panels, exact text and spelling «Ahora viene papá.», «Míralo.», «¿Carrera hasta las rocas?», «Cuando quieras.», their balloons and tails. Keep same visual style. PANEL 1 top-left: Daphne is the mother kissing Arianna's golden curls; erase the small blue pendant beneath Daphne's throat, make the visible area just her usual skin above her turquoise swimsuit; keep safely held Arianna and their individually recognizable faces, and recreate her two little palms clearly touching. The blue sapphire belongs to Hermione and nobody wears it here. PANEL 5 third row left: the same single dark navy yacht from Image 2. One exterior section of its tall navy hull left of Draco, whose two feet are visibly nearest its rail and whose two straight arms and head are aimed diagonally down-right towards uninterrupted open blue water. Remove the illusion of a second hull just behind or beneath the diver. A distant rocky coast is visible far behind only. Reproduce the cream shorts, exact platinum-haired face, and the graceful believable dive of the input. Preserve every remaining panel pixel composition. No other changes. Retain shadows and linen grain on this family comic.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0c8cac6b-183f-4ada-ac51-b3bf799d01c8.png"
+        }
+      ]
+    },
+    {
+      "page": 66,
+      "original": "paginas/c13-p066.webp",
+      "image": "paginas/c13-p066-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        635,
+        636
+      ],
+      "summary": "Draco gana la carrera. Las bromas se convierten en salpicaduras que también divierten a Arianna y Scorpius, antes de que la familia se turne para seguir nadando.",
+      "panels": [
+        {
+          "scene": "Close to a single low pale rock, Draco has reached it first and touches it with his open hand while he looks back over his shoulder at Blaise swimming several meters behind him. Draco platinum and pale peach, Blaise dark brown complexion and very short black tight coils. Speech tail points to Draco in foreground.",
+          "dialogue": [
+            "Draco: No recordaba que fueras tan lento."
+          ]
+        },
+        {
+          "scene": "Both now at the SAME low rock about waist to chest deep. Blaise at left has both forearms resting across the smooth edge and catches his breath. Draco at right laughs at him; only Blaise talks, with one wide legible balloon holding both sentences. Faces natural and recognizable, wet hair.",
+          "dialogue": [
+            "Blaise: Sigo siendo más guapo. Hay que permitir que los demás conserven alguna ventaja."
+          ]
+        },
+        {
+          "scene": "Draco at right laughs and playfully throws water in Blaise's direction with the single open hand at end of his visible extended arm. Blaise at left smiling and wincing from the arc of droplets. Keep dry coast and one anchored yacht distant. No other foreground figure."
+        },
+        {
+          "scene": "Blaise uses BOTH separate hands to throw a bigger arc of seawater. Some little droplets reach Daphne and Arianna, at right on the low pale smooth rock. Daphne turquoise opaque swimsuit with long blond hair, supports Arianna upright with both arms around her middle; Arianna golden wet hair and simple turquoise baby suit, kicking and laughing. Clear hands and feet, face away from splash."
+        },
+        {
+          "scene": "Repeat established low gangway seat from previous page: Astoria in her rust swimsuit, patterned orange ocher head scarf and waist-length dark waves, smiling. Adult securely supports platinum-haired gray-blue-eyed Scorpius on her lap. Scorpius in light gray opaque swim shorts laughs, his feet near the water. The gangway is intact and solidly attached to the yacht in background."
+        },
+        {
+          "scene": "Draco on right reaches with his only visible left arm to touch Blaise's near shoulder. Blaise on left turned toward the side containing the babies, with a playful surprised look, losing footing into shallow water. Clearly connected realistic adult forearm and open hand over distinct shoulder. Friendly play."
+        },
+        {
+          "scene": "Same two men, Blaise having surfaced laughs and returns a gentle splash. Draco swimming away to the right and stays in the same recognizable cream shorts, Blaise in the navy shorts. Cropped mid-wide so knees and legs remain below the water."
+        },
+        {
+          "scene": "Last wide panel: afternoon advancing, the group in different positions just at the low shoreline. Pansy in black opaque two-piece, angular face, black chin-bob, single gold barrette above her left ear, black sunglasses, thin platinum bracelet at LEFT wrist, bare fingers and ears, seated on low rock with chestnut curly green-eyed Robin in blue yellow-duck shorts securely supported between her legs. Olive-suited chestnut messy-bunned Hermione with her ONE blue sapphire necklace and her one left ring-finger diamond, sits next to her. Daphne in turquoise with little golden curly Arianna still on her own lap. In distance of same frame Astoria sits on wooden gangway and supports platinum Scorpius. One navy two-mast boat with tightly furled beige sails, water and shore. Exactly three different babies, each in one place. Natural reading scale and recognizable faces."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 66\n\nDraco gana la carrera. Las bromas se convierten en salpicaduras que también divierten a Arianna y Scorpius, antes de que la familia se turne para seguir nadando.\nDraco: No recordaba que fueras tan lento.\nBlaise: Sigo siendo más guapo. Hay que permitir que los demás conserven alguna ventaja.",
+      "review": "Cotejados PDF635–636, texto íntegro y turnos de Draco y Blaise. Tres bebés diferenciados y siempre sostenidos por Pansy, Daphne y Astoria. Se eliminó el velero duplicado y el brazalete de la muñeca incorrecta en la viñeta de cierre. Se conserva la anatomía de manos y brazos en el juego.",
+      "reviewDate": "2026-11-22",
+      "sha256": "60fc2c3a0cb41b8921524b60fe4aefff886f52397824a9bc7fad4e172704e100",
+      "masterSha256": "052a59cc6da30ceeea339e69820eed2b89e909abda6a07b34fe5a7de66f083f2",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p066-redibujo12-v2.png",
+      "selectedAttempt": "c13_p066_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p066_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p065-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p064-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 66” once in black serif upper-left on the ivory top strip. Exactly eight panels, four rows with two each; give the last panel sixty percent of the bottom row so all its faces are legible. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Immediately preceding paneling, recognize Blaise by short close packed black coils and deep complexion; Draco pale platinum and cream shorts. Match Astoria scarf and precise safe carrier. Keep portholes, plank bridge and low rocks.\nImage 2: Use for Hermione, Pansy, Robin; for Daphne holding Arianna and every relevant swimsuit shape. Same art.\nImage 3: Only for overall construction of single yacht connected to low rock by secure short gangway. Exact canvas-style brush detail from reference.\nSAME calm turquoise Li Galli family cove/bright sun/LOW smooth pale rocks, anchored NAVY hull/DARK WOOD/WHITEtrim/BRONZE TWO-MAST Sangermani ketch, ALL IVORY SAILS FURLED, stable WOOD-PLANK/paleROPE gangway to LOW rock, FOUR SMALL mature elfcrew TAUPElinen/visors. Everyday family swimming/beachwear with natural bodies, no body-focused framing. H: chestnutMESSYBUN/freckles/BROWNeyes/BLACKsunglasses/OLIVE ONE-PIECE/frontal BLUEsapphire-platinumchain/ONEclearhalo diamond LEFT RINGFINGER/BAREwrists. P: original BLACK CHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK TWO-PIECE/LEFT WHITEGOLD HRPchain/PLAINfingers NO rings/gems/BAREears. Her BLACK beachshirt and Robin CREAM-BLUEhat stay DRYROCK. Robin HUMAN chestnutWETcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/nohat/glasses. Daphne LONGWETBLONDE/BLUEeyes/TURQUOISE ONE-PIECE. Arianna HUMAN LIGHTER GOLDENwetcurls/BLUEeyes/TURQUOISE babyonepiece/nohat/glasses/bows. Blaise DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses, ONE NAVY captainhat goldemblem DRYDECK until639later. Draco PLATINUM/STEELGRAYBLUEeyes/CREAMswimshorts/no glasses, slightly pink normal shoulders/chest. Astoria LONGDARKBROWN/STEELGRAYBLUE/earthscarf tiedbehind/TERRACOTTA ONEPIECE (color inference). Scorpius HUMAN PLATINUMtuft/STEELGRAYBLUEeyes/GRAYswimshorts (inference)/no glasses. Babies smooth human skin/natural fingers/limbs, hips covered in swimwear; never toy/fabric skin. Every infant securely supported with face ABOVE water, source handovers only as panels specify. Stage selected people instead of crowding/cloning everyone.\nUse bubbles only in panels 1 and 2. Match real poses, hands, and wet hair; the final panel maintains carrier positions immediately before the handover in the next page.\n\nPanel 1. Close to a single low pale rock, Draco has reached it first and touches it with his open hand while he looks back over his shoulder at Blaise swimming several meters behind him. Draco platinum and pale peach, Blaise dark brown complexion and very short black tight coils. Speech tail points to Draco in foreground. Spanish balloons in order, exact wording: Draco says “No recordaba que fueras tan lento.”\n\nPanel 2. Both now at the SAME low rock about waist to chest deep. Blaise at left has both forearms resting across the smooth edge and catches his breath. Draco at right laughs at him; only Blaise talks, with one wide legible balloon holding both sentences. Faces natural and recognizable, wet hair. Spanish balloons in order, exact wording: Blaise says “Sigo siendo más guapo. Hay que permitir que los demás conserven alguna ventaja.”\n\nPanel 3. Draco at right laughs and playfully throws water in Blaise's direction with the single open hand at end of his visible extended arm. Blaise at left smiling and wincing from the arc of droplets. Keep dry coast and one anchored yacht distant. No other foreground figure. No text.\n\nPanel 4. Blaise uses BOTH separate hands to throw a bigger arc of seawater. Some little droplets reach Daphne and Arianna, at right on the low pale smooth rock. Daphne turquoise opaque swimsuit with long blond hair, supports Arianna upright with both arms around her middle; Arianna golden wet hair and simple turquoise baby suit, kicking and laughing. Clear hands and feet, face away from splash. No text.\n\nPanel 5. Repeat established low gangway seat from previous page: Astoria in her rust swimsuit, patterned orange ocher head scarf and waist-length dark waves, smiling. Adult securely supports platinum-haired gray-blue-eyed Scorpius on her lap. Scorpius in light gray opaque swim shorts laughs, his feet near the water. The gangway is intact and solidly attached to the yacht in background. No text.\n\nPanel 6. Draco on right reaches with his only visible left arm to touch Blaise's near shoulder. Blaise on left turned toward the side containing the babies, with a playful surprised look, losing footing into shallow water. Clearly connected realistic adult forearm and open hand over distinct shoulder. Friendly play. No text.\n\nPanel 7. Same two men, Blaise having surfaced laughs and returns a gentle splash. Draco swimming away to the right and stays in the same recognizable cream shorts, Blaise in the navy shorts. Cropped mid-wide so knees and legs remain below the water. No text.\n\nPanel 8. Last wide panel: afternoon advancing, the group in different positions just at the low shoreline. Pansy in black opaque two-piece, angular face, black chin-bob, single gold barrette above her left ear, black sunglasses, thin platinum bracelet at LEFT wrist, bare fingers and ears, seated on low rock with chestnut curly green-eyed Robin in blue yellow-duck shorts securely supported between her legs. Olive-suited chestnut messy-bunned Hermione with her ONE blue sapphire necklace and her one left ring-finger diamond, sits next to her. Daphne in turquoise with little golden curly Arianna still on her own lap. In distance of same frame Astoria sits on wooden gangway and supports platinum Scorpius. One navy two-mast boat with tightly furled beige sails, water and shore. Exactly three different babies, each in one place. Natural reading scale and recognizable faces. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1a1bf0aa-ab66-4bbc-b0ee-23bf9d068f45.png"
+        },
+        {
+          "name": "c13_p066_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-1a1bf0aa-ab66-4bbc-b0ee-23bf9d068f45.png"
+          ],
+          "prompt": "Make only two highly targeted corrections within the lower-right wide eighth panel of this completed Spanish family comic. Output the whole same 1024×1536 page with all eight panels. Keep artwork, figures and dialogue 1–7 unchanged, including exact text «No recordaba que fueras tan lento.» and «Sigo siendo más guapo. Hay que permitir que los demás conserven alguna ventaja.» and header «Capítulo 13 · 66». In the very last panel, keep the yacht segment up in the upper right, behind seated Astoria and the solid wooden gangway she is sitting on. This is the one and only boat in this scene and its bridge reaches to low rock near bottom right. REMOVE the distant whole yacht at the UPPER LEFT of that last panel, along with its second small gangway. Replace just that distant yacht and its little duplicate gangway with empty blue water and the natural rocky coast in the far distance. That portion of the last panel observes open water. No need to reproduce the boat twice. Keep all six people, correct two adults and three children positions and all individual faces, do not add people. In this same last panel, erase the little silver bracelet on Pansy's screen-left near forearm (she supports Robin). Her lone delicate silver chain is on her anatomical LEFT wrist partly behind Robin. If that wrist is obscured the chain is not visible. No other changes to people, faces, swim clothing, shading, hands, water, gestures, shadows or the artwork. Keep the other seven panels the same.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-17334112-01af-4c0b-8e1a-fe1036eaa640.png"
+        }
+      ]
+    }
+  ]
+}
