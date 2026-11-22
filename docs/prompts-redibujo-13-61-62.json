@@ -1,0 +1,193 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 61,
+  "end": 62,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 61,
+      "original": "paginas/c13-p061.webp",
+      "image": "paginas/c13-p061-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        631
+      ],
+      "summary": "Hermione prepara a Robin para nadar con el bañador azul de patitos. Pansy ayuda mientras el pequeño juega con sus pies; después ambas terminan de extenderle la poción protectora.",
+      "panels": [
+        {
+          "scene": "An adult Hermione kneels on the cream deck cushions and opens her own pale canvas bag to show the little blue shorts in her hands, yellow ducks clearly printed. Robin still in brown-and-cream striped shirt and shorts, one on his secure cushion beside Pansy. Sandals beside him. Small glimpse of furled sails and wide stable gangway beyond rail. Silent."
+        },
+        {
+          "scene": "Next clothed moment already in his blue duck-print swim shorts. Robin laughs and holds one little foot with both hands while Hermione lightly straightens the outer hem. Put his previous striped shirt and shorts in a small folded stack at the far edge. Pansy on right smiles, dark bob and gold clip. Safe natural seated limbs, parents from shoulders to lap."
+        },
+        {
+          "scene": "Hermione on left looks up at smiling child and asks for the one leg. Robin in his duck-print blue shorts playfully offers his other foot. Emphasize expressive faces and one natural partially cropped knee and hands. A full correctly tailed balloon from Hermione alone.",
+          "dialogue": [
+            "Hermione: Necesito esa pierna. Cuanto antes terminemos, antes podrás entrar al agua."
+          ]
+        },
+        {
+          "scene": "Pansy on right steadies Robin in his duck swim shorts with her one blue-sleeved arm around his upper torso or back, left quiescent bracelet and fingers plain if visible. Hermione at left neatens the hem while Robin toys with the small navy drawstring. Each human hand has a visibly complete connection to its own wrist, distinct scale, no extra extremity. Calm and routine gesture. No text."
+        },
+        {
+          "scene": "Three expressions from same seated place, little Robin laughs and lifts one hand in finished blue swim shorts, Hermione speaks amusedly in olive, Pansy laughs in blue with bob. Keep single complete balloon pointing to Hermione; wide enough for every word. No glass.",
+          "dialogue": [
+            "Hermione: No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla."
+          ]
+        },
+        {
+          "scene": "Hermione pauses to open a small plain off-white bottle of sunblock from beige bag, practical shape and no logo. Robin still securely seated in his usual opaque blue duck shorts and looks at her, Pansy stays aside. One full balloon with tail to olive Hermione.",
+          "dialogue": [
+            "Hermione: Todavía falta el protector solar."
+          ]
+        },
+        {
+          "scene": "Ordinary sunscreen application to Robin's forearm and shoulder. Look primarily at the child's green eyes and curious face. Hermione has subtle tiny pale streak of lotion on fingertips, Pansy supports Robin near his upper back. His blue shorts with yellow ducks remain in view in the lower corner and he stays on fixed cushion. Soft matte skin, no fabric texture on body. No words."
+        },
+        {
+          "scene": "Sunscreen already applied to little arm. Robin's little hand rises and Pansy gently catches it before he reaches his mouth, touching a brief affectionate kiss to his knuckles. Hermione makes one concise remark, correct balloon tail to her olive shoulder and face only. Use simple face-level safe composition and clear baby fingers. The women remain dressed exactly as before and Robin retains opaque duck shorts and seat. No adult drink anywhere.",
+          "dialogue": [
+            "Hermione: Eso no se come."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 61\n\nHermione prepara a Robin para nadar con el bañador azul de patitos. Pansy ayuda mientras el pequeño juega con sus pies; después ambas terminan de extenderle la poción protectora.\nHermione: Necesito esa pierna. Cuanto antes terminemos, antes podrás entrar al agua.\nHermione: No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla.\nHermione: Todavía falta el protector solar.\nHermione: Eso no se come.",
+      "review": "Página completa cotejada con PDF631. Cuatro parlamentos exactos. Se mantiene el cojín de la misma cubierta, el bolso, la ropa marrón inicial y el bañador azul con patitos después del cambio presentado entre viñetas. Robin tiene ojos verdes, piel y apoyo humanos. La escena de protector conserva sus gestos y el escenario solo muestra el agua y las rocas detrás de la borda. Se revisaron las joyas y la oreja de Pansy.",
+      "reviewDate": "2026-11-22",
+      "sha256": "f65592310212440e1ccf6e58883ae4ae776766b57c35aa6a4e2013ab399cd4de",
+      "masterSha256": "f181db3dfe237a4d951c08e805c40cf2f1a27074e9d491cc4e366b57f313eebb",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p061-redibujo12-v3.png",
+      "selectedAttempt": "c13_p061_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "protector"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p061_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p057-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p056-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 61” once in black serif upper-left on the ivory top strip. Exactly EIGHT panels in FOUR equal rows of two panels, with comfortable space for four correctly pointed speech balloons. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Bottom family scene for the exact face and scale of green-eyed human Robin and both women, fixed cream cushion, tan bag if visible and folded baby glasses. Same illustrated style. No old words.\nImage 2: Match character faces and specific permanent jewelry on their left hands, in the first two women. Olives for Hermione, sky blue for Pansy, both retain the exact same clothes under shade. No lettering from this page.\nImage 3: The actual approved ship anchored in the same quiet cove, the two furled sails, varnished rails and fixed planked landing tucked into the low rock from the same deck gate. This is background only where in view, and not a second vessel.\nQuiet, ordinary family preparation for swimming in morning sunshine on a moored classic wooden sailboat. People stay aboard, on one fixed cream cushion within deck rails. Hermione recognizable freckled chestnut curly messy bun, rounded cheeks and brown eyes behind black sunglasses. Olive green opaque rolled-sleeve linen, cream shorts, single blue oval sapphire and only one diamond on her anatomical LEFT ring finger. Pansy angular jaw, black asymmetric chin-length bob that covers earlobes, slim gold clip over LEFT ear, black sunglasses, pale blue opaque linen and cream shorts. Thin silver LEFT wrist bracelet only, her fingers all bare. Robin small human child, own curled chestnut hair, green eyes, normal natural unexaggerated body and fingers. His little sunglasses are folded on cushion, not on nose. Pale sand canvas bag near adults. First panel brown fine-white-striped linen set; all subsequent panels he is already comfortably wearing his opaque bright blue swim shorts with tiny yellow ducks. His clothes change between panels, with illustration focused on faces and family caregiving in appropriate beach attire. He is still on his stable cushion. No other guests needed.\nKeep everyday courteous gestural framing, especially all kids and adults in their normal opaque swim or boat clothes and accurately supported. No picture of changing garments. Keep all four exact speech balloons and title, and only one Robin per panel.\n\nPanel 1. An adult Hermione kneels on the cream deck cushions and opens her own pale canvas bag to show the little blue shorts in her hands, yellow ducks clearly printed. Robin still in brown-and-cream striped shirt and shorts, one on his secure cushion beside Pansy. Sandals beside him. Small glimpse of furled sails and wide stable gangway beyond rail. Silent. No text.\n\nPanel 2. Next clothed moment already in his blue duck-print swim shorts. Robin laughs and holds one little foot with both hands while Hermione lightly straightens the outer hem. Put his previous striped shirt and shorts in a small folded stack at the far edge. Pansy on right smiles, dark bob and gold clip. Safe natural seated limbs, parents from shoulders to lap. No text.\n\nPanel 3. Hermione on left looks up at smiling child and asks for the one leg. Robin in his duck-print blue shorts playfully offers his other foot. Emphasize expressive faces and one natural partially cropped knee and hands. A full correctly tailed balloon from Hermione alone. Spanish balloons in order, exact wording: Hermione says “Necesito esa pierna. Cuanto antes terminemos, antes podrás entrar al agua.”\n\nPanel 4. Pansy on right steadies Robin in his duck swim shorts with her one blue-sleeved arm around his upper torso or back, left quiescent bracelet and fingers plain if visible. Hermione at left neatens the hem while Robin toys with the small navy drawstring. Each human hand has a visibly complete connection to its own wrist, distinct scale, no extra extremity. Calm and routine gesture. No text. No text.\n\nPanel 5. Three expressions from same seated place, little Robin laughs and lifts one hand in finished blue swim shorts, Hermione speaks amusedly in olive, Pansy laughs in blue with bob. Keep single complete balloon pointing to Hermione; wide enough for every word. No glass. Spanish balloons in order, exact wording: Hermione says “No sé cómo puedes ser tan pequeño y dificultar tanto una tarea tan sencilla.”\n\nPanel 6. Hermione pauses to open a small plain off-white bottle of sunblock from beige bag, practical shape and no logo. Robin still securely seated in his usual opaque blue duck shorts and looks at her, Pansy stays aside. One full balloon with tail to olive Hermione. Spanish balloons in order, exact wording: Hermione says “Todavía falta el protector solar.”\n\nPanel 7. Ordinary sunscreen application to Robin's forearm and shoulder. Look primarily at the child's green eyes and curious face. Hermione has subtle tiny pale streak of lotion on fingertips, Pansy supports Robin near his upper back. His blue shorts with yellow ducks remain in view in the lower corner and he stays on fixed cushion. Soft matte skin, no fabric texture on body. No words. No text.\n\nPanel 8. Sunscreen already applied to little arm. Robin's little hand rises and Pansy gently catches it before he reaches his mouth, touching a brief affectionate kiss to his knuckles. Hermione makes one concise remark, correct balloon tail to her olive shoulder and face only. Use simple face-level safe composition and clear baby fingers. The women remain dressed exactly as before and Robin retains opaque duck shorts and seat. No adult drink anywhere. Spanish balloons in order, exact wording: Hermione says “Eso no se come.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a75b3d57-6d80-4c9d-b620-31f5442f6014.png"
+        },
+        {
+          "name": "c13_p061_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a75b3d57-6d80-4c9d-b620-31f5442f6014.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/cala-fondo-sin-velero.png"
+          ],
+          "prompt": "Use case: precise-object-edit, background continuity. Return the complete illustrated 1024×1536 page from Image 1 with its exact “Capítulo 13 · 61” heading, eight panels, four balloons and same fully dressed family and baby in normal swim outfit as shown.\n\nIMPORTANT spatial continuity: The three people are sitting together inside this ONE boat on the cream shipboard seat. The nearby varnished guardrail and any near sidewood are their own real boat. The repeated full navy yacht, booms and wooden bridge out in the distance behind the family are accidental copies. PAINT OUT every distant full yacht, distant navy hull, distant booms and distant gangway in every one of the eight panels. Repaint the entire strip of scenery beyond the NEAR brass-and-wood rail as uninterrupted turquoise sea, pale tan rocks with green vegetation of the same quiet cove, soft blue sky and gentle haze. Use Image 2 only for these water and rock colors. No nearby boat outside the rail at all. Keep the existing near shipboard railing, all deck and cream seat in the foreground and a few short rigging lines where they attach to the near rail. Their own boat and gangway just continue off-panel and are not visible from this close camera view.\n\nPreserve EXACT body position, normal infant swimwear, curved cushion outlines, recognizable faces and head shapes, clothes, fingers, physical support, text, accents, opening Spanish question punctuation, gestures and all four dialogue balloons. Pansy's black hair frames the cheek and she has bare matte ears, no bright ear spots or studs; preserve her gold hair clip above ear and silver left bracelet. Nothing about the story or character posing should change. No extra text. Keep the original borders and dimensions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5d390a5c-1a21-4ec3-aa7f-9ccaa48d8c6e.png"
+        },
+        {
+          "name": "c13_p061_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5d390a5c-1a21-4ec3-aa7f-9ccaa48d8c6e.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/p061-v2-pansy.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Return the entire exact page “Capítulo 13 · 61” from Image 1, 1024×1536. Sole little change in the BOTTOM RIGHT panel only, guided by the crop in Image 2.\nPansy, the woman with black chin-length bob and sky-blue shirt on the right, has a tiny bright round white stud on the exposed low earlobe beneath the gold hair barrette. Replace that little round bright dot and its surrounding shine with uninterrupted soft matte skin. Let her existing black bob cover the lower part of the earlobe naturally, while keeping her original cheek, glasses and jaw visible. The whole exposed ear is plain, with no white, gold or silver mark. Keep the existing gold barrette at the top of her hair; it is NOT the stud to remove. Keep exactly that closed ordinary family gesture, her arms, cuffs, the bracelet, the child's safe opaque shorts and all eight panels.\nPreserve every word, accent, layout, contour, head, eye color, linen color and boat background, especially the already corrected natural water and island rocks outside the near rail. No other photo alteration, text or extra figure.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-de3f17c0-1f57-4d52-91c4-4625388536a2.png"
+        }
+      ]
+    },
+    {
+      "page": 62,
+      "original": "paginas/c13-p062.webp",
+      "image": "paginas/c13-p062-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        632
+      ],
+      "summary": "Las bromas sobre la poción terminan con una mancha en la mejilla de Pansy. Hermione la extiende y las dos comparten un breve beso antes de que Pansy baje a cambiarse.",
+      "panels": [
+        {
+          "scene": "Wide warm family shot at seat. Pansy LEFT speaks, Robin safely seated in middle looks up, Hermione RIGHT in olive holding the small blank bottle. Give all three exact balloons room: Pansy's longer one upper left with short tail pointing to blue shirt woman, Hermione's short reply upper right with tail toward olive shirt woman, and finally Pansy's second short balloon lower LEFT pointing unmistakably to Pansy. Word-for-word all exact dialogue with Spanish accents.",
+          "dialogue": [
+            "Pansy: Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.",
+            "Hermione: Solo hasta que esté protegido.",
+            "Pansy: Exactamente lo que acabo de decir."
+          ]
+        },
+        {
+          "scene": "Robin laughs while Pansy playfully bends near to tickle his side with her fingertips in an ordinary affectionate family moment, and his small sunscreen-streaked hand lightly touches her cheek, leaving two bright soft white marks. Hermione in olive smiles. Keep the frame medium-wide at faces and hands and keep Robin fully secure in his swimsuit. One child only, no text."
+        },
+        {
+          "scene": "Pansy in sky-blue sits back, little marks of pale lotion clearly visible on her cheek. Hermione points playfully and speaks with the one full short balloon. Robin remains supported separately at the edge if seen, still riding his cushion, gentle lighting from the cove.",
+          "dialogue": [
+            "Hermione: Ahora tú también necesitas limpiarte."
+          ]
+        },
+        {
+          "scene": "Pansy LEFT in blue and bare ears speaks while Hermione RIGHT in olive uses one naturally connected left hand to spread the small sunscreen smudge off one cheek, with her own diamond clearly on Olive cuff left ring finger. Two exact short balloons, first Pansy upper-left, then Hermione upper-right. Keep face and finger shapes naturally bounded.",
+          "dialogue": [
+            "Pansy: Podrías haber utilizado una toalla.",
+            "Hermione: Habría retirado la poción en lugar de extenderla."
+          ]
+        },
+        {
+          "scene": "Same two women respectfully discussing from medium closeup. Pansy in blue at left follows with her complete teasing line. Hermione at right smiles confidently and replies. Keep both shoulders and their usual dark lens shapes, freckles and jawlines. Two ordered correctly tailed balloons. Baby is off-camera on nearby fixed cushion.",
+          "dialogue": [
+            "Pansy: Y habrías desperdiciado una excelente oportunidad para tocarme.",
+            "Hermione: No necesito encontrar un pretexto para tocarte."
+          ]
+        },
+        {
+          "scene": "Only the two women in a brief fully clothed and simple affectionate closed-mouth kiss, framed at faces and shoulder height with both arms resting naturally out of this crop. Their separate hair and shirt colors and the boat rail remain as before. No baby in the frame or additional words."
+        },
+        {
+          "scene": "Pansy at right gives Hermione's offered olive-cuffed left wrist a small affectionate kiss while saying her own complete goodbye line. The blue cuff's hand supporting the olive wrist has only a fine bracelet, no rings; the olive hand has one diamond only. One clear tail points to the BLACK BOB blue shirt Pansy on right.",
+          "dialogue": [
+            "Pansy: Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré."
+          ]
+        },
+        {
+          "scene": "Wide parent-and-child shot: Pansy leans kindly to kiss Robin's forehead with closed mouth, still completely in blue linen and cream shorts, then is about to leave toward the familiar wooden passage in the background. Hermione stays very close to Robin on the fixed cushion, both fully and appropriately dressed. Sand canvas bag beside Hermione. No text and no wardrobe change."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 62\n\nLas bromas sobre la poción terminan con una mancha en la mejilla de Pansy. Hermione la extiende y las dos comparten un breve beso antes de que Pansy baje a cambiarse.\nPansy: Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.\nHermione: Solo hasta que esté protegido.\nPansy: Exactamente lo que acabo de decir.\nHermione: Ahora tú también necesitas limpiarte.\nPansy: Podrías haber utilizado una toalla.\nHermione: Habría retirado la poción en lugar de extenderla.\nPansy: Y habrías desperdiciado una excelente oportunidad para tocarme.\nHermione: No necesito encontrar un pretexto para tocarte.\nPansy: Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré.",
+      "review": "Ocho paneles y nueve parlamentos cotejados visualmente con PDF632 y OCR. Se preservan la salida de Pansy, las marcas de protector y los gestos familiares. Se corrigió la distribución de joyas, la continuidad del tabique de madera y la ropa en cubierta. Robin sigue en su cojín con bañador azul de patitos.",
+      "reviewDate": "2026-11-22",
+      "sha256": "6e2b24dfbc39e4b8c5ccbb49bac0951189c115dc80bce43204f74ae98a3983b0",
+      "masterSha256": "0b09a6527d008cb272fb6020adda782d686d5637dddd0e84204e0eafb61c0da7",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p062-redibujo12-v2.png",
+      "selectedAttempt": "c13_p062_redibujo12_v2.json",
+      "ocrMissingCandidates": [
+        "tambien"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p062_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p061-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p056-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/continuacion-2026-11-08/ocr/cala-fondo-sin-velero.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 62” once in black serif upper-left on the ivory top strip. Exactly EIGHT panels in FIVE rows: full-width tall 1, panels 2 and 3, panels 4 and 5, panels 6 and 7, full-width 8. The first panel has space for all three balloons and large faces. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Exact fully dressed family scene of page 61. Same olive and blue summer clothing, same human green-eyed Robin and his opaque duck swim shorts, same one cream cushion, same pretty cove beyond the one varnished near rail. Do not copy text.\nImage 2: Left hand jewelry assignment and likeness only. Olive Hermione wears a single diamond and plain wrist; blue Pansy has bracelet and no rings. Do not copy any lettering or separate wide boat.\nImage 3: Use only the turquoise water, sandstone banks and blue light as the scenery beyond the near rail. No other vessel close up.\nOrdinary gentle family interactions on the same fixed pale cream shipboard lounge on one moored sailboat. The close background beyond its brass and wood railing is ONLY water and the familiar rocks, no duplicate boat. Hermione bright freckled cheek, chestnut messy curly bun, sapphire on chain, wide dark sunglasses, opaque olive linen shirt and cream shorts, one clear oval diamond on left ring finger, no wrist jewelry. Pansy distinct angular chin, black asymmetric chin-length bob with her hair shading bare ears, fine gold left barrette, black sunglasses, sky-blue opaque linen shirt and cream shorts, fine silver left wrist chain only, all fingers bare. Robin a small distinct human green-eyed child, short chestnut curls, same opaque blue swim shorts with little yellow ducks secured. Stay physically on the fixed seat, skin matte, human proportions and little five-finger hands. No change of wardrobe depicted.\nAll nine source speech balloons must be exact. Keep faces easily recognizable, ordinary gestures, wood rail foreground, rocks behind it. Never show the same yacht from outside behind the people, no strangers or identical baby copies.\n\nPanel 1. Wide warm family shot at seat. Pansy LEFT speaks, Robin safely seated in middle looks up, Hermione RIGHT in olive holding the small blank bottle. Give all three exact balloons room: Pansy's longer one upper left with short tail pointing to blue shirt woman, Hermione's short reply upper right with tail toward olive shirt woman, and finally Pansy's second short balloon lower LEFT pointing unmistakably to Pansy. Word-for-word all exact dialogue with Spanish accents. Spanish balloons in order, exact wording: Pansy says “Escucha a tu madre, pequeño. Si te quitas la poción, volverá a cubrirte desde el cabello hasta los pies y no podremos entrar al agua durante el resto de la tarde.” Hermione says “Solo hasta que esté protegido.” Pansy says “Exactamente lo que acabo de decir.”\n\nPanel 2. Robin laughs while Pansy playfully bends near to tickle his side with her fingertips in an ordinary affectionate family moment, and his small sunscreen-streaked hand lightly touches her cheek, leaving two bright soft white marks. Hermione in olive smiles. Keep the frame medium-wide at faces and hands and keep Robin fully secure in his swimsuit. One child only, no text. No text.\n\nPanel 3. Pansy in sky-blue sits back, little marks of pale lotion clearly visible on her cheek. Hermione points playfully and speaks with the one full short balloon. Robin remains supported separately at the edge if seen, still riding his cushion, gentle lighting from the cove. Spanish balloons in order, exact wording: Hermione says “Ahora tú también necesitas limpiarte.”\n\nPanel 4. Pansy LEFT in blue and bare ears speaks while Hermione RIGHT in olive uses one naturally connected left hand to spread the small sunscreen smudge off one cheek, with her own diamond clearly on Olive cuff left ring finger. Two exact short balloons, first Pansy upper-left, then Hermione upper-right. Keep face and finger shapes naturally bounded. Spanish balloons in order, exact wording: Pansy says “Podrías haber utilizado una toalla.” Hermione says “Habría retirado la poción en lugar de extenderla.”\n\nPanel 5. Same two women respectfully discussing from medium closeup. Pansy in blue at left follows with her complete teasing line. Hermione at right smiles confidently and replies. Keep both shoulders and their usual dark lens shapes, freckles and jawlines. Two ordered correctly tailed balloons. Baby is off-camera on nearby fixed cushion. Spanish balloons in order, exact wording: Pansy says “Y habrías desperdiciado una excelente oportunidad para tocarme.” Hermione says “No necesito encontrar un pretexto para tocarte.”\n\nPanel 6. Only the two women in a brief fully clothed and simple affectionate closed-mouth kiss, framed at faces and shoulder height with both arms resting naturally out of this crop. Their separate hair and shirt colors and the boat rail remain as before. No baby in the frame or additional words. No text.\n\nPanel 7. Pansy at right gives Hermione's offered olive-cuffed left wrist a small affectionate kiss while saying her own complete goodbye line. The blue cuff's hand supporting the olive wrist has only a fine bracelet, no rings; the olive hand has one diamond only. One clear tail points to the BLACK BOB blue shirt Pansy on right. Spanish balloons in order, exact wording: Pansy says “Voy a bajar a cambiarme antes de que todos ocupen las habitaciones. No tardaré.”\n\nPanel 8. Wide parent-and-child shot: Pansy leans kindly to kiss Robin's forehead with closed mouth, still completely in blue linen and cream shorts, then is about to leave toward the familiar wooden passage in the background. Hermione stays very close to Robin on the fixed cushion, both fully and appropriately dressed. Sand canvas bag beside Hermione. No text and no wardrobe change. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4fdaf764-4157-403a-9601-989c77388e8f.png"
+        },
+        {
+          "name": "c13_p062_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4fdaf764-4157-403a-9601-989c77388e8f.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Use case: precise-object-edit. Return the whole exact 1024×1536 comic “Capítulo 13 · 62” from Image 1, with all eight panels. Image 2 is only for the exact matching of jewelry and sleeve colors. Preserve the four-tier poses, crop, expressions and ALL nine dialogue balloons. Three small consistency changes.\n\nPanel 2, left panel of the second row, laughing Pansy in blue and Robin: repaint the thin silver band on the blue woman's finger near x=296,y=634 as plain matte skin, OR arrange that single blue-cuffed hand gently supporting the child's back instead with no finger jewelry visible. Each of Pansy's fingers has plain skin, as in the right hand reference. Keep the safe family pose, ink and exact child clothing and position.\n\nPanel 7, right panel of the fourth row, foreground hands at the bottom: the higher forearm that reaches in FROM THE LEFT of the panel starts at the OLIVE sleeve of Hermione. That top wrist is COMPLETELY BARE, so remove the small silver wrap near x=771,y=1168. Replace it with peach skin. The lower support hand belongs to Pansy, whose SKY-BLUE sleeve comes from the RIGHT. Pansy's lower wrist retains the one thin silver bracelet; no rings on any blue-cuffed finger. Hermione's own single diamond only if her left ring finger is visible. Do not add any more jewelry or a third hand.\n\nPanel 8, bottom wide view: replace the little upward-looking stairs at far right with a natural plain varnished interior partition and the upper edge of the deck's known passage going down out of frame. The deck is one continuous flat level. Keep boat rail, rocks, family faces and poses, Pansy in casual clothes, baby safely seated. No additional people or objects.\n\nEvery existing word, accent, punctuation and balloon tail is EXACT. Don't change lettering, faces, hair, shared family poses, cream cushion, sea, black panel borders, header and laid-back illustrated finish. No new text.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-dc885c6c-e428-4907-b53e-63c36c0634b6.png"
+        }
+      ]
+    }
+  ]
+}
