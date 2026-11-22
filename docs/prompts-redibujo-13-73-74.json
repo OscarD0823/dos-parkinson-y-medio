@@ -1,0 +1,196 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 73,
+  "end": 74,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 73,
+      "original": "paginas/c13-p073.webp",
+      "image": "paginas/c13-p073-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        641
+      ],
+      "summary": "La familia descansa sobre las toallas a la sombra. Gnocchi reparte bebidas frías y Pansy pregunta por Draco y Astoria, que han regresado al velero.",
+      "panels": [
+        {
+          "scene": "Establishing full-width view from a shaded dry low stone slab covered with large cream towels, across headland toward the one anchored navy ketch, with side deck and one stable wood plank gangway. On center-right golden-haired Daphne in opaque turquoise suit/cream pareo holds Arianna securely on lap, teal towel around her. Scorpius pale platinum in gray wrap leans against seated Blaise's leg on cream towel, and chestnut Robin sits between the adults in his dry ivory wrap and blue duck shorts, ONE adult navy gold captain hat still on Robin. At left Hermione and Pansy reach their shaded seats, still visible with distinct hair and appropriate olive/black swim clothes. All dry children with real human faces."
+        },
+        {
+          "scene": "At left Hermione wears olive suit and carefully dabs the chestnut curls still gathered in her high messy bun with a pale towel. Beside her Pansy short black cropped chin bob uses two separate normal hands to put on her open lightweight beach shirt over black outer swimsuit, keeps glasses. At edge on a dry rock, Robin's ivory sunhat with blue ribbon remains separate from borrowed navy one. No text."
+        },
+        {
+          "scene": "Gnocchi, a SHORT plump elderly elf in sand uniform and creamy visor, stands beside the seated group as a skilled adult. Long pointed ears and round little face unlike other crew. At same eyeline as seated Pansy, NOT adult human standing scale. He carefully balances one cold-drinks tray for Daphne and Pansy taking two orange drinks in flutes. No drink anywhere near a child. Hermione pale towel around shoulders, all still seated safely on towels."
+        },
+        {
+          "scene": "Wide shot, elf holds the same tray on his real connected forearm. Hermione receives one clear tall glass with small lemon slices; Blaise (very short black curls, navy shorts), using his own hand, accepts the last orange flute and nods to elf. The now-empty tray carries no spare drinks. Daphne and Pansy each have one orange glass placed far from unsupervised little hands. Scorpius still by Blaise's leg, Robin between the adults with same navy cap, Daphne holds Arianna teal-wrap on lap; art communicates quiet rest. One same yacht in distant background at edge. No lettering."
+        },
+        {
+          "scene": "Pansy scans toward the yacht from her seated spot on the pale towel and asks her exact line. Close neck and shoulder view with black shirt over suit, original angular black bob, black translucent lenses, gold clip anatomical LEFT. Hermione beside her with chestnut bun and olive suit, pale towel and own sapphire pendant. One clear balloon points to Pansy.",
+          "dialogue": [
+            "Pansy: ¿Dónde están Draco y Astoria?"
+          ]
+        },
+        {
+          "scene": "Daphne cradles Arianna close on her lap with an arm securely around her, and points slightly by lifting her glass in the direction of the companionway in the one yacht. One speech bubble only to golden-haired Daphne. Seen over the adults, one short plank gangway attached from rock to yacht side, no invented passengers.",
+          "dialogue": [
+            "Daphne: Subieron hace un rato."
+          ]
+        },
+        {
+          "scene": "Full-width. Blaise glances from the wooden companionway to little platinum-haired Scorpius leaning safely against his left leg; joking expression, same short black curls and dark complexion. Daphne with Arianna on lap, Pansy looking up and Hermione suppressing a smile behind her lemon glass. Only Blaise's complete long sentence in one big legible balloon in the open upper plane, tail pointing directly to his face. No Draco or Astoria shown.",
+          "dialogue": [
+            "Blaise: No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero."
+          ]
+        },
+        {
+          "scene": "Wide group rest in shade over dry pale towels. Daphne LEFT CENTER casually says her entire short line, one balloon points to her. Blaise to her right turns slowly to look at her with amused attention. Pansy black open beach shirt looks toward the yacht stairs in the distance. Hermione keeps her smile behind the clear lemon glass, no blue jewelry anywhere but her sapphire. Exactly same support positions: turquoise golden Arianna on Daphne, platinum gray Scorpius against Blaise's leg, navy captain hat chestnut Robin between them. No additional people or words.",
+          "dialogue": [
+            "Daphne: Seguramente necesitaban cambiarse."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 73\n\nLa familia descansa sobre las toallas a la sombra. Gnocchi reparte bebidas frías y Pansy pregunta por Draco y Astoria, que han regresado al velero.\nPansy: ¿Dónde están Draco y Astoria?\nDaphne: Subieron hace un rato.\nBlaise: No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero.\nDaphne: Seguramente necesitaban cambiarse.",
+      "review": "PDF641: Gnocchi conserva su aspecto y altura de elfo adulto. Daphne y Pansy reciben una mimosa cada una; Hermione sirve limón y Blaise toma la última. Los niños secos y envueltos mantienen cada posición. Pansy se pone la camisa negra después de salir del agua. Se corrigió el apoyo de la pasarela en las vistas junto a las toallas. Los cuatro diálogos permanecen completos y atribuidos.",
+      "reviewDate": "2026-11-22",
+      "sha256": "48b414cc83b3b708b675ab59cb3cab60cb847d8fdd43a85955af3dcf1c020ce0",
+      "masterSha256": "f386171f6e852266201508834e721a055037f7ed5c016e797f89496f7451a346",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p073-redibujo12-v3.png",
+      "selectedAttempt": "c13_p073_redibujo12_v3.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p073_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p072-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p070-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 73” once in black serif upper-left on the ivory top strip. Exactly eight panels in six strips. Wide panel 1 on top, then panels 2 and 3 side-by-side, then wide panel 4, then 5 and 6 side-by-side, then wide panels 7 and 8 each on its own line. Clean ivory gutters. Sunlit shore and cool-reflected shade. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Preceding scene's faces, fixed hair and swim garments. Blaise dark complexion and very short tight black curls. Daphne long golden blonde with Arianna lighter golden curls. Human children Arianna turquoise, Scorpius platinum gray, Robin chestnut with blue/yellow-ducks shorts and adult navy anchor cap. New poses and holders in page 73.\nImage 2: Hermione chestnut loose curly bun, black sunglasses, olive one-piece, one sapphire at neck and one clear diamond on LEFT ring finger. Pansy exact defined jaw, black chin-length bob, gold barrette LEFT, black sunglasses, her sole delicate H R P bracelet LEFT and all fingers plain. She regains her loose black cover-up.\nImage 3: Gnocchi is the short older plump elf with pointy ears, wide nose, warm adult wrinkled face and taupe/cream visor, shown close in panel 3 on that reference. For the navy warm timber boat and bridge. Do not copy the separate long-faced helmsman or old dialogue.\nSOURCE641: FAMILY NOW DRY/SEATED UNDER ROCK SHADE on wide LOW SMOOTH rock slab covered by CREAM towels, same LiGalli cove/TURQUOISE sea/navy-darkwood two-mast ketch ALLSAILSFURLED/stable wood-rope gangway. Four SMALL mature taupe-linen visor elfcrew elsewhere aboard; ONE Gnocchi may serve, no extra human crowd or giant crew ashore. Gnocchi is SHORT/PLUMP mature wrinkled kindelf/pointedears/smallbelly/too-largeTAUPEvisor/TAUPElinen/barefeet, sourceheight~1m, about seatedadultheadheight whenstanding, not child. H chestnutMESSYBUN/fewwetcurls/freckles/BROWNeyes/BLACKglasses/OLIVE ONEPIECE; CREAM towel dryingbun thenaroundshoulders (natural source-towel staging), sapphire MIDNIGHTBLUE/clearhalo WHITEPLATINUMchainONLYnecklace, ONEclearhalo diamond LEFT RINGFINGER/BAREwrists/no BLUEearring. P BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece and LOOSE OPEN BLACK BEACHSHIRT recovered641, LEFT WHITEGOLD HRP BRACELET ONLY/ALL FINGERS PLAIN/BAREneck-ears/noHRPnecklace. Daph LONGWETBLONDE/BLUE/TURQUOISEONEPIECE/PALECREAMpareo aroundwaist, fineGOLDchain/tinyplainGOLDpendantNOsapphire. B DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses yet. Babies HUMAN/smoothskin/natural hands-feet/no eyewear, dry and protected by SMALL PAREOS: R chestnut/GREEN/BLUEshorts-YELLOWDUCKS/CREAMsmallwrap/ONEoversizedNAVY CAPTAINHAT goldemblem FRONTBRIMfoldedUP. Ari LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit/PALETURQUOISEsmallwrap. S PLATINUMtuft/STEELGRAYBLUE/GRAYshorts/PALEGRAYsmallwrap. Wrap colors inferred tokeepdistinct/outfitsunderneath. CURRENT source641 initialpositions: Ari DAPHNE LAP, S safeonTOWEL leaningB'sLEG, Robin onTOWEL BETWEEN B&Daph, NOTDaphholding2anymore. P drawsR ontoHERLAP source642; H/PshareRbetweenthem643. All babyhandoffs explicit/scenescontrol. Adult drinks kept outsidechildreach, noinfantcup/mimosa. H NEW drink CLEARwithLEMONslices (notpeach), P/Daph/B coldORANGEmimosas/plainunbrandedcups per scene, Gnocchitray. Dialogue only ordinary seatedbanter/brief clothedaffection, natural faces/arms. Draco/Astoria offscreenLOWERCABINS, never showtheirprivateactivity.\nFour adults and exactly three babies in the scenes where all are present. Gnocchi appears only in panels 3–4. Respect the reference scale; bring his feet and pale towels into view when possible. Dry cloth wraps drape over child's usual swimsuit color; human skin, round faces and natural hands. No added logos. Only 5,6,7,8 have bubbles.\n\nPanel 1. Establishing full-width view from a shaded dry low stone slab covered with large cream towels, across headland toward the one anchored navy ketch, with side deck and one stable wood plank gangway. On center-right golden-haired Daphne in opaque turquoise suit/cream pareo holds Arianna securely on lap, teal towel around her. Scorpius pale platinum in gray wrap leans against seated Blaise's leg on cream towel, and chestnut Robin sits between the adults in his dry ivory wrap and blue duck shorts, ONE adult navy gold captain hat still on Robin. At left Hermione and Pansy reach their shaded seats, still visible with distinct hair and appropriate olive/black swim clothes. All dry children with real human faces. No text.\n\nPanel 2. At left Hermione wears olive suit and carefully dabs the chestnut curls still gathered in her high messy bun with a pale towel. Beside her Pansy short black cropped chin bob uses two separate normal hands to put on her open lightweight beach shirt over black outer swimsuit, keeps glasses. At edge on a dry rock, Robin's ivory sunhat with blue ribbon remains separate from borrowed navy one. No text. No text.\n\nPanel 3. Gnocchi, a SHORT plump elderly elf in sand uniform and creamy visor, stands beside the seated group as a skilled adult. Long pointed ears and round little face unlike other crew. At same eyeline as seated Pansy, NOT adult human standing scale. He carefully balances one cold-drinks tray for Daphne and Pansy taking two orange drinks in flutes. No drink anywhere near a child. Hermione pale towel around shoulders, all still seated safely on towels. No text.\n\nPanel 4. Wide shot, elf holds the same tray on his real connected forearm. Hermione receives one clear tall glass with small lemon slices; Blaise (very short black curls, navy shorts), using his own hand, accepts the last orange flute and nods to elf. The now-empty tray carries no spare drinks. Daphne and Pansy each have one orange glass placed far from unsupervised little hands. Scorpius still by Blaise's leg, Robin between the adults with same navy cap, Daphne holds Arianna teal-wrap on lap; art communicates quiet rest. One same yacht in distant background at edge. No lettering. No text.\n\nPanel 5. Pansy scans toward the yacht from her seated spot on the pale towel and asks her exact line. Close neck and shoulder view with black shirt over suit, original angular black bob, black translucent lenses, gold clip anatomical LEFT. Hermione beside her with chestnut bun and olive suit, pale towel and own sapphire pendant. One clear balloon points to Pansy. Spanish balloons in order, exact wording: Pansy says “¿Dónde están Draco y Astoria?”\n\nPanel 6. Daphne cradles Arianna close on her lap with an arm securely around her, and points slightly by lifting her glass in the direction of the companionway in the one yacht. One speech bubble only to golden-haired Daphne. Seen over the adults, one short plank gangway attached from rock to yacht side, no invented passengers. Spanish balloons in order, exact wording: Daphne says “Subieron hace un rato.”\n\nPanel 7. Full-width. Blaise glances from the wooden companionway to little platinum-haired Scorpius leaning safely against his left leg; joking expression, same short black curls and dark complexion. Daphne with Arianna on lap, Pansy looking up and Hermione suppressing a smile behind her lemon glass. Only Blaise's complete long sentence in one big legible balloon in the open upper plane, tail pointing directly to his face. No Draco or Astoria shown. Spanish balloons in order, exact wording: Blaise says “No puedo creer que me hayan convertido en el tío responsable mientras ellos desaparecen dentro de mi velero.”\n\nPanel 8. Wide group rest in shade over dry pale towels. Daphne LEFT CENTER casually says her entire short line, one balloon points to her. Blaise to her right turns slowly to look at her with amused attention. Pansy black open beach shirt looks toward the yacht stairs in the distance. Hermione keeps her smile behind the clear lemon glass, no blue jewelry anywhere but her sapphire. Exactly same support positions: turquoise golden Arianna on Daphne, platinum gray Scorpius against Blaise's leg, navy captain hat chestnut Robin between them. No additional people or words. Spanish balloons in order, exact wording: Daphne says “Seguramente necesitaban cambiarse.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bf7072e9-5624-484b-96ab-c5797c4ca91d.png"
+        },
+        {
+          "name": "c13_p073_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bf7072e9-5624-484b-96ab-c5797c4ca91d.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p072-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Targeted continuity correction to panels 1 and 6 of this Spanish 1024×1536 eight-panel family comic. Preserve every other panel, exact heading «Capítulo 13 · 73», title accent, speech bubbles, cast, faces, three distinct infants, towels, exact existing read order and dark ivory panel style. Panel 1 top wide: the second woman from left, black bob with black sunglasses, is Pansy. At this first moment she is dressed only in her established opaque black two-piece beach swimsuit with a simple high black top and black high-waisted swim bottoms, arms visible in normal seaside clothing, just like Image 2; because in PANEL 2 she retrieves and puts on the black overshirt, remove ONLY her open black shirt from PANEL 1, keep it from PANEL 2 onward, and make her normal seated posture and loose upper arms visible. No mature framing, family wide layout remains. Keep everyone else, dry rock, towels, golden pendant on Daphne only and blue sapphire on Hermione only, safe positioning and navy captain cap on Robin. Panel 6, right in fourth row: in background, the real single gangway of the consistent yacht shown in image 3 MUST run all the way from original deck-level opening to REST DIRECTLY and securely on the dry low rock visible at the lower-right edge of the panel. Continue the existing sloping, roped wooden plank walkway across that very tiny apparent gap by raising the low pale stone to meet its full-width end; the lower end visibly touches stone, not over the blue water. Same boat size and fixed position. Daphne and Arianna completely unchanged, only candlelight/glass background if visible, dialogue «Subieron hace un rato.» exactly. Leave all other panels as close as possible; original wording and readable accents unchanged including length of the Blaise speech in panel 7 and Pansy’s question in panel 5. Keep Gnocchi, very short taupe-visored elder elf with pointed ears, at identical scale in panels 3 and 4. No more edits.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e45f2a04-003e-4cef-8da7-ff7a38357715.png"
+        },
+        {
+          "name": "c13_p073_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-e45f2a04-003e-4cef-8da7-ff7a38357715.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Small background continuity edit only. Produce the exact same 1024×1536 page «Capítulo 13 · 73» with identical eight panels, all people, poses, cups, accents, balloons, towels and layout. Panel 6 (Daphne, top-right in row four) is now correct: the single yacht’s gangway rests securely on the dry pale rock. In the other views where it appears, ensure the very same physical connection. In panel 4 (wide strip third row), panel 7 (wide strip fifth row), and panel 8 (the bottom wide strip), show a tiny flat pale rock outcrop directly beneath the low end of the walkway just as in panel 6. The lower plank or sill meets solid dry stone across its whole width. Tiny gray occlusion shadow at interface to convey weight. Add the stone only in the small background area under the plank, or let foreground stone clearly conceal the bottom lip. Do not reposition or lengthen the gangway, do not invent a second rock island, do not redraw the boat, do not alter figures, faces, gleam, forest, fabrics or dialogue. Use the same anchored navy yacht. All other panels are already correct, including Pansy with only her swimsuit on in panel 1 and putting on her black shirt in panel 2, and the little elf Gnocchi as shown in 3 and 4. Full Spanish text from exact input readably lettered, no added words.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-cc56b399-0545-4d86-974e-c4dd1ab2889a.png"
+        }
+      ]
+    },
+    {
+      "page": 74,
+      "original": "paginas/c13-p074.webp",
+      "image": "paginas/c13-p074-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        641,
+        642
+      ],
+      "summary": "Blaise intenta proteger a los bebés de las bromas sobre sus padres. El recuerdo del agua de manantial cambia enseguida el blanco de las risas hacia Pansy.",
+      "panels": [
+        {
+          "scene": "On cream dry towels in shaded part of cove. Blaise in center, turning slowly to right to look at blonde Daphne, orange flute halted just below chest. Scorpius platinum and gray wrap leans against Blaise's leg; navy-cap chestnut Robin in pale dry wrap sits between the two adults. Turquoise-clad Daphne keeps her golden curled little Arianna safely on lap with aqua wrap. The single balloon comes from Blaise, with both little sentences.",
+          "dialogue": [
+            "Blaise: Los dos. Al mismo tiempo."
+          ]
+        },
+        {
+          "scene": "Pansy still in DARK open lightweight shirt over black suit and short angular bob, looks toward the group while Hermione in pale towel beside her leans her shoulder into Pansy laughing. One Pansy balloon with the two exact chosen sentences. Simple black shades, gold barrette at physical left. Bare fingers. Secure resting arms, no extra jewels.",
+          "dialogue": [
+            "Pansy: Draco necesita ayuda con muchas cosas. Quizá el bañador sea una de ellas."
+          ]
+        },
+        {
+          "scene": "Daphne glances at the gangway path across the cove, smiles as she answers with her whole line, tail clearly to the blonde woman. Dry golden Arianna in turquoise wrap still fully supported in her lap. Blaise (shortest black coils) sits near on left, pale Scorpius gray wrap safely beside his left leg, navy adult cap Robin on dry towel between them. No flashback or Astoria cameo.",
+          "dialogue": [
+            "Daphne: Astoria solo está siendo una novia atenta."
+          ]
+        },
+        {
+          "scene": "Blaise leans forward and very gently covers Scorpius's two ears with his own TWO distinct hands to pretend to shield him from the joke, one attached hand each side of the little platinum head. Baby sits safe against Blaise's legs on towel and raises eyebrows, gray wrap. Hand framing both attached real arms. Whole baby face uncovered and calm. Blaise is the only speaker.",
+          "dialogue": [
+            "Blaise: Hay niños presentes."
+          ]
+        },
+        {
+          "scene": "Pansy draws only one curly-haired Robin up to her lap, steadies him at waist atop towels. Robin in pale wrap and blue yellow-duck shorts reaches up to the brim of the same navy/gold adult captain hat. Pansy keeps both anatomical normal legs and her own identifiable arms, black loose cover-up and glasses, no rings. One clearly attributed speech bubble for both her sentences. Hermione smiles beside her.",
+          "dialogue": [
+            "Pansy: Robin está acostumbrado a vernos besarnos. No creo que esto vaya a preocuparle."
+          ]
+        },
+        {
+          "scene": "Wide close candid view of Daphne raising her individual adult flute slightly toward Pansy across the towels, in good humor. Long blonde waves, turquoise top, tiny gold pendant, Arianna secure on thigh sometimes cropped at bottom. Wide ivory speech balloon across quiet upper area with entire long line, legible Spanish, tail to Daphne. No one else replies in panel.",
+          "dialogue": [
+            "Daphne: Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial."
+          ]
+        },
+        {
+          "scene": "Wide group panel. Blaise with short dense close black curls laughs, looks across to Pansy, says both his complete sentences, one exact balloon clearly to him. Scorpius platinum in gray wrap supported by his side, Arianna golden on Daphne in turquoise and Robin brown curls with navy cap wrapped on Pansy's lap. Hermione has lemon glass and light cream towel. Pansy pauses with her mimosa still in her hand, all glasses safe at adult shoulder level. Candid family banter beneath mottled shade.",
+          "dialogue": [
+            "Blaise: Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía."
+          ]
+        },
+        {
+          "scene": "Wide closer view Hermione left, curls high and freckles, looks at Pansy to the right, amused, and says exact short line. Pansy blushes subtly and lowers her gaze, straightening navy/gold hat on chestnut Robin who is still dry and supported in her lap. Fingers on cap clearly connected to a single hand and adult arm, anatomically left wrist one H R P chain if shown. No jewelry on children.",
+          "dialogue": [
+            "Hermione: Sabía que era un pretexto."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 74\n\nBlaise intenta proteger a los bebés de las bromas sobre sus padres. El recuerdo del agua de manantial cambia enseguida el blanco de las risas hacia Pansy.\nBlaise: Los dos. Al mismo tiempo.\nPansy: Draco necesita ayuda con muchas cosas. Quizá el bañador sea una de ellas.\nDaphne: Astoria solo está siendo una novia atenta.\nBlaise: Hay niños presentes.\nPansy: Robin está acostumbrado a vernos besarnos. No creo que esto vaya a preocuparle.\nDaphne: Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial.\nBlaise: Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía.\nHermione: Sabía que era un pretexto.",
+      "review": "Ocho turnos íntegros cotejados con PDF641–642. Blaise sostiene a Scorpius con naturalidad y le cubre las orejas; Pansy recoge a Robin y conserva su brazalete izquierdo y el sombrero prestado. Daphne y Arianna mantienen sus rasgos y vestuario. En la escena del recuerdo hay un solo barco, con su pasarela apoyada en la roca.",
+      "reviewDate": "2026-11-22",
+      "sha256": "d73888d6376a12fd57d796cb57ee2c3dbf89484e4e4e63b0f32f6f3aa8fd4e4a",
+      "masterSha256": "4ca695f6beb395170284a6001866e4b4794edac2d2795cbf659503d86fa4850d",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p074-redibujo12-v2.png",
+      "selectedAttempt": "c13_p074_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p074_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p072-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p073.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p070-redibujo12-v3.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 74” once in black serif upper-left on the ivory top strip. Exactly eight panels, with three top rows of two each followed by full-width panels 7 and 8. In the third row, give the right panel 6 sixty percent of row width for the long line. Give panel 7 a broad clean top plane for its long printed dialogue. Proper ivory gutters, no overlapping panels. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Match exact adult faces and hair, cove, navy adult captain hat and human baby faces. Short compact coils on Blaise, long light golden waves Daphne. Platinum Scorpius gray/blue, Arianna golden in turquoise, Robin chestnut green in blue duck shorts. Now dried at shade on towels, see next ref for clothing.\nImage 2: Only for dry shaded-towel staging, glass types, three wraps and original loose black overshirt. Hermione cream towel over olive with sapphire. Pansy open black shirt, exact short black CHIN bob in prior ref. Daphne in turquoise and cream cover-up with very small gold pendant, long blond. No old Blaise hairstyle. Use adult positions from current script.\nImage 3: Exact rendered primary faces, black sun lenses, Pansy's LEFT clip and plain fingers and thin H R P LEFT wrist chain. H clear diamond LEFT ring finger and one sapphire at neck. Keep this silhouette and their two distinct head shapes, Chapter 12 brush grain.\nSOURCE641: FAMILY NOW DRY/SEATED UNDER ROCK SHADE on wide LOW SMOOTH rock slab covered by CREAM towels, same LiGalli cove/TURQUOISE sea/navy-darkwood two-mast ketch ALLSAILSFURLED/stable wood-rope gangway. Four SMALL mature taupe-linen visor elfcrew elsewhere aboard; ONE Gnocchi may serve, no extra human crowd or giant crew ashore. Gnocchi is SHORT/PLUMP mature wrinkled kindelf/pointedears/smallbelly/too-largeTAUPEvisor/TAUPElinen/barefeet, sourceheight~1m, about seatedadultheadheight whenstanding, not child. H chestnutMESSYBUN/fewwetcurls/freckles/BROWNeyes/BLACKglasses/OLIVE ONEPIECE; CREAM towel dryingbun thenaroundshoulders (natural source-towel staging), sapphire MIDNIGHTBLUE/clearhalo WHITEPLATINUMchainONLYnecklace, ONEclearhalo diamond LEFT RINGFINGER/BAREwrists/no BLUEearring. P BLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece and LOOSE OPEN BLACK BEACHSHIRT recovered641, LEFT WHITEGOLD HRP BRACELET ONLY/ALL FINGERS PLAIN/BAREneck-ears/noHRPnecklace. Daph LONGWETBLONDE/BLUE/TURQUOISEONEPIECE/PALECREAMpareo aroundwaist, fineGOLDchain/tinyplainGOLDpendantNOsapphire. B DARKskin/DARKBROWNeyes/shortBLACKtwists/NAVYshorts/BAREHEAD/no glasses yet. Babies HUMAN/smoothskin/natural hands-feet/no eyewear, dry and protected by SMALL PAREOS: R chestnut/GREEN/BLUEshorts-YELLOWDUCKS/CREAMsmallwrap/ONEoversizedNAVY CAPTAINHAT goldemblem FRONTBRIMfoldedUP. Ari LIGHTERGOLDENcurls/BLUE/TURQUOISEswimsuit/PALETURQUOISEsmallwrap. S PLATINUMtuft/STEELGRAYBLUE/GRAYshorts/PALEGRAYsmallwrap. Wrap colors inferred tokeepdistinct/outfitsunderneath. CURRENT source641 initialpositions: Ari DAPHNE LAP, S safeonTOWEL leaningB'sLEG, Robin onTOWEL BETWEEN B&Daph, NOTDaphholding2anymore. P drawsR ontoHERLAP source642; H/PshareRbetweenthem643. All babyhandoffs explicit/scenescontrol. Adult drinks kept outsidechildreach, noinfantcup/mimosa. H NEW drink CLEARwithLEMONslices (notpeach), P/Daph/B coldORANGEmimosas/plainunbrandedcups per scene, Gnocchitray. Dialogue only ordinary seatedbanter/brief clothedaffection, natural faces/arms. Draco/Astoria offscreenLOWERCABINS, never showtheirprivateactivity.\nThis is a fully clothed, relaxed family conversation on dry shaded towels. No illustrations of the referenced memories, all visualization in the immediate cove. Only these eight prescribed balloons. Exact text, especially the two long memories. If the yacht is only a distant partial background behind the group, its same navy hull and furled masts may remain at waterline and gangway hidden by the foreground dry rocks; no new boats or duplicated walkways.\n\nPanel 1. On cream dry towels in shaded part of cove. Blaise in center, turning slowly to right to look at blonde Daphne, orange flute halted just below chest. Scorpius platinum and gray wrap leans against Blaise's leg; navy-cap chestnut Robin in pale dry wrap sits between the two adults. Turquoise-clad Daphne keeps her golden curled little Arianna safely on lap with aqua wrap. The single balloon comes from Blaise, with both little sentences. Spanish balloons in order, exact wording: Blaise says “Los dos. Al mismo tiempo.”\n\nPanel 2. Pansy still in DARK open lightweight shirt over black suit and short angular bob, looks toward the group while Hermione in pale towel beside her leans her shoulder into Pansy laughing. One Pansy balloon with the two exact chosen sentences. Simple black shades, gold barrette at physical left. Bare fingers. Secure resting arms, no extra jewels. Spanish balloons in order, exact wording: Pansy says “Draco necesita ayuda con muchas cosas. Quizá el bañador sea una de ellas.”\n\nPanel 3. Daphne glances at the gangway path across the cove, smiles as she answers with her whole line, tail clearly to the blonde woman. Dry golden Arianna in turquoise wrap still fully supported in her lap. Blaise (shortest black coils) sits near on left, pale Scorpius gray wrap safely beside his left leg, navy adult cap Robin on dry towel between them. No flashback or Astoria cameo. Spanish balloons in order, exact wording: Daphne says “Astoria solo está siendo una novia atenta.”\n\nPanel 4. Blaise leans forward and very gently covers Scorpius's two ears with his own TWO distinct hands to pretend to shield him from the joke, one attached hand each side of the little platinum head. Baby sits safe against Blaise's legs on towel and raises eyebrows, gray wrap. Hand framing both attached real arms. Whole baby face uncovered and calm. Blaise is the only speaker. Spanish balloons in order, exact wording: Blaise says “Hay niños presentes.”\n\nPanel 5. Pansy draws only one curly-haired Robin up to her lap, steadies him at waist atop towels. Robin in pale wrap and blue yellow-duck shorts reaches up to the brim of the same navy/gold adult captain hat. Pansy keeps both anatomical normal legs and her own identifiable arms, black loose cover-up and glasses, no rings. One clearly attributed speech bubble for both her sentences. Hermione smiles beside her. Spanish balloons in order, exact wording: Pansy says “Robin está acostumbrado a vernos besarnos. No creo que esto vaya a preocuparle.”\n\nPanel 6. Wide close candid view of Daphne raising her individual adult flute slightly toward Pansy across the towels, in good humor. Long blonde waves, turquoise top, tiny gold pendant, Arianna secure on thigh sometimes cropped at bottom. Wide ivory speech balloon across quiet upper area with entire long line, legible Spanish, tail to Daphne. No one else replies in panel. Spanish balloons in order, exact wording: Daphne says “Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial.”\n\nPanel 7. Wide group panel. Blaise with short dense close black curls laughs, looks across to Pansy, says both his complete sentences, one exact balloon clearly to him. Scorpius platinum in gray wrap supported by his side, Arianna golden on Daphne in turquoise and Robin brown curls with navy cap wrapped on Pansy's lap. Hermione has lemon glass and light cream towel. Pansy pauses with her mimosa still in her hand, all glasses safe at adult shoulder level. Candid family banter beneath mottled shade. Spanish balloons in order, exact wording: Blaise says “Por Merlín, el agua de manantial. Entraste con tanta prisa que pensé que alguien te perseguía.”\n\nPanel 8. Wide closer view Hermione left, curls high and freckles, looks at Pansy to the right, amused, and says exact short line. Pansy blushes subtly and lowers her gaze, straightening navy/gold hat on chestnut Robin who is still dry and supported in her lap. Fingers on cap clearly connected to a single hand and adult arm, anatomically left wrist one H R P chain if shown. No jewelry on children. Spanish balloons in order, exact wording: Hermione says “Sabía que era un pretexto.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3f127c0c-5f80-4abf-bbfa-e8b694f7f869.png"
+        },
+        {
+          "name": "c13_p074_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3f127c0c-5f80-4abf-bbfa-e8b694f7f869.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p073-redibujo12-v3.png"
+          ],
+          "prompt": "A very localized scenic edit to panel 6, right hand scene in third row: reproduce the entire same eight-panel 1024×1536 Spanish comic and every bubble as in Image 1. Panel 6 behind adult Daphne is a partial navy old yacht and its one bridge on the far LEFT under her speech, which is the only existing boat in this angle. Remove the duplicate rails/masts/second yacht-like object at the right background behind her blonde head. Replace this right background with only the very same pale distant rocky coastal shape, foliage and sunlight with blue water. Make the left gangway rest on a low dry pale rock shelf directly underneath its bottom sill instead of above open water, consistent with Image 2. Preserve exact pale shade and position of the left yacht. Do not change Daphne, Arianna, flute, gold necklace, hands, smiles or balloon. Preserve exact dialogue in that panel «Eso es ahora. Yo todavía recuerdo la noche en que apareciste en nuestra habitación con el pretexto del agua de manantial.». Keep all seven other panels exactly, including «Capítulo 13 · 74», accents and all typesetting. One finished page with eight panels and ivory gutter.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-89dfdcc8-5b54-4666-b218-fb507bd2604b.png"
+        }
+      ]
+    }
+  ]
+}
