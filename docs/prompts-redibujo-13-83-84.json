@@ -1,0 +1,188 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 83,
+  "end": 84,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 83,
+      "original": "paginas/c13-p083.webp",
+      "image": "paginas/c13-p083-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        649,
+        650
+      ],
+      "summary": "Draco intenta intervenir y recibe a Scorpius. Al quedar Blaise con los brazos libres, Valentina aprovecha para saludarlo con un abrazo y besos en las mejillas.",
+      "panels": [
+        {
+          "scene": "Dry low pale shore. Draco steps beside adult Blaise, platinum hair and slightly crooked blue-white striped shirt. Blaise holds one Scorpius pale platinum in gray wrap against navy shirt, not receiving yet. Adult Valentina in red facing them one step off, Allegra briefly visible at right with long wet chestnut and terracotta, two distinct women. Draco gives a brief nod toward them and says two names in one exact bubble tail only to Draco. White yacht anchored in middle distance with flag if seen.",
+          "dialogue": [
+            "Draco: Valentina. Allegra."
+          ]
+        },
+        {
+          "scene": "Valentina at center looks between Draco seen slightly in foreground and young Scorpius of the same hair color safe in Blaise's arms. Her recognizable dark high bun now bare of glasses, gaze brown, black wisps stick near neck. One exact recognition question in a bubble directed only to Valentina. Natural small expressions, dry stone shore behind.",
+          "dialogue": [
+            "Valentina: Draco, ¿cierto?"
+          ]
+        },
+        {
+          "scene": "Adult Draco seen in full neck and face portrait, pale platinum and eyes blue gray, light stripe shirt slightly misaligned, answers exactly one short word. Look toward Valentina, forearms empty. Natural slight surprise, no new words or infant in Draco's arms.",
+          "dialogue": [
+            "Draco: Sí."
+          ]
+        },
+        {
+          "scene": "Valentina left points one single index finger from her clearly connected RIGHT arm with her real stack of polished gold bracelets toward little Scorpius safe in Blaise's arms, her bare left hand nearer her side. Do not touch the baby. One exact Valentina question with correct tail and full punctuation. Blaise turns toward her, navy shirt and very short close tight black coils. Child curious, no ring or cap.",
+          "dialogue": [
+            "Valentina: ¿Es tuyo?"
+          ]
+        },
+        {
+          "scene": "The only handover. Draco now holds little Scorpius securely against light sky-blue striped linen, two steady supporting arms, one tiny hand of child grips his father's open collar. Blaise at left seen from back in navy shirt, his arms now empty just after letting go. Clearly one and only one infant, distinct pale platinum tuft and soft gray wrap. Only Draco says his complete line. Natural faces and safely placed weight.",
+          "dialogue": [
+            "Draco: Es mi hijo."
+          ]
+        },
+        {
+          "scene": "Valentina given a brief clearly one-sided friendly greeting over Blaise's shoulders, face towards him, her gold stack on RIGHT wrist if visible; her two natural arms are securely attached to her own shoulders. Blaise looks a little startled and keeps both bare wrists and open hands separate down or at chest, not returning the hug; glasses low and tightly cropped short black hair. Draco still holding two-arm supported Scorpius at right gives an apologetic look. One of each figure, adult head focus. No words."
+        },
+        {
+          "scene": "Ordinary cheek greeting in close medium view, Valentina turns her own head and gives a quick kiss to Blaise's outward cheek near his ear. Blaise's own nose and eyes point toward viewer, he looks understandably startled. Clearly side-cheek location, only glancing contact, not mouth-to-mouth. Valentina's palms and wrist low on his cheek with sensible natural anatomy and gold RIGHT wrist only. Same two adult heads. One whole exact two-sentence greeting under correct Valentina tail.",
+          "dialogue": [
+            "Valentina: Mírate. Sigues igual de guapo."
+          ]
+        },
+        {
+          "scene": "Blaise takes a small step backward and starts to reply, Valentina still holds him briefly at upper shoulders. He raises open bare hands away from her, no reciprocal grip. Trace each visible arm via steel navy shirt folds/Valentina bare right gold wrist appropriately. Same shoulders and faces. One exact final unfinished «Valentina, yo…» bubble tail to Blaise.",
+          "dialogue": [
+            "Blaise: Valentina, yo…"
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 83\n\nDraco intenta intervenir y recibe a Scorpius. Al quedar Blaise con los brazos libres, Valentina aprovecha para saludarlo con un abrazo y besos en las mejillas.\nDraco: Valentina. Allegra.\nValentina: Draco, ¿cierto?\nDraco: Sí.\nValentina: ¿Es tuyo?\nDraco: Es mi hijo.\nValentina: Mírate. Sigues igual de guapo.\nBlaise: Valentina, yo…",
+      "review": "PDF649–650: siete globos completos y correctos, uno por portavoz. Scorpius pasa solo en 5 de Blaise a Draco y Blaise mantiene sus rizos cortos. Valentina conserva los brazaletes derechos y orejas descubiertas y da el saludo en la mejilla. Los bebés y el velero/yate siguen bien diferenciados.",
+      "reviewDate": "2026-11-22",
+      "sha256": "ca828d8ccae86baf1e34fa23f8afdda631873ac58bc9a90e292d81f7917da8a5",
+      "masterSha256": "ae8fac82434ea24a69b8141b275f7aaaa30e0f2a1623c7335528c22b54c3b339",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p083-redibujo12-v2.png",
+      "selectedAttempt": "c13_p083_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p083_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p081-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p080-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p079-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p083.webp"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 83” once in black serif upper-left on the ivory top strip. Exactly eight panels, four rows of two with narrow ivory gutters, varied mid and face angles, balanced space for all Spanish accents. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Exact young-adult faces and outfits on low dry rocks. Blaise short closely packed black curls, navy linen/low black sunglasses and human Scorpius gray wrap, platinum + gray blue. Valentina recognizable damp dark high bun in red ordinary beach attire with gold stack on her RIGHT wrist only. Daphne gold/turquoise and her Arianna stay nearby.\nImage 2: Use adult Draco's platinum swept hair and gray-blue eyes, lightly striped blue/white linen shirt and cream shorts on low shore. New infant handover belongs in panel 5. Valentina no eyeglasses. Allegra has bare wrists, wet brown waves, separate visible complexion and pale terracotta swimsuit waist chain.\nImage 3: Single distant white modern motor yacht with stern green-white-red flag, separate far from navy family ketch. Match warm painted style, shoreline shadow/rocks and natural sleeves. No crew visible in this page.\nImage 4: Only existing storytelling order and the second affectionate cheek greeting, distinct from both adult lips. Ignore the visibly too long hair on Blaise in this earlier original; adopt exact compact coils in Image 1.\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/bareears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/bareears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nPrint seven precise Spanish balloons in 1,2,3,4,5,7,8 with all accents. Ordinary familiar 'hello' hug and cheek gesture, agreed family setting, no sexual visualization. No other text, no babies visible after handover outside clearly Draco's arms, gold stack only Valentina right. No tall duplicate ship or elves.\n\nPanel 1. Dry low pale shore. Draco steps beside adult Blaise, platinum hair and slightly crooked blue-white striped shirt. Blaise holds one Scorpius pale platinum in gray wrap against navy shirt, not receiving yet. Adult Valentina in red facing them one step off, Allegra briefly visible at right with long wet chestnut and terracotta, two distinct women. Draco gives a brief nod toward them and says two names in one exact bubble tail only to Draco. White yacht anchored in middle distance with flag if seen. Spanish balloons in order, exact wording: Draco says “Valentina. Allegra.”\n\nPanel 2. Valentina at center looks between Draco seen slightly in foreground and young Scorpius of the same hair color safe in Blaise's arms. Her recognizable dark high bun now bare of glasses, gaze brown, black wisps stick near neck. One exact recognition question in a bubble directed only to Valentina. Natural small expressions, dry stone shore behind. Spanish balloons in order, exact wording: Valentina says “Draco, ¿cierto?”\n\nPanel 3. Adult Draco seen in full neck and face portrait, pale platinum and eyes blue gray, light stripe shirt slightly misaligned, answers exactly one short word. Look toward Valentina, forearms empty. Natural slight surprise, no new words or infant in Draco's arms. Spanish balloons in order, exact wording: Draco says “Sí.”\n\nPanel 4. Valentina left points one single index finger from her clearly connected RIGHT arm with her real stack of polished gold bracelets toward little Scorpius safe in Blaise's arms, her bare left hand nearer her side. Do not touch the baby. One exact Valentina question with correct tail and full punctuation. Blaise turns toward her, navy shirt and very short close tight black coils. Child curious, no ring or cap. Spanish balloons in order, exact wording: Valentina says “¿Es tuyo?”\n\nPanel 5. The only handover. Draco now holds little Scorpius securely against light sky-blue striped linen, two steady supporting arms, one tiny hand of child grips his father's open collar. Blaise at left seen from back in navy shirt, his arms now empty just after letting go. Clearly one and only one infant, distinct pale platinum tuft and soft gray wrap. Only Draco says his complete line. Natural faces and safely placed weight. Spanish balloons in order, exact wording: Draco says “Es mi hijo.”\n\nPanel 6. Valentina given a brief clearly one-sided friendly greeting over Blaise's shoulders, face towards him, her gold stack on RIGHT wrist if visible; her two natural arms are securely attached to her own shoulders. Blaise looks a little startled and keeps both bare wrists and open hands separate down or at chest, not returning the hug; glasses low and tightly cropped short black hair. Draco still holding two-arm supported Scorpius at right gives an apologetic look. One of each figure, adult head focus. No words. No text.\n\nPanel 7. Ordinary cheek greeting in close medium view, Valentina turns her own head and gives a quick kiss to Blaise's outward cheek near his ear. Blaise's own nose and eyes point toward viewer, he looks understandably startled. Clearly side-cheek location, only glancing contact, not mouth-to-mouth. Valentina's palms and wrist low on his cheek with sensible natural anatomy and gold RIGHT wrist only. Same two adult heads. One whole exact two-sentence greeting under correct Valentina tail. Spanish balloons in order, exact wording: Valentina says “Mírate. Sigues igual de guapo.”\n\nPanel 8. Blaise takes a small step backward and starts to reply, Valentina still holds him briefly at upper shoulders. He raises open bare hands away from her, no reciprocal grip. Trace each visible arm via steel navy shirt folds/Valentina bare right gold wrist appropriately. Same shoulders and faces. One exact final unfinished «Valentina, yo…» bubble tail to Blaise. Spanish balloons in order, exact wording: Blaise says “Valentina, yo…”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-68234431-a988-4d31-934e-c7918953b616.png"
+        },
+        {
+          "name": "c13_p083_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-68234431-a988-4d31-934e-c7918953b616.png"
+          ],
+          "prompt": "Keep the exact full 1024×1536 illustrated eight-panel Spanish page «Capítulo 13 · 83» including every balloon, exact wording, position, colors, gestures and Chapter 12 painterly texture. In panel 7, bottom left, only remove the small shiny white stud on the EARLOBE of Valentina (woman on left with dark high bun). Her earlobe is bare flesh with natural highlights only, with no dot or earring because her only jewelry is the stack of gold bangles on her anatomical right wrist. Keep the cheek greeting, compact tight coils and navy shirt of Blaise, all posing, infant placement and light. In other panels if a tiny white spot looks like an earring on this same adult ear, remove it only, leave the natural ear shape. Strictly no other edits. Same eight panels and title and all known dialogue including final unfinished line, ivory gutters, no new wording.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-66fca100-2ca2-4366-b56e-6002d67500bd.png"
+        }
+      ]
+    },
+    {
+      "page": 84,
+      "original": "paginas/c13-p084.webp",
+      "image": "paginas/c13-p084-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        650,
+        651
+      ],
+      "summary": "Blaise pide a Valentina que lo suelte e intenta presentar a sus acompañantes. Astoria se adelanta con un saludo y las hermanas dan su apellido: Visconti.",
+      "panels": [
+        {
+          "scene": "On dry pale rocks. Blonde Daphne holding golden Arianna safely at her left hip lowers the adult orange flute and quietly catches Blaise's eyes, searching calm blue eyes, small plain cream pareo no print. In midground Valentina's embrace beside Blaise is around his shoulders/upper arms, safe family greeting; her dark high bun at right, gold stack only on actual right. Blaise startled, hands starting to rise clear of her. Clearly separate three adults and one child, no dialogue."
+        },
+        {
+          "scene": "Blaise openly, calmly places his hands lightly on Valentina’s two shoulders to guide her back and very clearly says exact two short sentences. Valentina's red clothes, dark bun, bangles, no glasses, shoulder-level view with visible separation of hands at adult size. Make both hands go to correct attached forearms from navy linen shoulders. Speech tail Blaise, no other speeches.",
+          "dialogue": [
+            "Blaise: Valentina. Tienes que soltarme."
+          ]
+        },
+        {
+          "scene": "Valentina lets her arms down and looks up with an ordinary familiar smile. One full exact sentence from Valentina. Her gold stack on right unchanged if visible. Face angle and tiny damp hair detail. Blaise already standing at respectful space, navy linen and short curls, no infant.",
+          "dialogue": [
+            "Valentina: Acabo de encontrarte después de un año."
+          ]
+        },
+        {
+          "scene": "Slightly wider view, Blaise and Valentina have completely released and visibly stand apart. Blaise low glasses, compact tight black curls, navy linen, speaks both exact prescribed sentences in a single wide readable print balloon. Valentina listening, no one else talking. Good closed diction and face from reference.",
+          "dialogue": [
+            "Blaise: Y yo estoy encantado de que continúes con vida. Pero hay varias personas a las que todavía no conoces."
+          ]
+        },
+        {
+          "scene": "Astoria with gray-blue eyes, ocher scarf and earth border cream pareo joins an adult Draco on dry shore. He holds little gray-wrapped platinum Scorpius against his open blue-white striped shirt. Astoria looks courteously and gives name only. Tail points to HER. Dark hair and features distinct from Allegra and Valentina.",
+          "dialogue": [
+            "Astoria: Astoria Greengrass."
+          ]
+        },
+        {
+          "scene": "Wide enough to show Astoria's own right arm reaching to Valentina's own right hand, not touching yet. Astoria has completely bare wrist and all fingers; her left hand idle. Daphne and Arianna nearby with Daphne's own flute, faces quietly observing. One question only from Astoria and correct clean tail.",
+          "dialogue": [
+            "Astoria: ¿Y ustedes son?"
+          ]
+        },
+        {
+          "scene": "Valentina at left (bareheaded wet black high bun, red swimsuit and RIGHT gold stack) and Astoria at right (earth pattern scarf, dark brown hair, hazel slate gray-blue eyes, terra/cream) shake with their TWO right hands in recognizable clasp. Valentina's left hand gestures to her younger adult sister Allegra in center distance, terracotta no left bangle, long wet chestnut foreground draping. Valentina speaks both sentences exactly. One white modern yacht in distance, no second white duplicate, none of the navy ketch necessary here, dry low rock.",
+          "dialogue": [
+            "Valentina: Valentina Visconti. Ella es mi hermana menor, Allegra."
+          ]
+        },
+        {
+          "scene": "Daphne quietly looks from Valentina to Allegra, arms safely supporting golden curly Arianna at hip, blue eyes and secure turquoise wrap. Her adult orange flute remains in free hand at safe distance. Relaxed unaffected expression. Background rocks, water and safe shore. No dialogue; she speaks next page."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 84\n\nBlaise pide a Valentina que lo suelte e intenta presentar a sus acompañantes. Astoria se adelanta con un saludo y las hermanas dan su apellido: Visconti.\nBlaise: Valentina. Tienes que soltarme.\nValentina: Acabo de encontrarte después de un año.\nBlaise: Y yo estoy encantado de que continúes con vida. Pero hay varias personas a las que todavía no conoces.\nAstoria: Astoria Greengrass.\nAstoria: ¿Y ustedes son?\nValentina: Valentina Visconti. Ella es mi hermana menor, Allegra.",
+      "review": "Se cotejaron los seis globos con PDF650–651. Blaise pide espacio y suelta las manos de sus hombros antes de las presentaciones. Astoria llega junto a Draco y Scorpius, saluda con claridad y Valentina presenta a Allegra. La cadena de cintura solo está con Allegra. Daphne mantiene a Arianna y conserva su propia copa.",
+      "reviewDate": "2026-11-22",
+      "sha256": "c9e3c8a40386a042fe55c5cc7e63babbb429bd0eebb6557c675720be7c11de8a",
+      "masterSha256": "6cf1a689f78b4871709b3869d551ae8c7c2b3afe4789e064a1308cbba1b0e0a8",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p084-redibujo12-v2.png",
+      "selectedAttempt": "c13_p084_redibujo12_v2.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p084_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p083-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p080-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p079-redibujo12-v3.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 84” once in black serif upper-left on the ivory top strip. Exactly eight family story panels. Rows 1–3 two at a time with second panel in row 2 a little wider for long line; bottom row contains panels 7 and 8 with 60 percent width for 7. Slim ivory gutters and readable subtle dark text. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Immediately previous page. Keep exact compact tight-cropped black coils, dark skin and low black glasses on Blaise, Valentina's tan/black high bun/short wet loose wisps/right gold stack/bright red, and Allegra long wet chestnut with terracotta and thin gold waist chain only. Draco now holds platinum Scorpius in gray wrap.\nImage 2: Astoria's ocher triangle scarf and long dark hair with gray-blue eyes, terracotta and earth-patterned cream pareo. Daphne turquoise opaque with cream pale plain wrap and her own orange flute, holding human golden blonde Arianna in turquoise.\nImage 3: Daytime cove, distinct navy wood anchored ketch far away and white yacht with one tricolor farther out. No elves, no other people in this scene. Exact linen drawing and natural skin close-up as prior.\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/PLAIN PALECREAMpareo(NO floral print)/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/BARENECK-ears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/BARENECK-ears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nSix exact balloons in panels 2 to 7. Right gold bangles on Valentina only, no earrings or other gold on her. Natural gentle gestures. Astoria dark brown hair, gray-blue eyes, bare hands, no orange cup until next page. Accurate slim child support, no cloned infants.\n\nPanel 1. On dry pale rocks. Blonde Daphne holding golden Arianna safely at her left hip lowers the adult orange flute and quietly catches Blaise's eyes, searching calm blue eyes, small plain cream pareo no print. In midground Valentina's embrace beside Blaise is around his shoulders/upper arms, safe family greeting; her dark high bun at right, gold stack only on actual right. Blaise startled, hands starting to rise clear of her. Clearly separate three adults and one child, no dialogue. No text.\n\nPanel 2. Blaise openly, calmly places his hands lightly on Valentina’s two shoulders to guide her back and very clearly says exact two short sentences. Valentina's red clothes, dark bun, bangles, no glasses, shoulder-level view with visible separation of hands at adult size. Make both hands go to correct attached forearms from navy linen shoulders. Speech tail Blaise, no other speeches. Spanish balloons in order, exact wording: Blaise says “Valentina. Tienes que soltarme.”\n\nPanel 3. Valentina lets her arms down and looks up with an ordinary familiar smile. One full exact sentence from Valentina. Her gold stack on right unchanged if visible. Face angle and tiny damp hair detail. Blaise already standing at respectful space, navy linen and short curls, no infant. Spanish balloons in order, exact wording: Valentina says “Acabo de encontrarte después de un año.”\n\nPanel 4. Slightly wider view, Blaise and Valentina have completely released and visibly stand apart. Blaise low glasses, compact tight black curls, navy linen, speaks both exact prescribed sentences in a single wide readable print balloon. Valentina listening, no one else talking. Good closed diction and face from reference. Spanish balloons in order, exact wording: Blaise says “Y yo estoy encantado de que continúes con vida. Pero hay varias personas a las que todavía no conoces.”\n\nPanel 5. Astoria with gray-blue eyes, ocher scarf and earth border cream pareo joins an adult Draco on dry shore. He holds little gray-wrapped platinum Scorpius against his open blue-white striped shirt. Astoria looks courteously and gives name only. Tail points to HER. Dark hair and features distinct from Allegra and Valentina. Spanish balloons in order, exact wording: Astoria says “Astoria Greengrass.”\n\nPanel 6. Wide enough to show Astoria's own right arm reaching to Valentina's own right hand, not touching yet. Astoria has completely bare wrist and all fingers; her left hand idle. Daphne and Arianna nearby with Daphne's own flute, faces quietly observing. One question only from Astoria and correct clean tail. Spanish balloons in order, exact wording: Astoria says “¿Y ustedes son?”\n\nPanel 7. Valentina at left (bareheaded wet black high bun, red swimsuit and RIGHT gold stack) and Astoria at right (earth pattern scarf, dark brown hair, hazel slate gray-blue eyes, terra/cream) shake with their TWO right hands in recognizable clasp. Valentina's left hand gestures to her younger adult sister Allegra in center distance, terracotta no left bangle, long wet chestnut foreground draping. Valentina speaks both sentences exactly. One white modern yacht in distance, no second white duplicate, none of the navy ketch necessary here, dry low rock. Spanish balloons in order, exact wording: Valentina says “Valentina Visconti. Ella es mi hermana menor, Allegra.”\n\nPanel 8. Daphne quietly looks from Valentina to Allegra, arms safely supporting golden curly Arianna at hip, blue eyes and secure turquoise wrap. Her adult orange flute remains in free hand at safe distance. Relaxed unaffected expression. Background rocks, water and safe shore. No dialogue; she speaks next page. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7314ca25-28c7-4777-b218-f316aaeb195a.png"
+        },
+        {
+          "name": "c13_p084_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-7314ca25-28c7-4777-b218-f316aaeb195a.png"
+          ],
+          "prompt": "Reproduce entire exact eight-panel 1024×1536 Spanish page «Capítulo 13 · 84» with same colors, six unchanged fully printed balloons, no new words. One tiny fix in panel 6 (third row right): the dark high-bunned ADULT in RED on right is Valentina; remove the small thin gold BELT-like chain around her waist in this one panel, replacing just that line with continuous warm skin. Keep exactly the stack of gold bangles on her right wrist, her red opaque normal swimsuit, face and movement, Daphne with secure infant and orange glass, Astoria's gently extended hand and question «¿Y ustedes son?». Maintain the follow-on handshake and the gold waist chain on the DIFFERENT younger woman Allegra in terracotta centered behind panel 7. All other scenes bodies, faces and words unchanged with exact color/canon. No new adornment anywhere.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-cd6cba3d-b9b6-411e-a392-ff6aec0b8f67.png"
+        }
+      ]
+    }
+  ]
+}
