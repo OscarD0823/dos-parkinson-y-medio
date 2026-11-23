@@ -1,0 +1,188 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 81,
+  "end": 82,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 81,
+      "original": "paginas/c13-p081.webp",
+      "image": "paginas/c13-p081-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        648
+      ],
+      "summary": "Draco baja deprisa mientras Astoria intenta alcanzarlo. Valentina descubre a Scorpius en brazos de Blaise y Allegra saluda a Pansy con un abrazo inesperado.",
+      "panels": [
+        {
+          "scene": "Draco leaves the navy anchored yacht's single open walkway area and hurries in front, turning toward plank exit. Light blue striped linen shirt on platinum adult a little askew: two middle buttons misaligned, cream shorts. Astoria in ocher scarf with damp dark brown loose curls, terracotta suit and cream printed pareo follows several steps behind on polished deck and calls ONE exact word. Wide enough to show dry deck and wood rail; one each, hands empty no infants.",
+          "dialogue": [
+            "Astoria: Draco."
+          ]
+        },
+        {
+          "scene": "One Draco taking hurried long step down the raked short plank gangway to the low dry pale stone, protects his balance with one naturally attached hand on rope rail. Astoria remains two steps behind and carefully follows, same dark-brown hair and scarf. Show end of gangway genuinely resting on flat dry stone, not immersed. Draco turns slightly and says his exact whole line; single balloon tail to him. Only two adults. Pale platinum and gray-blue eyes, shirt slightly misaligned as his hurry.",
+          "dialogue": [
+            "Draco: Te explico después."
+          ]
+        },
+        {
+          "scene": "One damp adult Valentina, black high bun, red ordinary swim top, gold right stack, is a step from Blaise on dry pale shore. Opens two natural arms in an exuberant greeting and stops short, maintaining space after she discovers platinum human Scorpius secured at Blaise's chest. Blaise dark navy linen, compact short black coils, lower rectangle black lenses. Daphne next to him still supports golden turquoise Arianna, adult flute safely held aside. Medium wide natural encounter, no dialogue."
+        },
+        {
+          "scene": "Facing reaction of Valentina surprised, eyes straight down toward platinum gray-clad Scorpius. Hands lower and relaxed, stay separate from child with no grabbing. Blaise at right keeps securely cradling him. The baby holds a fold of BL's own deep navy shirt in tiny fingers. One Valentina speech bubble head-level, exact line about baby.",
+          "dialogue": [
+            "Valentina: ¿Eso es un bebé?"
+          ]
+        },
+        {
+          "scene": "Blaise looks briefly down at the very same Scorpius, face quiet. One exact shortest reply with proper accent and body tail only to him. Daphne golden-haired beside holding light-golden Arianna in turquoise, watching quietly. Her own adult orange drink away from the baby's hands. Dry pale rocks, no duplicated yacht.",
+          "dialogue": [
+            "Blaise: Sí."
+          ]
+        },
+        {
+          "scene": "Blaise looks back at Valentina in red mostly seen from rear left, only his distinct near profile and low glasses, one exact line. Blonde Daphne turns her own head toward him at right, growing curious, Arianna in turquoise held securely. Scorpius continues held by Blaise. No seat transfer. Avoid crowd. One speech balloon with correct tail.",
+          "dialogue": [
+            "Blaise: Es un bebé."
+          ]
+        },
+        {
+          "scene": "Wider on the other group. Adult Allegra with long wet chestnut strands lying down and over shoulder, terracotta ordinary cover swim, left wrist bare and waist chain, surprises Pansy with a quick friendly shoulder hug, space around them, a few water drops on black shirt. Pansy takes a slight backward step and puts her unringed hands up awkwardly, without returning hug. Both of Allegra's arms anatomically connected to her two shoulders, each hand resting lightly on Pansy's shoulder line; show faces distinct. Hermione nearby at far left with chestnut Robin, cream wrap and navy captain cap, quietly watches. Readable long bubble with all THREE exact sentences points only to Allegra. Ordinary waterfront shoulders-focused greeting.",
+          "dialogue": [
+            "Allegra: ¡No puedo creer que seas tú! Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?"
+          ]
+        },
+        {
+          "scene": "Medium close view of adult dark-chin-bob Pansy with green eyes and low dark glasses, gold clip above left and black shirt, a little stiff yet polite, addresses chestnut-haired Allegra at left. Allegra's hands still gently resting on Pansy's shoulders, no P arms wrapped around her. Exact short one-word balloon tail to Pansy's mouth. No more words or extra people.",
+          "dialogue": [
+            "Pansy: Allegra."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 81\n\nDraco baja deprisa mientras Astoria intenta alcanzarlo. Valentina descubre a Scorpius en brazos de Blaise y Allegra saluda a Pansy con un abrazo inesperado.\nAstoria: Draco.\nDraco: Te explico después.\nValentina: ¿Eso es un bebé?\nBlaise: Sí.\nBlaise: Es un bebé.\nAllegra: ¡No puedo creer que seas tú! Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?\nPansy: Allegra.",
+      "review": "PDF648, siete globos completos incluidas las tres frases de Allegra sobre Portofino. Draco y Astoria bajan por una pasarela unida a roca, con camisa desalineada por la prisa. Valentina se detiene ante Scorpius en brazos de Blaise. Se distinguen sus dos manos de las de Blaise. Pansy sorprendida no devuelve el abrazo de Allegra; Hermione mantiene a Robin. Joyas y dos barcos coherentes.",
+      "reviewDate": "2026-11-22",
+      "sha256": "6d643662384b9d244e5f2c81f5ac39eaaf818e4ef5509156c97b830e88392281",
+      "masterSha256": "6f910cff19a1272ab2f9f3ce4787175545c0c65419bae9944e3f49307e7dcd85",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p081-redibujo12-v1.png",
+      "selectedAttempt": "c13_p081_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p081_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p079-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p080.webp",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p078-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p060-redibujo12-v4.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 81” once in black serif upper-left on the ivory top strip. Exactly eight panels, 4 rows of two. Final row slightly more width for panel 7 naturally fitting readable long line. Slim consistent ivory gutters. Warm painted novel mark with defined faces and hair. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Use the exact Valentina red high black wet bun with short tendrils and right gold stack, adult dark brown eyes and warm skin; Allegra terracotta with long hanging wet dark chestnut hair, gold waist chain but bare wrists. Their former glasses and Allegra's bangle stay on the motor boat. Match all cast and infant faces, human/clear hands, held wraps.\nImage 2: Only Draco platinum adult in short cream trousers with light blue-white striped linen shirt and gray-blue eyes; Astoria long dark hair with ocher patterned scarf, terracotta one-piece and cream rust pattern pareo tied at waist. Their exact costumes as appearing from the companionway. They are rushing this page. Ignore incorrect lower strokes or any old jewelry in reference.\nImage 3: For Blaise very short black tight curls, low black spectacles, dark navy shirt and safely held platinum gray Scorpius, and Pansy exact angular black chin-bob and green eyes, black shirt/black low sunglasses and gold clip. Hermione holds Robin and Daphne golden Arianna. No child changes hands on this page.\nImage 4: For polished timber and brass classic anchored navy ketch, stabilised small plank/rope gangway from correct deck opening to dry low rock in sunny cove. No crew visible now. White modern motor yacht separate beyond family.\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/bareears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/bareears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nOnly these seven prescribed speech balloons, no additional words in third panel. Keep title correct Spanish. Allegra's hair retains visibly wet weight and thin strands across shoulder; Valentina normal dark wet high bun with no glasses, gold stack only right. All passed conversations complete, sincere expressions. No D→B transfer yet. The left ring finger and H R P slim chain remain only on their proper anatomical left hands.\n\nPanel 1. Draco leaves the navy anchored yacht's single open walkway area and hurries in front, turning toward plank exit. Light blue striped linen shirt on platinum adult a little askew: two middle buttons misaligned, cream shorts. Astoria in ocher scarf with damp dark brown loose curls, terracotta suit and cream printed pareo follows several steps behind on polished deck and calls ONE exact word. Wide enough to show dry deck and wood rail; one each, hands empty no infants. Spanish balloons in order, exact wording: Astoria says “Draco.”\n\nPanel 2. One Draco taking hurried long step down the raked short plank gangway to the low dry pale stone, protects his balance with one naturally attached hand on rope rail. Astoria remains two steps behind and carefully follows, same dark-brown hair and scarf. Show end of gangway genuinely resting on flat dry stone, not immersed. Draco turns slightly and says his exact whole line; single balloon tail to him. Only two adults. Pale platinum and gray-blue eyes, shirt slightly misaligned as his hurry. Spanish balloons in order, exact wording: Draco says “Te explico después.”\n\nPanel 3. One damp adult Valentina, black high bun, red ordinary swim top, gold right stack, is a step from Blaise on dry pale shore. Opens two natural arms in an exuberant greeting and stops short, maintaining space after she discovers platinum human Scorpius secured at Blaise's chest. Blaise dark navy linen, compact short black coils, lower rectangle black lenses. Daphne next to him still supports golden turquoise Arianna, adult flute safely held aside. Medium wide natural encounter, no dialogue. No text.\n\nPanel 4. Facing reaction of Valentina surprised, eyes straight down toward platinum gray-clad Scorpius. Hands lower and relaxed, stay separate from child with no grabbing. Blaise at right keeps securely cradling him. The baby holds a fold of BL's own deep navy shirt in tiny fingers. One Valentina speech bubble head-level, exact line about baby. Spanish balloons in order, exact wording: Valentina says “¿Eso es un bebé?”\n\nPanel 5. Blaise looks briefly down at the very same Scorpius, face quiet. One exact shortest reply with proper accent and body tail only to him. Daphne golden-haired beside holding light-golden Arianna in turquoise, watching quietly. Her own adult orange drink away from the baby's hands. Dry pale rocks, no duplicated yacht. Spanish balloons in order, exact wording: Blaise says “Sí.”\n\nPanel 6. Blaise looks back at Valentina in red mostly seen from rear left, only his distinct near profile and low glasses, one exact line. Blonde Daphne turns her own head toward him at right, growing curious, Arianna in turquoise held securely. Scorpius continues held by Blaise. No seat transfer. Avoid crowd. One speech balloon with correct tail. Spanish balloons in order, exact wording: Blaise says “Es un bebé.”\n\nPanel 7. Wider on the other group. Adult Allegra with long wet chestnut strands lying down and over shoulder, terracotta ordinary cover swim, left wrist bare and waist chain, surprises Pansy with a quick friendly shoulder hug, space around them, a few water drops on black shirt. Pansy takes a slight backward step and puts her unringed hands up awkwardly, without returning hug. Both of Allegra's arms anatomically connected to her two shoulders, each hand resting lightly on Pansy's shoulder line; show faces distinct. Hermione nearby at far left with chestnut Robin, cream wrap and navy captain cap, quietly watches. Readable long bubble with all THREE exact sentences points only to Allegra. Ordinary waterfront shoulders-focused greeting. Spanish balloons in order, exact wording: Allegra says “¡No puedo creer que seas tú! Estaba hablando de Portofino hace apenas unos días. ¿Recuerdas aquel verano?”\n\nPanel 8. Medium close view of adult dark-chin-bob Pansy with green eyes and low dark glasses, gold clip above left and black shirt, a little stiff yet polite, addresses chestnut-haired Allegra at left. Allegra's hands still gently resting on Pansy's shoulders, no P arms wrapped around her. Exact short one-word balloon tail to Pansy's mouth. No more words or extra people. Spanish balloons in order, exact wording: Pansy says “Allegra.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-5f362998-2fe9-4ed4-9ccf-92cbb98ee929.png"
+        }
+      ]
+    },
+    {
+      "page": 82,
+      "original": "paginas/c13-p082.webp",
+      "image": "paginas/c13-p082-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        649
+      ],
+      "summary": "Allegra recuerda su amistad con Pansy, pero Hermione pide una explicación. Pansy se aparta con cuidado mientras Draco llega a la orilla.",
+      "panels": [
+        {
+          "scene": "First close side portrait of the two adult women standing on dry coastal stone. Allegra at right loosened the friendly shoulder hug enough to look at Pansy while still resting two open hands lightly around her shoulder line. Damp heavy long chestnut waves, eyes dark brown, terracotta opaque suit, bare wrists. Pansy at left relaxed angular recognizable face and short chin bob, green eyes over low dark lenses, black opaque linen shirt with a few water drops around her shoulders, single yellow clip. One whole Allegra balloon tail firmly to her.",
+          "dialogue": [
+            "Allegra: Sigues exactamente igual."
+          ]
+        },
+        {
+          "scene": "Side mid-wide, two adults increase space. Pansy left carefully guides each of Allegra's two wrists gently down away from her own shoulders: clearly separated plain Pansy hands (one LEFT chain with small H R P charms, right arm bare, ringless fingers), fully trace each wrist and elbows to appropriate woman. Allegra wrists plain after leaving single gold bangle on bench. Plan one pair of hands in foreground shown separately lower while other pair above at different depth rather than tangled. Pansy speaks her full line with punctuation. No person under arms.",
+          "dialogue": [
+            "Pansy: Y tú estás toda mojada."
+          ]
+        },
+        {
+          "scene": "Distinct medium neck-and-face portrait of the younger adult Allegra. Tapered dark wet chestnut strands hang naturally across shoulders, eyes dark brown, small smile after looking down at black shirt at frame edge. Tail of one exact cheeky sentence points only to her. No flashback, no body focus, no extra words.",
+          "dialogue": [
+            "Allegra: No es la primera vez que me ves mojada."
+          ]
+        },
+        {
+          "scene": "Quiet dry shore. Hermione wearing olive, chestnut messy bun and pale towel looks toward Allegra, steady one brow and clear classic freckles. Holds Robin safe against chest with anatomical right plain fingers securing upper blanket and left supporting at bottom with one halo diamond only on the ring finger. Robin's chestnut curls and green eyes with existing navy cap above cream blanket, knees physically supported. One full Spanish question from H's face, no other.",
+          "dialogue": [
+            "Hermione: ¿En qué circunstancias viste mojada a Pansy?"
+          ]
+        },
+        {
+          "scene": "Wide clear room between the pair. Pansy has let go and is one visible step back from adult Allegra. At left long wet-haired Allegra notices Hermione first, turns attention to Robin in her arms and right up to Hermione's face. Hermione at center steadily holds him. At right black bob Pansy glances at Hermione, free hands at sides, arms and positions apart. Exactly 3 adult figures and one child. No words."
+        },
+        {
+          "scene": "Black-haired Pansy with short jawline bob, left gold clip, eyes green over low dark sunglasses, turns toward Hermione and says the one incomplete address with one ellipsis after actual name, while Hermione facing left toward Allegra remains still. Natural adult features, black shirt opaque, beige rock background. Tail to Pansy.",
+          "dialogue": [
+            "Pansy: Hermione…"
+          ]
+        },
+        {
+          "scene": "Hermione at left answers calmly, holding same Robin safely and relying on only one left ring. Allegra in partial profile to right opens mouth slightly before responding silently, half of heavy wet chestnut hair in frame, a clear natural gap between them. One exact reply from Hermione, no invented answer.",
+          "dialogue": [
+            "Hermione: Quiero escucharla."
+          ]
+        },
+        {
+          "scene": "Wider dry-rock view, Draco just reaches Blaise from left, with same pale platinum hair, pale blue/white striped slightly askew shirt and cream shorts. Blaise with short tight cropped black coils and navy long-sleeve linen still holds pale platinum human Scorpius in soft gray wrap. Daphne far right blue gaze over her adult orange flute, her blonde child Arianna wrapped turquoise securely supported to hip. More shore setting and distant one white motor yacht with tricolor and elsewhere anchored navy wooded ketch, physically separate. No ship on dry land. No speaking yet."
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 82\n\nAllegra recuerda su amistad con Pansy, pero Hermione pide una explicación. Pansy se aparta con cuidado mientras Draco llega a la orilla.\nAllegra: Sigues exactamente igual.\nPansy: Y tú estás toda mojada.\nAllegra: No es la primera vez que me ves mojada.\nHermione: ¿En qué circunstancias viste mojada a Pansy?\nPansy: Hermione…\nHermione: Quiero escucharla.",
+      "review": "PDF649, seis globos completos, con tilde de «estás» normalizada y tratamiento de la elipsis. Se crean dos siluetas claras al bajar las muñecas y se conserva una sola cadena en la izquierda de Pansy. Con distancia entre las adultas y tres bebés, cada uno con portador correcto; Draco llega y todavía no recibe a Scorpius.",
+      "reviewDate": "2026-11-22",
+      "sha256": "ccc921e9f7b56563a2fe27a3bbfbfa75e4774b8a9b99c22eaf96e902c530ccea",
+      "masterSha256": "db39a7e40db4bd210d630f38465a838a3446cc5ec84930ee631c167d1101f208",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p082-redibujo12-v3.png",
+      "selectedAttempt": "c13_p082_redibujo12_v3.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p082_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p081-redibujo12-v1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p080-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p079-redibujo12-v3.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 82” once in black serif upper-left on the ivory top strip. Exactly eight panels, four two-panel rows. Last row second panel gets slightly more room for wider adult cast. Clean ivory gutters and consistent depth, painterly linen character shading. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Exact prior scene at low dry rocks. Adult Allegra long dark wet chestnut and terracotta, fine waist chain and bare left wrist after dive, her arms briefly on Pansy's shoulders. Pansy short dark chin-bob, left gold barrette, pale green eyes over her lowered dark lenses, opaque loose black shirt. Keep those distinctive faces, correct Chapter 12 painted profile and body scale; pull apart per new script. H/R and Daph/Ari and Blaise/Scorpius unchanged.\nImage 2: Exact still-relevant shade, ship and adult face mood. Hermione olive with cream towel holds capped deep chestnut Robin; one diamond on lower left supporting hand and upper plainly unringed, one sapphire in neck. Draco platinum blue-white striped linen with buttons then slightly misaligned by haste in 81; cream shorts. No Draco holding baby yet.\nImage 3: Hair continuity: Allegra's water-heavy long chestnut drooping locks in last panel; normal family adult seaside proportions and shapes. Only for hair and visual texture. No new crew or hats.\nSOURCE648-651 SAME LiGalli LOWrockshore/TURQUOISEsea/daylight, classicfamilyNAVYHULL-DARKWOOD2MASTKETCH/ALLSAILSFURLED/WOOD-ROPEgangwaytoLOWrock, SEPARATE WHITEpartyMOTORYACHT2levels/darkwindows/stainlessrails/LOWSTERNplatform-shortstairs/LARGEITALIANflagGREEN-WHITE-RED/farpartyguests. AllFOURtaupeelfcrew are GONE after79, noelfs/ghostsaboardorashore. H chestnutMESSYBUN/freckles/BROWNeyes/BLACKglasses/OLIVEonepiece/CREAMshouldertowel/frontal BLUEsapphire-clearhaloWHITEPLATINUMchainONLYnecklace/ONEdiamondLEFT RINGFINGERonly/RIGHTfingersPLAIN/BAREwrists/noBLUEearring. ShowherRIGHTsupporthand mostlyUNDERRobinwrap/OUTCROP toavoidduplicatingring; LEFTsingle-ringhandcansecurechildchest. P originalBLACKCHINBOB/angularGREENifvisible/BLACKglasses/LEFTgoldbarrette/BLACK2piece+OPEN BLACKLINENshirt/LEFTfineWHITEGOLD HRP BRACELET ONLY/ALLfingersPLAIN/BAREneck-ears. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/CREAMpareo/fineGOLDchain-tinyGOLDpendant/ORANGEmimosa keptADULT CUP outsideinfantreach. B DARKskin/DARKBROWN/shortBLACKtwists/BAREHEAD/BLACKglassesLOWnose/NAVYLINENSHIRT/NAVYshorts. D PLATINUM/STEELGRAYBLUEeyes/CREAMshorts/LIGHTBLUE-WHITE narrowSTRIPEDLINENshirt now2buttons slightlymisaligned afterhurriedexit648/noglasses. A LONGDARKBROWN/STEELGRAYBLUE/EARTHscarfwithloosestrands/TERRACOTTA button-frontswimuppergarment/CREAM-EARTHpatternPAREOwaist, nofingerjewels. SISTERS: V tannedwarmolive/DARKBLACKHIGHBUNwithWETloosestrands/DARK WALNUT BROWN irises(#5a3523)/REDopaque2piece/stackGOLD RIGHTbanglesSTAY/noglasses(glassesWHITEseat)/bareears-norings. Allegra LONGWETCHESTNUT/DARKWALNUTBROWN/softangularface/TERRACOTTAopaque2piece/fineGOLDWAISTCHAIN/LEFTbangleOFFonWHITEseat/bareears-fingers. NoGREEN/BLUEirisesonsisters. Allgreetings/hugs ordinaryawkwardbeachsocialmoments/face-focused/noarousingbodyposes,noexplicitactivity. Pshirt staysOPAQUEBLACKwhenwet,no seethrough. CHILDREN HUMAN/smoothskin/naturalindividualfingers-feet/safeparental support/noinfantglasses: RobinCHESTNUTGREEN/BLUE-YELLOWDUCKshorts/CREAMsmallwrap/ONE NAVYcaptainhatGOLDanchorBRIMUP heldbyH THROUGH84. AriannaLIGHTERGOLDENBLUE/TURQUOISEswimsuit-PALETURQwrap heldbyDAPHNEthrough84. ScorpiusPLATINUMSTEELGRAYBLUE/GRAYshorts-PALEGRAYwrap B holdsTHROUGH83panel4, thenSOURCE650 transfers B→DRACO83panel5 andDholdsafter. P&A freehands/no extra baby; BFREEarms after83transfer. No clonedinfants/actors. Stageonlynamedselectedcharacters ineachshot, keepothersoffscreenratherthancrowding.\nExactly six Spanish speech balloons in panels 1,2,3,4,6,7 (compare whole sentences). Actual eye directions, very distinguishable short black round bob vs long brown wet hair. No ring on Pansy or Allegra; Allegra both wrists plain. H's only ring left finger. Use ordinary fully covered afternoon reunion movement and natural arms, no exaggerated typography.\n\nPanel 1. First close side portrait of the two adult women standing on dry coastal stone. Allegra at right loosened the friendly shoulder hug enough to look at Pansy while still resting two open hands lightly around her shoulder line. Damp heavy long chestnut waves, eyes dark brown, terracotta opaque suit, bare wrists. Pansy at left relaxed angular recognizable face and short chin bob, green eyes over low dark lenses, black opaque linen shirt with a few water drops around her shoulders, single yellow clip. One whole Allegra balloon tail firmly to her. Spanish balloons in order, exact wording: Allegra says “Sigues exactamente igual.”\n\nPanel 2. Side mid-wide, two adults increase space. Pansy left carefully guides each of Allegra's two wrists gently down away from her own shoulders: clearly separated plain Pansy hands (one LEFT chain with small H R P charms, right arm bare, ringless fingers), fully trace each wrist and elbows to appropriate woman. Allegra wrists plain after leaving single gold bangle on bench. Plan one pair of hands in foreground shown separately lower while other pair above at different depth rather than tangled. Pansy speaks her full line with punctuation. No person under arms. Spanish balloons in order, exact wording: Pansy says “Y tú estás toda mojada.”\n\nPanel 3. Distinct medium neck-and-face portrait of the younger adult Allegra. Tapered dark wet chestnut strands hang naturally across shoulders, eyes dark brown, small smile after looking down at black shirt at frame edge. Tail of one exact cheeky sentence points only to her. No flashback, no body focus, no extra words. Spanish balloons in order, exact wording: Allegra says “No es la primera vez que me ves mojada.”\n\nPanel 4. Quiet dry shore. Hermione wearing olive, chestnut messy bun and pale towel looks toward Allegra, steady one brow and clear classic freckles. Holds Robin safe against chest with anatomical right plain fingers securing upper blanket and left supporting at bottom with one halo diamond only on the ring finger. Robin's chestnut curls and green eyes with existing navy cap above cream blanket, knees physically supported. One full Spanish question from H's face, no other. Spanish balloons in order, exact wording: Hermione says “¿En qué circunstancias viste mojada a Pansy?”\n\nPanel 5. Wide clear room between the pair. Pansy has let go and is one visible step back from adult Allegra. At left long wet-haired Allegra notices Hermione first, turns attention to Robin in her arms and right up to Hermione's face. Hermione at center steadily holds him. At right black bob Pansy glances at Hermione, free hands at sides, arms and positions apart. Exactly 3 adult figures and one child. No words. No text.\n\nPanel 6. Black-haired Pansy with short jawline bob, left gold clip, eyes green over low dark sunglasses, turns toward Hermione and says the one incomplete address with one ellipsis after actual name, while Hermione facing left toward Allegra remains still. Natural adult features, black shirt opaque, beige rock background. Tail to Pansy. Spanish balloons in order, exact wording: Pansy says “Hermione…”\n\nPanel 7. Hermione at left answers calmly, holding same Robin safely and relying on only one left ring. Allegra in partial profile to right opens mouth slightly before responding silently, half of heavy wet chestnut hair in frame, a clear natural gap between them. One exact reply from Hermione, no invented answer. Spanish balloons in order, exact wording: Hermione says “Quiero escucharla.”\n\nPanel 8. Wider dry-rock view, Draco just reaches Blaise from left, with same pale platinum hair, pale blue/white striped slightly askew shirt and cream shorts. Blaise with short tight cropped black coils and navy long-sleeve linen still holds pale platinum human Scorpius in soft gray wrap. Daphne far right blue gaze over her adult orange flute, her blonde child Arianna wrapped turquoise securely supported to hip. More shore setting and distant one white motor yacht with tricolor and elsewhere anchored navy wooded ketch, physically separate. No ship on dry land. No speaking yet. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-97a0e9c4-5060-443a-9ac2-8c39ac4410c7.png"
+        },
+        {
+          "name": "c13_p082_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-97a0e9c4-5060-443a-9ac2-8c39ac4410c7.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "One targeted anatomical jewelry adjustment only in panel 2, upper right, on this full page. Preserve all eight panels, header «Capítulo 13 · 82» and all exact Spanish letters, ivory gutter and artwork. In PANEL 2 Pansy is on LEFT and reaches two arms comfortably to guide Allegra's two wrists down. The wrist in FOREGROUND of Pansy is her nearer RIGHT arm, connected to her visible right shoulder at viewer left. REMOVE the chain from this lower, closer wrist, leaving that wrist and her fingers bare, same gesture. Move the same single very fine silver chain with tiny separate hanging printed H R P charms to Pansy's farther UPPER LEFT wrist, from her other shoulder behind. That upper left hand may be moved gently to a little closer to Allegra's upper wrist (towards center) so it clearly guides this separate hand and is not gripping her elbow. Detach visually the two pairs with two clean readable silhouettes; keep all four elbows and wrists belonging to correct women. Use the same natural fingers and poses, warm hair and faces. ALLEGRA still has NO jewelry on either wrist. Keep the full exact «Y tú estás toda mojada.» dialogue and its Pansy tail. Unchanged other seven panels, her head and hair, Hermione and Robin protected, and all prior word marks and lettering, including «Hermione…». No other changes.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-96d79e01-2725-4b60-b758-083f8060a056.png"
+        },
+        {
+          "name": "c13_p082_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-96d79e01-2725-4b60-b758-083f8060a056.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Copy the entire exact eight-panel 1024×1536 comic «Capítulo 13 · 82», with one tiny precision repair in panel 2 at the upper right. On the upper, farther LEFT forearm of black-haired Pansy there are currently TWO bracelets, one further up her forearm and one small one at her wrist. Remove BOTH of those old bracelets and fill with continuous skin. Then place ONE slim silver-link chain bracelet ONLY AT the true narrow wrist just before her upper hand (nearer to the hands) in exactly the same spot as the rightmost existing bracelet. That ONE slim linked chain has three small hanging clear letters H R P in that order, trio as seen in Image 2. There must be just ONE chain crossing her upper forearm at the wrist, bare skin along the rest. The OTHER LOWER wrist on Pansy stays bare along with both wrists of Allegra. All fingers on both women without rings. Preserve both natural arm poses and their two separated wrist-guiding gestures. This is a small single jewelry repair only. Do not change colors, panels, title, hair, hands, actors, story, garments, exact Spanish dialogue and lettering in ALL panels. No extra letters away from the tiny charm initials.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4cd46853-5f87-4c4c-9469-6d94d927ed00.png"
+        }
+      ]
+    }
+  ]
+}
