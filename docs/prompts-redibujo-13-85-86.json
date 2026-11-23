@@ -1,0 +1,231 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 85,
+  "end": 86,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 85,
+      "original": "paginas/c13-p085.webp",
+      "image": "paginas/c13-p085-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        651
+      ],
+      "summary": "Daphne se presenta como pareja de Blaise y madre de Arianna. Astoria identifica a Draco y a Hermione mientras las hermanas Visconti descubren a los bebés.",
+      "panels": [
+        {
+          "scene": "Daphne at left in turquoise/cream plain pareo holds her golden curly daughter Arianna in turquoise left hip/arm and her own orange glass in right hand. Turns eyes between Valentina red with dark high bun and her younger terracotta wet chestnut-haired sister. Daphne speaks just exact surname with clear tail. Natural distinct faces, quiet unfamiliar air.",
+          "dialogue": [
+            "Daphne: Visconti."
+          ]
+        },
+        {
+          "scene": "Valentina at left in red, dark eyes, wet high bun, gold stack exclusively on right wrist, speaks first. Gold-blonde Daphne at right blue eyed and pastel cream pareo replies second with exact words, Arianna safely in left arm turquoise. Two ordered distinct Spanish bubbles, not overlapping people and no extra speakers.",
+          "dialogue": [
+            "Valentina: Veo que conoces a mi familia.",
+            "Daphne: Conozco el apellido."
+          ]
+        },
+        {
+          "scene": "Portrait of only Valentina lifting an eyebrow, adult brown eyes and black high bun/no glasses, one exact question and correctly printed ellipsis and question mark. No other person speaks.",
+          "dialogue": [
+            "Valentina: ¿Y tú eres…?"
+          ]
+        },
+        {
+          "scene": "Wordless exact glass exchange. Daphne on screen left, cradles toddler Arianna securely at her left hip with visible left forearm. Daphne's anatomical RIGHT hand gives ONE orange flute (one glass) while Astoria screen right, in ocher scarf with slate-blue eyes and terracotta suit, receives it in her own LEFT hand, at a different height on stem to easily read both hands. Both wrists bare with no rings. Natural spatial separation and separate arms. No other text."
+        },
+        {
+          "scene": "Wide. Blaise on viewer's left, navy linen, short black tight curls and shaded low glasses. Daphne at center-right keeps Arianna safely on her LEFT hip (viewer right side) with that arm. She interlaces free RIGHT fingers with Blaise's LEFT close to their waist; a simple single figure of two tied hands belonging to those two shoulders, no additional arms. Bare adult wrists, no cup in either hand. Daphne introduces herself in exact two full sentences in one large legible bubble, tail directly toward only her.",
+          "dialogue": [
+            "Daphne: Daphne Greengrass. La novia de Blaise y la madre de Arianna."
+          ]
+        },
+        {
+          "scene": "Medium side of two different sisters one each. Valentina red and high dark bun with gold RIGHT stack, Allegra terracotta long wet chestnut bare wrists and waist chain, both look in quiet surprise down toward blonde Arianna at outer frame of Daphne's supporting arm. No captions or dialogue."
+        },
+        {
+          "scene": "Wider dry pale shore. Astoria dark long brown hair with ocher scarf shaded slate-blue eyes, now securely holds the sole orange adult flute in her own anatomical LEFT hand, uses RIGHT open natural palm to gesture to Draco beside in pale striped linen (some buttons disaligned) and one platinum gray wrap Scorpius attached in his arms. EXACT entire two-sentence long line, preserve 'cuñada' 'Él' and all punctuation, tail to Astoria. No extra glass.",
+          "dialogue": [
+            "Astoria: Daphne es mi hermana, así que también soy la cuñada de Blaise. Él es Draco Malfoy, mi novio, y ya conocieron a nuestro hijo."
+          ]
+        },
+        {
+          "scene": "Full width. Astoria left earth scarf, left hand owns orange flute, right gestures from her actual shoulder toward Hermione and Pansy while speaking exact full sentence. Hermione now in OLIVE collared flowing linen overshirt over olive swimsuit, ivory reminder towel on shoulders, high chestnut curly bun, one sapphire at neck, anatomically left supporting hand ring only, bare right hand at upper wrap, one Robin with human chestnut curls and navy cap with gold mark. Pansy at right no baby, exact angular bob and low glasses, left gold clip, black linen shirt, no rings, thin correct one LEFT wrist silver H R P chain if visible. Bodies clear and all dry towels. No other speakers.",
+          "dialogue": [
+            "Astoria: Y ella es Hermione Granger, la hermosa novia de Pansy."
+          ]
+        }
+      ],
+      "actualPanelCount": 8,
+      "transcript": "Capítulo 13 · 85\n\nDaphne se presenta como pareja de Blaise y madre de Arianna. Astoria identifica a Draco y a Hermione mientras las hermanas Visconti descubren a los bebés.\nDaphne: Visconti.\nValentina: Veo que conoces a mi familia.\nDaphne: Conozco el apellido.\nValentina: ¿Y tú eres…?\nDaphne: Daphne Greengrass. La novia de Blaise y la madre de Arianna.\nAstoria: Daphne es mi hermana, así que también soy la cuñada de Blaise. Él es Draco Malfoy, mi novio, y ya conocieron a nuestro hijo.\nAstoria: Y ella es Hermione Granger, la hermosa novia de Pansy.",
+      "review": "Se cotejaron siete globos íntegros con PDF651. La misma copa pasa de Daphne a la mano izquierda de Astoria y allí sigue al presentar a Draco y a Hermione. Daphne sostiene a Arianna y da una mano a Blaise. Hermione recupera la camisa de lino oliva. Bebés, joyas, portadores y los dos barcos se mantienen separados.",
+      "reviewDate": "2026-11-22",
+      "sha256": "e9c24b85517f7d5fae6874afa963a2f390844a781fc26ef9a5b7283a98b0d73a",
+      "masterSha256": "62a018601cb5d07a544a90260848c75c2f8e7e7e3f0a0cf9a150ea6db17cb6bd",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p085-redibujo12-v4.png",
+      "selectedAttempt": "c13_p085_redibujo12_v4.json",
+      "ocrMissingCandidates": [
+        "visconti",
+        "conoces",
+        "familia",
+        "conozco",
+        "apellido",
+        "draco"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p085_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p083-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p082-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p080-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p085.webp"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 85” once in black serif upper-left on the ivory top strip. Exactly eight panels. Rows as follows: 1 and 2 in first row, 3 and 4 in second with 4 wider, then full-width 5, panels 6 and 7 with 7 wider for entire speech, lastly full-width 8. Clear ivory gutters, established linen texture and color. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Familiar adults, Valentina red/dark high wet bun/right gold and Allegra terracotta/wet dark chestnut/bare wrists/gold waist chain. Draco now holds platinum gray Scorpius, Blaise's arms free and he keeps dark tight cropped curls and navy linen/black low specs.\nImage 2: Exact Daphne, blonde and blue eyed, turquoise one-piece cream plain pareo, right hand adult orange flute prior to transfer, golden Arianna cradled in turquoise in left arm. Hermione cream towel, chestnut curly updo and olive, holds Robin capped. Pansy short black chin bob, dark shirt left gold clip/low specs. Exact faces only, use new green overshirt for Hermione p8.\nImage 3: Astoria's exact slate-blue eyes, light earth print head scarf, terracotta suit and cream ocher-patterned pareo. Continuity of original sunny rocks and separate far anchored modern white yacht and navy timber ketch. No crew.\nImage 4: Layout inspiration and Hermione's loose green collared linen shirt in 8 ONLY. Use latest page references for faces, correct shorter coils and true hand ownership. Do not copy inaccurate hand orientation or older faces.\nSAME LOW SMOOTH PALE ROCKSHORE/turquoiseCOVE/daylight. FAMILYclassic2MAST NAVYHULL/DARKWOOD/WHITEtrim/BRONZE ketch ALLIVORYSAILSFURLED, WOODPLANK-PALE ROPEgangway toLOWROCK. SEPARATE largeWHITE PARTY MOTOR YACHT faroutsidecove: upperflybridge/mainpartydeck/darkwindows/stainlessrails/LOWSTERNplatform/shortcenterstairs/LARGEITALIANflag GREEN-WHITE-RED atSTERN, 12smallbackgroundguests. No closewhiteyachtrails behindonshorepeople. All4elfcrew GONE since79, noelves. H originalBROWNeyes/freckles/CHESTNUTMESSYBUN/BLACK RECT SUNGLASSES LOW NOSE/OLIVEonepiece NOWwithherexisting OLIVE COLLARED LINEN SHIRT returnedoverit/CREAMshouldertowel; blueSAPPHIRE-clearhalo WHITEPLATINUMchain frontalchest, ONEclearhaloDIAMOND onLEFT RINGfinger ONLY, RIGHTfingersPLAIN/BAREwrists/ears. Shirtreturntimingoffscreeninferred, source654explicitlyhercamisa. P originalangularGREENalmond/flatBLACKCHINBOB/LEFTgoldbarrette/BLACKRECTSUNGLASSES LOW NOSE/BLACKswimsuit+OPEN OPAQUE BLACKLINENshirt/BAREneck-ears/ALLfingersPLAIN/fineWHITEGOLD H/R/Pchain LEFTWRIST ONLY. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/PLAIN PALECREAMpareo/fineGOLDchain tinyGOLDpendant(noBLUEgem). B DARKskin/DARKBROWN/shortBLACKtwists/NAVYLINENshirt/NAVYshorts/BAREHEAD/BLACKRECTglassesLOWNOSE/BAREwrists-fingers. DracoPLATINUM/STEELGRAYBLUE/CREAMshorts/LIGHTBLUE-WHITE NARROW STRIPEDLINENshirt with2slightlymisalignedbuttons/nojewels-glasses. AstoriaLONGDARKBROWN/STEELGRAYBLUE/EARTHSCARF-loosewetstrands/TERRACOTTA button-frontuppergarment/CREAM-EARTHpatternPAREO/BAREfingers. ValentinaDARKBLACKHIGHBUN/wetstrands/tannedwarmolive/DARKWALNUTBROWNeyes/RED opaque swimsuit/stackGOLDbangles RIGHTWRIST ONLY/no glasses(theyareonWHITEseat)/bareears-fingers-neck. AllegraLONGWETCHESTNUT/DARKWALNUTBROWNeyes/TERRACOTTAopaque swimsuit/fineGOLDWAISTCHAIN stays/LEFTbangleOFFonWHITEseat/bareears-fingers. Face-focused everyday awkwardsocialconversation, naturalmodestposes/nobodyfocus. HUMANSmoothskinbabies/naturalindividualfingers/secureparentalarmunderbottom-back/noinfantglasses: ROBIN CHESTNUTcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/CREAMwrap/NAVYcaptainhatGOLDanchor BRIMUP heldHthrough87 thenP88; ARIANNA LIGHTGOLDENcurls/BLUEeyes/TURQUOISEswimsuit-PALETURQwrap heldDaphthrough87 thenB88; SCORPIUSPLATINUMtuft/STEELGRAYBLUE/GRAYshorts-PALEGRAYwrap heldDRACOthrough88. BFREEarmsbefore88, PFREEhandsbefore88. Oneofeachperson/child, NOclones. Stageonlyselectedcharacters perpanel, othersoffcrop. DaphORANGEadultmimosa cup handedtoASTORIA85p4, AkeepsLEFTcup, RIGHTgestures, awayfrombabies.\nSeven complete speech turns encoded in the script, ordered with 2 in panel 2 and none in 4 and 6. Do not add words. Each child held by established adult. Show only one orange flute in each picture, in Astoria's LEFT hand from handover. Two separate realistic vessels only in the very far background when needed; never duplicate white motor yacht. Distinct hand and cloth assignments, historically correct story continuity.\n\nPanel 1. Daphne at left in turquoise/cream plain pareo holds her golden curly daughter Arianna in turquoise left hip/arm and her own orange glass in right hand. Turns eyes between Valentina red with dark high bun and her younger terracotta wet chestnut-haired sister. Daphne speaks just exact surname with clear tail. Natural distinct faces, quiet unfamiliar air. Spanish balloons in order, exact wording: Daphne says “Visconti.”\n\nPanel 2. Valentina at left in red, dark eyes, wet high bun, gold stack exclusively on right wrist, speaks first. Gold-blonde Daphne at right blue eyed and pastel cream pareo replies second with exact words, Arianna safely in left arm turquoise. Two ordered distinct Spanish bubbles, not overlapping people and no extra speakers. Spanish balloons in order, exact wording: Valentina says “Veo que conoces a mi familia.” Daphne says “Conozco el apellido.”\n\nPanel 3. Portrait of only Valentina lifting an eyebrow, adult brown eyes and black high bun/no glasses, one exact question and correctly printed ellipsis and question mark. No other person speaks. Spanish balloons in order, exact wording: Valentina says “¿Y tú eres…?”\n\nPanel 4. Wordless exact glass exchange. Daphne on screen left, cradles toddler Arianna securely at her left hip with visible left forearm. Daphne's anatomical RIGHT hand gives ONE orange flute (one glass) while Astoria screen right, in ocher scarf with slate-blue eyes and terracotta suit, receives it in her own LEFT hand, at a different height on stem to easily read both hands. Both wrists bare with no rings. Natural spatial separation and separate arms. No other text. No text.\n\nPanel 5. Wide. Blaise on viewer's left, navy linen, short black tight curls and shaded low glasses. Daphne at center-right keeps Arianna safely on her LEFT hip (viewer right side) with that arm. She interlaces free RIGHT fingers with Blaise's LEFT close to their waist; a simple single figure of two tied hands belonging to those two shoulders, no additional arms. Bare adult wrists, no cup in either hand. Daphne introduces herself in exact two full sentences in one large legible bubble, tail directly toward only her. Spanish balloons in order, exact wording: Daphne says “Daphne Greengrass. La novia de Blaise y la madre de Arianna.”\n\nPanel 6. Medium side of two different sisters one each. Valentina red and high dark bun with gold RIGHT stack, Allegra terracotta long wet chestnut bare wrists and waist chain, both look in quiet surprise down toward blonde Arianna at outer frame of Daphne's supporting arm. No captions or dialogue. No text.\n\nPanel 7. Wider dry pale shore. Astoria dark long brown hair with ocher scarf shaded slate-blue eyes, now securely holds the sole orange adult flute in her own anatomical LEFT hand, uses RIGHT open natural palm to gesture to Draco beside in pale striped linen (some buttons disaligned) and one platinum gray wrap Scorpius attached in his arms. EXACT entire two-sentence long line, preserve 'cuñada' 'Él' and all punctuation, tail to Astoria. No extra glass. Spanish balloons in order, exact wording: Astoria says “Daphne es mi hermana, así que también soy la cuñada de Blaise. Él es Draco Malfoy, mi novio, y ya conocieron a nuestro hijo.”\n\nPanel 8. Full width. Astoria left earth scarf, left hand owns orange flute, right gestures from her actual shoulder toward Hermione and Pansy while speaking exact full sentence. Hermione now in OLIVE collared flowing linen overshirt over olive swimsuit, ivory reminder towel on shoulders, high chestnut curly bun, one sapphire at neck, anatomically left supporting hand ring only, bare right hand at upper wrap, one Robin with human chestnut curls and navy cap with gold mark. Pansy at right no baby, exact angular bob and low glasses, left gold clip, black linen shirt, no rings, thin correct one LEFT wrist silver H R P chain if visible. Bodies clear and all dry towels. No other speakers. Spanish balloons in order, exact wording: Astoria says “Y ella es Hermione Granger, la hermosa novia de Pansy.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d0c7cd13-7b07-4d88-8c9e-f212aea2e289.png"
+        },
+        {
+          "name": "c13_p085_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d0c7cd13-7b07-4d88-8c9e-f212aea2e289.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p080-redibujo12-v2.png"
+          ],
+          "prompt": "Targeted visual continuity corrections on this complete Spanish 1024×1536 comic. Preserve title «Capítulo 13 · 85», EXACT eight panels, seven entire printed balloons, all accents, and size/gutters. Panel 4 correct as-is, Daphne has given ONE orange flute to Astoria's anatomical LEFT hand. In panels 7 and 8 (the lower scene with Draco, then whole final row with Hermione), turn Astoria's two shoulders slightly forward to clearly read physical left and right. She is at the LEFT of EACH of these two panel frames with ocher scarf; put her one orange flute on the INNER side of her torso (viewer-facing-right side of Astoria's torso, connected to her own LEFT arm as in the finish of panel 4), carried neutrally near her hip or raised low against her torso. Her physical RIGHT arm from the outer shoulder extends upward and forward with its bare open palm gestures to adult Draco or Hermione, safely above / separated from the flute and correct arm connections. Preserve exactly one cup at each moment, no new gestures or extra arms. Panel 8 also remove the visible ring from Hermione's TOP hand as she cradles Robin: this top hand from her anatomical RIGHT side has bare fingers; her one ring finger left is underneath him below crop. Remove the little bracelet visible on the WRONG arm of black-haired Pansy in this bottom panel; that nearest crossing forearm is her right and must be bare, she may still have thin HRP chain on anatomical left now occluded, no rings. Keep H olive green shirt/scarf and blue necklace, five proper faces plus cap and exact clothes. Panel 3 remove Valentina's tiny visible dot of white pearl on earlobe, leave bare. Keep same shade. Do not alter other figures, poses, cloth, characters, background or lettering. Match same exact handover and baby anatomy.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bedfefe3-439d-4bb8-8c6c-67d496be4c3c.png"
+        },
+        {
+          "name": "c13_p085_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bedfefe3-439d-4bb8-8c6c-67d496be4c3c.png"
+          ],
+          "prompt": "Recompose only two panels of the full eight-panel 1024×1536 page «Capítulo 13 · 85» to make one prop and two hand actions clear. Keep panels 1–6 AS IS, except for removal of the one tiny earlobe stud from dark-haired Valentina in panel 3 (smooth bare earlobe tissue, no dot). Keep exact all printed Spanish dialogue and visual painterly style. PANEL 7 (fourth row right): place copper-printed scarf ASTORIA on the RIGHT side of the panel, Draco with his only gray-wrapped infant on the LEFT. Astoria faces slightly toward the camera, the LEFT hand is at outer viewer-right of her own torso with the same single orange glass now visible near her hip, and the RIGHT hand is nearer Draco and separately gestures palm up to him. One connected arm per shoulder, wrists bare. Make the fingers on the glass connected to Astoria's own left elbow. Same one unchanged exact two-sentence balloon, move its tail to the scarfed head now at RIGHT; leave room for every word. PANEL 8 (full bottom row): place Astoria on RIGHT, Hermione and infant Robin at center, Pansy with dark glasses and short black bob at LEFT. Astoria's outer LEFT arm at viewer-right of her body holds the single orange glass at waist/hip. Her other anatomical RIGHT hand closer to Hermione makes her presentation gesture. One full original Spanish balloon «Y ella es Hermione Granger, la hermosa novia de Pansy.» exactly, tail to Astoria on right. Pansy's near bare wrist and fingers stay unadorned. Hermione's upper right supporting fingers bare, one left ring only if her underneath supporting hand is visible. Separate shoulders and arms, no extra fingers or cups. Same olive shirt, cream towel, navy cap, black shirt and exact natural expressions. No new asset except the poses within these two panels. Retain all eight panels and unchanged text throughout, same baby carriers and clean gutters. Glass only on Astoria's anatomical left in panels 4, 7 and 8.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6d0eab2-e5f9-4d42-a2b9-ba2eca2fd250.png"
+        },
+        {
+          "name": "c13_p085_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-d6d0eab2-e5f9-4d42-a2b9-ba2eca2fd250.png"
+          ],
+          "prompt": "Only two tiny visual repairs on the exact full 8-panel comic «Capítulo 13 · 85». Preserve the exact Spanish text, accents, characters and all correctly assigned hands. PANEL 8 at bottom, eliminate the LEFT duplicate little white motor yacht high in the sea behind Pansy, between Pansy's black hair and Hermione's chestnut bun. Replace that one left boat with blue water and distant pale coast only. Retain the ONE white motor yacht at CENTER behind Robin's cap, with Italian flag; keep the separate navy wooden sailboat at far-right side. Do not change faces or arms including Astoria now on RIGHT with orange glass in her left hand. PANEL 3, little left panel in second row: only remove the discrete pinhead-white dot on the lower lobe of Valentina's near ear, the ear is at her viewer-left below the dangling hair. Paint that visible lobe as seamless tan flesh, no visible stud. Her only gold jewelry is at her right wrist (not visible in this portrait). Do not change hair or any other panel. Keep same 1024×1536 layout. Keep all original seven printed balloons with correct speaker.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4ae426de-b764-48a3-9bde-b65334661aa3.png"
+        }
+      ]
+    },
+    {
+      "page": 86,
+      "original": "paginas/c13-p086.webp",
+      "image": "paginas/c13-p086-redibujo12-v3.webp",
+      "sourcePdfPages": [
+        652
+      ],
+      "summary": "Valentina cuestiona las fechas de la relación de Blaise. Daphne protege la intimidad de Arianna y exige saber cómo se conocieron.",
+      "panels": [
+        {
+          "scene": "Short wordless three-adult view. At left wet-chestnut Allegra sees steady chestnut-haired Hermione in olive collared linen overshirt/cream towel holding Robin capped. Gold-anchor brim raised naturally reveals his green eyes and chestnut curls. Allegra looks between him and Pansy at right, who has very distinct green eyes and short angular black chin bob with gold clip. Child held safely with no hand exchanges. Natural degree of moist cloth. No words."
+        },
+        {
+          "scene": "Valentina looks at Blaise and says full question; gold wrist stack at her own anatomical right, no earrings, black high wet bun. Blaise with navy and dark glasses near Daphne in turquoise holding golden Arianna at her LEFT hip. Daphne's RIGHT hand and Blaise's LEFT remain linked down at waist. Single Valentina balloon with initial 'Espera.' and complete question, one line spacing and accents.",
+          "dialogue": [
+            "Valentina: Espera. ¿Tú tenías novia cuando nos conocimos el año pasado?"
+          ]
+        },
+        {
+          "scene": "Close Blaise slightly over shoulder, dark brown eyes above lowered black glasses, very short tightly cropped black curls. Exact one-word answer, no baby in his own arms. Silhouette and calm truthful expression.",
+          "dialogue": [
+            "Blaise: No."
+          ]
+        },
+        {
+          "scene": "Blaise on viewer left turns to Daphne at center; one visible pair gently joined from Blaise's LEFT and Daphne's RIGHT, relaxed adult hands and bare wrists. Daphne's left arm separate supports her daughter at her left hip. One full Blaise balloon, correct warm faces.",
+          "dialogue": [
+            "Blaise: No tenía novia."
+          ]
+        },
+        {
+          "scene": "Wide center scene left red Valentina glances at Arianna protected against turquoise mother, turns gaze back to adult Blaise. Both exact two sequential balloons are by Valentina with tails both aimed at her. First is «Entonces las fechas no tienen sentido.» then «Esa bebé es demasiado grande.». Three adults and one baby only in this panel. Daph and B hold hands at low waist with believable anatomy. Human proportions, no exaggerated expressions or unwanted body focus.",
+          "dialogue": [
+            "Valentina: Entonces las fechas no tienen sentido.",
+            "Valentina: Esa bebé es demasiado grande."
+          ]
+        },
+        {
+          "scene": "Blaise starts a hesitant, precise two-part thought from same head and face. His one balloon contains both separately printed ellipses. Daphne and her child safely visible, connection of B's left hand to Daph's right if in foreground, all bare. No other talk.",
+          "dialogue": [
+            "Blaise: Arianna no… Es decir, Daphne y yo…"
+          ]
+        },
+        {
+          "scene": "Daphne blue eyes, long blonde and tiny gold charm, composed firm look, turquoise suit and cream cover. Child safe on left hip facing into scene, no other gesture necessary. One exact Daphne balloon. Blaise stops his words next to her.",
+          "dialogue": [
+            "Daphne: La edad de nuestra hija no es información que te concierna."
+          ]
+        },
+        {
+          "scene": "Close Daphne face with slight lift of chin, gold-blonde long damp hair, sapphire belongs only to Hermione and is not in this scene. Her one gold charm stays. Her daughter is at the bottom if visible; Daphne speaks full exact question statement, tail to Daphne.",
+          "dialogue": [
+            "Daphne: Lo que sí me interesa saber es de dónde conoces a mi novio."
+          ]
+        },
+        {
+          "scene": "Quiet side close-up Valentina looking toward held hands of couple offcrop, then normal warm complex smile. Her alone in ordinary opaque red beach attire, dark brown iris and dark high bun wet tendrils, no new gold around waist, bare ears. One whole two-sentence reply in exact Spanish, tail Valentina. No flashback or new view, gentle same day cove.",
+          "dialogue": [
+            "Valentina: Nos conocimos durante unas vacaciones. Blaise fue muy buen anfitrión."
+          ]
+        }
+      ],
+      "actualPanelCount": 9,
+      "transcript": "Capítulo 13 · 86\n\nValentina cuestiona las fechas de la relación de Blaise. Daphne protege la intimidad de Arianna y exige saber cómo se conocieron.\nValentina: Espera. ¿Tú tenías novia cuando nos conocimos el año pasado?\nBlaise: No.\nBlaise: No tenía novia.\nValentina: Entonces las fechas no tienen sentido.\nValentina: Esa bebé es demasiado grande.\nBlaise: Arianna no… Es decir, Daphne y yo…\nDaphne: La edad de nuestra hija no es información que te concierna.\nDaphne: Lo que sí me interesa saber es de dónde conoces a mi novio.\nValentina: Nos conocimos durante unas vacaciones. Blaise fue muy buen anfitrión.",
+      "review": "Se cotejaron nueve globos con PDF652 y se verifica que las dos frases sobre las fechas tengan la misma portavoz. Blaise da la mano a Daphne y ella apoya a Arianna en su cadera. Valentina mantiene los brazaletes derechos y su mano aparte del grupo. Hermione sostiene a Robin, con mano derecha desnuda.",
+      "reviewDate": "2026-11-22",
+      "sha256": "ee10dd0fba4ce3442606f1e34762fc3124eae00692231d5cf5ddb097328a169a",
+      "masterSha256": "d5f0e6e5b609ca01796cce5d6cad910a18e199e7c3f5178697e64be17b2b738b",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p086-redibujo12-v3.png",
+      "selectedAttempt": "c13_p086_redibujo12_v3.json",
+      "ocrMissingCandidates": [
+        "tenia"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p086_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p084-redibujo12-v2.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p082-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/dist/paginas/c13-p085.webp"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 86” once in black serif upper-left on the ivory top strip. Exactly nine panels. First rows 1–2 and 3–4, third row full width panel 5, fourth row panels 6–7, fifth row panels 8–9. Skinny ivory gutters. Balanced short lines and readable large gestures in wide panel. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: This is the same group on dry shore. Exact Daph blonde/turquoise/plain cream pareo, blue eyes and golden curled human Arianna held at her LEFT hip. Exact Blaise short compact black coils/navy linen/black glasses low, both hands bare. Valentina in red with black high bun, dark eyes and right stack of gold bangles. Long wet-haired Allegra in terracotta no bracelets. At 86 Daph gave her flute away to Astoria and her free right hand holds Blaise's left.\nImage 2: Use exact distinct angular chin-length dark bob and green eyes on Pansy/left gold barrette/black opaque shirt, and Hermione high curly chestnut bun/cream towel, with olive collared linen overshirt NOW added. Holds chestnut-green Robin w cream towel, navy Anchor cap/blue duck shorts, upper right arm bare and left lower support with ONE ring. Distinct warm brush finish.\nImage 3: Only actual olive collared linen shirt below Hermione's pale towel, and positions and palette in the dry cove. Update linked hands using this page's pose directions and all faces from other refs. One yacht per type.\nSAME LOW SMOOTH PALE ROCKSHORE/turquoiseCOVE/daylight. FAMILYclassic2MAST NAVYHULL/DARKWOOD/WHITEtrim/BRONZE ketch ALLIVORYSAILSFURLED, WOODPLANK-PALE ROPEgangway toLOWROCK. SEPARATE largeWHITE PARTY MOTOR YACHT faroutsidecove: upperflybridge/mainpartydeck/darkwindows/stainlessrails/LOWSTERNplatform/shortcenterstairs/LARGEITALIANflag GREEN-WHITE-RED atSTERN, 12smallbackgroundguests. No closewhiteyachtrails behindonshorepeople. All4elfcrew GONE since79, noelves. H originalBROWNeyes/freckles/CHESTNUTMESSYBUN/BLACK RECT SUNGLASSES LOW NOSE/OLIVEonepiece NOWwithherexisting OLIVE COLLARED LINEN SHIRT returnedoverit/CREAMshouldertowel; blueSAPPHIRE-clearhalo WHITEPLATINUMchain frontalchest, ONEclearhaloDIAMOND onLEFT RINGfinger ONLY, RIGHTfingersPLAIN/BAREwrists/ears. Shirtreturntimingoffscreeninferred, source654explicitlyhercamisa. P originalangularGREENalmond/flatBLACKCHINBOB/LEFTgoldbarrette/BLACKRECTSUNGLASSES LOW NOSE/BLACKswimsuit+OPEN OPAQUE BLACKLINENshirt/BAREneck-ears/ALLfingersPLAIN/fineWHITEGOLD H/R/Pchain LEFTWRIST ONLY. DaphLONGWETBLONDE/BLUE/TURQUOISEonepiece/PLAIN PALECREAMpareo/fineGOLDchain tinyGOLDpendant(noBLUEgem). B DARKskin/DARKBROWN/shortBLACKtwists/NAVYLINENshirt/NAVYshorts/BAREHEAD/BLACKRECTglassesLOWNOSE/BAREwrists-fingers. DracoPLATINUM/STEELGRAYBLUE/CREAMshorts/LIGHTBLUE-WHITE NARROW STRIPEDLINENshirt with2slightlymisalignedbuttons/nojewels-glasses. AstoriaLONGDARKBROWN/STEELGRAYBLUE/EARTHSCARF-loosewetstrands/TERRACOTTA button-frontuppergarment/CREAM-EARTHpatternPAREO/BAREfingers. ValentinaDARKBLACKHIGHBUN/wetstrands/tannedwarmolive/DARKWALNUTBROWNeyes/RED opaque swimsuit/stackGOLDbangles RIGHTWRIST ONLY/no glasses(theyareonWHITEseat)/bareears-fingers-neck. AllegraLONGWETCHESTNUT/DARKWALNUTBROWNeyes/TERRACOTTAopaque swimsuit/fineGOLDWAISTCHAIN stays/LEFTbangleOFFonWHITEseat/bareears-fingers. Face-focused everyday awkwardsocialconversation, naturalmodestposes/nobodyfocus. HUMANSmoothskinbabies/naturalindividualfingers/secureparentalarmunderbottom-back/noinfantglasses: ROBIN CHESTNUTcurls/GREENeyes/BLUEshorts-YELLOWDUCKS/CREAMwrap/NAVYcaptainhatGOLDanchor BRIMUP heldHthrough87 thenP88; ARIANNA LIGHTGOLDENcurls/BLUEeyes/TURQUOISEswimsuit-PALETURQwrap heldDaphthrough87 thenB88; SCORPIUSPLATINUMtuft/STEELGRAYBLUE/GRAYshorts-PALEGRAYwrap heldDRACOthrough88. BFREEarmsbefore88, PFREEhandsbefore88. Oneofeachperson/child, NOclones. Stageonlyselectedcharacters perpanel, othersoffcrop. DaphORANGEadultmimosa cup handedtoASTORIA85p4, AkeepsLEFTcup, RIGHTgestures, awayfrombabies.\nNine prescribed balloons total (two in wide 5). No captions. The couple's hands stay linked, with simple anatomically believable interlaced or curled fingers where visible. No cup in this page. Daphne and Blaise never exchange Arianna here. Only the distant single white motor yacht and the different navy ketch if included; not directly at either rail.\n\nPanel 1. Short wordless three-adult view. At left wet-chestnut Allegra sees steady chestnut-haired Hermione in olive collared linen overshirt/cream towel holding Robin capped. Gold-anchor brim raised naturally reveals his green eyes and chestnut curls. Allegra looks between him and Pansy at right, who has very distinct green eyes and short angular black chin bob with gold clip. Child held safely with no hand exchanges. Natural degree of moist cloth. No words. No text.\n\nPanel 2. Valentina looks at Blaise and says full question; gold wrist stack at her own anatomical right, no earrings, black high wet bun. Blaise with navy and dark glasses near Daphne in turquoise holding golden Arianna at her LEFT hip. Daphne's RIGHT hand and Blaise's LEFT remain linked down at waist. Single Valentina balloon with initial 'Espera.' and complete question, one line spacing and accents. Spanish balloons in order, exact wording: Valentina says “Espera. ¿Tú tenías novia cuando nos conocimos el año pasado?”\n\nPanel 3. Close Blaise slightly over shoulder, dark brown eyes above lowered black glasses, very short tightly cropped black curls. Exact one-word answer, no baby in his own arms. Silhouette and calm truthful expression. Spanish balloons in order, exact wording: Blaise says “No.”\n\nPanel 4. Blaise on viewer left turns to Daphne at center; one visible pair gently joined from Blaise's LEFT and Daphne's RIGHT, relaxed adult hands and bare wrists. Daphne's left arm separate supports her daughter at her left hip. One full Blaise balloon, correct warm faces. Spanish balloons in order, exact wording: Blaise says “No tenía novia.”\n\nPanel 5. Wide center scene left red Valentina glances at Arianna protected against turquoise mother, turns gaze back to adult Blaise. Both exact two sequential balloons are by Valentina with tails both aimed at her. First is «Entonces las fechas no tienen sentido.» then «Esa bebé es demasiado grande.». Three adults and one baby only in this panel. Daph and B hold hands at low waist with believable anatomy. Human proportions, no exaggerated expressions or unwanted body focus. Spanish balloons in order, exact wording: Valentina says “Entonces las fechas no tienen sentido.” Valentina says “Esa bebé es demasiado grande.”\n\nPanel 6. Blaise starts a hesitant, precise two-part thought from same head and face. His one balloon contains both separately printed ellipses. Daphne and her child safely visible, connection of B's left hand to Daph's right if in foreground, all bare. No other talk. Spanish balloons in order, exact wording: Blaise says “Arianna no… Es decir, Daphne y yo…”\n\nPanel 7. Daphne blue eyes, long blonde and tiny gold charm, composed firm look, turquoise suit and cream cover. Child safe on left hip facing into scene, no other gesture necessary. One exact Daphne balloon. Blaise stops his words next to her. Spanish balloons in order, exact wording: Daphne says “La edad de nuestra hija no es información que te concierna.”\n\nPanel 8. Close Daphne face with slight lift of chin, gold-blonde long damp hair, sapphire belongs only to Hermione and is not in this scene. Her one gold charm stays. Her daughter is at the bottom if visible; Daphne speaks full exact question statement, tail to Daphne. Spanish balloons in order, exact wording: Daphne says “Lo que sí me interesa saber es de dónde conoces a mi novio.”\n\nPanel 9. Quiet side close-up Valentina looking toward held hands of couple offcrop, then normal warm complex smile. Her alone in ordinary opaque red beach attire, dark brown iris and dark high bun wet tendrils, no new gold around waist, bare ears. One whole two-sentence reply in exact Spanish, tail Valentina. No flashback or new view, gentle same day cove. Spanish balloons in order, exact wording: Valentina says “Nos conocimos durante unas vacaciones. Blaise fue muy buen anfitrión.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-060258e2-ba21-412a-a99d-67315a66538d.png"
+        },
+        {
+          "name": "c13_p086_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-060258e2-ba21-412a-a99d-67315a66538d.png"
+          ],
+          "prompt": "Correct three pairs of hands only within panels 1, 2 and 5 of the complete nine-panel Spanish page «Capítulo 13 · 86», preserving all other artwork and exactly all 9 speech balloons as existing. Panel 1 top left: Hermione's visible TOP hand (from viewer-left, her actual right) on Robin's cream wrap is ringless. Remove the bright ring from this one hand only, preserve fingers and hold. Her left support hand is hidden beneath the wrap. PANEL 2 top RIGHT: RED/outboard Valentina on LEFT keeps BOTH her own hands apart from Blaise; her far LEFT hand is relaxed lower on her own hip, not extending past the center or touching him. Blaise has compact short coils and a navy shirt in center, and his anatomical LEFT hand nearest blonde Daphne on his RIGHT holds ONLY Daphne's RIGHT hand. Their two natural hands joined low between Blaise and Daphne, visibly separate from Valentina to left. Daphne's other arm supports golden baby Arianna at her left hip. One Valentina question no words changed or clipped. PANEL 5 FULL WIDTH: keep three adults, red Valentina at LEFT with both hands away from the other people and gold RIGHT wrist, exactly two distinct adjacent dialogue balloons as in input both from Valentina. CENTER now use navy-shirt Blaise, RIGHT blonde turquoise Daphne with their little Arianna held safely in her left forearm at her own left hip. Blaise (at center-left of Daphne) has own LEFT arm gently holding Daphne's own RIGHT hand at waist in between, anatomy clear just like panel 4 and 6, his other arm unobtrusive. Daphne does not have two left arms, no child in Blaise's arms. Preserve exact recognizable faces, portholes, two yachts distant and distinct. Keep p3,4,6,7,8,9 identical, crisp letters with all accents and exact poses. No other changes, no added or lost words.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4f6fedb0-10f6-401d-93fe-90bd4ae3f803.png"
+        },
+        {
+          "name": "c13_p086_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4f6fedb0-10f6-401d-93fe-90bd4ae3f803.png"
+          ],
+          "prompt": "Copy the full exact illustrated 9-panel 1024×1536 Spanish comic «Capítulo 13 · 86». Only a tiny jewelry move in the top-right second panel: red-clad Valentina at left has one hand down on her HIP (her anatomically RIGHT hand and right wrist, around lower left x555 at y380). Put the same stack of gold bangles on that hip hand's wrist. Her OTHER upper arm that is raised palm up (the farther LEFT one around x650 y300) should be completely bare at wrist, so REMOVE those bangles from the raised arm only and move them to her far lower wrist. Preserve her three-quarter face, poses and whole exchange. The navy-shirt adult Blaise continues holding ONLY the blonde woman's hand. Preserve all other eight panels and figures exactly, including the other scenes where her gold wrist stack is already correct and her conversation line with both clauses «Espera. ¿Tú tenías novia cuando nos conocimos el año pasado?». Do not change any dialogue, exact accents, fingers, baby realism, furled sails, water, gutters or title. No added words.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-f1560b5b-2a37-4ff5-844c-4d92466233f1.png"
+        }
+      ]
+    }
+  ]
+}
