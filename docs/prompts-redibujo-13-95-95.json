@@ -1,0 +1,98 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 95,
+  "end": 95,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 95,
+      "original": "paginas/c13-p095.webp",
+      "image": "paginas/c13-p095-redibujo12-v2.webp",
+      "sourcePdfPages": [
+        659,
+        660
+      ],
+      "summary": "Pansy explica cómo conocieron a las hermanas Visconti en Portofino. Hermione pregunta por Allegra y por qué nunca la había mencionado.",
+      "panels": [
+        {
+          "scene": "Wide first present-time conversation at white stone terrace rail. Hermione at left, wet chestnut high curly bun and freckles facing Pansy, both forearms resting separately on dry rail. H brown eyes visible over low dark glasses, olive attire/white wrap, her one blue sapphire front at neck, only left ring. Pansy at right, opaque black collared linen w long turned up sleeves, emerald almond eyes above black shades and sleek black chin bob, gold clip near her own left. ONE large central balloon with all ORIGINAL text of Pansy giving Portofino story, starts «El año pasado» and ends «nos invitaron.» Every word. Tail to P. Set lines without covering face. No flashbacks.",
+          "dialogue": [
+            "Pansy: El año pasado, antes de regresar a Hogwarts, Blaise y yo pasamos unos días en Portofino. Draco y yo ya habíamos terminado nuestra relación y Blaise tampoco estaba con nadie. Los Visconti organizaron una fiesta en el yate de su familia y nos invitaron."
+          ]
+        },
+        {
+          "scene": "Medium chest and face portrait Hermione turns steady brown eyes toward Pansy at right outside view, correct neck pendant and no extra jewel at her ear. One complete question tail to H's mouth; blue sea/tiny far sailboat. Gesture natural.",
+          "dialogue": [
+            "Hermione: ¿Ahí conociste a Allegra?"
+          ]
+        },
+        {
+          "scene": "Broad side by side current adult portraits, Pansy right consistently calm, Hermione listening at left. Pansy exact complete reply in ONE big balloon with all sentences from «Sí. Blaise conocía» to «esas vacaciones.» Set small legible lines and punctuation. Clear clean tail to P. Her bare fingers and fine one chain on anatomical left only as they rest on dry rail. Natural layout to avoid cropping. No third person or flashback.",
+          "dialogue": [
+            "Pansy: Sí. Blaise conocía el apellido porque los Visconti aparecen en todos los eventos importantes de Italia, pero ninguno de los dos había tratado con ellas antes. Pasamos buena parte de la fiesta con Valentina y Allegra y volvimos a coincidir algunas veces durante esas vacaciones."
+          ]
+        },
+        {
+          "scene": "Hermione studies face, small adult worry with pushed-up lower brow, warm freckles and brown eyes, chestnut bun and only blue pendant at neck. Whole single line with usual accents and speech tail only to H. Shoulders and stone, soft white curtain.",
+          "dialogue": [
+            "Hermione: Cuando hablamos de las personas con las que habíamos estado, nunca la mencionaste."
+          ]
+        },
+        {
+          "scene": "Pansy replies to Hermione facing mostly toward viewer screen-left, revealing her angular cheek and short shaped bob, green and gold barrette left. Exact two sentences, semicolon AFTER «ocultártela;» (not comma), sentence remains complete in one balloon. One thin H R P chain at own LEFT wrist and bare fingers on rail if visible. Natural forearms. No other actions or diagrams.",
+          "dialogue": [
+            "Pansy: Porque Allegra y yo no estuvimos juntas de esa manera. No intenté ocultártela; simplemente no la consideré parte de esa conversación."
+          ]
+        },
+        {
+          "scene": "Wide view of both at same physical pale stone rail, no body contact or changed props. Hermione with brown eyes at left voices whole sentence and studies Pansy. Pansy's quiet downcast green gaze, black collar and exact bob. Angled shoulders and independent visible hands, H single halo LEFT ring finger and no other rings, P chain smaller and at left only. Rosemary to viewer right, small sailboats and one coastline. One quote from Hermione and nothing else.",
+          "dialogue": [
+            "Hermione: Ella parecía tener una interpretación distinta."
+          ]
+        }
+      ],
+      "actualPanelCount": 6,
+      "transcript": "Capítulo 13 · 95\n\nPansy explica cómo conocieron a las hermanas Visconti en Portofino. Hermione pregunta por Allegra y por qué nunca la había mencionado.\nPansy: El año pasado, antes de regresar a Hogwarts, Blaise y yo pasamos unos días en Portofino. Draco y yo ya habíamos terminado nuestra relación y Blaise tampoco estaba con nadie. Los Visconti organizaron una fiesta en el yate de su familia y nos invitaron.\nHermione: ¿Ahí conociste a Allegra?\nPansy: Sí. Blaise conocía el apellido porque los Visconti aparecen en todos los eventos importantes de Italia, pero ninguno de los dos había tratado con ellas antes. Pasamos buena parte de la fiesta con Valentina y Allegra y volvimos a coincidir algunas veces durante esas vacaciones.\nHermione: Cuando hablamos de las personas con las que habíamos estado, nunca la mencionaste.\nPansy: Porque Allegra y yo no estuvimos juntas de esa manera. No intenté ocultártela; simplemente no la consideré parte de esa conversación.\nHermione: Ella parecía tener una interpretación distinta.",
+      "review": "PDF659–660, seis globos íntegros, incluida la historia de Portofino, sus encuentros y el punto y coma del diálogo original. Se conservan la forma del rostro, la línea de cabello y los ojos propios de ambas. Los planos invertidos muestran una sola balaustrada, la fachada y las puertas de la misma terraza.",
+      "reviewDate": "2026-11-22",
+      "sha256": "14cff23ed8c490f4e060314e7c3935c27182e9604e6b9d98d4afad68467e34c2",
+      "masterSha256": "c2ec6cba20a0af913aea132dee9be1c37e0181c07bc1fec8728af79bb8bf3004",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p095-redibujo12-v2.png",
+      "selectedAttempt": "c13_p095_redibujo12_v2.json",
+      "ocrMissingCandidates": [
+        "parecia",
+        "tener",
+        "interpretacion",
+        "distinta"
+      ],
+      "attempts": [
+        {
+          "name": "c13_p095_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-4fb61f71-c1ba-4f22-9968-7707406376b1.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/disenos-capitulo-12/pansy-12-p095.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 95” once in black serif upper-left on the ivory top strip. Exactly six panels, four rows: first full-width 1; second row narrower panel 2 and broad panel 3; third row panels 4 and 5 with more space for long reply in 5; bottom full-width 6. Each narration sentence must fit inside clean rounded ivory balloon. Warm painterly chapter twelve proportions and natural faces. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Immediately preceding room and physical terrace only in last four panels: pale solid waist-height stone rail, natural curves of classical balusters, blue sea distant little boats, a terracotta pot with rosemary at right. Strong match of distinct mature younger female faces, complexion and facial planes of Chapter 12. H wet chestnut freckled high bun/olive swimsuit and plain pale cream hip wrap with one sapphire pendant at neck and one bare right wrist. P opaque black linen, cream shorts, very exact sleek angular black chin bob and gold LEFT hairclip, olive green eyes, lower black rectangle glasses on both.\nImage 2: Pansy's fixed face exactly: angular chin, lateral part, green eye, cheeks, not the freckles or bun of Hermione. Copy face/style only, no sleepwear or room.\nImage 3: Real anatomical left hand round halo ring for H only at LEFT ring finger, H wrists both bare. P only tiny fine H R P chain on LEFT, fingers all bare. Hair and clothes from Image 1. Do not copy any reference labels.\nSOURCE659+ upperPRIVATEBEDROOMandSEATERRACEofsameAmalfiMediterraneanvilla. Creamstuccowalls/paleWOODdoubleterracedoors/flowingCREAMsheercurtains/WHITE MARBLEfloor/wideWHITE STONE CLASSICAL BALUSTRADEwithsolidwaisthighcapandnaturalbalusters. BlueTyrrhenianSEA/distantSMALLsailboats/farcoast/LOWERlemon-gardens/brightwarmDAYLIGHT, nosunset/closeboatrails/hulldrawing/partyboatguests/elfs. WIDEoutdoorCREAMcushioned DARKWROUGHTIRON SOFA againstterracewall underCREAMawnings/oneTERRACOTTApotwithROSEMARYnearbalustrade (furniture/plantinferredsamevilla572forlater662-663continuity), naturalrealisticscale/stonebalustrade~waisthigh. P currentoriginalangularGREEN/flatBLACKCHINBOB/LEFTgoldbarrette/LOW BLACKRECTSUNGLASSES/OPAQUEBLACKcollaredLINENshirt+CREAMshorts/ALLfingersPLAIN/ONEfineWHITEGOLDHRPchainLEFTWRISTonly/BAREneck-ears. H CHESTNUTMESSYBUNfewloosewetstrands/freckles/BROWN/LOW BLACKRECTSUNGLASSES/OLIVEonepieceswimsuit/NOW PLAIN PALECREAM PAREO aroundwaist SOURCE659; OLIVElinenshirt andCREAMtowel/shorts TAKENOFFoffscreeninsidebedroom, nochangingdrawn. HfrontalMIDNIGHTBLUE ovalSAPPHIRE-CLEARhalo onfineWHITEPLATINUMchain, ONEclearhaloDIAMOND ANATOMICALLEFT RINGFINGER ONLY/RIGHTplain/BAREwrists/noearjewels. HsandCANVASbabybagTWOhandles remainsROOMoffcrop/notcarriedontoterrace. H/PareBOTH CHILDLESS. NeveraddRobin/Arianna/Scorpius/otheractorsintotheirprivateconversation. RstaysEirena/AristaysChiaradownstairs/D-Sdownstairs. AllconversationPRESENTTIMEatstonebalustrade unlesslaterstaged, noflashbacks/nudity/sexualactivity depicted; normalfullycoveredordinaryfamilyrelationshipdiscussion, face/shoulderandhandportraits, sameproportions/clearaccurateSpanishballoons. Twoownfaces/oneeach/nohandscloned/noringsduplicated. P BLACKCHINBOB keepsFLATstraightlocks fallinginfrontofLOWER EARLOBES asapproved93R4, lobesHIDDENbyhair/nocircularwhitepearls/studs, SAMECHINlength/LEFTbarrette, notlongerhair.\nAll six Spanish balloons exactly as supplied. Some long text deliberately in bigger clean oval space to keep the typography comfortable. The only title is above scene. No flashback illustration. Pansy and Hermione keep exact recognized adult faces and limbs through the same Laurel-toned Mediterranean daylight. Current intimate discussion, not suggestive staging.\n\nPanel 1. Wide first present-time conversation at white stone terrace rail. Hermione at left, wet chestnut high curly bun and freckles facing Pansy, both forearms resting separately on dry rail. H brown eyes visible over low dark glasses, olive attire/white wrap, her one blue sapphire front at neck, only left ring. Pansy at right, opaque black collared linen w long turned up sleeves, emerald almond eyes above black shades and sleek black chin bob, gold clip near her own left. ONE large central balloon with all ORIGINAL text of Pansy giving Portofino story, starts «El año pasado» and ends «nos invitaron.» Every word. Tail to P. Set lines without covering face. No flashbacks. Spanish balloons in order, exact wording: Pansy says “El año pasado, antes de regresar a Hogwarts, Blaise y yo pasamos unos días en Portofino. Draco y yo ya habíamos terminado nuestra relación y Blaise tampoco estaba con nadie. Los Visconti organizaron una fiesta en el yate de su familia y nos invitaron.”\n\nPanel 2. Medium chest and face portrait Hermione turns steady brown eyes toward Pansy at right outside view, correct neck pendant and no extra jewel at her ear. One complete question tail to H's mouth; blue sea/tiny far sailboat. Gesture natural. Spanish balloons in order, exact wording: Hermione says “¿Ahí conociste a Allegra?”\n\nPanel 3. Broad side by side current adult portraits, Pansy right consistently calm, Hermione listening at left. Pansy exact complete reply in ONE big balloon with all sentences from «Sí. Blaise conocía» to «esas vacaciones.» Set small legible lines and punctuation. Clear clean tail to P. Her bare fingers and fine one chain on anatomical left only as they rest on dry rail. Natural layout to avoid cropping. No third person or flashback. Spanish balloons in order, exact wording: Pansy says “Sí. Blaise conocía el apellido porque los Visconti aparecen en todos los eventos importantes de Italia, pero ninguno de los dos había tratado con ellas antes. Pasamos buena parte de la fiesta con Valentina y Allegra y volvimos a coincidir algunas veces durante esas vacaciones.”\n\nPanel 4. Hermione studies face, small adult worry with pushed-up lower brow, warm freckles and brown eyes, chestnut bun and only blue pendant at neck. Whole single line with usual accents and speech tail only to H. Shoulders and stone, soft white curtain. Spanish balloons in order, exact wording: Hermione says “Cuando hablamos de las personas con las que habíamos estado, nunca la mencionaste.”\n\nPanel 5. Pansy replies to Hermione facing mostly toward viewer screen-left, revealing her angular cheek and short shaped bob, green and gold barrette left. Exact two sentences, semicolon AFTER «ocultártela;» (not comma), sentence remains complete in one balloon. One thin H R P chain at own LEFT wrist and bare fingers on rail if visible. Natural forearms. No other actions or diagrams. Spanish balloons in order, exact wording: Pansy says “Porque Allegra y yo no estuvimos juntas de esa manera. No intenté ocultártela; simplemente no la consideré parte de esa conversación.”\n\nPanel 6. Wide view of both at same physical pale stone rail, no body contact or changed props. Hermione with brown eyes at left voices whole sentence and studies Pansy. Pansy's quiet downcast green gaze, black collar and exact bob. Angled shoulders and independent visible hands, H single halo LEFT ring finger and no other rings, P chain smaller and at left only. Rosemary to viewer right, small sailboats and one coastline. One quote from Hermione and nothing else. Spanish balloons in order, exact wording: Hermione says “Ella parecía tener una interpretación distinta.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3abf6348-156e-46a1-9e14-3cd99d26d729.png"
+        },
+        {
+          "name": "c13_p095_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3abf6348-156e-46a1-9e14-3cd99d26d729.png"
+          ],
+          "prompt": "Precise spatial cleanup in PANEL 1 and PANEL 6 (the first and last wide panels) of the complete 1024×1536 six-panel comic «Capítulo 13 · 95». Keep every Spanish dialogue word, accent, semicolon, balloon and tail exactly as currently printed. Keep each pose, face, hair, clothing and scale. In those two wide panels, the viewer looks slightly from OUTSIDE across the ONLY waist-high stone railing at the two women leaning from the terrace interior. The pale foreground stone cap where their elbows rest belongs to the ONLY railing. REPLACE the DUPLICATE pale stone baluster row behind their backs with the actual cream villa facade beside open wood double doors, individual flowing white gauze curtains and pale floor from Image 2 panel 5, suggesting the same pale villa wall across the terrace. A thin slice of horizon and pale coast may remain to the far RIGHT outside the rail's end around the original terracotta rosemary pot when camera oblique. NO additional stone fence in background or impossibly large sea inside house. Keep same exact wide compositions and faces. Also in opening PANEL 1, PANSY's two forearms: the top bare RIGHT hand (from her own shoulder at viewer-left) now has no bracelet, plain wrist, all fingers without rings. Her anatomical LEFT arm (from her viewer-right shoulder), slightly lower and mostly beside her, is where the lone small H R P linked chain belongs, if it is in the crop. Preserve Hermione's one diamond on her own anatomical LEFT hand only, teardrop at neck. All other four panels and prints completely unchanged. Same size, natural painted light, readable overall.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-0a983865-0bc7-4197-9ec6-3140dd61966e.png"
+        }
+      ]
+    }
+  ]
+}
