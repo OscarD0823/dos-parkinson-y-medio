@@ -1,0 +1,188 @@
+{
+  "chapter": 13,
+  "title": "La Dolce Vita",
+  "start": 91,
+  "end": 92,
+  "date": "2026-11-22",
+  "tool": "ImageGen integrada",
+  "styleAndCharacterReference": "Capítulo 12",
+  "sourcePdf": "E:/2_Parkison_y_Medio/cap1.pdf",
+  "sourceSha256": "825128282a8c289887703300259712b9d9b6a74611717cb03ea3a36ae7dd402f",
+  "scope": "Nuevo dibujo desde el PDF. Las transcripciones y la paginación del pasaje coinciden con la edición previa.",
+  "pages": [
+    {
+      "page": 91,
+      "original": "paginas/c13-p091.webp",
+      "image": "paginas/c13-p091-redibujo12-v4.webp",
+      "sourcePdfPages": [
+        656,
+        657
+      ],
+      "summary": "Blaise sigue a Daphne e intenta explicar lo ocurrido, en italiano y español. Pansy llega con Robin e intenta defenderse de su mirada.",
+      "panels": [
+        {
+          "scene": "Wide side view of lower span of same internal cream limestone staircase with wrought iron railing. Daphne long wet loose GOLD blonde hair, turquoise full suit and turquoise wrap, empty arms and previously walking fast toward upper floor, looks away ahead. BLAISE following a few steps below, adult black tight cropped tiny coils, dark skin, low black shades and navy linen shirt and shorts, open connected hand making ordinary earnest explanation. Both childless. Only one very large off-left balloon connected to Blaise, exactly all sentences and both translations, with natural lines and parentheses. No facial clone.",
+          "dialogue": [
+            "Blaise: Daphne, aspetta. Posso spiegarti (Daphne, espera. Puedo explicarte). Ocurrió una sola vez y fue hace mucho tiempo. Tú eres la única mujer de mi vida. L’unica, amore mio (La única, mi amor)."
+          ]
+        },
+        {
+          "scene": "Higher on same limestone staircase and upper landing. Change camera angle to view from below and almost from front three-quarter, Daphne further away and facing forward as she continues, Blaise follows, reaching only politely with own visible forearm. Neither holds anyone, Daphne doesn't reply. Large space for exact 3 sentences in ONE balloon with tail unmistakably to Blaise. Same navy shirt and hair/turquoise and blonde, quiet light and stairs. Not same position as previous.",
+          "dialogue": [
+            "Blaise: Ni siquiera sabía que estarían ahí. No he hablado con Valentina desde el año pasado. Daphne, por favor, mírame cuando intento salvar nuestra relación."
+          ]
+        },
+        {
+          "scene": "Back in quiet lower lounge from other angle. Exactly five mature adults at two cream sofas and wicker armchair by low walnut table: Markus in black with short goatee looks to Chiara; Eirena with black updo and blue pendant earrings terracotta, center Chiara rich dark skin champagne hat/gold dress and tiny gold bangles sets a single adult glass down and sighs; Lissandra in lemon and clean-shaven Caelum beige at right quiet. One open bottle and faint sunlight through curtains. No children or young people. No dialogue."
+        },
+        {
+          "scene": "Pansy mid-step arriving at last OUTDOOR sea entry stairs (upper internal stairs remain distinct at right in distance) onto lower villa lounge landing. Exact chin bob, left gold clip, lowered black specs, black collared linen and pale cream shorts, secure carries one human Robin on her hip in cream wrap over blue/yellow duck shorts, navy adult captain hat brim raised, chestnut curls and green eyes. Robin looking toward upper interior stairs, then looks back at Pansy. Correct right hand unadorned and left attached supporting underneath; tiny white-gold thin linked H R P bracelet only her LEFT, no rings. No words."
+        },
+        {
+          "scene": "Medium adult face and child's gentle puzzled frown. Pansy looks down to the chestnut boy securely at waist, head distinct, his cap with gold anchor/pale wrap, says both full short sentences. Tail only Pansy of black bob green eyes and low rectangle black lenses, shirt opaque black, gold hair clip visible on left as angle permits. No other people/words.",
+          "dialogue": [
+            "Pansy: No me mires así. Ya intenté explicárselo cinco veces."
+          ]
+        },
+        {
+          "scene": "Intimate family cheek-level conversation, different reverse view from her front right. Pansy sighs with normal subtle smile and says one exact sentence. Baby's own SMALL hand naturally rests on her opaque black shirt, looks up a little puzzled and furrows his brow; her arms safely support both legs and back out of crop. One visible navy gold cap, same person, size and wardrobe. Same villa daylight. No other words.",
+          "dialogue": [
+            "Pansy: Tú ni siquiera sabes qué ocurrió."
+          ]
+        }
+      ],
+      "actualPanelCount": 6,
+      "transcript": "Capítulo 13 · 91\n\nBlaise sigue a Daphne e intenta explicar lo ocurrido, en italiano y español. Pansy llega con Robin e intenta defenderse de su mirada.\nBlaise: Daphne, aspetta. Posso spiegarti (Daphne, espera. Puedo explicarte). Ocurrió una sola vez y fue hace mucho tiempo. Tú eres la única mujer de mi vida. L’unica, amore mio (La única, mi amor).\nBlaise: Ni siquiera sabía que estarían ahí. No he hablado con Valentina desde el año pasado. Daphne, por favor, mírame cuando intento salvar nuestra relación.\nPansy: No me mires así. Ya intenté explicárselo cinco veces.\nPansy: Tú ni siquiera sabes qué ocurrió.",
+      "review": "Cotejados PDF656–657. Se conservaron las dos expresiones italianas, sus traducciones y ambas intervenciones sin recortes; se corrigió el punto después del primer paréntesis. La segunda viñeta muestra el ascenso por las escaleras interiores. Pansy mantiene a Robin con sus rasgos y sombrero. Cuatro globos íntegros.",
+      "reviewDate": "2026-11-22",
+      "sha256": "2c4babc2a9afbeca2d0a0ba8ef49dbe2c4305e1c966768a79528c37d6372c981",
+      "masterSha256": "ebf3e515066a9d6fa0e5b5a2237ce985835ffd063191fc318f30688668b5abd6",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p091-redibujo12-v4.png",
+      "selectedAttempt": "c13_p091_redibujo12_v4.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p091_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-a762e815-ee36-44c2-9174-470b2a2e7754.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p089-redibujo12-v4.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p042-redibujo12-v3.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 91” once in black serif upper-left on the ivory top strip. Exactly six panels in four rows. Panel 1 alone full width with a large clean speech balloon taking left 58 percent and both actors at right. Panel 2 full width with alternate angle (avoid duplicated pose) and another large clear space for all words. Two side-by-side on third row and two side-by-side on fourth row, thin ivory gutters. Readable serif Spanish and Italian, correct accents. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Immediately preceding lounge continuity: bottom floor cream stone open arches and curtains, sea and private jetty stone stairs at left, inside staircase at right, five mature adults' original faces, upholstery, fruit and wine. Blaise compact cropped black coils in 1 and 9, dark skin and navy shirt/shorts/black low lenses, and Daphne childless turquoise full outfit and long golden wet hair. Match p2 seating age carefully. Chiara holds no towel and no infant.\nImage 2: Exact distinct adult Pansy with smooth short black chin-length bob, one gold clip on anatomical left, green eyes behind low dark glasses and black collared linen clothes. One dry cream wrap infant chestnut green-eyed Robin with one navy cap with gold anchor pulled up and blue yellow-duck shorts, now same adult holds him. Pansy has no rings. She put on oyster cream shorts before villa ascent, as new costume.\nImage 3: Only established mature adult faces and their signature ages/wardrobes, not architecture or prior banquet. Chiara hat champagne/gold, Eirena dark black updo with blue drops terracotta, Markus salt temples dark short goatee black shirt, older Lissandra blonde in luminous lemon with blue drops and mature Caelum clean-shaven gray-brown with beige linen.\nSOURCE655-658 TIMEJUMP AFTERCOVE/NEXT lowergardenVILLALOUNGE, notdinnerpergola/notupstairsoldsalon. WhiteCOLUMNS/ARCHES/lightCREAMcurtains/openviewsLOWERGARDEN/lemonleaves/SEA/privatejettyROCKSTAIRS outsideBACKLEFT. InternalordinarySTONESTAIRS toUPPERfloor BACKRIGHT. Creamupholstered darkWALNUTframe SOFAS/BLUEcushions, ONE LOW rectangularWALNUTCOFFEETABLE withfreshFRUIT/5adultwineglasses/ONEwinebottle (material/colorsinferredvillapalette); noflyingflowers/goldenorbs/highchairs/bassinet/banquetfood/longdiningtable/elves. FIVEolderadults onlyatfirst: MARKUS matureGREEN/sweptBROWN-GRAYtemples/neatDARKGOATEE/BLACKLINENshirt/BEIGEtrousers sitsLEFTsofa besideEIRENA matureGREEN/softBLACKUPDO/BLUEdropEARrings/DARKTERRACOTTAflowingankledress, noHnecklace/Pfaceclone. CHIARA matureBLACK/DARKBROWN/braidsUPDO/WIDECHAMPAGNEhat/CHAMPAGNEtop+ankleskirt/GOLDdropEARRINGS/stackGOLDbangles/DARKREDlips inCENTREarmchair; LISSANDRA matureBLUEeyes/BLONDEUPDO/LEMONYELLOW-SOFTGREEN SILKankledress/smallBLUEdropearrings/fineclearpendant/palegoldheels sitsRIGHTsofa closeCAELUM matureBROWN-GRAY/cleanSHAVEN(noMarkusgoatee)/BEIGE LINENjacket-trousers/IVORYopenshirt. Preserve matureindividualfaces from42/25, notyoungleadclones. Reuseolderadults'approvedclothes (sources655-658onlyexplicitLissandradress, othercolorsinference). ClearDAYLIGHT now, not42sunset. Returningyoungfamily keepscurrentfaces/LEFTjewels/attire exceptoffscreenreturnwardrobenecessityinferences: HwetCHESTNUTBUN/freckles/BROWN/LOWBLACKRECTSUNGLASSES/OLIVEcollaredLINENshirt/OLIVEonepiece/returnedCREAMshorts/CREAMshouldertowel/SANDCANVASRobinBAGwithTWOplainhandles(NOgreenRPmonogram)/frontalMIDNIGHTBLUEsapphireCLEARhaloWHITEPLATINUMchain/ONEdiamond LEFT RINGfingerONLY/RIGHTplain/BAREwrists. P BLACKCHINBOB/green/LOWBLACKRECTSUNGLASSES/leftGOLDbarrette/OPAQUEBLACKLINENshirt+BLACKswimsuit/returnedCREAMshorts/ALLfingersPLAIN/ONE fineWHITEGOLD H R P chainLEFTwrist/BAREears-neck. DAPHNE LONGWETBLONDE/BLUE/TURQUOISEonepiece/NOW TURQUOISE PAREO asSOURCE656explicit (changedoffscreenonreturnfromcoveCREAM)/fineGOLDchain-tinyGOLDpendant. B DARKskin/DARKBROWN/BLACKtwists/NAVYLINENshirt-NAVYshorts/LOWBLACKRECTglasses/barehead-wrists-fingers. DracoPLATINUM/STEELGRAYBLUE/CREAMshorts/LIGHTBLUE-WHITE NARROWSTRIPELINENshirt/nojewels-glasses. AstoriaLONGDARKBROWN/STEELGRAYBLUE/EARTHscarf/TERRACOTTAbuttonfront/CREAM-EARTHpareo/BOTHwristsBARE/noadultcupafter89. INFANTShuman/smoothflesh/naturalhands-feet/supportback-bottom: RobinCHESTNUT/GREEN/DUCKBLUEshorts/CREAMwrap/NAVYcaptainhatGOLDanchorBRIMUP alwaysP untilEirena receives92. AriannaLIGHTGOLDEN/BLUE/TURQswimsuit-PALETURQwrap NOWASTORIAfrom90p1 inferredreturnhandoff; ScorpiusPLATINUM/GRAYBLUE/GRAYshorts-PALEGRAYwrap NOWDRACOagain90p1 inferredreturnhandoff (bothnewholdersSOURCE657explicit). Bchildless91chasesDaph. H/DaphCHILDLESS always. All4crewelfsGONE, VISCONTIsremainbehindcove/notvilla. Noextraactors/clones/childwine. Eachpanelstageonlyselectedactors, otherssafelyoffcrop.\nThere are exactly 4 speech balloons altogether in panels 1,2,5,6. Do not shorten or replace any snippet of either Italian line or Spanish parenthetical translation. First balloon includes both «(Daphne, espera. Puedo explicarte).» and «L’unica, amore mio (La única, mi amor).». Second full with beginning «Ni siquiera» and closes «nuestra relación.». Only exact scripts; no new text of any kind. Use painted grain and original recognizable faces.\n\nPanel 1. Wide side view of lower span of same internal cream limestone staircase with wrought iron railing. Daphne long wet loose GOLD blonde hair, turquoise full suit and turquoise wrap, empty arms and previously walking fast toward upper floor, looks away ahead. BLAISE following a few steps below, adult black tight cropped tiny coils, dark skin, low black shades and navy linen shirt and shorts, open connected hand making ordinary earnest explanation. Both childless. Only one very large off-left balloon connected to Blaise, exactly all sentences and both translations, with natural lines and parentheses. No facial clone. Spanish balloons in order, exact wording: Blaise says “Daphne, aspetta. Posso spiegarti (Daphne, espera. Puedo explicarte). Ocurrió una sola vez y fue hace mucho tiempo. Tú eres la única mujer de mi vida. L’unica, amore mio (La única, mi amor).”\n\nPanel 2. Higher on same limestone staircase and upper landing. Change camera angle to view from below and almost from front three-quarter, Daphne further away and facing forward as she continues, Blaise follows, reaching only politely with own visible forearm. Neither holds anyone, Daphne doesn't reply. Large space for exact 3 sentences in ONE balloon with tail unmistakably to Blaise. Same navy shirt and hair/turquoise and blonde, quiet light and stairs. Not same position as previous. Spanish balloons in order, exact wording: Blaise says “Ni siquiera sabía que estarían ahí. No he hablado con Valentina desde el año pasado. Daphne, por favor, mírame cuando intento salvar nuestra relación.”\n\nPanel 3. Back in quiet lower lounge from other angle. Exactly five mature adults at two cream sofas and wicker armchair by low walnut table: Markus in black with short goatee looks to Chiara; Eirena with black updo and blue pendant earrings terracotta, center Chiara rich dark skin champagne hat/gold dress and tiny gold bangles sets a single adult glass down and sighs; Lissandra in lemon and clean-shaven Caelum beige at right quiet. One open bottle and faint sunlight through curtains. No children or young people. No dialogue. No text.\n\nPanel 4. Pansy mid-step arriving at last OUTDOOR sea entry stairs (upper internal stairs remain distinct at right in distance) onto lower villa lounge landing. Exact chin bob, left gold clip, lowered black specs, black collared linen and pale cream shorts, secure carries one human Robin on her hip in cream wrap over blue/yellow duck shorts, navy adult captain hat brim raised, chestnut curls and green eyes. Robin looking toward upper interior stairs, then looks back at Pansy. Correct right hand unadorned and left attached supporting underneath; tiny white-gold thin linked H R P bracelet only her LEFT, no rings. No words. No text.\n\nPanel 5. Medium adult face and child's gentle puzzled frown. Pansy looks down to the chestnut boy securely at waist, head distinct, his cap with gold anchor/pale wrap, says both full short sentences. Tail only Pansy of black bob green eyes and low rectangle black lenses, shirt opaque black, gold hair clip visible on left as angle permits. No other people/words. Spanish balloons in order, exact wording: Pansy says “No me mires así. Ya intenté explicárselo cinco veces.”\n\nPanel 6. Intimate family cheek-level conversation, different reverse view from her front right. Pansy sighs with normal subtle smile and says one exact sentence. Baby's own SMALL hand naturally rests on her opaque black shirt, looks up a little puzzled and furrows his brow; her arms safely support both legs and back out of crop. One visible navy gold cap, same person, size and wardrobe. Same villa daylight. No other words. Spanish balloons in order, exact wording: Pansy says “Tú ni siquiera sabes qué ocurrió.”\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-932a1db2-2df2-4ae1-9915-b9fa118af514.png"
+        },
+        {
+          "name": "c13_p091_redibujo12_v2.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-932a1db2-2df2-4ae1-9915-b9fa118af514.png"
+          ],
+          "prompt": "Recompose ONLY second wide panel of this exact full six-panel Spanish comic «Capítulo 13 · 91». In panel 2 the two adults are still going UP the SAME INSIDE pale limestone stair to upper villa from panel 1; present new diagonal side camera clearly showing treads that climb from low lower LEFT to high upper RIGHT landings. Freestanding inside stairs with stone wall, pale iron railing and a little green plant, no outdoor sea behind the top and no impression they are walking down. Blonde Daphne turquoise pareo and turquoise top (still childless) is several steps HIGHER near upper RIGHT, hurries UP away and does not turn around. Behind and BELOW her to left, navy-shirt Blaise with exact short very tight black coils and black low glasses, dark skin, opens one anatomically clear palm while he climbs. Everyone same adult faces, actual stair contact, baby-free. Only one wide unclipped original balloon for all three long sentences, anchored distinctly to Blaise below left. All Spanish text EXACT, preserve «Ni siquiera sabía que estarían ahí. No he hablado con Valentina desde el año pasado. Daphne, por favor, mírame cuando intento salvar nuestra relación.» including period, commas, accents and line content. ALL other FIVE artwork panels, words, two translations in first balloon, caregivers, same natural grain and exact title remain as in Image 1. Output whole exact page; change only this second panel's perspective.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b50ffaa3-b088-45cb-b291-02fd5236a885.png"
+        },
+        {
+          "name": "c13_p091_redibujo12_v3.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-b50ffaa3-b088-45cb-b291-02fd5236a885.png"
+          ],
+          "prompt": "Copy this exact completed six-panel 1024×1536 Spanish graphic novel page «Capítulo 13 · 91» with only two very small fixes. FIRST LARGE BALLOON PANEL 1: after «Puedo explicarte)» use a PERIOD, not a comma. Its complete exact typography is «Daphne, aspetta. Posso spiegarti (Daphne, espera. Puedo explicarte). Ocurrió una sola vez y fue hace mucho tiempo. Tú eres la única mujer de mi vida. L’unica, amore mio (La única, mi amor).» Set the line exactly, with an ordinary black point right after closing parenthesis before space and Ocurrió, every accent and all parentheses unchanged. Second scene on stairs only, change Daphne's gold high-heeled sandal soles to simple flat sand-colored leather sandal soles, same position and stance climbing UP, same turquoise clothing, long wet golden hair and body. No other changes, keep exact text in panel 2, same art, exact title and bottom Pansy dialogue, thin stable borders, navy shirt and B's correct very short tight curls, all cast and geometry identical. Nothing extra.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bc1a116f-4fec-44f1-b6c9-b0d2c3dd5ae2.png"
+        },
+        {
+          "name": "c13_p091_redibujo12_v4.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-bc1a116f-4fec-44f1-b6c9-b0d2c3dd5ae2.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-932a1db2-2df2-4ae1-9915-b9fa118af514.png"
+          ],
+          "prompt": "Exact six-panel 1024×1536 page «Capítulo 13 · 91». Keep art in every panel and keep exact text in 2,5,6. ONLY RE-TYPESET the long first bubble in panel 1. The exact wording AND punctuation for that single oval speech balloon is the same as the FIRST SPEECH BALLOON in second reference. Format it on these lines within a single bigger readable oval, not a comma after close parentheses, no stray extra punctuation: «Daphne, aspetta. Posso spiegarti\n(Daphne, espera. Puedo explicarte).\nOcurrió una sola vez y fue hace mucho\ntiempo. Tú eres la única mujer de mi vida.\nL’unica, amore mio (La única, mi amor).» In particular let closing punctuation for 'explicarte).' END line two AND start Ocurrió on the next line. Use exact every letter and accent, copy that first bubble's outer tail still to Blaise. Everything else including new flat sandals, steps moving upward, photo composition, Pansy holding Robin, exact title and three other balloons must be unchanged as first image. Just one new typography render of first balloon preserving other print, correct original words.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-481d7e8d-a8c2-47a1-a804-660882cc5f29.png"
+        }
+      ]
+    },
+    {
+      "page": 92,
+      "original": "paginas/c13-p092.webp",
+      "image": "paginas/c13-p092-redibujo12-v1.webp",
+      "sourcePdfPages": [
+        657
+      ],
+      "summary": "Pansy se encuentra con los adultos reunidos. Eirena recibe a Robin; Draco y Astoria llegan con Scorpius y Arianna.",
+      "panels": [
+        {
+          "scene": "The young woman Pansy reaches the lounge and finally notices Markus (older father, grey temples and charcoal goatee, black shirt) on left sofa. She holds baby Robin safely by back and hips in cream wrap, gold navy cap and blue duck shorts. One exact shortest line to Markus spoken by Pansy only. Natural stare.",
+          "dialogue": [
+            "Pansy: No preguntes."
+          ]
+        },
+        {
+          "scene": "Older grey-templed Markus of GREEN eyes, a short black goatee, and black collared linen. Opens two clear natural hands from his own arms in reassurance and speaks one exact sentence. Cream sofa and low fruit/wine table. No extra figures needed.",
+          "dialogue": [
+            "Markus: No he dicho nada."
+          ]
+        },
+        {
+          "scene": "Pansy adjusts Robin on secure hip, chestnut curls and his navy gold cap. She has black angular bob, one anatomical left gold clip, black linen and pale shorts. Brief exact Pansy line, head and right/left natural hands separate; one thin silvery left H R P bracelet only if clear, not a ring. One child here.",
+          "dialogue": [
+            "Pansy: Pero estás a punto."
+          ]
+        },
+        {
+          "scene": "Markus on left sofa looks amused like earlier p90, replies complete 'Estaba esperando...' statement from same obvious face. Eirena beside him in terracotta ankle dress, black mature updo and blue stone drops, leans to set wine glass down onto walnut coffee table. Exact source bubble pointing to Markus. No change in other older positions.",
+          "dialogue": [
+            "Markus: Estaba esperando a que terminaras de discutir con tu hijo."
+          ]
+        },
+        {
+          "scene": "Eirena now stands by sofa and stretches arms smoothly to receive Robin. Two clearly joined open hands and arms from Eirena's own terracotta sleeves. Pansy at right still holding boy securely with both forearms until next panel, black blouse and pale shorts. Both adults same older vs younger faces, green eyes in different skin tone, Eirena taller by posture. One exact Eirena reply.",
+          "dialogue": [
+            "Eirena: Dame a Robin."
+          ]
+        },
+        {
+          "scene": "Wide end of gentle infant handover. Eirena at left now solely carries ONE Robin close to her shoulder, both real arms secure, child's little hands against her terracotta sleeves, cream wrap and dark navy anchor cap, no white ring on her hands. Pansy at right no longer has child, short angular black chin bob, low black lenses and pale shorts. Exactly one readable open speech balloon with all TWO sentences, tail pointed only to Pansy. No crop or omission, warm same villa and distinct blue stone on Eirena's ears only.",
+          "dialogue": [
+            "Pansy: Perfecto. Al menos uno de nosotros puede retirarse antes de que empiece el interrogatorio."
+          ]
+        },
+        {
+          "scene": "Pansy off to right speaks toward Robin held by Eirena, disapproving little eyebrows on Robin but safely leaned to grandma. One exact short Spanish line from Pansy's bubble. Eirena looks down and hands are normal. No child speech/earrings on Pansy.",
+          "dialogue": [
+            "Pansy: No hace falta que tú también me juzgues."
+          ]
+        },
+        {
+          "scene": "No dialogue. Eirena lifts one eyebrow looking from Robin to Pansy, who straightens a little. One baby stays firmly safe in Eirena's arms. Cobalt drops on Eirena, no royal jewelry on P, correct baby wrap and cap. Calm age and character detail side portraits of both."
+        },
+        {
+          "scene": "Entrance to lower lounge from left side exterior stone entry. Platinum Draco now carries only one human Scorpius in gray wrap, pale blue-white striped linen, cream shorts. Astoria right next to him wears earth-colored scarf and terracotta, holds ONE bright turquoise wrap Arianna with golden curls against her chest, gray-blue own eyes. Older Lissandra warm blonde updo/lemon dress/blue earrings seated at right turns to them knowingly. Children firmly held, proper hands, no dialogue. No B, no duplicated mother or extra baby. Only one of each."
+        }
+      ],
+      "actualPanelCount": 9,
+      "transcript": "Capítulo 13 · 92\n\nPansy se encuentra con los adultos reunidos. Eirena recibe a Robin; Draco y Astoria llegan con Scorpius y Arianna.\nPansy: No preguntes.\nMarkus: No he dicho nada.\nPansy: Pero estás a punto.\nMarkus: Estaba esperando a que terminaras de discutir con tu hijo.\nEirena: Dame a Robin.\nPansy: Perfecto. Al menos uno de nosotros puede retirarse antes de que empiece el interrogatorio.\nPansy: No hace falta que tú también me juzgues.",
+      "review": "PDF657, siete globos completos y bien atribuidos. Pansy mantiene el bob y el aspecto del 12. Eirena toma a Robin y sostiene bien su peso. Draco vuelve con Scorpius gris y Astoria con Arianna turquesa; Lissandra conserva el vestido y los pendientes y sigue la llegada. Misma sala de la villa.",
+      "reviewDate": "2026-11-22",
+      "sha256": "31652820130542a9ed637ba796173b7ce0fa29ea78fb2fb8e10b4aabd0d239f6",
+      "masterSha256": "b2ad8af6638aa5f82f2d7dbff295bd18606bd5983d3f01d82a5ffaaf1e214449",
+      "workingMaster": ".local/maestros/capitulo-13-redibujo-desde-pdf/c13-p092-redibujo12-v1.png",
+      "selectedAttempt": "c13_p092_redibujo12_v1.json",
+      "ocrMissingCandidates": [],
+      "attempts": [
+        {
+          "name": "c13_p092_redibujo12_v1.json",
+          "tool": "ImageGen integrada",
+          "references": [
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p090-redibujo12-v3.png",
+            "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-932a1db2-2df2-4ae1-9915-b9fa118af514.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/maestros/capitulo-13-redibujo-desde-pdf/c13-p042-redibujo12-v3.png",
+            "F:/Proyectos/dos-parkinson-y-medio/.local/referencias/canon-joyas-manos-2026-11-16.png"
+          ],
+          "prompt": "Use case: illustration-story. Produce one complete 1024×1536 Spanish illustrated comic. Print exactly “Capítulo 13 · 92” once in black serif upper-left on the ivory top strip. Exactly nine panels, first row panels 1,2,3 in three columns. Second row panels 4,5, 4 wider. Third row full-width panel 6. Bottom row 7,8,9 with 9 about 45 percent width. Slim clear ivory gutters, slightly warmer fabric light, readable whole Spanish dialogue. Use complete narrow ivory gutters and black edges, warm Chapter-12 painterly linework with linen texture and individually recognizable natural faces. Dialogue must match each Spanish word, accent, punctuation, order and attribution; dark legible text, tails clearly attached to each indicated speaker.\nImage 1: Exact interior of lower Mediterranean villa with arches and white curtains, walnut low table, fruit and adult white wine. Rock stairs from jetty LEFT, separate inner steps RIGHT, cream seats and navy cushions. Mature adult Markus black/grey temples/goatee and Eirena terracotta ankle dress/dark updo/blue earrings, Lissandra lemon silk older updo. Keep same age and exact identity. Draco holds Scorpius gray, Astoria holds light golden Arianna turquoise by end.\nImage 2: Only exact Pansy related facial/color and clothes/child carrier details from bottom three panels. Black chin angular bob with left gold clip, pale green eyes, low black rectangle glasses, opaque black linen shirt and pale tailored shorts, cream-wrapped Robin chestnut curls and green eyes/navy captain hat gold anchor/blue yellow duck shorts. Other pictures and words in Image 2 are not included in this new page.\nImage 3: Older adult faces and gentle proportions: distinctive GOATEE and gray temples on older Markus, older Eirena elegant dark updo and small blue teardrops. Gold blonde Lissandra with yellow silk and soft mature expression. Do not copy banquet background/wardrobe elements.\nImage 4: Pansy wears only ONE correct thin silver bracelet with H R P in scale and only on LEFT anatomical wrist. All her fingers never have rings. No reference text or different poses. Eirena has only her established blue drops.\nSOURCE655-658 TIMEJUMP AFTERCOVE/NEXT lowergardenVILLALOUNGE, notdinnerpergola/notupstairsoldsalon. WhiteCOLUMNS/ARCHES/lightCREAMcurtains/openviewsLOWERGARDEN/lemonleaves/SEA/privatejettyROCKSTAIRS outsideBACKLEFT. InternalordinarySTONESTAIRS toUPPERfloor BACKRIGHT. Creamupholstered darkWALNUTframe SOFAS/BLUEcushions, ONE LOW rectangularWALNUTCOFFEETABLE withfreshFRUIT/5adultwineglasses/ONEwinebottle (material/colorsinferredvillapalette); noflyingflowers/goldenorbs/highchairs/bassinet/banquetfood/longdiningtable/elves. FIVEolderadults onlyatfirst: MARKUS matureGREEN/sweptBROWN-GRAYtemples/neatDARKGOATEE/BLACKLINENshirt/BEIGEtrousers sitsLEFTsofa besideEIRENA matureGREEN/softBLACKUPDO/BLUEdropEARrings/DARKTERRACOTTAflowingankledress, noHnecklace/Pfaceclone. CHIARA matureBLACK/DARKBROWN/braidsUPDO/WIDECHAMPAGNEhat/CHAMPAGNEtop+ankleskirt/GOLDdropEARRINGS/stackGOLDbangles/DARKREDlips inCENTREarmchair; LISSANDRA matureBLUEeyes/BLONDEUPDO/LEMONYELLOW-SOFTGREEN SILKankledress/smallBLUEdropearrings/fineclearpendant/palegoldheels sitsRIGHTsofa closeCAELUM matureBROWN-GRAY/cleanSHAVEN(noMarkusgoatee)/BEIGE LINENjacket-trousers/IVORYopenshirt. Preserve matureindividualfaces from42/25, notyoungleadclones. Reuseolderadults'approvedclothes (sources655-658onlyexplicitLissandradress, othercolorsinference). ClearDAYLIGHT now, not42sunset. Returningyoungfamily keepscurrentfaces/LEFTjewels/attire exceptoffscreenreturnwardrobenecessityinferences: HwetCHESTNUTBUN/freckles/BROWN/LOWBLACKRECTSUNGLASSES/OLIVEcollaredLINENshirt/OLIVEonepiece/returnedCREAMshorts/CREAMshouldertowel/SANDCANVASRobinBAGwithTWOplainhandles(NOgreenRPmonogram)/frontalMIDNIGHTBLUEsapphireCLEARhaloWHITEPLATINUMchain/ONEdiamond LEFT RINGfingerONLY/RIGHTplain/BAREwrists. P BLACKCHINBOB/green/LOWBLACKRECTSUNGLASSES/leftGOLDbarrette/OPAQUEBLACKLINENshirt+BLACKswimsuit/returnedCREAMshorts/ALLfingersPLAIN/ONE fineWHITEGOLD H R P chainLEFTwrist/BAREears-neck. DAPHNE LONGWETBLONDE/BLUE/TURQUOISEonepiece/NOW TURQUOISE PAREO asSOURCE656explicit (changedoffscreenonreturnfromcoveCREAM)/fineGOLDchain-tinyGOLDpendant. B DARKskin/DARKBROWN/BLACKtwists/NAVYLINENshirt-NAVYshorts/LOWBLACKRECTglasses/barehead-wrists-fingers. DracoPLATINUM/STEELGRAYBLUE/CREAMshorts/LIGHTBLUE-WHITE NARROWSTRIPELINENshirt/nojewels-glasses. AstoriaLONGDARKBROWN/STEELGRAYBLUE/EARTHscarf/TERRACOTTAbuttonfront/CREAM-EARTHpareo/BOTHwristsBARE/noadultcupafter89. INFANTShuman/smoothflesh/naturalhands-feet/supportback-bottom: RobinCHESTNUT/GREEN/DUCKBLUEshorts/CREAMwrap/NAVYcaptainhatGOLDanchorBRIMUP alwaysP untilEirena receives92. AriannaLIGHTGOLDEN/BLUE/TURQswimsuit-PALETURQwrap NOWASTORIAfrom90p1 inferredreturnhandoff; ScorpiusPLATINUM/GRAYBLUE/GRAYshorts-PALEGRAYwrap NOWDRACOagain90p1 inferredreturnhandoff (bothnewholdersSOURCE657explicit). Bchildless91chasesDaph. H/DaphCHILDLESS always. All4crewelfsGONE, VISCONTIsremainbehindcove/notvilla. Noextraactors/clones/childwine. Eachpanelstageonlyselectedactors, otherssafelyoffcrop.\nExactly seven speech balloons, panels 1–7. Wordless 8 and 9. Do not drop any words or accents, only exact supplied Spanish. Adults convincingly their own faces from Chapter 12 canon; Eirena and her daughter distinct. Actual real child hand and pelvis support. The viewpoint uses the same two real stairways and low table; open shore is through arches only.\n\nPanel 1. The young woman Pansy reaches the lounge and finally notices Markus (older father, grey temples and charcoal goatee, black shirt) on left sofa. She holds baby Robin safely by back and hips in cream wrap, gold navy cap and blue duck shorts. One exact shortest line to Markus spoken by Pansy only. Natural stare. Spanish balloons in order, exact wording: Pansy says “No preguntes.”\n\nPanel 2. Older grey-templed Markus of GREEN eyes, a short black goatee, and black collared linen. Opens two clear natural hands from his own arms in reassurance and speaks one exact sentence. Cream sofa and low fruit/wine table. No extra figures needed. Spanish balloons in order, exact wording: Markus says “No he dicho nada.”\n\nPanel 3. Pansy adjusts Robin on secure hip, chestnut curls and his navy gold cap. She has black angular bob, one anatomical left gold clip, black linen and pale shorts. Brief exact Pansy line, head and right/left natural hands separate; one thin silvery left H R P bracelet only if clear, not a ring. One child here. Spanish balloons in order, exact wording: Pansy says “Pero estás a punto.”\n\nPanel 4. Markus on left sofa looks amused like earlier p90, replies complete 'Estaba esperando...' statement from same obvious face. Eirena beside him in terracotta ankle dress, black mature updo and blue stone drops, leans to set wine glass down onto walnut coffee table. Exact source bubble pointing to Markus. No change in other older positions. Spanish balloons in order, exact wording: Markus says “Estaba esperando a que terminaras de discutir con tu hijo.”\n\nPanel 5. Eirena now stands by sofa and stretches arms smoothly to receive Robin. Two clearly joined open hands and arms from Eirena's own terracotta sleeves. Pansy at right still holding boy securely with both forearms until next panel, black blouse and pale shorts. Both adults same older vs younger faces, green eyes in different skin tone, Eirena taller by posture. One exact Eirena reply. Spanish balloons in order, exact wording: Eirena says “Dame a Robin.”\n\nPanel 6. Wide end of gentle infant handover. Eirena at left now solely carries ONE Robin close to her shoulder, both real arms secure, child's little hands against her terracotta sleeves, cream wrap and dark navy anchor cap, no white ring on her hands. Pansy at right no longer has child, short angular black chin bob, low black lenses and pale shorts. Exactly one readable open speech balloon with all TWO sentences, tail pointed only to Pansy. No crop or omission, warm same villa and distinct blue stone on Eirena's ears only. Spanish balloons in order, exact wording: Pansy says “Perfecto. Al menos uno de nosotros puede retirarse antes de que empiece el interrogatorio.”\n\nPanel 7. Pansy off to right speaks toward Robin held by Eirena, disapproving little eyebrows on Robin but safely leaned to grandma. One exact short Spanish line from Pansy's bubble. Eirena looks down and hands are normal. No child speech/earrings on Pansy. Spanish balloons in order, exact wording: Pansy says “No hace falta que tú también me juzgues.”\n\nPanel 8. No dialogue. Eirena lifts one eyebrow looking from Robin to Pansy, who straightens a little. One baby stays firmly safe in Eirena's arms. Cobalt drops on Eirena, no royal jewelry on P, correct baby wrap and cap. Calm age and character detail side portraits of both. No text.\n\nPanel 9. Entrance to lower lounge from left side exterior stone entry. Platinum Draco now carries only one human Scorpius in gray wrap, pale blue-white striped linen, cream shorts. Astoria right next to him wears earth-colored scarf and terracotta, holds ONE bright turquoise wrap Arianna with golden curls against her chest, gray-blue own eyes. Older Lissandra warm blonde updo/lemon dress/blue earrings seated at right turns to them knowingly. Children firmly held, proper hands, no dialogue. No B, no duplicated mother or extra baby. Only one of each. No text.\nNo other words, labels, marks or captions.",
+          "master": "C:\\Users\\odcon\\.codex\\generated_images\\01a19aa4-9a27-7a72-95be-575f5e452ca3\\exec-3f3b06a0-b955-4f07-969b-a10e8cf31756.png"
+        }
+      ]
+    }
+  ]
+}
